@@ -1,0 +1,13 @@
+$widget-height: 400px;
+
+div.chart-container {
+    height: $widget-height;
+    // width: 100%;
+    // margin-right: -10px;
+    &.invisible {
+        height: 0px;
+    }
+}
+div.anychart-credits {
+    display: none;
+}
