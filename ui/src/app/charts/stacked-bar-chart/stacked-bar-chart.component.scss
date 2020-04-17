@@ -1,0 +1,9 @@
+div.chart-container {
+    height: 400px;
+    &.invisible {
+        height: 0px;
+    }
+}
+div.anychart-credits {
+    display: none;
+}
