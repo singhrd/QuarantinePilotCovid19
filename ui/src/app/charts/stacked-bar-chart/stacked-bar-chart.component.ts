@@ -1,4 +1,5 @@
-import { Component, OnInit, ViewChild, ViewEncapsulation } from '@angular/core';
+import { Component, OnInit, OnDestroy, OnChanges, ViewChild, ViewEncapsulation, Input } from '@angular/core';
+import { ResultsPerDate } from '../../models/data-types';
 
 @Component({
   selector: 'app-stacked-bar-chart',
@@ -6,34 +7,46 @@ import { Component, OnInit, ViewChild, ViewEncapsulation } from '@angular/core';
   styleUrls: ['./stacked-bar-chart.component.scss'],
   encapsulation: ViewEncapsulation.None
 })
-export class StackedBarChartComponent implements OnInit {
+export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
   @ViewChild('container') container;
 
-  dataSet = anychart.data.set([
-    ['01/31/20', 12814, 3054, 4376, 4229],
-    ['02/01/20', 13012, 5067, 3987, 3932],
-    ['02/02/20', 11624, 7004, 3574, 5221],
-    ['02/03/20', 8814, 9054, 4376, 9256],
-    ['02/04/20', 12998, 12043, 4572, 3308],
-    ['02/05/20', 12321, 15067, 3417, 5432],
-    ['02/06/20', 10342, 10119, 5231, 13701],
-    ['02/07/20', 22998, 12043, 4572, 4008],
-    ['02/08/20', 11261, 10419, 6134, 18712],
-    ['02/09/20', 10261, 14419, 5134, 25712]
-  ]);
+  @Input() inputDataSet: any[];
 
-  // bar chart
-  chart = anychart.column();
+  // widget vars
+  alive = false;
 
+  // data set vars
+  data: Array<ResultsPerDate> = [];
+  dataSet: anychart.data.Set = null;
+
+  // chart vars
+  chart: anychart.charts.Cartesian = null;
+
+  /**
+   * Component constructor.
+   */
   constructor() { }
 
-  generateChart() {
-    // map data for the first series, take x from the zero column and value from the first column of data set
-    const seriesData1 = this.dataSet.mapAs({ x: 0, value: 1 });
-    const seriesData2 = this.dataSet.mapAs({ x: 0, value: 2 });
-    const seriesData3 = this.dataSet.mapAs({ x: 0, value: 3 });
-    const seriesData4 = this.dataSet.mapAs({ x: 0, value: 4 });
+  /**
+   * Load chart data into Set type from input data
+   */
+  loadChartData(): void {
+    this.dataSet = anychart.data.set(this.inputDataSet);
 
+  }
+
+  /**
+   * Generate chart element
+   */
+  generateChart(): void {
+    this.loadChartData();
+    // map data for the first series, take x from the zero column and value from the first column of data set
+    const seriesData1 = this.dataSet.mapAs({ x: 0, value: 1, label: 'Confirmed' });
+    const seriesData2 = this.dataSet.mapAs({ x: 0, value: 2, label: 'Deaths' });
+    const seriesData3 = this.dataSet.mapAs({ x: 0, value: 3, label: 'Recovered' });
+    const seriesData4 = this.dataSet.mapAs({ x: 0, value: 4, label: 'Active' });
+
+    this.chart = anychart.column();
     this.chart.animation(true);
     this.chart.yScale().stackMode('value');
 
@@ -65,8 +78,26 @@ export class StackedBarChartComponent implements OnInit {
     this.chart.draw();
   }
 
+  destroyChart(): void {
+    if (this.chart) {
+      if (this.chart.container()) {
+        this.chart.container().remove();
+      }
+      this.chart = null;
+    }
+  }
+
   ngOnInit(): void {
+    this.alive = true;
+  }
+
+  ngOnChanges(): void {
+    this.destroyChart();
     this.generateChart();
+  }
+
+  ngOnDestroy(): void {
+    this.alive = false;
   }
 
 }
