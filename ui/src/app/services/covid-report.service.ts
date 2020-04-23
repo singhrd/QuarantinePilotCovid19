@@ -14,33 +14,21 @@ export class CovidReportService {
 
   constructor(
     private http: HttpClient
-  ) {
-    // console.log('constructor');
-    // this.loadCovidResults().subscribe(res => {
-    //   if (res.snapshots) {
-    //     console.log(res.snapshots);
-    //     this.data = res.snapshots;
-        // this.data = res.snapshots.filter;
-        // console.log(this.data);
-    //   }
-    // });
-  }
+  ) { }
 
-  getResultsByCity(city: string): ResultsPerDate[] {
-    this.loadCovidResults().subscribe((res: ResultMessage) => {
-      if (res.snapshots) {
-        return res.snapshots.filter(item => item.province_state === city);
-      }
-    });
-    return null;
-  }
-
+  // getResultsByCity(city: string): ResultsPerDate[] {
+  //   this.loadCovidResults().subscribe((res: ResultMessage) => {
+  //     if (res.snapshots) {
+  //       return res.snapshots.filter(item => item.province_state === city);
+  //     }
+  //   });
   // }
+
   printResults() {
     return this.data;
   }
 
-  loadCovidResults() {
+  getCovidResults() {
     return this.http.get('/assets/sampleCovidSnapshot.json');
   }
 }
