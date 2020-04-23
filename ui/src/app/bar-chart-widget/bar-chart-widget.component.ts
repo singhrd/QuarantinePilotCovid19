@@ -11,7 +11,8 @@ import { ResultMessage } from '../models/data-types';
 export class BarChartWidgetComponent implements OnInit {
 
   // TODO make into dropdown for location
-  location = 'San Diego';
+  locations = ['San Diego', 'New York'];
+  selectedLocation = 'San Diego';
   dataSet = [];
   dataLabels = ['Date', 'Confirmed', 'Deaths', 'Active', 'Recovered'];
 
@@ -25,7 +26,7 @@ export class BarChartWidgetComponent implements OnInit {
     this.service.getCovidResults().subscribe((res: ResultMessage) => {
         if (res.snapshots) {
           // Filter based on location
-          const filteredData = res.snapshots.filter(item => item.province_state === this.location);
+          const filteredData = res.snapshots.filter(item => item.province_state === this.selectedLocation);
           console.log(filteredData);
 
           filteredData.forEach(entry => {
@@ -35,6 +36,12 @@ export class BarChartWidgetComponent implements OnInit {
         }
       });
 
+  }
+
+  selectLocation(loc: string) {
+    console.log('new location:', loc);
+    this.selectedLocation = loc;
+    this.populateDataSet();
   }
 
   ngOnInit(): void {

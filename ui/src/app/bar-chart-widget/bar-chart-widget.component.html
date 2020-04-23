@@ -1,10 +1,22 @@
 <div class="bar-chart-component-widget">
     <div class="card">
         <h3 class="card-title">
-            Covid-19 Cases: {{ location }}
+            Covid-19 Cases by Location
         </h3>
+        <div dropdown class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="locationDropdown" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                {{ selectedLocation }}
+            </button>
+            <div class="dropdown-menu scrollable-menu" aria-labelledby="locationDropdown">
+                <div *ngFor="let loc of locations">
+                    <button class="dropdown-item" type="button" (click)="selectLocation(loc)">{{ loc }}</button>
+                </div>
+            </div>
+        </div>
         <div class="card-body">
             <app-stacked-bar-chart [inputDataSet]="dataSet" [inputDataLabels]="dataLabels"></app-stacked-bar-chart>
         </div>
     </div>
+
 </div>

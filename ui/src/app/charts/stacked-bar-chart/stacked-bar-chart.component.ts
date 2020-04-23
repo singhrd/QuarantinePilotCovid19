@@ -43,7 +43,6 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
 
     // Create series data
     for (let idx = this.inputDataLabels.length - 1; idx > 0; idx--) {
-      console.log(idx, this.inputDataLabels[idx]);
       // Map data for each series, take x from the zero column and value from the column of data set
       this.chart.column(
         this.dataSet.mapAs({ x: 0, value: idx, label: this.inputDataLabels[idx] }))
@@ -57,8 +56,7 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
     this.chart.yAxis().labels().format('{%Value}{groupsSeparator: }');
 
     // Set titles for axes
-    this.chart.xAxis().title('Date');
-    // this.chart.yAxis().title('Revenue in Dollars');
+    // this.chart.xAxis().title('Date');
 
     // Set interactivity hover
     this.chart.interactivity().hoverMode('by-x');
