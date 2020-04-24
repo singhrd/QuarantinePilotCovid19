@@ -8,6 +8,6 @@ import spray.json._
  * 
  * @rsingh
  */
-case class SampleJson(p1: String, p2: Int)
+case class SampleJson(p1: String, p2: List[Int])
 
 

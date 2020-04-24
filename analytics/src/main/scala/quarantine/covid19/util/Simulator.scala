@@ -14,6 +14,9 @@ import quarantine.covid19.core.JsonSupport
 import quarantine.covid19.core.CovidSnapshots
 import quarantine.covid19.core.GeoLocation
 import quarantine.covid19.util.HelperFunctions
+import quarantine.covid19.core.Annotation
+import quarantine.covid19.core.Annotations
+import quarantine.covid19.core.SampleJson
 
 /**
  * We will use this for creating some dummy data that we will use to test the UI and verify some of the
@@ -119,10 +122,19 @@ object Simulator extends JsonSupport {
 
   def main(args: Array[String]) {
     
-//    println(getDate("03/04/020"))
-    val listSimulator = createSampleCovidSnapshots(200, "03/01/2020")
+    val sJ = SampleJson("1", List(1,2))
+    println("Test " + sampleJsonImplicit.write(sJ))
+//    println(HelperFunctions.beforeOrEqual("03/05/2020", "03/01/2020"))
+////    println(getDate("03/04/020"))
+//    val listSimulator = createSampleCovidSnapshots(200, "03/01/2020")
+//    val listSimulatorA = createSampleCovidSnapshots(200, "03/05/2020")
+//    
+//    println("Before Sorting")
+//    println(listSimulatorA++listSimulator)
+//    println("After Sorting")
+//    println(HelperFunctions.sortSnapshots(listSimulatorA++listSimulator))
     
-    listSimulator.foreach(println(_))
+//    listSimulator.foreach(println(_))
     
     val listSimulator2 = createSampleCovidSnapshots(List[(String,Int)](("03/01/2020",100), ("03/02/2020",200),("03/03/2020",50),
                                                      ("03/04/2020",300),("03/05/2020",250),
@@ -132,10 +144,13 @@ object Simulator extends JsonSupport {
     
     listSimulator2.foreach(l => println(covidSnapshotJsonImplicit.write(l)))
     
-    val cumulativeState = HelperFunctions.createCumulativeCovidSnapshots(CovidSnapshots(listSimulator2))
+    val (cumulativeState, annotations) = HelperFunctions.createCumulativeCovidSnapshots(CovidSnapshots(listSimulator2), true)
     
     println("****** Cumulative ********")
     cumulativeState.snapshots.foreach(l => println(covidSnapshotJsonImplicit.write(l)))
-//    println(covidSnapshotsJsonImplicit.write(cumulativeState))
+    println(covidSnapshotsJsonImplicit.write(cumulativeState))
+    
+    val annotationsJSValue = annotationsJsonImplicit.write(Annotations(annotations.get))
+    IOUtil.writeToFile(annotationsJSValue.prettyPrint.getBytes, "/tmp/anno.json")
   }
 }
