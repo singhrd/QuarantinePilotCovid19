@@ -1,5 +1,4 @@
-import { Component, OnInit } from '@angular/core';
-import 'anychart';
+import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { CovidReportService } from '../services/covid-report.service';
 import { ResultMessage } from '../models/data-types';
 
@@ -7,6 +6,7 @@ import { ResultMessage } from '../models/data-types';
   selector: 'app-bar-chart-widget',
   templateUrl: './bar-chart-widget.component.html',
   styleUrls: ['./bar-chart-widget.component.scss'],
+  encapsulation: ViewEncapsulation.None
 })
 export class BarChartWidgetComponent implements OnInit {
 
@@ -27,7 +27,6 @@ export class BarChartWidgetComponent implements OnInit {
         if (res.snapshots) {
           // Filter based on location
           const filteredData = res.snapshots.filter(item => item.province_state === this.selectedLocation);
-          console.log(filteredData);
 
           filteredData.forEach(entry => {
             displayData.push([entry.date, entry.confirmed, entry.deaths, entry.active, entry.recovered]);

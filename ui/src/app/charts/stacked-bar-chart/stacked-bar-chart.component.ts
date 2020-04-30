@@ -1,5 +1,6 @@
 import { Component, OnInit, OnDestroy, OnChanges, ViewChild, ViewEncapsulation, Input } from '@angular/core';
 import { ResultsPerDate } from '../../models/data-types';
+import 'anychart';
 
 @Component({
   selector: 'app-stacked-bar-chart',
@@ -8,7 +9,7 @@ import { ResultsPerDate } from '../../models/data-types';
   encapsulation: ViewEncapsulation.None
 })
 export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
-  @ViewChild('container') container;
+  @ViewChild('chartContainer') chartContainer;
 
   @Input() inputDataSet: any[];
   @Input() inputDataLabels: string[];
@@ -35,6 +36,8 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
 
     // Create a data set from input data
     this.dataSet = anychart.data.set(this.inputDataSet);
+
+    anychart.graphics.useAbsoluteReferences(false);
 
     // Create chart object
     this.chart = anychart.column();
@@ -65,7 +68,7 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
       .displayMode('union');
 
     // Set container id for the chart
-    this.chart.container('container');
+    this.chart.container('chartContainer');
 
     // Initiate chart drawing
     this.chart.draw();
