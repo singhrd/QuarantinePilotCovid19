@@ -93,7 +93,6 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
   }
 
   ngOnChanges(): void {
-    console.log('on changes');
     this.destroyChart();
     this.generateChart();
   }

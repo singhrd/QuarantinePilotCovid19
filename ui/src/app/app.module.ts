@@ -9,13 +9,17 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { BarChartWidgetComponent } from './bar-chart-widget/bar-chart-widget.component';
 import { StackedBarChartComponent } from './charts/stacked-bar-chart/stacked-bar-chart.component';
 import { CovidReportService } from './services/covid-report.service';
+import { LineChartWidgetComponent } from './line-chart-widget/line-chart-widget.component';
+import { LineChartComponent } from './charts/line-chart/line-chart.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DashboardComponent,
     BarChartWidgetComponent,
-    StackedBarChartComponent
+    StackedBarChartComponent,
+    LineChartWidgetComponent,
+    LineChartComponent
   ],
   imports: [
     BrowserModule,
