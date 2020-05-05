@@ -1,6 +1,6 @@
-import { Component, OnInit, ViewEncapsulation } from '@angular/core';
+import { Component, OnInit, ViewEncapsulation, Input } from '@angular/core';
 import { CovidReportService } from '../services/covid-report.service';
-import { ResultMessage } from '../models/data-types';
+import { ResultMessage, LocationsByCountryName } from '../models/data-types';
 
 @Component({
   selector: 'app-bar-chart-widget',
@@ -10,30 +10,32 @@ import { ResultMessage } from '../models/data-types';
 })
 export class BarChartWidgetComponent implements OnInit {
 
+  @Input() uuid: string;
+
   // TODO make into dropdown for location
-  locations = ['San Diego', 'New York'];
-  selectedLocation = 'San Diego';
+  locations = LocationsByCountryName;
+  selectedLocation = 'US';
   dataSet = [];
   dataLabels = ['Date', 'Confirmed', 'Deaths', 'Active', 'Recovered'];
 
-  constructor( private service: CovidReportService ) { }
+  constructor(private service: CovidReportService) { }
 
   /**
    * Populate the data set for for a given location.
    */
   populateDataSet(): void {
     const displayData = [];
-    this.service.getCovidResults().subscribe((res: ResultMessage) => {
-        if (res.snapshots) {
-          // Filter based on location
-          const filteredData = res.snapshots.filter(item => item.province_state === this.selectedLocation);
+    this.service.getCovidResults(this.selectedLocation).subscribe((res: ResultMessage) => {
+      if (res.snapshots) {
+        // Filter based on location
+        const filteredData = res.snapshots.filter(item => item.country === this.selectedLocation);
 
-          filteredData.forEach(entry => {
-            displayData.push([entry.date, entry.confirmed, entry.deaths, entry.active, entry.recovered]);
-          });
-          this.dataSet = displayData;
-        }
-      });
+        filteredData.forEach(entry => {
+          displayData.push([entry.date, entry.confirmed, entry.deaths, entry.active, entry.recovered]);
+        });
+        this.dataSet = displayData;
+      }
+    });
 
   }
 

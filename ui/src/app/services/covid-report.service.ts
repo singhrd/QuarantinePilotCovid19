@@ -28,7 +28,7 @@ export class CovidReportService {
     return this.data;
   }
 
-  getCovidResults() {
-    return this.http.get('/assets/sampleCovidSnapshot.json');
+  getCovidResults(location: string) {
+    return this.http.get('/assets/daily-snapshots/' + location + '_DailySnapshots.json');
   }
 }

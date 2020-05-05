@@ -1,4 +1,4 @@
-import { Component, OnInit, OnDestroy, OnChanges, ViewChild, ViewEncapsulation, Input } from '@angular/core';
+import { Component, OnInit, OnDestroy, OnChanges, ViewChild, ViewEncapsulation, Input, Renderer2, ElementRef } from '@angular/core';
 import { ResultsPerDate } from '../../models/data-types';
 import 'anychart';
 
@@ -11,6 +11,7 @@ import 'anychart';
 export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
   @ViewChild('chartContainer') chartContainer;
 
+  @Input() uuid: string;
   @Input() inputDataSet: any[];
   @Input() inputDataLabels: string[];
 
@@ -27,7 +28,7 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
   /**
    * Component constructor.
    */
-  constructor() { }
+  constructor(private renderer: Renderer2, private el: ElementRef) { }
 
   /**
    * Generate chart element.
@@ -88,6 +89,7 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
 
   ngOnInit(): void {
     this.alive = true;
+    this.renderer.setProperty(this.el.nativeElement, 'id', this.uuid);
   }
 
   ngOnChanges(): void {
