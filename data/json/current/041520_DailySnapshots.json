@@ -541,9 +541,9 @@
   }, {
     "province_state": "Paris",
     "source": "JHU",
-    "deaths": 1440,
+    "deaths": 1438,
     "confirmed": 3220,
-    "recovered": 2372,
+    "recovered": 2150,
     "country": "France",
     "long": "2.333333",
     "date": "4/15/20",
@@ -1564,7 +1564,7 @@
   }, {
     "province_state": "London",
     "source": "JHU",
-    "deaths": 765,
+    "deaths": 846,
     "confirmed": 4638,
     "recovered": 45,
     "country": "United Kingdom",
@@ -1868,6 +1868,28 @@
     "long": "44.2",
     "date": "4/15/20",
     "lat": "15.35",
+    "active": 0
+  }, {
+    "province_state": "Moroni",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Comoros",
+    "long": "43.233333",
+    "date": "4/15/20",
+    "lat": "-11.7",
+    "active": 0
+  }, {
+    "province_state": "Dushanbe",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Tajikistan",
+    "long": "68.766667",
+    "date": "4/15/20",
+    "lat": "38.55",
     "active": 0
   }]
 }
