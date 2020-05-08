@@ -27,5 +27,17 @@ div.line-chart-widget {
                 padding: 0.125rem 1.5rem;
             }
         }
+
+        div.chart-container {
+            height: 400px;
+    
+            &.invisible {
+                height: 0px;
+            }
+        }
+        div.anychart-credits {
+            display: none;
+        }
     }
+
 }
