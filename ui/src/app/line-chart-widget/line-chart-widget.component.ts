@@ -24,25 +24,32 @@ export class LineChartWidgetComponent implements OnInit {
   // selectedLocation = 'US';
   locations = ['San Diego', 'New York'];
   selectedLocation = this.locations[0];
-  numDaysAvailable = [7, 14, 21];
+  numDaysAvailable = [1, 7, 14, 21];
   selectedNumDays = 7;
+  metrics=['alpha','growth','death'];
+  selectedMetric = this.metrics[0];
 
   constructor(private service: CovidReportService) { }
 
   selectLocation(loc: string) {
     console.log('new location:', loc);
     this.selectedLocation = loc;
-    this.getData([this.selectedLocation], this.selectedNumDays);
+    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
   }
 
   selectNumDays(day: number) {
     console.log('new num days:', day);
     this.selectedNumDays = day;
-    this.getData([this.selectedLocation], this.selectedNumDays);
+    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
   }
 
-  getData(locations: Array<string>, numDays: number) {
-    console.log('getData', locations, numDays);
+  selectMetric(metric: string) {
+    console.log('new metric:', metric);
+    this.selectedMetric = metric;
+    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
+  }
+    getData(locations: Array<string>, numDays: number, metric: string) {
+    console.log('getData', locations, numDays, metric);
     const displayData = [];
 
     this.service.getAnnotations('San Diego').subscribe((res: any) => {
@@ -57,7 +64,14 @@ export class LineChartWidgetComponent implements OnInit {
           if (displayData.length === 0) {
             // TODO will have to do for first entry, then insert for next entries?
             filteredData.forEach(entry => {
-              entry.movingAverageGrowthRate.filter(dayInfo => {
+              let metricData = entry.movingAverageGrowthRate;
+              if(metric === 'alpha') {
+                metricData = entry.movingAverageEstimatedAlpha;
+              }
+              if(metric === 'death'){
+                metricData = entry.movingAverageDeathRate;
+              }
+              metricData.filter(dayInfo => {
                 if (dayInfo[0] === numDays) {
                   displayData.push([entry.date, dayInfo[1]]);
                 }

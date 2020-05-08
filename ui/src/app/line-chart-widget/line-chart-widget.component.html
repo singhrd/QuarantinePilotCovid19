@@ -27,6 +27,17 @@
                         </div>
                     </div>
                 </div>
+                <div dropdown class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="metricDropdown"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{ selectedMetric }}
+                    </button>
+                    <div class="dropdown-menu scrollable-menu" aria-labelledby="metricDropdown">
+                        <div *ngFor="let metric of metrics">
+                            <button class="dropdown-item" type="button" (click)="selectMetric(metric)">{{ metric }}</button>
+                        </div>
+                    </div>
+                </div>                
             </div>
             <div class="card-body">
                 <div>
