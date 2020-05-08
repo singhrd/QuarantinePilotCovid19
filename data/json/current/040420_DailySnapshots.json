@@ -1564,7 +1564,7 @@
   }, {
     "province_state": "London",
     "source": "JHU",
-    "deaths": 709,
+    "deaths": 761,
     "confirmed": 3788,
     "recovered": 7,
     "country": "United Kingdom",
@@ -1868,6 +1868,28 @@
     "long": "44.2",
     "date": "4/4/20",
     "lat": "15.35",
+    "active": 0
+  }, {
+    "province_state": "Moroni",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Comoros",
+    "long": "43.233333",
+    "date": "4/4/20",
+    "lat": "-11.7",
+    "active": 0
+  }, {
+    "province_state": "Dushanbe",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Tajikistan",
+    "long": "68.766667",
+    "date": "4/4/20",
+    "lat": "38.55",
     "active": 0
   }]
 }

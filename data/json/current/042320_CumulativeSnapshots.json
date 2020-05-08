@@ -541,14 +541,14 @@
   }, {
     "province_state": "Paris",
     "source": "JHU",
-    "deaths": 21889,
+    "deaths": 21858,
     "confirmed": 158303,
-    "recovered": 42762,
+    "recovered": 42088,
     "country": "France",
     "long": "2.333333",
     "date": "4/23/20",
     "lat": "48.8666666667",
-    "active": 115025
+    "active": 115699
   }, {
     "province_state": "Libreville",
     "source": "JHU",
@@ -1322,14 +1322,14 @@
   }, {
     "province_state": "Belgrade",
     "source": "JHU",
-    "deaths": 125,
-    "confirmed": 6630,
-    "recovered": 870,
+    "deaths": 139,
+    "confirmed": 7276,
+    "recovered": 1067,
     "country": "Serbia",
     "long": "20.5",
     "date": "4/23/20",
     "lat": "44.8333333333",
-    "active": 5760
+    "active": 6204
   }, {
     "province_state": "Victoria",
     "source": "JHU",
@@ -1564,14 +1564,14 @@
   }, {
     "province_state": "London",
     "source": "JHU",
-    "deaths": 18791,
+    "deaths": 21840,
     "confirmed": 139246,
     "recovered": 712,
     "country": "United Kingdom",
     "long": "-0.083333",
     "date": "4/23/20",
     "lat": "51.5",
-    "active": 137894
+    "active": 137805
   }, {
     "province_state": "Montevideo",
     "source": "JHU",
@@ -1773,14 +1773,14 @@
   }, {
     "province_state": "Pristina",
     "source": "JHU",
-    "deaths": 12,
-    "confirmed": 510,
-    "recovered": 93,
+    "deaths": 19,
+    "confirmed": 669,
+    "recovered": 159,
     "country": "Kosovo",
     "long": "21.166667",
     "date": "4/23/20",
     "lat": "42.6666666667",
-    "active": 417
+    "active": 509
   }, {
     "province_state": "Gaborone",
     "source": "JHU",
@@ -1869,5 +1869,27 @@
     "date": "4/23/20",
     "lat": "15.35",
     "active": 1
+  }, {
+    "province_state": "Moroni",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Comoros",
+    "long": "43.233333",
+    "date": "4/23/20",
+    "lat": "-11.7",
+    "active": 0
+  }, {
+    "province_state": "Dushanbe",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Tajikistan",
+    "long": "68.766667",
+    "date": "4/23/20",
+    "lat": "38.55",
+    "active": 0
   }]
 }

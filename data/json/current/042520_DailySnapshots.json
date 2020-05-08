@@ -1322,9 +1322,9 @@
   }, {
     "province_state": "Belgrade",
     "source": "JHU",
-    "deaths": 0,
-    "confirmed": 0,
-    "recovered": 0,
+    "deaths": 7,
+    "confirmed": 296,
+    "recovered": 58,
     "country": "Serbia",
     "long": "20.5",
     "date": "4/25/20",
@@ -1400,7 +1400,7 @@
     "province_state": "Madrid",
     "source": "JHU",
     "deaths": 378,
-    "confirmed": 3995,
+    "confirmed": 2915,
     "recovered": 3353,
     "country": "Spain",
     "long": "-3.683333",
@@ -1564,7 +1564,7 @@
   }, {
     "province_state": "London",
     "source": "JHU",
-    "deaths": 814,
+    "deaths": 844,
     "confirmed": 4929,
     "recovered": 50,
     "country": "United Kingdom",
@@ -1773,9 +1773,9 @@
   }, {
     "province_state": "Pristina",
     "source": "JHU",
-    "deaths": 0,
-    "confirmed": 0,
-    "recovered": 0,
+    "deaths": 1,
+    "confirmed": 28,
+    "recovered": 3,
     "country": "Kosovo",
     "long": "21.166667",
     "date": "4/25/20",
@@ -1868,6 +1868,28 @@
     "long": "44.2",
     "date": "4/25/20",
     "lat": "15.35",
+    "active": 0
+  }, {
+    "province_state": "Moroni",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Comoros",
+    "long": "43.233333",
+    "date": "4/25/20",
+    "lat": "-11.7",
+    "active": 0
+  }, {
+    "province_state": "Dushanbe",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Tajikistan",
+    "long": "68.766667",
+    "date": "4/25/20",
+    "lat": "38.55",
     "active": 0
   }]
 }
