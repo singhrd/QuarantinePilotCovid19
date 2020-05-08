@@ -227,14 +227,14 @@ export class LineChartWidgetComponent implements OnInit {
     console.log('line init');
     this.alive = true;
     // this.destroyChart();
-    this.getData(['San Diego'], 7);
+    this.getData(['San Diego'], 7, 'growth');
     // this.renderer.setProperty(this.el.nativeElement, 'id', this.uuid);
   }
 
   ngOnChanges(): void {
     console.log('on changes line');
     // this.destroyChart();
-    this.getData(['San Diego'], 7);
+    this.getData(['San Diego'], 7,'growth');
   }
 
   ngOnDestroy(): void {
