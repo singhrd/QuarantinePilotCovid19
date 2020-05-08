@@ -4,6 +4,33 @@ quarantine-pilot-covid-19
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
+## Installation
+Download node js at: https://nodejs.org/en/
+or doing the following on the command line:
+
+Node.js v12.x:
+```
+    # Using Ubuntu
+    curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+    sudo apt-get install -y nodejs
+
+    # Using Debian, as root
+    curl -sL https://deb.nodesource.com/setup_12.x | bash -
+    apt-get install -y nodejs
+```
+
+Then install Angular cli
+```
+    npm install -g @angular/cli
+```
+
+## Running Locally
+
+``` 
+    npm install     <- installs dependencies
+    npm start       <- runs ngserve for you
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
