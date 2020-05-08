@@ -20,29 +20,56 @@ export class LineChartWidgetComponent implements OnInit {
   data: Array<any> = [];
   dataSet2: anychart.data.Set = null;
 
+  // TODO handle differently in the future
   // locations = LocationsByCountryName;
   // selectedLocation = 'US';
   locations = ['San Diego', 'New York'];
   selectedLocation = this.locations[0];
   numDaysAvailable = [1, 7, 14, 21];
   selectedNumDays = this.numDaysAvailable[1];
+  metrics = ['alpha', 'growth', 'death'];
+  selectedMetric = this.metrics[0];
 
   constructor(private service: CovidReportService) { }
 
+  /**
+   * Update selected location(s), redraw graph
+   * @param loc - array of string locations to use
+   */
   selectLocation(loc: string) {
     console.log('new location:', loc);
     this.selectedLocation = loc;
-    this.getData([this.selectedLocation], this.selectedNumDays);
+    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
   }
 
+  /**
+   * Update selected number of days to view, redraw graph
+   * @param day - number of days to get the moving average for
+   */
   selectNumDays(day: number) {
     console.log('new num days:', day);
     this.selectedNumDays = day;
-    this.getData([this.selectedLocation], this.selectedNumDays);
+    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
   }
 
-  getData(locations: Array<string>, numDays: number) {
-    console.log('getData', locations, numDays);
+  /**
+   * Update selected metric, redraw graph
+   * @param metric - metric type
+   */
+  selectMetric(metric: string) {
+    console.log('new metric:', metric);
+    this.selectedMetric = metric;
+    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
+  }
+
+  /**
+   * Populate the data set to be used for the chart, and then call the chart generation function
+   * @param locations - string array of locations to chart
+   * @param numDays - number of days to view the moving average
+   * @param metric - metric type to chart
+   */
+  getData(locations: Array<string>, numDays: number, metric: string) {
+    console.log('getData', locations, numDays, metric);
     const displayData = [];
 
     this.service.getAnnotations('San Diego').subscribe((res: any) => {
@@ -57,7 +84,14 @@ export class LineChartWidgetComponent implements OnInit {
           if (displayData.length === 0) {
             // TODO will have to do for first entry, then insert for next entries?
             filteredData.forEach(entry => {
-              entry.movingAverageGrowthRate.filter(dayInfo => {
+              let metricData = entry.movingAverageGrowthRate;
+              if (metric === 'alpha') {
+                metricData = entry.movingAverageEstimatedAlpha;
+              }
+              if (metric === 'death') {
+                metricData = entry.movingAverageDeathRate;
+              }
+              metricData.filter(dayInfo => {
                 if (dayInfo[0] === numDays) {
                   displayData.push([entry.date, dayInfo[1]]);
                 }
@@ -76,12 +110,9 @@ export class LineChartWidgetComponent implements OnInit {
 
   generateChart(data) {
     this.destroyChart();
-    console.log('destroy chart line');
     this.chart = anychart.line();
 
     console.log('received data', data);
-    // get data
-    // create data set on our data
     let dataSet = anychart.data.set(data);
     console.log(dataSet);
 
@@ -181,14 +212,14 @@ export class LineChartWidgetComponent implements OnInit {
     console.log('line init');
     this.alive = true;
     // this.destroyChart();
-    this.getData(['San Diego'], 7);
+    this.getData(['San Diego'], 7, 'growth');
     // this.renderer.setProperty(this.el.nativeElement, 'id', this.uuid);
   }
 
   ngOnChanges(): void {
     console.log('on changes line');
     // this.destroyChart();
-    this.getData(['San Diego'], 7);
+    this.getData(['San Diego'], 7, 'growth');
   }
 
   ngOnDestroy(): void {

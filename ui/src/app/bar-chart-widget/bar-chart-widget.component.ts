@@ -16,7 +16,7 @@ export class BarChartWidgetComponent implements OnInit {
   locations = LocationsByCountryName;
   selectedLocation = 'US';
   dataSet = [];
-  dataLabels = ['Date', 'Confirmed', 'Deaths', 'Active', 'Recovered'];
+  dataLabels = ['Date', 'Active', 'Recovered', 'Deaths'];
 
   constructor(private service: CovidReportService) { }
 
@@ -31,7 +31,7 @@ export class BarChartWidgetComponent implements OnInit {
         const filteredData = res.snapshots.filter(item => item.country === this.selectedLocation);
 
         filteredData.forEach(entry => {
-          displayData.push([entry.date, entry.confirmed, entry.deaths, entry.active, entry.recovered]);
+          displayData.push([entry.date, entry.active, entry.recovered,entry.deaths]);
         });
         this.dataSet = displayData;
       }

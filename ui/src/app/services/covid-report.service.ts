@@ -29,7 +29,7 @@ export class CovidReportService {
   }
 
   getCovidResults(location: string) {
-    return this.http.get('/assets/daily-snapshots/' + location + '_DailySnapshots.json');
+    return this.http.get('/assets/cumulative-snapshots/' + location + '_CumulativeSnapshots.json');
   }
 
   getAnnotations(location: string) {
