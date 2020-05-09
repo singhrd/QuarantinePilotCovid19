@@ -30,13 +30,13 @@ export class CovidReportService {
 
   getCovidResults(location: string, snapshot: string) {
     if(snapshot === 'daily')
-      return this.http.get('/assets/daily-snapshots/' + location + '_DailySnapshots.json');
+      return this.http.get('/assets/snapshots/daily-snapshots/' + location + '_DailySnapshots.json');
     else
-      return this.http.get('/assets/cumulative-snapshots/' + location + '_CumulativeSnapshots.json');
+      return this.http.get('/assets/snapshots/cumulative-snapshots/' + location + '_CumulativeSnapshots.json');
   }
   
 
   getAnnotations(location: string) {
-    return this.http.get('/assets/anno2.json');
+    return this.http.get('/assets/annotations/' + location + '_Annotations.json');
   }
 }
