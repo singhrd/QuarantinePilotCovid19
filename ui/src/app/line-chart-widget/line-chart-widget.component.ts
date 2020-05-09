@@ -136,7 +136,8 @@ export class LineChartWidgetComponent implements OnInit {
     this.chart.tooltip().positionMode('point');
 
     // set yAxis title
-    this.chart.yAxis().title('Moving Average Growth Rate');
+    const title = this.selectedMetric.charAt(0).toLocaleUpperCase() + this.selectedMetric.slice(1);
+    this.chart.yAxis().title('Moving Average ' + title + ' Rate');
     this.chart.xAxis().labels().padding(5);
 
     // create first series with mapped data
