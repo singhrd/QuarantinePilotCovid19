@@ -15,6 +15,8 @@ export class BarChartWidgetComponent implements OnInit {
   // TODO make into dropdown for location
   locations = LocationsByCountryName;
   selectedLocation = 'US';
+  snapshots = ['daily','cumulative'];
+  selectedSnapshot = this.snapshots[0];
   dataSet = [];
   dataLabels = ['Date', 'Active', 'Recovered', 'Deaths'];
 
@@ -25,12 +27,12 @@ export class BarChartWidgetComponent implements OnInit {
    */
   populateDataSet(): void {
     const displayData = [];
-    this.service.getCovidResults(this.selectedLocation).subscribe((res: ResultMessage) => {
+    this.service.getCovidResults(this.selectedLocation, this.selectedSnapshot).subscribe((res: ResultMessage) => {
       if (res.snapshots) {
         // Filter based on location
-        const filteredData = res.snapshots.filter(item => item.country === this.selectedLocation);
+        // const filteredData = res.snapshots.filter(item => item.country === this.selectedLocation);
 
-        filteredData.forEach(entry => {
+        res.snapshots.forEach(entry => {
           displayData.push([entry.date, entry.active, entry.recovered,entry.deaths]);
         });
         this.dataSet = displayData;
@@ -44,6 +46,13 @@ export class BarChartWidgetComponent implements OnInit {
     this.selectedLocation = loc;
     this.populateDataSet();
   }
+  
+  selectSnapshot(snapshot: string) {
+    console.log('new snapshot:', snapshot);
+    this.selectedSnapshot = snapshot;
+    this.populateDataSet();
+  }
+
 
   ngOnInit(): void {
     this.populateDataSet();

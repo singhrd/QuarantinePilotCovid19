@@ -20,10 +20,9 @@ export class LineChartWidgetComponent implements OnInit {
   data: Array<any> = [];
   dataSet2: anychart.data.Set = null;
 
-  // TODO handle differently in the future
-  // locations = LocationsByCountryName;
+  locations = LocationsByCountryName;
   // selectedLocation = 'US';
-  locations = ['San Diego', 'New York'];
+  // locations = ['San Diego', 'New York'];
   selectedLocation = this.locations[0];
   numDaysAvailable = [1, 7, 14, 21];
   selectedNumDays = this.numDaysAvailable[1];
@@ -72,18 +71,15 @@ export class LineChartWidgetComponent implements OnInit {
     console.log('getData', locations, numDays, metric);
     const displayData = [];
 
-    this.service.getAnnotations('San Diego').subscribe((res: any) => {
+    this.service.getAnnotations(this.selectedLocation).subscribe((res: any) => {
       if (res.elements) {
-        locations.forEach(location => {
           // Filter based on location
-          const filteredData = res.elements.filter(item => item.province_state === location);
-          console.log(filteredData);
-
+          console.log(res.elements);
           console.log(displayData.length);
           // First time through
           if (displayData.length === 0) {
             // TODO will have to do for first entry, then insert for next entries?
-            filteredData.forEach(entry => {
+            res.elements.forEach(entry => {
               let metricData = entry.movingAverageGrowthRate;
               if (metric === 'alpha') {
                 metricData = entry.movingAverageEstimatedAlpha;
@@ -95,13 +91,12 @@ export class LineChartWidgetComponent implements OnInit {
                 if (dayInfo[0] === numDays) {
                   displayData.push([entry.date, dayInfo[1]]);
                 }
-              });
+            });
             });
           } else {
             // have to do something else for repeat items...
             // displayData.join
           }
-        });
         console.log(locations, displayData);
         this.generateChart(displayData);
       }
