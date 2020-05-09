@@ -30,9 +30,9 @@ export class BarChartWidgetComponent implements OnInit {
     this.service.getCovidResults(this.selectedLocation, this.selectedSnapshot).subscribe((res: ResultMessage) => {
       if (res.snapshots) {
         // Filter based on location
-        const filteredData = res.snapshots.filter(item => item.country === this.selectedLocation);
+        // const filteredData = res.snapshots.filter(item => item.country === this.selectedLocation);
 
-        filteredData.forEach(entry => {
+        res.snapshots.forEach(entry => {
           displayData.push([entry.date, entry.active, entry.recovered,entry.deaths]);
         });
         this.dataSet = displayData;
