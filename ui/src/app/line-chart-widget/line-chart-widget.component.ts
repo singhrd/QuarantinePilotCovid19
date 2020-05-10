@@ -24,12 +24,29 @@ export class LineChartWidgetComponent implements OnInit {
   // selectedLocation = 'US';
   // locations = ['San Diego', 'New York'];
   selectedLocation = this.locations[0];
+  multiLocationsSelected: Array<string> = [];
   numDaysAvailable = [1, 7, 14, 21];
   selectedNumDays = this.numDaysAvailable[1];
   metrics = ['alpha', 'growth', 'death'];
   selectedMetric = this.metrics[0];
 
-  constructor(private service: CovidReportService) { }
+  cars = [
+    // { label: 'Audi', value: 'Audi' },
+    // { label: 'BMW', value: 'BMW' },
+    // { label: 'Fiat', value: 'Fiat' },
+    // { label: 'Ford', value: 'Ford' },
+    // { label: 'Honda', value: 'Honda' },
+    // { label: 'Jaguar', value: 'Jaguar' },
+    // { label: 'Mercedes', value: 'Mercedes' },
+    // { label: 'Renault', value: 'Renault' },
+    // { label: 'VW', value: 'VW' },
+    // { label: 'Volvo', value: 'Volvo' },
+  ];
+  selectedCars1: [];
+
+  constructor(private service: CovidReportService) {
+    this.createMultiselectLabels();
+  }
 
   /**
    * Update selected location(s), redraw graph
@@ -73,31 +90,30 @@ export class LineChartWidgetComponent implements OnInit {
 
     this.service.getAnnotations(this.selectedLocation).subscribe((res: any) => {
       if (res.elements) {
-          // Filter based on location
-          console.log(res.elements);
-          console.log(displayData.length);
-          // First time through
-          if (displayData.length === 0) {
-            // TODO will have to do for first entry, then insert for next entries?
-            res.elements.forEach(entry => {
-              let metricData = entry.movingAverageGrowthRate;
-              if (metric === 'alpha') {
-                metricData = entry.movingAverageEstimatedAlpha;
+        // Filter based on location
+        // console.log(res.elements);
+        // console.log(displayData.length);
+        // First time through
+        if (displayData.length === 0) {
+          // TODO will have to do for first entry, then insert for next entries?
+          res.elements.forEach(entry => {
+            let metricData = entry.movingAverageGrowthRate;
+            if (metric === 'alpha') {
+              metricData = entry.movingAverageEstimatedAlpha;
+            }
+            if (metric === 'death') {
+              metricData = entry.movingAverageDeathRate;
+            }
+            metricData.filter(dayInfo => {
+              if (dayInfo[0] === numDays) {
+                displayData.push([entry.date, dayInfo[1]]);
               }
-              if (metric === 'death') {
-                metricData = entry.movingAverageDeathRate;
-              }
-              metricData.filter(dayInfo => {
-                if (dayInfo[0] === numDays) {
-                  displayData.push([entry.date, dayInfo[1]]);
-                }
             });
-            });
-          } else {
-            // have to do something else for repeat items...
-            // displayData.join
-          }
-        console.log(locations, displayData);
+          });
+        } else {
+          // have to do something else for repeat items...
+          // displayData.join
+        }
         this.generateChart(displayData);
       }
     });
@@ -107,9 +123,7 @@ export class LineChartWidgetComponent implements OnInit {
     this.destroyChart();
     this.chart = anychart.line();
 
-    console.log('received data', data);
     let dataSet = anychart.data.set(data);
-    console.log(dataSet);
 
     // map data for the first series, take x from the zero column and value from the first column of data set
     let seriesData_1 = dataSet.mapAs({ 'x': 0, 'value': 1 });
@@ -189,6 +203,19 @@ export class LineChartWidgetComponent implements OnInit {
     this.chart.container('lineContainer');
     // initiate chart drawing
     this.chart.draw();
+  }
+
+  createMultiselectLabels() {
+    let locationsMultiselect = [];
+    this.locations.forEach(country => {
+      locationsMultiselect.push({ label: country, value: country });
+    });
+    this.cars = locationsMultiselect;
+  }
+
+  hidePanel() {
+    console.log('panel is hidden!');
+    // TODO recaculate graph based on new info
   }
 
   /**
