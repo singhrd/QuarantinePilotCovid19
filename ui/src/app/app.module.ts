@@ -1,7 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
+import { MultiSelectModule } from 'primeng/multiselect';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -11,6 +14,7 @@ import { StackedBarChartComponent } from './charts/stacked-bar-chart/stacked-bar
 import { CovidReportService } from './services/covid-report.service';
 import { LineChartWidgetComponent } from './line-chart-widget/line-chart-widget.component';
 import { LineChartComponent } from './charts/line-chart/line-chart.component';
+
 
 @NgModule({
   declarations: [
@@ -23,8 +27,11 @@ import { LineChartComponent } from './charts/line-chart/line-chart.component';
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
-    HttpClientModule
+    FormsModule,
+    HttpClientModule,
+    MultiSelectModule
   ],
   providers: [CovidReportService],
   bootstrap: [AppComponent]
