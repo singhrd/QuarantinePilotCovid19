@@ -6,11 +6,11 @@
             </h3>
             <div class="btn-group">
                 <div>
-                    <p-multiSelect [options]="cars" [(ngModel)]="selectedCars1" [dropdownIcon]="'pi pi-caret-down'"
+                    <p-multiSelect [options]="availableLocations" [(ngModel)]="selectedLocations" [dropdownIcon]="'pi pi-caret-down'"
                         (onPanelHide)="hidePanel()" [filter]="true" [defaultLabel]="'Select Countries'"
                         [maxSelectedLabels]="2"></p-multiSelect>
                 </div>
-                <div dropdown class="dropdown">
+                <!-- <div dropdown class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="locationDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{ selectedLocation }}
@@ -20,7 +20,7 @@
                             <button class="dropdown-item" type="button" (click)="selectLocation(loc)">{{ loc }}</button>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div dropdown class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="numDaysDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -47,6 +47,7 @@
             </div>
             <div class="card-body">
                 <div>
+                    
                     <div id="lineContainer" class="chart-container"></div>
                     <!-- <app-line-chart></app-line-chart> -->
                 </div>

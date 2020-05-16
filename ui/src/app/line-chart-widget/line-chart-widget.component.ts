@@ -1,6 +1,8 @@
 import { Component, OnInit, OnChanges, OnDestroy, ViewChild, ViewEncapsulation } from '@angular/core';
 import { LocationsByCountryName } from '../models/data-types';
 import { CovidReportService } from '../services/covid-report.service';
+import { forkJoin } from 'rxjs';
+import { serializeNodes } from '@angular/compiler/src/i18n/digest';
 
 @Component({
   selector: 'app-line-chart-widget',
@@ -18,44 +20,21 @@ export class LineChartWidgetComponent implements OnInit {
   chart: any = null;
   // Data set vars
   data: Array<any> = [];
-  dataSet2: anychart.data.Set = null;
+  // dataSet2: anychart.data.Set = null;
 
   locations = LocationsByCountryName;
-  // selectedLocation = 'US';
-  // locations = ['San Diego', 'New York'];
-  selectedLocation = this.locations[0];
-  multiLocationsSelected: Array<string> = [];
+  selectedLocations: Array<string> = [];
+
   numDaysAvailable = [1, 7, 14, 21];
   selectedNumDays = this.numDaysAvailable[1];
   metrics = ['alpha', 'growth', 'death'];
   selectedMetric = this.metrics[0];
+  noChartData = true;
 
-  cars = [
-    // { label: 'Audi', value: 'Audi' },
-    // { label: 'BMW', value: 'BMW' },
-    // { label: 'Fiat', value: 'Fiat' },
-    // { label: 'Ford', value: 'Ford' },
-    // { label: 'Honda', value: 'Honda' },
-    // { label: 'Jaguar', value: 'Jaguar' },
-    // { label: 'Mercedes', value: 'Mercedes' },
-    // { label: 'Renault', value: 'Renault' },
-    // { label: 'VW', value: 'VW' },
-    // { label: 'Volvo', value: 'Volvo' },
-  ];
-  selectedCars1: [];
+  availableLocations = [];
 
   constructor(private service: CovidReportService) {
     this.createMultiselectLabels();
-  }
-
-  /**
-   * Update selected location(s), redraw graph
-   * @param loc - array of string locations to use
-   */
-  selectLocation(loc: string) {
-    console.log('new location:', loc);
-    this.selectedLocation = loc;
-    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
   }
 
   /**
@@ -65,7 +44,7 @@ export class LineChartWidgetComponent implements OnInit {
   selectNumDays(day: number) {
     console.log('new num days:', day);
     this.selectedNumDays = day;
-    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
+    this.getData(this.selectedLocations, this.selectedNumDays, this.selectedMetric);
   }
 
   /**
@@ -75,7 +54,7 @@ export class LineChartWidgetComponent implements OnInit {
   selectMetric(metric: string) {
     console.log('new metric:', metric);
     this.selectedMetric = metric;
-    this.getData([this.selectedLocation], this.selectedNumDays, this.selectedMetric);
+    this.getData(this.selectedLocations, this.selectedNumDays, this.selectedMetric);
   }
 
   /**
@@ -85,54 +64,64 @@ export class LineChartWidgetComponent implements OnInit {
    * @param metric - metric type to chart
    */
   getData(locations: Array<string>, numDays: number, metric: string) {
-    console.log('getData', locations, numDays, metric);
-    const displayData = [];
+    this.noChartData = true;
+    let displayData = [];
+    const requestArray = [];
+    let labels = [];
 
-    this.service.getAnnotations(this.selectedLocation).subscribe((res: any) => {
-      if (res.elements) {
-        // Filter based on location
-        // console.log(res.elements);
-        // console.log(displayData.length);
-        // First time through
-        if (displayData.length === 0) {
-          // TODO will have to do for first entry, then insert for next entries?
-          res.elements.forEach(entry => {
-            let metricData = entry.movingAverageGrowthRate;
-            if (metric === 'alpha') {
-              metricData = entry.movingAverageEstimatedAlpha;
-            }
-            if (metric === 'death') {
-              metricData = entry.movingAverageDeathRate;
-            }
-            metricData.filter(dayInfo => {
-              if (dayInfo[0] === numDays) {
-                displayData.push([entry.date, dayInfo[1]]);
-              }
-            });
-          });
-        } else {
-          // have to do something else for repeat items...
-          // displayData.join
-        }
-        this.generateChart(displayData);
-      }
+    if (locations.length === 0) {
+      return;
+    }
+
+    this.noChartData = false;
+    locations.forEach(loc => {
+      requestArray.push(this.service.getAnnotations(loc));
+      labels.push(loc);
     });
+
+    forkJoin(requestArray)
+      // .takeWhile(() => this.alive)
+      .subscribe(allResponses => {
+        for (let i = 0; i < allResponses.length; i++) {
+          const res: any = allResponses[i];
+          let arr = new Array<number>(allResponses.length);
+          if (res.elements) {
+            res.elements.forEach((entry, j) => {
+              let metricData = entry.movingAverageGrowthRate;
+              if (metric === 'alpha') {
+                metricData = entry.movingAverageEstimatedAlpha;
+              }
+              if (metric === 'death') {
+                metricData = entry.movingAverageDeathRate;
+              }
+              metricData.filter(dayInfo => {
+                if (dayInfo[0] === numDays) {
+                  if (i === 0) {
+                    // push initial label and empty arrays for data
+                    let arr2 = [entry.date].concat(arr);
+                    displayData.push(arr2);
+                  }
+                  displayData[j][i + 1] = dayInfo[1];
+                }
+              });
+            });
+          }
+        }
+
+        this.generateChart(displayData, labels);
+
+      }, err => {
+        // TODO
+       });
   }
 
-  generateChart(data) {
+  generateChart(data, labels) {
     this.destroyChart();
     this.chart = anychart.line();
 
     let dataSet = anychart.data.set(data);
-
-    // map data for the first series, take x from the zero column and value from the first column of data set
-    let seriesData_1 = dataSet.mapAs({ 'x': 0, 'value': 1 });
-
-    // // map data for the second series, take x from the zero column and value from the second column of data set
-    // let seriesData_2 = dataSet.mapAs({ 'x': 0, 'value': 2 });
-
-    // // map data for the third series, take x from the zero column and value from the third column of data set
-    // let seriesData_3 = dataSet.mapAs({ 'x': 0, 'value': 3 });
+    let seriesData = [];
+    let series = [];
 
     // turn on chart animation
     this.chart.animation(true);
@@ -154,44 +143,25 @@ export class LineChartWidgetComponent implements OnInit {
     this.chart.yAxis().title('Moving Average ' + title + ' Rate');
     this.chart.xAxis().labels().padding(5);
 
-    // create first series with mapped data
-    let series_1 = this.chart.line(seriesData_1);
-    series_1.name(this.selectedLocation);
-    series_1.hovered().markers()
-      .enabled(true)
-      .type('circle')
-      .size(4);
-    series_1.tooltip()
-      .position('right')
-      .anchor('left-center')
-      .offsetX(5)
-      .offsetY(5);
+    // Map data per location
+    labels.forEach((loc, col) => {
+      // mat data set
+      seriesData.push(dataSet.mapAs({ 'x': 0, 'value': col + 1 }));
 
-    // // create second series with mapped data
-    // let series_2 = this.chart.line(seriesData_2);
-    // series_2.name('Whiskey');
-    // series_2.hovered().markers()
-    //   .enabled(true)
-    //   .type('circle')
-    //   .size(4);
-    // series_2.tooltip()
-    //   .position('right')
-    //   .anchor('left-center')
-    //   .offsetX(5)
-    //   .offsetY(5);
+      // create series data
+      series.push(this.chart.line(seriesData[col]));
+      series[col].name(loc);
+      series[col].hovered().markers()
+        .enabled(true)
+        .type('circle')
+        .size(4);
+      series[col].tooltip()
+        .position('right')
+        .anchor('left-center')
+        .offsetX(5)
+        .offsetY(5);
 
-    // // create third series with mapped data
-    // let series_3 = this.chart.line(seriesData_3);
-    // series_3.name('Tequila');
-    // series_3.hovered().markers()
-    //   .enabled(true)
-    //   .type('circle')
-    //   .size(4);
-    // series_3.tooltip()
-    //   .position('right')
-    //   .anchor('left-center')
-    //   .offsetX(5)
-    //   .offsetY(5);
+    });
 
     // turn the legend on
     this.chart.legend()
@@ -210,12 +180,12 @@ export class LineChartWidgetComponent implements OnInit {
     this.locations.forEach(country => {
       locationsMultiselect.push({ label: country, value: country });
     });
-    this.cars = locationsMultiselect;
+    this.availableLocations = locationsMultiselect;
   }
 
   hidePanel() {
     console.log('panel is hidden!');
-    // TODO recaculate graph based on new info
+    this.getData(this.selectedLocations, 7, 'growth');
   }
 
   /**
@@ -235,14 +205,14 @@ export class LineChartWidgetComponent implements OnInit {
     console.log('line init');
     this.alive = true;
     // this.destroyChart();
-    this.getData(['San Diego'], 7, 'growth');
+    // this.getData(['San Diego'], 7, 'growth');
     // this.renderer.setProperty(this.el.nativeElement, 'id', this.uuid);
   }
 
   ngOnChanges(): void {
     console.log('on changes line');
     // this.destroyChart();
-    this.getData(['San Diego'], 7, 'growth');
+    // this.getData(['San Diego'], 7, 'growth');
   }
 
   ngOnDestroy(): void {
