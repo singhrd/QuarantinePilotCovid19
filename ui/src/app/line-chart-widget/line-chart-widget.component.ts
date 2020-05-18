@@ -185,7 +185,7 @@ export class LineChartWidgetComponent implements OnInit {
 
   hidePanel() {
     console.log('panel is hidden!');
-    this.getData(this.selectedLocations, 7, 'growth');
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
   }
 
   /**
