@@ -25,9 +25,9 @@ export class LineChartWidgetComponent implements OnInit {
   locations = LocationsByCountryName;
   selectedLocations: Array<string> = [];
 
-  numDaysAvailable = [1, 7, 14, 21];
-  selectedNumDays = this.numDaysAvailable[1];
-  metrics = ['alpha', 'growth', 'death'];
+  windowsAvailable = ['daily', 'weekly', 'biweekly', 'triweekly'];
+  selectedWindow = this.windowsAvailable[1];
+  metrics = ['spread rate', 'daily growth rate', 'fatality rate'];
   selectedMetric = this.metrics[0];
   noChartData = true;
 
@@ -38,13 +38,13 @@ export class LineChartWidgetComponent implements OnInit {
   }
 
   /**
-   * Update selected number of days to view, redraw graph
-   * @param day - number of days to get the moving average for
+   * Update selected window to view, redraw graph
+   * @param day - window to get the moving average for
    */
-  selectNumDays(day: number) {
-    console.log('new num days:', day);
-    this.selectedNumDays = day;
-    this.getData(this.selectedLocations, this.selectedNumDays, this.selectedMetric);
+  selectWindow(window: string) {
+    console.log('new window:', window);
+    this.selectedWindow = window;
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
   }
 
   /**
@@ -54,16 +54,16 @@ export class LineChartWidgetComponent implements OnInit {
   selectMetric(metric: string) {
     console.log('new metric:', metric);
     this.selectedMetric = metric;
-    this.getData(this.selectedLocations, this.selectedNumDays, this.selectedMetric);
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
   }
 
   /**
    * Populate the data set to be used for the chart, and then call the chart generation function
    * @param locations - string array of locations to chart
-   * @param numDays - number of days to view the moving average
+   * @param window - window to view the moving average
    * @param metric - metric type to chart
    */
-  getData(locations: Array<string>, numDays: number, metric: string) {
+  getData(locations: Array<string>, window: string, metric: string) {
     this.noChartData = true;
     let displayData = [];
     const requestArray = [];
@@ -88,20 +88,20 @@ export class LineChartWidgetComponent implements OnInit {
           if (res.elements) {
             res.elements.forEach((entry, j) => {
               let metricData = entry.movingAverageGrowthRate;
-              if (metric === 'alpha') {
+              if (metric === 'spread rate') {
                 metricData = entry.movingAverageEstimatedAlpha;
               }
-              if (metric === 'death') {
+              if (metric === 'fatality rate') {
                 metricData = entry.movingAverageDeathRate;
               }
-              metricData.filter(dayInfo => {
-                if (dayInfo[0] === numDays) {
+              metricData.filter(windowInfo => {
+                if (windowInfo[0] === window) {
                   if (i === 0) {
                     // push initial label and empty arrays for data
                     let arr2 = [entry.date].concat(arr);
                     displayData.push(arr2);
                   }
-                  displayData[j][i + 1] = dayInfo[1];
+                  displayData[j][i + 1] = windowInfo[1];
                 }
               });
             });

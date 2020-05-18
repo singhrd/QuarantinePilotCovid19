@@ -22,13 +22,14 @@
                     </div>
                 </div> -->
                 <div dropdown class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="numDaysDropdown"
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="windowDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        {{ selectedNumDays }}
+                        {{ selectedWindow }}
                     </button>
-                    <div class="dropdown-menu scrollable-menu" aria-labelledby="numDaysDropdown">
-                        <div *ngFor="let day of numDaysAvailable">
-                            <button class="dropdown-item" type="button" (click)="selectNumDays(day)">{{ day }}</button>
+                    <div class="dropdown-menu scrollable-menu" aria-labelledby="windowDropdown">
+                        <div *ngFor="let window of windowsAvailable">
+                            <button class="dropdown-item" type="button" 
+                            (click)="selectWindow(window)">{{ window }}</button>
                         </div>
                     </div>
                 </div>
