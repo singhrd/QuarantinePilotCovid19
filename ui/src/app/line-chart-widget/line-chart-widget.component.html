@@ -10,38 +10,27 @@
                         (onPanelHide)="hidePanel()" [filter]="true" [defaultLabel]="'Select Countries'"
                         [maxSelectedLabels]="2"></p-multiSelect>
                 </div>
-                <!-- <div dropdown class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="locationDropdown"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        {{ selectedLocation }}
-                    </button>
-                    <div class="dropdown-menu scrollable-menu" aria-labelledby="locationDropdown">
-                        <div *ngFor="let loc of locations">
-                            <button class="dropdown-item" type="button" (click)="selectLocation(loc)">{{ loc }}</button>
-                        </div>
-                    </div>
-                </div> -->
                 <div dropdown class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="windowDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        {{ selectedWindow }}
+                        {{ selectedWindow | titlecase }}
                     </button>
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="windowDropdown">
                         <div *ngFor="let window of windowsAvailable">
                             <button class="dropdown-item" type="button" 
-                            (click)="selectWindow(window)">{{ window }}</button>
+                            (click)="selectWindow(window)">{{ window | titlecase }}</button>
                         </div>
                     </div>
                 </div>
                 <div dropdown class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="metricDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        {{ selectedMetric }}
+                        {{ selectedMetric | titlecase }}
                     </button>
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="metricDropdown">
                         <div *ngFor="let metric of metrics">
                             <button class="dropdown-item" type="button"
-                                (click)="selectMetric(metric)">{{ metric }}</button>
+                                (click)="selectMetric(metric)">{{ metric | titlecase }}</button>
                         </div>
                     </div>
                 </div>

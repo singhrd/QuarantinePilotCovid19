@@ -1,4 +1,4 @@
-import { Component, OnInit, OnChanges, OnDestroy, ViewChild, ViewEncapsulation } from '@angular/core';
+import { Component, OnInit, ViewChild, ViewEncapsulation } from '@angular/core';
 import { LocationsByCountryName } from '../models/data-types';
 import { CovidReportService } from '../services/covid-report.service';
 import { forkJoin } from 'rxjs';
@@ -138,8 +138,8 @@ export class LineChartWidgetComponent implements OnInit {
     // set tooltip mode to point
     this.chart.tooltip().positionMode('point');
 
-    // set yAxis title
-    const title = this.selectedMetric.charAt(0).toLocaleUpperCase() + this.selectedMetric.slice(1);
+    // set yAxis title in title case
+    const title = this.selectedMetric.replace(/\b[a-z]/g, (x) => x.toLocaleUpperCase());
     this.chart.yAxis().title('Moving Average ' + title);
     this.chart.xAxis().labels().padding(5);
 
@@ -207,16 +207,6 @@ export class LineChartWidgetComponent implements OnInit {
     // this.destroyChart();
     // this.getData(['San Diego'], 7, 'growth');
     // this.renderer.setProperty(this.el.nativeElement, 'id', this.uuid);
-  }
-
-  ngOnChanges(): void {
-    console.log('on changes line');
-    // this.destroyChart();
-    // this.getData(['San Diego'], 7, 'growth');
-  }
-
-  ngOnDestroy(): void {
-    this.alive = false;
   }
 
 }
