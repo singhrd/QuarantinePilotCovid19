@@ -140,7 +140,7 @@ export class LineChartWidgetComponent implements OnInit {
 
     // set yAxis title
     const title = this.selectedMetric.charAt(0).toLocaleUpperCase() + this.selectedMetric.slice(1);
-    this.chart.yAxis().title('Moving Average ' + title + ' Rate');
+    this.chart.yAxis().title('Moving Average ' + title);
     this.chart.xAxis().labels().padding(5);
 
     // Map data per location
