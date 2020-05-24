@@ -66,16 +66,16 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
     this.chart.interactivity().hoverMode('by-x');
 
     console.log('updating tooltip');
-    this.chart.tooltip().displayMode('union')
+    this.chart.tooltip().displayMode('union');
     this.chart.tooltip().useHtml(true);
     this.chart.tooltip().unionFormat(function() {
       let total = 0;
       let tip = '';
       this.points.forEach(element => {
-        tip += element.seriesName + ': ' + element.value + '<br>';
+        tip += element.seriesName + ': ' + element.value.toLocaleString() + '<br>';
         total += +element.value;
       });
-      return tip + '<strong>Total: ' + total + '</strong>';
+      return tip + '<strong>Total: ' + total.toLocaleString() + '</strong>';
     });
 
     // Set container id for the chart
