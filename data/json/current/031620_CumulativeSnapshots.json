@@ -1576,13 +1576,13 @@
     "province_state": "Montevideo",
     "source": "JHU",
     "deaths": 0,
-    "confirmed": 8,
+    "confirmed": 29,
     "recovered": 0,
     "country": "Uruguay",
     "long": "-56.166667",
     "date": "3/16/20",
     "lat": "-34.85",
-    "active": 8
+    "active": 29
   }, {
     "province_state": "Washington",
     "source": "JHU",
@@ -1890,6 +1890,17 @@
     "long": "68.766667",
     "date": "3/16/20",
     "lat": "38.55",
+    "active": 0
+  }, {
+    "province_state": "Maseru",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Lesotho",
+    "long": "27.483333",
+    "date": "3/16/20",
+    "lat": "-29.3166666667",
     "active": 0
   }]
 }

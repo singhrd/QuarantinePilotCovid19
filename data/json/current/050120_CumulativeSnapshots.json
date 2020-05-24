@@ -1400,13 +1400,13 @@
     "province_state": "Madrid",
     "source": "JHU",
     "deaths": 24543,
-    "confirmed": 213435,
+    "confirmed": 215216,
     "recovered": 112050,
     "country": "Spain",
     "long": "-3.683333",
     "date": "5/1/20",
     "lat": "40.4",
-    "active": 101385
+    "active": 103166
   }, {
     "province_state": "Colombo",
     "source": "JHU",
@@ -1891,5 +1891,16 @@
     "date": "5/1/20",
     "lat": "38.55",
     "active": 15
+  }, {
+    "province_state": "Maseru",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Lesotho",
+    "long": "27.483333",
+    "date": "5/1/20",
+    "lat": "-29.3166666667",
+    "active": 0
   }]
 }

@@ -27,10 +27,10 @@ case class CovidSnapshot(date: String, // what format mm/dd/yyyy
                        country: String, 
                        lat: String, // aa.bb
                        long: String, // aa.bb
-                       confirmed: Long, 
-                       recovered: Long,
-                       active: Long,
-                       deaths: Long, 
+                         confirmed: Long, 
+                         recovered: Long,
+                         active: Long, // not meaningful for daily snapshots - set to 0 by default
+                         deaths: Long, 
                        source: String = "tableau",
                        tests: Option[Long] = None)
                        
