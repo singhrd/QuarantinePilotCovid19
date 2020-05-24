@@ -1,5 +1,11 @@
 package quarantine.covid19.util
 
+/**
+ * This object provides helpful functions to handle dates, filters, 
+ * annotations/metrics, and transformations of CovidSnapshots.
+ * 
+ * @author rajdeep
+ */
 
 import java.util.Date
 import java.time.LocalDate;
@@ -10,7 +16,7 @@ import quarantine.covid19.core.GeoLocation
 import quarantine.covid19.core.CovidSnapshots
 import quarantine.covid19.core.CovidSnapshot
 import quarantine.covid19.core.Annotation
-
+import quarantine.covid19.core.Annotations
 
 object HelperFunctions {
   
@@ -20,6 +26,36 @@ object HelperFunctions {
 	// Millis in a day
 	val DAY_IN_MS = (1000 * 60 * 60 * 24).toLong;
 	
+	def makeFileNameFriendlyDateString(dateString: String) = {
+	  val elements = dateString.split("/")
+	  val elem0 = elements(0).length == 1 match {
+	    case true => "0" + elements(0)
+	    case false => elements(0)
+	  }
+		val elem1 = elements(1).length == 1 match {
+	    case true => "0" + elements(1)
+	    case false => elements(1)
+	  }
+		elem0 + elem1 + elements(2)
+	
+	}
+	
+	def pivotOnCountry(cSnapshots: CovidSnapshots, countryName:String): CovidSnapshots = {
+   CovidSnapshots(cSnapshots.snapshots.filter(cs => cs.country.equals(countryName)))
+  }
+
+  def pivotOnDate(cSnapshots: CovidSnapshots, dateString:String): CovidSnapshots = {
+   CovidSnapshots(cSnapshots.snapshots.filter(cs => cs.date.equals(dateString)))
+  }
+  
+  def pivotAnnotationsOnCountry(annotations: Annotations, countryName:String): Annotations = {
+   Annotations(annotations.elements.filter(an => an.country.equals(countryName)))
+  }
+
+  def pivotAnnotationsOnDate(annotations: Annotations, dateString:String): Annotations = {
+   Annotations(annotations.elements.filter(an => an.date.equals(dateString)))
+  }
+  
 	/**
 	 * In case of a daily snapshot missing, we can jumpstart with the default snapshot with 0 baseline
 	 */
@@ -57,7 +93,8 @@ object HelperFunctions {
       CovidSnapshot(daily.date, daily.province_state, daily.country, daily.lat, daily.long,
                     daily.confirmed+cumulative.confirmed,
                     daily.recovered+cumulative.recovered,
-                    daily.active+cumulative.active,
+                    // may be make more formal pattern check to assign None to active when None in both
+                    daily.active+cumulative.active, 
                     daily.deaths+cumulative.deaths,
                     daily.source, combine(daily.tests, cumulative.tests))
   }
@@ -78,14 +115,11 @@ object HelperFunctions {
     val locs = HelperFunctions.distinct(dailySnapshots.snapshots.map(d => GeoLocation(d.lat, d.long)))
     val locCovidSnapshotMap = locs.map(loc => (loc -> filter(dailySnapshots, loc))).toMap
         
-    println(locCovidSnapshotMap)
     // Compute for each distinct date
     val datesSorted = dailySnapshots.snapshots.map(dS => dS.date).distinct.map(dSS => (dSS, HelperFunctions.getDate(dSS))).sortWith((a,b) => a._2.before(b._2))    
     // Cumulative on day i is cumulative on day i-1 + daily on day i
     val dateMin = datesSorted(0)
     val dateMax = datesSorted.last
-//    println(dateMin, dateMax)
-//    println(dateMin._2.getDate,dateMax._2.getDate)
     val diffDays = HelperFunctions.daysBetween(dateMin._2, dateMax._2)
     val mapLocationDateToCovidSnapshot = scala.collection.mutable.Map[(GeoLocation, Date), CovidSnapshot]()
     val mapLocationToAnnotation = scala.collection.mutable.Map[GeoLocation, List[Annotation]]()
@@ -123,11 +157,10 @@ object HelperFunctions {
         }
       }
       val cumulativeSnapshotsForLoc = CovidSnapshots(mapLocationDateToCovidSnapshot.filter(x => sameLoc(x._1._1,loc)).values.toList)
-      println(cumulativeSnapshotsForLoc.snapshots.length + "for loc" + loc)
       // we have the cumulatives finished here so we can compute the annotations now
       generateAnnotations match {
         case false => // do nothing
-        case true => mapLocationToAnnotation.+=(loc -> addAnnotation(locCovidSnapshotMap(loc),cumulativeSnapshotsForLoc, datesSorted, 4, 4, List(7,14,21)))
+        case true => mapLocationToAnnotation.+=(loc -> createAnnotation(locCovidSnapshotMap(loc),cumulativeSnapshotsForLoc, 4, 4, List(7,14,21)))
       }
     })
     
@@ -142,96 +175,104 @@ object HelperFunctions {
   /**
    * sort the snapshots per the earliest reported date to the latest reported date
    */
-  
   def sortSnapshots(cs: List[CovidSnapshot]): List[CovidSnapshot] = {
     cs.sortWith((a,b) => HelperFunctions.beforeOrEqual(a.date,b.date))
   }
   
-  /**
-   * 
-   */
-  def dailyGrowthEstimate(dSorted: List[CovidSnapshot], maxLookUpDays: Int): Double = {
-    
-    println(dSorted.length)
-    dSorted.length > 1 match {
-      case false => 0.0
+  
+  def findNonZeroElement(sortedSnapshot: List[CovidSnapshot], maxLookUpDays: Int): Option[Int] = {
+    sortedSnapshot.length > 1 match {
+      case false => None // first time occurence set to 0
       case true => {
-    	  val reverseSorted = dSorted.reverse
-    			  dSorted.last.confirmed > 0 match {
-    			    case false => 0.0
+    	  val reverseSorted = sortedSnapshot.reverse
+    			  sortedSnapshot.last.confirmed > 0L match {
+    			    case false => None // if latest value is 0, set to 0
     			    case true => {
-    				    Range(1, scala.math.min(dSorted.length,maxLookUpDays)).map(i => (i -> reverseSorted(i))).find(x => x._2.confirmed >0L) match {
-    				      case None => 0.0
-    				      case Some(y) => {
-    					      scala.math.pow((dSorted.last.confirmed.toDouble/dSorted(y._1).confirmed.toDouble),(1.0/y._1.toDouble))
+    				    Range(1, scala.math.min(sortedSnapshot.length,maxLookUpDays)).map(i => (i -> reverseSorted(i))).find(x => x._2.confirmed >0L) match {
+    				      case None => None // this one can be debated to default to some other value
+    				      case Some(y) => Some(y._1)
     				      }
     				    }
     			    }
     			  }
-      
-      }
+    }    
+  }
+
+  
+  def dailyGrowthEstimate(dSorted: List[CovidSnapshot], maxLookUpDays: Int): Double = {
+    val lengthSnapshots = dSorted.length
+    val y = findNonZeroElement(dSorted, maxLookUpDays)
+    y match {
+      case None => 0.0 // this one can be debated to default to some other value
+    	case Some(x: Int) => scala.math.pow((dSorted(lengthSnapshots-1).confirmed.toDouble/dSorted(lengthSnapshots-x-1).confirmed.toDouble),(1.0/x.toDouble))
     }
   }
   
-  /**
-   * 
-   */
+
   def alphaEstimate(csSorted: List[CovidSnapshot], maxLookUpDays: Int): Double = {
+    val lengthSnapshots = csSorted.length
+    val y = findNonZeroElement(csSorted, maxLookUpDays)
+    y match {
+      case None => 0.0 // this one can be debated to default to some other value
+    	case Some(x: Int) => (scala.math.log(csSorted(lengthSnapshots-1).confirmed.toDouble)-scala.math.log(csSorted(lengthSnapshots-x-1).confirmed.toDouble))/x.toDouble
+    }
+  }
+  
+  def stringForDays(days: Int): String = {
     
-    csSorted.length >1 match {
-      case false => 0.0
-      case true => {
-        println("Alpha " + csSorted.length)
-        val reverseSorted = csSorted.reverse
-        csSorted.last.confirmed > 0 match {
-          case false => 0.0
-          case true => {
-            Range(1, scala.math.min(csSorted.length,maxLookUpDays)).map(i => (i -> reverseSorted(i))).find(x => x._2.confirmed >0L) match {
-              case None => 0.0
-              case Some(y) => {
-                (scala.math.log(csSorted.last.confirmed.toDouble)-scala.math.log(reverseSorted(y._1).confirmed.toDouble))/y._1.toDouble
-              }
-            }
-          }
+    days == 1 match {
+      case true => "daily"
+      case false => {
+        days/7 match {
+          case 1 => "weekly"
+          case 2 => "biweekly"
+          case 3 => "triweekly"
+          case _ => "not supported"
         }
       }
     }
   }
-  
   /**
    * This takes in daily and cumulative CovidSnapshots for a specific location and upto a specific date
    * The caller has the responsibility to provide continuous data at this point so no date is missing
    * between the min and the max date for the snapshots
    */
   
-  def addAnnotation(dailySnapshots: CovidSnapshots, cumulativeSnapshots: CovidSnapshots, datesSorted: List[(String,Date)], 
+  def createAnnotation(dailySnapshots: CovidSnapshots, cumulativeSnapshots: CovidSnapshots,  
                      alphaWindow: Int, growthWindow: Int, movingAverageWindows: List[Int]): List[Annotation] = {
     
+     
+     
+    val daysToString = movingAverageWindows.map(x => (x, stringForDays(x))).toMap
     val province = dailySnapshots.snapshots(0).province_state
     val country = dailySnapshots.snapshots(0).country
     val lat = dailySnapshots.snapshots(0).lat
     val long = dailySnapshots.snapshots(0).long
+    val datesSorted = dailySnapshots.snapshots.map(dS => dS.date).distinct.map(dSS => (dSS, HelperFunctions.getDate(dSS))).sortWith((a,b) => a._2.before(b._2))
     
     val dateMin = datesSorted(0)
     val dateMax = datesSorted.last
+    
     val diffDays = HelperFunctions.daysBetween(dateMin._2, dateMax._2)
     val mapIndexToAnnotationMetrics = scala.collection.mutable.Map[Int, (Double, Double, Double)]()
-    val mapIndexToAnnotationAverageMetrics = scala.collection.mutable.Map[Int, (Array[(Int,Double)], Array[(Int,Double)], Array[(Int,Double)])]()
-    println("B " + cumulativeSnapshots.snapshots.length)
+    val mapIndexToAnnotationAverageMetrics = scala.collection.mutable.Map[Int, (Array[(String,Double)], Array[(String,Double)], Array[(String,Double)])]()
     val cumulativeSnapshotsSorted = sortSnapshots(cumulativeSnapshots.snapshots)
-    println("A " + cumulativeSnapshotsSorted.length)
     
     Range(0,diffDays.toInt+1).foreach(i => {
       val dt = datesSorted(i)._2
       val dtString = datesSorted(i)._1
       // check if there are any snapshots for this loc,dt combination
-//      println("Before error " + cumulativeSnapshotsSorted(i))
       val currentCumulativeSnapshot = cumulativeSnapshotsSorted(i)
-      val cumulativeDeathRate = (currentCumulativeSnapshot.deaths.toDouble/currentCumulativeSnapshot.confirmed.toDouble)
+      val cumulConfirmed = currentCumulativeSnapshot.confirmed.toDouble
+      val cumulDeaths = currentCumulativeSnapshot.deaths.toDouble
+      val cumulativeDeathRate = cumulConfirmed > 0.0 match {
+        case true => (cumulDeaths/cumulConfirmed)
+        case false => 0.0
+      }
       val matchesFoundDaily = dailySnapshots.snapshots.filter(ds => HelperFunctions.getDate(ds.date).before(dt))
       
-      println("I " + cumulativeSnapshotsSorted.slice(0,i+1).length)
-      val estimatedAlpha = alphaEstimate(cumulativeSnapshotsSorted.slice(0,i+1),alphaWindow) // make 3 a param
+//      println("I " + cumulativeSnapshotsSorted.slice(0,i+1).length)
+      val estimatedAlpha = alphaEstimate(cumulativeSnapshotsSorted.slice(0,i+1),alphaWindow) 
       
       val growthRateDaily =  dailyGrowthEstimate(matchesFoundDaily, growthWindow)
       mapIndexToAnnotationMetrics.+=(i -> (estimatedAlpha, cumulativeDeathRate,growthRateDaily))
@@ -241,26 +282,27 @@ object HelperFunctions {
     
     // Let's create the mean over the right window sizes
     Range(0,diffDays.toInt+1).foreach(j => {
-        	val listEstimatedAlphaMA = scala.collection.mutable.ListBuffer[(Int, Double)]()
-    			val listCumulativeDeathRateMA = scala.collection.mutable.ListBuffer[(Int, Double)]()
-    			val listGrowthRateDailyMA = scala.collection.mutable.ListBuffer[(Int, Double)]()
+        	val listEstimatedAlphaMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._1))
+    			val listCumulativeDeathRateMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._2))
+    			val listGrowthRateDailyMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._3))
       movingAverageWindows.foreach(m => {
+     
       val windowLeftIndex = scala.math.max(0,j-m)
       val movingAverageRange = Range(windowLeftIndex,j).toList
       val movingAverages = movingAverageRange.map(k => mapIndexToAnnotationMetrics.get(k).get).foldLeft((0.0, 0.0, 0.0))((a,b) => (a._1+b._1,a._2+b._2,a._3+b._3))
-      listEstimatedAlphaMA.+=((m,(movingAverages._1/m.toDouble)))
-      listCumulativeDeathRateMA.+=((m,(movingAverages._2/m.toDouble)))
-      listGrowthRateDailyMA.+=((m, (movingAverages._3/m.toDouble)))
+      listEstimatedAlphaMA.+=((daysToString(m),(movingAverages._1/m.toDouble)))
+      listCumulativeDeathRateMA.+=((daysToString(m),(movingAverages._2/m.toDouble)))
+      listGrowthRateDailyMA.+=((daysToString(m), (movingAverages._3/m.toDouble)))
       })
       mapIndexToAnnotationAverageMetrics.+=(j-> (listEstimatedAlphaMA.toList.toArray,listCumulativeDeathRateMA.toList.toArray,listGrowthRateDailyMA.toList.toArray))
     })
     
     // now combine them into the annotation object
     Range(0,diffDays.toInt+1).toList.map(l => {
-      val map1Value = mapIndexToAnnotationMetrics.get(l).get
       val map2Value = mapIndexToAnnotationAverageMetrics.get(l).get
-      Annotation(datesSorted(l)._1, province, country, lat, long, map1Value._1, map1Value._2, map1Value._3,map2Value._1, map2Value._2, map2Value._3)
+      Annotation(datesSorted(l)._1, province, country, lat, long, map2Value._1, map2Value._2, map2Value._3)
     })      
+    
   }    
 
   /**
@@ -294,7 +336,7 @@ object HelperFunctions {
    * This might need to be replaced with something that is not deprecated
    */
   def daysBetween(date1: Date, date2: Date): Long = {
-   ChronoUnit.DAYS.between(LocalDate.of(date1.getYear, date1.getMonth, date1.getDate), LocalDate.of(date2.getYear, date2.getMonth, date2.getDate))
+   ChronoUnit.DAYS.between(LocalDate.of(date1.getYear, date1.getMonth+1, date1.getDate), LocalDate.of(date2.getYear, date2.getMonth+1, date2.getDate))
   }
   
   /**

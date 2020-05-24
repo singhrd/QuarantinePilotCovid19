@@ -12,16 +12,9 @@ package quarantine.covid19.core
  *  @param country: The reference country for the Annotation
  *  @param lat: The reference latitude for the province_state or Country of the Annotation
  *  @param long: The reference latitude for the province_state or Country of the Annotation
- *  @param estimatedAlpha: spreadRate in the logistic/exponential equation 
- *                         (Log[confirmed cases at time k] - Log[confirmed cases at time k - delta])/delta, delta = 1 by default
- *  @param cumulativeDeathRate: total deaths / total confirmed as of date in this Annotation
- *  @param dailyGrowthRate: ((daily confirmed cases at date)/(daily confirmed cases at date - delta days))^(1/delta), delta = 1 by default
- *  @param cumulativePositiveRate: total confirmed / total tested as of date in this annotation
- *  @param movingAverageDeathRate: average of cumulativeDeathRate over movingAverageWindowSize
- *  @param movingAverageGrowthRate: average of dailyGrowthRate over movingAverageWindowSize
- *  @param movingAveragePositiveRate: average of cumulativePositiveRate over movingAverageWindowSize
- *  @param movingAverageWindowSize: time window over which the moving averages in this Annotation were computed
- *  @param spreadWindowSize: time window/delta in computing the alpha
+ *  @param movingAverageEstimatedAlpha: Array of average spread rate over movingAverageWindowSize
+ *  @param movingAverageDeathRate: Array of average cumulativeDeathRate over movingAverageWindowSize
+ *  @param movingAverageGrowthRate: Array of average dailyGrowthRate over movingAverageWindowSize
  * 
  * @author rajdeep
  */
@@ -30,12 +23,13 @@ case class Annotation(date: String,
                        country: String, 
                        lat: String, 
                        long: String, 
-                       estimatedAlpha: Double, 
-                       cumulativeDeathRate: Double, 
-                       dailyGrowthRate: Double,  
-                       movingAverageEstimatedAlpha:Array[(Int,Double)],
-                       movingAverageDeathRate: Array[(Int,Double)], 
-                       movingAverageGrowthRate: Array[(Int,Double)])
+// spreadRate in the logistic/exponential equation 
+//                         (Log[confirmed cases at time k] - Log[confirmed cases at time k - delta])/delta, delta = 1 by default                       
+                       movingAverageEstimatedAlpha:Array[(String,Double)],
+//cumulativeDeathRate: total deaths / total confirmed as of date in this Annotation
+                       movingAverageDeathRate: Array[(String,Double)], 
+// dailyGrowthRate: ((daily confirmed cases at date)/(daily confirmed cases at date - delta days))^(1/delta), delta = 1 by default
+                       movingAverageGrowthRate: Array[(String,Double)])
 //                       cumulativePositiveRate: Option[Double] = None, 
 //                       movingAveragePositiveRate: Option[Double] = None, 
 
