@@ -15,7 +15,9 @@ val scalaTestVersion = "3.0.0"
 
 //=============================================================================
 // Stuff dealing with ScalaTest dependencies
+
 libraryDependencies += "org.scalactic" %% "scalactic" % scalaTestVersion
+
 
 libraryDependencies += "org.scalatest" %% "scalatest" % scalaTestVersion % "test"
 //^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
