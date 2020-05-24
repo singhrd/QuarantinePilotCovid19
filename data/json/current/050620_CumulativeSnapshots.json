@@ -1586,14 +1586,14 @@
   }, {
     "province_state": "Washington",
     "source": "JHU",
-    "deaths": 73431,
-    "confirmed": 1228603,
+    "deaths": 73455,
+    "confirmed": 1229331,
     "recovered": 189910,
     "country": "US",
     "long": "-77",
     "date": "5/6/20",
     "lat": "38.883333",
-    "active": 1036326
+    "active": 1037030
   }, {
     "province_state": "Tashkent",
     "source": "JHU",
@@ -1891,5 +1891,16 @@
     "date": "5/6/20",
     "lat": "38.55",
     "active": 376
+  }, {
+    "province_state": "Maseru",
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "country": "Lesotho",
+    "long": "27.483333",
+    "date": "5/6/20",
+    "lat": "-29.3166666667",
+    "active": 0
   }]
 }
