@@ -60,8 +60,4 @@ to less than 1.0 and staying below 1.0 indicates that we are close to an inflect
 As mentioned before there is a lag between the confimed cases and the resolution 
 of those confirmed cases by several weeks. We provide a crude measure for now
 
-   - Fatality rate = [Cumulative deaths at time t]/[Cumulative confirmed cases at time t]
-     
-
- 
-    
+   - Fatality rate = [Cumulative deaths at time t]/[Cumulative confirmed cases at time t]    

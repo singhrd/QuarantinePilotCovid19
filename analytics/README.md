@@ -25,7 +25,6 @@ The Analytics code handles the following:
 The Underlying schema for the CovidSnapshots (daily or cumulative) is basically 
 derived in a straight forward way from the csv. 
 
-  - [analytics/src/main/scala/quarantine/covid19/core/](CovidSnapshot.scala)
   - confirmed - number of cases confirmed positive for COVID19 via testing
   - recovered - number of confirmed cases that resolved with recovery
   - deaths - number of confirmed cases that resolved with demise
@@ -62,78 +61,4 @@ to less than 1.0 and staying below 1.0 indicates that we are close to an inflect
 As mentioned before there is a lag between the confimed cases and the resolution 
 of those confirmed cases by several weeks. We provide a crude measure for now
 
-   - Fatality rate = [Cumulative deaths at time t]/[Cumulative confirmed cases at time t]
-     
-
- 
-
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-    
+   - Fatality rate = [Cumulative deaths at time t]/[Cumulative confirmed cases at time t] 
