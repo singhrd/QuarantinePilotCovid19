@@ -24,7 +24,7 @@ The Analytics code handles the following:
 The Underlying schema for the CovidSnapshots (daily or cumulative) is basically 
 derived in a straight forward way from the csv. 
 
-  - [analytics/src/main/scala/quarantine/covid19/core/](CovidSnapshot.scala)
+  - [https://github.com/aspergillusOryzae/QuarantinePilotCovid19/tree/master/analytics/src/main/scala/quarantine/covid19/core](CovidSnapshot.scala)
   - confirmed - number of cases confirmed positive for COVID19 via testing
   - recovered - number of confirmed cases that resolved with recovery
   - deaths - number of confirmed cases that resolved with demise
