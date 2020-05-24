@@ -36,8 +36,8 @@
                 </div>
             </div>
             <div class="card-body">
+                <p *ngIf="!noChartData" class="card-text text-muted">{{ chartDescriptionText }}</p>
                 <div>
-                    
                     <div id="lineContainer" class="chart-container"></div>
                     <!-- <app-line-chart></app-line-chart> -->
                 </div>

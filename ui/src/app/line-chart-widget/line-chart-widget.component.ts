@@ -20,19 +20,30 @@ export class LineChartWidgetComponent implements OnInit {
   chart: any = null;
   // Data set vars
   data: Array<any> = [];
-  // dataSet2: anychart.data.Set = null;
 
+  // Dropdown options
   locations = LocationsByCountryName;
+  availableLocations = [];
   selectedLocations: Array<string> = [];
 
   windowsAvailable = ['daily', 'weekly', 'biweekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
+
   metrics = ['spread rate', 'daily growth rate', 'fatality rate'];
   selectedMetric = this.metrics[0];
+
+  chartDescriptions = [
+    'Spread rate description',
+    'Daily growth rate description',
+    'Fatality rate description'
+  ];
+  chartDescriptionText = this.chartDescriptions[0];
   noChartData = true;
 
-  availableLocations = [];
-
+  /**
+   * Constructor
+   * @param service 
+   */
   constructor(private service: CovidReportService) {
     this.createMultiselectLabels();
   }
@@ -42,7 +53,6 @@ export class LineChartWidgetComponent implements OnInit {
    * @param day - window to get the moving average for
    */
   selectWindow(window: string) {
-    console.log('new window:', window);
     this.selectedWindow = window;
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
   }
@@ -52,9 +62,12 @@ export class LineChartWidgetComponent implements OnInit {
    * @param metric - metric type
    */
   selectMetric(metric: string) {
-    console.log('new metric:', metric);
     this.selectedMetric = metric;
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
+
+    // update description text
+    const idx = this.metrics.indexOf(this.selectedMetric);
+    this.chartDescriptionText = this.chartDescriptions[idx];
   }
 
   /**
@@ -115,6 +128,11 @@ export class LineChartWidgetComponent implements OnInit {
        });
   }
 
+  /**
+   * Generate the line chart with given input data set.
+   * @param data - input data set
+   * @param labels - labels for data set
+   */
   generateChart(data, labels) {
     this.destroyChart();
     this.chart = anychart.line();
@@ -175,6 +193,9 @@ export class LineChartWidgetComponent implements OnInit {
     this.chart.draw();
   }
 
+  /**
+   * Set the multi-select options based on the contry list.
+   */
   createMultiselectLabels() {
     let locationsMultiselect = [];
     this.locations.forEach(country => {
@@ -183,8 +204,10 @@ export class LineChartWidgetComponent implements OnInit {
     this.availableLocations = locationsMultiselect;
   }
 
+  /**
+   * Hide the multiselect panel, kick off chart update.
+   */
   hidePanel() {
-    console.log('panel is hidden!');
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
   }
 
@@ -192,7 +215,6 @@ export class LineChartWidgetComponent implements OnInit {
    * Destroy an existing chart before re-writing.
    */
   destroyChart(): void {
-    console.log('destroy chart line');
     if (this.chart) {
       if (this.chart.container()) {
         this.chart.container().remove();
@@ -204,9 +226,6 @@ export class LineChartWidgetComponent implements OnInit {
   ngOnInit(): void {
     console.log('line init');
     this.alive = true;
-    // this.destroyChart();
-    // this.getData(['San Diego'], 7, 'growth');
-    // this.renderer.setProperty(this.el.nativeElement, 'id', this.uuid);
   }
 
 }
