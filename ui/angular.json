@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "quarantine-pilot-covid-19": {
@@ -126,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "quarantine-pilot-covid-19"
+    }
+  },
+  "defaultProject": "quarantine-pilot-covid-19",
+  "cli": {
+    "analytics": "44ec595d-b8e8-4fcc-8915-a771a9f26018"
+  }
 }

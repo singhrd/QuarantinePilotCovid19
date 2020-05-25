@@ -3,7 +3,10 @@
 dateToday=`date +"%Y-%m-%d"`
 
 echo dateToday
-baseDir="/home/rajdeep/workspace/QuarantinePilotCovid19/"
+
+#/home/rajdeep/workspace/QuarantinePilotCovid19/
+
+baseDir="../../../../"
 echo $baseDir
 
 baseSourceDir="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19"
@@ -33,7 +36,8 @@ mv *.csv "${baseDir}data/csv/current/"
 # now run the analytics code and it should put the data in the right ui folder
 
 cd ../../../../
-#sbt run
+
+sbt run
 
 # then generate a canned add/commit with the current date
 # then push 

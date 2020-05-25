@@ -9,6 +9,10 @@ export class ResultsPerDate {
     'date': string;
     'lat': number;
     'active': number;
+    'activeNormalized':number;
+    'confirmedNormalized':number;
+    'deathsNormalized':number;
+    'recoveredNormalized':number;            
 }
 
 export class ResultMessage {

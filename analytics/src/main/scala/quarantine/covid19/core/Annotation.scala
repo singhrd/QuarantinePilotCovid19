@@ -29,7 +29,8 @@ case class Annotation(date: String,
 //cumulativeDeathRate: total deaths / total confirmed as of date in this Annotation
                        movingAverageDeathRate: Array[(String,Double)], 
 // dailyGrowthRate: ((daily confirmed cases at date)/(daily confirmed cases at date - delta days))^(1/delta), delta = 1 by default
-                       movingAverageGrowthRate: Array[(String,Double)])
+                       movingAverageGrowthRate: Array[(String,Double)],
+                       movingAverageControlAssessment: Array[(String,Double)])
 //                       cumulativePositiveRate: Option[Double] = None, 
 //                       movingAveragePositiveRate: Option[Double] = None, 
 

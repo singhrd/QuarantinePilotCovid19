@@ -22,15 +22,29 @@ import quarantine.covid19.core.JsonSupport
 object InputOutput extends JsonSupport {
   
   
+  val ONE_HUNDRED_THOUSAND = 100000.0
+  val EPIDEMIC_CONTROL_THRESHOLD_PER_100K = 0.5
+  
   val COMMA_DELIMITER = ","
-  val DEFAULT_DELIMITER = COMMA_DELIMITER
   val DOUBLE_QUOTES = "\""
-  val countryMapFileName = "/home/rajdeep/workspace/QuarantinePilotCovid19/data/csv/general/concap.csv"
+
+  val DEFAULT_DELIMITER = COMMA_DELIMITER
+  val countryMapFileName = "../data/csv/general/concap.csv"
+  val countryPopulationMapFileName = "../data/csv/general/populationcountry2020.csv"  
  
   val countryMap = readCSV(countryMapFileName).map(x => {
     val elements = tokenize(x,Some(COMMA_DELIMITER))
     (elements(0) -> (elements(1),GeoLocation(elements(2),elements(3))))
   }).toMap
+  
+  
+  val countryPopulationMap= {
+    val lines = readCSV(countryPopulationMapFileName)
+    lines.slice(1,lines.length).map(x => {
+    val elements = tokenize(x,Some(COMMA_DELIMITER))
+    (elements(0) -> (elements(1).toDouble/ONE_HUNDRED_THOUSAND, elements(1).toDouble*EPIDEMIC_CONTROL_THRESHOLD_PER_100K/ONE_HUNDRED_THOUSAND))
+  }).toMap
+  }
   
   def writeToFile(bytes: Array[Byte], filePath: String) = {
     
@@ -103,6 +117,13 @@ object InputOutput extends JsonSupport {
       countryMap.contains(c) match {
         case true => {
           val countryMapValue = countryMap(c)
+          val (normalizerCountry, ecCountry) = countryPopulationMap.contains(c) match {
+            case true => (countryPopulationMap(c)._1, countryPopulationMap(c)._2)
+            case false => {
+              println("** missing key " + c)
+              (1.0,0.5)
+            }
+          }
           val (confirmedCumul, confirmedDaily) = combineCountryRecords(mapConfirmed(c), firstDateIndex, c)
           val (recoveredCumul, recoveredDaily) = combineCountryRecords(mapRecovered(c), firstDateIndex, c)
           val (deathsCumul, deathsDaily) = combineCountryRecords(mapDeaths(c), firstDateIndex, c)
@@ -115,10 +136,11 @@ object InputOutput extends JsonSupport {
                                                          c, 
                                                          countryMapValue._2.lat.toString(), 
                                                          countryMapValue._2.long.toString(),
-                                                         confirmedDaily(i),
-                                                         recoveredDaily(i),
-                                                         0L, // compute active
-                                                         deathsDaily(i),
+                                                         confirmedDaily(i), confirmedDaily(i).toDouble/normalizerCountry,
+                                                         recoveredDaily(i),recoveredDaily(i).toDouble/normalizerCountry,
+                                                         0L, 0.0,// daily active does not make much sense
+                                                         deathsDaily(i),deathsDaily(i).toDouble/normalizerCountry,
+                                                         ecCountry,
                                                          "JHU",
                                                          None))
           val activeCumulative = confirmedCumul(i)-deathsDaily(i)-recoveredCumul(i)                                                    
@@ -127,10 +149,11 @@ object InputOutput extends JsonSupport {
                                                          c, 
                                                          countryMapValue._2.lat.toString(), 
                                                          countryMapValue._2.long.toString(),
-                                                         confirmedCumul(i),
-                                                         recoveredCumul(i),
-                                                         activeCumulative, // compute active
-                                                         deathsCumul(i),
+                                                         confirmedCumul(i),confirmedCumul(i).toDouble/normalizerCountry,
+                                                         recoveredCumul(i),recoveredCumul(i).toDouble/normalizerCountry,
+                                                         activeCumulative, activeCumulative.toDouble/normalizerCountry, 
+                                                         deathsCumul(i),deathsCumul(i).toDouble/normalizerCountry,
+                                                         ecCountry,
                                                          "JHU",
                                                          None))
                                                          
@@ -205,43 +228,5 @@ object InputOutput extends JsonSupport {
                     readCSV(fileNameRecovered).map(line => tokenize(line)),
                     readCSV(fileNameDeaths).map(line => tokenize(line)),countryMap)
   }
-  
-
-    
-
-  
-  def main(args: Array[String]) {
-    
-    
-    val directoryName = "/home/rajdeep/workspace/QuarantinePilotCovid19/data/csv/current/"
-    val outputDirectoryNameSnapshots="/home/rajdeep/workspace/QuarantinePilotCovid19/ui/src/assets/snapshots/"
-
-    val outputDirectoryNameAnnotations="/home/rajdeep/workspace/QuarantinePilotCovid19/ui/src/assets/annotations/"
-    
-    val (dcS, ccS,dcSDate,ccSDate,dcSCountry,ccSCountry) = transformCumulativeDataJHUFormat(directoryName+"time_series_covid19_confirmed_global.csv",
-                                     directoryName+"time_series_covid19_recovered_global.csv",
-                                     directoryName+"time_series_covid19_deaths_global.csv")
-//                                     
-    writeToFile(covidSnapshotsJsonImplicit.write(dcS).prettyPrint.getBytes, outputDirectoryNameSnapshots+"daily-snapshots/dailySnapshots.json")
-    writeToFile(covidSnapshotsJsonImplicit.write(ccS).prettyPrint.getBytes, outputDirectoryNameSnapshots+"cumulative-snapshots/cumulativeSnapshots.json")
-    dcSDate.foreach(x => writeToFile(covidSnapshotsJsonImplicit.write(dcSDate(x._1)).prettyPrint.getBytes, outputDirectoryNameSnapshots+"daily-snapshots/"+HelperFunctions.makeFileNameFriendlyDateString(x._1)+"_DailySnapshots.json"))
-    ccSDate.foreach(x => writeToFile(covidSnapshotsJsonImplicit.write(ccSDate(x._1)).prettyPrint.getBytes, outputDirectoryNameSnapshots+"cumulative-snapshots/"+HelperFunctions.makeFileNameFriendlyDateString(x._1)+"_CumulativeSnapshots.json"))
-    dcSCountry.foreach(x => writeToFile(covidSnapshotsJsonImplicit.write(dcSCountry(x._1)).prettyPrint.getBytes, outputDirectoryNameSnapshots+"daily-snapshots/"+x._1+"_DailySnapshots.json"))
-    ccSCountry.foreach(x => writeToFile(covidSnapshotsJsonImplicit.write(ccSCountry(x._1)).prettyPrint.getBytes, outputDirectoryNameSnapshots+"cumulative-snapshots/"+x._1+"_CumulativeSnapshots.json"))
-//    
-//    
-    val locs = HelperFunctions.distinct(dcS.snapshots.map(d => GeoLocation(d.lat, d.long)))
-    val locCovidSnapshotMap = locs.map(loc => (loc -> (HelperFunctions.filter(dcS, loc),HelperFunctions.filter(ccS, loc)))).toMap
-//        
-//    // Compute for each distinct date
-//
-    val annotations = Annotations(locs.map(loc => HelperFunctions.createAnnotation(locCovidSnapshotMap(loc)._1,locCovidSnapshotMap(loc)._2, 4, 4, List(7,14,21))).flatten)
-    val annotationsCountryMap = dcS.snapshots.map(x => (x.country -> HelperFunctions.pivotAnnotationsOnCountry(annotations, x.country)))
-    val annotationsDateMap = dcS.snapshots.map(x => (x.date -> HelperFunctions.pivotAnnotationsOnCountry(annotations, x.date)))
-    val annotationsJSValue = annotationsJsonImplicit.write(annotations)
-    writeToFile(annotationsJSValue.prettyPrint.getBytes,outputDirectoryNameAnnotations+"annotations.json")
-    annotationsDateMap.foreach(x => writeToFile(annotationsJsonImplicit.write(x._2).prettyPrint.getBytes, outputDirectoryNameAnnotations+HelperFunctions.makeFileNameFriendlyDateString(x._1)+"_Annotations.json"))
-    annotationsCountryMap.foreach(x => writeToFile(annotationsJsonImplicit.write(x._2).prettyPrint.getBytes, outputDirectoryNameAnnotations+x._1+"_Annotations.json"))
-    
-  }
+ 
 }

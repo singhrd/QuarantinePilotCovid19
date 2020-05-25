@@ -5,31 +5,33 @@
 This project is a simple pilot to ingest covid data from a few sources, create 
 some meaningful metrics and make them available for comparison via Angular dashboard.
 
-### How do I run the analytics?
+### How do I compile/run the analytics?
 
-Analytics code is written in scala and can be 
-simply run  by typing the following sbt command on a terminal inside the analytics 
+Analytics code is written in scala and can be compiled/
+run  by typing the following *sbt* command on a terminal inside the analytics 
 home directory. Additional targets will be added in second iteration.
+  - `sbt compile`
   - `sbt run`  
+
   
 ### What does the analytics code do?
 
 The Analytics code handles the following:
 
   - *Ingestion* Daily pull of data from several sources
-  - *Transform* Convert it into a json schema amenable for Angular consumption 
-  - *Annotate* Add additional metrics for the epidemic described in the *Annotation Section*
+  - *Transform* Convert it into a json schema [[CovidSnapshots]] amenable for Angular consumption 
+  - *Annotate*  Add metrics and [[Annotations]] for the epidemic described in the *Annotation Section*
   
 ### CovidSnapshots
 
 The Underlying schema for the CovidSnapshots (daily or cumulative) is basically 
 derived in a straight forward way from the csv. 
 
-  - confirmed - number of cases confirmed positive for COVID19 via testing
-  - recovered - number of confirmed cases that resolved with recovery
-  - deaths - number of confirmed cases that resolved with demise
-  - active - number of confirmed cases that have not resolved or lead to demise
-  - *active = confirmed - deaths - recovered* 
+  - *confirmed* - number of cases confirmed positive for COVID19 via testing
+  - *recovered* - number of confirmed cases that resolved with recovery
+  - *deaths* - number of confirmed cases that resolved with demise
+  - *active* - number of confirmed cases that have not resolved or lead to demise
+  - **active = confirmed - deaths - recovered**
   
 The data from the source is cumulative but we also derive the daily cases for 
 each category. Note that there is a potential lag in the deaths/recovery 
@@ -37,11 +39,10 @@ from the confirmed cases (possibly in weeks), so the active calculation is sligh
 more meaningful for the cumulative snapshot.
 
 
-   
 ### Annotations
 
-We extract some additiona features from the CovidSnapshots, we call metrics.
-There are three metrics we derive:
+We extract some additional metrics as [[Annotations]] from the [[CovidSnapshots]].
+We derive the following three metrics:
 
 #### Spread rate
 

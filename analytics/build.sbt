@@ -31,7 +31,7 @@ libraryDependencies += "io.spray" %% "spray-json" % "1.3.3"
 
 
 // set the main class for packaging the main jar
-mainClass in (Compile, packageBin) := Some("quarantine.covid19.util.InputOutput")
+mainClass in (Compile, packageBin) := Some("quarantine.covid19.util.Driver")
 
 // set the main class for the main 'sbt run' task
-mainClass in (Compile, run) := Some("quarantine.covid19.util.InputOutput")
+mainClass in (Compile, run) := Some("quarantine.covid19.util.Driver")

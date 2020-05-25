@@ -17,7 +17,7 @@
                     </div>
                 </div>
                 <div dropdown class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="metricDropdown"
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="snapshotDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{ selectedSnapshot | titlecase }}
                     </button>
@@ -26,7 +26,18 @@
                             <button class="dropdown-item" type="button" (click)="selectSnapshot(snapshot)">{{ snapshot | titlecase }}</button>
                         </div>
                     </div>
-                </div>    
+                </div> 
+                <div dropdown class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="normalizationDropdown"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{ selectedNormalization | titlecase }}
+                    </button>
+                    <div class="dropdown-menu scrollable-menu" aria-labelledby="normalizationDropdown">
+                        <div *ngFor="let normalization of normalizations">
+                            <button class="dropdown-item" type="button" (click)="selectNormalization(normalization)">{{ normalization | titlecase }}</button>
+                        </div>
+                    </div>
+                </div>                    
             </div>
             <div class="card-body">
                 <div>

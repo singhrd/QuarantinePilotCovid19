@@ -28,14 +28,15 @@ export class LineChartWidgetComponent implements OnInit {
 
   windowsAvailable = ['daily', 'weekly', 'biweekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
+  metrics = ['spread rate', 'daily growth rate', 'fatality rate','epidemic control ratio'];
 
-  metrics = ['spread rate', 'daily growth rate', 'fatality rate'];
   selectedMetric = this.metrics[0];
 
   chartDescriptions = [
-    'Spread rate description',
-    'Daily growth rate description',
-    'Fatality rate description'
+    'Rate of growth of cumulative confirmed cases. Similar to rho.',
+    'Ratio of daily confirmed cases over successive days. Value less than 1 for a sustained period indicates inflection point (peak) has been reached.',
+    'Percentage deaths within confirmed cases. Flu fatality rate is 0.1%.',
+    'Ratio of daily confirmed cases to threshold per capita. Value less than 1 for 3 weeks implies the epidemic is under control'
   ];
   chartDescriptionText = this.chartDescriptions[0];
   noChartData = true;
@@ -106,6 +107,9 @@ export class LineChartWidgetComponent implements OnInit {
               }
               if (metric === 'fatality rate') {
                 metricData = entry.movingAverageDeathRate;
+              }
+             if (metric === 'epidemic control ratio') {
+                metricData = entry.movingAverageControlAssessment;
               }
               metricData.filter(windowInfo => {
                 if (windowInfo[0] === window) {

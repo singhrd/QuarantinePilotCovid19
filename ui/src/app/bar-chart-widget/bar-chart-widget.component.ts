@@ -14,9 +14,13 @@ export class BarChartWidgetComponent implements OnInit {
 
   // TODO make into dropdown for location
   locations = LocationsByCountryName;
-  selectedLocation = 'US';
   snapshots = ['daily','cumulative'];
+  normalizations = ['absolute','per-capita'];
+  
+  selectedLocation = 'US';
   selectedSnapshot = this.snapshots[0];
+  selectedNormalization = this.normalizations[1];
+  
   dataSet = [];
   dataLabels = ['Date', 'Active', 'Recovered', 'Deaths'];
 
@@ -33,7 +37,10 @@ export class BarChartWidgetComponent implements OnInit {
         // const filteredData = res.snapshots.filter(item => item.country === this.selectedLocation);
 
         res.snapshots.forEach(entry => {
-          displayData.push([entry.date, entry.active, entry.recovered,entry.deaths]);
+          if(this.selectedNormalization === 'absolute')
+            displayData.push([entry.date, entry.active, entry.recovered,entry.deaths]);
+          else
+            displayData.push([entry.date, entry.activeNormalized, entry.recoveredNormalized,entry.deathsNormalized]);
         });
         this.dataSet = displayData;
       }
@@ -53,7 +60,12 @@ export class BarChartWidgetComponent implements OnInit {
     this.populateDataSet();
   }
 
-
+  selectNormalization(normalization: string) {
+    console.log('new normalization:', normalization);
+    this.selectedNormalization = normalization;
+    this.populateDataSet();
+  }
+  
   ngOnInit(): void {
     this.populateDataSet();
   }
