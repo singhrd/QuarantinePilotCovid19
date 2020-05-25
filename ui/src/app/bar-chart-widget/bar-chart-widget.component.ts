@@ -12,15 +12,16 @@ export class BarChartWidgetComponent implements OnInit {
 
   @Input() uuid: string;
 
-  // TODO make into dropdown for location
   locations = LocationsByCountryName;
-  snapshots = ['daily','cumulative'];
-  normalizations = ['absolute','per-capita'];
-  
+  snapshots = ['daily', 'cumulative'];
+  normalizations = ['absolute', 'per-capita'];
+  yAxisTitles = ['Cases', 'Cases per capita'];
+
   selectedLocation = 'US';
   selectedSnapshot = this.snapshots[0];
   selectedNormalization = this.normalizations[1];
-  
+  yAxisTitle = this.yAxisTitles[1];
+
   dataSet = [];
   dataLabels = ['Date', 'Active', 'Recovered', 'Deaths'];
 
@@ -33,14 +34,12 @@ export class BarChartWidgetComponent implements OnInit {
     const displayData = [];
     this.service.getCovidResults(this.selectedLocation, this.selectedSnapshot).subscribe((res: ResultMessage) => {
       if (res.snapshots) {
-        // Filter based on location
-        // const filteredData = res.snapshots.filter(item => item.country === this.selectedLocation);
-
         res.snapshots.forEach(entry => {
-          if(this.selectedNormalization === 'absolute')
-            displayData.push([entry.date, entry.active, entry.recovered,entry.deaths]);
-          else
-            displayData.push([entry.date, entry.activeNormalized, entry.recoveredNormalized,entry.deathsNormalized]);
+          if (this.selectedNormalization === 'absolute') {
+            displayData.push([entry.date, entry.active, entry.recovered, entry.deaths]);
+          } else {
+            displayData.push([entry.date, entry.activeNormalized, entry.recoveredNormalized, entry.deathsNormalized]);
+          }
         });
         this.dataSet = displayData;
       }
@@ -48,24 +47,37 @@ export class BarChartWidgetComponent implements OnInit {
 
   }
 
+  /**
+   * Location dropdown callback
+   * @param loc - selected location
+   */
   selectLocation(loc: string) {
-    console.log('new location:', loc);
     this.selectedLocation = loc;
     this.populateDataSet();
   }
-  
+
+  /**
+   * Snapshot type dropdown callback
+   * @param snapshot - selected snapshot
+   */
   selectSnapshot(snapshot: string) {
-    console.log('new snapshot:', snapshot);
     this.selectedSnapshot = snapshot;
     this.populateDataSet();
   }
 
-  selectNormalization(normalization: string) {
-    console.log('new normalization:', normalization);
+  /**
+   * Normalization dropdown callback
+   * @param normalization - selected normalization
+   */
+  selectNormalization(normalization: string, idx: number) {
     this.selectedNormalization = normalization;
+    this.yAxisTitle = this.yAxisTitles[idx];
     this.populateDataSet();
   }
-  
+
+  /**
+   * Init lifecycle hook
+   */
   ngOnInit(): void {
     this.populateDataSet();
   }

@@ -28,7 +28,7 @@ export class LineChartWidgetComponent implements OnInit {
 
   windowsAvailable = ['daily', 'weekly', 'biweekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
-  metrics = ['spread rate', 'daily growth rate', 'fatality rate','epidemic control ratio'];
+  metrics = ['spread rate', 'daily growth rate', 'fatality rate', 'epidemic control ratio'];
 
   selectedMetric = this.metrics[0];
 
@@ -62,12 +62,9 @@ export class LineChartWidgetComponent implements OnInit {
    * Update selected metric, redraw graph
    * @param metric - metric type
    */
-  selectMetric(metric: string) {
+  selectMetric(metric: string, idx: number) {
     this.selectedMetric = metric;
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
-
-    // update description text
-    const idx = this.metrics.indexOf(this.selectedMetric);
     this.chartDescriptionText = this.chartDescriptions[idx];
   }
 
@@ -79,28 +76,34 @@ export class LineChartWidgetComponent implements OnInit {
    */
   getData(locations: Array<string>, window: string, metric: string) {
     this.noChartData = true;
-    let displayData = [];
+    const displayData = [];
     const requestArray = [];
-    let labels = [];
+    const labels = [];
 
+    // Skip empty data sets
     if (locations.length === 0) {
       return;
     }
 
+    // Reset chart data, create list of service calls for all selected locations
     this.noChartData = false;
     locations.forEach(loc => {
       requestArray.push(this.service.getAnnotations(loc));
       labels.push(loc);
     });
 
+    // Wait for all service calls to return before proceeding
     forkJoin(requestArray)
       // .takeWhile(() => this.alive)
       .subscribe(allResponses => {
+        // Loop over all responses (one per selected location)
         for (let i = 0; i < allResponses.length; i++) {
           const res: any = allResponses[i];
           let arr = new Array<number>(allResponses.length);
           if (res.elements) {
+            // Loop over each date of data within each location
             res.elements.forEach((entry, j) => {
+              // Plot the selected metric
               let metricData = entry.movingAverageGrowthRate;
               if (metric === 'spread rate') {
                 metricData = entry.movingAverageEstimatedAlpha;
@@ -108,28 +111,34 @@ export class LineChartWidgetComponent implements OnInit {
               if (metric === 'fatality rate') {
                 metricData = entry.movingAverageDeathRate;
               }
-             if (metric === 'epidemic control ratio') {
+              if (metric === 'epidemic control ratio') {
                 metricData = entry.movingAverageControlAssessment;
               }
+              // Grab the value based on selected time period
               metricData.filter(windowInfo => {
                 if (windowInfo[0] === window) {
                   if (i === 0) {
-                    // push initial label and empty arrays for data
+                    // Push initial label and empty arrays for data
+                    // 2D array that is organized by:
+                    // [ date1, location1, location2, location3, ... ]
+                    // [ date2, location1, location2, location3, ... ]
+                    // [ date3, location1, location2, location3, ... ]
                     let arr2 = [entry.date].concat(arr);
                     displayData.push(arr2);
                   }
+                  // Set value for the array in the column based on location index
                   displayData[j][i + 1] = windowInfo[1];
                 }
               });
             });
           }
         }
-
+        // Generate the chart
         this.generateChart(displayData, labels);
 
       }, err => {
         // TODO
-       });
+      });
   }
 
   /**
@@ -141,9 +150,9 @@ export class LineChartWidgetComponent implements OnInit {
     this.destroyChart();
     this.chart = anychart.line();
 
-    let dataSet = anychart.data.set(data);
-    let seriesData = [];
-    let series = [];
+    const dataSet = anychart.data.set(data);
+    const seriesData = [];
+    const series = [];
 
     // turn on chart animation
     this.chart.animation(true);
@@ -201,7 +210,7 @@ export class LineChartWidgetComponent implements OnInit {
    * Set the multi-select options based on the contry list.
    */
   createMultiselectLabels() {
-    let locationsMultiselect = [];
+    const locationsMultiselect = [];
     this.locations.forEach(country => {
       locationsMultiselect.push({ label: country, value: country });
     });
@@ -227,8 +236,10 @@ export class LineChartWidgetComponent implements OnInit {
     }
   }
 
+  /**
+   * Init lifecycle hook
+   */
   ngOnInit(): void {
-    console.log('line init');
     this.alive = true;
   }
 

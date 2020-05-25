@@ -14,6 +14,7 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
   @Input() uuid: string;
   @Input() inputDataSet: any[];
   @Input() inputDataLabels: string[];
+  @Input() ylabel: string;
 
   // Widget vars
   alive = false;
@@ -60,12 +61,11 @@ export class StackedBarChartComponent implements OnInit, OnChanges, OnDestroy {
     this.chart.yAxis().labels().format('{%Value}{groupsSeparator: }');
 
     // Set titles for axes
-    // this.chart.xAxis().title('Date');
+    this.chart.yAxis().title(this.ylabel);
 
     // Set interactivity hover
     this.chart.interactivity().hoverMode('by-x');
 
-    console.log('updating tooltip');
     this.chart.tooltip().displayMode('union');
     this.chart.tooltip().useHtml(true);
     this.chart.tooltip().unionFormat(function() {

@@ -4,7 +4,7 @@
             <h3 class="card-title">
                 Covid-19 Annotations/Metrics Comparison by Location
             </h3>
-            <div class="btn-group">
+            <div class="btn-group pt-2 pb-1 mx-3">
                 <div>
                     <p-multiSelect [options]="availableLocations" [(ngModel)]="selectedLocations" [dropdownIcon]="'pi pi-caret-down'"
                         (onPanelHide)="hidePanel()" [filter]="true" [defaultLabel]="'Select Countries'"
@@ -28,15 +28,15 @@
                         {{ selectedMetric | titlecase }}
                     </button>
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="metricDropdown">
-                        <div *ngFor="let metric of metrics">
+                        <div *ngFor="let metric of metrics; let i=index">
                             <button class="dropdown-item" type="button"
-                                (click)="selectMetric(metric)">{{ metric | titlecase }}</button>
+                                (click)="selectMetric(metric, i)">{{ metric | titlecase }}</button>
                         </div>
                     </div>
                 </div>
+                <p *ngIf="!noChartData" class="card-text text-muted pt-1 mx-2">{{ chartDescriptionText }}</p>
             </div>
             <div class="card-body">
-                <p *ngIf="!noChartData" class="card-text text-muted">{{ chartDescriptionText }}</p>
                 <div>
                     <div id="lineContainer" class="chart-container"></div>
                     <!-- <app-line-chart></app-line-chart> -->
