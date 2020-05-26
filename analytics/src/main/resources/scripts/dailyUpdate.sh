@@ -4,9 +4,7 @@ dateToday=`date +"%Y-%m-%d"`
 
 echo dateToday
 
-#/home/rajdeep/workspace/QuarantinePilotCovid19/
-
-baseDir="../../../../"
+baseDir="/home/rajdeep/workspace/QuarantinePilotCovid19/"
 echo $baseDir
 
 baseSourceDir="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19"
@@ -15,20 +13,22 @@ echo $baseSourceDir
 
 baseFileSuffix="global.csv"
 
-confirmedFileName="${baseSourceDir}_deaths_${baseFileSuffix}"
+fatalityFileName="${baseSourceDir}_deaths_${baseFileSuffix}"
+confirmedFileName="${baseSourceDir}_confirmed_${baseFileSuffix}"
+recoveredFileName="${baseSourceDir}_recovered_${baseFileSuffix}"
 
-echo $confirmedFileName
+echo $fatalityFileName
+wget $fatalityFileName
+
+echo "Finished getting ${fatalityFileName} from JH github source"
+
 wget $confirmedFileName
 
-echo "Finished getting fatality file from JH github source"
+echo "Finished getting ${confirmedFileName} from JH github source"
 
-wget "${baseSourceDir}_confirmed_${baseFileSuffix}"
-
-echo "Finished getting confirmed file from JH github source"
-
-wget "${baseSourceDir}_recovered_${baseFileSuffix}"
+wget $recoveredFileName
     
-echo "Finished getting recovered file from JH github source"
+echo "Finished getting ${recoveredFileName} from JH github source"
 
 
 mv *.csv "${baseDir}data/csv/current/"
@@ -39,16 +39,16 @@ cd ../../../../
 
 sbt run
 
-# then generate a canned add/commit with the current date
-# then push 
+# then add the new data files, generate a canned commit message with the current
+# date and push 
 
 git add "${baseDir}data/csv/current/"
 git add "${baseDir}ui/src/assets/"
 
-commitMessage2="${dateToday}-Updating-data-from-jhu-source-AND-analytics-artifacts-with-latest-data-pull"
+commitMessage="${dateToday}-daily-refresh"
 
-git commit -m $commitMessage2
+git commit -m $commitMessage
 
-echo $commitMessage2
+echo $commitMessage
 
 git push
