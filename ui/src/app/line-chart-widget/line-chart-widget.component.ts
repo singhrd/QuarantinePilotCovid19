@@ -35,7 +35,7 @@ export class LineChartWidgetComponent implements OnInit {
   chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days. Value less than 1 for a sustained period indicates inflection point (peak) has been reached.',
-    'Percentage deaths within confirmed cases. Flu fatality rate is 0.1%.',
+    'Percentage deaths within confirmed cases. Flu fatality rate is 0.001.',
     'Ratio of daily confirmed cases to threshold per capita. Value less than 1 for 3 weeks implies the epidemic is under control'
   ];
   chartDescriptionText = this.chartDescriptions[0];
