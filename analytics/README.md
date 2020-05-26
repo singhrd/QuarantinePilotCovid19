@@ -67,7 +67,7 @@ of those confirmed cases by several weeks. We provide a crude measure for now
    
 #### Epidemic Control Ratio
 
-Per [Source] the epidemic is considered controlled when there is maximum 1 case per 200,000 people
+Per [https://bit.ly/2B5cZgh], the epidemic is considered controlled when there is maximum 1 case per 200,000 people
 or 0.5 case per 100,000 people per day for a period of 21 days. We normalize the daily cases
 at a given location by population at that location/200,000. A value of less than or equal to 1.0 would mean that the epidemic is controlled at that location.
 
