@@ -1547,5 +1547,17 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
     "lat": "11.55",
     "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.003427642194772426], ["biweekly", 0.001713821097386213], ["triweekly", 0.0011425473982574752]]
+  }, {
+    "province_state": "Phnom Penh",
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.07142857142857142], ["triweekly", 0.047619047619047616]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 0.7497967301064682], ["weekly", 0.7437983562656163], ["biweekly", 0.7386568929734576], ["triweekly", 0.7363717981769426]],
+    "country": "Cambodia",
+    "movingAverageConfirmedCumulative": [["daily", 125.0], ["weekly", 124.0], ["biweekly", 123.14285714285714], ["triweekly", 122.76190476190476]],
+    "long": "104.916667",
+    "movingAverageEstimatedAlpha": [["daily", 0.008032171697264445], ["weekly", 0.0011567443189457144], ["biweekly", 0.0011614657765557368], ["triweekly", 0.0007743105177038245]],
+    "date": "5/30/20",
+    "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+    "lat": "11.55",
+    "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.001713821097386213], ["biweekly", 0.001713821097386213], ["triweekly", 0.0011425473982574752]]
   }]
 }

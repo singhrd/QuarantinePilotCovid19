@@ -1547,5 +1547,17 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
     "lat": "-22.5666666667",
     "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.06772379752164763], ["biweekly", 0.033861898760823815], ["triweekly", 0.02257459917388254]]
+  }, {
+    "province_state": "Windhoek",
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.5], ["biweekly", 0.25], ["triweekly", 0.16666666666666666]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 0.9086276167487723], ["weekly", 0.8465474690205952], ["biweekly", 0.7534272474283299], ["triweekly", 0.7129810905751236]],
+    "country": "Namibia",
+    "movingAverageConfirmedCumulative": [["daily", 23.0], ["weekly", 21.428571428571427], ["biweekly", 19.071428571428573], ["triweekly", 18.047619047619047]],
+    "long": "17.083333",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.02729360525181563], ["biweekly", 0.025921820977812038], ["triweekly", 0.017281213985208026]],
+    "date": "5/30/20",
+    "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+    "lat": "-22.5666666667",
+    "movingAverageControlAssessment": [["daily", 0.0790110971085889], ["weekly", 0.04514919834776509], ["biweekly", 0.033861898760823815], ["triweekly", 0.02257459917388254]]
   }]
 }

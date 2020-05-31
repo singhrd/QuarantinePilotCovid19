@@ -1547,5 +1547,17 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
     "lat": "21.0333333333",
     "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.0008821961061690019], ["biweekly", 0.005734274690098512], ["triweekly", 0.005489220216162678]]
+  }, {
+    "province_state": "Hanoi",
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.2857142857142857], ["biweekly", 0.4702380952380953], ["triweekly", 0.31349206349206354]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 0.33758704329400474], ["weekly", 0.33596968376602826], ["biweekly", 0.333984742527148], ["triweekly", 0.32391300364838527]],
+    "country": "Vietnam",
+    "movingAverageConfirmedCumulative": [["daily", 328.0], ["weekly", 326.42857142857144], ["biweekly", 324.5], ["triweekly", 314.7142857142857]],
+    "long": "105.85",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.001752870370259301], ["biweekly", 0.003115758748277932], ["triweekly", 0.006193006107057049]],
+    "date": "5/30/20",
+    "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+    "lat": "21.0333333333",
+    "movingAverageControlAssessment": [["daily", 0.0020584575810610045], ["weekly", 0.0008821961061690019], ["biweekly", 0.0022054902654225048], ["triweekly", 0.0038228497933990085]]
   }]
 }
