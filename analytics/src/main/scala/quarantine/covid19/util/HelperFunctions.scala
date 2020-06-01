@@ -259,18 +259,22 @@ object HelperFunctions {
     val dateMax = datesSorted.last
     
     val diffDays = HelperFunctions.daysBetween(dateMin._2, dateMax._2)
-    val mapIndexToAnnotationMetrics = scala.collection.mutable.Map[Int, (Double, Double, Double, Double)]()
+    val mapIndexToAnnotationMetrics = scala.collection.mutable.Map[Int, (Double, Double, Double, Double, Double, Double)]()
     val mapIndexToAnnotationAverageMetrics = scala.collection.mutable.Map[Int, (Array[(String,Double)], 
+                                                                                Array[(String,Double)], 
+                                                                                Array[(String,Double)],
                                                                                 Array[(String,Double)], 
                                                                                 Array[(String,Double)],
                                                                                 Array[(String,Double)])]()
     val cumulativeSnapshotsSorted = sortSnapshots(cumulativeSnapshots.snapshots)
+    val dailySnapshotsSorted = sortSnapshots(dailySnapshots.snapshots)
     
     Range(0,diffDays.toInt+1).foreach(i => {
       val dt = datesSorted(i)._2
       val dtString = datesSorted(i)._1
       // check if there are any snapshots for this loc,dt combination
       val currentCumulativeSnapshot = cumulativeSnapshotsSorted(i)
+      val currentDailySnapshot = dailySnapshotsSorted(i)
       val cumulConfirmed = currentCumulativeSnapshot.confirmed.toDouble
       val cumulDeaths = currentCumulativeSnapshot.deaths.toDouble
       val cumulativeDeathRate = cumulConfirmed > 0.0 match {
@@ -280,6 +284,7 @@ object HelperFunctions {
       val matchesFoundDaily = dailySnapshots.snapshots.filter(ds => HelperFunctions.getDate(ds.date).before(dt))
       
 //      println("I " + cumulativeSnapshotsSorted.slice(0,i+1).length)
+      
       val estimatedAlpha = alphaEstimate(cumulativeSnapshotsSorted.slice(0,i+1),alphaWindow) 
       
       val growthRateDaily =  dailyGrowthEstimate(matchesFoundDaily, growthWindow)
@@ -293,28 +298,36 @@ object HelperFunctions {
         }
         case false => 0.0
       }
-      mapIndexToAnnotationMetrics.+=(i -> (estimatedAlpha, cumulativeDeathRate,growthRateDaily, epidemicControlDaily))
+      mapIndexToAnnotationMetrics.+=(i -> (currentDailySnapshot.confirmedNormalized.toDouble, currentCumulativeSnapshot.confirmedNormalized.toDouble, estimatedAlpha, cumulativeDeathRate,growthRateDaily, epidemicControlDaily))
     })
     // now construct the moving averages from the values in the map
 
     
     // Let's create the mean over the right window sizes
     Range(0,diffDays.toInt+1).foreach(j => {
-        	val listEstimatedAlphaMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._1))
-    			val listCumulativeDeathRateMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._2))
-    			val listGrowthRateDailyMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._3))
-    			val listEpidemicControlRatioMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._4))
+      
+          val listCumulativeConfirmedMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._1))
+          val listCumulativeConfirmedPCMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._2))
+        	val listEstimatedAlphaMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._3))
+    			val listCumulativeDeathRateMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._4))
+    			val listGrowthRateDailyMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._5))
+    			val listEpidemicControlRatioMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._6))
       movingAverageWindows.foreach(m => {
      
       val windowLeftIndex = scala.math.max(0,j-m)
       val movingAverageRange = Range(windowLeftIndex,j).toList
-      val movingAverages = movingAverageRange.map(k => mapIndexToAnnotationMetrics.get(k).get).foldLeft((0.0, 0.0, 0.0,0.0))((a,b) => (a._1+b._1,a._2+b._2,a._3+b._3, a._4+b._4))
-      listEstimatedAlphaMA.+=((daysToString(m),(movingAverages._1/m.toDouble)))
-      listCumulativeDeathRateMA.+=((daysToString(m),(movingAverages._2/m.toDouble)))
-      listGrowthRateDailyMA.+=((daysToString(m), (movingAverages._3/m.toDouble)))
-      listEpidemicControlRatioMA.+=((daysToString(m), (movingAverages._4/m.toDouble)))
+      val movingAverages = movingAverageRange.map(k => mapIndexToAnnotationMetrics.get(k).get).foldLeft((0.0, 0.0, 0.0,0.0,0.0,0.0))((a,b) => (a._1+b._1,a._2+b._2,a._3+b._3, a._4+b._4,a._5+b._5,a._6+b._6))
+      
+      listCumulativeConfirmedMA.+=((daysToString(m),(movingAverages._1/m.toDouble)))
+      listCumulativeConfirmedPCMA.+=((daysToString(m),(movingAverages._2/m.toDouble)))
+      listEstimatedAlphaMA.+=((daysToString(m),(movingAverages._3/m.toDouble)))
+      listCumulativeDeathRateMA.+=((daysToString(m),(movingAverages._4/m.toDouble)))
+      listGrowthRateDailyMA.+=((daysToString(m), (movingAverages._5/m.toDouble)))
+      listEpidemicControlRatioMA.+=((daysToString(m), (movingAverages._6/m.toDouble)))
       })
-      mapIndexToAnnotationAverageMetrics.+=(j-> (listEstimatedAlphaMA.toList.toArray,
+      mapIndexToAnnotationAverageMetrics.+=(j-> (listCumulativeConfirmedMA.toArray,
+                                                 listCumulativeConfirmedPCMA.toArray,
+                                                 listEstimatedAlphaMA.toList.toArray,
                                                  listCumulativeDeathRateMA.toList.toArray,
                                                  listGrowthRateDailyMA.toList.toArray,
                                                  listEpidemicControlRatioMA.toList.toArray))
@@ -323,7 +336,7 @@ object HelperFunctions {
     // now combine them into the annotation object
     Range(0,diffDays.toInt+1).toList.map(l => {
       val map2Value = mapIndexToAnnotationAverageMetrics.get(l).get
-      Annotation(datesSorted(l)._1, province, country, lat, long, map2Value._1, map2Value._2, map2Value._3,map2Value._4)
+      Annotation(datesSorted(l)._1, province, country, lat, long, map2Value._1, map2Value._2, map2Value._3,map2Value._4,map2Value._5,map2Value._6)
     })      
     
   }    
