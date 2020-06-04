@@ -2243,5 +2243,39 @@
     "deathsNormalized": -0.040596937367045026,
     "lat": "53.3166666667",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 24.6324,
+    "province_state": "Dublin",
+    "confirmedNormalized": 0.08119387473409005,
+    "source": "JHU",
+    "deaths": 8,
+    "confirmed": 4,
+    "recovered": 0,
+    "confirmedNormalizedPD": 0.0446148871845553,
+    "country": "Ireland",
+    "long": "-6.233333",
+    "recoveredNormalized": 0.0,
+    "date": "6/2/20",
+    "activeNormalized": 0.0,
+    "deathsNormalized": 0.1623877494681801,
+    "lat": "53.3166666667",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 24.6324,
+    "province_state": "Dublin",
+    "confirmedNormalized": 0.9134310907585131,
+    "source": "JHU",
+    "deaths": 1,
+    "confirmed": 45,
+    "recovered": 609,
+    "confirmedNormalizedPD": 0.5019174808262471,
+    "country": "Ireland",
+    "long": "-6.233333",
+    "recoveredNormalized": 12.361767428265212,
+    "date": "6/3/20",
+    "activeNormalized": 0.0,
+    "deathsNormalized": 0.020298468683522513,
+    "lat": "53.3166666667",
+    "active": 0
   }]
 }

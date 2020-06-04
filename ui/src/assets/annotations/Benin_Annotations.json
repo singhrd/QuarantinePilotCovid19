@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.012345679012345678], ["weekly", 0.01405972293510013], ["biweekly", 0.015532890662790727], ["triweekly", 0.012360061796033186]],
     "lat": "6.4833333333",
     "movingAverageControlAssessment": [["daily", 0.13272119002464217], ["weekly", 0.21093189128916348], ["biweekly", -0.13627622190030222], ["triweekly", -0.04740042500880075]]
+  }, {
+    "province_state": "Porto-Novo",
+    "movingAverageGrowthRate": [["daily", 1.375], ["weekly", 0.5814714972751307], ["biweekly", 0.4505484546491934], ["triweekly", 0.381453080010193]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.008295074376540135], ["weekly", 0.06162055251144101], ["biweekly", -0.056880510010560936], ["triweekly", -0.030020269172240484]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 2.023998147875793], ["weekly", 1.8379514797162504], ["biweekly", 1.5393288021608051], ["triweekly", 1.9540825209878119]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 0.725965949108375], ["weekly", 0.6592348870416215], ["biweekly", 0.5521251568453038], ["triweekly", 0.7008886710068564]],
+    "country": "Benin",
+    "long": "2.616667",
+    "movingAverageEstimatedAlpha": [["daily", 0.004106781952653904], ["weekly", 0.03439828789913119], ["biweekly", -0.023781333145707264], ["triweekly", -0.012958555211633149]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.012295081967213115], ["weekly", 0.013579561896474869], ["biweekly", 0.015993317376904757], ["triweekly", 0.0126493992501216]],
+    "lat": "6.4833333333",
+    "movingAverageControlAssessment": [["daily", 0.18249163628388299], ["weekly", 0.0971708712680416], ["biweekly", -0.12679613689854208], ["triweekly", -0.06873061626276111]]
+  }, {
+    "province_state": "Porto-Novo",
+    "movingAverageGrowthRate": [["daily", 0.09090909090909091], ["weekly", 0.7779000687037021], ["biweekly", 0.5487627403634792], ["triweekly", 0.4469292704863835]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.042660382507920695], ["biweekly", 0.06754560563754111], ["triweekly", -0.03278529396442054]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 2.023998147875793], ["weekly", 1.8806118622241712], ["biweekly", 1.6068744077983463], ["triweekly", 1.9212972270233915]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 0.725965949108375], ["weekly", 0.6745362770696668], ["biweekly", 0.5763523577230424], ["triweekly", 0.6891292694112288]],
+    "country": "Benin",
+    "long": "2.616667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.022804306513126323], ["biweekly", 0.044973841059829996], ["triweekly", -0.01394247360019292]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.012295081967213115], ["weekly", 0.013275562617065752], ["biweekly", 0.015772636418518882], ["triweekly", 0.012943631346128396]],
+    "lat": "6.4833333333",
+    "movingAverageControlAssessment": [["daily", 0.01659014875308027], ["weekly", 0.12324110502288202], ["biweekly", -0.11376102002112187], ["triweekly", -0.06004053834448097]]
   }]
 }

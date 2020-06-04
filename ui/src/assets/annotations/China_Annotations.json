@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.05511324476554887], ["weekly", 0.05513795712445324], ["biweekly", 0.055152104056089966], ["triweekly", 0.05516317712214072]],
     "lat": "39.9166666667",
     "movingAverageControlAssessment": [["daily", 0.002503116308534842], ["weekly", 0.0008741041077423258], ["biweekly", 0.0008343721028449472], ["triweekly", 0.0009138361126397041]]
+  }, {
+    "province_state": "Beijing",
+    "movingAverageGrowthRate": [["daily", 0.4444444444444444], ["weekly", 1.4362592241610312], ["biweekly", 1.0562248501757538], ["triweekly", 1.3171884488700036]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.00048671705999288594], ["weekly", 0.0005165160636659198], ["biweekly", 0.00045195155570767977], ["triweekly", 0.0004734730583604265]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 5.851799212294468], ["weekly", 5.849206698974913], ["biweekly", 5.84764225128208], ["triweekly", 5.846190377603121]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 1.5237524791888075], ["weekly", 1.5230774135457998], ["biweekly", 1.522670046347433], ["triweekly", 1.5222919923442926]],
+    "country": "China",
+    "long": "116.383333",
+    "movingAverageEstimatedAlpha": [["daily", 0.00008317737580121332], ["weekly", 0.0000883008233297947], ["biweekly", 0.00007728113845890354], ["triweekly", 0.00008098623912060938]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.0551086607811219], ["weekly", 0.05513308907523441], ["biweekly", 0.05514784253686063], ["triweekly", 0.05515927672927749]],
+    "lat": "39.9166666667",
+    "movingAverageControlAssessment": [["daily", 0.0011124961371265965], ["weekly", 0.0010131661248831503], ["biweekly", 0.0009138361126397042], ["triweekly", 0.0009005921110072447]]
+  }, {
+    "province_state": "Beijing",
+    "movingAverageGrowthRate": [["daily", 0.875], ["weekly", 1.408842196744004], ["biweekly", 1.0236851676360712], ["triweekly", 1.3359715176530724]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", -0.00006953100857041228], ["weekly", 0.0005761140710119876], ["biweekly", 0.0004867170599928859], ["triweekly", 0.0004734730583604265]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 5.851729681285898], ["weekly", 5.849782813045926], ["biweekly", 5.848128968342072], ["triweekly", 5.846663850661481]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 1.5237343739799913], ["weekly", 1.5232274281331348], ["biweekly", 1.522796782809147], ["triweekly", 1.5224152801948037]],
+    "country": "China",
+    "long": "116.383333",
+    "movingAverageEstimatedAlpha": [["daily", -0.000011882058684520302], ["weekly", 0.00009848469802063522], ["biweekly", 0.00008322237958756164], ["triweekly", 0.0000809794974471465]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.055109315589353614], ["weekly", 0.05512765984419747], ["biweekly", 0.05514325359017223], ["triweekly", 0.05515537703290195]],
+    "lat": "39.9166666667",
+    "movingAverageControlAssessment": [["daily", 0.0009734341199857719], ["weekly", 0.0010330321273318397], ["biweekly", 0.0009039031114153595], ["triweekly", 0.000946946116720853]]
   }]
 }

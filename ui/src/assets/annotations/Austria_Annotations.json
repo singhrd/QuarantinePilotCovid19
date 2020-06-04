@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.03992111396641367], ["weekly", 0.039530291261904105], ["biweekly", 0.039112141320409376], ["triweekly", 0.03905559349776144]],
     "lat": "48.2",
     "movingAverageControlAssessment": [["daily", 1.0226742442381753], ["weekly", 0.6320253869670712], ["biweekly", 0.7685936866634735], ["triweekly", 0.9019859793901918]]
+  }, {
+    "province_state": "Vienna",
+    "movingAverageGrowthRate": [["daily", 0.043478260869565216], ["weekly", 1.281277916572034], ["biweekly", 1.1637495373623423], ["triweekly", 1.3809316834470753]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.2890166342412235], ["weekly", 0.30807267605932614], ["biweekly", 0.3684168084833178], ["triweekly", 0.4504636552001487]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 186.29345281725634], ["weekly", 185.12944626286722], ["biweekly", 183.9082715830238], ["triweekly", 182.33403079505055]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 66.98206012031176], ["weekly", 66.56354000687004], ["biweekly", 66.12446501746119], ["triweekly", 65.55844463666278]],
+    "country": "Austria",
+    "long": "16.366667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0015526098903002605], ["weekly", 0.0016659413195400572], ["biweekly", 0.002008668641814561], ["triweekly", 0.002485544049496064]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.039918849573363564], ["weekly", 0.039696610730955754], ["biweekly", 0.039202043250985426], ["triweekly", 0.03909765108920843]],
+    "lat": "48.2",
+    "movingAverageControlAssessment": [["daily", 0.04446409757557285], ["weekly", 0.7241295890879006], ["biweekly", 0.776533704087683], ["triweekly", 0.9104553313093485]]
+  }, {
+    "province_state": "Vienna",
+    "movingAverageGrowthRate": [["daily", 13.0], ["weekly", 0.9849680882928965], ["biweekly", 1.1198167998983215], ["triweekly", 1.3692176156689342]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.13339229272671854], ["weekly", 0.32077670393806124], ["biweekly", 0.34777276318037326], ["triweekly", 0.4224089269679421]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 186.42684510998305], ["weekly", 185.45022296680528], ["biweekly", 184.25604434620416], ["triweekly", 182.7564397220185]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 67.03002149756837], ["weekly", 66.67887569979668], ["biweekly", 66.24950717959453], ["triweekly", 65.71032233130877]],
+    "country": "Austria",
+    "long": "16.366667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0007157769467536212], ["weekly", 0.001732350611037603], ["biweekly", 0.0018916289452984053], ["triweekly", 0.0023231990810626733]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.03994991354123189], ["weekly", 0.03985136955015333], ["biweekly", 0.03928745268793725], ["triweekly", 0.03913985144674796]],
+    "lat": "48.2",
+    "movingAverageControlAssessment": [["daily", 0.578033268482447], ["weekly", 0.6161453521186523], ["biweekly", 0.7368336169666356], ["triweekly", 0.9009273104002974]]
   }]
 }

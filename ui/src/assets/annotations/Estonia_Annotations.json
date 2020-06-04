@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.03636363636363636], ["weekly", 0.035850356769585194], ["biweekly", 0.035675821436920815], ["triweekly", 0.035539068739833]],
     "lat": "59.4333333333",
     "movingAverageControlAssessment": [["daily", 0.6031558622603115], ["weekly", 0.9478163549804897], ["biweekly", 1.0232108377630282], ["triweekly", 0.9478163549804893]]
+  }, {
+    "province_state": "Tallinn",
+    "movingAverageGrowthRate": [["daily", 0.25], ["weekly", 2.1538961038961038], ["biweekly", 1.7153834260977117], ["triweekly", 1.5186456400742114]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.49544945828525583], ["biweekly", 0.46313753709273925], ["triweekly", 0.46313753709273914]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 140.9876828033478], ["weekly", 139.88907748280226], ["biweekly", 138.12269245761132], ["triweekly", 136.41734106133964]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 185.59240453115106], ["weekly", 184.1462299503888], ["biweekly", 181.82100807543785], ["triweekly", 179.57612923275138]],
+    "country": "Estonia",
+    "long": "24.716667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0035580770306223386], ["biweekly", 0.003362885479191264], ["triweekly", 0.003403750956211609]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.03636363636363636], ["weekly", 0.03595430983406457], ["biweekly", 0.03571076407276031], ["triweekly", 0.03560222595405283]],
+    "lat": "59.4333333333",
+    "movingAverageControlAssessment": [["daily", 0.15078896556507787], ["weekly", 0.9908989165705118], ["biweekly", 1.0232108377630287], ["triweekly", 0.9334555011171487]]
+  }, {
+    "province_state": "Tallinn",
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 2.118181818181818], ["biweekly", 1.554669140383426], ["triweekly", 1.5146773861059575]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.7539448278253894], ["weekly", 0.3877430543102003], ["biweekly", 0.4254402957014697], ["triweekly", 0.44518646976356324]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 141.7416276311732], ["weekly", 140.27682053711243], ["biweekly", 138.54813275331279], ["triweekly", 136.8625275311032]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 186.58487728265453], ["weekly", 184.65664450830494], ["biweekly", 182.3810462709291], ["triweekly", 180.1621607622106]],
+    "country": "Estonia",
+    "long": "24.716667",
+    "movingAverageEstimatedAlpha": [["daily", 0.005333345975362391], ["weekly", 0.0027770081474603864], ["biweekly", 0.0030831648419943824], ["triweekly", 0.0032671892118612093]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.036702127659574466], ["weekly", 0.03608602108900374], ["biweekly", 0.035755721906662874], ["triweekly", 0.03567016107353434]],
+    "lat": "59.4333333333",
+    "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.9908989165705117], ["biweekly", 0.9262750741854785], ["triweekly", 0.9262750741854783]]
   }]
 }

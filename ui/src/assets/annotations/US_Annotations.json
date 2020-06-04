@@ -1705,15 +1705,41 @@
   }, {
     "province_state": "Washington",
     "movingAverageGrowthRate": [["daily", 0.8285844446285099], ["weekly", 1.0199323586328466], ["biweekly", 1.0044631445026186], ["triweekly", 1.0058932604142048]],
-    "movingAverageConfirmedDailyPerCapita": [["daily", 6.408748516419181], ["weekly", 6.348686483746897], ["biweekly", 6.555295555130013], ["triweekly", 6.638683837661474]],
-    "movingAverageConfirmedCumulativePerCapita": [["daily", 547.8832694308594], ["weekly", 521.567457101309], ["biweekly", 499.1451120271199], ["triweekly", 475.68566704872603]],
-    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 598.9870473495838], ["weekly", 570.2166292598735], ["biweekly", 545.7028413418856], ["triweekly", 520.0552180905582]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 6.305908489253686], ["weekly", 6.348686483746897], ["biweekly", 6.555295555130013], ["triweekly", 6.638683837661474]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 547.7804294036939], ["weekly", 521.567457101309], ["biweekly", 499.1451120271199], ["triweekly", 475.68566704872603]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 598.8746149252734], ["weekly", 570.2166292598735], ["biweekly", 545.7028413418856], ["triweekly", 520.0552180905582]],
     "country": "US",
     "long": "-77",
-    "movingAverageEstimatedAlpha": [["daily", 0.011766239725814032], ["weekly", 0.012234021523397334], ["biweekly", 0.013265319055150191], ["triweekly", 0.014175681343263287]],
+    "movingAverageEstimatedAlpha": [["daily", 0.011578517840755254], ["weekly", 0.012234021523397334], ["biweekly", 0.013265319055150191], ["triweekly", 0.014175681343263287]],
     "date": "6/1/20",
-    "movingAverageDeathRate": [["daily", 0.05805858581397403], ["weekly", 0.05883736137951119], ["biweekly", 0.059386104721033194], ["triweekly", 0.059707779868776824]],
+    "movingAverageDeathRate": [["daily", 0.0580606509039105], ["weekly", 0.05883736137951119], ["biweekly", 0.059386104721033194], ["triweekly", 0.059707779868776824]],
     "lat": "38.883333",
     "movingAverageControlAssessment": [["daily", 12.103061314706302], ["weekly", 12.751558427185191], ["biweekly", 13.064356308131], ["triweekly", 13.268812076424306]]
+  }, {
+    "province_state": "Washington",
+    "movingAverageGrowthRate": [["daily", 1.0420352876493226], ["weekly", 1.0023055195313337], ["biweekly", 1.0095333751050413], ["triweekly", 1.0087167665333054]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 6.291692367851397], ["weekly", 6.426118974789153], ["biweekly", 6.54010720658015], ["triweekly", 6.670760131848807]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 554.0721217715453], ["weekly", 527.9935760760981], ["biweekly", 505.68521923370014], ["triweekly", 482.3564271805749]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 605.7531645078626], ["weekly", 577.2421440828113], ["biweekly", 552.8529766418532], ["triweekly", 527.348192959282]],
+    "country": "US",
+    "long": "-77",
+    "movingAverageEstimatedAlpha": [["daily", 0.01142033159207223], ["weekly", 0.012240976250255997], ["biweekly", 0.013064409264284396], ["triweekly", 0.01406459489528825]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.05796417881441473], ["weekly", 0.058690863684393406], ["biweekly", 0.059254753386746004], ["triweekly", 0.05962217277074361]],
+    "lat": "38.883333",
+    "movingAverageControlAssessment": [["daily", 12.611816978507372], ["weekly", 12.697372967493793], ["biweekly", 13.110591110260026], ["triweekly", 13.277367675322948]]
+  }, {
+    "province_state": "Washington",
+    "movingAverageGrowthRate": [["daily", 0.9977455871066769], ["weekly", 1.0192356634363733], ["biweekly", 1.0026761350919726], ["triweekly", 1.0133494536381549]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 5.958369691567937], ["weekly", 6.520749083819587], ["biweekly", 6.551795537398749], ["triweekly", 6.660764196435243]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 560.0304914631132], ["weekly", 534.5143251599176], ["biweekly", 512.2370147710989], ["triweekly", 489.01719137701014]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 612.2673007622457], ["weekly", 584.3711156323203], ["biweekly", 560.01589050097], ["triweekly", 534.6302395223373]],
+    "country": "US",
+    "long": "-77",
+    "movingAverageEstimatedAlpha": [["daily", 0.010696369310901233], ["weekly", 0.012281922267903209], ["biweekly", 0.012927086045378542], ["triweekly", 0.013855018687009203]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.057884872969236084], ["weekly", 0.05856514473654222], ["biweekly", 0.059099668407209247], ["triweekly", 0.05951850217041762]],
+    "lat": "38.883333",
+    "movingAverageControlAssessment": [["daily", 12.583384735702793], ["weekly", 12.852237949578306], ["biweekly", 13.0802144131603], ["triweekly", 13.341520263697614]]
   }]
 }

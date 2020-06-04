@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.021347331583552055], ["weekly", 0.021303574482220443], ["biweekly", 0.021442823828251505], ["triweekly", 0.021486331330126538]],
     "lat": "44.8333333333",
     "movingAverageControlAssessment": [["daily", 0.7090342861534296], ["weekly", 0.9442899018356733], ["biweekly", 1.4458418047137906], ["triweekly", 1.469258451645125]]
+  }, {
+    "province_state": "Belgrade",
+    "movingAverageGrowthRate": [["daily", 0.5806451612903226], ["weekly", 1.0354584105615714], ["biweekly", 1.0761394977599685], ["triweekly", 1.0847843903951713]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.2744648849626179], ["weekly", 0.38719153414369306], ["biweekly", 0.5971244967490288], ["triweekly", 0.6828947732998469]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 130.9883663484094], ["weekly", 129.68302442528358], ["biweekly", 127.70132260707135], ["triweekly", 124.97246637979421]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 51.14613293022281], ["weekly", 50.6364449832642], ["biweekly", 49.8626634067175], ["triweekly", 48.79714555014278]],
+    "country": "Serbia",
+    "long": "20.5",
+    "movingAverageEstimatedAlpha": [["daily", 0.0020975361649462343], ["weekly", 0.0029932706999412162], ["biweekly", 0.004720799903589297], ["triweekly", 0.005533784343283443]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.0213899074559106], ["weekly", 0.021302817407195213], ["biweekly", 0.021425433021449964], ["triweekly", 0.021482730168636506]],
+    "lat": "44.8333333333",
+    "movingAverageControlAssessment": [["daily", 0.4116973274439268], ["weekly", 0.8266620939945516], ["biweekly", 1.3102430817858306], ["triweekly", 1.5030219890810026]]
+  }, {
+    "province_state": "Belgrade",
+    "movingAverageGrowthRate": [["daily", 1.3333333333333333], ["weekly", 1.045913049807737], ["biweekly", 1.0618497411102799], ["triweekly", 1.0518628525514901]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.7890865442675264], ["weekly", 0.37085433861020395], ["biweekly", 0.5889558989822843], ["triweekly", 0.6594781263685124]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 131.7774528926769], ["weekly", 130.05387876389378], ["biweekly", 128.29027850605365], ["triweekly", 125.63194450616274]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 51.454242164742226], ["weekly", 50.78124994441514], ["biweekly", 50.092628994800826], ["triweekly", 49.05464747077978]],
+    "country": "Serbia",
+    "long": "20.5",
+    "movingAverageEstimatedAlpha": [["daily", 0.006006024060212667], ["weekly", 0.002859631785003306], ["biweekly", 0.004643993319448393], ["triweekly", 0.005321165167488928]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.021261824177731495], ["weekly", 0.021317380399567022], ["biweekly", 0.02139600360299612], ["triweekly", 0.02147853135258509]],
+    "lat": "44.8333333333",
+    "movingAverageControlAssessment": [["daily", 0.5489297699252358], ["weekly", 0.7743830682873861], ["biweekly", 1.1942489934980576], ["triweekly", 1.3657895465996939]]
   }]
 }

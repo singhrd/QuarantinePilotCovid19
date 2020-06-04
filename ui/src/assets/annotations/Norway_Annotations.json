@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.027942221169784513], ["weekly", 0.028016692041994917], ["biweekly", 0.02811131442299596], ["triweekly", 0.028090074809755197]],
     "lat": "59.9166666667",
     "movingAverageControlAssessment": [["daily", 0.11085180001152858], ["weekly", 0.4803578000499572], ["biweekly", 0.5278657143406121], ["triweekly", 0.5947287048237565]]
+  }, {
+    "province_state": "Oslo",
+    "movingAverageGrowthRate": [["daily", 2.0], ["weekly", 1.1071276676539834], ["biweekly", 1.066089713744176], ["triweekly", 1.1801124782175232]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.1662777000172929], ["weekly", 0.21642494287965103], ["biweekly", 0.2494165500259393], ["triweekly", 0.2762497238382538]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 156.2086615162457], ["weekly", 155.56202601617846], ["biweekly", 154.65277732322673], ["triweekly", 153.68018474455417]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 360.2349042184482], ["weekly", 358.7436893576977], ["biweekly", 356.6468586657444], ["triweekly", 354.40394978335024]],
+    "country": "Norway",
+    "long": "10.75",
+    "movingAverageEstimatedAlpha": [["daily", 0.0010650258387929767], ["weekly", 0.0013937392779091848], ["biweekly", 0.0016165450768899398], ["triweekly", 0.0018040981307452665]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.028030751034890597], ["weekly", 0.0279946372811846], ["biweekly", 0.028091581557366022], ["triweekly", 0.028108966329165215]],
+    "lat": "59.9166666667",
+    "movingAverageControlAssessment": [["daily", 0.22170360002305717], ["weekly", 0.46452182861973884], ["biweekly", 0.5041117571952847], ["triweekly", 0.5894500476803505]]
+  }, {
+    "province_state": "Oslo",
+    "movingAverageGrowthRate": [["daily", 1.5], ["weekly", 1.1071276676539834], ["biweekly", 1.1613278089822712], ["triweekly", 1.0610648591699043]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.40645660004227147], ["weekly", 0.1900316571626204], ["biweekly", 0.24809688574008776], ["triweekly", 0.26217330478917084]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 156.61511811628796], ["weekly", 155.75205767334108], ["biweekly", 154.90087420896683], ["triweekly", 153.94235804934337]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 361.1722392737771], ["weekly", 359.1819239290203], ["biweekly", 357.21899824497103], ["triweekly", 355.0085511826749]],
+    "country": "Norway",
+    "long": "10.75",
+    "movingAverageEstimatedAlpha": [["daily", 0.002598631275724017], ["weekly", 0.0012217338135463202], ["biweekly", 0.0016061640057146878], ["triweekly", 0.0017086441920048298]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.027958004010852897], ["weekly", 0.027994326889839667], ["biweekly", 0.028080610388047746], ["triweekly", 0.028112742438446768]],
+    "lat": "59.9166666667",
+    "movingAverageControlAssessment": [["daily", 0.3325554000345858], ["weekly", 0.43284988575930206], ["biweekly", 0.4988331000518786], ["triweekly", 0.5524994476765076]]
   }]
 }

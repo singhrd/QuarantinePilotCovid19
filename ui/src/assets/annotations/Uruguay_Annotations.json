@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.027878787878787878], ["weekly", 0.027264394488322692], ["biweekly", 0.027326058193623954], ["triweekly", 0.027027659119980518]],
     "lat": "-34.85",
     "movingAverageControlAssessment": [["daily", 0.11523014051739484], ["weekly", 0.4691512863922505], ["biweekly", 0.36215187019752665], ["triweekly", 0.3264853981326186]]
+  }, {
+    "province_state": "Montevideo",
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 1.901077097505669], ["biweekly", 2.1109822716965576], ["triweekly", 1.7815278636707208]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.02880753512934871], ["weekly", 0.15638376213075017], ["biweekly", 0.18107593509876327], ["triweekly", 0.1563837621307501]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 23.795024016842035], ["weekly", 23.408179973676493], ["biweekly", 22.622145800861407], ["triweekly", 22.072059058629563]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 47.87962399963385], ["weekly", 47.101228175357555], ["biweekly", 45.519594106881236], ["triweekly", 44.41272628583585]],
+    "country": "Uruguay",
+    "long": "-56.166667",
+    "movingAverageEstimatedAlpha": [["daily", 0.001211387186296875], ["weekly", 0.006736448273896808], ["biweekly", 0.008056821010381743], ["triweekly", 0.00708147412054477]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.02784503631961259], ["weekly", 0.027253613232306368], ["biweekly", 0.02737904003765057], ["triweekly", 0.027082700187679814]],
+    "lat": "-34.85",
+    "movingAverageControlAssessment": [["daily", 0.11523014051739484], ["weekly", 0.44445911342423733], ["biweekly", 0.3662672323588621], ["triweekly", 0.3182546738099476]]
+  }, {
+    "province_state": "Montevideo",
+    "movingAverageGrowthRate": [["daily", 0.5], ["weekly", 1.5296485260770976], ["biweekly", 1.9681251288394146], ["triweekly", 1.79105167319453]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.05761507025869742], ["weekly", 0.15226839996941458], ["biweekly", 0.18107593509876327], ["triweekly", 0.1495248251951909]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 23.852639087100734], ["weekly", 23.560448373645908], ["biweekly", 22.80322173596017], ["triweekly", 22.221583883824753]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 47.99555529261117], ["weekly", 47.40761802108333], ["biweekly", 45.883949599095665], ["triweekly", 44.713595593800804]],
+    "country": "Uruguay",
+    "long": "-56.166667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0024183808642819216], ["weekly", 0.006546921810729118], ["biweekly", 0.008046496351464658], ["triweekly", 0.00673899680577893]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.027777777777777776], ["weekly", 0.027248133177295384], ["biweekly", 0.02743223756028647], ["triweekly", 0.027146782743378974]],
+    "lat": "-34.85",
+    "movingAverageControlAssessment": [["daily", 0.05761507025869742], ["weekly", 0.31276752426150034], ["biweekly", 0.36215187019752654], ["triweekly", 0.3127675242615002]]
   }]
 }

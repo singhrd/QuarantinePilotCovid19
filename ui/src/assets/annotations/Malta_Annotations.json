@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.014539579967689823], ["weekly", 0.012311154656648936], ["biweekly", 0.011246752546457975], ["triweekly", 0.011128509951696454]],
     "lat": "35.8833333333",
     "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.582683425505219], ["biweekly", 2.3307337020208756], ["triweekly", 2.7623510542469636]]
+  }, {
+    "province_state": "Valletta",
+    "movingAverageGrowthRate": [["daily", 0.7071067811865476], ["weekly", 0.9581581115980783], ["biweekly", 1.5116290454918857], ["triweekly", 1.5732855768131848]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.22659910991869625], ["weekly", 0.25897041133565285], ["biweekly", 0.9873246932171765], ["triweekly", 1.2516903214556554]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 140.49144814959166], ["weekly", 139.520309107083], ["biweekly", 137.44854581639774], ["triweekly", 131.82672980365294]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 3.882077472513472], ["weekly", 3.855242835606697], ["biweekly", 3.7979956102055765], ["triweekly", 3.6426528787785792]],
+    "country": "Malta",
+    "long": "14.5",
+    "movingAverageEstimatedAlpha": [["daily", 0.001614205354541376], ["weekly", 0.0018583305018572257], ["biweekly", 0.007410450735948958], ["triweekly", 0.009881671551659855]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.014516129032258065], ["weekly", 0.0129853850424938], ["biweekly", 0.011517244817575604], ["triweekly", 0.011347520528592031]],
+    "lat": "35.8833333333",
+    "movingAverageControlAssessment": [["daily", 0.4531982198373925], ["weekly", 0.5179408226713057], ["biweekly", 2.1041345921021795], ["triweekly", 2.6328658485791374]]
+  }, {
+    "province_state": "Valletta",
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.9163162231961566], ["biweekly", 1.5111162645562308], ["triweekly", 1.5514017727427027]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.4531982198373925], ["weekly", 0.29134171275260945], ["biweekly", 0.8254681861323937], ["triweekly", 1.2301094538443509]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 140.94464636942905], ["weekly", 139.8116508198356], ["biweekly", 138.27401400253015], ["triweekly", 133.0568392574973]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 3.894600303069967], ["weekly", 3.863293226678729], ["biweekly", 3.8208050515763357], ["triweekly", 3.676643418860494]],
+    "country": "Malta",
+    "long": "14.5",
+    "movingAverageEstimatedAlpha": [["daily", 0.0032206147000417573], ["weekly", 0.002088931266791708], ["biweekly", 0.006131360279486194], ["triweekly", 0.009675371845317707]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.014469453376205787], ["weekly", 0.013656265294705556], ["biweekly", 0.011800910072327656], ["triweekly", 0.01156822081941855]],
+    "lat": "35.8833333333",
+    "movingAverageControlAssessment": [["daily", 0.4531982198373925], ["weekly", 0.5179408226713057], ["biweekly", 1.974649386434353], ["triweekly", 2.503380642911311]]
   }]
 }

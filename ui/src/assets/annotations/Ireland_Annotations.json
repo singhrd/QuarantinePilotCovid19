@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.06583672492219296], ["weekly", 0.06578827634615157], ["biweekly", 0.06527145805334478], ["triweekly", 0.064738895237937]],
     "lat": "53.3166666667",
     "movingAverageControlAssessment": [["daily", 2.4764131793897466], ["weekly", 2.012448180909232], ["biweekly", 2.5547072728833338], ["triweekly", 4.193083673767651]]
+  }, {
+    "province_state": "Dublin",
+    "movingAverageGrowthRate": [["daily", 1.180327868852459], ["weekly", 1.0921642103866744], ["biweekly", 1.0690088819993373], ["triweekly", 1.057226930134537]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.08119387473409005], ["weekly", 1.0555203715431707], ["biweekly", 1.2498057146568866], ["triweekly", 1.862626150149899]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 508.8014160211753], ["weekly", 505.2462842203184], ["biweekly", 501.10829639012036], ["triweekly", 495.28650225293677]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 279.5791905420158], ["weekly", 277.62569583886346], ["biweekly", 275.35192998127917], ["triweekly", 272.15293634422466]],
+    "country": "Ireland",
+    "long": "-6.233333",
+    "movingAverageEstimatedAlpha": [["daily", 0.00015959144623600707], ["weekly", 0.0020900694353519966], ["biweekly", 0.002500008684318037], ["triweekly", 0.003809815827815773]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.06614537620681402], ["weekly", 0.06590416445813473], ["biweekly", 0.06540796555959351], ["triweekly", 0.06485443370485464]],
+    "lat": "53.3166666667",
+    "movingAverageControlAssessment": [["daily", 2.922979490427242], ["weekly", 2.035646430833258], ["biweekly", 2.5460079291618243], ["triweekly", 3.854775862375609]]
+  }, {
+    "province_state": "Dublin",
+    "movingAverageGrowthRate": [["daily", 0.05555555555555555], ["weekly", 1.1129128031801334], ["biweekly", 1.055103729774513], ["triweekly", 1.085386207182394]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.9134310907585131], ["weekly", 0.9598275906065646], ["biweekly", 1.1816608555050612], ["triweekly", 1.7630669942259556]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 509.71484711193386], ["weekly", 506.206111810925], ["biweekly", 502.2899572456254], ["triweekly", 497.04956924716265]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 280.081108022842], ["weekly", 278.15310754093804], ["biweekly", 276.0012359286972], ["triweekly", 273.12171675166076]],
+    "country": "Ireland",
+    "long": "-6.233333",
+    "movingAverageEstimatedAlpha": [["daily", 0.001793650958186177], ["weekly", 0.0018990145013797794], ["biweekly", 0.0023610351816187552], ["triweekly", 0.003597683780411793]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.06606666401178767], ["weekly", 0.06602606159911797], ["biweekly", 0.06553488674219997], ["triweekly", 0.0649555454725469]],
+    "lat": "53.3166666667",
+    "movingAverageControlAssessment": [["daily", 0.1623877494681801], ["weekly", 2.1110407430863414], ["biweekly", 2.4996114293137732], ["triweekly", 3.725252300299798]]
   }]
 }

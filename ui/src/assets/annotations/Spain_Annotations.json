@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.11319990986404493], ["weekly", 0.11398310936266795], ["biweekly", 0.11734240257617505], ["triweekly", 0.11782026383407167]],
     "lat": "40.4",
     "movingAverageControlAssessment": [["daily", 1.0737698036466463], ["weekly", 2.4066622007743277], ["biweekly", 2.6065043896146536], ["triweekly", 3.1881042358319127]]
+  }, {
+    "province_state": "Madrid",
+    "movingAverageGrowthRate": [["daily", 0.6334661354581673], ["weekly", 0.6437574553807023], ["biweekly", 0.9602661482493718], ["triweekly", 1.028053546157683]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.628861199745247], ["weekly", 1.2950018292130012], ["biweekly", 1.2271654898818816], ["triweekly", 1.2428513701476358]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 513.2106305349545], ["weekly", 509.48543768456847], ["biweekly", 505.1436063982807], ["triweekly", 500.6947240719974]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 214.44383461046553], ["weekly", 212.8872716868418], ["biweekly", 211.07304786748583], ["triweekly", 209.21409302708338]],
+    "country": "Spain",
+    "long": "-3.683333",
+    "movingAverageEstimatedAlpha": [["daily", 0.001226098533399167], ["weekly", 0.0025490366432300454], ["biweekly", 0.002435128516412049], ["triweekly", 0.0024885986284106125]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.11306120067352417], ["weekly", 0.11386978176344244], ["biweekly", 0.11688250156323929], ["triweekly", 0.11761125363839106]],
+    "lat": "40.4",
+    "movingAverageControlAssessment": [["daily", 0.6801968078877162], ["weekly", 2.265489278382537], ["biweekly", 2.6832022327322713], ["triweekly", 3.0819699031246652]]
+  }, {
+    "province_state": "Madrid",
+    "movingAverageGrowthRate": [["daily", 1.849056603773585], ["weekly", 0.734252617589012], ["biweekly", 0.9106694209458573], ["triweekly", 0.8678657751592685]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.8427595670055351], ["weekly", 1.1223552899243403], ["biweekly", 1.2062340067999817], ["triweekly", 1.2122944605390233]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 514.05339010196], ["weekly", 510.60779297449284], ["biweekly", 506.3498404050807], ["triweekly", 501.9070185325366]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 214.7959796800541], ["weekly", 213.35624516059048], ["biweekly", 211.57706986248255], ["triweekly", 209.72064736818118]],
+    "country": "Spain",
+    "long": "-3.683333",
+    "movingAverageEstimatedAlpha": [["daily", 0.0016407851129738305], ["weekly", 0.002203841282263395], ["biweekly", 0.0023899077252341272], ["triweekly", 0.0024227786007679627]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.11288000466033637], ["weekly", 0.11362472758254419], ["biweekly", 0.11640732544313856], ["triweekly", 0.1173734707212694]],
+    "lat": "40.4",
+    "movingAverageControlAssessment": [["daily", 1.257722399490494], ["weekly", 2.5900036584260024], ["biweekly", 2.454330979763763], ["triweekly", 2.4857027402952716]]
   }]
 }

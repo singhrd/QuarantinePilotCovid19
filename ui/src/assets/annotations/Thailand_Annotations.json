@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.018494484101232965], ["weekly", 0.018610511155506056], ["biweekly", 0.018527927267460702], ["triweekly", 0.018531520609029656]],
     "lat": "13.75",
     "movingAverageControlAssessment": [["daily", 0.011467080341589988], ["weekly", 0.015152927594243916], ["biweekly", 0.010648003174333561], ["triweekly", 0.009965438868286538]]
+  }, {
+    "province_state": "Bangkok",
+    "movingAverageGrowthRate": [["daily", 0.25], ["weekly", 1.6613754134370056], ["biweekly", 1.2711638971946932], ["triweekly", 1.3186375402835029]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0014333850426987485], ["weekly", 0.008190771672564278], ["biweekly", 0.0052216169412597265], ["triweekly", 0.004573180850515055]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 4.419126086640242], ["weekly", 4.398444388167017], ["biweekly", 4.376226920005187], ["triweekly", 4.361858941362897]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 1.2542968408289765], ["weekly", 1.2484266781431081], ["biweekly", 1.242120612287497], ["triweekly", 1.238042495966127]],
+    "country": "Thailand",
+    "long": "100.516667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0003244120060887923], ["weekly", 0.001866220437260527], ["biweekly", 0.001191867058732754], ["triweekly", 0.0010466146056559737]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.018812844631852094], ["weekly", 0.01857576994370699], ["biweekly", 0.018529265376308255], ["triweekly", 0.01852774377202764]],
+    "lat": "13.75",
+    "movingAverageControlAssessment": [["daily", 0.002866770085397497], ["weekly", 0.016791081928756772], ["biweekly", 0.01085277246614767], ["triweekly", 0.009828926007077134]]
+  }, {
+    "province_state": "Bangkok",
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 1.5804473304473305], ["biweekly", 1.2175924686232646], ["triweekly", 1.2733994450454078]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0014333850426987485], ["weekly", 0.007781233088936064], ["biweekly", 0.005119232295352673], ["triweekly", 0.004504924419910353]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 4.420559471682941], ["weekly", 4.406225621255953], ["biweekly", 4.381346152300539], ["triweekly", 4.366363865782807]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 1.254703683787403], ["weekly", 1.2506352542031378], ["biweekly", 1.243573622853306], ["triweekly", 1.239321145264039]],
+    "country": "Thailand",
+    "long": "100.516667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0003243067970704061], ["weekly", 0.0017717496774505292], ["biweekly", 0.0011679228712549211], ["triweekly", 0.0010304851774804156]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.01880674448767834], ["weekly", 0.018589146059305842], ["biweekly", 0.018554213748226855], ["triweekly", 0.018539713282173288]],
+    "lat": "13.75",
+    "movingAverageControlAssessment": [["daily", 0.002866770085397497], ["weekly", 0.016381543345128556], ["biweekly", 0.010443233882519453], ["triweekly", 0.00914636170103011]]
   }]
 }

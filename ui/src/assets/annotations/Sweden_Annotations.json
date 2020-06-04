@@ -1715,5 +1715,31 @@
     "movingAverageDeathRate": [["daily", 0.11643835616438356], ["weekly", 0.11903503925772782], ["biweekly", 0.11984072416605665], ["triweekly", 0.12092679347879234]],
     "lat": "59.3333333333",
     "movingAverageControlAssessment": [["daily", 8.506393327894397], ["weekly", 11.118079857471033], ["biweekly", 10.53172507263116], ["triweekly", 10.56760507556822]]
+  }, {
+    "province_state": "Stockholm",
+    "movingAverageGrowthRate": [["daily", 0.634032634032634], ["weekly", 1.1056115098524006], ["biweekly", 1.0677442850501413], ["triweekly", 1.0634741355003372]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 7.683513786851], ["weekly", 5.6241904603843915], ["biweekly", 5.266570694268284], ["triweekly", 5.2611414832975445]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 382.57950131715256], ["weekly", 360.02750315530403], ["biweekly", 341.32717609821884], ["triweekly", 323.4676685836455]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 658.6114729812848], ["weekly", 619.7881573647657], ["biweekly", 587.5955022280006], ["triweekly", 556.8503198269641]],
+    "country": "Sweden",
+    "long": "18.05",
+    "movingAverageEstimatedAlpha": [["daily", 0.020287857338951554], ["weekly", 0.01584960301926332], ["biweekly", 0.015642404379372872], ["triweekly", 0.01662571743961015]],
+    "date": "6/2/20",
+    "movingAverageDeathRate": [["daily", 0.11578429086008966], ["weekly", 0.11866198590494008], ["biweekly", 0.11946226100832331], ["triweekly", 0.12065791808625943]],
+    "lat": "59.3333333333",
+    "movingAverageControlAssessment": [["daily", 5.393330967802508], ["weekly", 11.565635683580695], ["biweekly", 10.479321384130975], ["triweekly", 10.594042972469211]]
+  }, {
+    "province_state": "Stockholm",
+    "movingAverageGrowthRate": [["daily", 2.849264705882353], ["weekly", 0.9937627190368202], ["biweekly", 1.077164764427702], ["triweekly", 1.052340907409503]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 21.95006390204918], ["weekly", 5.876294691547429], ["biweekly", 5.516550451573205], ["triweekly", 5.34281570050954]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 404.52956521920174], ["weekly", 365.9037978468514], ["biweekly", 346.843726549792], ["triweekly", 328.81048428415505]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 696.398557414169], ["weekly", 629.904211908064], ["biweekly", 597.0922562521382], ["triweekly", 566.0479890859427]],
+    "country": "Sweden",
+    "long": "18.05",
+    "movingAverageEstimatedAlpha": [["daily", 0.05578834635403851], ["weekly", 0.01624979745787972], ["biweekly", 0.016106074274621993], ["triweekly", 0.016528891758527904]],
+    "date": "6/3/20",
+    "movingAverageDeathRate": [["daily", 0.11131534445996617], ["weekly", 0.11809209614727245], ["biweekly", 0.1190518589410018], ["triweekly", 0.12038669831146227]],
+    "lat": "59.3333333333",
+    "movingAverageControlAssessment": [["daily", 15.367027573702], ["weekly", 11.248380920768783], ["biweekly", 10.533141388536569], ["triweekly", 10.522282966595089]]
   }]
 }
