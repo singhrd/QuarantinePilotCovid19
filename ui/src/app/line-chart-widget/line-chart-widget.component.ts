@@ -28,7 +28,7 @@ export class LineChartWidgetComponent implements OnInit {
 
   windowsAvailable = ['daily', 'weekly', 'biweekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
-  metrics = ['spread rate', 'daily growth rate', 'fatality rate', 'epidemic control ratio'];
+  metrics = ['spread rate', 'daily growth rate', 'fatality rate', 'epidemic control ratio','total per-capita cases','total per-capita cases-pd-normalized','daily per-capita cases'];
 
   selectedMetric = this.metrics[0];
 
@@ -36,7 +36,10 @@ export class LineChartWidgetComponent implements OnInit {
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days. Value less than 1 for a sustained period indicates inflection point (peak) has been reached.',
     'Percentage deaths within confirmed cases. Flu fatality rate is 0.001.',
-    'Ratio of daily confirmed cases to threshold per capita. Value less than 1 for 3 weeks implies the epidemic is under control'
+    'Ratio of daily confirmed cases to threshold per capita. Value less than 1 for 3 weeks implies the epidemic is under control',
+    'Total confirmed cases per 100k population',
+    'Total confirmed cases per 100k population normalized by population density',
+    'Daily confirmed cases per 100k population'
   ];
   chartDescriptionText = this.chartDescriptions[0];
   noChartData = true;
@@ -114,6 +117,15 @@ export class LineChartWidgetComponent implements OnInit {
               if (metric === 'epidemic control ratio') {
                 metricData = entry.movingAverageControlAssessment;
               }
+              if (metric === 'daily per-capita cases') {
+                metricData = entry.movingAverageConfirmedDailyPerCapita;
+              }              
+              if (metric === 'total per-capita cases') {
+                metricData = entry.movingAverageConfirmedCumulativePerCapita;
+              }
+              if (metric === 'total per-capita cases-pd-normalized') {
+                metricData = entry.movingAverageConfirmedCumulativePerCapitaPerPD;
+              }              
               // Grab the value based on selected time period
               metricData.filter(windowInfo => {
                 if (windowInfo[0] === window) {

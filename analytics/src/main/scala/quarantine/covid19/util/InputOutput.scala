@@ -23,6 +23,8 @@ object InputOutput extends JsonSupport {
   
   
   val ONE_HUNDRED_THOUSAND = 100000.0
+  val ONE_HUNDRED = 100.0
+  
   val EPIDEMIC_CONTROL_THRESHOLD_PER_100K = 0.5
   
   val COMMA_DELIMITER = ","
@@ -30,7 +32,8 @@ object InputOutput extends JsonSupport {
 
   val DEFAULT_DELIMITER = COMMA_DELIMITER
   val countryMapFileName = "../data/csv/general/concap.csv"
-  val countryPopulationMapFileName = "../data/csv/general/populationcountry2020.csv"  
+  val countryPopulationMapFileName = "../data/csv/general/populationcountry2020.csv"
+  val countryPopulationDensityMapFileName = "../data/csv/general/populationDensityCountry.csv"
  
   val countryMap = readCSV(countryMapFileName).map(x => {
     val elements = tokenize(x,Some(COMMA_DELIMITER))
@@ -43,6 +46,14 @@ object InputOutput extends JsonSupport {
     lines.slice(1,lines.length).map(x => {
     val elements = tokenize(x,Some(COMMA_DELIMITER))
     (elements(0) -> (elements(1).toDouble/ONE_HUNDRED_THOUSAND, elements(1).toDouble*EPIDEMIC_CONTROL_THRESHOLD_PER_100K/ONE_HUNDRED_THOUSAND))
+  }).toMap
+  }
+  
+  val countryPopulationDensityMap= {
+    val lines = readCSV(countryPopulationDensityMapFileName)
+    lines.slice(1,lines.length).map(x => {
+    val elements = tokenize(x,Some(COMMA_DELIMITER))
+    (elements(0) -> (elements(2).toDouble/ONE_HUNDRED))
   }).toMap
   }
   
@@ -124,6 +135,14 @@ object InputOutput extends JsonSupport {
               (1.0,0.5)
             }
           }
+          val normalizerCountryPD = countryPopulationDensityMap.contains(c) match {
+            case true => countryPopulationDensityMap(c)
+            case false => {
+              println("** missing key " + c)
+              1.0
+            }
+          }          
+          
           val (confirmedCumul, confirmedDaily) = combineCountryRecords(mapConfirmed(c), firstDateIndex, c)
           val (recoveredCumul, recoveredDaily) = combineCountryRecords(mapRecovered(c), firstDateIndex, c)
           val (deathsCumul, deathsDaily) = combineCountryRecords(mapDeaths(c), firstDateIndex, c)
@@ -137,6 +156,7 @@ object InputOutput extends JsonSupport {
                                                          countryMapValue._2.lat.toString(), 
                                                          countryMapValue._2.long.toString(),
                                                          confirmedDaily(i), confirmedDaily(i).toDouble/normalizerCountry,
+                                                         confirmedDaily(i).toDouble/(normalizerCountry*normalizerCountryPD),
                                                          recoveredDaily(i),recoveredDaily(i).toDouble/normalizerCountry,
                                                          0L, 0.0,// daily active does not make much sense
                                                          deathsDaily(i),deathsDaily(i).toDouble/normalizerCountry,
@@ -150,6 +170,7 @@ object InputOutput extends JsonSupport {
                                                          countryMapValue._2.lat.toString(), 
                                                          countryMapValue._2.long.toString(),
                                                          confirmedCumul(i),confirmedCumul(i).toDouble/normalizerCountry,
+                                                         confirmedCumul(i).toDouble/(normalizerCountry*normalizerCountryPD),
                                                          recoveredCumul(i),recoveredCumul(i).toDouble/normalizerCountry,
                                                          activeCumulative, activeCumulative.toDouble/normalizerCountry, 
                                                          deathsCumul(i),deathsCumul(i).toDouble/normalizerCountry,

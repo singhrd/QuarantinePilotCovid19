@@ -48,7 +48,7 @@ We assumes sigmoid distribution for confirmed cases and estimates
 spread rate as follows 
   - Spread Rate = (Log[Confirmed cases at time t] - Log[Confirmed cases at time t-delta])/delta
   
-#### Daily Growth rate
+#### Daily Growth rate      
 
 This metric provides an indicator for the inflection point. A value switch from greater than 1.0
 to less than 1.0 and staying below 1.0 indicates that we are close to an inflection point.

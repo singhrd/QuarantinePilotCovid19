@@ -27,6 +27,7 @@ case class Annotation(date: String,
 //                         (Log[confirmed cases at time k] - Log[confirmed cases at time k - delta])/delta, delta = 1 by default    
                        movingAverageConfirmedDailyPerCapita:Array[(String, Double)],
                        movingAverageConfirmedCumulativePerCapita:Array[(String, Double)],
+                       movingAverageConfirmedCumulativePerCapitaPerPD:Array[(String, Double)],
                        movingAverageEstimatedAlpha:Array[(String,Double)],
 //cumulativeDeathRate: total deaths / total confirmed as of date in this Annotation
                        movingAverageDeathRate: Array[(String,Double)], 

@@ -28,7 +28,8 @@ case class CovidSnapshot(date: String, // what format mm/dd/yyyy
                        lat: String, // aa.bb
                        long: String, // aa.bb
                          confirmed: Long, 
-                         confirmedNormalized: Double,
+                         confirmedNormalized: Double, // rename
+                         confirmedNormalizedPD: Double,
                          recovered: Long,
                          recoveredNormalized: Double,
                          active: Long, // not meaningful for daily snapshots - set to 0 by default
