@@ -1067,10 +1067,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "3/28/20",
-    "activeNormalized": 0.060529335088280525,
+    "activeNormalized": 0.0453970013162104,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 4
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.060529335088280525,
@@ -1083,10 +1083,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "3/29/20",
-    "activeNormalized": 0.060529335088280525,
+    "activeNormalized": 0.0453970013162104,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 4
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.060529335088280525,
@@ -1099,6 +1099,22 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "3/30/20",
+    "activeNormalized": 0.0453970013162104,
+    "deathsNormalized": 0.015132333772070131,
+    "lat": "12.1333333333",
+    "active": 3
+  }, {
+    "epidemiccontrolThreshold": 33.04183,
+    "confirmedNormalized": 0.07566166886035065,
+    "source": "JHU",
+    "deaths": 1,
+    "confirmed": 5,
+    "recovered": 0,
+    "confirmedNormalizedPD": 0.05749196555751817,
+    "locale": "Nicaragua",
+    "long": "-86.25",
+    "recoveredNormalized": 0.0,
+    "date": "3/31/20",
     "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
@@ -1114,27 +1130,11 @@
     "locale": "Nicaragua",
     "long": "-86.25",
     "recoveredNormalized": 0.0,
-    "date": "3/31/20",
-    "activeNormalized": 0.07566166886035065,
-    "deathsNormalized": 0.015132333772070131,
-    "lat": "12.1333333333",
-    "active": 5
-  }, {
-    "epidemiccontrolThreshold": 33.04183,
-    "confirmedNormalized": 0.07566166886035065,
-    "source": "JHU",
-    "deaths": 1,
-    "confirmed": 5,
-    "recovered": 0,
-    "confirmedNormalizedPD": 0.05749196555751817,
-    "locale": "Nicaragua",
-    "long": "-86.25",
-    "recoveredNormalized": 0.0,
     "date": "4/1/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.07566166886035065,
@@ -1147,10 +1147,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "4/2/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.07566166886035065,
@@ -1163,10 +1163,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "4/3/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.07566166886035065,
@@ -1179,10 +1179,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "4/4/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.0907940026324208,
@@ -1195,10 +1195,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "4/5/20",
-    "activeNormalized": 0.0907940026324208,
+    "activeNormalized": 0.07566166886035065,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 6
+    "active": 5
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.0907940026324208,
@@ -1211,10 +1211,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "4/6/20",
-    "activeNormalized": 0.0907940026324208,
+    "activeNormalized": 0.07566166886035065,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 6
+    "active": 5
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.0907940026324208,
@@ -1227,10 +1227,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "4/7/20",
-    "activeNormalized": 0.0907940026324208,
+    "activeNormalized": 0.07566166886035065,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 6
+    "active": 5
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.0907940026324208,
@@ -1243,6 +1243,22 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "4/8/20",
+    "activeNormalized": 0.07566166886035065,
+    "deathsNormalized": 0.015132333772070131,
+    "lat": "12.1333333333",
+    "active": 5
+  }, {
+    "epidemiccontrolThreshold": 33.04183,
+    "confirmedNormalized": 0.10592633640449092,
+    "source": "JHU",
+    "deaths": 1,
+    "confirmed": 7,
+    "recovered": 0,
+    "confirmedNormalizedPD": 0.08048875178052543,
+    "locale": "Nicaragua",
+    "long": "-86.25",
+    "recoveredNormalized": 0.0,
+    "date": "4/9/20",
     "activeNormalized": 0.0907940026324208,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
@@ -1258,27 +1274,11 @@
     "locale": "Nicaragua",
     "long": "-86.25",
     "recoveredNormalized": 0.0,
-    "date": "4/9/20",
-    "activeNormalized": 0.10592633640449092,
-    "deathsNormalized": 0.015132333772070131,
-    "lat": "12.1333333333",
-    "active": 7
-  }, {
-    "epidemiccontrolThreshold": 33.04183,
-    "confirmedNormalized": 0.10592633640449092,
-    "source": "JHU",
-    "deaths": 1,
-    "confirmed": 7,
-    "recovered": 0,
-    "confirmedNormalizedPD": 0.08048875178052543,
-    "locale": "Nicaragua",
-    "long": "-86.25",
-    "recoveredNormalized": 0.0,
     "date": "4/10/20",
-    "activeNormalized": 0.10592633640449092,
+    "activeNormalized": 0.0907940026324208,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 7
+    "active": 6
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.12105867017656105,
@@ -1291,10 +1291,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0,
     "date": "4/11/20",
-    "activeNormalized": 0.12105867017656105,
+    "activeNormalized": 0.10592633640449092,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 8
+    "active": 7
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.13619100394863118,
@@ -1307,10 +1307,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.060529335088280525,
     "date": "4/12/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.13619100394863118,
@@ -1323,10 +1323,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.060529335088280525,
     "date": "4/13/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.13619100394863118,
@@ -1339,10 +1339,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.060529335088280525,
     "date": "4/14/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.13619100394863118,
@@ -1355,10 +1355,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.060529335088280525,
     "date": "4/15/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.13619100394863118,
@@ -1371,10 +1371,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.060529335088280525,
     "date": "4/16/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.13619100394863118,
@@ -1387,10 +1387,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.060529335088280525,
     "date": "4/17/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.015132333772070131,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.13619100394863118,
@@ -1403,6 +1403,22 @@
     "long": "-86.25",
     "recoveredNormalized": 0.0907940026324208,
     "date": "4/18/20",
+    "activeNormalized": 0.015132333772070131,
+    "deathsNormalized": 0.030264667544140263,
+    "lat": "12.1333333333",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 33.04183,
+    "confirmedNormalized": 0.1513233377207013,
+    "source": "JHU",
+    "deaths": 2,
+    "confirmed": 10,
+    "recovered": 6,
+    "confirmedNormalizedPD": 0.11498393111503634,
+    "locale": "Nicaragua",
+    "long": "-86.25",
+    "recoveredNormalized": 0.0907940026324208,
+    "date": "4/19/20",
     "activeNormalized": 0.030264667544140263,
     "deathsNormalized": 0.030264667544140263,
     "lat": "12.1333333333",
@@ -1418,27 +1434,11 @@
     "locale": "Nicaragua",
     "long": "-86.25",
     "recoveredNormalized": 0.0907940026324208,
-    "date": "4/19/20",
-    "activeNormalized": 0.060529335088280525,
-    "deathsNormalized": 0.030264667544140263,
-    "lat": "12.1333333333",
-    "active": 4
-  }, {
-    "epidemiccontrolThreshold": 33.04183,
-    "confirmedNormalized": 0.1513233377207013,
-    "source": "JHU",
-    "deaths": 2,
-    "confirmed": 10,
-    "recovered": 6,
-    "confirmedNormalizedPD": 0.11498393111503634,
-    "locale": "Nicaragua",
-    "long": "-86.25",
-    "recoveredNormalized": 0.0907940026324208,
     "date": "4/20/20",
-    "activeNormalized": 0.060529335088280525,
+    "activeNormalized": 0.030264667544140263,
     "deathsNormalized": 0.030264667544140263,
     "lat": "12.1333333333",
-    "active": 4
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.1513233377207013,
@@ -1451,10 +1451,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/21/20",
-    "activeNormalized": 0.0453970013162104,
+    "activeNormalized": 0.015132333772070131,
     "deathsNormalized": 0.030264667544140263,
     "lat": "12.1333333333",
-    "active": 3
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.1513233377207013,
@@ -1467,10 +1467,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/22/20",
-    "activeNormalized": 0.0453970013162104,
+    "activeNormalized": 0.015132333772070131,
     "deathsNormalized": 0.030264667544140263,
     "lat": "12.1333333333",
-    "active": 3
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.16645567149277146,
@@ -1483,10 +1483,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/23/20",
-    "activeNormalized": 0.0453970013162104,
+    "activeNormalized": 0.015132333772070131,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 3
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.16645567149277146,
@@ -1499,10 +1499,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/24/20",
-    "activeNormalized": 0.060529335088280525,
+    "activeNormalized": 0.015132333772070131,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 4
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.1815880052648416,
@@ -1515,10 +1515,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/25/20",
-    "activeNormalized": 0.07566166886035065,
+    "activeNormalized": 0.030264667544140263,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 5
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.19672033903691172,
@@ -1531,10 +1531,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/26/20",
-    "activeNormalized": 0.0907940026324208,
+    "activeNormalized": 0.0453970013162104,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 6
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.19672033903691172,
@@ -1547,10 +1547,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/27/20",
-    "activeNormalized": 0.0907940026324208,
+    "activeNormalized": 0.0453970013162104,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 6
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.19672033903691172,
@@ -1563,10 +1563,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/28/20",
-    "activeNormalized": 0.0907940026324208,
+    "activeNormalized": 0.0453970013162104,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 6
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.19672033903691172,
@@ -1579,10 +1579,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/29/20",
-    "activeNormalized": 0.0907940026324208,
+    "activeNormalized": 0.0453970013162104,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 6
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.21185267280898185,
@@ -1595,10 +1595,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "4/30/20",
-    "activeNormalized": 0.10592633640449092,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 7
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.21185267280898185,
@@ -1611,10 +1611,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/1/20",
-    "activeNormalized": 0.10592633640449092,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 7
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.21185267280898185,
@@ -1627,10 +1627,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/2/20",
-    "activeNormalized": 0.10592633640449092,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.0453970013162104,
     "lat": "12.1333333333",
-    "active": 7
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.22698500658105197,
@@ -1643,10 +1643,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/3/20",
-    "activeNormalized": 0.0907940026324208,
+    "activeNormalized": 0.0453970013162104,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 6
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.22698500658105197,
@@ -1659,10 +1659,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/4/20",
-    "activeNormalized": 0.12105867017656105,
+    "activeNormalized": 0.0453970013162104,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 8
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.2421173403531221,
@@ -1675,10 +1675,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/5/20",
-    "activeNormalized": 0.13619100394863118,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 9
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.2421173403531221,
@@ -1691,10 +1691,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/6/20",
-    "activeNormalized": 0.13619100394863118,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 9
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.2421173403531221,
@@ -1707,10 +1707,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/7/20",
-    "activeNormalized": 0.13619100394863118,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 9
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.2421173403531221,
@@ -1723,10 +1723,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/8/20",
-    "activeNormalized": 0.13619100394863118,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 9
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.2421173403531221,
@@ -1739,10 +1739,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/9/20",
-    "activeNormalized": 0.13619100394863118,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 9
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.2421173403531221,
@@ -1755,10 +1755,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/10/20",
-    "activeNormalized": 0.13619100394863118,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 9
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.2421173403531221,
@@ -1771,10 +1771,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/11/20",
-    "activeNormalized": 0.13619100394863118,
+    "activeNormalized": 0.060529335088280525,
     "deathsNormalized": 0.07566166886035065,
     "lat": "12.1333333333",
-    "active": 9
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.3783083443017533,
@@ -1787,10 +1787,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/12/20",
-    "activeNormalized": 0.22698500658105197,
+    "activeNormalized": 0.1513233377207013,
     "deathsNormalized": 0.12105867017656105,
     "lat": "12.1333333333",
-    "active": 15
+    "active": 10
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.3783083443017533,
@@ -1803,10 +1803,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/13/20",
-    "activeNormalized": 0.27238200789726236,
+    "activeNormalized": 0.1513233377207013,
     "deathsNormalized": 0.12105867017656105,
     "lat": "12.1333333333",
-    "active": 18
+    "active": 10
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.3783083443017533,
@@ -1819,10 +1819,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/14/20",
-    "activeNormalized": 0.27238200789726236,
+    "activeNormalized": 0.1513233377207013,
     "deathsNormalized": 0.12105867017656105,
     "lat": "12.1333333333",
-    "active": 18
+    "active": 10
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.3783083443017533,
@@ -1835,10 +1835,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/15/20",
-    "activeNormalized": 0.27238200789726236,
+    "activeNormalized": 0.1513233377207013,
     "deathsNormalized": 0.12105867017656105,
     "lat": "12.1333333333",
-    "active": 18
+    "active": 10
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.3783083443017533,
@@ -1851,10 +1851,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/16/20",
-    "activeNormalized": 0.27238200789726236,
+    "activeNormalized": 0.1513233377207013,
     "deathsNormalized": 0.12105867017656105,
     "lat": "12.1333333333",
-    "active": 18
+    "active": 10
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.3783083443017533,
@@ -1867,10 +1867,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/17/20",
-    "activeNormalized": 0.27238200789726236,
+    "activeNormalized": 0.1513233377207013,
     "deathsNormalized": 0.12105867017656105,
     "lat": "12.1333333333",
-    "active": 18
+    "active": 10
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 0.3783083443017533,
@@ -1883,10 +1883,10 @@
     "long": "-86.25",
     "recoveredNormalized": 0.10592633640449092,
     "date": "5/18/20",
-    "activeNormalized": 0.27238200789726236,
+    "activeNormalized": 0.1513233377207013,
     "deathsNormalized": 0.12105867017656105,
     "lat": "12.1333333333",
-    "active": 18
+    "active": 10
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 3.8436127781058134,
@@ -1899,10 +1899,10 @@
     "long": "-86.25",
     "recoveredNormalized": 3.011334420641956,
     "date": "5/19/20",
-    "activeNormalized": 0.6960873535152261,
+    "activeNormalized": 0.575028683338665,
     "deathsNormalized": 0.25724967412519223,
     "lat": "12.1333333333",
-    "active": 46
+    "active": 38
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 3.8436127781058134,
@@ -1915,10 +1915,10 @@
     "long": "-86.25",
     "recoveredNormalized": 3.011334420641956,
     "date": "5/20/20",
-    "activeNormalized": 0.8322783574638573,
+    "activeNormalized": 0.575028683338665,
     "deathsNormalized": 0.25724967412519223,
     "lat": "12.1333333333",
-    "active": 55
+    "active": 38
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 4.221921122407567,
@@ -1931,10 +1931,10 @@
     "long": "-86.25",
     "recoveredNormalized": 3.011334420641956,
     "date": "5/21/20",
-    "activeNormalized": 1.2105867017656105,
+    "activeNormalized": 0.9533370276404183,
     "deathsNormalized": 0.25724967412519223,
     "lat": "12.1333333333",
-    "active": 80
+    "active": 63
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 4.221921122407567,
@@ -1947,10 +1947,10 @@
     "long": "-86.25",
     "recoveredNormalized": 3.011334420641956,
     "date": "5/22/20",
-    "activeNormalized": 1.2105867017656105,
+    "activeNormalized": 0.9533370276404183,
     "deathsNormalized": 0.25724967412519223,
     "lat": "12.1333333333",
-    "active": 80
+    "active": 63
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 4.221921122407567,
@@ -1963,10 +1963,10 @@
     "long": "-86.25",
     "recoveredNormalized": 3.011334420641956,
     "date": "5/23/20",
-    "activeNormalized": 1.2105867017656105,
+    "activeNormalized": 0.9533370276404183,
     "deathsNormalized": 0.25724967412519223,
     "lat": "12.1333333333",
-    "active": 80
+    "active": 63
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 4.221921122407567,
@@ -1979,10 +1979,10 @@
     "long": "-86.25",
     "recoveredNormalized": 3.011334420641956,
     "date": "5/24/20",
-    "activeNormalized": 1.2105867017656105,
+    "activeNormalized": 0.9533370276404183,
     "deathsNormalized": 0.25724967412519223,
     "lat": "12.1333333333",
-    "active": 80
+    "active": 63
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 4.221921122407567,
@@ -1995,10 +1995,10 @@
     "long": "-86.25",
     "recoveredNormalized": 3.011334420641956,
     "date": "5/25/20",
-    "activeNormalized": 1.2105867017656105,
+    "activeNormalized": 0.9533370276404183,
     "deathsNormalized": 0.25724967412519223,
     "lat": "12.1333333333",
-    "active": 80
+    "active": 63
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 11.48544133300123,
@@ -2011,10 +2011,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "5/26/20",
-    "activeNormalized": 5.6140958294380185,
+    "activeNormalized": 5.356846155312827,
     "deathsNormalized": 0.5296316820224546,
     "lat": "12.1333333333",
-    "active": 371
+    "active": 354
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 11.48544133300123,
@@ -2027,10 +2027,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "5/27/20",
-    "activeNormalized": 5.886477837335281,
+    "activeNormalized": 5.356846155312827,
     "deathsNormalized": 0.5296316820224546,
     "lat": "12.1333333333",
-    "active": 389
+    "active": 354
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 11.48544133300123,
@@ -2043,10 +2043,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "5/28/20",
-    "activeNormalized": 5.886477837335281,
+    "activeNormalized": 5.356846155312827,
     "deathsNormalized": 0.5296316820224546,
     "lat": "12.1333333333",
-    "active": 389
+    "active": 354
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 11.48544133300123,
@@ -2059,10 +2059,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "5/29/20",
-    "activeNormalized": 5.886477837335281,
+    "activeNormalized": 5.356846155312827,
     "deathsNormalized": 0.5296316820224546,
     "lat": "12.1333333333",
-    "active": 389
+    "active": 354
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 11.48544133300123,
@@ -2075,10 +2075,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "5/30/20",
-    "activeNormalized": 5.886477837335281,
+    "activeNormalized": 5.356846155312827,
     "deathsNormalized": 0.5296316820224546,
     "lat": "12.1333333333",
-    "active": 389
+    "active": 354
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 11.48544133300123,
@@ -2091,10 +2091,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "5/31/20",
-    "activeNormalized": 5.886477837335281,
+    "activeNormalized": 5.356846155312827,
     "deathsNormalized": 0.5296316820224546,
     "lat": "12.1333333333",
-    "active": 389
+    "active": 354
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 11.48544133300123,
@@ -2107,10 +2107,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "6/1/20",
-    "activeNormalized": 5.886477837335281,
+    "activeNormalized": 5.356846155312827,
     "deathsNormalized": 0.5296316820224546,
     "lat": "12.1333333333",
-    "active": 389
+    "active": 354
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 16.91794915717441,
@@ -2123,10 +2123,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "6/2/20",
-    "activeNormalized": 11.152529990015687,
+    "activeNormalized": 10.622898307993232,
     "deathsNormalized": 0.6960873535152261,
     "lat": "12.1333333333",
-    "active": 737
+    "active": 702
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 16.91794915717441,
@@ -2139,10 +2139,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "6/3/20",
-    "activeNormalized": 11.318985661508458,
+    "activeNormalized": 10.622898307993232,
     "deathsNormalized": 0.6960873535152261,
     "lat": "12.1333333333",
-    "active": 748
+    "active": 702
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 16.91794915717441,
@@ -2155,10 +2155,10 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "6/4/20",
-    "activeNormalized": 11.318985661508458,
+    "activeNormalized": 10.622898307993232,
     "deathsNormalized": 0.6960873535152261,
     "lat": "12.1333333333",
-    "active": 748
+    "active": 702
   }, {
     "epidemiccontrolThreshold": 33.04183,
     "confirmedNormalized": 16.91794915717441,
@@ -2171,9 +2171,9 @@
     "long": "-86.25",
     "recoveredNormalized": 5.598963495665949,
     "date": "6/5/20",
-    "activeNormalized": 11.318985661508458,
+    "activeNormalized": 10.622898307993232,
     "deathsNormalized": 0.6960873535152261,
     "lat": "12.1333333333",
-    "active": 748
+    "active": 702
   }]
 }
