@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild, ViewEncapsulation } from '@angular/core';
-import { LocationsByCountryName } from '../models/data-types';
+import { LocationsByLocaleName } from '../models/data-types';
 import { CovidReportService } from '../services/covid-report.service';
 import { forkJoin } from 'rxjs';
 import { serializeNodes } from '@angular/compiler/src/i18n/digest';
@@ -22,24 +22,23 @@ export class LineChartWidgetComponent implements OnInit {
   data: Array<any> = [];
 
   // Dropdown options
-  locations = LocationsByCountryName;
+  locations = LocationsByLocaleName;
   availableLocations = [];
   selectedLocations: Array<string> = [];
 
   windowsAvailable = ['daily', 'weekly', 'biweekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
-  metrics = ['spread rate', 'daily growth rate', 'fatality rate', 'epidemic control ratio','total per-capita cases','total per-capita cases-pd-normalized','daily per-capita cases'];
+  metrics = ['spread rate', 'daily growth rate', 'confirmed fatality rate', 'epidemic control ratio','total per-100k','total per-100k-normalized'];
 
   selectedMetric = this.metrics[0];
 
   chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days. Value less than 1 for a sustained period indicates inflection point (peak) has been reached.',
-    'Percentage deaths within confirmed cases. Flu fatality rate is 0.001.',
+    'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
     'Ratio of daily confirmed cases to threshold per capita. Value less than 1 for 3 weeks implies the epidemic is under control',
     'Total confirmed cases per 100k population',
-    'Total confirmed cases per 100k population normalized by population density',
-    'Daily confirmed cases per 100k population'
+    'Total confirmed cases per 100k population normalized by population density'
   ];
   chartDescriptionText = this.chartDescriptions[0];
   noChartData = true;
@@ -111,19 +110,16 @@ export class LineChartWidgetComponent implements OnInit {
               if (metric === 'spread rate') {
                 metricData = entry.movingAverageEstimatedAlpha;
               }
-              if (metric === 'fatality rate') {
+              if (metric === 'confirmed fatality rate') {
                 metricData = entry.movingAverageDeathRate;
               }
               if (metric === 'epidemic control ratio') {
                 metricData = entry.movingAverageControlAssessment;
               }
-              if (metric === 'daily per-capita cases') {
-                metricData = entry.movingAverageConfirmedDailyPerCapita;
-              }              
-              if (metric === 'total per-capita cases') {
+              if (metric === 'total per-100k cases') {
                 metricData = entry.movingAverageConfirmedCumulativePerCapita;
               }
-              if (metric === 'total per-capita cases-pd-normalized') {
+              if (metric === 'total per-100k-normalized') {
                 metricData = entry.movingAverageConfirmedCumulativePerCapitaPerPD;
               }              
               // Grab the value based on selected time period
@@ -223,8 +219,8 @@ export class LineChartWidgetComponent implements OnInit {
    */
   createMultiselectLabels() {
     const locationsMultiselect = [];
-    this.locations.forEach(country => {
-      locationsMultiselect.push({ label: country, value: country });
+    this.locations.forEach(locale => {
+      locationsMultiselect.push({ label: locale, value: locale });
     });
     this.availableLocations = locationsMultiselect;
   }

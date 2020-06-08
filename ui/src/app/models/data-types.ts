@@ -1,10 +1,9 @@
 export class ResultsPerDate {
-    'province_state': string;
     'source': string;
     'deaths': number;
     'confirmed': number;
     'recovered': number;
-    'country': string;
+    'locale': string;
     'long': number;
     'date': string;
     'lat': number;
@@ -19,7 +18,7 @@ export class ResultMessage {
     'snapshots': ResultsPerDate[];
 }
 
-export const LocationsByCountryName: string[] = [
+export const LocationsByLocaleName: string[] = [
     'Afghanistan',
     'Albania',
     'Algeria',

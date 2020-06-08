@@ -19,8 +19,7 @@ package quarantine.covid19.core
  * @author rajdeep
  */
 case class Annotation(date: String, 
-                       province_state: String, 
-                       country: String, 
+                       locale: String, 
                        lat: String, 
                        long: String, 
 // spreadRate in the logistic/exponential equation 

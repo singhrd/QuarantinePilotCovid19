@@ -40,16 +40,16 @@ object HelperFunctions {
 	
 	}
 	
-	def pivotOnCountry(cSnapshots: CovidSnapshots, countryName:String): CovidSnapshots = {
-   CovidSnapshots(cSnapshots.snapshots.filter(cs => cs.country.equals(countryName)))
+	def pivotOnCountry(cSnapshots: CovidSnapshots, localeName:String): CovidSnapshots = {
+   CovidSnapshots(cSnapshots.snapshots.filter(cs => cs.locale.equals(localeName)))
   }
 
   def pivotOnDate(cSnapshots: CovidSnapshots, dateString:String): CovidSnapshots = {
    CovidSnapshots(cSnapshots.snapshots.filter(cs => cs.date.equals(dateString)))
   }
   
-  def pivotAnnotationsOnCountry(annotations: Annotations, countryName:String): Annotations = {
-   Annotations(annotations.elements.filter(an => an.country.equals(countryName)))
+  def pivotAnnotationsOnCountry(annotations: Annotations, localeName:String): Annotations = {
+   Annotations(annotations.elements.filter(an => an.locale.equals(localeName)))
   }
 
   def pivotAnnotationsOnDate(annotations: Annotations, dateString:String): Annotations = {
@@ -59,8 +59,8 @@ object HelperFunctions {
 	/**
 	 * In case of a daily snapshot missing, we can jumpstart with the default snapshot with 0 baseline
 	 */
-  def createDefaultCovidSnapshot(date: String, province_state: String, country: String, epidemicControlThreshold: Double, loc: GeoLocation): CovidSnapshot = 
-     CovidSnapshot(date, province_state, country, loc.lat, loc.long, 0L, 0.0, 0.0, 0L, 0.0, 0L, 0.0, 0L, 0.0, epidemicControlThreshold, "HelperFunction",None)
+  def createDefaultCovidSnapshot(date: String, locale: String, epidemicControlThreshold: Double, loc: GeoLocation): CovidSnapshot = 
+     CovidSnapshot(date, locale, loc.lat, loc.long, 0L, 0.0, 0.0, 0L, 0.0, 0L, 0.0, 0L, 0.0, epidemicControlThreshold, "HelperFunction",None)
    
      /**
       * Return the sum if both are present, else return the one with a value or None if both are missing
@@ -90,7 +90,7 @@ object HelperFunctions {
    */
   def combineCovidSnapshots(daily: CovidSnapshot, cumulative: CovidSnapshot): CovidSnapshot = {
       
-      CovidSnapshot(daily.date, daily.province_state, daily.country, daily.lat, daily.long,
+      CovidSnapshot(daily.date, daily.locale, daily.lat, daily.long,
                     daily.confirmed+cumulative.confirmed,
                     daily.confirmedNormalized+cumulative.confirmedNormalized,
                     daily.confirmedNormalizedPD+cumulative.confirmedNormalizedPD,
@@ -136,8 +136,7 @@ object HelperFunctions {
       snapshot.snapshots.length > 0 match {
         case false => // do nothing
         case true => {
-        	val province_state = snapshot.snapshots(0).province_state
-        	val country = snapshot.snapshots(0).country
+        	val locale = snapshot.snapshots(0).locale
         			
         	Range(0,diffDays.toInt+1).foreach(i => {
         		val dt = datesSorted(i)._2
@@ -148,7 +147,7 @@ object HelperFunctions {
         		  case true => { 
         		    matchesFound.length >0 match { // implies exactly one match per loc.date
         			    case true => mapLocationDateToCovidSnapshot.+=((loc,dt) -> matchesFound(0))
-        				  case false => mapLocationDateToCovidSnapshot.+=((loc,dt) -> HelperFunctions.createDefaultCovidSnapshot(dtString, province_state, country, 0.5, loc))
+        				  case false => mapLocationDateToCovidSnapshot.+=((loc,dt) -> HelperFunctions.createDefaultCovidSnapshot(dtString, locale, 0.5, loc))
         			  }
         		  }
         		  case false => { // now we are looking at a date past the min date, so we should have the cumulative value for minDate already or the previous day
@@ -250,8 +249,7 @@ object HelperFunctions {
      
      
     val daysToString = movingAverageWindows.map(x => (x, stringForDays(x))).toMap
-    val province = dailySnapshots.snapshots(0).province_state
-    val country = dailySnapshots.snapshots(0).country
+    val locale = dailySnapshots.snapshots(0).locale
     val lat = dailySnapshots.snapshots(0).lat
     val long = dailySnapshots.snapshots(0).long
     val datesSorted = dailySnapshots.snapshots.map(dS => dS.date).distinct.map(dSS => (dSS, HelperFunctions.getDate(dSS))).sortWith((a,b) => a._2.before(b._2))
@@ -293,8 +291,8 @@ object HelperFunctions {
       
       val epidemicControlDaily = matchesFoundDaily.length>0 match {
         case true => {
-          InputOutput.countryPopulationMap.contains(country) match {
-            case true => matchesFoundDaily.last.confirmed.toDouble/InputOutput.countryPopulationMap(country)._2
+          InputOutput.countryPopulationECMap.contains(locale) match {
+            case true => matchesFoundDaily.last.confirmed.toDouble/InputOutput.countryPopulationECMap(locale)._2
             case false => 0.0
           }
         }
@@ -342,7 +340,7 @@ object HelperFunctions {
     // now combine them into the annotation object
     Range(0,diffDays.toInt+1).toList.map(l => {
       val map2Value = mapIndexToAnnotationAverageMetrics.get(l).get
-      Annotation(datesSorted(l)._1, province, country, lat, long, map2Value._1, map2Value._2, map2Value._3,map2Value._4,map2Value._5,map2Value._6,map2Value._7)
+      Annotation(datesSorted(l)._1, locale, lat, long, map2Value._1, map2Value._2, map2Value._3,map2Value._4,map2Value._5,map2Value._6,map2Value._7)
     })      
     
   }    
@@ -351,7 +349,7 @@ object HelperFunctions {
    * Just a clone
    */
   def deepCopyCovidSnapshot(covidSnapshot: CovidSnapshot): CovidSnapshot = {
-    CovidSnapshot(covidSnapshot.date, covidSnapshot.province_state, covidSnapshot.country, covidSnapshot.lat, covidSnapshot.long,
+    CovidSnapshot(covidSnapshot.date, covidSnapshot.locale, covidSnapshot.lat, covidSnapshot.long,
                     covidSnapshot.confirmed,covidSnapshot.confirmedNormalized,covidSnapshot.confirmedNormalizedPD,
                     covidSnapshot.recovered,covidSnapshot.recoveredNormalized,
                     covidSnapshot.active,covidSnapshot.activeNormalized,

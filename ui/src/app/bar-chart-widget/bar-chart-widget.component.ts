@@ -1,6 +1,6 @@
 import { Component, OnInit, ViewEncapsulation, Input } from '@angular/core';
 import { CovidReportService } from '../services/covid-report.service';
-import { ResultMessage, LocationsByCountryName } from '../models/data-types';
+import { ResultMessage, LocationsByLocaleName } from '../models/data-types';
 
 @Component({
   selector: 'app-bar-chart-widget',
@@ -12,7 +12,7 @@ export class BarChartWidgetComponent implements OnInit {
 
   @Input() uuid: string;
 
-  locations = LocationsByCountryName;
+  locations = LocationsByLocaleName;
   snapshots = ['daily', 'cumulative'];
   normalizations = ['absolute', 'per-capita'];
   yAxisTitles = ['Cases', 'Cases per capita'];

@@ -23,8 +23,7 @@ package quarantine.covid19.core
 
 
 case class CovidSnapshot(date: String, // what format mm/dd/yyyy
-                       province_state: String, 
-                       country: String, 
+                       locale: String, 
                        lat: String, // aa.bb
                        long: String, // aa.bb
                          confirmed: Long, 
