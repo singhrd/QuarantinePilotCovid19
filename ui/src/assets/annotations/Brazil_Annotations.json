@@ -1621,15 +1621,39 @@
     "movingAverageControlAssessment": [["daily", 26.980047174800468], ["weekly", 22.097736998081228], ["biweekly", 19.080854293900604], ["triweekly", 16.923592013997034]]
   }, {
     "movingAverageGrowthRate": [["daily", 1.0800474976425802], ["weekly", 1.174549507415963], ["biweekly", 1.1024849724312493], ["triweekly", 1.1153590656091903]],
-    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 11.89300875595284], ["biweekly", 10.259110743131828], ["triweekly", 9.238204922933278]],
-    "movingAverageConfirmedCumulativePerCapita": [["daily", 289.720553028306], ["weekly", 253.01606663014022], ["biweekly", 215.94564253648466], ["triweekly", 184.8807830245561]],
-    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 448.1494504538503], ["weekly", 391.3737221301447], ["biweekly", 334.0319491284903], ["triweekly", 285.979784471271]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 14.525108343503971], ["weekly", 11.89300875595284], ["biweekly", 10.259110743131828], ["triweekly", 9.238204922933278]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 304.24566137181], ["weekly", 253.01606663014022], ["biweekly", 215.94564253648466], ["triweekly", 184.8807830245561]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 470.6173742993773], ["weekly", 391.3737221301447], ["biweekly", 334.0319491284903], ["triweekly", 285.979784471271]],
     "locale": "Brazil",
     "long": "-47.916667",
-    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0483948837785922], ["biweekly", 0.04890524464129431], ["triweekly", 0.05273847007004738]],
+    "movingAverageEstimatedAlpha": [["daily", 0.048918623527262284], ["weekly", 0.0483948837785922], ["biweekly", 0.04890524464129431], ["triweekly", 0.05273847007004738]],
     "date": "6/5/20",
-    "movingAverageDeathRate": [["daily", 0.05532400669332505], ["weekly", 0.05697342729991761], ["biweekly", 0.05976199047730798], ["triweekly", 0.0619038923450992]],
+    "movingAverageDeathRate": [["daily", 0.05423904139393067], ["weekly", 0.05697342729991761], ["biweekly", 0.05976199047730798], ["triweekly", 0.0619038923450992]],
     "lat": "-15.7833333333",
     "movingAverageControlAssessment": [["daily", 29.139732437422012], ["weekly", 23.179194951203986], ["biweekly", 19.682494363788845], ["triweekly", 17.673370555059236]]
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.996928051738076], ["weekly", 1.1456361649093194], ["biweekly", 1.1125041784931862], ["triweekly", 1.1147576122932406]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 12.755994434004865], ["weekly", 12.155633160551108], ["biweekly", 10.59654473914757], ["triweekly", 9.545654507814081]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 317.0016558058149], ["weekly", 265.1716997906913], ["biweekly", 226.5421872756322], ["triweekly", 194.42643753237022]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 490.34877352473063], ["weekly", 410.17646243931205], ["biweekly", 350.42303927353305], ["triweekly", 300.7453224256364]],
+    "locale": "Brazil",
+    "long": "-47.916667",
+    "movingAverageEstimatedAlpha": [["daily", 0.04107152553608984], ["weekly", 0.04686437437760154], ["biweekly", 0.04776135413656579], ["triweekly", 0.051214073913350235]],
+    "date": "6/6/20",
+    "movingAverageDeathRate": [["daily", 0.053400035074890835], ["weekly", 0.05616024844980178], ["biweekly", 0.05909261748905503], ["triweekly", 0.06125245373234441]],
+    "lat": "-15.7833333333",
+    "movingAverageControlAssessment": [["daily", 29.050216687007943], ["weekly", 23.78601751190568], ["biweekly", 20.518221486263656], ["triweekly", 18.476409845866556]]
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.878203048978268], ["weekly", 1.142433943086601], ["biweekly", 1.1034275798855118], ["triweekly", 1.0996326019055176]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 8.910115114899355], ["weekly", 11.738408997530945], ["biweekly", 10.95215110554812], ["triweekly", 9.856491781495015]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 325.9117709207142], ["weekly", 276.91010878822226], ["biweekly", 237.49433838118037], ["triweekly", 204.28292931386525]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 504.1312378700633], ["weekly", 428.3338264456276], ["biweekly", 367.3641932508258], ["triweekly", 315.9916738808896]],
+    "locale": "Brazil",
+    "long": "-47.916667",
+    "movingAverageEstimatedAlpha": [["daily", 0.027719706163397362], ["weekly", 0.0428618937476859], ["biweekly", 0.04721752718360176], ["triweekly", 0.05039463295721007]],
+    "date": "6/7/20",
+    "movingAverageDeathRate": [["daily", 0.05269906528005459], ["weekly", 0.05552475527759839], ["biweekly", 0.05838080842874851], ["triweekly", 0.060601417937430874]],
+    "lat": "-15.7833333333",
+    "movingAverageControlAssessment": [["daily", 25.51198886800973], ["weekly", 24.311266321102217], ["biweekly", 21.19308947829514], ["triweekly", 19.091309015628163]]
   }]
 }

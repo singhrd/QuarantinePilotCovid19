@@ -1115,10 +1115,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.0,
     "date": "3/31/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": 0.01692857141647959,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -1147,10 +1147,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.0,
     "date": "4/2/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": 0.008464285708239795,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -1291,10 +1291,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.0,
     "date": "4/11/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": 0.01692857141647959,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -1323,10 +1323,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.0,
     "date": "4/13/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": -0.008464285708239795,
     "deathsNormalized": 0.008464285708239795,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -1435,10 +1435,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.03385714283295918,
     "date": "4/20/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": -0.03385714283295918,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": -4
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -1467,10 +1467,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.0,
     "date": "4/22/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": 0.05078571424943877,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": 6
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -1627,10 +1627,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.025392857124719385,
     "date": "5/2/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": 0.008464285708239795,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -1883,10 +1883,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.042321428541198976,
     "date": "5/18/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": 0.11849999991535713,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": 14
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -2075,10 +2075,10 @@
     "long": "29.35",
     "recoveredNormalized": 0.11003571420711734,
     "date": "5/30/20",
-    "activeNormalized": 0.0,
+    "activeNormalized": 0.06771428566591836,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",
-    "active": 0
+    "active": 8
   }, {
     "epidemiccontrolThreshold": 59.07173,
     "confirmedNormalized": 0.0,
@@ -2171,6 +2171,38 @@
     "long": "29.35",
     "recoveredNormalized": 0.0,
     "date": "6/5/20",
+    "activeNormalized": 0.0,
+    "deathsNormalized": 0.0,
+    "lat": "-3.3666666667",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 59.07173,
+    "confirmedNormalized": 0.1692857141647959,
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 20,
+    "recovered": 12,
+    "confirmedNormalizedPD": 0.015299797783845224,
+    "locale": "Burundi",
+    "long": "29.35",
+    "recoveredNormalized": 0.10157142849887754,
+    "date": "6/6/20",
+    "activeNormalized": 0.06771428566591836,
+    "deathsNormalized": 0.0,
+    "lat": "-3.3666666667",
+    "active": 8
+  }, {
+    "epidemiccontrolThreshold": 59.07173,
+    "confirmedNormalized": 0.0,
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "confirmedNormalizedPD": 0.0,
+    "locale": "Burundi",
+    "long": "29.35",
+    "recoveredNormalized": 0.0,
+    "date": "6/7/20",
     "activeNormalized": 0.0,
     "deathsNormalized": 0.0,
     "lat": "-3.3666666667",

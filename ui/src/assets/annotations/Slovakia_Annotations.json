@@ -1631,5 +1631,29 @@
     "movingAverageDeathRate": [["daily", 0.01834862385321101], ["weekly", 0.018391701100582778], ["biweekly", 0.018463116110318128], ["triweekly", 0.018525679553726377]],
     "lat": "48.15",
     "movingAverageControlAssessment": [["daily", 0.03663596816773998], ["weekly", 0.05233709738248569], ["biweekly", 0.07588879120460423], ["triweekly", 0.09769591511397327]]
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.5017996766288813], ["biweekly", 1.041376028790631], ["triweekly", 1.3030724196821541]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.03663596816773998], ["weekly", 0.015701129214745705], ["biweekly", 0.030093830994929266], ["triweekly", 0.04012510799323902]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 27.989879680153344], ["weekly", 27.903523469472244], ["biweekly", 27.810625121618326], ["triweekly", 27.680218520640302]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 9.706463922473263], ["weekly", 9.676516904013877], ["biweekly", 9.644301172034838], ["triweekly", 9.5990781492098]],
+    "locale": "Slovakia",
+    "long": "17.116667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0013097578820637779], ["weekly", 0.0005627997148685639], ["biweekly", 0.001084773006530553], ["triweekly", 0.0014575164326781763]],
+    "date": "6/6/20",
+    "movingAverageDeathRate": [["daily", 0.01832460732984293], ["weekly", 0.018381354132244503], ["biweekly", 0.018443060110478582], ["triweekly", 0.01853069767801056]],
+    "lat": "48.15",
+    "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.03140225842949141], ["biweekly", 0.06280451685898282], ["triweekly", 0.0854839257247266]]
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.4142135623730951], ["weekly", 0.5017996766288813], ["biweekly", 1.0294712668858692], ["triweekly", 1.2852152768250114]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.018317984083869993], ["biweekly", 0.03140225842949141], ["triweekly", 0.03052997347311664]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 27.989879680153344], ["weekly", 27.92184145355611], ["biweekly", 27.84202738004782], ["triweekly", 27.710748494113414]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 9.706463922473263], ["weekly", 9.682869301868896], ["biweekly", 9.65519099692916], ["triweekly", 9.60966547896817]],
+    "locale": "Slovakia",
+    "long": "17.116667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0006559539238819261], ["biweekly", 0.0011308189440486188], ["triweekly", 0.0011034367708226544]],
+    "date": "6/7/20",
+    "movingAverageDeathRate": [["daily", 0.01832460732984293], ["weekly", 0.01836930639566998], ["biweekly", 0.018422173399996238], ["triweekly", 0.01851024154122797]],
+    "lat": "48.15",
+    "movingAverageControlAssessment": [["daily", 0.07327193633547996], ["weekly", 0.03140225842949141], ["biweekly", 0.06018766198985853], ["triweekly", 0.08025021598647804]]
   }]
 }

@@ -1631,5 +1631,29 @@
     "movingAverageDeathRate": [["daily", 0.10784313725490197], ["weekly", 0.107843137254902], ["biweekly", 0.10908677955207809], ["triweekly", 0.11080646210033811]],
     "lat": "25.0833333333",
     "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.1455954288859147], ["biweekly", 0.18199428610739338], ["triweekly", 0.19412723851455294]]
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.1744463978791006], ["triweekly", 0.11629759858606706]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.25479200055035073], ["weekly", 0.0], ["biweekly", 0.09099714305369669], ["triweekly", 0.07279771444295735]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 26.243576056686123], ["weekly", 25.988784056135778], ["biweekly", 25.78859034141765], ["triweekly", 25.3821364357778]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 35.926727207209176], ["weekly", 35.57792403044016], ["biweekly", 35.30386439155021], ["triweekly", 34.747440276228204]],
+    "locale": "Bahamas",
+    "long": "-77.35",
+    "movingAverageEstimatedAlpha": [["daily", 0.009756174945365181], ["weekly", 0.0], ["biweekly", 0.0035901310557777044], ["triweekly", 0.0028868867531635515]],
+    "date": "6/6/20",
+    "movingAverageDeathRate": [["daily", 0.10679611650485436], ["weekly", 0.107843137254902], ["biweekly", 0.10868971350916608], ["triweekly", 0.11048550038231757]],
+    "lat": "25.0833333333",
+    "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.07279771444295735], ["biweekly", 0.18199428610739338], ["triweekly", 0.1455954288859147]]
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.1744463978791006], ["triweekly", 0.11629759858606706]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.036398857221478675], ["biweekly", 0.054598285832218006], ["triweekly", 0.08493066685011692]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 26.243576056686123], ["weekly", 26.025182913357252], ["biweekly", 25.843188627249862], ["triweekly", 25.46706710262792]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 35.926727207209176], ["weekly", 35.62775305569288], ["biweekly", 35.378607929429286], ["triweekly", 34.863708001817876]],
+    "locale": "Bahamas",
+    "long": "-77.35",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0013937392779093116], ["biweekly", 0.002111343017253147], ["triweekly", 0.003351466512466655]],
+    "date": "6/7/20",
+    "movingAverageDeathRate": [["daily", 0.10679611650485436], ["weekly", 0.10769356286203803], ["biweekly", 0.10846086468808425], ["triweekly", 0.11011468053334236]],
+    "lat": "25.0833333333",
+    "movingAverageControlAssessment": [["daily", 0.5095840011007015], ["weekly", 0.0], ["biweekly", 0.18199428610739338], ["triweekly", 0.1455954288859147]]
   }]
 }

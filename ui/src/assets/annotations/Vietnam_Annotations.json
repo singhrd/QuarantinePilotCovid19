@@ -1631,5 +1631,29 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
     "lat": "21.0333333333",
     "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.00029406536872300063], ["biweekly", 0.0005881307374460013], ["triweekly", 0.003920871582973342]]
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.21428571428571427], ["triweekly", 0.36111111111111116]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0010292287905305023], ["weekly", 0.0], ["biweekly", 0.00029406536872300063], ["triweekly", 0.0006861525270203348]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 0.33861627208453526], ["weekly", 0.3375870432940048], ["biweekly", 0.33677836353001656], ["triweekly", 0.33518550944943365]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 0.04448659108836027], ["weekly", 0.04435137348626799], ["biweekly", 0.044245131084624044], ["triweekly", 0.04403586574805265]],
+    "locale": "Vietnam",
+    "long": "105.85",
+    "movingAverageEstimatedAlpha": [["daily", 0.0030441423812277435], ["weekly", 0.0], ["biweekly", 0.0008764351851296505], ["triweekly", 0.0020771724988519545]],
+    "date": "6/6/20",
+    "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+    "lat": "21.0333333333",
+    "movingAverageControlAssessment": [["daily", 0.0], ["weekly", 0.00029406536872300063], ["biweekly", 0.0005881307374460013], ["triweekly", 0.0015683486331893367]]
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.21428571428571427], ["triweekly", 0.35714285714285715]],
+    "movingAverageConfirmedDailyPerCapita": [["daily", 0.0020584575810610045], ["weekly", 0.00014703268436150031], ["biweekly", 0.00029406536872300063], ["triweekly", 0.0005391198426588345]],
+    "movingAverageConfirmedCumulativePerCapita": [["daily", 0.34067472966559625], ["weekly", 0.3377340759783663], ["biweekly", 0.33707242889873956], ["triweekly", 0.3357246292920925]],
+    "movingAverageConfirmedCumulativePerCapitaPerPD": [["daily", 0.04475702629254483], ["weekly", 0.044370690286566886], ["biweekly", 0.04428376468522185], ["triweekly", 0.044106694015815275]],
+    "locale": "Vietnam",
+    "long": "105.85",
+    "movingAverageEstimatedAlpha": [["daily", 0.00606062461169099], ["weekly", 0.0004348774830325348], ["biweekly", 0.0008737548882596131], ["triweekly", 0.0016193508564378554]],
+    "date": "6/7/20",
+    "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+    "lat": "21.0333333333",
+    "movingAverageControlAssessment": [["daily", 0.0020584575810610045], ["weekly", 0.0], ["biweekly", 0.0005881307374460013], ["triweekly", 0.0013723050540406696]]
   }]
 }
