@@ -26,9 +26,9 @@ export class LineChartWidgetComponent implements OnInit {
   availableLocations = [];
   selectedLocations: Array<string> = [];
 
-  windowsAvailable = ['daily', 'weekly', 'biweekly', 'triweekly'];
+  windowsAvailable = ['daily', 'weekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
-  metrics = ['spread rate', 'daily growth rate', 'confirmed fatality rate', 'epidemic control ratio','total per-100k','total per-100k-normalized'];
+  metrics = ['spread rate', 'daily growth rate', 'confirmed fatality rate', 'Total cases per-100k', 'Daily cases per-100k'];
 
   selectedMetric = this.metrics[0];
 
@@ -36,9 +36,8 @@ export class LineChartWidgetComponent implements OnInit {
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days. Value less than 1 for a sustained period indicates inflection point (peak) has been reached.',
     'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
-    'Ratio of daily confirmed cases to threshold per capita. Value less than 1 for 3 weeks implies the epidemic is under control',
-    'Total confirmed cases per 100k population',
-    'Total confirmed cases per 100k population normalized by population density'
+    'Total confirmed cases per 100k in population',
+    'Daily confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.'
   ];
   chartDescriptionText = this.chartDescriptions[0];
   noChartData = true;
@@ -106,22 +105,19 @@ export class LineChartWidgetComponent implements OnInit {
             // Loop over each date of data within each location
             res.elements.forEach((entry, j) => {
               // Plot the selected metric
-              let metricData = entry.movingAverageGrowthRate;
-              if (metric === 'spread rate') {
-                metricData = entry.movingAverageEstimatedAlpha;
+              let metricData = entry.movingAverageEstimatedAlpha;
+              if (metric === 'daily growth rate') {
+                metricData = entry.movingAverageGrowthRate;
               }
               if (metric === 'confirmed fatality rate') {
                 metricData = entry.movingAverageDeathRate;
               }
-              if (metric === 'epidemic control ratio') {
-                metricData = entry.movingAverageControlAssessment;
-              }
-              if (metric === 'total per-100k cases') {
+              if (metric === 'Total cases per-100k') {
                 metricData = entry.movingAverageConfirmedCumulativePerCapita;
               }
-              if (metric === 'total per-100k-normalized') {
-                metricData = entry.movingAverageConfirmedCumulativePerCapitaPerPD;
-              }              
+              if (metric === 'Daily cases per-100k') {
+                metricData = entry.movingAverageConfirmedDailyPerCapita;
+              }
               // Grab the value based on selected time period
               metricData.filter(windowInfo => {
                 if (windowInfo[0] === window) {

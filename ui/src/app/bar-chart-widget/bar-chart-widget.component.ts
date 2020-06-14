@@ -14,13 +14,13 @@ export class BarChartWidgetComponent implements OnInit {
 
   locations = LocationsByLocaleName;
   snapshots = ['daily', 'cumulative'];
-  normalizations = ['absolute', 'per-capita'];
-  yAxisTitles = ['Cases', 'Cases per capita'];
+  normalizations = ['Confirmed cases', 'Confirmed cases per 100k'];
+  yAxisTitles = ['Confirmed Cases', 'Confirmed cases per-100k'];
 
   selectedLocation = 'US';
-  selectedSnapshot = this.snapshots[0];
-  selectedNormalization = this.normalizations[1];
-  yAxisTitle = this.yAxisTitles[1];
+  selectedSnapshot = this.snapshots[1];
+  selectedNormalization = this.normalizations[0];
+  yAxisTitle = this.yAxisTitles[0];
 
   dataSet = [];
   dataLabels = ['Date', 'Active', 'Recovered', 'Deaths'];
@@ -35,10 +35,10 @@ export class BarChartWidgetComponent implements OnInit {
     this.service.getCovidResults(this.selectedLocation, this.selectedSnapshot).subscribe((res: ResultMessage) => {
       if (res.snapshots) {
         res.snapshots.forEach(entry => {
-          if (this.selectedNormalization === 'absolute') {
+          if (this.selectedNormalization === 'Confirmed cases') {
             displayData.push([entry.date, entry.active, entry.recovered, entry.deaths]);
           } else {
-            displayData.push([entry.date, entry.activeNormalized, entry.recoveredNormalized, entry.deathsNormalized]);
+            displayData.push([entry.date, entry.activePer100k, entry.recoveredPer100k, entry.deathsPer100k]);
           }
         });
         this.dataSet = displayData;
@@ -74,7 +74,7 @@ export class BarChartWidgetComponent implements OnInit {
     this.yAxisTitle = this.yAxisTitles[idx];
     this.populateDataSet();
   }
-
+ 
   /**
    * Init lifecycle hook
    */
