@@ -6,7 +6,7 @@
     "locale": "California",
     "long": "REPLACE_MECalifornia",
     "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
-    "date": "1/22/120",
+    "date": "01/22/2020",
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
@@ -16,7 +16,7 @@
     "locale": "California",
     "long": "REPLACE_MECalifornia",
     "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
-    "date": "1/23/120",
+    "date": "01/23/2020",
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
@@ -26,7 +26,7 @@
     "locale": "California",
     "long": "REPLACE_MECalifornia",
     "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
-    "date": "1/24/120",
+    "date": "01/24/2020",
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
@@ -40,7 +40,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.002531004808909137], ["weekly", 0.0005062009617818274], ["triweekly", 0.0005062009617818274]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.005062009617818274], ["weekly", 0.0005062009617818274], ["triweekly", 0.0005062009617818274]],
     "locale": "California",
@@ -50,7 +50,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.16666666666666666], ["triweekly", 0.16666666666666666]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.000843668269636379], ["triweekly", 0.000843668269636379]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.005062009617818274], ["weekly", 0.0012655024044545685], ["triweekly", 0.0012655024044545685]],
     "locale": "California",
@@ -110,7 +110,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["triweekly", 0.08333333333333333]],
+    "movingAverageGrowthRate": [["daily", 1.7320508075688772], ["weekly", 0.14285714285714285], ["triweekly", 0.08333333333333333]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.007593014426727412], ["weekly", 0.0007231442311168963], ["triweekly", 0.0006327512022272843]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.015186028853454823], ["weekly", 0.005785153848935171], ["triweekly", 0.003585590145954611]],
     "locale": "California",
@@ -120,7 +120,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.7320508075688772], ["weekly", 0.14285714285714285], ["triweekly", 0.07692307692307693]],
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.24743582965269675], ["triweekly", 0.21015775442837517]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.0014462884622337927], ["triweekly", 0.0011681560656503708]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.015186028853454823], ["weekly", 0.007231442311168963], ["triweekly", 0.004477931584993089]],
     "locale": "California",
@@ -190,7 +190,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.24743582965269675], ["triweekly", 0.13660254037844385]],
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.13660254037844385]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.002531004808909137], ["weekly", 0.0], ["triweekly", 0.0007593014426727411]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.01771703366236396], ["weekly", 0.015186028853454823], ["triweekly", 0.008225765628954695]],
     "locale": "California",
@@ -260,7 +260,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.13009765750327987]],
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.08247860988423225]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.0003615721155584482], ["triweekly", 0.0006026201925974136]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.01771703366236396], ["weekly", 0.01771703366236396], ["triweekly", 0.01337816827566258]],
     "locale": "California",
@@ -300,7 +300,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.08247860988423225]],
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.0], ["triweekly", 0.08247860988423225]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.002531004808909137], ["weekly", 0.0003615721155584482], ["triweekly", 0.0007231442311168963]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.022779043280182234], ["weekly", 0.018078605777922408], ["triweekly", 0.015909173084571716]],
     "locale": "California",
@@ -310,7 +310,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.0], ["triweekly", 0.08247860988423225]],
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["triweekly", 0.13009765750327987]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.0007231442311168963], ["triweekly", 0.0007231442311168963]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.022779043280182234], ["weekly", 0.018801750009039303], ["triweekly", 0.01663231731568861]],
     "locale": "California",
@@ -330,7 +330,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["triweekly", 0.13009765750327987]],
+    "movingAverageGrowthRate": [["daily", 1.2599210498948732], ["weekly", 0.14285714285714285], ["triweekly", 0.047619047619047616]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.005062009617818274], ["weekly", 0.0007231442311168963], ["triweekly", 0.0003615721155584481]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.02784105289800051], ["weekly", 0.020248038471273096], ["triweekly", 0.017717033662363955]],
     "locale": "California",
@@ -340,7 +340,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2599210498948732], ["weekly", 0.14285714285714285], ["triweekly", 0.047619047619047616]],
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.3228458642706962], ["triweekly", 0.10761528809023206]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.0014462884622337927], ["triweekly", 0.0006026201925974135]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.02784105289800051], ["weekly", 0.02169432693350689], ["triweekly", 0.018319653854961367]],
     "locale": "California",
@@ -350,7 +350,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.3228458642706962], ["triweekly", 0.10761528809023206]],
+    "movingAverageGrowthRate": [["daily", 2.7386127875258306], ["weekly", 0.3228458642706962], ["triweekly", 0.10761528809023206]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.037965072133637055], ["weekly", 0.0014462884622337927], ["triweekly", 0.0006026201925974135]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.06580612503163756], ["weekly", 0.023140615395740683], ["triweekly", 0.01892227404755878]],
     "locale": "California",
@@ -360,7 +360,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 2.7386127875258306], ["weekly", 0.3228458642706962], ["triweekly", 0.10761528809023206]],
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.714076262488672], ["triweekly", 0.2380254208295573]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.0], ["weekly", 0.006869870195610515], ["triweekly", 0.002410480770389654]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.06580612503163756], ["weekly", 0.030010485591351197], ["triweekly", 0.021332754817948434]],
     "locale": "California",
@@ -370,7 +370,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.714076262488672], ["triweekly", 0.2380254208295573]],
+    "movingAverageGrowthRate": [["daily", 0.2581988897471611], ["weekly", 0.714076262488672], ["triweekly", 0.2380254208295573]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.002531004808909137], ["weekly", 0.006508298080052067], ["triweekly", 0.002410480770389654]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.0683371298405467], ["weekly", 0.036518783671403265], ["triweekly", 0.02374323558833809]],
     "locale": "California",
@@ -380,7 +380,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.2581988897471611], ["weekly", 0.714076262488672], ["triweekly", 0.2380254208295573]],
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.608104675309695], ["triweekly", 0.2503206060556126]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.002531004808909137], ["weekly", 0.006508298080052067], ["triweekly", 0.0025310048089091366]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.07086813464945584], ["weekly", 0.04302708175145532], ["triweekly", 0.02627424039724723]],
     "locale": "California",
@@ -390,7 +390,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.608104675309695], ["triweekly", 0.2503206060556126]],
+    "movingAverageGrowthRate": [["daily", 5.0], ["weekly", 0.7509618181668378], ["triweekly", 0.29793965367466024]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.012655024044545686], ["weekly", 0.006869870195610515], ["triweekly", 0.0026515288474286197]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.08352315869400152], ["weekly", 0.049896951947065844], ["triweekly", 0.028925769244675853]],
     "locale": "California",
@@ -400,7 +400,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 5.0], ["weekly", 0.7509618181668378], ["triweekly", 0.29793965367466024]],
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 1.4652475324525522], ["triweekly", 0.5360348917698984]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.012655024044545686], ["weekly", 0.008677730773402757], ["triweekly", 0.0032541490400260333]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.09617818273854721], ["weekly", 0.0585746827204686], ["triweekly", 0.03217991828470189]],
     "locale": "California",
@@ -410,7 +410,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 1.4652475324525522], ["triweekly", 0.5360348917698984]],
+    "movingAverageGrowthRate": [["daily", 1.4], ["weekly", 1.4281159538961414], ["triweekly", 0.5836539393889459]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.01771703366236396], ["weekly", 0.009762447120078099], ["triweekly", 0.0037362451941039643]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.11389521640091117], ["weekly", 0.0683371298405467], ["triweekly", 0.03591616347880585]],
     "locale": "California",
@@ -420,7 +420,7 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.4], ["weekly", 1.4281159538961414], ["triweekly", 0.5836539393889459]],
+    "movingAverageGrowthRate": [["daily", 1.4285714285714286], ["weekly", 1.6281159538961416], ["triweekly", 0.6503206060556126]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.02531004808909137], ["weekly", 0.012293451928987236], ["triweekly", 0.0045799134637403436]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.13920526449000253], ["weekly", 0.08063058176953394], ["triweekly", 0.040496076942546186]],
     "locale": "California",
@@ -430,7 +430,7 @@
     "movingAverageDeathRate": [["daily", 0.01818181818181818], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.4285714285714286], ["weekly", 1.6281159538961416], ["triweekly", 0.6503206060556126]],
+    "movingAverageGrowthRate": [["daily", 1.2], ["weekly", 1.4409671883312272], ["triweekly", 0.7183478169399664]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.030372057706909646], ["weekly", 0.010485591351194996], ["triweekly", 0.005785153848935171]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.16957732219691218], ["weekly", 0.09111617312072894], ["triweekly", 0.04628123079148136]],
     "locale": "California",
@@ -440,7 +440,7 @@
     "movingAverageDeathRate": [["daily", 0.014925373134328358], ["weekly", 0.0025974025974025974], ["triweekly", 0.0008658008658008658]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2], ["weekly", 1.4409671883312272], ["triweekly", 0.7183478169399664]],
+    "movingAverageGrowthRate": [["daily", 1.1666666666666667], ["weekly", 1.6123957597597987], ["triweekly", 0.7754906740828235]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.03543406732472792], ["weekly", 0.014824456737896374], ["triweekly", 0.007231442311168963]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.2050113895216401], ["weekly", 0.1059406298586253], ["triweekly", 0.05351267310265032]],
     "locale": "California",
@@ -450,7 +450,7 @@
     "movingAverageDeathRate": [["daily", 0.012345679012345678], ["weekly", 0.004729598759449506], ["triweekly", 0.001576532919816502]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1666666666666667], ["weekly", 1.6123957597597987], ["triweekly", 0.7754906740828235]],
+    "movingAverageGrowthRate": [["daily", 1.3571428571428572], ["weekly", 1.7421768707482992], ["triweekly", 0.8310462296383792]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.048089091369273605], ["weekly", 0.019524894240156198], ["triweekly", 0.008918778850441721]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.2531004808909137], ["weekly", 0.1254655240987815], ["triweekly", 0.06243145195309204]],
     "locale": "California",
@@ -460,7 +460,7 @@
     "movingAverageDeathRate": [["daily", 0.01], ["weekly", 0.006493267189784603], ["triweekly", 0.0021644223965948677]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.3571428571428572], ["weekly", 1.7421768707482992], ["triweekly", 0.8310462296383792]],
+    "movingAverageGrowthRate": [["daily", 0.631578947368421], ["weekly", 1.7931972789115647], ["triweekly", 0.8956720799785152]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.030372057706909646], ["weekly", 0.026033192320208266], ["triweekly", 0.011208735582311894]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.28347253859782334], ["weekly", 0.15149871641898977], ["triweekly", 0.07364018753540394]],
     "locale": "California",
@@ -470,7 +470,7 @@
     "movingAverageDeathRate": [["daily", 0.008928571428571428], ["weekly", 0.007921838618356032], ["triweekly", 0.0026406128727853436]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.631578947368421], ["weekly", 1.7931972789115647], ["triweekly", 0.8956720799785152]],
+    "movingAverageGrowthRate": [["daily", 5.0], ["weekly", 1.1691371285356247], ["triweekly", 0.92574726794844]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.15186028853454822], ["weekly", 0.028564197129117404], ["triweekly", 0.012655024044545686]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.4353328271323716], ["weekly", 0.18006291354810716], ["triweekly", 0.08629521157994963]],
     "locale": "California",
@@ -480,7 +480,7 @@
     "movingAverageDeathRate": [["daily", 0.011627906976744186], ["weekly", 0.009197348822437664], ["triweekly", 0.0030657829408125546]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 5.0], ["weekly", 1.1691371285356247], ["triweekly", 0.92574726794844]],
+    "movingAverageGrowthRate": [["daily", 0.11666666666666667], ["weekly", 1.7405656999641963], ["triweekly", 1.1638425060436781]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.01771703366236396], ["weekly", 0.048450663484832054], ["triweekly", 0.01988646635571465]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.4530498607947355], ["weekly", 0.22851357703293923], ["triweekly", 0.10618167793566427]],
     "locale": "California",
@@ -490,7 +490,7 @@
     "movingAverageDeathRate": [["daily", 0.01675977653631285], ["weekly", 0.010858478390543975], ["triweekly", 0.0036194927968479914]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.11666666666666667], ["weekly", 1.7405656999641963], ["triweekly", 1.1638425060436781]],
+    "movingAverageGrowthRate": [["daily", 3.2857142857142856], ["weekly", 1.557232366630863], ["triweekly", 1.1693980615992337]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.058213110604910155], ["weekly", 0.04845066348483205], ["triweekly", 0.02073013462535103]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.5112629713996457], ["weekly", 0.2769642405177713], ["triweekly", 0.1269118125610153]],
     "locale": "California",
@@ -500,7 +500,7 @@
     "movingAverageDeathRate": [["daily", 0.019801980198019802], ["weekly", 0.01325273218144581], ["triweekly", 0.00441757739381527]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 3.2857142857142856], ["weekly", 1.557232366630863], ["triweekly", 1.1693980615992337]],
+    "movingAverageGrowthRate": [["daily", 2.1739130434782608], ["weekly", 1.8225384890798426], ["triweekly", 1.3258606466332472]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.12655024044545685], ["weekly", 0.05315110098709187], ["triweekly", 0.02350218751129913]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.6378132118451025], ["weekly", 0.33011534150486316], ["triweekly", 0.15041400007231442]],
     "locale": "California",
@@ -510,7 +510,7 @@
     "movingAverageDeathRate": [["daily", 0.015873015873015872], ["weekly", 0.013484183898046046], ["triweekly", 0.005360528831816213]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 2.1739130434782608], ["weekly", 1.8225384890798426], ["triweekly", 1.3258606466332472]],
+    "movingAverageGrowthRate": [["daily", 1.36], ["weekly", 1.9616689238624514], ["triweekly", 1.4293803153703073]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.17210832700582132], ["weekly", 0.0668908413783129], ["triweekly", 0.02940786539875378]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.8099215388509239], ["weekly", 0.3970061828831761], ["triweekly", 0.1798218654710682]],
     "locale": "California",
@@ -520,7 +520,7 @@
     "movingAverageDeathRate": [["daily", 0.015625], ["weekly", 0.013619561432144262], ["triweekly", 0.006116386730531255]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.36], ["weekly", 1.9616689238624514], ["triweekly", 1.4293803153703073]],
+    "movingAverageGrowthRate": [["daily", 0.8970588235294118], ["weekly", 1.9892879714814988], ["triweekly", 1.4465231725131644]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.15439129334345736], ["weekly", 0.08641573561846912], ["triweekly", 0.03748297597955912]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 0.9643128321943812], ["weekly", 0.4834219185016452], ["triweekly", 0.21730484145062737]],
     "locale": "California",
@@ -530,7 +530,7 @@
     "movingAverageDeathRate": [["daily", 0.013123359580052493], ["weekly", 0.01408803585895202], ["triweekly", 0.006860434349578874]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8970588235294118], ["weekly", 1.9892879714814988], ["triweekly", 1.4465231725131644]],
+    "movingAverageGrowthRate": [["daily", 1.5901639344262295], ["weekly", 1.9235616809652922], ["triweekly", 1.4892402593478984]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.2455074664641863], ["weekly", 0.10160176447192393], ["triweekly", 0.04483494232924757]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 1.2098202986585676], ["weekly", 0.5850236829735691], ["triweekly", 0.26213978377987496]],
     "locale": "California",
@@ -540,7 +540,7 @@
     "movingAverageDeathRate": [["daily", 0.012552301255230125], ["weekly", 0.014534230084673805], ["triweekly", 0.007485356234343279]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.5901639344262295], ["weekly", 1.9235616809652922], ["triweekly", 1.4892402593478984]],
+    "movingAverageGrowthRate": [["daily", 1.134020618556701], ["weekly", 2.060502393402122], ["triweekly", 1.5649623514634332]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.27841052898000507], ["weekly", 0.13233539429439203], ["triweekly", 0.0565257740656374]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 1.4882308276385727], ["weekly", 0.7173590772679612], ["triweekly", 0.3186655578455123]],
     "locale": "California",
@@ -550,7 +550,7 @@
     "movingAverageDeathRate": [["daily", 0.01870748299319728], ["weekly", 0.015051905774196475], ["triweekly", 0.008083084865544713]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.134020618556701], ["weekly", 2.060502393402122], ["triweekly", 1.5649623514634332]],
+    "movingAverageGrowthRate": [["daily", 1.309090909090909], ["weekly", 1.5082196246245079], ["triweekly", 1.5589670928282817]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.36446469248291574], ["weekly", 0.15041400007231442], ["triweekly", 0.06954237022574154]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 1.8526955201214883], ["weekly", 0.8677730773402755], ["triweekly", 0.3882079280712539]],
     "locale": "California",
@@ -560,7 +560,7 @@
     "movingAverageDeathRate": [["daily", 0.01912568306010929], ["weekly", 0.01606327377654692], ["triweekly", 0.008973917389030297]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.309090909090909], ["weekly", 1.5082196246245079], ["triweekly", 1.5589670928282817]],
+    "movingAverageGrowthRate": [["daily", 1.1180555555555556], ["weekly", 1.6785659449708281], ["triweekly", 1.6213047551659443]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.4074917742343711], ["weekly", 0.19994937990382183], ["triweekly", 0.08689783177254705]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 2.2601872943558594], ["weekly", 1.0677224572440973], ["triweekly", 0.4751057598438009]],
     "locale": "California",
@@ -570,7 +570,7 @@
     "movingAverageDeathRate": [["daily", 0.019036954087346025], ["weekly", 0.01640126042280355], ["triweekly", 0.009884664201416454]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1180555555555556], ["weekly", 1.6785659449708281], ["triweekly", 1.6213047551659443]],
+    "movingAverageGrowthRate": [["daily", 1.0807453416149069], ["weekly", 1.3689004120910098], ["triweekly", 1.5441353631673598]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.44039483675018987], ["weekly", 0.24984633185088767], ["triweekly", 0.10449434139639154]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 2.7005821311060494], ["weekly", 1.317568789094985], ["triweekly", 0.5796001012401925]],
     "locale": "California",
@@ -580,7 +580,7 @@
     "movingAverageDeathRate": [["daily", 0.01780693533270853], ["weekly", 0.016291970978421586], ["triweekly", 0.010791185824623408]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0807453416149069], ["weekly", 1.3689004120910098], ["triweekly", 1.5441353631673598]],
+    "movingAverageGrowthRate": [["daily", 1.2413793103448276], ["weekly", 1.212733597539102], ["triweekly", 1.5955994270537839]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.5466970387243736], ["weekly", 0.29468127418013523], ["triweekly", 0.12546552409878153]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 3.247279169830423], ["weekly", 1.6122500632751202], ["triweekly", 0.7050656253389739]],
     "locale": "California",
@@ -590,7 +590,7 @@
     "movingAverageDeathRate": [["daily", 0.018706157443491817], ["weekly", 0.016568245186949108], ["triweekly", 0.011639135126180956]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2413793103448276], ["weekly", 1.212733597539102], ["triweekly", 1.5955994270537839]],
+    "movingAverageGrowthRate": [["daily", 1.2083333333333333], ["weekly", 1.1957877847312202], ["triweekly", 1.6424175423203393]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.6605922551252847], ["weekly", 0.3481939472827856], ["triweekly", 0.15137819238047032]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 3.9078714249557076], ["weekly", 1.9604440105579057], ["triweekly", 0.8564438177194441]],
     "locale": "California",
@@ -600,7 +600,7 @@
     "movingAverageDeathRate": [["daily", 0.018134715025906734], ["weekly", 0.017008410536019366], ["triweekly", 0.012529904528251994]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2083333333333333], ["weekly", 1.1957877847312202], ["triweekly", 1.6424175423203393]],
+    "movingAverageGrowthRate": [["daily", 1.1762452107279693], ["weekly", 1.2402555718460664], ["triweekly", 1.6523381772409744]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.7770184763351051], ["weekly", 0.42050837039447514], ["triweekly", 0.1827144423955358]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 4.684889901290813], ["weekly", 2.380952380952381], ["triweekly", 1.03915826011498]],
     "locale": "California",
@@ -610,7 +610,7 @@
     "movingAverageDeathRate": [["daily", 0.0189086980010805], ["weekly", 0.017724318456855685], ["triweekly", 0.013393462386628505]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1762452107279693], ["weekly", 1.2402555718460664], ["triweekly", 1.6523381772409744]],
+    "movingAverageGrowthRate": [["daily", 1.263843648208469], ["weekly", 1.1811243256034574], ["triweekly", 1.4702546158470684]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 0.9820298658567452], ["weekly", 0.49643851466174926], ["triweekly", 0.2191127020284196]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 5.666919767147558], ["weekly", 2.8773908956141305], ["triweekly", 1.2582709621433996]],
     "locale": "California",
@@ -620,7 +620,7 @@
     "movingAverageDeathRate": [["daily", 0.017418490397498883], ["weekly", 0.01863237513483431], ["triweekly", 0.014293876577156148]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.263843648208469], ["weekly", 1.1811243256034574], ["triweekly", 1.4702546158470684]],
+    "movingAverageGrowthRate": [["daily", 1.0463917525773196], ["weekly", 1.1996704726965672], ["triweekly", 1.4828185990950906]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 1.0275879524171097], ["weekly", 0.5969555627869979], ["triweekly", 0.26527340878138145]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 6.694507719564668], ["weekly", 3.4743464584011288], ["triweekly", 1.5235443709247811]],
     "locale": "California",
@@ -630,7 +630,7 @@
     "movingAverageDeathRate": [["daily", 0.019659735349716444], ["weekly", 0.018448233335448823], ["triweekly", 0.01512332850084657]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0463917525773196], ["weekly", 1.1996704726965672], ["triweekly", 1.4828185990950906]],
+    "movingAverageGrowthRate": [["daily", 1.3275862068965518], ["weekly", 1.1621420217660545], ["triweekly", 1.465980111122582]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 1.364211592002025], ["weekly", 0.6916874570633114], ["triweekly", 0.3133625001506551]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 8.058719311566692], ["weekly", 4.16603391546444], ["triweekly", 1.8369068710754362]],
     "locale": "California",
@@ -640,7 +640,7 @@
     "movingAverageDeathRate": [["daily", 0.02135678391959799], ["weekly", 0.018524526519678418], ["triweekly", 0.01605950637464259]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.3275862068965518], ["weekly", 1.1621420217660545], ["triweekly", 1.465980111122582]],
+    "movingAverageGrowthRate": [["daily", 1.62708719851577], ["weekly", 1.1920749719576254], ["triweekly", 1.461171291042826]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.219691217413313], ["weekly", 0.8283617167444047], ["triweekly", 0.37711971652746146]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 10.278410528980006], ["weekly", 4.994395632208844], ["triweekly", 2.2140265876028975]],
     "locale": "California",
@@ -650,7 +650,7 @@
     "movingAverageDeathRate": [["daily", 0.020438315685791675], ["weekly", 0.0188559307814287], ["triweekly", 0.01621069521929877]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.62708719851577], ["weekly", 1.1920749719576254], ["triweekly", 1.461171291042826]],
+    "movingAverageGrowthRate": [["daily", 0.9749144811858609], ["weekly", 1.2701238086577487], ["triweekly", 1.481508776686434]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.1640091116173124], ["weekly", 1.0825469139819937], ["triweekly", 0.481373009846814]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 12.442419640597318], ["weekly", 6.076942546190837], ["triweekly", 2.695399597449711]],
     "locale": "California",
@@ -660,7 +660,7 @@
     "movingAverageDeathRate": [["daily", 0.02115541090317331], ["weekly", 0.019231842260440578], ["triweekly", 0.01647321629317798]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9749144811858609], ["weekly", 1.2701238086577487], ["triweekly", 1.481508776686434]],
+    "movingAverageGrowthRate": [["daily", 0.7614035087719299], ["weekly", 1.232057404492182], ["triweekly", 1.472377720234967]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 1.6476841305998482], ["weekly", 1.3135914958238424], ["triweekly", 0.582733726241699]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 14.090103771197166], ["weekly", 7.39053404201468], ["triweekly", 3.2781333236914105]],
     "locale": "California",
@@ -670,7 +670,7 @@
     "movingAverageDeathRate": [["daily", 0.021914855397880368], ["weekly", 0.019581735611823643], ["triweekly", 0.016892727335598344]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.7614035087719299], ["weekly", 1.232057404492182], ["triweekly", 1.472377720234967]],
+    "movingAverageGrowthRate": [["daily", 1.1597542242703534], ["weekly", 1.1682102866976956], ["triweekly", 1.4440091798363515]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 1.9109086307263985], ["weekly", 1.454604620891637], ["triweekly", 0.6589049185860121]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 16.001012401923564], ["weekly", 8.845138662906317], ["triweekly", 3.937038242277422]],
     "locale": "California",
@@ -680,7 +680,7 @@
     "movingAverageDeathRate": [["daily", 0.020879468522619425], ["weekly", 0.02012175566496274], ["triweekly", 0.017460101402164075]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1597542242703534], ["weekly", 1.1682102866976956], ["triweekly", 1.4440091798363515]],
+    "movingAverageGrowthRate": [["daily", 1.4569536423841059], ["weekly", 1.1658544314894652], ["triweekly", 1.4691603834983484]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.784105289800051], ["weekly", 1.6165889286618218], ["triweekly", 0.7484542792059877]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 18.785117691723617], ["weekly", 10.461727591568138], ["triweekly", 4.685492521483409]],
     "locale": "California",
@@ -690,7 +690,7 @@
     "movingAverageDeathRate": [["daily", 0.019805982215036377], ["weekly", 0.02040329431089687], ["triweekly", 0.018029191739975886]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.4569536423841059], ["weekly", 1.1658544314894652], ["triweekly", 1.4691603834983484]],
+    "movingAverageGrowthRate": [["daily", 1.0563636363636364], ["weekly", 1.193441573514556], ["triweekly", 1.3004438902785438]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.9410275879524175], ["weekly", 1.874028274939437], ["triweekly", 0.8737992792662497]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 21.726145279676032], ["weekly", 12.335755866507574], ["triweekly", 5.5592918007496595]],
     "locale": "California",
@@ -700,7 +700,7 @@
     "movingAverageDeathRate": [["daily", 0.021435228331780055], ["weekly", 0.02074436457054508], ["triweekly", 0.018418623894180274]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0563636363636364], ["weekly", 1.193441573514556], ["triweekly", 1.3004438902785438]],
+    "movingAverageGrowthRate": [["daily", 1.0963855421686748], ["weekly", 1.1948661283411728], ["triweekly", 1.3451913650260185]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.224500126550241], ["weekly", 2.147376794301624], ["triweekly", 1.0130045437562523]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 24.950645406226275], ["weekly", 14.483132660809199], ["triweekly", 6.5722963445059115]],
     "locale": "California",
@@ -710,7 +710,7 @@
     "movingAverageDeathRate": [["daily", 0.021403935889632787], ["weekly", 0.020998006425125598], ["triweekly", 0.018641264455869187]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0963855421686748], ["weekly", 1.1948661283411728], ["triweekly", 1.3451913650260185]],
+    "movingAverageGrowthRate": [["daily", 1.0455259026687598], ["weekly", 1.161837461951476], ["triweekly", 1.2409376153333707]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.3712984054669706], ["weekly", 2.413132299237083], ["triweekly", 1.163780115944125]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 28.321943811693245], ["weekly", 16.89626496004628], ["triweekly", 7.736076460450037]],
     "locale": "California",
@@ -720,7 +720,7 @@
     "movingAverageDeathRate": [["daily", 0.02198391420911528], ["weekly", 0.021004742420844855], ["triweekly", 0.018717548060231712]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0455259026687598], ["weekly", 1.161837461951476], ["triweekly", 1.2409376153333707]],
+    "movingAverageGrowthRate": [["daily", 1.0345345345345345], ["weekly", 1.0787572768304745], ["triweekly", 1.1872048943424418]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.487724626676791], ["weekly", 2.5776476118161766], ["triweekly", 1.318291933326102]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 31.809668438370036], ["weekly", 19.473912571862456], ["triweekly", 9.054368393776139]],
     "locale": "California",
@@ -730,7 +730,7 @@
     "movingAverageDeathRate": [["daily", 0.022437937619350732], ["weekly", 0.021225542209891087], ["triweekly", 0.01900854321909359]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0345345345345345], ["weekly", 1.0787572768304745], ["triweekly", 1.1872048943424418]],
+    "movingAverageGrowthRate": [["daily", 0.8911465892597968], ["weekly", 1.0872744273088564], ["triweekly", 1.1717065388440862]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.1080739053404205], ["weekly", 2.7667498282532454], ["triweekly", 1.4761784237866242]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 34.91774234371046], ["weekly", 22.240662400115703], ["triweekly", 10.530546817562763]],
     "locale": "California",
@@ -740,7 +740,7 @@
     "movingAverageDeathRate": [["daily", 0.023412583357494927], ["weekly", 0.02140876031220215], ["triweekly", 0.019332968820015055]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8911465892597968], ["weekly", 1.0872744273088564], ["triweekly", 1.1717065388440862]],
+    "movingAverageGrowthRate": [["daily", 1.1449511400651466], ["weekly", 1.1058091530928373], ["triweekly", 1.1714250038788667]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.558592761326247], ["weekly", 2.9753769389304696], ["triweekly", 1.6168299767388605]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 38.4763351050367], ["weekly", 25.216039339046176], ["triweekly", 12.147376794301625]],
     "locale": "California",
@@ -750,7 +750,7 @@
     "movingAverageDeathRate": [["daily", 0.023089067227996318], ["weekly", 0.021622721449289943], ["triweekly", 0.01982293185703612]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1449511400651466], ["weekly", 1.1058091530928373], ["triweekly", 1.1714250038788667]],
+    "movingAverageGrowthRate": [["daily", 0.8243243243243243], ["weekly", 1.103694426777808], ["triweekly", 1.1502243946235768]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.93343457352569], ["weekly", 3.2107603861590195], ["triweekly", 1.7745959431608636]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 41.40976967856239], ["weekly", 28.426799725205196], ["triweekly", 13.921972737462486]],
     "locale": "California",
@@ -760,7 +760,7 @@
     "movingAverageDeathRate": [["daily", 0.023592689933378156], ["weekly", 0.021938378407200924], ["triweekly", 0.020324682617644037]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8243243243243243], ["weekly", 1.103694426777808], ["triweekly", 1.1502243946235768]],
+    "movingAverageGrowthRate": [["daily", 1.0163934426229508], ["weekly", 1.0133188099121246], ["triweekly", 1.1354769520410823]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.9815236648949637], ["weekly", 3.2320931409769678], ["triweekly", 1.9010256595678006]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 44.391293343457356], ["weekly", 31.65889286618216], ["triweekly", 15.822998397030286]],
     "locale": "California",
@@ -770,7 +770,7 @@
     "movingAverageDeathRate": [["daily", 0.02548605963851987], ["weekly", 0.02247933665267832], ["triweekly", 0.020557311519557413]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0163934426229508], ["weekly", 1.0133188099121246], ["triweekly", 1.1354769520410823]],
+    "movingAverageGrowthRate": [["daily", 1.2767402376910018], ["weekly", 1.007608782234884], ["triweekly", 1.1215389774473703]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.8066312325993423], ["weekly", 3.2378782948259035], ["triweekly", 2.0256475153969458]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 48.1979245760567], ["weekly", 34.89677116100807], ["triweekly", 17.848645912427234]],
     "locale": "California",
@@ -780,7 +780,7 @@
     "movingAverageDeathRate": [["daily", 0.026571443575066953], ["weekly", 0.023058026839355438], ["triweekly", 0.020860186594719818]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2767402376910018], ["weekly", 1.007608782234884], ["triweekly", 1.1215389774473703]],
+    "movingAverageGrowthRate": [["daily", 0.7632978723404256], ["weekly", 1.0333737387380737], ["triweekly", 1.1290953908823915]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.9055935206276895], ["weekly", 3.3210398814043467], ["triweekly", 2.187511299128611]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 51.10351809668439], ["weekly", 38.217811042412414], ["triweekly", 20.036157211555842]],
     "locale": "California",
@@ -790,7 +790,7 @@
     "movingAverageDeathRate": [["daily", 0.02714080530929622], ["weekly", 0.02379624222298889], ["triweekly", 0.021218971808420816]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.7632978723404256], ["weekly", 1.0333737387380737], ["triweekly", 1.1290953908823915]],
+    "movingAverageGrowthRate": [["daily", 1.0235191637630663], ["weekly", 0.9930554486911686], ["triweekly", 1.1139788447264638]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.9739306504682363], ["weekly", 3.2545106121415928], ["triweekly", 2.3049017126465876]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 54.07744874715262], ["weekly", 41.472321654554], ["triweekly", 22.341058924202436]],
     "locale": "California",
@@ -800,7 +800,7 @@
     "movingAverageDeathRate": [["daily", 0.02780117944397641], ["weekly", 0.024532940951586167], ["triweekly", 0.021663441807305943]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0235191637630663], ["weekly", 0.9930554486911686], ["triweekly", 1.1139788447264638]],
+    "movingAverageGrowthRate": [["daily", 0.8978723404255319], ["weekly", 0.9914818242952446], ["triweekly", 1.1036045520320943]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.6702100733991396], ["weekly", 3.1811114726832272], ["triweekly", 2.4204842655867713]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 56.74765882055176], ["weekly", 44.653433127237236], ["triweekly", 24.761543189789204]],
     "locale": "California",
@@ -810,7 +810,7 @@
     "movingAverageDeathRate": [["daily", 0.028187859595914546], ["weekly", 0.025299118355104122], ["triweekly", 0.022096538093043308]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8978723404255319], ["weekly", 0.9914818242952446], ["triweekly", 1.1036045520320943]],
+    "movingAverageGrowthRate": [["daily", 0.8549763033175355], ["weekly", 0.9924426458903497], ["triweekly", 1.088820695226961]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.282966337636042], ["weekly", 3.1185594966916157], ["triweekly", 2.5161803521712405]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 59.0306251581878], ["weekly", 47.77199262392884], ["triweekly", 27.277723541960448]],
     "locale": "California",
@@ -820,7 +820,7 @@
     "movingAverageDeathRate": [["daily", 0.028984264459975134], ["weekly", 0.025981300674878357], ["triweekly", 0.022575259263043677]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8549763033175355], ["weekly", 0.9924426458903497], ["triweekly", 1.088820695226961]],
+    "movingAverageGrowthRate": [["daily", 1.1208425720620843], ["weekly", 0.9510176692121195], ["triweekly", 1.0735221758264641]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.5588458618071375], ["weekly", 2.936327150450158], ["triweekly", 2.5878921550903327]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 61.589471019994946], ["weekly", 50.70831977437901], ["triweekly", 29.86561569705078]],
     "locale": "California",
@@ -830,7 +830,7 @@
     "movingAverageDeathRate": [["daily", 0.029793704282074465], ["weekly", 0.026823471708018184], ["triweekly", 0.02305504814203866]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1208425720620843], ["weekly", 0.9510176692121195], ["triweekly", 1.0735221758264641]],
+    "movingAverageGrowthRate": [["daily", 1.4085064292779426], ["weekly", 0.9933774188889423], ["triweekly", 1.0667126007718746]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.6041508478866113], ["weekly", 2.8828144773475066], ["triweekly", 2.66297863108797]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 65.19362186788156], ["weekly", 53.59113425172652], ["triweekly", 32.52859432813875]],
     "locale": "California",
@@ -840,7 +840,7 @@
     "movingAverageDeathRate": [["daily", 0.03020420840127339], ["weekly", 0.02770933090068908], ["triweekly", 0.023644344041304163]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.4085064292779426], ["weekly", 0.9933774188889423], ["triweekly", 1.0667126007718746]],
+    "movingAverageGrowthRate": [["daily", 0.9473314606741573], ["weekly", 1.0493935598396555], ["triweekly", 1.0839561568052374]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.414325487218426], ["weekly", 2.971761217774886], ["triweekly", 2.7856721023008038]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 68.60794735509998], ["weekly", 56.562895469501406], ["triweekly", 35.31426643043955]],
     "locale": "California",
@@ -850,7 +850,7 @@
     "movingAverageDeathRate": [["daily", 0.03264839340391781], ["weekly", 0.02838335215251101], ["triweekly", 0.024146461805664016]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9473314606741573], ["weekly", 1.0493935598396555], ["triweekly", 1.0839561568052374]],
+    "movingAverageGrowthRate": [["daily", 0.7672349888806523], ["weekly", 1.0023351631229633], ["triweekly", 1.065848787937504]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.619589977220957], ["weekly", 2.915717539863326], ["triweekly", 2.883296573501585]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 71.22753733232094], ["weekly", 59.47861300936472], ["triweekly", 38.19756300394114]],
     "locale": "California",
@@ -860,7 +860,7 @@
     "movingAverageDeathRate": [["daily", 0.03450358894179518], ["weekly", 0.029251487842346855], ["triweekly", 0.024684157495393533]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.7672349888806523], ["weekly", 1.0023351631229633], ["triweekly", 1.065848787937504]],
+    "movingAverageGrowthRate": [["daily", 1.213526570048309], ["weekly", 1.0028976083429957], ["triweekly", 1.0249034446215461]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.1789420399898765], ["weekly", 2.874859890805222], ["triweekly", 2.902339371587663]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 74.40647937231081], ["weekly", 62.35347290016994], ["triweekly", 41.0999023755288]],
     "locale": "California",
@@ -870,7 +870,7 @@
     "movingAverageDeathRate": [["daily", 0.03571671542281788], ["weekly", 0.030303314075560993], ["triweekly", 0.025353932412346087]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.213526570048309], ["weekly", 1.0028976083429957], ["triweekly", 1.0249034446215461]],
+    "movingAverageGrowthRate": [["daily", 1.1393312101910829], ["weekly", 1.0300415235266018], ["triweekly", 1.0362659250435675]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.621867881548975], ["weekly", 2.904147232165456], ["triweekly", 2.9506695110339756]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 78.02834725385979], ["weekly", 65.25762013233539], ["triweekly", 44.050571886562786]],
     "locale": "California",
@@ -880,7 +880,7 @@
     "movingAverageDeathRate": [["daily", 0.03717279185182783], ["weekly", 0.0314341049296812], ["triweekly", 0.02604732786566249]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1393312101910829], ["weekly", 1.0300415235266018], ["triweekly", 1.0362659250435675]],
+    "movingAverageGrowthRate": [["daily", 0.4996505939902166], ["weekly", 1.0645356477788233], ["triweekly", 1.0542624822540034]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 1.809668438370033], ["weekly", 3.0400983476154324], ["triweekly", 3.0446782610791723]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 79.83801569222982], ["weekly", 68.29771847995083], ["triweekly", 47.095250147641956]],
     "locale": "California",
@@ -890,7 +890,7 @@
     "movingAverageDeathRate": [["daily", 0.03728125792543748], ["weekly", 0.032717666680525954], ["triweekly", 0.026773896268231418]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.4996505939902166], ["weekly", 1.0645356477788233], ["triweekly", 1.0542624822540034]],
+    "movingAverageGrowthRate": [["daily", 3.241958041958042], ["weekly", 1.013774832160635], ["triweekly", 1.0228289760501876]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.86686914705138], ["weekly", 2.9724843620060026], ["triweekly", 3.039857299538393]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 85.7048848392812], ["weekly", 71.27020284195683], ["triweekly", 50.13510744718035]],
     "locale": "California",
@@ -900,7 +900,7 @@
     "movingAverageDeathRate": [["daily", 0.036117181501387985], ["weekly", 0.03390295146130629], ["triweekly", 0.0275549338588418]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 3.241958041958042], ["weekly", 1.013774832160635], ["triweekly", 1.0228289760501876]],
+    "movingAverageGrowthRate": [["daily", 0.8550474547023296], ["weekly", 1.3167913278600574], ["triweekly", 1.1078291855537084]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.01645153125791], ["weekly", 3.4450591170408944], ["triweekly", 3.186655578455123]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 90.7213363705391], ["weekly", 74.71526195899773], ["triweekly", 53.32176302563548]],
     "locale": "California",
@@ -910,7 +910,7 @@
     "movingAverageDeathRate": [["daily", 0.03671465238254659], ["weekly", 0.03480630534977965], ["triweekly", 0.028331657634382352]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8550474547023296], ["weekly", 1.3167913278600574], ["triweekly", 1.1078291855537084]],
+    "movingAverageGrowthRate": [["daily", 0.872351160443996], ["weekly", 1.2377257600635414], ["triweekly", 1.0982427007126938]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.376107314603898], ["weekly", 3.646816357522508], ["triweekly", 3.2854852900410987]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 95.097443685143], ["weekly", 78.36207831652023], ["triweekly", 56.60724831567658]],
     "locale": "California",
@@ -920,7 +920,7 @@
     "movingAverageDeathRate": [["daily", 0.037926170388310754], ["weekly", 0.03573636877567582], ["triweekly", 0.029059249255847425]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.872351160443996], ["weekly", 1.2377257600635414], ["triweekly", 1.0982427007126938]],
+    "movingAverageGrowthRate": [["daily", 1.1359167148640832], ["weekly", 1.2270142886020898], ["triweekly", 1.0875743968210425]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.970893444697546], ["weekly", 3.7842137614347178], ["triweekly", 3.340323727567464]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 100.06833712984056], ["weekly", 82.14629207795495], ["triweekly", 59.94757204324403]],
     "locale": "California",
@@ -930,7 +930,7 @@
     "movingAverageDeathRate": [["daily", 0.03915319826997496], ["weekly", 0.036490336916303386], ["triweekly", 0.029846022327213038]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1359167148640832], ["weekly", 1.2270142886020898], ["triweekly", 1.0875743968210425]],
+    "movingAverageGrowthRate": [["daily", 0.9322810590631364], ["weekly", 1.2796831065997227], ["triweekly", 1.0918787212112957]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.6342698051126305], ["weekly", 4.120114256788517], ["triweekly", 3.4164949199117767]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 104.70260693495318], ["weekly", 86.26640633474346], ["triweekly", 63.36406696315581]],
     "locale": "California",
@@ -940,7 +940,7 @@
     "movingAverageDeathRate": [["daily", 0.039136530651711465], ["weekly", 0.037154566820329075], ["triweekly", 0.030663607282492077]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9322810590631364], ["weekly", 1.2796831065997227], ["triweekly", 1.0918787212112957]],
+    "movingAverageGrowthRate": [["daily", 0.667394866193337], ["weekly", 1.239505176458984], ["triweekly", 1.08700950809361]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.0928878764869654], ["weekly", 4.328018223234624], ["triweekly", 3.4710923093611026]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 107.79549481144015], ["weekly", 90.5944245579781], ["triweekly", 66.8351592725169]],
     "locale": "California",
@@ -950,7 +950,7 @@
     "movingAverageDeathRate": [["daily", 0.03972763559521014], ["weekly", 0.037643111853028155], ["triweekly", 0.03145877837927115]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.667394866193337], ["weekly", 1.239505176458984], ["triweekly", 1.08700950809361]],
+    "movingAverageGrowthRate": [["daily", 0.9009819967266776], ["weekly", 1.17208569874502], ["triweekly", 1.0763546641380644]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 2.78663629460896], ["weekly", 4.252449651082909], ["triweekly", 3.4703691651299855]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 110.5821311060491], ["weekly", 94.846874209061], ["triweekly", 70.30552843764688]],
     "locale": "California",
@@ -960,7 +960,7 @@
     "movingAverageDeathRate": [["daily", 0.03927582339612277], ["weekly", 0.0380080895306542], ["triweekly", 0.032235685628686166]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9009819967266776], ["weekly", 1.17208569874502], ["triweekly", 1.0763546641380644]],
+    "movingAverageGrowthRate": [["daily", 1.3805631244323342], ["weekly", 1.2294187562788004], ["triweekly", 1.0647370858838516]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.8471273095418885], ["weekly", 4.39201648768847], ["triweekly", 3.4336093333815434]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 114.429258415591], ["weekly", 99.23889069674946], ["triweekly", 73.73913777102844]],
     "locale": "California",
@@ -970,7 +970,7 @@
     "movingAverageDeathRate": [["daily", 0.03981331976731326], ["weekly", 0.03829302745503781], ["triweekly", 0.03300648354145409]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.3805631244323342], ["weekly", 1.2294187562788004], ["triweekly", 1.0647370858838516]],
+    "movingAverageGrowthRate": [["daily", 0.8940789473684211], ["weekly", 0.9635051966322706], ["triweekly", 1.0912246477937568]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.4396355353075174], ["weekly", 4.103481939472828], ["triweekly", 3.477118511287076]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 117.86889395089851], ["weekly", 103.34237263622231], ["triweekly", 77.21625628231551]],
     "locale": "California",
@@ -980,7 +980,7 @@
     "movingAverageDeathRate": [["daily", 0.040455228687996565], ["weekly", 0.038821047207312845], ["triweekly", 0.033778894485927184]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8940789473684211], ["weekly", 0.9635051966322706], ["triweekly", 1.0912246477937568]],
+    "movingAverageGrowthRate": [["daily", 1.7174392935982339], ["weekly", 0.9690811241559979], ["triweekly", 1.0854001480197317]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.907365223993926], ["weekly", 3.8782225114799154], ["triweekly", 3.498933362259103]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 123.77625917489245], ["weekly", 107.22059514770221], ["triweekly", 80.71518964457462]],
     "locale": "California",
@@ -990,7 +990,7 @@
     "movingAverageDeathRate": [["daily", 0.04009896940945526], ["weekly", 0.03935541525094856], ["triweekly", 0.03449171205971179]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.7174392935982339], ["weekly", 0.9690811241559979], ["triweekly", 1.0854001480197317]],
+    "movingAverageGrowthRate": [["daily", 0.6709511568123393], ["weekly", 1.0898080003208892], ["triweekly", 1.1063858173486474]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.963553530751709], ["weekly", 4.096973641392776], ["triweekly", 3.598968314230273]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 127.73981270564416], ["weekly", 111.31756878909498], ["triweekly", 84.3141579588049]],
     "locale": "California",
@@ -1000,7 +1000,7 @@
     "movingAverageDeathRate": [["daily", 0.0407568852783832], ["weekly", 0.03966581511111206], ["triweekly", 0.035135879956587436]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.6709511568123393], ["weekly", 1.0898080003208892], ["triweekly", 1.1063858173486474]],
+    "movingAverageGrowthRate": [["daily", 1.1800766283524904], ["weekly", 1.0233843491706398], ["triweekly", 1.1019883547044527]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.677296886864085], ["weekly", 3.953067939400514], ["triweekly", 3.649347362331417]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 132.41710959250824], ["weekly", 115.27063672849549], ["triweekly", 87.96350532113631]],
     "locale": "California",
@@ -1010,7 +1010,7 @@
     "movingAverageDeathRate": [["daily", 0.04103750143354104], ["weekly", 0.039894913255170375], ["triweekly", 0.03578426471702014]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1800766283524904], ["weekly", 1.0233843491706398], ["triweekly", 1.1019883547044527]],
+    "movingAverageGrowthRate": [["daily", 0.7765151515151515], ["weekly", 1.0587837162119762], ["triweekly", 1.109443472065854]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.631991900784612], ["weekly", 3.9592146653650073], ["triweekly", 3.730460040255029]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 136.04910149329285], ["weekly", 119.2298513938605], ["triweekly", 91.69396536139135]],
     "locale": "California",
@@ -1020,7 +1020,7 @@
     "movingAverageDeathRate": [["daily", 0.04116979517422283], ["weekly", 0.04016648050971746], ["triweekly", 0.036414565764142266]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.7765151515151515], ["weekly", 1.0587837162119762], ["triweekly", 1.109443472065854]],
+    "movingAverageGrowthRate": [["daily", 0.9191637630662021], ["weekly", 1.0743723284008069], ["triweekly", 1.1036645583082167]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.3383953429511517], ["weekly", 4.036229525978957], ["triweekly", 3.776259174892432]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 139.387496836244], ["weekly", 123.26608091983948], ["triweekly", 95.47022453628378]],
     "locale": "California",
@@ -1030,7 +1030,7 @@
     "movingAverageDeathRate": [["daily", 0.04058323649041255], ["weekly", 0.04037250330671927], ["triweekly", 0.03703275317263314]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9191637630662021], ["weekly", 1.0743723284008069], ["triweekly", 1.1036645583082167]],
+    "movingAverageGrowthRate": [["daily", 0.956027293404094], ["weekly", 1.0769697235921676], ["triweekly", 1.1067211040105343]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.191597064034422], ["weekly", 4.1150522471706985], ["triweekly", 3.826517698955056]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 142.57909390027842], ["weekly", 127.38113316701018], ["triweekly", 99.29674223523882]],
     "locale": "California",
@@ -1040,7 +1040,7 @@
     "movingAverageDeathRate": [["daily", 0.04077538920348641], ["weekly", 0.040559276605903534], ["triweekly", 0.03758508517408253]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.956027293404094], ["weekly", 1.0769697235921676], ["triweekly", 1.1067211040105343]],
+    "movingAverageGrowthRate": [["daily", 1.9944488501189532], ["weekly", 1.0163217477309903], ["triweekly", 1.0988727574077728]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 6.36547709440648], ["weekly", 4.021405069241061], ["triweekly", 3.8566487085849275]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 148.9445709946849], ["weekly", 131.40253823625125], ["triweekly", 103.15339094382377]],
     "locale": "California",
@@ -1050,7 +1050,7 @@
     "movingAverageDeathRate": [["daily", 0.040545133224578575], ["weekly", 0.04069671509678541], ["triweekly", 0.03810802255129263]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.9944488501189532], ["weekly", 1.0163217477309903], ["triweekly", 1.0988727574077728]],
+    "movingAverageGrowthRate": [["daily", 0.7709741550695826], ["weekly", 1.1735174481239237], ["triweekly", 1.126774777447821]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.907618324474817], ["weekly", 4.439382434826626], ["triweekly", 3.9881404346096834]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 153.85218931915972], ["weekly", 135.84192067107784], ["triweekly", 107.14153137843344]],
     "locale": "California",
@@ -1060,7 +1060,7 @@
     "movingAverageDeathRate": [["daily", 0.04076529521114712], ["weekly", 0.04070955860201141], ["triweekly", 0.03860044754287859]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.7709741550695826], ["weekly", 1.1735174481239237], ["triweekly", 1.126774777447821]],
+    "movingAverageGrowthRate": [["daily", 0.8746776689014956], ["weekly", 1.0383081426198304], ["triweekly", 1.1183768105142697]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.292584155909896], ["weekly", 4.2965614491810395], ["triweekly", 4.059249617336177]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 158.14477347506963], ["weekly", 140.13848212025889], ["triweekly", 111.20078099576962]],
     "locale": "California",
@@ -1070,7 +1070,7 @@
     "movingAverageDeathRate": [["daily", 0.040987148504393195], ["weekly", 0.0408047480022531], ["triweekly", 0.03898696667655618]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8746776689014956], ["weekly", 1.0383081426198304], ["triweekly", 1.1183768105142697]],
+    "movingAverageGrowthRate": [["daily", 1.2588443396226414], ["weekly", 1.0674119300611384], ["triweekly", 1.1234931286105003]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.403695267021008], ["weekly", 4.343565824203638], ["triweekly", 4.1389160067975554]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 163.54846874209062], ["weekly", 144.48204794446255], ["triweekly", 115.33969700256718]],
     "locale": "California",
@@ -1080,7 +1080,7 @@
     "movingAverageDeathRate": [["daily", 0.041010244823423816], ["weekly", 0.04083764274882597], ["triweekly", 0.039295707608108466]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2588443396226414], ["weekly", 1.0674119300611384], ["triweekly", 1.1234931286105003]],
+    "movingAverageGrowthRate": [["daily", 1.0337236533957845], ["weekly", 1.0786644602425886], ["triweekly", 1.1256511176378494]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.585927613262466], ["weekly", 4.447337021368912], ["triweekly", 4.2448566366561815]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 169.1343963553531], ["weekly", 148.92938496583147], ["triweekly", 119.58455363922337]],
     "locale": "California",
@@ -1090,7 +1090,7 @@
     "movingAverageDeathRate": [["daily", 0.04088290310512533], ["weekly", 0.04083374894738064], ["triweekly", 0.03954778043670876]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0337236533957845], ["weekly", 1.0786644602425886], ["triweekly", 1.1256511176378494]],
+    "movingAverageGrowthRate": [["daily", 0.5555052106932488], ["weekly", 1.115408531939822], ["triweekly", 1.1206221863618828]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.1030118957226023], ["weekly", 4.726470694580034], ["triweekly", 4.3383832905473]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 172.2374082510757], ["weekly", 153.6558556604115], ["triweekly", 123.92293692977067]],
     "locale": "California",
@@ -1100,7 +1100,7 @@
     "movingAverageDeathRate": [["daily", 0.040690070682282406], ["weekly", 0.040792764366080994], ["triweekly", 0.03972445240115149]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.5555052106932488], ["weekly", 1.115408531939822], ["triweekly", 1.1206221863618828]],
+    "movingAverageGrowthRate": [["daily", 1.1924959216965743], ["weekly", 1.063457310172257], ["triweekly", 1.1232819300144083]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.7003290306251584], ["weekly", 4.692844487833099], ["triweekly", 4.399971074230756]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 175.93773728170086], ["weekly", 158.3487001482446], ["triweekly", 128.32290800400142]],
     "locale": "California",
@@ -1110,7 +1110,7 @@
     "movingAverageDeathRate": [["daily", 0.04056795131845842], ["weekly", 0.04080802639349097], ["triweekly", 0.03988677681814411]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1924959216965743], ["weekly", 1.063457310172257], ["triweekly", 1.1232819300144083]],
+    "movingAverageGrowthRate": [["daily", 1.1196990424076607], ["weekly", 1.0972385427854687], ["triweekly", 1.025688495716243]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.143254872184258], ["weekly", 4.765520483060347], ["triweekly", 4.296802497258079]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 180.08099215388512], ["weekly", 163.11422063130496], ["triweekly", 132.61971050125948]],
     "locale": "California",
@@ -1120,7 +1120,7 @@
     "movingAverageDeathRate": [["daily", 0.04078706957132818], ["weekly", 0.04077839240991555], ["triweekly", 0.040098718238004594]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1196990424076607], ["weekly", 1.0972385427854687], ["triweekly", 1.025688495716243]],
+    "movingAverageGrowthRate": [["daily", 1.2632864996945632], ["weekly", 0.9722742845409983], ["triweekly", 1.0382909522736399]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.234117944824096], ["weekly", 4.44806016560003], ["triweekly", 4.255221703968857]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 185.3151100987092], ["weekly", 167.562280796905], ["triweekly", 136.87493220522833]],
     "locale": "California",
@@ -1130,7 +1130,7 @@
     "movingAverageDeathRate": [["daily", 0.04116474091070502], ["weekly", 0.04081295474516549], ["triweekly", 0.04029264286604181]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2632864996945632], ["weekly", 0.9722742845409983], ["triweekly", 1.0382909522736399]],
+    "movingAverageGrowthRate": [["daily", 0.836073500967118], ["weekly", 1.0426046194874241], ["triweekly", 1.0569069208093813]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.376107314603898], ["weekly", 4.494702968507069], ["triweekly", 4.296079353026961]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 189.6912174133131], ["weekly", 172.05698376541204], ["triweekly", 141.17101155825532]],
     "locale": "California",
@@ -1140,7 +1140,7 @@
     "movingAverageDeathRate": [["daily", 0.04054865438243025], ["weekly", 0.040870018416530915], ["triweekly", 0.04044686050996535]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.836073500967118], ["weekly", 1.0426046194874241], ["triweekly", 1.0569069208093813]],
+    "movingAverageGrowthRate": [["daily", 1.1960670908039328], ["weekly", 1.0370897383539415], ["triweekly", 1.0426286725285732]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.234117944824096], ["weekly", 4.506634848320497], ["triweekly", 4.267756203974883]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 194.9253353581372], ["weekly", 176.56361861373256], ["triweekly", 145.43876776223019]],
     "locale": "California",
@@ -1150,7 +1150,7 @@
     "movingAverageDeathRate": [["daily", 0.04143348698305525], ["weekly", 0.040807376399107635], ["triweekly", 0.04051331080103465]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1960670908039328], ["weekly", 1.0370897383539415], ["triweekly", 1.0426286725285732]],
+    "movingAverageGrowthRate": [["daily", 0.9274661508704062], ["weekly", 1.028121559951269], ["triweekly", 1.055189912135278]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.854467223487725], ["weekly", 4.482409516578082], ["triweekly", 4.296320401104]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 199.77980258162492], ["weekly", 181.0460281303106], ["triweekly", 149.73508816333418]],
     "locale": "California",
@@ -1160,7 +1160,7 @@
     "movingAverageDeathRate": [["daily", 0.041224836253531474], ["weekly", 0.04086783956476926], ["triweekly", 0.040622689673955784]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9274661508704062], ["weekly", 1.028121559951269], ["triweekly", 1.055189912135278]],
+    "movingAverageGrowthRate": [["daily", 0.7471324296141815], ["weekly", 1.0129419167333578], ["triweekly", 1.0675742590246617]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.6269298911667933], ["weekly", 4.37791517518169], ["triweekly", 4.38020513191356]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 203.4067324727917], ["weekly", 185.4239433054923], ["triweekly", 154.11529329524777]],
     "locale": "California",
@@ -1170,7 +1170,7 @@
     "movingAverageDeathRate": [["daily", 0.040937709976855884], ["weekly", 0.04091668715739871], ["triweekly", 0.04069398494339966]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.7471324296141815], ["weekly", 1.0129419167333578], ["triweekly", 1.0675742590246617]],
+    "movingAverageGrowthRate": [["daily", 1.1004884856943475], ["weekly", 1.0403172337220623], ["triweekly", 1.0602480891621624]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 3.991394583649709], ["weekly", 4.4527606031022895], ["triweekly", 4.420219112702029]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 207.39812705644144], ["weekly", 189.87670390859458], ["triweekly", 158.5355124079498]],
     "locale": "California",
@@ -1180,7 +1180,7 @@
     "movingAverageDeathRate": [["daily", 0.0405403756269602], ["weekly", 0.04095206419948063], ["triweekly", 0.04077312239962504]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1004884856943475], ["weekly", 1.0403172337220623], ["triweekly", 1.0602480891621624]],
+    "movingAverageGrowthRate": [["daily", 1.2923272035510462], ["weekly", 1.0271733142931727], ["triweekly", 1.0469112016032107]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.158187800556822], ["weekly", 4.49434139639151], ["triweekly", 4.427088982897639]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 212.55631485699826], ["weekly", 194.3710453049861], ["triweekly", 162.96260139084742]],
     "locale": "California",
@@ -1190,7 +1190,7 @@
     "movingAverageDeathRate": [["daily", 0.040747311891975564], ["weekly", 0.04094812481498089], ["triweekly", 0.04080774410722728]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2923272035510462], ["weekly", 1.0271733142931727], ["triweekly", 1.0469112016032107]],
+    "movingAverageGrowthRate": [["daily", 1.0520117762512267], ["weekly", 1.0518344801707993], ["triweekly", 1.0658754042785739]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.42647431030119], ["weekly", 4.639331814730448], ["triweekly", 4.508924805052368]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 217.98278916729944], ["weekly", 199.01037711971654], ["triweekly", 167.47152619589977]],
     "locale": "California",
@@ -1200,7 +1200,7 @@
     "movingAverageDeathRate": [["daily", 0.04080116110304789], ["weekly", 0.04094244514650195], ["triweekly", 0.04082165283122628]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0520117762512267], ["weekly", 1.0518344801707993], ["triweekly", 1.0658754042785739]],
+    "movingAverageGrowthRate": [["daily", 1.1021455223880596], ["weekly", 1.0216523768217514], ["triweekly", 1.034188379643002]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.980764363452291], ["weekly", 4.666811295512891], ["triweekly", 4.486025237733666]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 223.96355353075174], ["weekly", 203.67718841522944], ["triweekly", 171.95755143363345]],
     "locale": "California",
@@ -1210,7 +1210,7 @@
     "movingAverageDeathRate": [["daily", 0.040954705722809875], ["weekly", 0.040890505173979505], ["triweekly", 0.04085509053092117]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1021455223880596], ["weekly", 1.0216523768217514], ["triweekly", 1.034188379643002]],
+    "movingAverageGrowthRate": [["daily", 0.9788404570461278], ["weekly", 1.0596626655961716], ["triweekly", 1.0547214446704172]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.854214123006834], ["weekly", 4.8960480167769465], ["triweekly", 4.582082896433694]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 229.81776765375855], ["weekly", 208.57323643200638], ["triweekly", 176.53963433006714]],
     "locale": "California",
@@ -1220,7 +1220,7 @@
     "movingAverageDeathRate": [["daily", 0.040638318961244924], ["weekly", 0.04094851250831945], ["triweekly", 0.04086451055208435]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9788404570461278], ["weekly", 1.0596626655961716], ["triweekly", 1.0547214446704172]],
+    "movingAverageGrowthRate": [["daily", 0.8707306528318202], ["weekly", 1.0286302893450567], ["triweekly", 1.0451387698463048]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.097443685143002], ["weekly", 4.984633185088766], ["triweekly", 4.638126574345253]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 234.91521133890157], ["weekly", 213.55786961709515], ["triweekly", 181.1777609044124]],
     "locale": "California",
@@ -1230,7 +1230,7 @@
     "movingAverageDeathRate": [["daily", 0.04059688627915747], ["weekly", 0.04083491707663226], ["triweekly", 0.04084550186292739]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8707306528318202], ["weekly", 1.0286302893450567], ["triweekly", 1.0451387698463048]],
+    "movingAverageGrowthRate": [["daily", 0.9572989076464746], ["weekly", 1.020525218196687], ["triweekly", 1.0496252222899558]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.879777271576817], ["weekly", 5.019344108182378], ["triweekly", 4.707909992648034]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 239.79498861047838], ["weekly", 218.57721372527752], ["triweekly", 185.88567089706044]],
     "locale": "California",
@@ -1240,7 +1240,7 @@
     "movingAverageDeathRate": [["daily", 0.04000295536345693], ["weekly", 0.04074520993743597], ["triweekly", 0.040818220486971896]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9572989076464746], ["weekly", 1.020525218196687], ["triweekly", 1.0496252222899558]],
+    "movingAverageGrowthRate": [["daily", 1.179460580912863], ["weekly", 1.0505490007727292], ["triweekly", 1.051441181555683]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.755504935459378], ["weekly", 5.19832230538381], ["triweekly", 4.781309132106399]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 245.55049354593777], ["weekly", 223.77553603066136], ["triweekly", 190.6669800291668]],
     "locale": "California",
@@ -1250,7 +1250,7 @@
     "movingAverageDeathRate": [["daily", 0.039250852943298595], ["weekly", 0.040611673564093266], ["triweekly", 0.040790588052354956]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.179460580912863], ["weekly", 1.0505490007727292], ["triweekly", 1.051441181555683]],
+    "movingAverageGrowthRate": [["daily", 1.2788038698328936], ["weekly", 1.0618307286610882], ["triweekly", 1.0620808619132434]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 7.360161984307771], ["weekly", 5.450338069928049], ["triweekly", 4.903399983126635]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 252.91065553024552], ["weekly", 229.22587410058938], ["triweekly", 195.57038001229344]],
     "locale": "California",
@@ -1260,7 +1260,7 @@
     "movingAverageDeathRate": [["daily", 0.03861896422316737], ["weekly", 0.0404274560378559], ["triweekly", 0.04071799108758411]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2788038698328936], ["weekly", 1.0618307286610882], ["triweekly", 1.0620808619132434]],
+    "movingAverageGrowthRate": [["daily", 0.6702200825309491], ["weekly", 1.0598988238442095], ["triweekly", 1.0280025295186692]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 4.932928372563908], ["weekly", 5.764905810463898], ["triweekly", 4.950765930264792]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 257.8435839028094], ["weekly", 234.9907799110533], ["triweekly", 200.52114594255823]],
     "locale": "California",
@@ -1270,7 +1270,7 @@
     "movingAverageDeathRate": [["daily", 0.03888136325264543], ["weekly", 0.04012340637088329], ["triweekly", 0.04062626875418357]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.6702200825309491], ["weekly", 1.0598988238442095], ["triweekly", 1.0280025295186692]],
+    "movingAverageGrowthRate": [["daily", 1.1272447408927655], ["weekly", 1.005357153312741], ["triweekly", 1.023204716540639]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.5606175651733745], ["weekly", 5.69439924793], ["triweekly", 4.951971170649987]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 263.40420146798283], ["weekly", 240.68517915898332], ["triweekly", 205.47311711320822]],
     "locale": "California",
@@ -1280,7 +1280,7 @@
     "movingAverageDeathRate": [["daily", 0.03883886961785704], ["weekly", 0.03984914953511152], ["triweekly", 0.040536557708540644]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.1272447408927655], ["weekly", 1.005357153312741], ["triweekly", 1.023204716540639]],
+    "movingAverageGrowthRate": [["daily", 1.352753755120619], ["weekly", 1.0089427559562707], ["triweekly", 1.0352317199687948]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 7.522146292077956], ["weekly", 5.634378276747298], ["triweekly", 5.012353713948247]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 270.92634776006076], ["weekly", 246.31955743573056], ["triweekly", 210.48547082715646]],
     "locale": "California",
@@ -1290,7 +1290,7 @@
     "movingAverageDeathRate": [["daily", 0.03871341423540073], ["weekly", 0.03954688723440397], ["triweekly", 0.04043425871394368]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.352753755120619], ["weekly", 1.0089427559562707], ["triweekly", 1.0352317199687948]],
+    "movingAverageGrowthRate": [["daily", 1.028600269179004], ["weekly", 1.0623589413954835], ["triweekly", 1.0397035968972699]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 7.737281700835232], ["weekly", 5.872654300900315], ["triweekly", 5.113232334189053]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 278.663629460896], ["weekly", 252.1922117366309], ["triweekly", 215.5987031613455]],
     "locale": "California",
@@ -1300,7 +1300,7 @@
     "movingAverageDeathRate": [["daily", 0.038274296094459585], ["weekly", 0.039271900844997654], ["triweekly", 0.04032488582879972]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.028600269179004], ["weekly", 1.0623589413954835], ["triweekly", 1.0397035968972699]],
+    "movingAverageGrowthRate": [["daily", 0.9859339221458947], ["weekly", 1.0849117437307956], ["triweekly", 1.0394596262202802]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 7.628448494052139], ["weekly", 6.249774017427776], ["triweekly", 5.215677766930613]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 286.2920779549481], ["weekly", 258.4419857540587], ["triweekly", 220.81438092827614]],
     "locale": "California",
@@ -1310,7 +1310,7 @@
     "movingAverageDeathRate": [["daily", 0.03750198914369574], ["weekly", 0.038940102247183674], ["triweekly", 0.04020066644733945]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9859339221458947], ["weekly", 1.0849117437307956], ["triweekly", 1.0394596262202802]],
+    "movingAverageGrowthRate": [["daily", 0.8390842733908427], ["weekly", 1.0890024600878558], ["triweekly", 1.059956231527549]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 6.400911161731208], ["weekly", 6.642441334924251], ["triweekly", 5.431174747803448]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 292.69298911667937], ["weekly", 265.0844270889829], ["triweekly", 226.2455556760796]],
     "locale": "California",
@@ -1320,7 +1320,7 @@
     "movingAverageDeathRate": [["daily", 0.03707098570600901], ["weekly", 0.03858282135864636], ["triweekly", 0.04004885304074007]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8390842733908427], ["weekly", 1.0890024600878558], ["triweekly", 1.059956231527549]],
+    "movingAverageGrowthRate": [["daily", 0.9640173981810992], ["weekly", 1.0403772732989958], ["triweekly", 1.0431271054177524]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 6.170589724120476], ["weekly", 6.7346422243916555], ["triweekly", 5.559773896903737]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 298.86357884079985], ["weekly", 271.8190693133746], ["triweekly", 231.80532957298337]],
     "locale": "California",
@@ -1330,7 +1330,7 @@
     "movingAverageDeathRate": [["daily", 0.03692380653957877], ["weekly", 0.03827141175331927], ["triweekly", 0.03988233086871868]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9640173981810992], ["weekly", 1.0403772732989958], ["triweekly", 1.0431271054177524]],
+    "movingAverageGrowthRate": [["daily", 0.9540607054963085], ["weekly", 0.9954077773487393], ["triweekly", 1.035713693787916]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.887117185522653], ["weekly", 6.564703330079184], ["triweekly", 5.656313651757842]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 304.7506960263225], ["weekly", 278.3837726434538], ["triweekly", 237.46164322474118]],
     "locale": "California",
@@ -1340,7 +1340,7 @@
     "movingAverageDeathRate": [["daily", 0.03672543955085668], ["weekly", 0.03802924636994947], ["triweekly", 0.0396983659624449]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.9540607054963085], ["weekly", 0.9954077773487393], ["triweekly", 1.035713693787916]],
+    "movingAverageGrowthRate": [["daily", 1.0791057609630266], ["weekly", 1.0359564377723618], ["triweekly", 1.0209886559689514]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 6.352822070361934], ["weekly", 6.7010160176447195], ["triweekly", 5.687408853695869]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 311.1035180966844], ["weekly", 285.08478866109846], ["triweekly", 243.14905207843708]],
     "locale": "California",
@@ -1350,7 +1350,7 @@
     "movingAverageDeathRate": [["daily", 0.03647990107145472], ["weekly", 0.037721257269693935], ["triweekly", 0.03948697065959498]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.0791057609630266], ["weekly", 1.0359564377723618], ["triweekly", 1.0209886559689514]],
+    "movingAverageGrowthRate": [["daily", 1.4314741035856573], ["weekly", 1.029079440639542], ["triweekly", 1.0325616207306614]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 9.09390027841053], ["weekly", 6.814188089814515], ["triweekly", 5.781538127779585]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 320.1974183750949], ["weekly", 291.898976750913], ["triweekly", 248.9305902062167]],
     "locale": "California",
@@ -1360,7 +1360,7 @@
     "movingAverageDeathRate": [["daily", 0.03596553632123943], ["weekly", 0.03738426176306503], ["triweekly", 0.03929322050192948]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.4314741035856573], ["weekly", 1.029079440639542], ["triweekly", 1.0325616207306614]],
+    "movingAverageGrowthRate": [["daily", 0.7339270804341775], ["weekly", 1.0403252047059761], ["triweekly", 1.0437714784821719]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 6.674259681093394], ["weekly", 7.03872437357631], ["triweekly", 5.965337286521796]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 326.87167805618833], ["weekly", 298.93770112448925], ["triweekly", 254.8959274927385]],
     "locale": "California",
@@ -1370,7 +1370,7 @@
     "movingAverageDeathRate": [["daily", 0.03581964737856861], ["weekly", 0.03699170777532771], ["triweekly", 0.03903284189898587]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.7339270804341775], ["weekly", 1.0403252047059761], ["triweekly", 1.0437714784821719]],
+    "movingAverageGrowthRate": [["daily", 1.080773606370876], ["weekly", 0.9982290348852868], ["triweekly", 1.0345553322709231]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 7.213363705391041], ["weekly", 6.886864085041762], ["triweekly", 6.0519940702173045]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 334.08504176157936], ["weekly", 305.8245652095311], ["triweekly", 260.94792156295574]],
     "locale": "California",
@@ -1380,7 +1380,7 @@
     "movingAverageDeathRate": [["daily", 0.035250801154571694], ["weekly", 0.03664104367305757], ["triweekly", 0.03877545195255906]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.080773606370876], ["weekly", 0.9982290348852868], ["triweekly", 1.0345553322709231]],
+    "movingAverageGrowthRate": [["daily", 0.8035087719298246], ["weekly", 1.0117775612031412], ["triweekly", 1.0504430073545752]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 5.796001012401924], ["weekly", 6.827566258090177], ["triweekly", 6.2227766327994125]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 339.8810427739813], ["weekly", 312.65213146762125], ["triweekly", 267.17069819575516]],
     "locale": "California",
@@ -1390,7 +1390,7 @@
     "movingAverageDeathRate": [["daily", 0.03484328341537155], ["weekly", 0.03631944538889699], ["triweekly", 0.03850464677054553]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.8035087719298246], ["weekly", 1.0117775612031412], ["triweekly", 1.0504430073545752]],
+    "movingAverageGrowthRate": [["daily", 1.2851528384279476], ["weekly", 1.0066953467087099], ["triweekly", 1.0363011162229312]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 7.448747152619591], ["weekly", 6.741150522471707], ["triweekly", 6.308710272263803]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 347.3297899266009], ["weekly", 319.39328199009293], ["triweekly", 273.47940846801896]],
     "locale": "California",
@@ -1400,7 +1400,7 @@
     "movingAverageDeathRate": [["daily", 0.034795598630037165], ["weekly", 0.0360012022045202], ["triweekly", 0.03823335666523179]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2851528384279476], ["weekly", 1.0066953467087099], ["triweekly", 1.0363011162229312]],
+    "movingAverageGrowthRate": [["daily", 0.983010533469249], ["weekly", 1.0525718381725455], ["triweekly", 1.035959479788498]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 7.3221969121741335], ["weekly", 6.923744440828723], ["triweekly", 6.417784527123936]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 354.65198683877503], ["weekly", 326.31702643092166], ["triweekly", 279.89719299514286]],
     "locale": "California",
@@ -1410,7 +1410,7 @@
     "movingAverageDeathRate": [["daily", 0.0347480427909765], ["weekly", 0.03569717250315712], ["triweekly", 0.037949941747996624]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 0.983010533469249], ["weekly", 1.0525718381725455], ["triweekly", 1.035959479788498]],
+    "movingAverageGrowthRate": [["daily", 1.2340131351538195], ["weekly", 1.0567075278829656], ["triweekly", 1.0326737063226894]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 9.03568716780562], ["weekly", 7.1287558303503635], ["triweekly", 6.508057031975028]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 363.68767400658066], ["weekly", 333.44578226127203], ["triweekly", 286.4052500271179]],
     "locale": "California",
@@ -1420,7 +1420,7 @@
     "movingAverageDeathRate": [["daily", 0.03438580863368431], ["weekly", 0.035414687251745666], ["triweekly", 0.03766169801885037]],
     "lat": "REPLACE_MECalifornia"
   }, {
-    "movingAverageGrowthRate": [["daily", 1.2340131351538195], ["weekly", 1.0567075278829656], ["triweekly", 1.0326737063226894]],
+    "movingAverageGrowthRate": [["daily", 1.0016806722689076], ["weekly", 1.0788371527673646], ["triweekly", 1.0389531164543921]],
     "movingAverageConfirmedDailyPerCapita": [["daily", 9.050873196659074], ["weekly", 7.5120222728423185], ["triweekly", 6.653529546468043]],
     "movingAverageConfirmedCumulativePerCapita": [["daily", 372.7385472032397], ["weekly", 340.95780453411436], ["triweekly", 293.058779573586]],
     "locale": "California",
