@@ -9,8 +9,10 @@ echo $baseDir
 
 baseSourceDir="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19"
 
-echo $baseSourceDir
+wrefCountyData="https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv"
 
+echo $baseSourceDir
+echo $baseCountyDataDir
 baseFileSuffix="global.csv"
 
 fatalityFileName="${baseSourceDir}_deaths_${baseFileSuffix}"
@@ -30,6 +32,7 @@ wget $recoveredFileName
     
 echo "Finished getting ${recoveredFileName} from JH github source"
 
+wget $wrefCountyData
 
 mv *.csv "${baseDir}data/csv/current/"
 

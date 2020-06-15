@@ -12,9 +12,14 @@ package quarantine.covid19.core
  *  @param lat: The reference latitude for the province_state or Country of the CovidSnapshot
  *  @param long: The reference latitude for the province_state or Country of the CovidSnapshot
  *  @param confirmed: Number of confirmed cases on/by the date for the location of this CovidSnapshot
+ *  @param confirmedPer100k: confirmed*100000/population_locale
+ *  @param confirmedPer100kPer100SquareMile: confirmedPer100k*100/population_density_of_locale
  *  @param recovered: Number of recovered cases on/by the date for the location of this CovidSnapshot
+ *  @param recoveredPer100k: recovered*100000/population_locale
  *  @param active: Number of active cases on/by the date for the location of this CovidSnapshot
+ *  @param activePer100k: active*100000/population_locale
  *  @param deaths: Number of deaths on/by the date for the location of this CovidSnapshot
+ *  @param deathsPer100k: deaths*100000/population_locale
  *  @param source: Source for the CovidSnapshot
  *  @param tests: Number of tests performed on/by the date for the location of this CovidSnapsho
  *  
@@ -22,19 +27,19 @@ package quarantine.covid19.core
  */
 
 
-case class CovidSnapshot(date: String, // what format mm/dd/yyyy
+case class CovidSnapshot(date: String, // format mm/dd/yyyy
                        locale: String, 
                        lat: String, // aa.bb
                        long: String, // aa.bb
                          confirmed: Long, 
-                         confirmedNormalized: Double, // rename
-                         confirmedNormalizedPD: Double,
+                         confirmedPer100k: Double, 
+                         confirmedPer100kPer100SquareMile: Double,
                          recovered: Long,
-                         recoveredNormalized: Double,
+                         recoveredPer100k: Double,
                          active: Long, // not meaningful for daily snapshots - set to 0 by default
-                         activeNormalized: Double,
+                         activePer100k: Double,
                          deaths: Long, 
-                         deathsNormalized: Double,
+                         deathsPer100k: Double,
                          epidemiccontrolThreshold: Double,
                        source: String = "tableau",
                        tests: Option[Long] = None)
