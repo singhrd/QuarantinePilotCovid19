@@ -28,8 +28,13 @@ export class LineChartWidgetComponent implements OnInit {
 
   windowsAvailable = ['daily', 'weekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
-  metrics = ['spread rate', 'daily growth rate', 'confirmed fatality rate', 'Total cases per-100k', 'Daily cases per-100k'];
-
+  metrics = [
+    'spread rate',
+    'daily growth rate',
+    'confirmed fatality rate',
+    'Total cases per-100k',
+    'Daily cases per-100k'
+  ];
   selectedMetric = this.metrics[0];
 
   chartDescriptions = [
