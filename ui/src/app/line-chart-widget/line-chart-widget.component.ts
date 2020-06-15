@@ -220,10 +220,15 @@ export class LineChartWidgetComponent implements OnInit {
    */
   createMultiselectLabels() {
     const locationsMultiselect = [];
+    const defaultSelected = [];
     this.locations.forEach(locale => {
       locationsMultiselect.push({ label: locale, value: locale });
+      if (locale === 'US' || locale === 'California' || locale === 'San Diego,California') {
+        defaultSelected.push({ label: locale, value: locale });
+      }
     });
     this.availableLocations = locationsMultiselect;
+    this.selectedLocations = defaultSelected;
   }
 
   /**
