@@ -216,19 +216,20 @@ export class LineChartWidgetComponent implements OnInit {
   }
 
   /**
-   * Set the multi-select options based on the contry list.
+   * Set the multi-select options based on the locale list.
    */
   createMultiselectLabels() {
     const locationsMultiselect = [];
     const defaultSelected = [];
     this.locations.forEach(locale => {
       locationsMultiselect.push({ label: locale, value: locale });
-      if (locale === 'US' || locale === 'California' || locale === 'San Diego,California') {
-        defaultSelected.push({ label: locale, value: locale });
-      }
+//      if (locale === 'US' || locale === 'California' || locale === 'San Diego,California') {
+//        defaultSelected.push({ label: locale, value: locale });
+//      }
     });
     this.availableLocations = locationsMultiselect;
     this.selectedLocations = defaultSelected;
+    this.hidePanel();
   }
 
   /**
