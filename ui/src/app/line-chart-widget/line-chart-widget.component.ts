@@ -118,10 +118,10 @@ export class LineChartWidgetComponent implements OnInit {
                 metricData = entry.movingAverageDeathRate;
               }
               if (metric === 'Total cases per-100k') {
-                metricData = entry.movingAverageConfirmedCumulativePerCapita;
+                metricData = entry.movingAverageConfirmedCumulativePer100k;
               }
               if (metric === 'Daily cases per-100k') {
-                metricData = entry.movingAverageConfirmedDailyPerCapita;
+                metricData = entry.movingAverageConfirmedDailyPer100k;
               }
               // Grab the value based on selected time period
               metricData.filter(windowInfo => {
