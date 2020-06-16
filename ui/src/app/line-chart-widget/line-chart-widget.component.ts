@@ -24,7 +24,7 @@ export class LineChartWidgetComponent implements OnInit {
   // Dropdown options
   locations = LocationsByLocaleName;
   availableLocations = [];
-  selectedLocations: Array<string> = [];
+  selectedLocations: Array<string> = ['US', 'California', 'San Diego,California'];
 
   windowsAvailable = ['daily', 'weekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
@@ -223,13 +223,8 @@ export class LineChartWidgetComponent implements OnInit {
     const defaultSelected = [];
     this.locations.forEach(locale => {
       locationsMultiselect.push({ label: locale, value: locale });
-//      if (locale === 'US' || locale === 'California' || locale === 'San Diego,California') {
-//        defaultSelected.push({ label: locale, value: locale });
-//      }
     });
     this.availableLocations = locationsMultiselect;
-    this.selectedLocations = defaultSelected;
-    this.hidePanel();
   }
 
   /**
@@ -256,6 +251,7 @@ export class LineChartWidgetComponent implements OnInit {
    */
   ngOnInit(): void {
     this.alive = true;
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
   }
 
 }
