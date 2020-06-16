@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.03497212366953877], ["weekly", 0.03527764996760367], ["triweekly", 0.035752323142216984]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 148.75331452994934], ["weekly", 147.4716083226462], ["triweekly", 142.91921764796717]],
     "lat": "59.4333333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5773502691896257], ["weekly", 1.5210111317254174], ["triweekly", 1.5984562233557813]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.07539448278253894], ["weekly", 0.3662017735151891], ["triweekly", 0.5385320198752781]],
+    "locale": "Estonia",
+    "long": "24.716667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0005067139708119228], ["weekly", 0.002483264397137625], ["triweekly", 0.0037653205401882097]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.034954407294832825], ["weekly", 0.03519004573826864], ["triweekly", 0.03574590205321061]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 148.82870901273188], ["weekly", 147.83781009616135], ["triweekly", 143.45774966784242]],
+    "lat": "59.4333333333"
   }]
 }

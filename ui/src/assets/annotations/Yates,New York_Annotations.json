@@ -1439,5 +1439,25 @@
     "movingAverageDeathRate": [["daily", 0.15384615384615385], ["weekly", 0.15384615384615388], ["triweekly", 0.15543015543015537]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 156.5447758198531], ["weekly", 156.54477581985313], ["triweekly", 155.01564492051384]],
     "lat": "ReplaceMeYates,New York"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 4.013968610765464], ["weekly", 0.0], ["triweekly", 0.38228272483480613]],
+    "locale": "Yates,New York",
+    "long": "ReplaceMeYates,New York",
+    "movingAverageEstimatedAlpha": [["daily", 0.025317807984289953], ["weekly", 0.0], ["triweekly", 0.0025068444516867594]],
+    "date": "06/14/2020",
+    "movingAverageDeathRate": [["daily", 0.15], ["weekly", 0.15384615384615388], ["triweekly", 0.15503415503415496]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 160.55874443061856], ["weekly", 156.54477581985313], ["triweekly", 155.39792764534863]],
+    "lat": "ReplaceMeYates,New York"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.5734240872522092], ["triweekly", 0.5734240872522092]],
+    "locale": "Yates,New York",
+    "long": "ReplaceMeYates,New York",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0036168297120414217], ["triweekly", 0.0037124543557005667]],
+    "date": "06/15/2020",
+    "movingAverageDeathRate": [["daily", 0.15], ["weekly", 0.15329670329670328], ["triweekly", 0.1544550044550044]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 160.55874443061856], ["weekly", 157.11819990710532], ["triweekly", 155.97135173260085]],
+    "lat": "ReplaceMeYates,New York"
   }]
 }

@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.03531548499932732], ["weekly", 0.03518442971230771], ["triweekly", 0.038201214189193054]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 43.75343788924892], ["weekly", 37.65108724208413], ["triweekly", 28.48057954177749]],
     "lat": "30.05"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0451174289245984], ["weekly", 1.015511258773143], ["triweekly", 1.0421380419196151]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 1.6589771619965004], ["weekly", 1.4742570555918886], ["triweekly", 1.2769232848652625]],
+    "locale": "Egypt",
+    "long": "31.25",
+    "movingAverageEstimatedAlpha": [["daily", 0.037215336900620954], ["weekly", 0.0384296651662296], ["triweekly", 0.04519084210139316]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.03612089265268206], ["weekly", 0.03504406850658855], ["triweekly", 0.03777569558842736]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 45.41241505124542], ["weekly", 39.125344297676016], ["triweekly", 29.757502826642757]],
+    "lat": "30.05"
   }]
 }

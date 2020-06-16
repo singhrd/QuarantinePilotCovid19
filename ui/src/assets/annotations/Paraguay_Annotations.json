@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.008533747090768037], ["weekly", 0.009165049394638343], ["triweekly", 0.010663757155881231]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 18.117867056179726], ["weekly", 16.895016448043467], ["triweekly", 14.731768957350317]],
     "lat": "-25.2666666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.25], ["weekly", 1.6849773242630384], ["triweekly", 2.2441971051318257]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.09839027881556095], ["weekly", 0.3092265905631916], ["triweekly", 0.28580033370234376]],
+    "locale": "Paraguay",
+    "long": "-57.666667",
+    "movingAverageEstimatedAlpha": [["daily", 0.005415873973032781], ["weekly", 0.018176296146240518], ["triweekly", 0.019160320584547346]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.009259259259259259], ["weekly", 0.008999637556755615], ["triweekly", 0.010462458403933492]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 18.216257334995284], ["weekly", 17.20424303860666], ["triweekly", 15.017569291052661]],
+    "lat": "-25.2666666667"
   }]
 }

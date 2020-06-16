@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.05337094824111924], ["weekly", 0.053728714983945526], ["triweekly", 0.053046966758081356]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 13.724710005348362], ["weekly", 13.555723462180268], ["triweekly", 13.342411346121496]],
     "lat": "35.6833333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.9210526315789473], ["weekly", 1.2587575653034169], ["triweekly", 1.1164529665898053]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.05531289656136711], ["weekly", 0.0372515425821452], ["triweekly", 0.030817185227047388]],
+    "locale": "Japan",
+    "long": "139.75",
+    "movingAverageEstimatedAlpha": [["daily", 0.004022069315448462], ["weekly", 0.0027403105483962014], ["triweekly", 0.002300043154704921]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.05327140317678766], ["weekly", 0.053664891545953934], ["triweekly", 0.05322906773172695]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 13.78002290190973], ["weekly", 13.592975004762412], ["triweekly", 13.373228531348545]],
+    "lat": "35.6833333333"
   }]
 }
