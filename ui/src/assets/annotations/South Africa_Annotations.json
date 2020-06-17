@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.02113138581912676], ["weekly", 0.021584541567822833], ["triweekly", 0.02105039744316588]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 118.39782677321784], ["weekly", 95.10325612643055], ["triweekly", 68.29474139330065]],
     "lat": "-25.7"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.8124128312412832], ["weekly", 1.1017933282552619], ["triweekly", 1.1154329335953732]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 5.908227027790576], ["weekly", 5.2532868397926995], ["triweekly", 3.820081934788498]],
+    "locale": "South Africa",
+    "long": "28.216667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0486963331508683], ["weekly", 0.053130999782814214], ["triweekly", 0.053897168622067296]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.021323759400541254], ["weekly", 0.02165060456957297], ["triweekly", 0.021152054370001575]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 124.30605380100842], ["weekly", 100.35654296622324], ["triweekly", 72.11482332808914]],
+    "lat": "-25.7"
   }]
 }

@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.02702702702702703], ["weekly", 0.027166345221829962], ["triweekly", 0.027326350883990463]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 652.3889135560645], ["weekly", 649.0456779864196], ["triweekly", 645.2597308573238]],
     "lat": "49.6"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.2857142857142857], ["weekly", 1.755952380952381], ["triweekly", 1.4704648526077098]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.3205842327056828], ["weekly", 0.7098650867054406], ["triweekly", 0.5953707178819825]],
+    "locale": "Luxembourg",
+    "long": "6.116667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0004912797937173252], ["weekly", 0.001092266124746999], ["triweekly", 0.0009214590954898701]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.027013752455795677], ["weekly", 0.027136711371943574], ["triweekly", 0.02730120406525647]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 652.7094977887702], ["weekly", 649.7555430731251], ["triweekly", 645.8551015752058]],
+    "lat": "49.6"
   }]
 }

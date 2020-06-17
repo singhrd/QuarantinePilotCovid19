@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.019065596438181683], ["weekly", 0.01638990756407771], ["triweekly", 0.01265618495416117]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 913.3510987169392], ["weekly", 783.4308387204072], ["triweekly", 603.3824259489629]],
     "lat": "-33.45"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.7412799077543961], ["weekly", 1.0342357030689846], ["triweekly", 1.0528036541160326]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 26.950965906268284], ["weekly", 30.051738128811085], ["triweekly", 26.249262100555235]],
+    "locale": "Chile",
+    "long": "-70.666667",
+    "movingAverageEstimatedAlpha": [["daily", 0.02908080731276108], ["weekly", 0.03739703060075884], ["triweekly", 0.044054957960100914]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.01873648543213179], ["weekly", 0.01737031304001837], ["triweekly", 0.013069287769096737]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 940.3020646232075], ["weekly", 813.4825768492184], ["triweekly", 629.6316880495182]],
+    "lat": "-33.45"
   }]
 }

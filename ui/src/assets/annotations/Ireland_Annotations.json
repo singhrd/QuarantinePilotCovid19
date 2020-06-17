@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.06742283523692842], ["weekly", 0.06714871696788942], ["triweekly", 0.06633589137655423]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 513.6121530991702], ["weekly", 512.2086589787666], ["triweekly", 508.307486616543]],
     "lat": "53.3166666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 2.25], ["weekly", 1.3923185941043081], ["triweekly", 1.5759977262834972]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.36537243630340527], ["weekly", 0.2957776865313281], ["triweekly", 0.6418182478980453]],
+    "locale": "Ireland",
+    "long": "-6.233333",
+    "movingAverageEstimatedAlpha": [["daily", 0.0007111251879958758], ["weekly", 0.00057704135844843], ["triweekly", 0.001266305350128674]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.06737490620433632], ["weekly", 0.06726278767259973], ["triweekly", 0.06643876977375779]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 513.9775255354735], ["weekly", 512.504436665298], ["triweekly", 508.94930486444093]],
+    "lat": "53.3166666667"
   }]
 }

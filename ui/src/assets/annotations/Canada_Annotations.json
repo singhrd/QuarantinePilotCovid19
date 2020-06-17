@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.08184932871200351], ["weekly", 0.08132473463535209], ["triweekly", 0.07957431707410352]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 266.50195873790335], ["weekly", 261.90888870342525], ["triweekly", 249.7116391534327]],
     "lat": "45.4166666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.9944598337950139], ["weekly", 0.9147726236066079], ["triweekly", 0.962983162707743]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.9528923467880493], ["weekly", 1.223251377134201], ["triweekly", 1.8071965478678247]],
+    "locale": "Canada",
+    "long": "-75.7",
+    "movingAverageEstimatedAlpha": [["daily", 0.0035691776594486413], ["weekly", 0.004665385528830461], ["triweekly", 0.0073153786516482085]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.08165695741492413], ["weekly", 0.08143786145355474], ["triweekly", 0.07985841778832606]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 267.4548510846914], ["weekly", 263.1321400805594], ["triweekly", 251.51883570130053]],
+    "lat": "45.4166666667"
   }]
 }

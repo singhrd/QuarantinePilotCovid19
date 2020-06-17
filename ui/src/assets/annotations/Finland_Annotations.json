@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.04588963963963964], ["weekly", 0.046052051392496796], ["triweekly", 0.046360655350965556]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 128.25415119907882], ["weekly", 127.07549637487557], ["triweekly", 124.20322375075955]],
     "lat": "60.1666666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.23529411764705882], ["weekly", 1.1066159797252235], ["triweekly", 1.539481358174499]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.07221517522470655], ["weekly", 0.3172309483085323], ["triweekly", 0.451344845154416]],
+    "locale": "Finland",
+    "long": "24.933333",
+    "movingAverageEstimatedAlpha": [["daily", 0.000562904602537273], ["weekly", 0.0024951189573718985], ["triweekly", 0.0036559641707622943]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.04586381541924592], ["weekly", 0.04599793663866137], ["triweekly", 0.046323798824710945]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 128.32636637430352], ["weekly", 127.3927273231841], ["triweekly", 124.65456859591397]],
+    "lat": "60.1666666667"
   }]
 }

@@ -35,7 +35,8 @@ export class LineChartWidgetComponent implements OnInit {
     'Total cases per-100k',
     'Daily cases per-100k'
   ];
-  selectedMetric = this.metrics[0];
+  initialMetricIndex = Math.floor(Math.random() * 5);
+  selectedMetric = this.metrics[this.initialMetricIndex];
 
   chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
@@ -44,7 +45,7 @@ export class LineChartWidgetComponent implements OnInit {
     'Total confirmed cases per 100k in population',
     'Daily confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.'
   ];
-  chartDescriptionText = this.chartDescriptions[0];
+  chartDescriptionText = this.chartDescriptions[this.initialMetricIndex];
   noChartData = true;
 
   /**
@@ -229,7 +230,7 @@ export class LineChartWidgetComponent implements OnInit {
 
   /**
    * Hide the multiselect panel, kick off chart update.
-   */
+   */  
   hidePanel() {
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
   }

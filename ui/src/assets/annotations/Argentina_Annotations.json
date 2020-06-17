@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.02637996009753935], ["weekly", 0.028264378576420928], ["triweekly", 0.031446820611004025]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 69.99809293601822], ["weekly", 58.14010140516076], ["triweekly", 44.00773158148401]],
     "lat": "-34.5833333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.9422776911076443], ["weekly", 1.0850224117746963], ["triweekly", 1.0444079076466406]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.677825514352535], ["weekly", 2.781379079063188], ["triweekly", 2.0585097506854617]],
+    "locale": "Argentina",
+    "long": "-58.666667",
+    "movingAverageEstimatedAlpha": [["daily", 0.03754208623401034], ["weekly", 0.04656166629257567], ["triweekly", 0.045771856935094286]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.026048497788622844], ["weekly", 0.02787144817157324], ["triweekly", 0.03092064668924613]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 72.67591845037076], ["weekly", 60.92148048422395], ["triweekly", 46.066241332169476]],
+    "lat": "-34.5833333333"
   }]
 }

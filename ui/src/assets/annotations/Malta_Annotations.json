@@ -1449,5 +1449,15 @@
     "movingAverageDeathRate": [["daily", 0.01386748844375963], ["weekly", 0.01413653599305736], ["triweekly", 0.013415170612367617]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 147.06282233723385], ["weekly", 144.2788904153756], ["triweekly", 141.39784458926644]],
     "lat": "35.8833333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.3333333333333333], ["weekly", 1.4095238095238096], ["triweekly", 1.1034424650999055]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.22659910991869625], ["weekly", 0.6474260283391321], ["triweekly", 0.42082691842043585]],
+    "locale": "Malta",
+    "long": "14.5",
+    "movingAverageEstimatedAlpha": [["daily", 0.001539646185592325], ["weekly", 0.004471637143378488], ["triweekly", 0.002951131406511101]],
+    "date": "6/15/20",
+    "movingAverageDeathRate": [["daily", 0.013846153846153847], ["weekly", 0.014073544903147026], ["triweekly", 0.013607143129986145]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 147.28942144715256], ["weekly", 144.92631644371474], ["triweekly", 141.8186715076869]],
+    "lat": "35.8833333333"
   }]
 }
