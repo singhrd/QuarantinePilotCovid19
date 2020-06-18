@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild, ViewEncapsulation } from '@angular/core';
-import { LocationsByLocaleName } from '../models/data-types';
+import { LocationsByLocaleName, CountriesByName,  CountiesByName, StatesByName } from '../models/data-types';
 import { CovidReportService } from '../services/covid-report.service';
 import { forkJoin } from 'rxjs';
 import { serializeNodes } from '@angular/compiler/src/i18n/digest';
@@ -23,11 +23,24 @@ export class LineChartWidgetComponent implements OnInit {
 
   // Dropdown options
   locations = LocationsByLocaleName;
+  locationsCountries = CountriesByName;
+  locationsCounties = CountiesByName;
+  locationsStates = StatesByName;
   availableLocations = [];
-  selectedLocations: Array<string> = ['US', 'California', 'San Diego,California'];
+  
+  selectedLocationsAll: Array<string> = ['US', 'California', 'San Diego,California'];
+  selectedLocationsCountries: Array<string> = ['US', 'United Kingdom', 'India'];
+  selectedLocationsCounties: Array<string> = ['San Diego,California', 'Riverside,California', 'Los Angeles,California'];
+  selectedLocationsStates: Array<string> = ['Texas', 'California', 'Florida', 'Arizona'];
 
   windowsAvailable = ['daily', 'weekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
+
+  localesAvailable = ['Country','State','County','All'];
+  selectedLocale = this.localesAvailable[0];
+  
+  selectedLocations = this.selectedLocationsCountries
+  
   metrics = [
     'spread rate',
     'daily growth rate',
@@ -35,6 +48,7 @@ export class LineChartWidgetComponent implements OnInit {
     'Total cases per-100k',
     'Daily cases per-100k'
   ];
+  
   initialMetricIndex = Math.floor(Math.random() * 5);
   selectedMetric = this.metrics[this.initialMetricIndex];
 
@@ -62,6 +76,32 @@ export class LineChartWidgetComponent implements OnInit {
   }
 
   /**
+   * Update selected window to view, redraw graph
+   * @param day - window to get the moving average for
+   */
+  selectLocale(locale: string) {
+    this.selectedLocale = locale;
+    if(locale === 'Country') {
+      this.selectedLocations = this.selectedLocationsCountries
+      this.updateMultiselectLabels(this.locationsCountries)
+      }
+    if(locale === 'County')  {
+      this.selectedLocations = this.selectedLocationsCounties
+      this.updateMultiselectLabels(this.locationsCounties)
+      }
+    if(locale === 'State') {
+      this.selectedLocations = this.selectedLocationsStates
+      this.updateMultiselectLabels(this.locationsStates)
+      }
+    if(locale === 'All'){
+      this.selectedLocations = this.selectedLocationsAll
+      this.updateMultiselectLabels(this.locations)
+      }
+      
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
+  }
+  
+    /**
    * Update selected window to view, redraw graph
    * @param day - window to get the moving average for
    */
@@ -241,6 +281,18 @@ export class LineChartWidgetComponent implements OnInit {
   }
 
   /**
+   * Set the multi-select options based on the locale list.
+   */
+  updateMultiselectLabels(localeArray: Array<string>) {
+    const locationsMultiselect = [];
+    const defaultSelected = [];
+    localeArray.forEach(locale => {
+      locationsMultiselect.push({ label: locale, value: locale });
+    });
+    this.availableLocations = locationsMultiselect;
+  }
+  
+    /**
    * Set the multi-select options based on the locale list.
    */
   createMultiselectLabels() {

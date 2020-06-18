@@ -11,10 +11,22 @@
                         [maxSelectedLabels]="2"></p-multiSelect>
                 </div>
                 <div dropdown class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="localeDropdown"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{ selectedLocale | titlecase }}
+                    </button>
+                    <div class="dropdown-menu scrollable-menu" aria-labelledby="localeDropdown">
+                        <div *ngFor="let locale of localesAvailable">
+                            <button class="dropdown-item" type="button" 
+                            (click)="selectLocale(locale)">{{ locale | titlecase }}</button>
+                        </div>
+                    </div>
+                </div>
+                <div dropdown class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="windowDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{ selectedWindow | titlecase }}
-                    </button>
+                    </button> 
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="windowDropdown">
                         <div *ngFor="let window of windowsAvailable">
                             <button class="dropdown-item" type="button" 
