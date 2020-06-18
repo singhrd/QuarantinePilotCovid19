@@ -2335,5 +2335,37 @@
     "deathsPer100k": 0.0,
     "lat": "13.7",
     "active": 26
+  }, {
+    "epidemiccontrolThreshold": 32.398045,
+    "source": "JHU",
+    "deaths": 2,
+    "confirmed": 115,
+    "recovered": 115,
+    "recoveredPer100k": 1.7747984484866293,
+    "confirmedPer100kPer100SquareMile": 0.22229258510378222,
+    "confirmedPer100k": 1.7747984484866293,
+    "locale": "El Salvador",
+    "activePer100k": -0.03086605997368051,
+    "long": "-89.2",
+    "date": "6/16/20",
+    "deathsPer100k": 0.03086605997368051,
+    "lat": "13.7",
+    "active": -2
+  }, {
+    "epidemiccontrolThreshold": 32.398045,
+    "source": "JHU",
+    "deaths": 3,
+    "confirmed": 125,
+    "recovered": 96,
+    "recoveredPer100k": 1.4815708787366644,
+    "confirmedPer100kPer100SquareMile": 0.24162237511280676,
+    "confirmedPer100k": 1.9291287483550317,
+    "locale": "El Salvador",
+    "activePer100k": 0.4012587796578466,
+    "long": "-89.2",
+    "date": "6/17/20",
+    "deathsPer100k": 0.04629908996052076,
+    "lat": "13.7",
+    "active": 26
   }]
 }

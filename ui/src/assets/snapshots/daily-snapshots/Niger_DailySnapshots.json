@@ -2335,5 +2335,37 @@
     "deathsPer100k": 0.0,
     "lat": "13.5166666667",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 120.07032,
+    "source": "JHU",
+    "deaths": 0,
+    "confirmed": 36,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100kPer100SquareMile": 0.30295565258357016,
+    "confirmedPer100k": 0.14991215147923317,
+    "locale": "Niger",
+    "activePer100k": 0.14991215147923317,
+    "long": "2.116667",
+    "date": "6/16/20",
+    "deathsPer100k": 0.0,
+    "lat": "13.5166666667",
+    "active": 36
+  }, {
+    "epidemiccontrolThreshold": 120.07032,
+    "source": "JHU",
+    "deaths": 1,
+    "confirmed": 4,
+    "recovered": 8,
+    "recoveredPer100k": 0.033313811439829595,
+    "confirmedPer100kPer100SquareMile": 0.03366173917595224,
+    "confirmedPer100k": 0.016656905719914798,
+    "locale": "Niger",
+    "activePer100k": -0.020821132149893496,
+    "long": "2.116667",
+    "date": "6/17/20",
+    "deathsPer100k": 0.004164226429978699,
+    "lat": "13.5166666667",
+    "active": -5
   }]
 }
