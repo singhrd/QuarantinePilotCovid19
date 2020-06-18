@@ -1,5 +1,6 @@
 package quarantine.covid19.constants
 
+
 object Constants {
   
   val OneHundred = 100.0
@@ -25,5 +26,19 @@ object Constants {
   val DefaultDeltaInDays = 4
   
   val DefaultMovingAverageWindowSet = List(7,21)
+  
+  /**
+   * 
+   */
+  def alertTemplate(metric: String, deltaInDays: Int, windowSize: String, changeInPercent: Double): String =  {
+    val changeDescription = changeInPercent > 0 match {
+      case true => " increased by " + scala.math.abs(changeInPercent)
+      case false =>  " decreased by " + scala.math.abs(changeInPercent)
+    }
+    
+    val windowSizeDescription = windowSize == 1
+    windowSize + " " + metric + changeDescription + " in the last " + deltaInDays + " days."
+  }
+
   
 }
