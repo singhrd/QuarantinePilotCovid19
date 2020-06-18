@@ -23,6 +23,18 @@
                     </div>
                 </div>
                 <div dropdown class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="scaleDropdown"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{ selectedScale | titlecase }}
+                    </button>
+                    <div class="dropdown-menu scrollable-menu" aria-labelledby="scaleDropdown">
+                        <div *ngFor="let scale of scaleOptions">
+                            <button class="dropdown-item" type="button"
+                                (click)="selectScale(scale)">{{ scale | titlecase }}</button>
+                        </div>
+                    </div>
+                </div>
+                <div dropdown class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="metricDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{ selectedMetric | titlecase }}

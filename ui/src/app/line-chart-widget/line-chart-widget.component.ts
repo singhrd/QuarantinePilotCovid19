@@ -38,6 +38,8 @@ export class LineChartWidgetComponent implements OnInit {
   initialMetricIndex = Math.floor(Math.random() * 5);
   selectedMetric = this.metrics[this.initialMetricIndex];
 
+  scaleOptions = ['linear','log'];
+  
   chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days. Value less than 1 for a sustained period indicates inflection point (peak) has been reached.',
@@ -47,6 +49,9 @@ export class LineChartWidgetComponent implements OnInit {
   ];
   chartDescriptionText = this.chartDescriptions[this.initialMetricIndex];
   noChartData = true;
+  
+  
+   selectedScale = this.scaleOptions[0];
 
   /**
    * Constructor
@@ -60,9 +65,18 @@ export class LineChartWidgetComponent implements OnInit {
    * Update selected window to view, redraw graph
    * @param day - window to get the moving average for
    */
+  selectScale(scale: string) {
+    this.selectedScale = scale;
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
+  }
+  
+    /**
+   * Update selected window to view, redraw graph
+   * @param day - window to get the moving average for
+   */
   selectWindow(window: string) {
     this.selectedWindow = window;
-    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
 
   /**
@@ -71,7 +85,9 @@ export class LineChartWidgetComponent implements OnInit {
    */
   selectMetric(metric: string, idx: number) {
     this.selectedMetric = metric;
-    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
+    if(metric === this.metrics[0] || metric === this.metrics[1] || metric === this.metrics[2])
+      this.selectedScale = this.scaleOptions[0];
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
     this.chartDescriptionText = this.chartDescriptions[idx];
   }
 
@@ -81,12 +97,12 @@ export class LineChartWidgetComponent implements OnInit {
    * @param window - window to view the moving average
    * @param metric - metric type to chart
    */
-  getData(locations: Array<string>, window: string, metric: string) {
+  getData(locations: Array<string>, window: string, metric: string, scale: String) {
     this.noChartData = true;
     const displayData = [];
     const requestArray = [];
     const labels = [];
-
+    
     // Skip empty data sets
     if (locations.length === 0) {
       return;
@@ -144,7 +160,7 @@ export class LineChartWidgetComponent implements OnInit {
           }
         }
         // Generate the chart
-        this.generateChart(displayData, labels);
+        this.generateChart(displayData, labels, scale);
 
       }, err => {
         // TODO
@@ -156,7 +172,7 @@ export class LineChartWidgetComponent implements OnInit {
    * @param data - input data set
    * @param labels - labels for data set
    */
-  generateChart(data, labels) {
+  generateChart(data, labels, scale) {
     this.destroyChart();
     this.chart = anychart.line();
 
@@ -183,7 +199,14 @@ export class LineChartWidgetComponent implements OnInit {
     const title = this.selectedMetric.replace(/\b[a-z]/g, (x) => x.toLocaleUpperCase());
     this.chart.yAxis().title('Moving Average ' + title);
     this.chart.xAxis().labels().padding(5);
+    
+    if(scale === 'linear')
+      this.chart.yScale(anychart.scales.linear());
 
+    if(scale === 'log')
+      this.chart.yScale(anychart.scales.log());
+    
+    
     // Map data per location
     labels.forEach((loc, col) => {
       // mat data set
@@ -210,6 +233,7 @@ export class LineChartWidgetComponent implements OnInit {
       .fontSize(13)
       .padding([0, 0, 10, 0]);
 
+
     // set container id for the chart
     this.chart.container('lineContainer');
     // initiate chart drawing
@@ -232,7 +256,7 @@ export class LineChartWidgetComponent implements OnInit {
    * Hide the multiselect panel, kick off chart update.
    */  
   hidePanel() {
-    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
 
   /**
@@ -252,7 +276,7 @@ export class LineChartWidgetComponent implements OnInit {
    */
   ngOnInit(): void {
     this.alive = true;
-    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric);
+    this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
 
 }
