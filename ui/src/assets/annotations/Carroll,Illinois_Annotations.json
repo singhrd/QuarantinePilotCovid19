@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.1], ["weekly", 0.10543024227234753], ["triweekly", 0.12036024936290306]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 139.81125480601187], ["weekly", 132.82069206571128], ["triweekly", 117.84091476506713]],
     "lat": "ReplaceMeCarroll,Illinois"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["triweekly", 0.19302959885137966]],
+    "movingAverageConfirmedDailyPer100k": [["daily", -13.981125480601188], ["weekly", 0.998651820042942], ["triweekly", 1.9973036400858841]],
+    "locale": "Carroll,Illinois",
+    "long": "ReplaceMeCarroll,Illinois",
+    "movingAverageEstimatedAlpha": [["daily", -0.10536051565782634], ["weekly", 0.007327613483935799], ["triweekly", 0.01698452113993964]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.1111111111111111], ["weekly", 0.1046783625730994], ["triweekly", 0.11831943303637245]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 125.83012932541068], ["weekly", 133.81934388575425], ["triweekly", 119.83821840515301]],
+    "lat": "ReplaceMeCarroll,Illinois"
   }]
 }

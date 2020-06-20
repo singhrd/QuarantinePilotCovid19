@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.13903874448258952], ["weekly", 0.1375788133322903], ["triweekly", 0.13625809899633967]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 42.19264345705703], ["weekly", 41.98423728009897], ["triweekly", 41.0382801648283]],
     "lat": "47.5"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.8785405071119358], ["triweekly", 1.0912272698902596]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.010346405948272935], ["weekly", 0.07538095762313139], ["triweekly", 0.14041550929798985]],
+    "locale": "Hungary",
+    "long": "19.083333",
+    "movingAverageEstimatedAlpha": [["daily", 0.000245188183157552], ["weekly", 0.0017978557547065424], ["triweekly", 0.003449971878357161]],
+    "date": "6/18/20",
+    "movingAverageDeathRate": [["daily", 0.13924981613140475], ["weekly", 0.13789485945068355], ["triweekly", 0.1365389918418378]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 42.20298986300531], ["weekly", 42.05961823772209], ["triweekly", 41.17869567412629]],
+    "lat": "47.5"
   }]
 }

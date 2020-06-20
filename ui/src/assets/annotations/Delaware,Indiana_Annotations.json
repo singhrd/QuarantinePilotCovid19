@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.1111111111111111], ["weekly", 0.11071400060222318], ["triweekly", 0.10551024397331643]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 354.8429491391773], ["weekly", 352.7151430949565], ["triweekly", 344.4959707280642]],
     "lat": "ReplaceMeDelaware,Indiana"
+  }, {
+    "movingAverageGrowthRate": [["daily", 2.0], ["weekly", 0.21428571428571427], ["triweekly", 1.046451914098973]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 1.7523108599465544], ["weekly", 0.5006602456990156], ["triweekly", 1.8774759213713086]],
+    "locale": "Delaware,Indiana",
+    "long": "ReplaceMeDelaware,Indiana",
+    "movingAverageEstimatedAlpha": [["daily", 0.004926118336055829], ["weekly", 0.001417948542852773], ["triweekly", 0.005608715983637282]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.11056511056511056], ["weekly", 0.11091191850587677], ["triweekly", 0.10590706937014183]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 356.5952599991238], ["weekly", 353.21580334065544], ["triweekly", 346.3734466494355]],
+    "lat": "ReplaceMeDelaware,Indiana"
   }]
 }

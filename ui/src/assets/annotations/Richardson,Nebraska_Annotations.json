@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 1.0], ["weekly", 1.0], ["triweekly", 0.3333333333333333]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 12.714558169103624], ["weekly", 12.714558169103624], ["triweekly", 12.71455816910362]],
     "lat": "ReplaceMeRichardson,Nebraska"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 12.714558169103624], ["weekly", 0.0], ["triweekly", 0.0]],
+    "locale": "Richardson,Nebraska",
+    "long": "ReplaceMeRichardson,Nebraska",
+    "movingAverageEstimatedAlpha": [["daily", 0.6931471805599453], ["weekly", 0.0], ["triweekly", 0.0]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.5], ["weekly", 1.0], ["triweekly", 0.38095238095238093]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 25.429116338207248], ["weekly", 12.714558169103624], ["triweekly", 12.71455816910362]],
+    "lat": "ReplaceMeRichardson,Nebraska"
   }]
 }

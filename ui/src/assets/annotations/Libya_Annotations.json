@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.02], ["weekly", 0.01769424387761318], ["triweekly", 0.02478130466594531]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 7.297128871674151], ["weekly", 6.260936571896422], ["triweekly", 4.036354713017474]],
     "lat": "32.8833333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.625], ["weekly", 1.2898028914669781], ["triweekly", 1.1505827010297165]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.14594257743348302], ["weekly", 0.25435706352692755], ["triweekly", 0.2786808264325081]],
+    "locale": "Libya",
+    "long": "13.166667",
+    "movingAverageEstimatedAlpha": [["daily", 0.019802627296179764], ["weekly", 0.03995912897180049], ["triweekly", 0.07711848801369532]],
+    "date": "6/18/20",
+    "movingAverageDeathRate": [["daily", 0.0196078431372549], ["weekly", 0.018661741987968432], ["triweekly", 0.02380968369432433]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 7.443071449107634], ["weekly", 6.515293635423349], ["triweekly", 4.3150355394499815]],
+    "lat": "32.8833333333"
   }]
 }

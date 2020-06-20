@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.0196078431372549], ["weekly", 0.02189366973927787], ["triweekly", 0.024539729761200908]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 250.91633662148533], ["weekly", 225.26242545430264], ["triweekly", 202.1856195185265]],
     "lat": "ReplaceMeMississippi,Arkansas"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.75], ["weekly", 1.2355310677479348], ["triweekly", 0.9214722879445214]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 7.379892253573098], ["weekly", 5.622775050341408], ["triweekly", 3.51423440646338]],
+    "locale": "Mississippi,Arkansas",
+    "long": "ReplaceMeMississippi,Arkansas",
+    "movingAverageEstimatedAlpha": [["daily", 0.028987536873252395], ["weekly", 0.02437507386153762], ["triweekly", 0.01658603306039121]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.01904761904761905], ["weekly", 0.02137253105124452], ["triweekly", 0.024150685254509342]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 258.29622887505843], ["weekly", 230.88520050464405], ["triweekly", 205.6998539249899]],
+    "lat": "ReplaceMeMississippi,Arkansas"
   }]
 }

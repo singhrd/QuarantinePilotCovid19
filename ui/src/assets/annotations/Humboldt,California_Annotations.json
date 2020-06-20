@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.037037037037037035], ["weekly", 0.036728781518740226], ["triweekly", 0.034422703983910556]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 79.67069446288673], ["weekly", 80.40838607828383], ["triweekly", 78.30069574857782]],
     "lat": "ReplaceMeHumboldt,California"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["triweekly", 0.5401511789850637]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", -0.5269225824264996], ["triweekly", 0.35128172161766635]],
+    "locale": "Humboldt,California",
+    "long": "ReplaceMeHumboldt,California",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", -0.006465227369731557], ["triweekly", 0.004626845164459411]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.037037037037037035], ["weekly", 0.036962896797103295], ["triweekly", 0.03521455511589774]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 79.67069446288673], ["weekly", 79.88146349585733], ["triweekly", 78.6519774701955]],
+    "lat": "ReplaceMeHumboldt,California"
   }]
 }

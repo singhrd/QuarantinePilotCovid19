@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.05263157894736842], ["weekly", 0.05376871350887739], ["triweekly", 0.054554837097624646]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 112.99703828815434], ["weekly", 110.61815327156161], ["triweekly", 109.03222992716651]],
     "lat": "ReplaceMeIndiana,Pennsylvania"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.0], ["triweekly", 0.047619047619047616]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.378885016592723], ["weekly", 0.5097610749841549], ["triweekly", 0.2832005972134194]],
+    "locale": "Indiana,Pennsylvania",
+    "long": "ReplaceMeIndiana,Pennsylvania",
+    "movingAverageEstimatedAlpha": [["daily", 0.020834086902842053], ["weekly", 0.004584044935928614], ["triweekly", 0.002574629584298845]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.05154639175257732], ["weekly", 0.05352353534607908], ["triweekly", 0.0544156001162824]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 115.37592330474706], ["weekly", 111.1279143465458], ["triweekly", 109.3154305243799]],
+    "lat": "ReplaceMeIndiana,Pennsylvania"
   }]
 }

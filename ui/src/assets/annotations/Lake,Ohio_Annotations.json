@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.03389830508474576], ["weekly", 0.034861096358793774], ["triweekly", 0.03727062892504545]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 153.8133991457708], ["weekly", 149.59253104976094], ["triweekly", 140.9645800887996]],
     "lat": "ReplaceMeLake,Ohio"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5], ["weekly", 1.7729548003604225], ["triweekly", 1.3436304360989768]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.8690022550608519], ["weekly", 1.0552170240024632], ["triweekly", 1.3862655021208827]],
+    "locale": "Lake,Ohio",
+    "long": "ReplaceMeLake,Ohio",
+    "movingAverageEstimatedAlpha": [["daily", 0.005633817718256218], ["weekly", 0.007030568968773235], ["triweekly", 0.009991176065435849]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.03651685393258427], ["weekly", 0.03461681014156585], ["triweekly", 0.036893793610514515]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 154.68240140083165], ["weekly", 150.64774807376338], ["triweekly", 142.35084559092047]],
+    "lat": "ReplaceMeLake,Ohio"
   }]
 }

@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.005509641873278237], ["weekly", 0.005528794848311598], ["triweekly", 0.005534331141381562]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 532.5782361830426], ["weekly", 530.7338093910666], ["triweekly", 530.2028380418614]],
     "lat": "64.15"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.3333333333333333], ["weekly", 0.6428571428571429], ["triweekly", 0.2619047619047619]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.2934315350870758], ["weekly", 0.3353503258138009], ["triweekly", 0.13972930242241705]],
+    "locale": "Iceland",
+    "long": "-21.95",
+    "movingAverageEstimatedAlpha": [["daily", 0.0005508124622872757], ["weekly", 0.0006310651581031834], ["triweekly", 0.0002630893300938062]],
+    "date": "6/18/20",
+    "movingAverageDeathRate": [["daily", 0.005506607929515419], ["weekly", 0.005525310214349528], ["triweekly", 0.005532877601776424]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 532.8716677181296], ["weekly", 531.0691597168804], ["triweekly", 530.3425673442839]],
+    "lat": "64.15"
   }]
 }

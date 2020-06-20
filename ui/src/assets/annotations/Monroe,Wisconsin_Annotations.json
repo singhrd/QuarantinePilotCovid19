@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.02631578947368421], ["weekly", 0.03415524276656211], ["triweekly", 0.04963839394330224]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 82.15683307028733], ["weekly", 64.55179741236863], ["triweekly", 46.74085490464969]],
     "lat": "ReplaceMeMonroe,Wisconsin"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5], ["weekly", 1.1785714285714286], ["triweekly", 0.5160667167603904]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.1620219229022983], ["weekly", 4.632904120504925], ["triweekly", 2.2649753478024075]],
+    "locale": "Monroe,Wisconsin",
+    "long": "ReplaceMeMonroe,Wisconsin",
+    "movingAverageEstimatedAlpha": [["daily", 0.02597548640326064], ["weekly", 0.07172742054246228], ["triweekly", 0.041190354166028786]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.02564102564102564], ["weekly", 0.03170346113857911], ["triweekly", 0.047915336299191966]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 84.31885499318963], ["weekly", 69.18470153287355], ["triweekly", 49.0058302524521]],
+    "lat": "ReplaceMeMonroe,Wisconsin"
   }]
 }

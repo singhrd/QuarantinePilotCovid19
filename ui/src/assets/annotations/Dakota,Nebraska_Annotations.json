@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.01835915088927137], ["weekly", 0.017951719188130034], ["triweekly", 0.016118961870986125]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 8703.685209228004], ["weekly", 8662.310425018904], ["triweekly", 8499.426935460093]],
     "lat": "ReplaceMeDakota,Nebraska"
+  }, {
+    "movingAverageGrowthRate": [["daily", 3.0], ["weekly", 2.0685024527701743], ["triweekly", 1.686584711436078]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 14.980525317087787], ["weekly", 15.693883665520536], ["triweekly", 22.35189491755955]],
+    "locale": "Dakota,Nebraska",
+    "long": "ReplaceMeDakota,Nebraska",
+    "movingAverageEstimatedAlpha": [["daily", 0.0017196908795265031], ["weekly", 0.0018146070440687723], ["triweekly", 0.0026399391885915165]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.018900343642611683], ["weekly", 0.018084208495047608], ["triweekly", 0.016329023952374806]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 8718.665734545091], ["weekly", 8678.004308684425], ["triweekly", 8521.778830377654]],
+    "lat": "ReplaceMeDakota,Nebraska"
   }]
 }

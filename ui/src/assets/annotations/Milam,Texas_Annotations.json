@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.020833333333333332], ["weekly", 0.024333451213150465], ["triweekly", 0.030171612520264325]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 193.369052894493], ["weekly", 166.32040561460857], ["triweekly", 137.35341455600897]],
     "lat": "ReplaceMeMilam,Texas"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.75], ["weekly", 0.8228458642706962], ["triweekly", 0.3905795533429658]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 12.085565805905812], ["weekly", 6.330534469760187], ["triweekly", 3.836687557430417]],
+    "locale": "Milam,Texas",
+    "long": "ReplaceMeMilam,Texas",
+    "movingAverageEstimatedAlpha": [["daily", 0.060624621816434576], ["weekly", 0.0371832997519524], ["triweekly", 0.025666500034889874]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.0196078431372549], ["weekly", 0.02344863782833708], ["triweekly", 0.029462995740218975]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 205.4546187003988], ["weekly", 172.65094008436878], ["triweekly", 141.19010211343937]],
+    "lat": "ReplaceMeMilam,Texas"
   }]
 }

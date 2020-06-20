@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.023809523809523808], ["weekly", 0.02519840043823158], ["triweekly", 0.02472037420304931]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 122.0764624953979], ["weekly", 115.36364114502739], ["triweekly", 108.12025315871692]],
     "lat": "ReplaceMeClermont,Ohio"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5], ["weekly", 1.225335752741375], ["triweekly", 1.2053357583145803]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 1.9377216269110777], ["weekly", 1.0380651572737916], ["triweekly", 1.2687463033346345]],
+    "locale": "Clermont,Ohio",
+    "long": "ReplaceMeClermont,Ohio",
+    "movingAverageEstimatedAlpha": [["daily", 0.01574835696813892], ["weekly", 0.008766992339470267], ["triweekly", 0.01172501708444928]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.0234375], ["weekly", 0.024983124454420334], ["triweekly", 0.0246455557816029]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 124.01418412230898], ["weekly", 116.40170630230116], ["triweekly", 109.38899946205154]],
+    "lat": "ReplaceMeClermont,Ohio"
   }]
 }

@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.043478260869565216], ["weekly", 0.03977368992271656], ["triweekly", 0.03170439170806557]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 241.23603211101698], ["weekly", 242.15810007895206], ["triweekly", 235.5883658074146]],
     "lat": "ReplaceMeGregg,Texas"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5], ["weekly", 0.5952380952380952], ["triweekly", 0.4440938992427474]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.420428415829602], ["weekly", -3.688271871740345], ["triweekly", 1.959394431862059]],
+    "locale": "Gregg,Texas",
+    "long": "ReplaceMeGregg,Texas",
+    "movingAverageEstimatedAlpha": [["daily", 0.009983443984182827], ["weekly", -0.014524971712339432], ["triweekly", 0.00890546796312878]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.04304635761589404], ["weekly", 0.041237351704255645], ["triweekly", 0.03262271135008788]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 243.6564605268466], ["weekly", 238.46982820721175], ["triweekly", 237.54776023927667]],
+    "lat": "ReplaceMeGregg,Texas"
   }]
 }

@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.09287019304849325], ["weekly", 0.09302854132607699], ["triweekly", 0.09277880299387543]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 1272.5210084033615], ["weekly", 1257.154861944778], ["triweekly", 1219.902627717754]],
     "lat": "ReplaceMeConnecticut"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.1375], ["weekly", 1.0522259750584435], ["triweekly", 1.1006608025231515]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.3081232492997199], ["weekly", 4.329731892757104], ["triweekly", 5.523542750433509]],
+    "locale": "Connecticut",
+    "long": "ReplaceMeConnecticut",
+    "movingAverageEstimatedAlpha": [["daily", 0.00024210677026914595], ["weekly", 0.0034436578454190175], ["triweekly", 0.00455136984743816]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.09300176056338028], ["weekly", 0.09302375585539457], ["triweekly", 0.09281504612065293]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 1272.8291316526613], ["weekly", 1261.484593837535], ["triweekly", 1225.4261704681874]],
+    "lat": "ReplaceMeConnecticut"
   }]
 }

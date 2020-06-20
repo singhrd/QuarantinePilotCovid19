@@ -1049,5 +1049,15 @@
     "movingAverageDeathRate": [["daily", 1.0], ["weekly", 1.0], ["triweekly", 1.0]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 4.0], ["weekly", 3.0], ["triweekly", 3.0]],
     "lat": "ReplaceMeUnknown,North Dakota"
+  }, {
+    "movingAverageGrowthRate": [["daily", 2.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.0], ["weekly", 0.14285714285714285], ["triweekly", 0.047619047619047616]],
+    "locale": "Unknown,North Dakota",
+    "long": "ReplaceMeUnknown,North Dakota",
+    "movingAverageEstimatedAlpha": [["daily", 0.4054651081081644], ["weekly", 0.04109743892168297], ["triweekly", 0.013699146307227657]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 1.0], ["weekly", 1.0], ["triweekly", 1.0]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 6.0], ["weekly", 3.142857142857143], ["triweekly", 3.0476190476190474]],
+    "lat": "ReplaceMeUnknown,North Dakota"
   }]
 }

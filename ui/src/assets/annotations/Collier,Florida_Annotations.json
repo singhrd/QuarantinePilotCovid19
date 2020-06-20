@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.021299254526091587], ["weekly", 0.024257004726116586], ["triweekly", 0.028414026272238584]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 731.8746070428317], ["weekly", 637.1566194586081], ["triweekly", 509.2947592596854]],
     "lat": "ReplaceMeCollier,Florida"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.75], ["weekly", 1.07034592502692], ["triweekly", 1.238536764242473]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 17.147221890247387], ["weekly", 21.78662175232731], ["triweekly", 18.3472799879054]],
+    "locale": "Collier,Florida",
+    "long": "ReplaceMeCollier,Florida",
+    "movingAverageEstimatedAlpha": [["daily", 0.0231589297620296], ["weekly", 0.03338155763174403], ["triweekly", 0.03559478768575258]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.02115851543531044], ["weekly", 0.02364824992747368], ["triweekly", 0.02778624036297201]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 749.0218289330791], ["weekly", 658.9432412109354], ["triweekly", 527.6420392475908]],
+    "lat": "ReplaceMeCollier,Florida"
   }]
 }

@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.03389830508474576], ["weekly", 0.035185905240915326], ["triweekly", 0.033881484242261325]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 227.85641184080944], ["weekly", 219.5807552364217], ["triweekly", 189.5125362404795]],
     "lat": "ReplaceMeCass,Michigan"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5], ["weekly", 0.8153009687409354], ["triweekly", 1.4512136671536338]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 1.930986541023809], ["weekly", 2.2068417611700673], ["triweekly", 3.58611786190136]],
+    "locale": "Cass,Michigan",
+    "long": "ReplaceMeCass,Michigan",
+    "movingAverageEstimatedAlpha": [["daily", 0.008438868645864517], ["weekly", 0.010029179810464075], ["triweekly", 0.019106512952316364]],
+    "date": "06/18/2020",
+    "movingAverageDeathRate": [["daily", 0.03361344537815126], ["weekly", 0.03483371505821667], ["triweekly", 0.03429014373695386]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 229.78739838183324], ["weekly", 221.78759699759175], ["triweekly", 193.09865410238086]],
+    "lat": "ReplaceMeCass,Michigan"
   }]
 }

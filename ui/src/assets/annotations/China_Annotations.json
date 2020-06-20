@@ -1479,5 +1479,15 @@
     "movingAverageDeathRate": [["daily", 0.054914868928935094], ["weekly", 0.055020265146323785], ["triweekly", 0.055080821895645414]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 5.8724499218398805], ["weekly", 5.8612057644539215], ["triweekly", 5.854762557659729]],
     "lat": "39.9166666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 1.5353998461047216], ["triweekly", 1.305384774562701]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.002503116308534842], ["weekly", 0.0024733173048618086], ["triweekly", 0.0011654721436564343]],
+    "locale": "China",
+    "long": "116.383333",
+    "movingAverageEstimatedAlpha": [["daily", 0.00042615654795241653], ["weekly", 0.00042179506854341957], ["triweekly", 0.00019887910973266578]],
+    "date": "6/18/20",
+    "movingAverageDeathRate": [["daily", 0.0548914715837811], ["weekly", 0.05499706809686809], ["triweekly", 0.055069877637173976]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 5.874953038148415], ["weekly", 5.863679081758784], ["triweekly", 5.855928029803385]],
+    "lat": "39.9166666667"
   }]
 }
