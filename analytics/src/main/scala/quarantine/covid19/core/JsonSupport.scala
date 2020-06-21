@@ -22,7 +22,7 @@ import scala.reflect.ClassManifestFactory.classType
   
 trait JsonSupport extends DefaultJsonProtocol {
   implicit val covidSnapshotJsonImplicit = jsonFormat16(CovidSnapshot)
-  implicit val annotationJsonImplicit = jsonFormat9(Annotation)
+  implicit val annotationJsonImplicit = jsonFormat10(Annotation)
   implicit val annotationsJsonImplicit = jsonFormat1(Annotations)
   implicit val covidSnapshotsJsonImplicit = jsonFormat1(CovidSnapshots)
   

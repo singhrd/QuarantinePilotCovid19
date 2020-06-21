@@ -19,6 +19,8 @@ import quarantine.covid19.core.Annotation
 import quarantine.covid19.core.Annotations
 import quarantine.covid19.constants.Constants
 
+
+
 object HelperFunctions {
   
   // We are using this format for the Date string in the CovidSnapshots
@@ -100,7 +102,7 @@ object HelperFunctions {
       CovidSnapshot(daily.date, daily.locale, daily.lat, daily.long,
                     daily.confirmed+cumulative.confirmed,
                     daily.confirmedPer100k+cumulative.confirmedPer100k,
-                    daily.confirmedPer100kPer100SquareMile+cumulative.confirmedPer100kPer100SquareMile,
+                    daily.confirmedPer100kN+cumulative.confirmedPer100kN,
                     daily.recovered+cumulative.recovered,
                     daily.recoveredPer100k+cumulative.recoveredPer100k,
                     // may be make more formal pattern check to assign None to active when None in both
@@ -200,10 +202,11 @@ object HelperFunctions {
 
     
     
-    val mapIndexToAnnotationMetrics = scala.collection.mutable.Map[Int, (Double, Double, Double, Double, Double)]()
+    val mapIndexToAnnotationMetrics = scala.collection.mutable.Map[Int, (Double, Double, Double, Double, Double, Double)]()
     val mapIndexToAnnotationAverageMetrics = scala.collection.mutable.Map[Int, (Array[(String,Double)], 
                                                                                 Array[(String,Double)], 
                                                                                 Array[(String,Double)], 
+                                                                                Array[(String,Double)],
                                                                                 Array[(String,Double)],
                                                                                 Array[(String,Double)])]()
     val cumulativeSnapshotsSorted = sortSnapshots(cumulativeSnapshots.snapshots)
@@ -222,10 +225,18 @@ object HelperFunctions {
       val currentDailySnapshot = dailySnapshotsSorted(i)
       val cumulConfirmed = currentCumulativeSnapshot.confirmed.toDouble
       val cumulDeaths = currentCumulativeSnapshot.deaths.toDouble
-      val cumulativeDeathRate = cumulConfirmed > 0.0 match {
+      val CFR = cumulConfirmed > 0.0 match {
         case true => (cumulDeaths/cumulConfirmed)
         case false => 0.0
       }
+      
+      val CFRTimeAdjustedIndex = scala.math.max(i-Constants.DefaultOutcomeTimeDays,0)
+      val cumulConfirmedTimeDelayed = cumulativeSnapshotsSorted(CFRTimeAdjustedIndex).confirmed.toDouble
+      val CFRTimeAdjusted = cumulConfirmedTimeDelayed > 0.0 match {
+        case true => (cumulDeaths/cumulConfirmedTimeDelayed)
+        case false => 0.0
+      }
+      
       val matchesFoundDaily = dailySnapshots.snapshots.filter(ds => HelperFunctions.getDate(ds.date).before(dt))++List(dailySnapshotsSorted(i))
       
       
@@ -234,7 +245,7 @@ object HelperFunctions {
       val growthRateDaily =  dailyGrowthEstimate(matchesFoundDaily, growthWindow)
       
 
-      mapIndexToAnnotationMetrics.+=(i -> (currentDailySnapshot.confirmedPer100k.toDouble, currentCumulativeSnapshot.confirmedPer100k.toDouble,  estimatedAlpha, cumulativeDeathRate,growthRateDaily))
+      mapIndexToAnnotationMetrics.+=(i -> (currentDailySnapshot.confirmedPer100k.toDouble, currentCumulativeSnapshot.confirmedPer100k.toDouble,  estimatedAlpha, CFR, CFRTimeAdjusted, growthRateDaily))
     })
     // now construct the moving averages from the values in the map
 
@@ -245,14 +256,15 @@ object HelperFunctions {
     	val listDailyConfirmedPer100kMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._1))
     	val listCumulativeConfirmedPer100kMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._2))
     	val listEstimatedAlphaMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._3))
-    	val listCumulativeDeathRateMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._4))
-    	val listGrowthRateDailyMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._5))
+    	val listCFRMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._4))
+    	val listCFRTAMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._5))
+    	val listGrowthRateDailyMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._6))
     			
       movingAverageWindows.foreach(m => {
      
       val windowLeftIndex = scala.math.max(0,j-m)
       val movingAverageRange = Range(windowLeftIndex,j).toList
-      val movingAverages = movingAverageRange.map(k => mapIndexToAnnotationMetrics.get(k).get).foldLeft((0.0, 0.0, 0.0,0.0,0.0))((a,b) => (a._1+b._1,a._2+b._2,a._3+b._3, a._4+b._4,a._5+b._5))
+      val movingAverages = movingAverageRange.map(k => mapIndexToAnnotationMetrics.get(k).get).foldLeft((0.0, 0.0, 0.0,0.0,0.0,0.0))((a,b) => (a._1+b._1,a._2+b._2,a._3+b._3, a._4+b._4,a._5+b._5, a._6+b._6))
       val windowSize = m > j match {
         case true => (j+1).toDouble
         case false => m.toDouble
@@ -260,22 +272,23 @@ object HelperFunctions {
       listDailyConfirmedPer100kMA.+=((daysToString(m),(movingAverages._1/windowSize)))
       listCumulativeConfirmedPer100kMA.+=((daysToString(m),(movingAverages._2/windowSize)))
       listEstimatedAlphaMA.+=((daysToString(m),(movingAverages._3/windowSize)))
-      listCumulativeDeathRateMA.+=((daysToString(m),(movingAverages._4/windowSize)))
-      listGrowthRateDailyMA.+=((daysToString(m), (movingAverages._5/windowSize)))
+      listCFRMA.+=((daysToString(m),(movingAverages._4/windowSize)))
+      listCFRTAMA.+=((daysToString(m),(movingAverages._5/windowSize)))
+      listGrowthRateDailyMA.+=((daysToString(m), (movingAverages._6/windowSize)))
       })
       mapIndexToAnnotationAverageMetrics.+=(j-> (listDailyConfirmedPer100kMA.toArray,
                                                  listCumulativeConfirmedPer100kMA.toArray,
 //                                                 listCumulativeConfirmedPCPDMA.toArray,
                                                  listEstimatedAlphaMA.toList.toArray,
-                                                 listCumulativeDeathRateMA.toList.toArray,
+                                                 listCFRMA.toList.toArray,
+                                                 listCFRTAMA.toList.toArray,
                                                  listGrowthRateDailyMA.toList.toArray))
-//                                                 listEpidemicControlRatioMA.toList.toArray))
     })
     
     // now combine them into the annotation object
     Range(0,cumulativeSnapshotsSorted.length.toInt).toList.map(l => {
       val map2Value = mapIndexToAnnotationAverageMetrics.get(l).get
-      Annotation(datesSorted(l)._1, locale, lat, long, map2Value._1, map2Value._2, map2Value._3,map2Value._4,map2Value._5)
+      Annotation(datesSorted(l)._1, locale, lat, long, map2Value._1, map2Value._2, map2Value._3,map2Value._4,map2Value._5,map2Value._6)
     })      
     
   }    
@@ -285,14 +298,14 @@ object HelperFunctions {
    */
   def deepCopyCovidSnapshot(covidSnapshot: CovidSnapshot): CovidSnapshot = {
     CovidSnapshot(covidSnapshot.date, covidSnapshot.locale, covidSnapshot.lat, covidSnapshot.long,
-                    covidSnapshot.confirmed,covidSnapshot.confirmedPer100k,covidSnapshot.confirmedPer100kPer100SquareMile,
+                    covidSnapshot.confirmed,covidSnapshot.confirmedPer100k,covidSnapshot.confirmedPer100kN,
                     covidSnapshot.recovered,covidSnapshot.recoveredPer100k,
                     covidSnapshot.active,covidSnapshot.activePer100k,
                     covidSnapshot.deaths,covidSnapshot.deathsPer100k,covidSnapshot.epidemiccontrolThreshold, 
                     covidSnapshot.source, covidSnapshot.tests)
   }
-    
-    
+
+  
   /**
    * Get Date from dateString in format "MM/dd/yyyy"
    */
@@ -501,6 +514,7 @@ object HelperFunctions {
     (dailyCS,cumulCS,countryCovidSnapshotMapDaily,countryCovidSnapshotMapCumul)
   }
   
+    
   def transformDateToSlashFormat(dateInHyphenFormat: String): String = {
     val elementsDate = dateInHyphenFormat.split("-").toList
     elementsDate(1)+"/"+elementsDate(2)+"/"+elementsDate(0)

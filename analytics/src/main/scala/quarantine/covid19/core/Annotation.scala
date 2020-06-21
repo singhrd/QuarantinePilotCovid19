@@ -6,28 +6,31 @@ package quarantine.covid19.core
  * At any given time an Annotation captures for a given location/time the following metrics 
  * at the current time and the average over the last movingAverageWindowSize interval
  * 
- *  @param date: The reference date for the Annotation. Usually the latest date of CovidSnapshots 
- *               this Annotation was derived from 
- *  @param province_state: The reference province for the Annotation
- *  @param country: The reference country for the Annotation
- *  @param lat: The reference latitude for the province_state or Country of the Annotation
- *  @param long: The reference latitude for the province_state or Country of the Annotation
- *  @param movingAverageConfirmedDailyPer100k: Basically average over the daily [CovidSnapshot] confirmedPer100k
- *  @param movingAverageConfirmedCumulativePer100k: Basically average over the cumulative [CovidSnapshot] confirmedPer100k
- *  @param movingAverageEstimatedAlpha: Array of average spread rate over movingAverageWindowSize
- *  @param movingAverageDeathRate: Array of average cumulativeDeathRate over movingAverageWindowSize
- *  @param movingAverageGrowthRate: Array of average dailyGrowthRate over movingAverageWindowSize
- * 
+ *  @param date                        The reference date for the Annotation. Usually the latest date of CovidSnapshots  this Annotation was derived from 
+ *  @param locale                      The reference locale for the Annotation
+ *  @param lat                         The reference latitude for the locale of the Annotation
+ *  @param long                        The reference latitude for the locale of the Annotation
+ *  @param movAvgConfDailyPer100k      Basically average over the daily [CovidSnapshot] confirmedPer100k
+ *  @param movAvgConfCumulativePer100k Basically average over the cumulative [CovidSnapshot] confirmedPer100k\movingAverageTotalDeathsPer100k
+ *  @param movAvgEstimatedAlpha        Array of average spread rate over movingAverageWindowSize
+ *                                     (Log[confirmed cases at time k] - Log[confirmed cases at time k - delta])/delta
+ *  @param movAvgCFR                   Array of average CFR over movingAverageWindowSize
+ *                                     CFR = total deaths / total confirmed as of date
+ *  @param movAvgCFRTA                 Array of average CFR time adjusted over movingAverageWindowSize
+ *                                     CFRTA = total deaths at time t / total confirmed at t - 2 weeks
+ *  @param movAvgGrowthRate            Array of average dailyGrowthRate over movingAverageWindowSize
+ *                                     ([daily confirmed cases at date]/[daily confirmed cases at date - delta days])^(1/delta)
  * @author rajdeep
  */
 case class Annotation(date: String, 
                        locale: String, 
                        lat: String, 
                        long: String, 
-                       movingAverageConfirmedDailyPer100k:Array[(String, Double)], 
-                       movingAverageConfirmedCumulativePer100k:Array[(String, Double)],
-                       movingAverageEstimatedAlpha:Array[(String,Double)], // (Log[confirmed cases at time k] - Log[confirmed cases at time k - delta])/delta
-                       movingAverageDeathRate: Array[(String,Double)],  //cumulativeDeathRate: total deaths / total confirmed as of date in this Annotation
-                       movingAverageGrowthRate: Array[(String,Double)])// dailyGrowthRate: ((daily confirmed cases at date)/(daily confirmed cases at date - delta days))^(1/delta)
+                       movAvgConfirmedDailyPer100k:Array[(String, Double)], 
+                       movAvgConfirmedCumulativePer100k:Array[(String, Double)],
+                       movAvgEstimatedAlpha:Array[(String,Double)], 
+                       movAvgCFR: Array[(String,Double)],  
+                       movAvgCFRTA: Array[(String,Double)],  
+                       movAvgGrowthRate: Array[(String,Double)])
 
                        

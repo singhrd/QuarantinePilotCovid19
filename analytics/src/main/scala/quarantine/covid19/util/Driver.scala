@@ -81,8 +81,8 @@ object Driver extends JsonSupport {
     
     def main(args: Array[String]) {
       update("county")
-      update("state")
-      update("country")
+//      update("state")
+//      update("country")
     
   }
 }

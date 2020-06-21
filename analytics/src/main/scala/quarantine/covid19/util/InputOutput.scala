@@ -30,6 +30,11 @@ object InputOutput extends JsonSupport {
   val countyPopulationMapFileName = "../data/csv/general/populationCountyUS.csv"
   val statePopulationMapFileName = "../data/csv/general/populationStates.csv"
 
+  val countryTestMapFileName = "../data/csv/general/populationStates.csv"
+  
+  val stateTestMapFileName = "../data/csv/general/populationStates.csv"
+  
+  
   val countryLocaleMap = readCSV(countryMapFileName).map(x => {
     val elements = tokenize(x,Some(Constants.CommaDelimiter))
     (elements(0) -> (elements(1),GeoLocation(elements(2),elements(3))))

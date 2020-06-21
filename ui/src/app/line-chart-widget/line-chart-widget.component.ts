@@ -42,14 +42,15 @@ export class LineChartWidgetComponent implements OnInit {
   selectedLocations = this.selectedLocationsCountries
   
   metrics = [
-    'spread rate',
-    'daily growth rate',
-    'confirmed fatality rate',
-    'Total cases per-100k',
-    'Daily cases per-100k'
+    'Spread Rate',
+    'Daily Growth Rate',
+    'Confirmed Fatality Rate',
+    'Time Adjusted Confirmed Fatality Rate',    
+    'Total Cases per-100k',
+    'Daily Cases per-100k'
   ];
   
-  initialMetricIndex = Math.floor(Math.random() * 5);
+  initialMetricIndex = Math.floor(Math.random() * 6);
   selectedMetric = this.metrics[this.initialMetricIndex];
 
   scaleOptions = ['linear','log'];
@@ -58,6 +59,7 @@ export class LineChartWidgetComponent implements OnInit {
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days. Value less than 1 for a sustained period indicates inflection point (peak) has been reached.',
     'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
+    'Percentage deaths today within confirmed cases a week ago. Reported Flu fatality rate in the US is 0.001.',
     'Total confirmed cases per 100k in population',
     'Daily confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.'
   ];
@@ -82,19 +84,19 @@ export class LineChartWidgetComponent implements OnInit {
   selectLocale(locale: string) {
     this.selectedLocale = locale;
     if(locale === 'Country') {
-      this.selectedLocations = this.selectedLocationsCountries
+      this.selectedLocations = []
       this.updateMultiselectLabels(this.locationsCountries)
       }
     if(locale === 'County')  {
-      this.selectedLocations = this.selectedLocationsCounties
+      this.selectedLocations = []
       this.updateMultiselectLabels(this.locationsCounties)
       }
     if(locale === 'State') {
-      this.selectedLocations = this.selectedLocationsStates
+      this.selectedLocations = []
       this.updateMultiselectLabels(this.locationsStates)
       }
     if(locale === 'All'){
-      this.selectedLocations = this.selectedLocationsAll
+      this.selectedLocations = []
       this.updateMultiselectLabels(this.locations)
       }
       
@@ -125,7 +127,7 @@ export class LineChartWidgetComponent implements OnInit {
    */
   selectMetric(metric: string, idx: number) {
     this.selectedMetric = metric;
-    if(metric === this.metrics[0] || metric === this.metrics[1] || metric === this.metrics[2])
+    if(metric === this.metrics[0] || metric === this.metrics[1] || metric === this.metrics[2] || metric === this.metrics[3])
       this.selectedScale = this.scaleOptions[0];
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
     this.chartDescriptionText = this.chartDescriptions[idx];
@@ -167,18 +169,21 @@ export class LineChartWidgetComponent implements OnInit {
             // Loop over each date of data within each location
             res.elements.forEach((entry, j) => {
               // Plot the selected metric
-              let metricData = entry.movingAverageEstimatedAlpha;
-              if (metric === 'daily growth rate') {
-                metricData = entry.movingAverageGrowthRate;
+              let metricData = entry.movAvgEstimatedAlpha;
+              if (metric === 'Daily Growth Rate') {
+                metricData = entry.movAvgGrowthRate;
               }
-              if (metric === 'confirmed fatality rate') {
-                metricData = entry.movingAverageDeathRate;
+              if (metric === 'Confirmed Fatality Rate') {
+                metricData = entry.movAvgCFR;
               }
-              if (metric === 'Total cases per-100k') {
-                metricData = entry.movingAverageConfirmedCumulativePer100k;
+              if (metric === 'Time Adjusted Confirmed Fatality Rate') {
+                metricData = entry.movAvgCFRTA;
+              }              
+              if (metric === 'Total Cases per-100k') {
+                metricData = entry.movAvgConfirmedCumulativePer100k;
               }
-              if (metric === 'Daily cases per-100k') {
-                metricData = entry.movingAverageConfirmedDailyPer100k;
+              if (metric === 'Daily Cases per-100k') {
+                metricData = entry.movAvgConfirmedDailyPer100k;
               }
               // Grab the value based on selected time period
               metricData.filter(windowInfo => {
