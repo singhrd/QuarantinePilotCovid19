@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.02823529411764706], ["weekly", 0.02746376800675226], ["triweekly", 0.027361153509171027]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 24.486404859946404], ["weekly", 24.424674427526366], ["triweekly", 24.114650478039103]],
     "lat": "-34.85"
+  }, {
+    "movingAverageGrowthRate": [["daily", 3.0], ["weekly", 0.2857142857142857], ["triweekly", 0.8083163958582195]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.08642260538804614], ["weekly", 0.012346086484006591], ["triweekly", 0.053499708097361875]],
+    "locale": "Uruguay",
+    "long": "-56.166667",
+    "movingAverageEstimatedAlpha": [["daily", 0.003523198007316708], ["weekly", 0.0005050935474725396], ["triweekly", 0.002236585493759496]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.02813599062133646], ["weekly", 0.027618143806658998], ["triweekly", 0.027413929243385794]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 24.572827465334452], ["weekly", 24.437020514010378], ["triweekly", 24.16815018613646]],
+    "lat": "-34.85"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.01639344262295082], ["weekly", 0.01746801508922328], ["triweekly", 0.013623672793148203]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 70.75334918517659], ["weekly", 66.44518272425249], ["triweekly", 63.40737304026755]],
     "lat": "ReplaceMeMuskingum,Ohio"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.5591733660532993], ["triweekly", 0.3670435280170093]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.9941922602132544], ["triweekly", 0.7180277434873503]],
+    "locale": "Muskingum,Ohio",
+    "long": "ReplaceMeMuskingum,Ohio",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.014791525562977168], ["triweekly", 0.011412993012639058]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.01639344262295082], ["weekly", 0.017212532866527946], ["triweekly", 0.014404312918050624]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 70.75334918517659], ["weekly", 67.43937498446574], ["triweekly", 64.1254007837549]],
+    "lat": "ReplaceMeMuskingum,Ohio"
   }]
 }

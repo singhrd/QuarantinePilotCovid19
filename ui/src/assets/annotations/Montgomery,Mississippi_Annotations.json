@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.01020408163265306], ["weekly", 0.010587194556597401], ["triweekly", 0.011403145361619384]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 1002.5575447570332], ["weekly", 967.4826452320059], ["triweekly", 900.2557544757034]],
     "lat": "ReplaceMeMontgomery,Mississippi"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.5175132784570948], ["triweekly", 0.5083911678608874]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 14.614541468761416], ["triweekly", 8.281573498964804]],
+    "locale": "Montgomery,Mississippi",
+    "long": "ReplaceMeMontgomery,Mississippi",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.01537580917033792], ["triweekly", 0.009072301142768247]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.01020408163265306], ["weekly", 0.010421543880742642], ["triweekly", 0.011301164534014974]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 1002.5575447570332], ["weekly", 982.0971867007673], ["triweekly", 908.5373279746682]],
+    "lat": "ReplaceMeMontgomery,Mississippi"
   }]
 }

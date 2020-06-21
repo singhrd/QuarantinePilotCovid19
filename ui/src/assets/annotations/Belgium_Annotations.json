@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.16045270762908465], ["weekly", 0.1609290665649629], ["triweekly", 0.16174907656259435]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 521.1634342380057], ["weekly", 518.1285081232203], ["triweekly", 511.0009553560846]],
     "lat": "50.8333333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.2307692307692308], ["weekly", 0.9999215484497966], ["triweekly", 1.008455051905506]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 1.105403983271438], ["weekly", 0.7858731443570379], ["triweekly", 1.027680265697665]],
+    "locale": "Belgium",
+    "long": "4.333333",
+    "movingAverageEstimatedAlpha": [["daily", 0.0021187851401265334], ["weekly", 0.0015159355636717362], ["triweekly", 0.0020138875986786516]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.16031152854024738], ["weekly", 0.1607969818455651], ["triweekly", 0.16166184509514905]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 522.2688382212772], ["weekly", 518.9143812675774], ["triweekly", 512.0286356217823]],
+    "lat": "50.8333333333"
   }]
 }

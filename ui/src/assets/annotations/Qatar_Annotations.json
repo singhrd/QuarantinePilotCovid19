@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.0010184625951848035], ["weekly", 0.0009347340317887658], ["triweekly", 0.0008039470457038128]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 2941.2502325037044], ["weekly", 2765.6819456805656], ["triweekly", 2377.7030514935623]],
     "lat": "25.2833333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.8058405682715075], ["weekly", 0.9952652714323404], ["triweekly", 0.992722283788892]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 35.56348796658356], ["weekly", 46.62514093282327], ["triweekly", 55.61014230006282]],
+    "locale": "Qatar",
+    "long": "51.533333",
+    "movingAverageEstimatedAlpha": [["daily", 0.01201876706500471], ["weekly", 0.016802676177411158], ["triweekly", 0.02409119670405923]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.0010882029439985023], ["weekly", 0.0009489244181908165], ["triweekly", 0.0008215808937905386]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 2976.813720470288], ["weekly", 2812.30708661339], ["triweekly", 2433.313193793625]],
+    "lat": "25.2833333333"
   }]
 }

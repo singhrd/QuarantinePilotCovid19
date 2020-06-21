@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.0608187134502924], ["weekly", 0.06011356209938785], ["triweekly", 0.06161594840170802]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 1106.939409632315], ["weekly", 1104.5350299622696], ["triweekly", 1075.8674262040395]],
     "lat": "42.5"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["triweekly", 3.8681649875139925]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.5548568469334911], ["triweekly", 5.671869990875688]],
+    "locale": "Andorra",
+    "long": "1.516667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0005021345867777884], ["triweekly", 0.005421116078681095]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.0608187134502924], ["weekly", 0.0602506418880614], ["triweekly", 0.061329153067661527]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 1106.939409632315], ["weekly", 1105.089886809203], ["triweekly", 1081.539296194915]],
+    "lat": "42.5"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.028020211299954065], ["weekly", 0.028023172781449907], ["triweekly", 0.027969635163640944]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 160.8829124167318], ["weekly", 159.64242798803136], ["triweekly", 157.8397665735582]],
     "lat": "59.9166666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.125], ["weekly", 1.5723116169544742], ["triweekly", 1.3195326498897928]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.3325554000345858], ["weekly", 0.2639328571703062], ["triweekly", 0.26129352859860305]],
+    "locale": "Norway",
+    "long": "10.75",
+    "movingAverageEstimatedAlpha": [["daily", 0.0020649313291176696], ["weekly", 0.001650019993267447], ["triweekly", 0.0016524652567618656]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.027962411184964474], ["weekly", 0.02800986255292503], ["triweekly", 0.027967812138486314]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 161.21546781676642], ["weekly", 159.9063608452017], ["triweekly", 158.10106010215682]],
+    "lat": "59.9166666667"
   }]
 }

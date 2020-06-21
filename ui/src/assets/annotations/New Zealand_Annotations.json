@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.014598540145985401], ["weekly", 0.01461794941533388], ["triweekly", 0.014624422854756689]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 31.30275979421188], ["weekly", 31.261216649163156], ["triweekly", 31.24736893414692]],
     "lat": "-41.3"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.4142135623730951], ["weekly", 0.10101525445522108], ["triweekly", 0.033671751485073696]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0415431450487218], ["weekly", 0.008902102510440385], ["triweekly", 0.0029673675034801285]],
+    "locale": "New Zealand",
+    "long": "174.783333",
+    "movingAverageEstimatedAlpha": [["daily", 0.001326260141353508], ["weekly", 0.000284670588101475], ["triweekly", 0.000094890196033825]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.0145791915175613], ["weekly", 0.01461378949697921], ["triweekly", 0.01462303621530513]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 31.3443029392606], ["weekly", 31.2701187516736], ["triweekly", 31.2503363016504]],
+    "lat": "-41.3"
   }]
 }

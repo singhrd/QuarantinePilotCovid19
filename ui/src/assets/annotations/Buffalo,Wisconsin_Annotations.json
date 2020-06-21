@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.3333333333333333], ["weekly", 0.28571428571428564], ["triweekly", 0.2571428571428572]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 46.044048806691734], ["weekly", 53.71805694114035], ["triweekly", 47.871193600608095]],
     "lat": "ReplaceMeBuffalo,Wisconsin"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 7.674008134448622], ["weekly", -1.096286876349803], ["triweekly", 0.3654289587832677]],
+    "locale": "Buffalo,Wisconsin",
+    "long": "ReplaceMeBuffalo,Wisconsin",
+    "movingAverageEstimatedAlpha": [["daily", 0.15415067982725827], ["weekly", -0.022021525689608325], ["triweekly", 0.008681978894950223]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.2857142857142857], ["weekly", 0.2925170068027211], ["triweekly", 0.26349206349206344]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 53.718056941140354], ["weekly", 52.62177006479055], ["triweekly", 48.23662255939136]],
+    "lat": "ReplaceMeBuffalo,Wisconsin"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.011560693641618497], ["weekly", 0.011589611659655028], ["triweekly", 0.011923446588273667]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 169.30906243883342], ["weekly", 168.88963453848947], ["triweekly", 164.32253073474445]],
     "lat": "ReplaceMeTompkins,New York"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["triweekly", 0.5170273731773205]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.27961860022928725], ["triweekly", 0.7922527006496471]],
+    "locale": "Tompkins,New York",
+    "long": "ReplaceMeTompkins,New York",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0016611482850170031], ["triweekly", 0.0049255041546782]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.011560693641618497], ["weekly", 0.011570295546636453], ["triweekly", 0.011863455198802506]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 169.30906243883342], ["weekly", 169.16925313871874], ["triweekly", 165.11478343539406]],
+    "lat": "ReplaceMeTompkins,New York"
   }]
 }

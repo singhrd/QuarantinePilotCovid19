@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.011667293940534437], ["weekly", 0.011823019663499407], ["triweekly", 0.010904855408391473]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 40.865581306357434], ["weekly", 36.28663236058353], ["triweekly", 31.32463954106686]],
     "lat": "42.8666666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.1787593835090038], ["weekly", 0.9408775580328684], ["triweekly", 1.0644554673206714]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.0302057705830565], ["weekly", 1.0788214646712995], ["triweekly", 0.7785385043758258]],
+    "locale": "Kyrgyzstan",
+    "long": "74.6",
+    "movingAverageEstimatedAlpha": [["daily", 0.04848544186767523], ["weekly", 0.02918793117126826], ["triweekly", 0.024331004114745387]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.011473646468268197], ["weekly", 0.011774962591556233], ["triweekly", 0.010982457922020315]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 42.89578707694049], ["weekly", 37.365453825254825], ["triweekly", 32.10317804544268]],
+    "lat": "42.8666666667"
   }]
 }

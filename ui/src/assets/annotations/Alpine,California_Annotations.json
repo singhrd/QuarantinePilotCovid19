@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 88.57395925597875], ["weekly", 101.22738200683284], ["triweekly", 151.8410730102493]],
     "lat": "ReplaceMeAlpine,California"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", -12.653422750854107], ["triweekly", -4.217807583618035]],
+    "locale": "Alpine,California",
+    "long": "ReplaceMeAlpine,California",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", -0.09902102579427789], ["triweekly", -0.033007008598092635]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 88.57395925597875], ["weekly", 88.57395925597874], ["triweekly", 147.62326542663126]],
+    "lat": "ReplaceMeAlpine,California"
   }]
 }

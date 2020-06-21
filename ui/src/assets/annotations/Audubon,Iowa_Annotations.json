@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.07142857142857142], ["weekly", 0.07378335949764521], ["triweekly", 0.07714111285539854]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 254.73071324599707], ["weekly", 246.9328342690788], ["triweekly", 236.5356622998544]],
     "lat": "ReplaceMeAudubon,Iowa"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 18.195050946142647], ["weekly", 2.5992929923060926], ["triweekly", 1.7328619948707282]],
+    "locale": "Audubon,Iowa",
+    "long": "ReplaceMeAudubon,Iowa",
+    "movingAverageEstimatedAlpha": [["daily", 0.06899287148695166], ["weekly", 0.01058685316481738], ["triweekly", 0.007340508563202765]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.06666666666666667], ["weekly", 0.07299843014128728], ["triweekly", 0.07657421943136226]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 272.92576419213975], ["weekly", 249.5321272613849], ["triweekly", 238.26852429472513]],
+    "lat": "ReplaceMeAudubon,Iowa"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.005412719891745603], ["weekly", 0.006058442105454926], ["triweekly", 0.004996258934195518]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 207.88734137689497], ["weekly", 186.14617538329352], ["triweekly", 157.31870205105065]],
     "lat": "ReplaceMeDavis,Utah"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.5], ["weekly", 1.1468154513267295], ["triweekly", 1.2426016049762918]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 10.127123531215453], ["weekly", 4.782252778629519], ["triweekly", 4.0722824781607105]],
+    "locale": "Davis,Utah",
+    "long": "ReplaceMeDavis,Utah",
+    "movingAverageEstimatedAlpha": [["daily", 0.04756510840514583], ["weekly", 0.02508263470129484], ["triweekly", 0.02523580427902463]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.005161290322580645], ["weekly", 0.005910028818100611], ["triweekly", 0.005035069350496486]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 218.01446490811043], ["weekly", 190.92842816192305], ["triweekly", 161.39098452921132]],
+    "lat": "ReplaceMeDavis,Utah"
   }]
 }

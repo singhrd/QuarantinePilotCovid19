@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.10650887573964497], ["weekly", 0.11025956360300161], ["triweekly", 0.112296780567403]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 318.5959157511747], ["weekly", 282.77744001583557], ["triweekly", 232.70787900985704]],
     "lat": "ReplaceMeMohave,Arizona"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.25], ["weekly", 2.673032222293306], ["triweekly", 3.421643307863168]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 4.712957333597259], ["weekly", 7.608059695664147], ["triweekly", 7.316305194060507]],
+    "locale": "Mohave,Arizona",
+    "long": "ReplaceMeMohave,Arizona",
+    "movingAverageEstimatedAlpha": [["daily", 0.014684551682920599], ["weekly", 0.026130492557610525], ["triweekly", 0.031345710550452634]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.10495626822157435], ["weekly", 0.10974306957646522], ["triweekly", 0.11165434607881466]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 323.30887308477196], ["weekly", 290.3854997114997], ["triweekly", 240.0241842039175]],
+    "lat": "ReplaceMeMohave,Arizona"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.01598173515981735], ["weekly", 0.01606568827058576], ["triweekly", 0.017132208610809226]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 4183.381088825215], ["weekly", 4161.550006822213], ["triweekly", 3843.8622822576967]],
     "lat": "ReplaceMeMoore,Texas"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.25], ["weekly", 0.41428571428571426], ["triweekly", 4.811833184111771]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 4.775549188156638], ["weekly", 6.822213125938053], ["triweekly", 70.72360940555784]],
+    "locale": "Moore,Texas",
+    "long": "ReplaceMeMoore,Texas",
+    "movingAverageEstimatedAlpha": [["daily", 0.001140901435791264], ["weekly", 0.0016401689105652398], ["triweekly", 0.020882874275711925]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.01596351197263398], ["weekly", 0.016039324471245908], ["triweekly", 0.016797584115680424]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 4188.156638013372], ["weekly", 4168.372219948151], ["triweekly", 3914.5858916632556]],
+    "lat": "ReplaceMeMoore,Texas"
   }]
 }

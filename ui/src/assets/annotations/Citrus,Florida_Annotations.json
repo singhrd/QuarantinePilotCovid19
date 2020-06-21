@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.07407407407407407], ["weekly", 0.08354411983835862], ["triweekly", 0.09252364750949964]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 108.247526009475], ["weekly", 96.31547949167573], ["triweekly", 87.24712413814828]],
     "lat": "ReplaceMeCitrus,Florida"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.2], ["weekly", 1.4122448979591837], ["triweekly", 0.702823559545266]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 4.009167629980555], ["weekly", 2.8636911642718252], ["triweekly", 1.3682080007076498]],
+    "locale": "Citrus,Florida",
+    "long": "ReplaceMeCitrus,Florida",
+    "movingAverageEstimatedAlpha": [["daily", 0.036367644170875124], ["weekly", 0.02925634466371615], ["triweekly", 0.014689182958135906]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.07142857142857142], ["weekly", 0.08113911743335621], ["triweekly", 0.09124906360186252]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 112.25669363945556], ["weekly", 99.17917065594756], ["triweekly", 88.61533213885593]],
+    "lat": "ReplaceMeCitrus,Florida"
   }]
 }

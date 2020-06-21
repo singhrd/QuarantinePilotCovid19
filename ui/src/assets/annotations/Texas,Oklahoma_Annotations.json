@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.006147540983606557], ["weekly", 0.006188630277921896], ["triweekly", 0.006031906985462286]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 4884.15152879948], ["weekly", 4851.981326985079], ["triweekly", 4736.168600453241]],
     "lat": "ReplaceMeTexas,Oklahoma"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 1.3020408163265305], ["triweekly", 1.310332840142164]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 5.004253615573237], ["weekly", 14.297867473066391], ["triweekly", 17.157440967679673]],
+    "locale": "Texas,Oklahoma",
+    "long": "ReplaceMeTexas,Oklahoma",
+    "movingAverageEstimatedAlpha": [["daily", 0.0010240656296902628], ["weekly", 0.00295781048024159], ["triweekly", 0.003649201239091235]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.006141248720573183], ["weekly", 0.006170257471634967], ["triweekly", 0.006061267344142245]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 4889.155782415052], ["weekly", 4866.279194458147], ["triweekly", 4753.326041420921]],
+    "lat": "ReplaceMeTexas,Oklahoma"
   }]
 }

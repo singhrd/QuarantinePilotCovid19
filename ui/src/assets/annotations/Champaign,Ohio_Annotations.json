@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.02702702702702703], ["weekly", 0.02882486327864479], ["triweekly", 0.03235007691686915]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 95.15237238009516], ["weekly", 89.27423354580357], ["triweekly", 80.45702529436615]],
     "lat": "ReplaceMeChampaign,Ohio"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["triweekly", 0.34523809523809523]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 1.1021510314296736], ["triweekly", 1.2246122571440818]],
+    "locale": "Champaign,Ohio",
+    "long": "ReplaceMeChampaign,Ohio",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.012079626861151826], ["triweekly", 0.015003859363804535]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.02702702702702703], ["weekly", 0.028484186467379744], ["triweekly", 0.031873409773535345]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 95.15237238009516], ["weekly", 90.37638457723324], ["triweekly", 81.68163755151025]],
+    "lat": "ReplaceMeChampaign,Ohio"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.023529411764705882], ["weekly", 0.024508790396469585], ["triweekly", 0.023527528161856246]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 532.4313320179148], ["weekly", 511.4025315096442], ["triweekly", 480.0830413909432]],
     "lat": "ReplaceMeDorchester,Maryland"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 1.4047619047619047], ["triweekly", 1.0767504980037867]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 12.527796047480347], ["weekly", 4.921634161510136], ["triweekly", 5.070774590646808]],
+    "locale": "Dorchester,Maryland",
+    "long": "ReplaceMeDorchester,Maryland",
+    "movingAverageEstimatedAlpha": [["daily", 0.023256862164267034], ["weekly", 0.009556319261432935], ["triweekly", 0.010625883395914748]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.022988505747126436], ["weekly", 0.024276244547941493], ["triweekly", 0.023597556173060735]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 544.959128065395], ["weekly", 516.3241656711543], ["triweekly", 485.1538159815901]],
+    "lat": "ReplaceMeDorchester,Maryland"
   }]
 }

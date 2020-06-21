@@ -1476,7 +1476,7 @@
     "long": "ReplaceMeCalifornia",
     "movingAverageEstimatedAlpha": [["daily", 0.02628294191164926], ["weekly", 0.02112314489613481], ["triweekly", 0.022147640950337992]],
     "date": "06/17/2020",
-    "movingAverageDeathRate": [["daily", 0.0323629350720911], ["weekly", 0.0336417782338318], ["triweekly", 0.035789399035646124]],
+    "movingAverageDeathRate": [["daily", 0.03234456791257232], ["weekly", 0.0336417782338318], ["triweekly", 0.035789399035646124]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 413.4016704631739], ["weekly", 379.3520627689193], ["triweekly", 328.0176206144316]],
     "lat": "ReplaceMeCalifornia"
   }, {
@@ -1486,8 +1486,18 @@
     "long": "ReplaceMeCalifornia",
     "movingAverageEstimatedAlpha": [["daily", 0.02271731327105897], ["weekly", 0.021897528306604488], ["triweekly", 0.022479359566866853]],
     "date": "06/18/2020",
-    "movingAverageDeathRate": [["daily", 0.03209087426984583], ["weekly", 0.03330104855970532], ["triweekly", 0.03547899769371497]],
+    "movingAverageDeathRate": [["daily", 0.03207291965910179], ["weekly", 0.03329842467977406], ["triweekly", 0.035478123067071224]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 422.9005315110099], ["weekly", 387.74487471526203], ["triweekly", 335.4251485458775]],
+    "lat": "ReplaceMeCalifornia"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.9792166266986411], ["weekly", 1.020855928158477], ["triweekly", 1.0429241738551276]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 9.301442672741079], ["weekly", 8.458979643489895], ["triweekly", 7.595063335382243]],
+    "locale": "California",
+    "long": "ReplaceMeCalifornia",
+    "movingAverageEstimatedAlpha": [["daily", 0.02175601051546039], ["weekly", 0.021548791490627956], ["triweekly", 0.022545107676976917]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.03178674537224106], ["weekly", 0.032968011969119415], ["triweekly", 0.035155934973797154]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 432.20197418375096], ["weekly", 396.20385435875187], ["triweekly", 343.02021188125974]],
     "lat": "ReplaceMeCalifornia"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.08465608465608465], ["weekly", 0.0893383357661968], ["triweekly", 0.09169149896868274]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 173.9226458327582], ["weekly", 164.8518502451087], ["triweekly", 151.53048860914026]],
     "lat": "ReplaceMeLaSalle,Illinois"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.967498703155537], ["triweekly", 1.2031670408545263]],
+    "movingAverageConfirmedDailyPer100k": [["daily", -0.9202256393267629], ["weekly", 1.840451278653526], ["triweekly", 2.103372889889744]],
+    "locale": "LaSalle,Illinois",
+    "long": "ReplaceMeLaSalle,Illinois",
+    "movingAverageEstimatedAlpha": [["daily", -0.005305052229693352], ["weekly", 0.010994434448018302], ["triweekly", 0.013951767841974959]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.0851063829787234], ["weekly", 0.08837083765584156], ["triweekly", 0.09133233244943517]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 173.00242019343145], ["weekly", 166.6923015237622], ["triweekly", 153.63386149903002]],
+    "lat": "ReplaceMeLaSalle,Illinois"
   }]
 }

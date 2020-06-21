@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.021739130434782608], ["weekly", 0.02215320910973085], ["triweekly", 0.022369659326181054]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 70.298769771529], ["weekly", 68.98885480684213], ["triweekly", 68.33389732449871]],
     "lat": "ReplaceMeAdams,Illinois"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.14285714285714285], ["triweekly", 0.047619047619047616]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 1.5282341254680216], ["weekly", 0.21831916078114594], ["triweekly", 0.14554610718743063]],
+    "locale": "Adams,Illinois",
+    "long": "ReplaceMeAdams,Illinois",
+    "movingAverageEstimatedAlpha": [["daily", 0.02150620522096336], ["weekly", 0.003139843816967921], ["triweekly", 0.002116750598611145]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.02127659574468085], ["weekly", 0.02208419599723948], ["triweekly", 0.022322604931300578]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 71.82700389699703], ["weekly", 69.20717396762328], ["triweekly", 68.47944343168612]],
+    "lat": "ReplaceMeAdams,Illinois"
   }]
 }

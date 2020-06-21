@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.013767040086381428], ["weekly", 0.013905974241216007], ["triweekly", 0.014061557663033384]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 29.12438474786357], ["weekly", 28.83405624942257], ["triweekly", 28.57012125083985]],
     "lat": "-35.2666666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.1111111111111111], ["weekly", 1.6448251541419243], ["triweekly", 1.310654213571834]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.00786189357480458], ["weekly", 0.0673876592126107], ["triweekly", 0.045673857910769465]],
+    "locale": "Australia",
+    "long": "149.133333",
+    "movingAverageEstimatedAlpha": [["daily", 0.00026990553470263023], ["weekly", 0.00233273071920616], ["triweekly", 0.001594638864494513]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.013763324787478073], ["weekly", 0.013873595807757256], ["triweekly", 0.014032586422006717]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 29.132246641438375], ["weekly", 28.90144390863518], ["triweekly", 28.61579510875062]],
+    "lat": "-35.2666666667"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.03571428571428571], ["weekly", 0.034101134500335875], ["triweekly", 0.03280321832160139]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 999.9131349593182], ["weekly", 982.4022458060042], ["triweekly", 946.0476176688088]],
     "lat": "ReplaceMeWicomico,Maryland"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.8840136054421769], ["triweekly", 1.0154126295230614]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 5.23947864429869], ["triweekly", 5.3773596612539185]],
+    "locale": "Wicomico,Maryland",
+    "long": "ReplaceMeWicomico,Maryland",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.00533844950113771], ["triweekly", 0.005706490498273394]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.03571428571428571], ["weekly", 0.0344794421360154], ["triweekly", 0.03310486237421699]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 999.9131349593182], ["weekly", 987.6417244503028], ["triweekly", 951.4249773300629]],
+    "lat": "ReplaceMeWicomico,Maryland"
   }]
 }

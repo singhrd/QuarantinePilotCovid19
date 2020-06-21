@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.0006269138957876208], ["weekly", 0.0006359497504808152], ["triweekly", 0.0006535672965993826]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 710.033014917319], ["weekly", 692.2522900448585], ["triweekly", 645.8862576894501]],
     "lat": "1.2833333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5525291828793775], ["weekly", 0.9895972179889349], ["triweekly", 1.0479039377233235]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.4310922315303762], ["weekly", 5.101869612648254], ["triweekly", 6.704662143563318]],
+    "locale": "Singapore",
+    "long": "103.85",
+    "movingAverageEstimatedAlpha": [["daily", 0.0034180661046328], ["weekly", 0.0073724000676203315], ["triweekly", 0.01052466293484762]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.0006247747206536105], ["weekly", 0.0006348335649859168], ["triweekly", 0.0006504798569786315]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 712.4641071488493], ["weekly", 697.3541596575067], ["triweekly", 652.5909198330135]],
+    "lat": "1.2833333333"
   }]
 }

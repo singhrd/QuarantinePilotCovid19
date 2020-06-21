@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.02748414376321353], ["weekly", 0.02811627967565027], ["triweekly", 0.03099932535372294]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 7.9538700201991315], ["weekly", 6.726850976511242], ["triweekly", 5.1498143185917415]],
     "lat": "-1.2833333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5492957746478874], ["weekly", 1.1208395133188398], ["triweekly", 1.0584082956723306]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.21860530710906703], ["weekly", 0.27812787546721346], ["triweekly", 0.23479829282084977]],
+    "locale": "Kenya",
+    "long": "36.816667",
+    "movingAverageEstimatedAlpha": [["daily", 0.027113235408560143], ["weekly", 0.04010533273663316], ["triweekly", 0.04606542229570076]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.027206218564243257], ["weekly", 0.027954605478748756], ["triweekly", 0.030601107230492596]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 8.172475327308199], ["weekly", 7.004978851978456], ["triweekly", 5.384612611412591]],
+    "lat": "-1.2833333333"
   }]
 }

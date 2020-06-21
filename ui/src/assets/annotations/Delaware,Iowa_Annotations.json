@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.034482758620689655], ["weekly", 0.036686675849237425], ["triweekly", 0.036748196747688366]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 170.47792604785138], ["weekly", 160.40041317802766], ["triweekly", 125.1291181336446]],
     "lat": "ReplaceMeDelaware,Iowa"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.7320508075688772], ["weekly", 0.2857142857142857], ["triweekly", 0.25761790222269987]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 17.635647522191523], ["weekly", 2.519378217455931], ["triweekly", 3.919032782709226]],
+    "locale": "Delaware,Iowa",
+    "long": "ReplaceMeDelaware,Iowa",
+    "movingAverageEstimatedAlpha": [["daily", 0.0984400728132524], ["weekly", 0.015599898852141716], ["triweekly", 0.031392648994488764]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.03125], ["weekly", 0.03611827872911617], ["triweekly", 0.03839023287248311]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 188.1135735700429], ["weekly", 162.91979139548357], ["triweekly", 129.04815091635385]],
+    "lat": "ReplaceMeDelaware,Iowa"
   }]
 }

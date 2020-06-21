@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.05019222554463904], ["weekly", 0.0570180072330556], ["triweekly", 0.06825876025154805]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 447.06329449936453], ["weekly", 376.0493349227583], ["triweekly", 297.3556098368111]],
     "lat": "ReplaceMePima,Arizona"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.1346801346801347], ["weekly", 3.051755476980431], ["triweekly", 3.362058906681474]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 32.17862670787822], ["weekly", 16.35530878454684], ["triweekly", 11.435530050913346]],
+    "locale": "Pima,Arizona",
+    "long": "ReplaceMePima,Arizona",
+    "movingAverageEstimatedAlpha": [["daily", 0.06950534160407784], ["weekly", 0.04226162538355054], ["triweekly", 0.03668484031021412]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.04781829049611477], ["weekly", 0.055246936381654004], ["triweekly", 0.06656158295476367]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 479.2419212072428], ["weekly", 392.4046437073052], ["triweekly", 308.79113988772446]],
+    "lat": "ReplaceMePima,Arizona"
   }]
 }

@@ -1486,8 +1486,18 @@
     "long": "-77",
     "movingAverageEstimatedAlpha": [["daily", 0.01275158275610977], ["weekly", 0.011161727436681852], ["triweekly", 0.01126880927395306]],
     "date": "6/18/20",
-    "movingAverageDeathRate": [["daily", 0.054053486635643515], ["weekly", 0.055312033430735374], ["triweekly", 0.05686976541349198]],
+    "movingAverageDeathRate": [["daily", 0.054052573832113524], ["weekly", 0.055312033430735374], ["triweekly", 0.05686976541349198]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 662.7289623559222], ["weekly", 633.2961033710619], ["triweekly", 588.0319872295386]],
+    "lat": "38.883333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.1356170304733089], ["weekly", 1.0362691820697225], ["triweekly", 1.017729952737088]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 9.53599275425465], ["weekly", 7.236049003860601], ["triweekly", 6.636969837208717]],
+    "locale": "US",
+    "long": "-77",
+    "movingAverageEstimatedAlpha": [["daily", 0.014286439544260787], ["weekly", 0.011358376007340862], ["triweekly", 0.011243365976188696]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.05359719497034751], ["weekly", 0.05499839337807978], ["triweekly", 0.0566382545831475]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 672.2649551101769], ["weekly", 640.5321523749226], ["triweekly", 594.6689570667473]],
     "lat": "38.883333"
   }]
 }

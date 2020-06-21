@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.03455389375966993], ["weekly", 0.036077342551353926], ["triweekly", 0.03836713626700187]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 124.93089820096928], ["weekly", 113.64634200894186], ["triweekly", 101.76963808851274]],
     "lat": "ReplaceMeSacramento,California"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.75], ["weekly", 1.341782018028823], ["triweekly", 1.193439649241021]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.319500946485247], ["weekly", 2.4851795855199077], ["triweekly", 1.8132606605460069]],
+    "locale": "Sacramento,California",
+    "long": "ReplaceMeSacramento,California",
+    "movingAverageEstimatedAlpha": [["daily", 0.01839602209257052], ["weekly", 0.02142110451154533], ["triweekly", 0.017311922084304744]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.033924050632911394], ["weekly", 0.03562116251924651], ["triweekly", 0.03799899470942222]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 127.25039914745453], ["weekly", 116.13152159446177], ["triweekly", 103.58289874905876]],
+    "lat": "ReplaceMeSacramento,California"
   }]
 }

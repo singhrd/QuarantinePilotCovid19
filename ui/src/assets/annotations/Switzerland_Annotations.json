@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.06269230769230769], ["weekly", 0.06244530760658163], ["triweekly", 0.062282448877134154]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 361.03648019055316], ["weekly", 360.0280907541236], ["triweekly", 358.4466275396137]],
     "lat": "46.9166666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 2.6923076923076925], ["weekly", 1.0042209720947237], ["triweekly", 1.2768974621220002]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.4050088720086334], ["weekly", 0.2578832001361094], ["triweekly", 0.22261712148501756]],
+    "locale": "Switzerland",
+    "long": "7.466667",
+    "movingAverageEstimatedAlpha": [["daily", 0.0011211661300976061], ["weekly", 0.0007160774033633085], ["triweekly", 0.0006206325428396534]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.0626220585881223], ["weekly", 0.0624877358650903], ["triweekly", 0.06230049746058083]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 361.4414890625618], ["weekly", 360.28597395425965], ["triweekly", 358.66924466109873]],
+    "lat": "46.9166666667"
   }]
 }

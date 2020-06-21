@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.09090909090909091], ["weekly", 0.09091133133686327], ["triweekly", 0.09036915731970473]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 265.5646443990002], ["weekly", 265.5646443990002], ["triweekly", 260.4251198320727]],
     "lat": "ReplaceMeAllegany,Maryland"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.17998872141355332], ["triweekly", 0.46475814523308917]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.40575193949427085], ["triweekly", 0.6086279092414062]],
+    "locale": "Allegany,Maryland",
+    "long": "ReplaceMeAllegany,Maryland",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0015361131108946324], ["triweekly", 0.0023488126934524665]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.09090909090909091], ["weekly", 0.09077093119646311], ["triweekly", 0.09068532055721629]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 265.5646443990002], ["weekly", 265.9703963384945], ["triweekly", 261.03374774131413]],
+    "lat": "ReplaceMeAllegany,Maryland"
   }]
 }

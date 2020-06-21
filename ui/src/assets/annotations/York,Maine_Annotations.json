@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.024390243902439025], ["weekly", 0.024893799601048726], ["triweekly", 0.025314229836409883]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 217.20180503850395], ["weekly", 212.86740094682645], ["triweekly", 200.2540557064953]],
     "lat": "ReplaceMeYork,Maine"
+  }, {
+    "movingAverageGrowthRate": [["daily", 6.0], ["weekly", 0.8591733660532993], ["triweekly", 0.9899058612467914]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.889602727784975], ["weekly", 1.3760012989452262], ["triweekly", 1.8576017535760552]],
+    "locale": "York,Maine",
+    "long": "ReplaceMeYork,Maine",
+    "movingAverageEstimatedAlpha": [["daily", 0.013216051391526484], ["weekly", 0.006479892771275887], ["triweekly", 0.009426873041162324]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.024070021881838075], ["weekly", 0.02473211419234844], ["triweekly", 0.025317368863939153]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 220.0914077662889], ["weekly", 214.2434022457717], ["triweekly", 202.11165746007134]],
+    "lat": "ReplaceMeYork,Maine"
   }]
 }

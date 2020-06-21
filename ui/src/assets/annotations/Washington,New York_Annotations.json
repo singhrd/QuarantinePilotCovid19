@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.04526748971193416], ["weekly", 0.045374600469114075], ["triweekly", 0.046044335848609924]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 397.03287366838765], ["weekly", 396.0992278749288], ["triweekly", 390.419549298054]],
     "lat": "ReplaceMeWashington,New York"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["triweekly", 0.38672035049727277]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.4668228967294388], ["triweekly", 0.9336457934588774]],
+    "locale": "Washington,New York",
+    "long": "ReplaceMeWashington,New York",
+    "movingAverageEstimatedAlpha": [["daily", 0.0], ["weekly", 0.0011806442642704948], ["triweekly", 0.002411606324702619]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.04526748971193416], ["weekly", 0.045320934209823104], ["triweekly", 0.045932356900652144]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 397.03287366838765], ["weekly", 396.5660507716583], ["triweekly", 391.3531950915129]],
+    "lat": "ReplaceMeWashington,New York"
   }]
 }

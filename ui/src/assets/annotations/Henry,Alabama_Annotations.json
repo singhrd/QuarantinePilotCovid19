@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.01818181818181818], ["weekly", 0.019429218236817036], ["triweekly", 0.022804104469778815]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 639.3490264458006], ["weekly", 600.3238261302777], ["triweekly", 518.3985829147119]],
     "lat": "ReplaceMeHenry,Alabama"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 1.3988095238095237], ["triweekly", 1.323011823355422]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 5.812263876780006], ["weekly", 13.285174575497157], ["triweekly", 10.79420434259144]],
+    "locale": "Henry,Alabama",
+    "long": "ReplaceMeHenry,Alabama",
+    "movingAverageEstimatedAlpha": [["daily", 0.009049835519917337], ["weekly", 0.02245508336034468], ["triweekly", 0.020847642321481005]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.018018018018018018], ["weekly", 0.018987107156408084], ["triweekly", 0.02232852371250792]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 645.1612903225806], ["weekly", 613.6090007057749], ["triweekly", 529.1927872573036]],
+    "lat": "ReplaceMeHenry,Alabama"
   }]
 }

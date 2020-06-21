@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.016129032258064516], ["weekly", 0.01791166850798689], ["triweekly", 0.01909033050302282]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 525.4237288135594], ["weekly", 473.3656174334141], ["triweekly", 445.5205811138016]],
     "lat": "ReplaceMeChippewa,Minnesota"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.5], ["weekly", 1.1428571428571428], ["triweekly", 0.5339806839103746]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 16.949152542372882], ["weekly", 9.685230024213075], ["triweekly", 7.263922518159805]],
+    "locale": "Chippewa,Minnesota",
+    "long": "ReplaceMeChippewa,Minnesota",
+    "movingAverageEstimatedAlpha": [["daily", 0.031748698314579826], ["weekly", 0.019735762640116734], ["triweekly", 0.01633070243461098]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.015625], ["weekly", 0.017570313327922034], ["triweekly", 0.018776128575917667]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 542.3728813559322], ["weekly", 483.0508474576271], ["triweekly", 452.78450363196134]],
+    "lat": "ReplaceMeChippewa,Minnesota"
   }]
 }

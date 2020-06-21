@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.08333333333333333], ["weekly", 0.08709768492377189], ["triweekly", 0.10421538330793569]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 71.30336611307526], ["weekly", 68.33239252503044], ["triweekly", 58.570622164311814]],
     "lat": "ReplaceMeGibson,Indiana"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["triweekly", 0.37112859647543334]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.9709735880448025], ["weekly", 0.8488495965842293], ["triweekly", 1.4147493276403822]],
+    "locale": "Gibson,Indiana",
+    "long": "ReplaceMeGibson,Indiana",
+    "movingAverageEstimatedAlpha": [["daily", 0.04082199452025481], ["weekly", 0.01243019671280424], ["triweekly", 0.025666500034889874]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.08], ["weekly", 0.0860154338415208], ["triweekly", 0.10138091618775427]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 74.27433970112006], ["weekly", 69.18124212161467], ["triweekly", 59.9853714919522]],
+    "lat": "ReplaceMeGibson,Indiana"
   }]
 }

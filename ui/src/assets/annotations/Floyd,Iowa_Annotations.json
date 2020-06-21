@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.038461538461538464], ["weekly", 0.04901051329622758], ["triweekly", 0.05156379404499705]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 166.21915356092572], ["weekly", 130.6007635121559], ["triweekly", 124.20771914442801]],
     "lat": "ReplaceMeFloyd,Iowa"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.0], ["weekly", 0.7142857142857143], ["triweekly", 0.23809523809523808]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 25.572177470911647], ["weekly", 5.479752315195354], ["triweekly", 2.435445473420157]],
+    "locale": "Floyd,Iowa",
+    "long": "ReplaceMeFloyd,Iowa",
+    "movingAverageEstimatedAlpha": [["daily", 0.14310084364067333], ["weekly", 0.037480609209641615], ["triweekly", 0.017510703815491316]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.03333333333333333], ["weekly", 0.04736216164787594], ["triweekly", 0.05074979323099625]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 191.79133103183736], ["weekly", 136.08051582735126], ["triweekly", 126.64316461784817]],
+    "lat": "ReplaceMeFloyd,Iowa"
   }]
 }

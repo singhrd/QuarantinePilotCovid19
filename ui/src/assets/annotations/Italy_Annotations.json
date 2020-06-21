@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.14491999042656376], ["weekly", 0.14484786453603166], ["triweekly", 0.14416720683273115]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 393.7851656788266], ["weekly", 391.7991301353286], ["triweekly", 388.47048921252014]],
     "lat": "41.9"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.0], ["weekly", 1.09841646017774], ["triweekly", 1.100793199613537]],
+    "movingAverageConfirmedDailyPer100k": [["daily", -0.24471132529304515], ["weekly", 0.4764312192240078], ["triweekly", 0.506035935540026]],
+    "locale": "Italy",
+    "long": "12.483333",
+    "movingAverageEstimatedAlpha": [["daily", -0.000621626749966353], ["weekly", 0.0012150284065339484], ["triweekly", 0.0013027136340098317]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.1452075744398368], ["weekly", 0.14488095381482496], ["triweekly", 0.14425774640133143]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 393.54045435353356], ["weekly", 392.2755613545526], ["triweekly", 388.97652514806003]],
+    "lat": "41.9"
   }]
 }

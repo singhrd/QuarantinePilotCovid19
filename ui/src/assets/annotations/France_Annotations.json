@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.1516141587119505], ["weekly", 0.15187520681230146], ["triweekly", 0.15249129434181524]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 299.2920735175316], ["weekly", 297.13863952140247], ["triweekly", 293.0187601038971]],
     "lat": "48.8666666667"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.7366167023554604], ["weekly", 2.2545809338666047], ["triweekly", 1.475574908196514]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 1.2430142141357599], ["weekly", 0.6084792145646075], ["triweekly", 0.6501538734966443]],
+    "locale": "France",
+    "long": "2.333333",
+    "movingAverageEstimatedAlpha": [["daily", 0.004144580551752597], ["weekly", 0.0020476669997659008], ["triweekly", 0.0022234146608081993]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.15105848033740815], ["weekly", 0.1517532463498724], ["triweekly", 0.15238664023280432]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 300.5350877316674], ["weekly", 297.74711873596704], ["triweekly", 293.66891397739363]],
+    "lat": "48.8666666667"
   }]
 }

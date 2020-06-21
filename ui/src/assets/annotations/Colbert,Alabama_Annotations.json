@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.01718213058419244], ["weekly", 0.019156836058260657], ["triweekly", 0.015874745006032982]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 526.7826433265147], ["weekly", 474.0267968667166], ["triweekly", 394.37581299604074]],
     "lat": "ReplaceMeColbert,Alabama"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.75], ["weekly", 1.1942176870748298], ["triweekly", 1.231720489550544]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 10.861497800546696], ["weekly", 13.706175795927974], ["triweekly", 11.206307254532302]],
+    "locale": "Colbert,Alabama",
+    "long": "ReplaceMeColbert,Alabama",
+    "movingAverageEstimatedAlpha": [["daily", 0.02040887163120697], ["weekly", 0.028721799071431114], ["triweekly", 0.028186614389858557]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.016835016835016835], ["weekly", 0.01861022566152464], ["triweekly", 0.016101400736306566]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 537.6441411270615], ["weekly", 487.7329726626445], ["triweekly", 405.58212025057304]],
+    "lat": "ReplaceMeColbert,Alabama"
   }]
 }

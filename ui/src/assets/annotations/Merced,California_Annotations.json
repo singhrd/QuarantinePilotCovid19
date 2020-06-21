@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.01486988847583643], ["weekly", 0.016671443352319463], ["triweekly", 0.020230928820738802]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 193.7481993661769], ["weekly", 155.11174219039387], ["triweekly", 128.87393505371028]],
     "lat": "ReplaceMeMerced,California"
+  }, {
+    "movingAverageGrowthRate": [["daily", 1.3], ["weekly", 0.8147931303669009], ["triweekly", 1.0748043026063856]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 9.363295880149812], ["weekly", 7.562662057044078], ["triweekly", 4.424414536774087]],
+    "locale": "Merced,California",
+    "long": "ReplaceMeMerced,California",
+    "movingAverageEstimatedAlpha": [["daily", 0.04719569133627477], ["weekly", 0.04559300002520266], ["triweekly", 0.031098521761549296]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.014184397163120567], ["weekly", 0.016238168377548566], ["triweekly", 0.019748542557683393]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 203.11149524632668], ["weekly", 162.67440424743796], ["triweekly", 133.29834959048438]],
+    "lat": "ReplaceMeMerced,California"
   }]
 }

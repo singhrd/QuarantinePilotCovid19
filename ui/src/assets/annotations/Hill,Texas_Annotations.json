@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.021739130434782608], ["weekly", 0.02767916595976703], ["triweekly", 0.035073885132936064]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 125.5150208736937], ["weekly", 99.008743173659], ["triweekly", 80.29842950304631]],
     "lat": "ReplaceMeHill,Texas"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.2], ["weekly", 0.9285714285714287], ["triweekly", 0.6161503613693059]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 2.728587410297689], ["weekly", 5.06737661912428], ["triweekly", 2.8585201441213886]],
+    "locale": "Hill,Texas",
+    "long": "ReplaceMeHill,Texas",
+    "movingAverageEstimatedAlpha": [["daily", 0.02150620522096336], ["weekly", 0.04744769071751641], ["triweekly", 0.030980360292435682]],
+    "date": "06/19/2020",
+    "movingAverageDeathRate": [["daily", 0.02127659574468085], ["weekly", 0.026455751692874507], ["triweekly", 0.03412495483617969]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 128.2436082839914], ["weekly", 104.07611979278329], ["triweekly", 83.15694964716768]],
+    "lat": "ReplaceMeHill,Texas"
   }]
 }

@@ -1489,5 +1489,15 @@
     "movingAverageDeathRate": [["daily", 0.015677491601343786], ["weekly", 0.015905714428844357], ["triweekly", 0.015938930144029223]],
     "movingAverageConfirmedCumulativePer100k": [["daily", 22.377133125900066], ["weekly", 21.6039031218696], ["triweekly", 20.439285091107678]],
     "lat": "41.6833333333"
+  }, {
+    "movingAverageGrowthRate": [["daily", 0.6], ["weekly", 1.1108092921871227], ["triweekly", 1.3839829027755128]],
+    "movingAverageConfirmedDailyPer100k": [["daily", 0.07517513928073931], ["weekly", 0.22194564930503982], ["triweekly", 0.18495470775419987]],
+    "locale": "Georgia",
+    "long": "44.833333",
+    "movingAverageEstimatedAlpha": [["daily", 0.0033538320984316528], ["weekly", 0.010279540860150023], ["triweekly", 0.009078226489334582]],
+    "date": "6/19/20",
+    "movingAverageDeathRate": [["daily", 0.015625], ["weekly", 0.015910527136548787], ["triweekly", 0.015911183905920546]],
+    "movingAverageConfirmedCumulativePer100k": [["daily", 22.452308265180804], ["weekly", 21.82584877117464], ["triweekly", 20.62423979886188]],
+    "lat": "41.6833333333"
   }]
 }
