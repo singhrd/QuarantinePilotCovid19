@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 27.292576419213976,
     "locale": "Knox,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 27.292576419213976,
     "long": "ReplaceMeKnox,Texas",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKnox,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01832,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeKnox,Texas",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeKnox,Texas",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.01832,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Knox,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeKnox,Texas",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKnox,Texas",
     "active": 0

@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.0147471347279,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": 8.0147471347279,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 16.0294942694558,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": 16.0294942694558,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.0147471347279,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": 8.0147471347279,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 16.0294942694558,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": 16.0294942694558,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.0147471347279,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": 8.0147471347279,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.0147471347279,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": 8.0147471347279,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.0147471347279,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": -8.0147471347279,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.0147471347279,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": 8.0147471347279,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.0147471347279,
     "locale": "Fulton,Arkansas",
-    "activePer100k": 0.0,
+    "activePer100k": 8.0147471347279,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.062385,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeFulton,Arkansas",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFulton,Arkansas",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.062385,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Fulton,Arkansas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeFulton,Arkansas",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Arkansas",
     "active": 0

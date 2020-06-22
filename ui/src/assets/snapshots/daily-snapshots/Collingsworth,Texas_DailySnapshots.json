@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 34.24657534246575,
     "locale": "Collingsworth,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 34.24657534246575,
     "long": "ReplaceMeCollingsworth,Texas",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCollingsworth,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0146,
     "source": "NYGithub",
@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 102.73972602739725,
     "locale": "Collingsworth,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 102.73972602739725,
     "long": "ReplaceMeCollingsworth,Texas",
     "date": "05/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCollingsworth,Texas",
-    "active": 0
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 0.0146,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 34.24657534246575,
     "locale": "Collingsworth,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 34.24657534246575,
     "long": "ReplaceMeCollingsworth,Texas",
     "date": "05/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCollingsworth,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0146,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeCollingsworth,Texas",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCollingsworth,Texas",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.0146,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Collingsworth,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeCollingsworth,Texas",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCollingsworth,Texas",
     "active": 0

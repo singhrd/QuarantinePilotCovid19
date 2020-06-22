@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 10.229132569558102,
     "locale": "Lewis,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 10.229132569558102,
     "long": "ReplaceMeLewis,Missouri",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLewis,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.04888,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lewis,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": -10.229132569558102,
     "long": "ReplaceMeLewis,Missouri",
     "date": "04/22/2020",
     "deathsPer100k": 10.229132569558102,
     "lat": "ReplaceMeLewis,Missouri",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.04888,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 51.145662847790504,
     "locale": "Lewis,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 51.145662847790504,
     "long": "ReplaceMeLewis,Missouri",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLewis,Missouri",
-    "active": 0
+    "active": 5
   }, {
     "epidemiccontrolThreshold": 0.04888,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 10.229132569558102,
     "locale": "Lewis,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 10.229132569558102,
     "long": "ReplaceMeLewis,Missouri",
     "date": "05/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLewis,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.04888,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeLewis,Missouri",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLewis,Missouri",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.04888,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Lewis,Missouri",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeLewis,Missouri",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLewis,Missouri",
     "active": 0

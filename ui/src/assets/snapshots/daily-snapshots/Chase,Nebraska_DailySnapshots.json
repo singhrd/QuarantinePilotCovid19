@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 25.484199796126404,
     "locale": "Chase,Nebraska",
-    "activePer100k": 0.0,
+    "activePer100k": 25.484199796126404,
     "long": "ReplaceMeChase,Nebraska",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChase,Nebraska",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01962,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeChase,Nebraska",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeChase,Nebraska",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.01962,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Chase,Nebraska",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeChase,Nebraska",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChase,Nebraska",
     "active": 0

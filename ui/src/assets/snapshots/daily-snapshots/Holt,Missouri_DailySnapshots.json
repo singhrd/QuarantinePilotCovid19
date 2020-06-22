@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 22.711787417669772,
     "locale": "Holt,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 22.711787417669772,
     "long": "ReplaceMeHolt,Missouri",
     "date": "04/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHolt,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.022015,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 22.711787417669772,
     "locale": "Holt,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 22.711787417669772,
     "long": "ReplaceMeHolt,Missouri",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHolt,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.022015,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -22.711787417669772,
     "locale": "Holt,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": -22.711787417669772,
     "long": "ReplaceMeHolt,Missouri",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHolt,Missouri",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.022015,
     "source": "NYGithub",
@@ -2399,5 +2399,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHolt,Missouri",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.022015,
+    "source": "NYGithub",
+    "confirmedPer100kN": 22.711787417669772,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 22.711787417669772,
+    "locale": "Holt,Missouri",
+    "activePer100k": 22.711787417669772,
+    "long": "ReplaceMeHolt,Missouri",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHolt,Missouri",
+    "active": 1
   }]
 }

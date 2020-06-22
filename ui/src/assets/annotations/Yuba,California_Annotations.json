@@ -1639,8 +1639,8 @@
     "lat": "ReplaceMeYuba,California",
     "movAvgGrowthRate": [["daily", 0.0], ["weekly", 0.8571428571428571], ["triweekly", 0.42857142857142855]]
   }, {
-    "movAvgCFRTA": [["daily", 0.11428571428571428], ["weekly", 0.03085211357270181], ["triweekly", 0.03314239143259016]],
-    "movAvgCFR": [["daily", 0.10256410256410256], ["weekly", 0.027400163114448824], ["triweekly", 0.030429661379958627]],
+    "movAvgCFRTA": [["daily", 0.02857142857142857], ["weekly", 0.03085211357270181], ["triweekly", 0.03314239143259016]],
+    "movAvgCFR": [["daily", 0.02564102564102564], ["weekly", 0.027400163114448824], ["triweekly", 0.030429661379958627]],
     "locale": "Yuba,California",
     "long": "ReplaceMeYuba,California",
     "movAvgConfirmedCumulativePer100k": [["daily", 49.57543092489958], ["weekly", 46.48831617866041], ["triweekly", 42.06950487522004]],
@@ -1649,5 +1649,16 @@
     "movAvgConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.907974925364461], ["triweekly", 0.6053166169096407]],
     "lat": "ReplaceMeYuba,California",
     "movAvgGrowthRate": [["daily", 0.0], ["weekly", 0.7142857142857143], ["triweekly", 0.42857142857142855]]
+  }, {
+    "movAvgCFRTA": [["daily", 0.02857142857142857], ["weekly", 0.03046946051147732], ["triweekly", 0.03280225537816839]],
+    "movAvgCFR": [["daily", 0.023809523809523808], ["weekly", 0.026981534124391266], ["triweekly", 0.03000862647616511]],
+    "locale": "Yuba,California",
+    "long": "ReplaceMeYuba,California",
+    "movAvgConfirmedCumulativePer100k": [["daily", 53.38892561143031], ["weekly", 47.21469611895198], ["triweekly", 42.67482149212968]],
+    "date": "06/20/2020",
+    "movAvgEstimatedAlpha": [["daily", 0.07410797215372211], ["weekly", 0.015459083520033255], ["triweekly", 0.014107896006817722]],
+    "movAvgConfirmedDailyPer100k": [["daily", 3.8134946865307366], ["weekly", 0.7263799402915688], ["triweekly", 0.6053166169096407]],
+    "lat": "ReplaceMeYuba,California",
+    "movAvgGrowthRate": [["daily", 1.1447142425533319], ["weekly", 0.5714285714285714], ["triweekly", 0.42857142857142855]]
   }]
 }

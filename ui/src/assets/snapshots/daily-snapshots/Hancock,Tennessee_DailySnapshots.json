@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 15.105740181268883,
     "locale": "Hancock,Tennessee",
-    "activePer100k": 0.0,
+    "activePer100k": 15.105740181268883,
     "long": "ReplaceMeHancock,Tennessee",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHancock,Tennessee",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0331,
     "source": "NYGithub",
@@ -2201,12 +2201,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 15.105740181268883,
     "locale": "Hancock,Tennessee",
-    "activePer100k": 0.0,
+    "activePer100k": 15.105740181268883,
     "long": "ReplaceMeHancock,Tennessee",
     "date": "06/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHancock,Tennessee",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0331,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -15.105740181268883,
     "locale": "Hancock,Tennessee",
-    "activePer100k": 0.0,
+    "activePer100k": -15.105740181268883,
     "long": "ReplaceMeHancock,Tennessee",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHancock,Tennessee",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.0331,
     "source": "NYGithub",
@@ -2393,11 +2393,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 15.105740181268883,
     "locale": "Hancock,Tennessee",
-    "activePer100k": 0.0,
+    "activePer100k": 15.105740181268883,
     "long": "ReplaceMeHancock,Tennessee",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHancock,Tennessee",
-    "active": 0
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.0331,
+    "source": "NYGithub",
+    "confirmedPer100kN": 15.105740181268883,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 15.105740181268883,
+    "locale": "Hancock,Tennessee",
+    "activePer100k": 15.105740181268883,
+    "long": "ReplaceMeHancock,Tennessee",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHancock,Tennessee",
+    "active": 1
   }]
 }

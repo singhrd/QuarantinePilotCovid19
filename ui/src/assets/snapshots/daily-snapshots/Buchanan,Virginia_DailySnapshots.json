@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 4.760997905160922,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": 4.760997905160922,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 4.760997905160922,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": 4.760997905160922,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 47.609979051609216,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": 47.609979051609216,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": 10
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 4.760997905160922,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": 4.760997905160922,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "04/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 4.760997905160922,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": 4.760997905160922,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 9.521995810321844,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": 9.521995810321844,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "04/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 9.521995810321844,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": 9.521995810321844,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 4.760997905160922,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": 4.760997905160922,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "05/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.760997905160922,
     "locale": "Buchanan,Virginia",
-    "activePer100k": 0.0,
+    "activePer100k": -4.760997905160922,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.10502,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeBuchanan,Virginia",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBuchanan,Virginia",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.10502,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Buchanan,Virginia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBuchanan,Virginia",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Virginia",
     "active": 0

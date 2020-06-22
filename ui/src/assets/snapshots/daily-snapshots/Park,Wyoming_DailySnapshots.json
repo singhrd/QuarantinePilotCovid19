@@ -889,12 +889,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 3.425361375625129,
     "locale": "Park,Wyoming",
-    "activePer100k": 0.0,
+    "activePer100k": 3.425361375625129,
     "long": "ReplaceMePark,Wyoming",
     "date": "03/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePark,Wyoming",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.14597,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 3.425361375625129,
     "locale": "Park,Wyoming",
-    "activePer100k": 0.0,
+    "activePer100k": 3.425361375625129,
     "long": "ReplaceMePark,Wyoming",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePark,Wyoming",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.14597,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 3.425361375625129,
     "locale": "Park,Wyoming",
-    "activePer100k": 0.0,
+    "activePer100k": 3.425361375625129,
     "long": "ReplaceMePark,Wyoming",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePark,Wyoming",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.14597,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.850722751250258,
     "locale": "Park,Wyoming",
-    "activePer100k": 0.0,
+    "activePer100k": 6.850722751250258,
     "long": "ReplaceMePark,Wyoming",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePark,Wyoming",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.14597,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.850722751250258,
     "locale": "Park,Wyoming",
-    "activePer100k": 0.0,
+    "activePer100k": 6.850722751250258,
     "long": "ReplaceMePark,Wyoming",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePark,Wyoming",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.14597,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 3.425361375625129,
     "locale": "Park,Wyoming",
-    "activePer100k": 0.0,
+    "activePer100k": 3.425361375625129,
     "long": "ReplaceMePark,Wyoming",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePark,Wyoming",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.14597,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.850722751250258,
     "locale": "Park,Wyoming",
-    "activePer100k": 0.0,
+    "activePer100k": 6.850722751250258,
     "long": "ReplaceMePark,Wyoming",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePark,Wyoming",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.14597,
     "source": "NYGithub",
@@ -2393,11 +2393,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.425361375625129,
     "locale": "Park,Wyoming",
-    "activePer100k": 0.0,
+    "activePer100k": -3.425361375625129,
     "long": "ReplaceMePark,Wyoming",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePark,Wyoming",
-    "active": 0
+    "active": -1
+  }, {
+    "epidemiccontrolThreshold": 0.14597,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.850722751250258,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.850722751250258,
+    "locale": "Park,Wyoming",
+    "activePer100k": 6.850722751250258,
+    "long": "ReplaceMePark,Wyoming",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePark,Wyoming",
+    "active": 2
   }]
 }

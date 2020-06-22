@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.334722453742291,
     "locale": "Ward,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 8.334722453742291,
     "long": "ReplaceMeWard,Texas",
     "date": "05/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWard,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.05999,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.334722453742291,
     "locale": "Ward,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 8.334722453742291,
     "long": "ReplaceMeWard,Texas",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWard,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.05999,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 16.669444907484582,
     "locale": "Ward,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 16.669444907484582,
     "long": "ReplaceMeWard,Texas",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWard,Texas",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.05999,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 25.00416736122687,
     "locale": "Ward,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 25.00416736122687,
     "long": "ReplaceMeWard,Texas",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWard,Texas",
-    "active": 0
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 0.05999,
     "source": "NYGithub",
@@ -2399,5 +2399,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWard,Texas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.05999,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.334722453742291,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.334722453742291,
+    "locale": "Ward,Texas",
+    "activePer100k": 8.334722453742291,
+    "long": "ReplaceMeWard,Texas",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWard,Texas",
+    "active": 1
   }]
 }

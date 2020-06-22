@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 18.513375914097935,
     "locale": "Richland,Montana",
-    "activePer100k": 0.0,
+    "activePer100k": 18.513375914097935,
     "long": "ReplaceMeRichland,Montana",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichland,Montana",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.054015,
     "source": "NYGithub",
@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 9.256687957048968,
     "locale": "Richland,Montana",
-    "activePer100k": 0.0,
+    "activePer100k": 9.256687957048968,
     "long": "ReplaceMeRichland,Montana",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichland,Montana",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.054015,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 18.513375914097935,
     "locale": "Richland,Montana",
-    "activePer100k": 0.0,
+    "activePer100k": 18.513375914097935,
     "long": "ReplaceMeRichland,Montana",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichland,Montana",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.054015,
     "source": "NYGithub",
@@ -2399,5 +2399,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichland,Montana",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.054015,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.256687957048968,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.256687957048968,
+    "locale": "Richland,Montana",
+    "activePer100k": 9.256687957048968,
+    "long": "ReplaceMeRichland,Montana",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRichland,Montana",
+    "active": 1
   }]
 }

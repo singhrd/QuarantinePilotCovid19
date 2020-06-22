@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 18.436578171091448,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": 18.436578171091448,
     "long": "ReplaceMeDay,South Dakota",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 55.30973451327434,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": 55.30973451327434,
     "long": "ReplaceMeDay,South Dakota",
     "date": "05/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 73.74631268436579,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": 73.74631268436579,
     "long": "ReplaceMeDay,South Dakota",
     "date": "05/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": 4
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 36.873156342182895,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": 36.873156342182895,
     "long": "ReplaceMeDay,South Dakota",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 18.436578171091448,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": 18.436578171091448,
     "long": "ReplaceMeDay,South Dakota",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 18.436578171091448,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": 18.436578171091448,
     "long": "ReplaceMeDay,South Dakota",
     "date": "05/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 18.436578171091448,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": 18.436578171091448,
     "long": "ReplaceMeDay,South Dakota",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 18.436578171091448,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": 18.436578171091448,
     "long": "ReplaceMeDay,South Dakota",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -18.436578171091448,
     "locale": "Day,South Dakota",
-    "activePer100k": 0.0,
+    "activePer100k": -18.436578171091448,
     "long": "ReplaceMeDay,South Dakota",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.02712,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeDay,South Dakota",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDay,South Dakota",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.02712,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Day,South Dakota",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeDay,South Dakota",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDay,South Dakota",
     "active": 0

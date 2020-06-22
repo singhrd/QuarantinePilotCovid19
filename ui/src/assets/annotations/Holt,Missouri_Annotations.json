@@ -1649,5 +1649,16 @@
     "movAvgConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "ReplaceMeHolt,Missouri",
     "movAvgGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]]
+  }, {
+    "movAvgCFRTA": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movAvgCFR": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "locale": "Holt,Missouri",
+    "long": "ReplaceMeHolt,Missouri",
+    "movAvgConfirmedCumulativePer100k": [["daily", 45.423574835339544], ["weekly", 22.711787417669772], ["triweekly", 25.956328477336882]],
+    "date": "06/20/2020",
+    "movAvgEstimatedAlpha": [["daily", 0.6931471805599453], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movAvgConfirmedDailyPer100k": [["daily", 22.711787417669772], ["weekly", 0.0], ["triweekly", 0.0]],
+    "lat": "ReplaceMeHolt,Missouri",
+    "movAvgGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]]
   }]
 }

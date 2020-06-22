@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 1.0,
     "locale": "Unknown,Alaska",
-    "activePer100k": 0.0,
+    "activePer100k": 1.0,
     "long": "ReplaceMeUnknown,Alaska",
     "date": "04/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnknown,Alaska",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.5,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 1.0,
     "locale": "Unknown,Alaska",
-    "activePer100k": 0.0,
+    "activePer100k": 1.0,
     "long": "ReplaceMeUnknown,Alaska",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnknown,Alaska",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.5,
     "source": "NYGithub",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 1.0,
     "locale": "Unknown,Alaska",
-    "activePer100k": 0.0,
+    "activePer100k": 1.0,
     "long": "ReplaceMeUnknown,Alaska",
     "date": "06/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnknown,Alaska",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.5,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.0,
     "locale": "Unknown,Alaska",
-    "activePer100k": 0.0,
+    "activePer100k": -2.0,
     "long": "ReplaceMeUnknown,Alaska",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnknown,Alaska",
-    "active": 0
+    "active": -2
   }, {
     "epidemiccontrolThreshold": 0.5,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 1.0,
     "locale": "Unknown,Alaska",
-    "activePer100k": 0.0,
+    "activePer100k": 1.0,
     "long": "ReplaceMeUnknown,Alaska",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnknown,Alaska",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.5,
     "source": "NYGithub",
@@ -1593,11 +1593,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 10.0,
     "locale": "Unknown,Alaska",
-    "activePer100k": 0.0,
+    "activePer100k": 10.0,
     "long": "ReplaceMeUnknown,Alaska",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnknown,Alaska",
-    "active": 0
+    "active": 10
+  }, {
+    "epidemiccontrolThreshold": 0.5,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.0,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.0,
+    "locale": "Unknown,Alaska",
+    "activePer100k": 1.0,
+    "long": "ReplaceMeUnknown,Alaska",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeUnknown,Alaska",
+    "active": 1
   }]
 }

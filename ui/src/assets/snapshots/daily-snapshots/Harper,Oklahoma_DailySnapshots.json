@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 27.114967462039044,
     "locale": "Harper,Oklahoma",
-    "activePer100k": 0.0,
+    "activePer100k": 27.114967462039044,
     "long": "ReplaceMeHarper,Oklahoma",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHarper,Oklahoma",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01844,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeHarper,Oklahoma",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHarper,Oklahoma",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.01844,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Harper,Oklahoma",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeHarper,Oklahoma",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHarper,Oklahoma",
     "active": 0

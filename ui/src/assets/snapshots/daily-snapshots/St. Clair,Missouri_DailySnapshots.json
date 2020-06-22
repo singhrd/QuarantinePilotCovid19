@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 21.283388315419817,
     "locale": "St. Clair,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 21.283388315419817,
     "long": "ReplaceMeSt. Clair,Missouri",
     "date": "04/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Clair,Missouri",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.046985,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 10.641694157709908,
     "locale": "St. Clair,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 10.641694157709908,
     "long": "ReplaceMeSt. Clair,Missouri",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Clair,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.046985,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.641694157709908,
     "locale": "St. Clair,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": -10.641694157709908,
     "long": "ReplaceMeSt. Clair,Missouri",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Clair,Missouri",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.046985,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeSt. Clair,Missouri",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSt. Clair,Missouri",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.046985,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "St. Clair,Missouri",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeSt. Clair,Missouri",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Clair,Missouri",
     "active": 0

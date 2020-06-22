@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 7.2711408419981085,
     "locale": "Glacier,Montana",
-    "activePer100k": 0.0,
+    "activePer100k": 7.2711408419981085,
     "long": "ReplaceMeGlacier,Montana",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGlacier,Montana",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.068765,
     "source": "NYGithub",
@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 7.2711408419981085,
     "locale": "Glacier,Montana",
-    "activePer100k": 0.0,
+    "activePer100k": 7.2711408419981085,
     "long": "ReplaceMeGlacier,Montana",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGlacier,Montana",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.068765,
     "source": "NYGithub",
@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 7.2711408419981085,
     "locale": "Glacier,Montana",
-    "activePer100k": 0.0,
+    "activePer100k": 7.2711408419981085,
     "long": "ReplaceMeGlacier,Montana",
     "date": "04/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGlacier,Montana",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.068765,
     "source": "NYGithub",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 7.2711408419981085,
     "locale": "Glacier,Montana",
-    "activePer100k": 0.0,
+    "activePer100k": 7.2711408419981085,
     "long": "ReplaceMeGlacier,Montana",
     "date": "04/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGlacier,Montana",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.068765,
     "source": "NYGithub",
@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 14.542281683996217,
     "locale": "Glacier,Montana",
-    "activePer100k": 0.0,
+    "activePer100k": 14.542281683996217,
     "long": "ReplaceMeGlacier,Montana",
     "date": "04/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGlacier,Montana",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.068765,
     "source": "NYGithub",
@@ -2399,5 +2399,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGlacier,Montana",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.068765,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.2711408419981085,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.2711408419981085,
+    "locale": "Glacier,Montana",
+    "activePer100k": 7.2711408419981085,
+    "long": "ReplaceMeGlacier,Montana",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGlacier,Montana",
+    "active": 1
   }]
 }

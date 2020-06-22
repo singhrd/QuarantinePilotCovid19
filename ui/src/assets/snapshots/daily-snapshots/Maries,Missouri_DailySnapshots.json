@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 11.498217776244681,
     "locale": "Maries,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 11.498217776244681,
     "long": "ReplaceMeMaries,Missouri",
     "date": "03/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaries,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.043485,
     "source": "NYGithub",
@@ -1129,12 +1129,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 11.498217776244681,
     "locale": "Maries,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 11.498217776244681,
     "long": "ReplaceMeMaries,Missouri",
     "date": "04/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaries,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.043485,
     "source": "NYGithub",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.498217776244681,
     "locale": "Maries,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": -11.498217776244681,
     "long": "ReplaceMeMaries,Missouri",
     "date": "04/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaries,Missouri",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.043485,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 11.498217776244681,
     "locale": "Maries,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 11.498217776244681,
     "long": "ReplaceMeMaries,Missouri",
     "date": "04/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaries,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.043485,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeMaries,Missouri",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMaries,Missouri",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.043485,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Maries,Missouri",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMaries,Missouri",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaries,Missouri",
     "active": 0

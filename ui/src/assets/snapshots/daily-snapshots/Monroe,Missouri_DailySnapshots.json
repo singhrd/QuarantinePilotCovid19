@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 23.137436372049976,
     "locale": "Monroe,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 23.137436372049976,
     "long": "ReplaceMeMonroe,Missouri",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMonroe,Missouri",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.04322,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 11.568718186024988,
     "locale": "Monroe,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 11.568718186024988,
     "long": "ReplaceMeMonroe,Missouri",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMonroe,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.04322,
     "source": "NYGithub",
@@ -2393,11 +2393,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 11.568718186024988,
     "locale": "Monroe,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 11.568718186024988,
     "long": "ReplaceMeMonroe,Missouri",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMonroe,Missouri",
-    "active": 0
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.04322,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.568718186024988,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.568718186024988,
+    "locale": "Monroe,Missouri",
+    "activePer100k": 11.568718186024988,
+    "long": "ReplaceMeMonroe,Missouri",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMonroe,Missouri",
+    "active": 1
   }]
 }

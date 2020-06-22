@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 48.67759208177836,
     "locale": "Essex,Vermont",
-    "activePer100k": 0.0,
+    "activePer100k": 48.67759208177836,
     "long": "ReplaceMeEssex,Vermont",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEssex,Vermont",
-    "active": 0
+    "active": 3
   }, {
     "epidemiccontrolThreshold": 0.030815,
     "source": "NYGithub",
@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -32.4517280545189,
     "locale": "Essex,Vermont",
-    "activePer100k": 0.0,
+    "activePer100k": -32.4517280545189,
     "long": "ReplaceMeEssex,Vermont",
     "date": "04/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEssex,Vermont",
-    "active": 0
+    "active": -2
   }, {
     "epidemiccontrolThreshold": 0.030815,
     "source": "NYGithub",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 16.22586402725945,
     "locale": "Essex,Vermont",
-    "activePer100k": 0.0,
+    "activePer100k": 16.22586402725945,
     "long": "ReplaceMeEssex,Vermont",
     "date": "04/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEssex,Vermont",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.030815,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 16.22586402725945,
     "locale": "Essex,Vermont",
-    "activePer100k": 0.0,
+    "activePer100k": 16.22586402725945,
     "long": "ReplaceMeEssex,Vermont",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEssex,Vermont",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.030815,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeEssex,Vermont",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeEssex,Vermont",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.030815,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Essex,Vermont",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeEssex,Vermont",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEssex,Vermont",
     "active": 0

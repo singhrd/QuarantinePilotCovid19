@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 12.84191601386927,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 12.84191601386927,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "03/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.420958006934635,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 6.420958006934635,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "04/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": -6.420958006934635,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "04/18/2020",
     "deathsPer100k": 6.420958006934635,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.420958006934635,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 6.420958006934635,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "05/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 12.84191601386927,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 12.84191601386927,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.420958006934635,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": -6.420958006934635,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.420958006934635,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 6.420958006934635,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.420958006934635,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 6.420958006934635,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 12.84191601386927,
     "locale": "Marquette,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 12.84191601386927,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.07787,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeMarquette,Wisconsin",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMarquette,Wisconsin",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.07787,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Marquette,Wisconsin",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMarquette,Wisconsin",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarquette,Wisconsin",
     "active": 0

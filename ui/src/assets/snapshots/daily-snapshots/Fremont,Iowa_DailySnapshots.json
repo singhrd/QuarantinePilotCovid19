@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 14.367816091954024,
     "locale": "Fremont,Iowa",
-    "activePer100k": 0.0,
+    "activePer100k": 14.367816091954024,
     "long": "ReplaceMeFremont,Iowa",
     "date": "05/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFremont,Iowa",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0348,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 28.73563218390805,
     "locale": "Fremont,Iowa",
-    "activePer100k": 0.0,
+    "activePer100k": 28.73563218390805,
     "long": "ReplaceMeFremont,Iowa",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFremont,Iowa",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.0348,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 14.367816091954024,
     "locale": "Fremont,Iowa",
-    "activePer100k": 0.0,
+    "activePer100k": 14.367816091954024,
     "long": "ReplaceMeFremont,Iowa",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFremont,Iowa",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0348,
     "source": "NYGithub",
@@ -2393,11 +2393,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 14.367816091954024,
     "locale": "Fremont,Iowa",
-    "activePer100k": 0.0,
+    "activePer100k": 14.367816091954024,
     "long": "ReplaceMeFremont,Iowa",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFremont,Iowa",
-    "active": 0
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.0348,
+    "source": "NYGithub",
+    "confirmedPer100kN": -14.367816091954024,
+    "deaths": 0,
+    "confirmed": -1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -14.367816091954024,
+    "locale": "Fremont,Iowa",
+    "activePer100k": -14.367816091954024,
+    "long": "ReplaceMeFremont,Iowa",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFremont,Iowa",
+    "active": -1
   }]
 }

@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 9.877518767285657,
     "locale": "Dimmit,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 9.877518767285657,
     "long": "ReplaceMeDimmit,Texas",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDimmit,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.05062,
     "source": "NYGithub",
@@ -2393,9 +2393,25 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 19.755037534571315,
     "locale": "Dimmit,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 19.755037534571315,
     "long": "ReplaceMeDimmit,Texas",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDimmit,Texas",
+    "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.05062,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Dimmit,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeDimmit,Texas",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDimmit,Texas",
     "active": 0

@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 7.490075649764063,
     "locale": "Price,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 7.490075649764063,
     "long": "ReplaceMePrice,Wisconsin",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePrice,Wisconsin",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.066755,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 7.490075649764063,
     "locale": "Price,Wisconsin",
-    "activePer100k": 0.0,
+    "activePer100k": 7.490075649764063,
     "long": "ReplaceMePrice,Wisconsin",
     "date": "05/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePrice,Wisconsin",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.066755,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMePrice,Wisconsin",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePrice,Wisconsin",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.066755,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Price,Wisconsin",
+    "activePer100k": 0.0,
+    "long": "ReplaceMePrice,Wisconsin",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePrice,Wisconsin",
     "active": 0

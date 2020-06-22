@@ -953,12 +953,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 121.95121951219511,
     "locale": "Hinsdale,Colorado",
-    "activePer100k": 0.0,
+    "activePer100k": 121.95121951219511,
     "long": "ReplaceMeHinsdale,Colorado",
     "date": "03/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHinsdale,Colorado",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0041,
     "source": "NYGithub",
@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 121.95121951219511,
     "locale": "Hinsdale,Colorado",
-    "activePer100k": 0.0,
+    "activePer100k": 121.95121951219511,
     "long": "ReplaceMeHinsdale,Colorado",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHinsdale,Colorado",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0041,
     "source": "NYGithub",
@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 121.95121951219511,
     "locale": "Hinsdale,Colorado",
-    "activePer100k": 0.0,
+    "activePer100k": 121.95121951219511,
     "long": "ReplaceMeHinsdale,Colorado",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHinsdale,Colorado",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.0041,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeHinsdale,Colorado",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHinsdale,Colorado",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.0041,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Hinsdale,Colorado",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeHinsdale,Colorado",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHinsdale,Colorado",
     "active": 0

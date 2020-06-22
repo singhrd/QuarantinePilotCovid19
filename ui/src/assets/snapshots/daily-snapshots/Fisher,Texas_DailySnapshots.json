@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 26.109660574412533,
     "locale": "Fisher,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 26.109660574412533,
     "long": "ReplaceMeFisher,Texas",
     "date": "05/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFisher,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01915,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 26.109660574412533,
     "locale": "Fisher,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 26.109660574412533,
     "long": "ReplaceMeFisher,Texas",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFisher,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01915,
     "source": "NYGithub",
@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Fisher,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": -26.109660574412533,
     "long": "ReplaceMeFisher,Texas",
     "date": "05/23/2020",
     "deathsPer100k": 26.109660574412533,
     "lat": "ReplaceMeFisher,Texas",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.01915,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeFisher,Texas",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFisher,Texas",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.01915,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Fisher,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeFisher,Texas",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFisher,Texas",
     "active": 0

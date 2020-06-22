@@ -1081,12 +1081,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 130.03901170351105,
     "locale": "Mineral,Colorado",
-    "activePer100k": 0.0,
+    "activePer100k": 130.03901170351105,
     "long": "ReplaceMeMineral,Colorado",
     "date": "03/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMineral,Colorado",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.003845,
     "source": "NYGithub",
@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 130.03901170351105,
     "locale": "Mineral,Colorado",
-    "activePer100k": 0.0,
+    "activePer100k": 130.03901170351105,
     "long": "ReplaceMeMineral,Colorado",
     "date": "03/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMineral,Colorado",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.003845,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeMineral,Colorado",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMineral,Colorado",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.003845,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Mineral,Colorado",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMineral,Colorado",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMineral,Colorado",
     "active": 0

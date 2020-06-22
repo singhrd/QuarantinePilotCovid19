@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 36.68378576669112,
     "locale": "Concho,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 36.68378576669112,
     "long": "ReplaceMeConcho,Texas",
     "date": "04/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeConcho,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01363,
     "source": "NYGithub",
@@ -2399,5 +2399,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeConcho,Texas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.01363,
+    "source": "NYGithub",
+    "confirmedPer100kN": 36.68378576669112,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 36.68378576669112,
+    "locale": "Concho,Texas",
+    "activePer100k": 36.68378576669112,
+    "long": "ReplaceMeConcho,Texas",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeConcho,Texas",
+    "active": 1
   }]
 }

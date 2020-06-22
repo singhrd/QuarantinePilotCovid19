@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 50.51780752715332,
     "locale": "Knox,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 50.51780752715332,
     "long": "ReplaceMeKnox,Missouri",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKnox,Missouri",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.019795,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeKnox,Missouri",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeKnox,Missouri",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.019795,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Knox,Missouri",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeKnox,Missouri",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKnox,Missouri",
     "active": 0

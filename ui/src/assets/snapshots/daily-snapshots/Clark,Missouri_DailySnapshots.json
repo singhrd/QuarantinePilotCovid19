@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 14.712373105781962,
     "locale": "Clark,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 14.712373105781962,
     "long": "ReplaceMeClark,Missouri",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClark,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.033985,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 14.712373105781962,
     "locale": "Clark,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 14.712373105781962,
     "long": "ReplaceMeClark,Missouri",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClark,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.033985,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -14.712373105781962,
     "locale": "Clark,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": -14.712373105781962,
     "long": "ReplaceMeClark,Missouri",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClark,Missouri",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.033985,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeClark,Missouri",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeClark,Missouri",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.033985,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Clark,Missouri",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeClark,Missouri",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClark,Missouri",
     "active": 0

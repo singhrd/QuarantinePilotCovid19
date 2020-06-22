@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 10.198878123406425,
     "locale": "Stevens,Minnesota",
-    "activePer100k": 0.0,
+    "activePer100k": 10.198878123406425,
     "long": "ReplaceMeStevens,Minnesota",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStevens,Minnesota",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.049025,
     "source": "NYGithub",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 10.198878123406425,
     "locale": "Stevens,Minnesota",
-    "activePer100k": 0.0,
+    "activePer100k": 10.198878123406425,
     "long": "ReplaceMeStevens,Minnesota",
     "date": "05/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStevens,Minnesota",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.049025,
     "source": "NYGithub",
@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.198878123406425,
     "locale": "Stevens,Minnesota",
-    "activePer100k": 0.0,
+    "activePer100k": -10.198878123406425,
     "long": "ReplaceMeStevens,Minnesota",
     "date": "05/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStevens,Minnesota",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.049025,
     "source": "NYGithub",
@@ -2393,9 +2393,25 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 10.198878123406425,
     "locale": "Stevens,Minnesota",
-    "activePer100k": 0.0,
+    "activePer100k": 10.198878123406425,
     "long": "ReplaceMeStevens,Minnesota",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeStevens,Minnesota",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.049025,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Stevens,Minnesota",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeStevens,Minnesota",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStevens,Minnesota",
     "active": 0

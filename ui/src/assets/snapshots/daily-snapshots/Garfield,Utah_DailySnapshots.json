@@ -1065,12 +1065,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 19.798059790140567,
     "locale": "Garfield,Utah",
-    "activePer100k": 0.0,
+    "activePer100k": 19.798059790140567,
     "long": "ReplaceMeGarfield,Utah",
     "date": "03/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGarfield,Utah",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.025255,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 39.59611958028113,
     "locale": "Garfield,Utah",
-    "activePer100k": 0.0,
+    "activePer100k": 39.59611958028113,
     "long": "ReplaceMeGarfield,Utah",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGarfield,Utah",
-    "active": 0
+    "active": 2
   }, {
     "epidemiccontrolThreshold": 0.025255,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 19.798059790140567,
     "locale": "Garfield,Utah",
-    "activePer100k": 0.0,
+    "activePer100k": 19.798059790140567,
     "long": "ReplaceMeGarfield,Utah",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGarfield,Utah",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.025255,
     "source": "NYGithub",
@@ -2399,5 +2399,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGarfield,Utah",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.025255,
+    "source": "NYGithub",
+    "confirmedPer100kN": 19.798059790140567,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 19.798059790140567,
+    "locale": "Garfield,Utah",
+    "activePer100k": 19.798059790140567,
+    "long": "ReplaceMeGarfield,Utah",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGarfield,Utah",
+    "active": 1
   }]
 }

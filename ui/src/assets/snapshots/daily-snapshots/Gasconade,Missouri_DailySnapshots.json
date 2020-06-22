@@ -1129,12 +1129,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.799945600435197,
     "locale": "Gasconade,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 6.799945600435197,
     "long": "ReplaceMeGasconade,Missouri",
     "date": "04/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGasconade,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.07353,
     "source": "NYGithub",
@@ -1177,12 +1177,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.799945600435197,
     "locale": "Gasconade,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 6.799945600435197,
     "long": "ReplaceMeGasconade,Missouri",
     "date": "04/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGasconade,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.07353,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.799945600435197,
     "locale": "Gasconade,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 6.799945600435197,
     "long": "ReplaceMeGasconade,Missouri",
     "date": "05/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGasconade,Missouri",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.07353,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.799945600435197,
     "locale": "Gasconade,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": -6.799945600435197,
     "long": "ReplaceMeGasconade,Missouri",
     "date": "05/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGasconade,Missouri",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.07353,
     "source": "NYGithub",
@@ -2393,11 +2393,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 6.799945600435197,
     "locale": "Gasconade,Missouri",
-    "activePer100k": 0.0,
+    "activePer100k": 6.799945600435197,
     "long": "ReplaceMeGasconade,Missouri",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGasconade,Missouri",
-    "active": 0
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.07353,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.799945600435197,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.799945600435197,
+    "locale": "Gasconade,Missouri",
+    "activePer100k": 6.799945600435197,
+    "long": "ReplaceMeGasconade,Missouri",
+    "date": "06/20/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGasconade,Missouri",
+    "active": 1
   }]
 }

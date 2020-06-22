@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 33.738191632928476,
     "locale": "Hall,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 33.738191632928476,
     "long": "ReplaceMeHall,Texas",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHall,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01482,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 33.738191632928476,
     "locale": "Hall,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": 33.738191632928476,
     "long": "ReplaceMeHall,Texas",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHall,Texas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01482,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Hall,Texas",
-    "activePer100k": 0.0,
+    "activePer100k": -33.738191632928476,
     "long": "ReplaceMeHall,Texas",
     "date": "06/11/2020",
     "deathsPer100k": 33.738191632928476,
     "lat": "ReplaceMeHall,Texas",
-    "active": 0
+    "active": -1
   }, {
     "epidemiccontrolThreshold": 0.01482,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeHall,Texas",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHall,Texas",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.01482,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Hall,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeHall,Texas",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHall,Texas",
     "active": 0

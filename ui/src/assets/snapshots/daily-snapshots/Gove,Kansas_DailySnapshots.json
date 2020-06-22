@@ -1049,12 +1049,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 37.93626707132018,
     "locale": "Gove,Kansas",
-    "activePer100k": 0.0,
+    "activePer100k": 37.93626707132018,
     "long": "ReplaceMeGove,Kansas",
     "date": "03/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGove,Kansas",
-    "active": 0
+    "active": 1
   }, {
     "epidemiccontrolThreshold": 0.01318,
     "source": "NYGithub",
@@ -2396,6 +2396,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeGove,Kansas",
     "date": "06/19/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGove,Kansas",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.01318,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Gove,Kansas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeGove,Kansas",
+    "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGove,Kansas",
     "active": 0
