@@ -1660,5 +1660,27 @@
     "movAvgConfirmedDailyPer100k": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
     "lat": "ReplaceMeLincoln,Wyoming",
     "movAvgGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]]
+  }, {
+    "movAvgCFRTA": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movAvgCFR": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "locale": "Lincoln,Wyoming",
+    "long": "ReplaceMeLincoln,Wyoming",
+    "movAvgConfirmedCumulativePer100k": [["daily", 80.68582955118507], ["weekly", 75.642965204236], ["triweekly", 75.64296520423598]],
+    "date": "06/21/2020",
+    "movAvgEstimatedAlpha": [["daily", 0.06453852113757108], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movAvgConfirmedDailyPer100k": [["daily", 5.042864346949067], ["weekly", 0.0], ["triweekly", 0.0]],
+    "lat": "ReplaceMeLincoln,Wyoming",
+    "movAvgGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]]
+  }, {
+    "movAvgCFRTA": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "movAvgCFR": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]],
+    "locale": "Lincoln,Wyoming",
+    "long": "ReplaceMeLincoln,Wyoming",
+    "movAvgConfirmedCumulativePer100k": [["daily", 75.642965204236], ["weekly", 76.36337439665729], ["triweekly", 75.88310160170974]],
+    "date": "06/22/2020",
+    "movAvgEstimatedAlpha": [["daily", -0.06453852113757108], ["weekly", 0.009219788733938725], ["triweekly", 0.0030732629113129086]],
+    "movAvgConfirmedDailyPer100k": [["daily", -5.042864346949067], ["weekly", 0.7204091924212952], ["triweekly", 0.24013639747376508]],
+    "lat": "ReplaceMeLincoln,Wyoming",
+    "movAvgGrowthRate": [["daily", 0.0], ["weekly", 0.0], ["triweekly", 0.0]]
   }]
 }

@@ -102,7 +102,21 @@ object InputOutput extends JsonSupport {
    * If the delimiter is not provided, we use the CSV delimiter
    */
   def tokenize(line: String, delimiter: Option[String] = None): List[String] = {
-    line.split(delimiter.getOrElse(Constants.DefaultDelimiter)).toList
+    handleCountryNames(line).split(delimiter.getOrElse(Constants.DefaultDelimiter)).toList
   }
  
+  def fixCountryNamesMisMatch(name: String): String = Constants.mappingNamesMismatch.getOrElse(name, name)
+  
+  
+  def handleCountryNames(line: String): String = {
+    line.contains(Constants.DoubleQuotes) match {
+      case false => line.replace("*","")
+      case true => {
+        val elements = line.split(Constants.DoubleQuotes)
+        val elementCountryName = elements(1).split(",")
+        
+        elements(0) + fixCountryNamesMisMatch(elementCountryName(0).replace(" ","") + "_" + elementCountryName(1).replace(" ",""))  + elements(2)
+      }
+    }
+  }
 }

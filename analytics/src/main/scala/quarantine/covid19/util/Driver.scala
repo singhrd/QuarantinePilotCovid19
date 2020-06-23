@@ -57,7 +57,7 @@ object Driver extends JsonSupport {
     	                                 locCovidSnapshotMap(loc)._2, 
     	                                 Constants.DefaultDeltaInDays,
     	                                 Constants.DefaultDeltaInDays,
-    	                                 Constants.DefaultMovingAverageWindowSet)
+    	                                 Constants.DefaultMovingAverageWindowInDaysSet)
     }).flatten)
     
     val annotationsLocaleMap = HelperFunctions.pivotAnnotationsByLocale(annotations.elements)
@@ -80,9 +80,9 @@ object Driver extends JsonSupport {
     }
     
     def main(args: Array[String]) {
+    	update("country")
+    	update("state")
       update("county")
-//      update("state")
-//      update("country")
     
   }
 }

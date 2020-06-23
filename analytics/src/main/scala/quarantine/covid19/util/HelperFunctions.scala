@@ -18,6 +18,7 @@ import quarantine.covid19.core.CovidSnapshot
 import quarantine.covid19.core.Annotation
 import quarantine.covid19.core.Annotations
 import quarantine.covid19.constants.Constants
+import quarantine.covid19.core.Alert
 
 
 
@@ -184,8 +185,9 @@ object HelperFunctions {
   
   def createAnnotation(dailySnapshots: CovidSnapshots, 
                        cumulativeSnapshots: CovidSnapshots,  
-                       alphaWindow: Int, growthWindow: Int, 
-                       movingAverageWindows: List[Int]): List[Annotation] = {
+                       alphaWindow: Int = Constants.DefaultDeltaInDays, 
+                       growthWindow: Int = Constants.DefaultDeltaInDays,
+                       movingAverageWindows: List[Int] = Constants.DefaultMovingAverageWindowInDaysSet): List[Annotation] = {
     
      
      
@@ -422,7 +424,6 @@ object HelperFunctions {
     val covidSnapshotListBufferCumul = scala.collection.mutable.ListBuffer[CovidSnapshot]()
     
     val headers = tokensPerRecordConfirmed(0)
-    println(headers)
     val localeIndex = 1 // headers.indexOf("Country"+"\\/\\"+"Region")
     val latIndex = headers.indexOf("Lat")
     val longIndex = headers.indexOf("Long")
@@ -431,11 +432,7 @@ object HelperFunctions {
     
     // Check if need to escape the "/"
     val localeList = tokensPerRecordConfirmed.slice(1,tokensPerRecordConfirmed.length).map(l => {
-      l(0).startsWith(Constants.DoubleQuotes) match {
-        case false => l(localeIndex)
-        case true => l(localeIndex+1) // might need revision
-      }
-    }).distinct
+      l(localeIndex)}).distinct
     
     // The following calls line up everything per the index extracted from the headers by default
     val mapConfirmed = getNormalizedLocaleRecords(localeList, localeIndex, tokensPerRecordConfirmed.slice(1, tokensPerRecordConfirmed.length))
@@ -540,7 +537,6 @@ object HelperFunctions {
   
     
     val localeListCounty = tokensPerRecord.slice(1,tokensPerRecord.length).map(l => (l(localeCountyIndex)+","+l(localeStateIndex))).distinct
-//    localeListCounty.foreach(println(_))
 
     val countyRecordsMap = localeListCounty.map(l => (l -> tokensPerRecord.filter(ll => (ll(localeCountyIndex)+","+ll(localeStateIndex)).equals(l)))).toMap
     countyRecordsMap.foreach(c => {
@@ -567,7 +563,7 @@ object HelperFunctions {
                                                          confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble/normalizerCounty,
                                                          confirmedDaily(i)._2.toDouble/(normalizerCounty*normalizerCountyPD),
                                                          0L,0.0,
-                                                         0L, 0.0,// daily active does not make much sense
+                                                         activeDaily, activeDaily.toDouble/normalizerCounty,// daily active does not make much sense
                                                          deathsDaily(i)._2,deathsDaily(i)._2.toDouble/normalizerCounty,
                                                          ecCounty,
                                                          "NYGithub",
@@ -668,7 +664,7 @@ object HelperFunctions {
                                                          confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble/normalizerState,
                                                          confirmedDaily(i)._2.toDouble/(normalizerState*normalizerStatePD),
                                                          0L,0.0,
-                                                         0L, 0.0,// daily active does not make much sense
+                                                         activeDaily, activeDaily.toDouble/normalizerState,// daily active does not make much sense
                                                          deathsDaily(i)._2,deathsDaily(i)._2.toDouble/normalizerState,
                                                          ecState,
                                                          "NYGithub",
@@ -718,18 +714,14 @@ object HelperFunctions {
   def combineCountyRecords(records: List[List[String]], dataIndex: Int): (List[(String, Long)], List[(String, Long)]) = {
     val recordsCountValues = records.sortWith((a,b) => a(0)<b(0)).map(x => (x(0),x(dataIndex).toLong))
     val referenceDate = HelperFunctions.getDate(Constants.DefaultCountyRefDate)
-//    println(referenceDate)
     val startDate = HelperFunctions.getDate(recordsCountValues(0)._1)
     referenceDate.before(startDate) match {
       case true => {
-//        println("padding up")
         // add dummy annotations to the front
         val defaultFillerSnapshotValue = Range(0,HelperFunctions.daysBetween(referenceDate, startDate).toInt).toList.map(i => {
           (HelperFunctions.getDateStringFromDate(HelperFunctions.dateDaysAfter(referenceDate, i)),0L)
         }).toList
         
-//        defaultFillerSnapshotValue.foreach(println(_))
-//        println("padded up " + defaultFillerSnapshotValue.length + "snapshots")
         val recordsCountValuesPadded = defaultFillerSnapshotValue ++ recordsCountValues
         (recordsCountValuesPadded,extractDailyFromCumulativeCounty(recordsCountValuesPadded))
       }
@@ -758,11 +750,7 @@ object HelperFunctions {
   /**
    * Pick the right size based on whether the country index was moved by 1 due to a comma in the province/state column
    */
-  def getNormalizedLocaleRecords(localeList: List[String], localeIndex: Int, dataRecords: List[List[String]], checkForMovedIndex: Boolean = true): Map[String, List[List[String]]] = {
-    
-    checkForMovedIndex match {
-      case false => localeList.map(c => (c -> dataRecords.filter(rec => rec(localeIndex).equals(c)))).toMap
-      case true => {
+  def getNormalizedLocaleRecords(localeList: List[String], localeIndex: Int, dataRecords: List[List[String]]): Map[String, List[List[String]]] = {
           // now filter per country and aggregate the data
           localeList.map(c => {
             val filteredCountryDefaultIndex = dataRecords.filter(rec => rec(localeIndex).equals(c))
@@ -774,10 +762,7 @@ object HelperFunctions {
                 (c -> (filteredCountryDefaultIndex ++ filteredCountryMovedIndex.map(x => List(x(0)+"-"+x(1)) ++ x.slice(2,x.length))))
               }
             }
-          }).toMap      
-      
-      }
-    }
+          }).toMap
   }
   
   

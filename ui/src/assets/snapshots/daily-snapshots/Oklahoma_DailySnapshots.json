@@ -2354,19 +2354,19 @@
   }, {
     "epidemiccontrolThreshold": 19.8,
     "source": "NYGithub",
-    "confirmedPer100kN": 6.54040404040404,
+    "confirmedPer100kN": 6.515151515151515,
     "deaths": 1,
-    "confirmed": 259,
+    "confirmed": 258,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 6.54040404040404,
+    "confirmedPer100k": 6.515151515151515,
     "locale": "Oklahoma",
-    "activePer100k": 6.515151515151515,
+    "activePer100k": 6.48989898989899,
     "long": "ReplaceMeOklahoma",
     "date": "06/17/2020",
     "deathsPer100k": 0.025252525252525252,
     "lat": "ReplaceMeOklahoma",
-    "active": 258
+    "active": 257
   }, {
     "epidemiccontrolThreshold": 19.8,
     "source": "NYGithub",
@@ -2415,5 +2415,37 @@
     "deathsPer100k": 0.025252525252525252,
     "lat": "ReplaceMeOklahoma",
     "active": 330
+  }, {
+    "epidemiccontrolThreshold": 19.8,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.070707070707071,
+    "deaths": 1,
+    "confirmed": 478,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.070707070707071,
+    "locale": "Oklahoma",
+    "activePer100k": 12.045454545454545,
+    "long": "ReplaceMeOklahoma",
+    "date": "06/21/2020",
+    "deathsPer100k": 0.025252525252525252,
+    "lat": "ReplaceMeOklahoma",
+    "active": 477
+  }, {
+    "epidemiccontrolThreshold": 19.8,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.505050505050505,
+    "deaths": 0,
+    "confirmed": 218,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.505050505050505,
+    "locale": "Oklahoma",
+    "activePer100k": 5.505050505050505,
+    "long": "ReplaceMeOklahoma",
+    "date": "06/22/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeOklahoma",
+    "active": 218
   }]
 }
