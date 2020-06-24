@@ -28,7 +28,7 @@ object Constants {
   // Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext
   val DefaultOutcomeTimeDays = 7
   
-  val DefaultMovingAverageWindowInDaysSet = List(7,21)
+  val DefaultMovingAverageWindowInDaysSet = List(7,14,21)
   
   val DefaultMovingAverageWindowInDaysForAlert = 21
   
