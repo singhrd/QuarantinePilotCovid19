@@ -46,8 +46,8 @@ export class LineChartWidgetComponent implements OnInit {
     'Daily Growth Rate',
     'Confirmed Fatality Rate',
     'Time Adjusted Confirmed Fatality Rate',    
-    'Total Cases per-100k',
-    'Daily Cases per-100k'
+    'Confirmed Cumulative Cases per 100k',
+    'Confirmed Daily Cases per 100k'
   ];
   
   initialMetricIndex = Math.floor(Math.random() * 6);
@@ -169,22 +169,7 @@ export class LineChartWidgetComponent implements OnInit {
             // Loop over each date of data within each location
             res.elements.forEach((entry, j) => {
               // Plot the selected metric
-              let metricData = entry.movAvgEstimatedAlpha;
-              if (metric === 'Daily Growth Rate') {
-                metricData = entry.movAvgGrowthRate;
-              }
-              if (metric === 'Confirmed Fatality Rate') {
-                metricData = entry.movAvgCFR;
-              }
-              if (metric === 'Time Adjusted Confirmed Fatality Rate') {
-                metricData = entry.movAvgCFRTA;
-              }              
-              if (metric === 'Total Cases per-100k') {
-                metricData = entry.movAvgConfirmedCumulativePer100k;
-              }
-              if (metric === 'Daily Cases per-100k') {
-                metricData = entry.movAvgConfirmedDailyPer100k;
-              }
+              let metricData = entry.metrics[metric];
               // Grab the value based on selected time period
               metricData.filter(windowInfo => {
                 if (windowInfo[0] === window) {

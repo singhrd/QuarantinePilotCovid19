@@ -1,5 +1,8 @@
 package quarantine.covid19.core
 
+
+import quarantine.covid19.constants.MetricType
+
 /**
  * We derive different useful metrics for tracking the progress and the impact of the epidemic via annotations
  * 
@@ -20,17 +23,19 @@ package quarantine.covid19.core
  *                                     CFRTA = total deaths at time t / total confirmed at t - 2 weeks
  *  @param movAvgGrowthRate            Array of average dailyGrowthRate over movingAverageWindowSize
  *                                     ([daily confirmed cases at date]/[daily confirmed cases at date - delta days])^(1/delta)
+ *                                     
  * @author rajdeep
  */
 case class Annotation(date: String, 
                        locale: String, 
                        lat: String, 
-                       long: String, 
-                       movAvgConfirmedDailyPer100k:Array[(String, Double)], 
-                       movAvgConfirmedCumulativePer100k:Array[(String, Double)],
-                       movAvgEstimatedAlpha:Array[(String,Double)], 
-                       movAvgCFR: Array[(String,Double)],  
-                       movAvgCFRTA: Array[(String,Double)],  
-                       movAvgGrowthRate: Array[(String,Double)])
+                       long: String,
+                       metrics: Map[String, Array[(String, Double)]])
+//                       movAvgConfirmedDailyPer100k:Array[(String, Double)], 
+//                       movAvgConfirmedCumulativePer100k:Array[(String, Double)],
+//                       movAvgEstimatedAlpha:Array[(String,Double)], 
+//                       movAvgCFR: Array[(String,Double)],  
+//                       movAvgCFRTA: Array[(String,Double)],  
+//                       movAvgGrowthRate: Array[(String,Double)])
 
                        
