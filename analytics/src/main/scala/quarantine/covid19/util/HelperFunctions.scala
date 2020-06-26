@@ -18,6 +18,7 @@ import quarantine.covid19.core.CovidSnapshot
 import quarantine.covid19.core.Annotation
 import quarantine.covid19.core.Annotations
 import quarantine.covid19.constants.Constants
+import quarantine.covid19.constants.MetricType
 import quarantine.covid19.core.Alert
 
 
@@ -44,6 +45,17 @@ object HelperFunctions {
 	
 	}
 	
+  def pivotLineMultipleColumnsCSVJoined(lineRecords: List[List[String]], col1: Int, col2: Int): Map[String, List[List[String]]] = {
+    val mapLocaleToLines = scala.collection.mutable.Map[String, List[List[String]]]()
+    lineRecords.foreach(lineElements => {
+      val localeCurrent = lineElements(col1) + ","+ lineElements(col2)
+      val currentLinesThisLocale = mapLocaleToLines.getOrElse(localeCurrent, List[List[String]]())
+      mapLocaleToLines.+=((localeCurrent,currentLinesThisLocale ++ List(lineElements)))
+    })
+   mapLocaleToLines.toMap
+  }  
+
+  
   def pivotCovidSnapshotByLocale(snapshots: List[CovidSnapshot]): Map[String, CovidSnapshots] = {
     val mapLocaleToSnapshots = scala.collection.mutable.Map[String, List[CovidSnapshot]]()
     snapshots.foreach(element => {
@@ -182,117 +194,91 @@ object HelperFunctions {
    * The caller has the responsibility to provide continuous data at this point so no date is missing
    * between the min and the max date for the snapshots
    */
-  
   def createAnnotation(dailySnapshots: CovidSnapshots, 
                        cumulativeSnapshots: CovidSnapshots,  
+                       metrics: List[MetricType.Value]=Constants.defaultMetrics,
                        alphaWindow: Int = Constants.DefaultDeltaInDays, 
                        growthWindow: Int = Constants.DefaultDeltaInDays,
-                       movingAverageWindows: List[Int] = Constants.DefaultMovingAverageWindowInDaysSet): List[Annotation] = {
+                       movingAverageWindows: List[Int] = Constants.DefaultMovingAverageWindowInDaysSet): Option[List[Annotation]] = {
     
-     
-     
     val daysToString = movingAverageWindows.map(x => (x, stringForDays(x))).toMap
-    val locale = dailySnapshots.snapshots(0).locale
-    val lat = dailySnapshots.snapshots(0).lat
-    val long = dailySnapshots.snapshots(0).long
+    
+    val (locale, lat, long) = (dailySnapshots.snapshots(0).locale, dailySnapshots.snapshots(0).lat, dailySnapshots.snapshots(0).long)
+
+    // we can use the sortSnapshots on this and then transform to the string, date form
     val datesSorted = dailySnapshots.snapshots.map(dS => dS.date).distinct.map(dSS => (dSS, HelperFunctions.getDate(dSS))).sortWith((a,b) => a._2.before(b._2))
     
-    val dateMin = datesSorted(0)
-    val dateMax = datesSorted.last
-    
+    val (dateMin, dateMax) = (datesSorted(0), datesSorted.last)
     val diffDays = HelperFunctions.daysBetween(dateMin._2, dateMax._2)
 
+    val mapIndexToAnnotationMetrics = scala.collection.mutable.Map[Int, Map[MetricType.Value, Double]]()
+  
+    // is this not guaranteed already // if so this is a huge savings
+    diffDays > cumulativeSnapshots.snapshots.length match {
+      case true => {
+      	println("There is a gap in data for this location " + locale + "-" + diffDays + "-"+ cumulativeSnapshots.snapshots  .length)
+      	return None
+      }
     
+      case false => {
+//        println("Working on " + locale)
+    	  val (cumulativeSnapshotsSorted, dailySnapshotsSorted) = //(cumulativeSnapshots.snapshots, dailySnapshots.snapshots)
+     			  (sortSnapshots(cumulativeSnapshots.snapshots), sortSnapshots(dailySnapshots.snapshots))
     
-    val mapIndexToAnnotationMetrics = scala.collection.mutable.Map[Int, (Double, Double, Double, Double, Double, Double)]()
-    val mapIndexToAnnotationAverageMetrics = scala.collection.mutable.Map[Int, (Array[(String,Double)], 
-                                                                                Array[(String,Double)], 
-                                                                                Array[(String,Double)], 
-                                                                                Array[(String,Double)],
-                                                                                Array[(String,Double)],
-                                                                                Array[(String,Double)])]()
-    val cumulativeSnapshotsSorted = sortSnapshots(cumulativeSnapshots.snapshots)
-    val dailySnapshotsSorted = sortSnapshots(dailySnapshots.snapshots)
-    
-    diffDays > cumulativeSnapshotsSorted.length match {
-      case true => println("There is a gap in data for this location " + locale + "-" + diffDays + "-"+ cumulativeSnapshotsSorted.length)
-      case false => // do nothing
+        val result = Range(0,cumulativeSnapshotsSorted.length.toInt).toList.map(i => {
+    //      val currentMetricValues = getMetricValues(dailySnapshotsSorted, cumulativeSnapshotsSorted, i)
+          
+          val currentMetricValues = metrics.map(metric => {
+          val metricValue = metric match {
+          case MetricType.SpreadRate => alphaEstimate(cumulativeSnapshotsSorted.slice(0,i+1),alphaWindow)
+          case MetricType.DailyGrowth => dailyGrowthEstimate(dailySnapshotsSorted.slice(0,i+1), growthWindow)
+          case MetricType.CFR => {
+            val cumulConfirmed = cumulativeSnapshotsSorted(i).confirmed.toDouble
+            val cumulDeaths = cumulativeSnapshotsSorted(i).deaths.toDouble
+            cumulConfirmed > 0.0 match {
+              case true => (cumulDeaths/cumulConfirmed)
+              case false => 0.0
+            }
+          }
+          case MetricType.CFRTA => {
+            val cumulDeaths = cumulativeSnapshotsSorted(i).deaths.toDouble
+            val CFRTimeAdjustedIndex = scala.math.max(i-Constants.DefaultOutcomeTimeDays,0)
+            val cumulConfirmedTimeDelayed = cumulativeSnapshotsSorted(CFRTimeAdjustedIndex).confirmed.toDouble
+            cumulConfirmedTimeDelayed > 0.0 match {
+              case true => (cumulDeaths/cumulConfirmedTimeDelayed)
+              case false => 0.0
+            }
+          }
+          case MetricType.CumulativePer100k => cumulativeSnapshotsSorted(i).confirmedPer100k
+          case MetricType.DailyPer100k => dailySnapshotsSorted(i).confirmedPer100k
+        }
+          (metric -> metricValue)
+        }).toMap
+        
+          mapIndexToAnnotationMetrics.+=(i -> currentMetricValues)
+          val mapAnnotation = scala.collection.mutable.Map[String, Array[(String, Double)]]()
+          metrics.foreach(metric => mapAnnotation.+=(MetricType.name(metric) -> Array[(String, Double)](("daily",currentMetricValues(metric)))))
+        	movingAverageWindows.foreach(m => {
+            val windowLeftIndex = scala.math.max(0,i-m)
+            val movingAverageRange = Range(windowLeftIndex,i).toList
+            val windowSize = m > i match {
+              case true => (i+1).toDouble
+              case false => m.toDouble
+            }
+            val dailyMetricValues = movingAverageRange.map(k => mapIndexToAnnotationMetrics.get(k).get) 
+            val sumMetricValues = metrics.map(metric => (MetricType.name(metric) -> dailyMetricValues.foldLeft(0.0)((a,b) => a + b.get(metric).get))).toMap
+          
+            sumMetricValues.foreach(x => {
+                  val currentArray = mapAnnotation(x._1)
+                  mapAnnotation.+=(x._1 -> (currentArray ++ Array((daysToString(m), x._2/windowSize))))
+            })
+        	})
+          Annotation(datesSorted(i)._1, locale, lat, long, mapAnnotation.toMap)
+        })    
+        Some(result)     
+      }
     }
-    
-    Range(0,cumulativeSnapshotsSorted.length.toInt).foreach(i => {
-      val dt = datesSorted(i)._2
-      val dtString = datesSorted(i)._1
-      // check if there are any snapshots for this loc,dt combination
-      val currentCumulativeSnapshot = cumulativeSnapshotsSorted(i)
-      val currentDailySnapshot = dailySnapshotsSorted(i)
-      val cumulConfirmed = currentCumulativeSnapshot.confirmed.toDouble
-      val cumulDeaths = currentCumulativeSnapshot.deaths.toDouble
-      val CFR = cumulConfirmed > 0.0 match {
-        case true => (cumulDeaths/cumulConfirmed)
-        case false => 0.0
-      }
-      
-      val CFRTimeAdjustedIndex = scala.math.max(i-Constants.DefaultOutcomeTimeDays,0)
-      val cumulConfirmedTimeDelayed = cumulativeSnapshotsSorted(CFRTimeAdjustedIndex).confirmed.toDouble
-      val CFRTimeAdjusted = cumulConfirmedTimeDelayed > 0.0 match {
-        case true => (cumulDeaths/cumulConfirmedTimeDelayed)
-        case false => 0.0
-      }
-      
-      val matchesFoundDaily = dailySnapshots.snapshots.filter(ds => HelperFunctions.getDate(ds.date).before(dt))++List(dailySnapshotsSorted(i))
-      
-      
-      val estimatedAlpha = alphaEstimate(cumulativeSnapshotsSorted.slice(0,i+1),alphaWindow) 
-      
-      val growthRateDaily =  dailyGrowthEstimate(matchesFoundDaily, growthWindow)
-      
 
-      mapIndexToAnnotationMetrics.+=(i -> (currentDailySnapshot.confirmedPer100k.toDouble, currentCumulativeSnapshot.confirmedPer100k.toDouble,  estimatedAlpha, CFR, CFRTimeAdjusted, growthRateDaily))
-    })
-    // now construct the moving averages from the values in the map
-
-    
-    // Let's create the mean over the right window sizes
-    Range(0,cumulativeSnapshotsSorted.length.toInt).foreach(j => {
-      
-    	val listDailyConfirmedPer100kMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._1))
-    	val listCumulativeConfirmedPer100kMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._2))
-    	val listEstimatedAlphaMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._3))
-    	val listCFRMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._4))
-    	val listCFRTAMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._5))
-    	val listGrowthRateDailyMA = scala.collection.mutable.ListBuffer[(String, Double)](("daily",mapIndexToAnnotationMetrics(j)._6))
-    			
-      movingAverageWindows.foreach(m => {
-     
-      val windowLeftIndex = scala.math.max(0,j-m)
-      val movingAverageRange = Range(windowLeftIndex,j).toList
-      val movingAverages = movingAverageRange.map(k => mapIndexToAnnotationMetrics.get(k).get).foldLeft((0.0, 0.0, 0.0,0.0,0.0,0.0))((a,b) => (a._1+b._1,a._2+b._2,a._3+b._3, a._4+b._4,a._5+b._5, a._6+b._6))
-      val windowSize = m > j match {
-        case true => (j+1).toDouble
-        case false => m.toDouble
-      }
-      listDailyConfirmedPer100kMA.+=((daysToString(m),(movingAverages._1/windowSize)))
-      listCumulativeConfirmedPer100kMA.+=((daysToString(m),(movingAverages._2/windowSize)))
-      listEstimatedAlphaMA.+=((daysToString(m),(movingAverages._3/windowSize)))
-      listCFRMA.+=((daysToString(m),(movingAverages._4/windowSize)))
-      listCFRTAMA.+=((daysToString(m),(movingAverages._5/windowSize)))
-      listGrowthRateDailyMA.+=((daysToString(m), (movingAverages._6/windowSize)))
-      })
-      mapIndexToAnnotationAverageMetrics.+=(j-> (listDailyConfirmedPer100kMA.toArray,
-                                                 listCumulativeConfirmedPer100kMA.toArray,
-//                                                 listCumulativeConfirmedPCPDMA.toArray,
-                                                 listEstimatedAlphaMA.toList.toArray,
-                                                 listCFRMA.toList.toArray,
-                                                 listCFRTAMA.toList.toArray,
-                                                 listGrowthRateDailyMA.toList.toArray))
-    })
-    
-    // now combine them into the annotation object
-    Range(0,cumulativeSnapshotsSorted.length.toInt).toList.map(l => {
-      val map2Value = mapIndexToAnnotationAverageMetrics.get(l).get
-      Annotation(datesSorted(l)._1, locale, lat, long, map2Value._1, map2Value._2, map2Value._3,map2Value._4,map2Value._5,map2Value._6)
-    })      
-    
   }    
 
   /**
@@ -538,7 +524,9 @@ object HelperFunctions {
     
     val localeListCounty = tokensPerRecord.slice(1,tokensPerRecord.length).map(l => (l(localeCountyIndex)+","+l(localeStateIndex))).distinct
 
-    val countyRecordsMap = localeListCounty.map(l => (l -> tokensPerRecord.filter(ll => (ll(localeCountyIndex)+","+ll(localeStateIndex)).equals(l)))).toMap
+    val countyRecordsMap = pivotLineMultipleColumnsCSVJoined(tokensPerRecord, localeCountyIndex, localeStateIndex) 
+      
+      //localeListCounty.map(l => (l -> tokensPerRecord.filter(ll => (ll(localeCountyIndex)+","+ll(localeStateIndex)).equals(l)))).toMap
     countyRecordsMap.foreach(c => {
           val cKey = c._1.toLowerCase()
           val (normalizerCounty, ecCounty) = InputOutput.countyPopulationECMap.contains(cKey) match {
@@ -731,6 +719,47 @@ object HelperFunctions {
     
     
   }
+  
+    /**
+   * This takes in daily and cumulative CovidSnapshots for a specific location and upto a specific date
+   * The caller has the responsibility to provide continuous data at this point so no date is missing
+   * between the min and the max date for the snapshots
+   */
+  
+//  def getMetricValues(dailySnapshotsSorted: List[CovidSnapshot], 
+//                     cumulativeSnapshotsSorted: List[CovidSnapshot],
+//                     dateIndex: Int, 
+//                     alphaWindow: Int = Constants.DefaultDeltaInDays,
+//                     growthWindow: Int = Constants.DefaultDeltaInDays,
+//                     metrics: List[MetricType.Value]=Constants.defaultMetrics): Map[MetricType.Value,Double] = {
+//    
+//    metrics.map(metric => {
+//      val metricValue = metric match {
+//      case MetricType.SpreadRate => alphaEstimate(cumulativeSnapshotsSorted.slice(0,dateIndex+1),alphaWindow)
+//      case MetricType.DailyGrowth => dailyGrowthEstimate(dailySnapshotsSorted.slice(0,dateIndex+1), growthWindow)
+//      case MetricType.CFR => {
+//        val cumulConfirmed = cumulativeSnapshotsSorted(dateIndex).confirmed.toDouble
+//        val cumulDeaths = cumulativeSnapshotsSorted(dateIndex).deaths.toDouble
+//        cumulConfirmed > 0.0 match {
+//          case true => (cumulDeaths/cumulConfirmed)
+//          case false => 0.0
+//        }
+//      }
+//      case MetricType.CFRTA => {
+//        val cumulDeaths = cumulativeSnapshotsSorted(dateIndex).deaths.toDouble
+//        val CFRTimeAdjustedIndex = scala.math.max(dateIndex-Constants.DefaultOutcomeTimeDays,0)
+//        val cumulConfirmedTimeDelayed = cumulativeSnapshotsSorted(CFRTimeAdjustedIndex).confirmed.toDouble
+//        cumulConfirmedTimeDelayed > 0.0 match {
+//          case true => (cumulDeaths/cumulConfirmedTimeDelayed)
+//          case false => 0.0
+//        }
+//      }
+//      case MetricType.CumulativePer100k => cumulativeSnapshotsSorted(dateIndex).confirmedPer100k
+//      case MetricType.DailyPer100k => dailySnapshotsSorted(dateIndex).confirmedPer100k
+//    }
+//      (metric -> metricValue)
+//    }).toMap
+//  }
   
   // replace the province with the capital name or default and use the country lat lon from the map
   def combineCountryRecords(records: List[List[String]], startDateIndex: Int, countryName: String): (List[Long], List[Long]) = {

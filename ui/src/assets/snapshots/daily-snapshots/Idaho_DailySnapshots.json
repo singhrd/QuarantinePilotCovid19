@@ -2419,18 +2419,18 @@
     "epidemiccontrolThreshold": 8.95,
     "source": "NYGithub",
     "confirmedPer100kN": 1.1731843575418994,
-    "deaths": 18,
+    "deaths": 0,
     "confirmed": 21,
     "recovered": 0,
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 1.1731843575418994,
     "locale": "Idaho",
-    "activePer100k": 0.1675977653631285,
+    "activePer100k": 1.1731843575418994,
     "long": "ReplaceMeIdaho",
     "date": "06/21/2020",
-    "deathsPer100k": 1.005586592178771,
+    "deathsPer100k": 0.0,
     "lat": "ReplaceMeIdaho",
-    "active": 3
+    "active": 21
   }, {
     "epidemiccontrolThreshold": 8.95,
     "source": "NYGithub",
@@ -2447,5 +2447,37 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIdaho",
     "active": 242
+  }, {
+    "epidemiccontrolThreshold": 8.95,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.100558659217878,
+    "deaths": 0,
+    "confirmed": 145,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.100558659217878,
+    "locale": "Idaho",
+    "activePer100k": 8.100558659217878,
+    "long": "ReplaceMeIdaho",
+    "date": "06/23/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeIdaho",
+    "active": 145
+  }, {
+    "epidemiccontrolThreshold": 8.95,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.296089385474861,
+    "deaths": 1,
+    "confirmed": 238,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.296089385474861,
+    "locale": "Idaho",
+    "activePer100k": 13.240223463687151,
+    "long": "ReplaceMeIdaho",
+    "date": "06/24/2020",
+    "deathsPer100k": 0.0558659217877095,
+    "lat": "ReplaceMeIdaho",
+    "active": 237
   }]
 }

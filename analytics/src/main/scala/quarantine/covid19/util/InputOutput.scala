@@ -86,7 +86,7 @@ object InputOutput extends JsonSupport {
 	  }
     
     fos.write(bytes)
-    fos.flush()
+//    fos.flush()
     fos.close()
   }
   
