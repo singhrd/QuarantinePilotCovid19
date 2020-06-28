@@ -22,10 +22,10 @@ export class LineChartWidgetComponent implements OnInit {
   data: Array<any> = [];
 
   // Dropdown options
-  locations = LocationsByLocaleName;
-  locationsCountries = CountriesByName;
-  locationsCounties = CountiesByName;
-  locationsStates = StatesByName;
+  locations = LocationsByLocaleName.sort();
+  locationsCountries = CountriesByName.sort();
+  locationsCounties = CountiesByName.sort();
+  locationsStates = StatesByName.sort();
   availableLocations = [];
   
   selectedLocationsAll: Array<string> = ['US', 'California', 'San Diego,California'];
@@ -112,10 +112,10 @@ export class LineChartWidgetComponent implements OnInit {
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
   
-    /**
-   * Update selected window to view, redraw graph
-   * @param day - window to get the moving average for
-   */
+  /**
+  * Update selected window to view, redraw graph
+  * @param day - window to get the moving average for
+  */
   selectWindow(window: string) {
     this.selectedWindow = window;
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
