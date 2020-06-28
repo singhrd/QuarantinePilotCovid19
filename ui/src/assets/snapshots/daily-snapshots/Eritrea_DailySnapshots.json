@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.08483479131348293,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.08483479131348293,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "4/21/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.1413913188558049,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.1413913188558049,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "4/24/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.056556527542321954,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.056556527542321954,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "4/25/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.16966958262696585,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.16966958262696585,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "4/28/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.19794784639812685,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.19794784639812685,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "4/30/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.11311305508464391,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.11311305508464391,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "5/5/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.19794784639812685,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.19794784639812685,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "5/8/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.028278263771160977,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.028278263771160977,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "5/11/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.028278263771160977,
     "confirmedPer100k": 0.0,
     "locale": "Eritrea",
-    "activePer100k": -0.028278263771160977,
+    "activePer100k": 0.0,
     "long": "38.933333",
     "date": "5/15/20",
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.681425,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "15.3333333333",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 17.681425,
+    "source": "JHU",
+    "confirmedPer100kN": 0.8327178000282982,
+    "deaths": 0,
+    "confirmed": 23,
+    "recovered": 14,
+    "recoveredPer100k": 0.3958956927962537,
+    "confirmedPer100k": 0.6504000667367025,
+    "locale": "Eritrea",
+    "activePer100k": 0.2545043739404488,
+    "long": "38.933333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "15.3333333333",
+    "active": 9
+  }, {
+    "epidemiccontrolThreshold": 17.681425,
+    "source": "JHU",
+    "confirmedPer100kN": 0.868922921768659,
+    "deaths": 0,
+    "confirmed": 24,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.6786783305078634,
+    "locale": "Eritrea",
+    "activePer100k": 0.6786783305078634,
+    "long": "38.933333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "15.3333333333",
+    "active": 24
   }]
 }

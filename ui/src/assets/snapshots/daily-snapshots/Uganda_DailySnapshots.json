@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.008805212562564063,
     "confirmedPer100k": 0.0,
     "locale": "Uganda",
-    "activePer100k": -0.008805212562564063,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "4/11/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.006603909421923047,
     "confirmedPer100k": 0.0,
     "locale": "Uganda",
-    "activePer100k": -0.006603909421923047,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "4/13/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.008805212562564063,
     "confirmedPer100k": 0.0,
     "locale": "Uganda",
-    "activePer100k": -0.008805212562564063,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "4/15/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.017610425125128126,
     "confirmedPer100k": 0.0,
     "locale": "Uganda",
-    "activePer100k": -0.017610425125128126,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "4/16/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.004402606281282031,
     "confirmedPer100k": -0.0022013031406410157,
     "locale": "Uganda",
-    "activePer100k": -0.006603909421923047,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "4/18/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.013207818843846093,
     "confirmedPer100k": 0.0,
     "locale": "Uganda",
-    "activePer100k": -0.013207818843846093,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "4/19/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0022013031406410157,
     "confirmedPer100k": 0.0,
     "locale": "Uganda",
-    "activePer100k": -0.0022013031406410157,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "4/27/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.011006515703205077,
     "confirmedPer100k": 0.0,
     "locale": "Uganda",
-    "activePer100k": -0.011006515703205077,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "4/28/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0022013031406410157,
     "confirmedPer100k": -0.2289355266266656,
     "locale": "Uganda",
-    "activePer100k": -0.23113682976730662,
+    "activePer100k": 0.0,
     "long": "32.55",
     "date": "5/21/20",
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
-    "active": -105
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 227.138185,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "0.3166666667",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 227.138185,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0053859540172542485,
+    "deaths": 0,
+    "confirmed": 12,
+    "recovered": 30,
+    "recoveredPer100k": 0.06603909421923047,
+    "confirmedPer100k": 0.026415637687692187,
+    "locale": "Uganda",
+    "activePer100k": -0.03962345653153828,
+    "long": "32.55",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "0.3166666667",
+    "active": -18
+  }, {
+    "epidemiccontrolThreshold": 227.138185,
+    "source": "JHU",
+    "confirmedPer100kN": 0.006732442521567811,
+    "deaths": 0,
+    "confirmed": 15,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.03301954710961524,
+    "locale": "Uganda",
+    "activePer100k": 0.03301954710961524,
+    "long": "32.55",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "0.3166666667",
+    "active": 15
   }]
 }

@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.5048975058063213,
     "confirmedPer100k": 0.0,
     "locale": "Belize",
-    "activePer100k": -0.5048975058063213,
+    "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "4/19/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.9806,
     "source": "JHU",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.757346258709482,
     "confirmedPer100k": 0.0,
     "locale": "Belize",
-    "activePer100k": -0.757346258709482,
+    "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "4/23/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.9806,
     "source": "JHU",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.25244875290316066,
     "confirmedPer100k": 0.0,
     "locale": "Belize",
-    "activePer100k": -0.25244875290316066,
+    "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "4/27/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.9806,
     "source": "JHU",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.757346258709482,
     "confirmedPer100k": 0.0,
     "locale": "Belize",
-    "activePer100k": -0.757346258709482,
+    "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "4/28/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.9806,
     "source": "JHU",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 1.0097950116126426,
     "confirmedPer100k": 0.0,
     "locale": "Belize",
-    "activePer100k": -1.0097950116126426,
+    "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "5/1/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.9806,
     "source": "JHU",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.25244875290316066,
     "confirmedPer100k": 0.0,
     "locale": "Belize",
-    "activePer100k": -0.25244875290316066,
+    "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "5/4/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.9806,
     "source": "JHU",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.5048975058063213,
     "confirmedPer100k": 0.0,
     "locale": "Belize",
-    "activePer100k": -0.5048975058063213,
+    "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "5/5/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.9806,
     "source": "JHU",
@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.25244875290316066,
     "confirmedPer100k": 0.0,
     "locale": "Belize",
-    "activePer100k": -0.25244875290316066,
+    "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "6/19/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.9806,
     "source": "JHU",
@@ -2492,6 +2492,38 @@
     "activePer100k": 0.0,
     "long": "-88.766667",
     "date": "6/25/20",
+    "deathsPer100k": 0.0,
+    "lat": "17.25",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 1.9806,
+    "source": "JHU",
+    "confirmedPer100kN": 0.5629651044722122,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 1,
+    "recoveredPer100k": 0.25244875290316066,
+    "confirmedPer100k": 0.25244875290316066,
+    "locale": "Belize",
+    "activePer100k": 0.0,
+    "long": "-88.766667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "17.25",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 1.9806,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Belize",
+    "activePer100k": 0.0,
+    "long": "-88.766667",
+    "date": "6/27/20",
     "deathsPer100k": 0.0,
     "lat": "17.25",
     "active": 0

@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sudan",
-    "activePer100k": -0.002291884667871419,
+    "activePer100k": 0.0,
     "long": "32.533333",
     "date": "3/30/20",
     "deathsPer100k": 0.002291884667871419,
     "lat": "15.6",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 218.161065,
     "source": "JHU",
@@ -1129,12 +1129,12 @@
     "recoveredPer100k": 0.002291884667871419,
     "confirmedPer100k": 0.0,
     "locale": "Sudan",
-    "activePer100k": -0.002291884667871419,
+    "activePer100k": 0.0,
     "long": "32.533333",
     "date": "4/1/20",
     "deathsPer100k": 0.0,
     "lat": "15.6",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 218.161065,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.01833507734297135,
     "lat": "15.6",
     "active": -20
+  }, {
+    "epidemiccontrolThreshold": 218.161065,
+    "source": "JHU",
+    "confirmedPer100kN": 1.0390841390499,
+    "deaths": 16,
+    "confirmed": 273,
+    "recovered": 208,
+    "recoveredPer100k": 0.47671201091725507,
+    "confirmedPer100k": 0.6256845143288973,
+    "locale": "Sudan",
+    "activePer100k": 0.11230234872569951,
+    "long": "32.533333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0366701546859427,
+    "lat": "15.6",
+    "active": 49
+  }, {
+    "epidemiccontrolThreshold": 218.161065,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Sudan",
+    "activePer100k": 0.0,
+    "long": "32.533333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "15.6",
+    "active": 0
   }]
 }

@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Norway",
-    "activePer100k": -0.22170360002305717,
+    "activePer100k": 0.0,
     "long": "10.75",
     "date": "4/8/20",
     "deathsPer100k": 0.22170360002305717,
     "lat": "59.9166666667",
-    "active": -12
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.06316,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "59.9166666667",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 27.06316,
+    "source": "JHU",
+    "confirmedPer100kN": 1.8746701106578025,
+    "deaths": 0,
+    "confirmed": 44,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.8129132000845429,
+    "locale": "Norway",
+    "activePer100k": 0.8129132000845429,
+    "long": "10.75",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "59.9166666667",
+    "active": 44
+  }, {
+    "epidemiccontrolThreshold": 27.06316,
+    "source": "JHU",
+    "confirmedPer100kN": 0.59648594430021,
+    "deaths": 0,
+    "confirmed": 14,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.25865420002690004,
+    "locale": "Norway",
+    "activePer100k": 0.25865420002690004,
+    "long": "10.75",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "59.9166666667",
+    "active": 14
   }]
 }

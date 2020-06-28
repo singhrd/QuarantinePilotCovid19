@@ -265,12 +265,12 @@
     "recoveredPer100k": 0.0030978348922154814,
     "confirmedPer100k": 0.0,
     "locale": "Malaysia",
-    "activePer100k": -0.0030978348922154814,
+    "activePer100k": 0.0,
     "long": "101.7",
     "date": "2/7/20",
     "deathsPer100k": 0.0,
     "lat": "3.1666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 161.40305,
     "source": "JHU",
@@ -329,12 +329,12 @@
     "recoveredPer100k": 0.006195669784430963,
     "confirmedPer100k": 0.0,
     "locale": "Malaysia",
-    "activePer100k": -0.006195669784430963,
+    "activePer100k": 0.0,
     "long": "101.7",
     "date": "2/11/20",
     "deathsPer100k": 0.0,
     "lat": "3.1666666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 161.40305,
     "source": "JHU",
@@ -441,12 +441,12 @@
     "recoveredPer100k": 0.01858700935329289,
     "confirmedPer100k": 0.0,
     "locale": "Malaysia",
-    "activePer100k": -0.01858700935329289,
+    "activePer100k": 0.0,
     "long": "101.7",
     "date": "2/18/20",
     "deathsPer100k": 0.0,
     "lat": "3.1666666667",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 161.40305,
     "source": "JHU",
@@ -457,12 +457,12 @@
     "recoveredPer100k": 0.006195669784430963,
     "confirmedPer100k": 0.0,
     "locale": "Malaysia",
-    "activePer100k": -0.006195669784430963,
+    "activePer100k": 0.0,
     "long": "101.7",
     "date": "2/19/20",
     "deathsPer100k": 0.0,
     "lat": "3.1666666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 161.40305,
     "source": "JHU",
@@ -537,12 +537,12 @@
     "recoveredPer100k": 0.009293504676646445,
     "confirmedPer100k": 0.0,
     "locale": "Malaysia",
-    "activePer100k": -0.009293504676646445,
+    "activePer100k": 0.0,
     "long": "101.7",
     "date": "2/24/20",
     "deathsPer100k": 0.0,
     "lat": "3.1666666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 161.40305,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "3.1666666667",
     "active": -36
+  }, {
+    "epidemiccontrolThreshold": 161.40305,
+    "source": "JHU",
+    "confirmedPer100kN": 0.007334832902785353,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 23,
+    "recoveredPer100k": 0.07125020252095607,
+    "confirmedPer100k": 0.01858700935329289,
+    "locale": "Malaysia",
+    "activePer100k": -0.052663193167663186,
+    "long": "101.7",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "3.1666666667",
+    "active": -17
+  }, {
+    "epidemiccontrolThreshold": 161.40305,
+    "source": "JHU",
+    "confirmedPer100kN": 0.012224721504642254,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 14,
+    "recoveredPer100k": 0.043369688491016745,
+    "confirmedPer100k": 0.030978348922154814,
+    "locale": "Malaysia",
+    "activePer100k": -0.012391339568861926,
+    "long": "101.7",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "3.1666666667",
+    "active": -4
   }]
 }

@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.2583225053149856,
     "confirmedPer100k": 0.0,
     "locale": "Liberia",
-    "activePer100k": -0.2583225053149856,
+    "activePer100k": 0.0,
     "long": "-10.8",
     "date": "4/22/20",
     "deathsPer100k": 0.0,
     "lat": "6.3",
-    "active": -13
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 25.162345,
     "source": "JHU",
@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.03974192389461317,
     "confirmedPer100k": 0.0,
     "locale": "Liberia",
-    "activePer100k": -0.03974192389461317,
+    "activePer100k": 0.0,
     "long": "-10.8",
     "date": "5/25/20",
     "deathsPer100k": 0.0,
     "lat": "6.3",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 25.162345,
     "source": "JHU",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Liberia",
-    "activePer100k": -0.019870961947306583,
+    "activePer100k": 0.0,
     "long": "-10.8",
     "date": "5/27/20",
     "deathsPer100k": 0.019870961947306583,
     "lat": "6.3",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 25.162345,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "6.3",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 25.162345,
+    "source": "JHU",
+    "confirmedPer100kN": 0.050681963622228716,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 7,
+    "recoveredPer100k": 0.13909673363114608,
+    "confirmedPer100k": 0.05961288584191975,
+    "locale": "Liberia",
+    "activePer100k": -0.07948384778922633,
+    "long": "-10.8",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "6.3",
+    "active": -4
+  }, {
+    "epidemiccontrolThreshold": 25.162345,
+    "source": "JHU",
+    "confirmedPer100kN": 0.7602294543334307,
+    "deaths": 0,
+    "confirmed": 45,
+    "recovered": 6,
+    "recoveredPer100k": 0.1192257716838395,
+    "confirmedPer100k": 0.8941932876287961,
+    "locale": "Liberia",
+    "activePer100k": 0.7749675159449567,
+    "long": "-10.8",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "6.3",
+    "active": 39
   }]
 }

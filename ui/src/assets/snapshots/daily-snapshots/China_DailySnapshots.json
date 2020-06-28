@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0009039031114153596,
     "confirmedPer100k": 0.0,
     "locale": "China",
-    "activePer100k": -0.0009039031114153596,
+    "activePer100k": 0.0,
     "long": "116.383333",
     "date": "5/2/20",
     "deathsPer100k": 0.0,
     "lat": "39.9166666667",
-    "active": -13
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 7191.036205,
     "source": "JHU",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0002781240342816491,
     "confirmedPer100k": 0.0,
     "locale": "China",
-    "activePer100k": -0.0002781240342816491,
+    "activePer100k": 0.0,
     "long": "116.383333",
     "date": "5/28/20",
     "deathsPer100k": 0.0,
     "lat": "39.9166666667",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 7191.036205,
     "source": "JHU",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0002781240342816491,
     "confirmedPer100k": -0.00006953100857041228,
     "locale": "China",
-    "activePer100k": -0.0003476550428520614,
+    "activePer100k": 0.0,
     "long": "116.383333",
     "date": "6/3/20",
     "deathsPer100k": 0.0,
     "lat": "39.9166666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 7191.036205,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.00006953100857041228,
     "lat": "39.9166666667",
     "active": 17
+  }, {
+    "epidemiccontrolThreshold": 7191.036205,
+    "source": "JHU",
+    "confirmedPer100kN": 0.00043452501159125227,
+    "deaths": 0,
+    "confirmed": 24,
+    "recovered": 8,
+    "recoveredPer100k": 0.0005562480685632982,
+    "confirmedPer100k": 0.0016687442056898946,
+    "locale": "China",
+    "activePer100k": 0.0011124961371265965,
+    "long": "116.383333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "39.9166666667",
+    "active": 16
+  }, {
+    "epidemiccontrolThreshold": 7191.036205,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0003258937586934392,
+    "deaths": 0,
+    "confirmed": 18,
+    "recovered": 11,
+    "recoveredPer100k": 0.0007648410942745351,
+    "confirmedPer100k": 0.001251558154267421,
+    "locale": "China",
+    "activePer100k": 0.00048671705999288594,
+    "long": "116.383333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "39.9166666667",
+    "active": 7
   }]
 }

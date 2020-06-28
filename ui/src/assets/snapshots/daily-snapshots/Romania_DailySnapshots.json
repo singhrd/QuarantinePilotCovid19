@@ -729,12 +729,12 @@
     "recoveredPer100k": 0.01038274375528579,
     "confirmedPer100k": 0.0,
     "locale": "Romania",
-    "activePer100k": -0.01038274375528579,
+    "activePer100k": 0.0,
     "long": "26.1",
     "date": "3/7/20",
     "deathsPer100k": 0.0,
     "lat": "44.4333333333",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 96.313655,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.05191371877642895,
     "lat": "44.4333333333",
     "active": -65
+  }, {
+    "epidemiccontrolThreshold": 96.313655,
+    "source": "JHU",
+    "confirmedPer100kN": 1.0208479300846043,
+    "deaths": 14,
+    "confirmed": 411,
+    "recovered": 275,
+    "recoveredPer100k": 1.4276272663517962,
+    "confirmedPer100k": 2.13365384171123,
+    "locale": "Romania",
+    "activePer100k": 0.6333473690724332,
+    "long": "26.1",
+    "date": "6/26/20",
+    "deathsPer100k": 0.07267920628700053,
+    "lat": "44.4333333333",
+    "active": 122
+  }, {
+    "epidemiccontrolThreshold": 96.313655,
+    "source": "JHU",
+    "confirmedPer100kN": 0.8072398473905023,
+    "deaths": 10,
+    "confirmed": 325,
+    "recovered": 349,
+    "recoveredPer100k": 1.8117887852973704,
+    "confirmedPer100k": 1.687195860233941,
+    "locale": "Romania",
+    "activePer100k": -0.17650664383985842,
+    "long": "26.1",
+    "date": "6/27/20",
+    "deathsPer100k": 0.05191371877642895,
+    "lat": "44.4333333333",
+    "active": -34
   }]
 }

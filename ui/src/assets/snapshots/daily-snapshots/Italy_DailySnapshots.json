@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 2.2536590295568955,
     "confirmedPer100k": -0.24471132529304515,
     "locale": "Italy",
-    "activePer100k": -2.576082735179489,
+    "activePer100k": 0.0,
     "long": "12.483333",
     "date": "6/19/20",
     "deathsPer100k": 0.07771238032954812,
     "lat": "41.9",
-    "active": -1558
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 302.39712,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.05621746662137524,
     "lat": "41.9",
     "active": -352
+  }, {
+    "epidemiccontrolThreshold": 302.39712,
+    "source": "JHU",
+    "confirmedPer100kN": 0.08113393651934722,
+    "deaths": 30,
+    "confirmed": 255,
+    "recovered": 890,
+    "recoveredPer100k": 1.4715748615595283,
+    "confirmedPer100k": 0.42163099966031425,
+    "locale": "Italy",
+    "activePer100k": -1.0995475089180744,
+    "long": "12.483333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.049603647018860504,
+    "lat": "41.9",
+    "active": -665
+  }, {
+    "epidemiccontrolThreshold": 302.39712,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0556801525132775,
+    "deaths": 8,
+    "confirmed": 175,
+    "recovered": 969,
+    "recoveredPer100k": 1.6021977987091942,
+    "confirmedPer100k": 0.2893546076100196,
+    "locale": "Italy",
+    "activePer100k": -1.3260708303042041,
+    "long": "12.483333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.013227639205029467,
+    "lat": "41.9",
+    "active": -802
   }]
 }

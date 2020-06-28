@@ -1081,12 +1081,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Mali",
-    "activePer100k": -0.004968874473411105,
+    "activePer100k": 0.0,
     "long": "-8",
     "date": "3/29/20",
     "deathsPer100k": 0.004968874473411105,
     "lat": "12.65",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 100.62641,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.004968874473411105,
     "lat": "12.65",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 100.62641,
+    "source": "JHU",
+    "confirmedPer100kN": 0.24673070761482943,
+    "deaths": 0,
+    "confirmed": 21,
+    "recovered": 4,
+    "recoveredPer100k": 0.01987549789364442,
+    "confirmedPer100k": 0.10434636394163321,
+    "locale": "Mali",
+    "activePer100k": 0.08447086604798879,
+    "long": "-8",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "12.65",
+    "active": 17
+  }, {
+    "epidemiccontrolThreshold": 100.62641,
+    "source": "JHU",
+    "confirmedPer100kN": 0.6814467162695289,
+    "deaths": 0,
+    "confirmed": 58,
+    "recovered": 11,
+    "recoveredPer100k": 0.05465761920752216,
+    "confirmedPer100k": 0.2881947194578441,
+    "locale": "Mali",
+    "activePer100k": 0.23353710025032196,
+    "long": "-8",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "12.65",
+    "active": 47
   }]
 }

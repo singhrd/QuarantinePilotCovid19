@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.046755211686558676,
     "confirmedPer100k": 0.0,
     "locale": "Lesotho",
-    "activePer100k": -0.046755211686558676,
+    "activePer100k": 0.0,
     "long": "27.483333",
     "date": "5/28/20",
     "deathsPer100k": 0.0,
     "lat": "-29.3166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 10.693995,
     "source": "JHU",
@@ -2492,6 +2492,38 @@
     "activePer100k": 0.0,
     "long": "27.483333",
     "date": "6/25/20",
+    "deathsPer100k": 0.0,
+    "lat": "-29.3166666667",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 10.693995,
+    "source": "JHU",
+    "confirmedPer100kN": 0.1790559275025567,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 2,
+    "recoveredPer100k": 0.09351042337311735,
+    "confirmedPer100k": 0.32728648180591075,
+    "locale": "Lesotho",
+    "activePer100k": 0.23377605843279337,
+    "long": "27.483333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "-29.3166666667",
+    "active": 5
+  }, {
+    "epidemiccontrolThreshold": 10.693995,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Lesotho",
+    "activePer100k": 0.0,
+    "long": "27.483333",
+    "date": "6/27/20",
     "deathsPer100k": 0.0,
     "lat": "-29.3166666667",
     "active": 0

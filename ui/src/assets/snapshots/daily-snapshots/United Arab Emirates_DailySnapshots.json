@@ -345,12 +345,12 @@
     "recoveredPer100k": 0.010135979229351362,
     "confirmedPer100k": 0.0,
     "locale": "United Arab Emirates",
-    "activePer100k": -0.010135979229351362,
+    "activePer100k": 0.0,
     "long": "54.366667",
     "date": "2/12/20",
     "deathsPer100k": 0.0,
     "lat": "24.4666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 49.329225,
     "source": "JHU",
@@ -393,12 +393,12 @@
     "recoveredPer100k": 0.020271958458702725,
     "confirmedPer100k": 0.0,
     "locale": "United Arab Emirates",
-    "activePer100k": -0.020271958458702725,
+    "activePer100k": 0.0,
     "long": "54.366667",
     "date": "2/15/20",
     "deathsPer100k": 0.0,
     "lat": "24.4666666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 49.329225,
     "source": "JHU",
@@ -793,12 +793,12 @@
     "recoveredPer100k": 0.05067989614675682,
     "confirmedPer100k": 0.0,
     "locale": "United Arab Emirates",
-    "activePer100k": -0.05067989614675682,
+    "activePer100k": 0.0,
     "long": "54.366667",
     "date": "3/11/20",
     "deathsPer100k": 0.0,
     "lat": "24.4666666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 49.329225,
     "source": "JHU",
@@ -937,12 +937,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "United Arab Emirates",
-    "activePer100k": -0.020271958458702725,
+    "activePer100k": 0.0,
     "long": "54.366667",
     "date": "3/20/20",
     "deathsPer100k": 0.020271958458702725,
     "lat": "24.4666666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 49.329225,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.010135979229351362,
     "lat": "24.4666666667",
     "active": -331
+  }, {
+    "epidemiccontrolThreshold": 49.329225,
+    "source": "JHU",
+    "confirmedPer100kN": 1.3562573296561826,
+    "deaths": 2,
+    "confirmed": 410,
+    "recovered": 304,
+    "recoveredPer100k": 3.0813376857228145,
+    "confirmedPer100k": 4.155751484034059,
+    "locale": "United Arab Emirates",
+    "activePer100k": 1.0541418398525417,
+    "long": "54.366667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.020271958458702725,
+    "lat": "24.4666666667",
+    "active": 104
+  }, {
+    "epidemiccontrolThreshold": 49.329225,
+    "source": "JHU",
+    "confirmedPer100kN": 1.2801746014071773,
+    "deaths": 1,
+    "confirmed": 387,
+    "recovered": 365,
+    "recoveredPer100k": 3.6996324187132474,
+    "confirmedPer100k": 3.9226239617589775,
+    "locale": "United Arab Emirates",
+    "activePer100k": 0.21285556381637863,
+    "long": "54.366667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.010135979229351362,
+    "lat": "24.4666666667",
+    "active": 21
   }]
 }

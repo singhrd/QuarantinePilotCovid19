@@ -681,12 +681,12 @@
     "recoveredPer100k": 0.014638191480718942,
     "confirmedPer100k": 0.0,
     "locale": "Lebanon",
-    "activePer100k": -0.014638191480718942,
+    "activePer100k": 0.0,
     "long": "35.5",
     "date": "3/4/20",
     "deathsPer100k": 0.0,
     "lat": "33.8666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 34.157225,
     "source": "JHU",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.07319095740359471,
     "confirmedPer100k": 0.0,
     "locale": "Lebanon",
-    "activePer100k": -0.07319095740359471,
+    "activePer100k": 0.0,
     "long": "35.5",
     "date": "4/21/20",
     "deathsPer100k": 0.0,
     "lat": "33.8666666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 34.157225,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "33.8666666667",
     "active": -23
+  }, {
+    "epidemiccontrolThreshold": 34.157225,
+    "source": "JHU",
+    "confirmedPer100kN": 0.030291734196401427,
+    "deaths": 0,
+    "confirmed": 35,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.512336701825163,
+    "locale": "Lebanon",
+    "activePer100k": 0.512336701825163,
+    "long": "35.5",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "33.8666666667",
+    "active": 35
+  }, {
+    "epidemiccontrolThreshold": 34.157225,
+    "source": "JHU",
+    "confirmedPer100kN": 0.01904051863773804,
+    "deaths": 0,
+    "confirmed": 22,
+    "recovered": 9,
+    "recoveredPer100k": 0.13174372332647047,
+    "confirmedPer100k": 0.3220402125758167,
+    "locale": "Lebanon",
+    "activePer100k": 0.19029648924934625,
+    "long": "35.5",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "33.8666666667",
+    "active": 13
   }]
 }

@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.045155023970544474,
     "confirmedPer100k": 0.0,
     "locale": "Gabon",
-    "activePer100k": -0.045155023970544474,
+    "activePer100k": 0.0,
     "long": "9.45",
     "date": "4/3/20",
     "deathsPer100k": 0.0,
     "lat": "0.3833333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 11.072965,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.045155023970544474,
     "lat": "0.3833333333",
     "active": 37
+  }, {
+    "epidemiccontrolThreshold": 11.072965,
+    "source": "JHU",
+    "confirmedPer100kN": 25.579306503377627,
+    "deaths": 0,
+    "confirmed": 122,
+    "recovered": 57,
+    "recoveredPer100k": 2.573836366321035,
+    "confirmedPer100k": 5.508912924406426,
+    "locale": "Gabon",
+    "activePer100k": 2.935076558085391,
+    "long": "9.45",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "0.3833333333",
+    "active": 65
+  }, {
+    "epidemiccontrolThreshold": 11.072965,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Gabon",
+    "activePer100k": 0.0,
+    "long": "9.45",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "0.3833333333",
+    "active": 0
   }]
 }

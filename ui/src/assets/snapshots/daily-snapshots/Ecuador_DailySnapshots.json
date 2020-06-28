@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Ecuador",
-    "activePer100k": -0.27860655330374495,
+    "activePer100k": 0.0,
     "long": "-78.5",
     "date": "5/6/20",
     "deathsPer100k": 0.27860655330374495,
     "lat": "-0.2166666667",
-    "active": -49
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 87.93763,
     "source": "JHU",
@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.000697426118943,
     "locale": "Ecuador",
-    "activePer100k": -9.205387955076796,
+    "activePer100k": 0.0,
     "long": "-78.5",
     "date": "5/7/20",
     "deathsPer100k": 0.20469052895785342,
     "lat": "-0.2166666667",
-    "active": -1619
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 87.93763,
     "source": "JHU",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.41505507937842,
     "locale": "Ecuador",
-    "activePer100k": -8.69934748070877,
+    "activePer100k": 0.0,
     "long": "-78.5",
     "date": "5/8/20",
     "deathsPer100k": 0.284292401330352,
     "lat": "-0.2166666667",
-    "active": -1530
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 87.93763,
     "source": "JHU",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.284292401330352,
     "locale": "Ecuador",
-    "activePer100k": -0.3866376658092787,
+    "activePer100k": 0.0,
     "long": "-78.5",
     "date": "5/11/20",
     "deathsPer100k": 0.10234526447892671,
     "lat": "-0.2166666667",
-    "active": -68
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 87.93763,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.39232351383588576,
     "lat": "-0.2166666667",
     "active": 338
+  }, {
+    "epidemiccontrolThreshold": 87.93763,
+    "source": "JHU",
+    "confirmedPer100kN": 2.4112938096182477,
+    "deaths": 63,
+    "confirmed": 700,
+    "recovered": 396,
+    "recoveredPer100k": 2.2515958185363876,
+    "confirmedPer100k": 3.980093618624928,
+    "locale": "Ecuador",
+    "activePer100k": 1.3702893744122966,
+    "long": "-78.5",
+    "date": "6/26/20",
+    "deathsPer100k": 0.3582084256762435,
+    "lat": "-0.2166666667",
+    "active": 241
+  }, {
+    "epidemiccontrolThreshold": 87.93763,
+    "source": "JHU",
+    "confirmedPer100kN": 2.4732985075798597,
+    "deaths": 18,
+    "confirmed": 718,
+    "recovered": 427,
+    "recoveredPer100k": 2.427857107361206,
+    "confirmedPer100k": 4.082438883103855,
+    "locale": "Ecuador",
+    "activePer100k": 1.5522365112637218,
+    "long": "-78.5",
+    "date": "6/27/20",
+    "deathsPer100k": 0.10234526447892671,
+    "lat": "-0.2166666667",
+    "active": 273
   }]
 }

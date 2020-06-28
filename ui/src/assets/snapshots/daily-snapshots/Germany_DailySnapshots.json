@@ -361,12 +361,12 @@
     "recoveredPer100k": 0.001194311879475109,
     "confirmedPer100k": 0.0,
     "locale": "Germany",
-    "activePer100k": -0.001194311879475109,
+    "activePer100k": 0.0,
     "long": "13.4",
     "date": "2/13/20",
     "deathsPer100k": 0.0,
     "lat": "52.5166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 418.651115,
     "source": "JHU",
@@ -441,12 +441,12 @@
     "recoveredPer100k": 0.0131374306742262,
     "confirmedPer100k": 0.0,
     "locale": "Germany",
-    "activePer100k": -0.0131374306742262,
+    "activePer100k": 0.0,
     "long": "13.4",
     "date": "2/18/20",
     "deathsPer100k": 0.0,
     "lat": "52.5166666667",
-    "active": -11
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 418.651115,
     "source": "JHU",
@@ -489,12 +489,12 @@
     "recoveredPer100k": 0.002388623758950218,
     "confirmedPer100k": 0.0,
     "locale": "Germany",
-    "activePer100k": -0.002388623758950218,
+    "activePer100k": 0.0,
     "long": "13.4",
     "date": "2/21/20",
     "deathsPer100k": 0.0,
     "lat": "52.5166666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 418.651115,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.014331742553701309,
     "lat": "52.5166666667",
     "active": 146
+  }, {
+    "epidemiccontrolThreshold": 418.651115,
+    "source": "JHU",
+    "confirmedPer100kN": 0.13070305907098317,
+    "deaths": 25,
+    "confirmed": 665,
+    "recovered": 385,
+    "recoveredPer100k": 0.459810073597917,
+    "confirmedPer100k": 0.7942173998509475,
+    "locale": "Germany",
+    "activePer100k": 0.3045495292661528,
+    "long": "13.4",
+    "date": "6/26/20",
+    "deathsPer100k": 0.029857796986877724,
+    "lat": "52.5166666667",
+    "active": 255
+  }, {
+    "epidemiccontrolThreshold": 418.651115,
+    "source": "JHU",
+    "confirmedPer100kN": 0.08294239237286452,
+    "deaths": 3,
+    "confirmed": 422,
+    "recovered": 369,
+    "recoveredPer100k": 0.4407010835263152,
+    "confirmedPer100k": 0.503999613138496,
+    "locale": "Germany",
+    "activePer100k": 0.05971559397375545,
+    "long": "13.4",
+    "date": "6/27/20",
+    "deathsPer100k": 0.003582935638425327,
+    "lat": "52.5166666667",
+    "active": 50
   }]
 }

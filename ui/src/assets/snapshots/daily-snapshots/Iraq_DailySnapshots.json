@@ -761,12 +761,12 @@
     "recoveredPer100k": 0.00749407480975167,
     "confirmedPer100k": 0.0,
     "locale": "Iraq",
-    "activePer100k": -0.00749407480975167,
+    "activePer100k": 0.0,
     "long": "44.4",
     "date": "3/9/20",
     "deathsPer100k": 0.0,
     "lat": "33.3333333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 200.15813,
     "source": "JHU",
@@ -793,12 +793,12 @@
     "recoveredPer100k": 0.02997629923900668,
     "confirmedPer100k": 0.0,
     "locale": "Iraq",
-    "activePer100k": -0.02997629923900668,
+    "activePer100k": 0.0,
     "long": "44.4",
     "date": "3/11/20",
     "deathsPer100k": 0.0,
     "lat": "33.3333333333",
-    "active": -12
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 200.15813,
     "source": "JHU",
@@ -809,12 +809,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Iraq",
-    "activePer100k": -0.00249802493658389,
+    "activePer100k": 0.0,
     "long": "44.4",
     "date": "3/12/20",
     "deathsPer100k": 0.00249802493658389,
     "lat": "33.3333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 200.15813,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.2672886682144762,
     "lat": "33.3333333333",
     "active": 1093
+  }, {
+    "epidemiccontrolThreshold": 200.15813,
+    "source": "JHU",
+    "confirmedPer100kN": 2.15882188691086,
+    "deaths": 122,
+    "confirmed": 2054,
+    "recovered": 808,
+    "recoveredPer100k": 2.018404148759783,
+    "confirmedPer100k": 5.13094321974331,
+    "locale": "Iraq",
+    "activePer100k": 2.807780028720292,
+    "long": "44.4",
+    "date": "6/26/20",
+    "deathsPer100k": 0.3047590422632346,
+    "lat": "33.3333333333",
+    "active": 1124
+  }, {
+    "epidemiccontrolThreshold": 200.15813,
+    "source": "JHU",
+    "confirmedPer100kN": 2.1745873826770055,
+    "deaths": 101,
+    "confirmed": 2069,
+    "recovered": 1079,
+    "recoveredPer100k": 2.6953689065740174,
+    "confirmedPer100k": 5.168413593792068,
+    "locale": "Iraq",
+    "activePer100k": 2.220744168623078,
+    "long": "44.4",
+    "date": "6/27/20",
+    "deathsPer100k": 0.2523005185949729,
+    "lat": "33.3333333333",
+    "active": 889
   }]
 }

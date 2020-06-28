@@ -345,12 +345,12 @@
     "recoveredPer100k": 0.007803295312102061,
     "confirmedPer100k": 0.0,
     "locale": "Korea",
-    "activePer100k": -0.007803295312102061,
+    "activePer100k": 0.0,
     "long": "126.983333",
     "date": "2/12/20",
     "deathsPer100k": 0.0,
     "lat": "37.55",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 256.301975,
     "source": "JHU",
@@ -393,12 +393,12 @@
     "recoveredPer100k": 0.0039016476560510306,
     "confirmedPer100k": 0.0,
     "locale": "Korea",
-    "activePer100k": -0.0039016476560510306,
+    "activePer100k": 0.0,
     "long": "126.983333",
     "date": "2/15/20",
     "deathsPer100k": 0.0,
     "lat": "37.55",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 256.301975,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "37.55",
     "active": -159
+  }, {
+    "epidemiccontrolThreshold": 256.301975,
+    "source": "JHU",
+    "confirmedPer100kN": 0.007508325871896118,
+    "deaths": 0,
+    "confirmed": 51,
+    "recovered": 145,
+    "recoveredPer100k": 0.28286945506369976,
+    "confirmedPer100k": 0.09949201522930129,
+    "locale": "Korea",
+    "activePer100k": -0.18337743983439844,
+    "long": "126.983333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "37.55",
+    "active": -94
+  }, {
+    "epidemiccontrolThreshold": 256.301975,
+    "source": "JHU",
+    "confirmedPer100kN": 0.009127768707010967,
+    "deaths": 0,
+    "confirmed": 62,
+    "recovered": 47,
+    "recoveredPer100k": 0.09168871991719922,
+    "confirmedPer100k": 0.12095107733758195,
+    "locale": "Korea",
+    "activePer100k": 0.02926235742038273,
+    "long": "126.983333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "37.55",
+    "active": 15
   }]
 }

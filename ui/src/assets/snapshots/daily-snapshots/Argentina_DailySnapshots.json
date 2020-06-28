@@ -1017,12 +1017,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Argentina",
-    "activePer100k": -0.004433485950914794,
+    "activePer100k": 0.0,
     "long": "-58.666667",
     "date": "3/25/20",
     "deathsPer100k": 0.004433485950914794,
     "lat": "-34.5833333333",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 225.556145,
     "source": "JHU",
@@ -1129,12 +1129,12 @@
     "recoveredPer100k": 0.017733943803659176,
     "confirmedPer100k": 0.0,
     "locale": "Argentina",
-    "activePer100k": -0.019950686779116572,
+    "activePer100k": 0.0,
     "long": "-58.666667",
     "date": "4/1/20",
     "deathsPer100k": 0.002216742975457397,
     "lat": "-34.5833333333",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 225.556145,
     "source": "JHU",
@@ -1193,12 +1193,12 @@
     "recoveredPer100k": 0.002216742975457397,
     "confirmedPer100k": 0.0,
     "locale": "Argentina",
-    "activePer100k": -0.004433485950914794,
+    "activePer100k": 0.0,
     "long": "-58.666667",
     "date": "4/5/20",
     "deathsPer100k": 0.002216742975457397,
     "lat": "-34.5833333333",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 225.556145,
     "source": "JHU",
@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.14408829340473078,
     "confirmedPer100k": 0.0,
     "locale": "Argentina",
-    "activePer100k": -0.14630503638018819,
+    "activePer100k": 0.0,
     "long": "-58.666667",
     "date": "4/11/20",
     "deathsPer100k": 0.002216742975457397,
     "lat": "-34.5833333333",
-    "active": -66
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 225.556145,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0753692611655515,
     "lat": "-34.5833333333",
     "active": 1600
+  }, {
+    "epidemiccontrolThreshold": 225.556145,
+    "source": "JHU",
+    "confirmedPer100kN": 15.195721285985176,
+    "deaths": 34,
+    "confirmed": 2886,
+    "recovered": 3628,
+    "recoveredPer100k": 8.042343514959436,
+    "confirmedPer100k": 6.397520227170047,
+    "locale": "Argentina",
+    "activePer100k": -1.72019254895494,
+    "long": "-58.666667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0753692611655515,
+    "lat": "-34.5833333333",
+    "active": -776
+  }, {
+    "epidemiccontrolThreshold": 225.556145,
+    "source": "JHU",
+    "confirmedPer100kN": 12.642039780890647,
+    "deaths": 23,
+    "confirmed": 2401,
+    "recovered": 727,
+    "recoveredPer100k": 1.6115721431575274,
+    "confirmedPer100k": 5.32239988407321,
+    "locale": "Argentina",
+    "activePer100k": 3.659842652480162,
+    "long": "-58.666667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.050985088435520125,
+    "lat": "-34.5833333333",
+    "active": 1651
   }]
 }

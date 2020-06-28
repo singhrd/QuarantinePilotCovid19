@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.20165274590544097,
     "confirmedPer100k": -0.604958237716323,
     "locale": "Uruguay",
-    "activePer100k": -0.8066109836217639,
+    "activePer100k": 0.0,
     "long": "-56.166667",
     "date": "4/12/20",
     "deathsPer100k": 0.0,
     "lat": "-34.85",
-    "active": -28
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.35657,
     "source": "JHU",
@@ -2201,12 +2201,12 @@
     "recoveredPer100k": 0.11523014051739484,
     "confirmedPer100k": 0.0,
     "locale": "Uruguay",
-    "activePer100k": -0.11523014051739484,
+    "activePer100k": 0.0,
     "long": "-56.166667",
     "date": "6/7/20",
     "deathsPer100k": 0.0,
     "lat": "-34.85",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.35657,
     "source": "JHU",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.2304602810347897,
     "confirmedPer100k": 0.0,
     "locale": "Uruguay",
-    "activePer100k": -0.2304602810347897,
+    "activePer100k": 0.0,
     "long": "-56.166667",
     "date": "6/8/20",
     "deathsPer100k": 0.0,
     "lat": "-34.85",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.35657,
     "source": "JHU",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.40330549181088193,
     "confirmedPer100k": 0.0,
     "locale": "Uruguay",
-    "activePer100k": -0.40330549181088193,
+    "activePer100k": 0.0,
     "long": "-56.166667",
     "date": "6/11/20",
     "deathsPer100k": 0.0,
     "lat": "-34.85",
-    "active": -14
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.35657,
     "source": "JHU",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.2304602810347897,
     "confirmedPer100k": 0.0,
     "locale": "Uruguay",
-    "activePer100k": -0.2304602810347897,
+    "activePer100k": 0.0,
     "long": "-56.166667",
     "date": "6/12/20",
     "deathsPer100k": 0.0,
     "lat": "-34.85",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.35657,
     "source": "JHU",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.11523014051739484,
     "confirmedPer100k": 0.0,
     "locale": "Uruguay",
-    "activePer100k": -0.11523014051739484,
+    "activePer100k": 0.0,
     "long": "-56.166667",
     "date": "6/13/20",
     "deathsPer100k": 0.0,
     "lat": "-34.85",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.35657,
     "source": "JHU",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.11523014051739484,
     "confirmedPer100k": 0.0,
     "locale": "Uruguay",
-    "activePer100k": -0.11523014051739484,
+    "activePer100k": 0.0,
     "long": "-56.166667",
     "date": "6/15/20",
     "deathsPer100k": 0.0,
     "lat": "-34.85",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.35657,
     "source": "JHU",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.2592678161641384,
     "confirmedPer100k": 0.0,
     "locale": "Uruguay",
-    "activePer100k": -0.2592678161641384,
+    "activePer100k": 0.0,
     "long": "-56.166667",
     "date": "6/17/20",
     "deathsPer100k": 0.0,
     "lat": "-34.85",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.35657,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "-34.85",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 17.35657,
+    "source": "JHU",
+    "confirmedPer100kN": 0.69558775786393,
+    "deaths": 0,
+    "confirmed": 12,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.34569042155218455,
+    "locale": "Uruguay",
+    "activePer100k": 0.34569042155218455,
+    "long": "-56.166667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "-34.85",
+    "active": 12
+  }, {
+    "epidemiccontrolThreshold": 17.35657,
+    "source": "JHU",
+    "confirmedPer100kN": 0.2898282324433042,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.14403767564674355,
+    "locale": "Uruguay",
+    "activePer100k": 0.14403767564674355,
+    "long": "-56.166667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "-34.85",
+    "active": 5
   }]
 }

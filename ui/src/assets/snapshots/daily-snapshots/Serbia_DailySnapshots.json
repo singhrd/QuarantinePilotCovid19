@@ -1033,12 +1033,12 @@
     "recoveredPer100k": -0.17154055310163618,
     "confirmedPer100k": 0.0,
     "locale": "Serbia",
-    "activePer100k": 0.2058486637219634,
+    "activePer100k": 0.0,
     "long": "20.5",
     "date": "3/26/20",
     "deathsPer100k": -0.03430811062032724,
     "lat": "44.8333333333",
-    "active": 18
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 43.72144,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.011436036873442412,
     "lat": "44.8333333333",
     "active": 93
+  }, {
+    "epidemiccontrolThreshold": 43.72144,
+    "source": "JHU",
+    "confirmedPer100kN": 0.8618127864093769,
+    "deaths": 1,
+    "confirmed": 193,
+    "recovered": 78,
+    "recoveredPer100k": 0.892010876128508,
+    "confirmedPer100k": 2.2071551165743855,
+    "locale": "Serbia",
+    "activePer100k": 1.303708203572435,
+    "long": "20.5",
+    "date": "6/26/20",
+    "deathsPer100k": 0.011436036873442412,
+    "lat": "44.8333333333",
+    "active": 114
+  }, {
+    "epidemiccontrolThreshold": 43.72144,
+    "source": "JHU",
+    "confirmedPer100kN": 1.0136347280566247,
+    "deaths": 2,
+    "confirmed": 227,
+    "recovered": 106,
+    "recoveredPer100k": 1.2122199085848957,
+    "confirmedPer100k": 2.5959803702714273,
+    "locale": "Serbia",
+    "activePer100k": 1.360888387939647,
+    "long": "20.5",
+    "date": "6/27/20",
+    "deathsPer100k": 0.022872073746884825,
+    "lat": "44.8333333333",
+    "active": 119
   }]
 }

@@ -825,12 +825,12 @@
     "recoveredPer100k": 0.5329767521462678,
     "confirmedPer100k": 0.0,
     "locale": "Bahrain",
-    "activePer100k": -0.5329767521462678,
+    "activePer100k": 0.0,
     "long": "50.566667",
     "date": "3/13/20",
     "deathsPer100k": 0.0,
     "lat": "26.2333333333",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 8.443145,
     "source": "JHU",
@@ -873,12 +873,12 @@
     "recoveredPer100k": 1.0067338651651725,
     "confirmedPer100k": 0.0,
     "locale": "Bahrain",
-    "activePer100k": -1.0659535042925357,
+    "activePer100k": 0.0,
     "long": "50.566667",
     "date": "3/16/20",
     "deathsPer100k": 0.05921963912736309,
     "lat": "26.2333333333",
-    "active": -18
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 8.443145,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.11843927825472618,
     "lat": "26.2333333333",
     "active": -15
+  }, {
+    "epidemiccontrolThreshold": 8.443145,
+    "source": "JHU",
+    "confirmedPer100kN": 0.7442432394529128,
+    "deaths": 2,
+    "confirmed": 724,
+    "recovered": 636,
+    "recoveredPer100k": 37.663690485002924,
+    "confirmedPer100k": 42.875018728210875,
+    "locale": "Bahrain",
+    "activePer100k": 5.092888964953226,
+    "long": "50.566667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.11843927825472618,
+    "lat": "26.2333333333",
+    "active": 86
+  }, {
+    "epidemiccontrolThreshold": 8.443145,
+    "source": "JHU",
+    "confirmedPer100kN": 0.47491764727520125,
+    "deaths": 5,
+    "confirmed": 462,
+    "recovered": 644,
+    "recoveredPer100k": 38.13744759802183,
+    "confirmedPer100k": 27.359473276841747,
+    "locale": "Bahrain",
+    "activePer100k": -11.074072516816898,
+    "long": "50.566667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.29609819563681544,
+    "lat": "26.2333333333",
+    "active": -187
   }]
 }

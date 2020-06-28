@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.050648852317266034,
     "confirmedPer100k": -0.20259540926906414,
     "locale": "Honduras",
-    "activePer100k": -0.3038931139035962,
+    "activePer100k": 0.0,
     "long": "-87.216667",
     "date": "5/12/20",
     "deathsPer100k": 0.050648852317266034,
     "lat": "14.1",
-    "active": -30
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 49.35946,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.09116793417107887,
     "lat": "14.1",
     "active": 732
+  }, {
+    "epidemiccontrolThreshold": 49.35946,
+    "source": "JHU",
+    "confirmedPer100kN": 2.789612212755534,
+    "deaths": 45,
+    "confirmed": 628,
+    "recovered": 78,
+    "recoveredPer100k": 0.7901220961493501,
+    "confirmedPer100k": 6.3614958510486135,
+    "locale": "Honduras",
+    "activePer100k": 5.115534084043869,
+    "long": "-87.216667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.4558396708553943,
+    "lat": "14.1",
+    "active": 505
+  }, {
+    "epidemiccontrolThreshold": 49.35946,
+    "source": "JHU",
+    "confirmedPer100kN": 4.499804413250566,
+    "deaths": 8,
+    "confirmed": 1013,
+    "recovered": 89,
+    "recoveredPer100k": 0.9015495712473354,
+    "confirmedPer100k": 10.261457479478098,
+    "locale": "Honduras",
+    "activePer100k": 9.278869744523137,
+    "long": "-87.216667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.08103816370762565,
+    "lat": "14.1",
+    "active": 916
   }]
 }

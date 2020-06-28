@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.003631199938008155,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.003631199938008155,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "4/13/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.00726239987601631,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.00726239987601631,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "4/20/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.010893599814024464,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.010893599814024464,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "4/21/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.02904959950406524,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.02904959950406524,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "4/22/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.02178719962804893,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.02178719962804893,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "4/23/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.025418399566057084,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.025418399566057084,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "4/28/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.02904959950406524,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.02904959950406524,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "4/29/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.00726239987601631,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.00726239987601631,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "4/30/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.003631199938008155,
     "confirmedPer100k": 0.0,
     "locale": "Madagascar",
-    "activePer100k": -0.003631199938008155,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "5/4/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.025418399566057084,
     "locale": "Madagascar",
-    "activePer100k": -0.025418399566057084,
+    "activePer100k": 0.0,
     "long": "47.516667",
     "date": "5/11/20",
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 137.69553,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "-18.9166666667",
     "active": -2
+  }, {
+    "epidemiccontrolThreshold": 137.69553,
+    "source": "JHU",
+    "confirmedPer100kN": 0.276415790768688,
+    "deaths": 0,
+    "confirmed": 93,
+    "recovered": 39,
+    "recoveredPer100k": 0.14161679758231804,
+    "confirmedPer100k": 0.33770159423475843,
+    "locale": "Madagascar",
+    "activePer100k": 0.19608479665244036,
+    "long": "47.516667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "-18.9166666667",
+    "active": 54
+  }, {
+    "epidemiccontrolThreshold": 137.69553,
+    "source": "JHU",
+    "confirmedPer100kN": 0.24669366272904414,
+    "deaths": 0,
+    "confirmed": 83,
+    "recovered": 45,
+    "recoveredPer100k": 0.16340399721036697,
+    "confirmedPer100k": 0.30138959485467687,
+    "locale": "Madagascar",
+    "activePer100k": 0.1379855976443099,
+    "long": "47.516667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "-18.9166666667",
+    "active": 38
   }]
 }

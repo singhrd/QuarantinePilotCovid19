@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.07179008578915251,
     "confirmedPer100k": 0.0,
     "locale": "Equatorial Guinea",
-    "activePer100k": -0.07179008578915251,
+    "activePer100k": 0.0,
     "long": "8.783333",
     "date": "3/31/20",
     "deathsPer100k": 0.0,
     "lat": "3.75",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.96475,
     "source": "JHU",
@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.14358017157830502,
     "confirmedPer100k": 0.0,
     "locale": "Equatorial Guinea",
-    "activePer100k": -0.14358017157830502,
+    "activePer100k": 0.0,
     "long": "8.783333",
     "date": "4/6/20",
     "deathsPer100k": 0.0,
     "lat": "3.75",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.96475,
     "source": "JHU",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.07179008578915251,
     "confirmedPer100k": 0.0,
     "locale": "Equatorial Guinea",
-    "activePer100k": -0.07179008578915251,
+    "activePer100k": 0.0,
     "long": "8.783333",
     "date": "4/13/20",
     "deathsPer100k": 0.0,
     "lat": "3.75",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.96475,
     "source": "JHU",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.21537025736745755,
     "confirmedPer100k": 0.0,
     "locale": "Equatorial Guinea",
-    "activePer100k": -0.21537025736745755,
+    "activePer100k": 0.0,
     "long": "8.783333",
     "date": "4/20/20",
     "deathsPer100k": 0.0,
     "lat": "3.75",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.96475,
     "source": "JHU",
@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.07179008578915251,
     "confirmedPer100k": 0.0,
     "locale": "Equatorial Guinea",
-    "activePer100k": -0.07179008578915251,
+    "activePer100k": 0.0,
     "long": "8.783333",
     "date": "4/26/20",
     "deathsPer100k": 0.0,
     "lat": "3.75",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.96475,
     "source": "JHU",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.07179008578915251,
     "confirmedPer100k": 0.0,
     "locale": "Equatorial Guinea",
-    "activePer100k": -0.07179008578915251,
+    "activePer100k": 0.0,
     "long": "8.783333",
     "date": "4/27/20",
     "deathsPer100k": 0.0,
     "lat": "3.75",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.96475,
     "source": "JHU",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.28716034315661004,
     "confirmedPer100k": 0.0,
     "locale": "Equatorial Guinea",
-    "activePer100k": -0.4307405147349151,
+    "activePer100k": 0.0,
     "long": "8.783333",
     "date": "5/4/20",
     "deathsPer100k": 0.14358017157830502,
     "lat": "3.75",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.96475,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "3.75",
     "active": 337
+  }, {
+    "epidemiccontrolThreshold": 6.96475,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Equatorial Guinea",
+    "activePer100k": 0.0,
+    "long": "8.783333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "3.75",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 6.96475,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Equatorial Guinea",
+    "activePer100k": 0.0,
+    "long": "8.783333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "3.75",
+    "active": 0
   }]
 }

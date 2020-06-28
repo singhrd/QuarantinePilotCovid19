@@ -345,12 +345,12 @@
     "recoveredPer100k": 0.0013705951555903048,
     "confirmedPer100k": 0.0,
     "locale": "Russia",
-    "activePer100k": -0.0013705951555903048,
+    "activePer100k": 0.0,
     "long": "37.6",
     "date": "2/12/20",
     "deathsPer100k": 0.0,
     "lat": "55.75",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 729.61005,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.06236207957935887,
     "lat": "55.75",
     "active": 679
+  }, {
+    "epidemiccontrolThreshold": 729.61005,
+    "source": "JHU",
+    "confirmedPer100kN": 21.043345900503464,
+    "deaths": 176,
+    "confirmed": 6788,
+    "recovered": 8967,
+    "recoveredPer100k": 6.145063380089131,
+    "confirmedPer100k": 4.651799958073494,
+    "locale": "Russia",
+    "activePer100k": -1.6138757957075838,
+    "long": "37.6",
+    "date": "6/26/20",
+    "deathsPer100k": 0.12061237369194681,
+    "lat": "55.75",
+    "active": -2355
+  }, {
+    "epidemiccontrolThreshold": 729.61005,
+    "source": "JHU",
+    "confirmedPer100kN": 21.21385032368079,
+    "deaths": 188,
+    "confirmed": 6843,
+    "recovered": 9179,
+    "recoveredPer100k": 6.2903464665817035,
+    "confirmedPer100k": 4.689491324852227,
+    "locale": "Russia",
+    "activePer100k": -1.7296910863549646,
+    "long": "37.6",
+    "date": "6/27/20",
+    "deathsPer100k": 0.12883594462548864,
+    "lat": "55.75",
+    "active": -2524
   }]
 }

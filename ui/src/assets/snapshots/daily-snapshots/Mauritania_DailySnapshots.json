@@ -1081,12 +1081,12 @@
     "recoveredPer100k": 0.04325694517290342,
     "confirmedPer100k": 0.0,
     "locale": "Mauritania",
-    "activePer100k": -0.04325694517290342,
+    "activePer100k": 0.0,
     "long": "-15.966667",
     "date": "3/29/20",
     "deathsPer100k": 0.0,
     "lat": "18.0666666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 23.117675,
     "source": "JHU",
@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Mauritania",
-    "activePer100k": -0.02162847258645171,
+    "activePer100k": 0.0,
     "long": "-15.966667",
     "date": "3/30/20",
     "deathsPer100k": 0.02162847258645171,
     "lat": "18.0666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 23.117675,
     "source": "JHU",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.08651389034580684,
     "confirmedPer100k": 0.0,
     "locale": "Mauritania",
-    "activePer100k": -0.08651389034580684,
+    "activePer100k": 0.0,
     "long": "-15.966667",
     "date": "4/19/20",
     "deathsPer100k": 0.0,
     "lat": "18.0666666667",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 23.117675,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.06488541775935514,
     "lat": "18.0666666667",
     "active": 66
+  }, {
+    "epidemiccontrolThreshold": 23.117675,
+    "source": "JHU",
+    "confirmedPer100kN": 31.09906276606174,
+    "deaths": 1,
+    "confirmed": 168,
+    "recovered": 55,
+    "recoveredPer100k": 1.189565992254844,
+    "confirmedPer100k": 3.633583394523887,
+    "locale": "Mauritania",
+    "activePer100k": 2.4223889296825916,
+    "long": "-15.966667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.02162847258645171,
+    "lat": "18.0666666667",
+    "active": 112
+  }, {
+    "epidemiccontrolThreshold": 23.117675,
+    "source": "JHU",
+    "confirmedPer100kN": 21.84338932378146,
+    "deaths": 1,
+    "confirmed": 118,
+    "recovered": 64,
+    "recoveredPer100k": 1.3842222455329094,
+    "confirmedPer100k": 2.552159765201302,
+    "locale": "Mauritania",
+    "activePer100k": 1.1463090470819406,
+    "long": "-15.966667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.02162847258645171,
+    "lat": "18.0666666667",
+    "active": 53
   }]
 }

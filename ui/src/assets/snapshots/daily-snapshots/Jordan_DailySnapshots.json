@@ -825,12 +825,12 @@
     "recoveredPer100k": 0.00982082687041085,
     "confirmedPer100k": 0.0,
     "locale": "Jordan",
-    "activePer100k": -0.00982082687041085,
+    "activePer100k": 0.0,
     "long": "35.933333",
     "date": "3/13/20",
     "deathsPer100k": 0.0,
     "lat": "31.95",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 50.91221,
     "source": "JHU",
@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.08838744183369765,
     "confirmedPer100k": 0.0,
     "locale": "Jordan",
-    "activePer100k": -0.08838744183369765,
+    "activePer100k": 0.0,
     "long": "35.933333",
     "date": "4/10/20",
     "deathsPer100k": 0.0,
     "lat": "31.95",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 50.91221,
     "source": "JHU",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0589249612224651,
     "confirmedPer100k": 0.0,
     "locale": "Jordan",
-    "activePer100k": -0.06874578809287595,
+    "activePer100k": 0.0,
     "long": "35.933333",
     "date": "4/28/20",
     "deathsPer100k": 0.00982082687041085,
     "lat": "31.95",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 50.91221,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "31.95",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 50.91221,
+    "source": "JHU",
+    "confirmedPer100kN": 0.05976445256617802,
+    "deaths": 0,
+    "confirmed": 18,
+    "recovered": 33,
+    "recoveredPer100k": 0.3240872867235581,
+    "confirmedPer100k": 0.1767748836673953,
+    "locale": "Jordan",
+    "activePer100k": -0.14731240305616275,
+    "long": "35.933333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "31.95",
+    "active": -15
+  }, {
+    "epidemiccontrolThreshold": 50.91221,
+    "source": "JHU",
+    "confirmedPer100kN": 0.023241731553513674,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 11,
+    "recoveredPer100k": 0.10802909557451935,
+    "confirmedPer100k": 0.06874578809287595,
+    "locale": "Jordan",
+    "activePer100k": -0.0392833074816434,
+    "long": "35.933333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "31.95",
+    "active": -4
   }]
 }

@@ -409,12 +409,12 @@
     "recoveredPer100k": 0.0002178279826840956,
     "confirmedPer100k": 0.0,
     "locale": "India",
-    "activePer100k": -0.0002178279826840956,
+    "activePer100k": 0.0,
     "long": "77.2",
     "date": "2/16/20",
     "deathsPer100k": 0.0,
     "lat": "28.6",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6886.167615,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.029551996317475637,
     "lat": "28.6",
     "active": 2949
+  }, {
+    "epidemiccontrolThreshold": 6886.167615,
+    "source": "JHU",
+    "confirmedPer100kN": 0.12390264497547672,
+    "deaths": 384,
+    "confirmed": 18552,
+    "recovered": 10244,
+    "recoveredPer100k": 0.7438099515386252,
+    "confirmedPer100k": 1.3470482449184473,
+    "locale": "India",
+    "activePer100k": 0.5753563115962579,
+    "long": "77.2",
+    "date": "6/26/20",
+    "deathsPer100k": 0.027881981783564238,
+    "lat": "28.6",
+    "active": 7924
+  }, {
+    "epidemiccontrolThreshold": 6886.167615,
+    "source": "JHU",
+    "confirmedPer100kN": 0.1329455611730185,
+    "deaths": 410,
+    "confirmed": 19906,
+    "recovered": 13832,
+    "recoveredPer100k": 1.0043322188288035,
+    "confirmedPer100k": 1.4453612744365356,
+    "locale": "India",
+    "activePer100k": 0.4112592313075725,
+    "long": "77.2",
+    "date": "6/27/20",
+    "deathsPer100k": 0.029769824300159734,
+    "lat": "28.6",
+    "active": 5664
   }]
 }

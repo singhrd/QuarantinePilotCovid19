@@ -1001,12 +1001,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Cabo Verde",
-    "activePer100k": -0.18026137899954933,
+    "activePer100k": 0.0,
     "long": "-23.516667",
     "date": "3/24/20",
     "deathsPer100k": 0.18026137899954933,
     "lat": "14.9166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.77375,
     "source": "JHU",
@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.18026137899954933,
     "confirmedPer100k": 0.0,
     "locale": "Cabo Verde",
-    "activePer100k": -0.18026137899954933,
+    "activePer100k": 0.0,
     "long": "-23.516667",
     "date": "4/6/20",
     "deathsPer100k": 0.0,
     "lat": "14.9166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.77375,
     "source": "JHU",
@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.18026137899954933,
     "confirmedPer100k": 0.0,
     "locale": "Cabo Verde",
-    "activePer100k": -0.18026137899954933,
+    "activePer100k": 0.0,
     "long": "-23.516667",
     "date": "5/18/20",
     "deathsPer100k": 0.0,
     "lat": "14.9166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.77375,
     "source": "JHU",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Cabo Verde",
-    "activePer100k": -0.18026137899954933,
+    "activePer100k": 0.0,
     "long": "-23.516667",
     "date": "5/26/20",
     "deathsPer100k": 0.18026137899954933,
     "lat": "14.9166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.77375,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "14.9166666667",
     "active": -79
+  }, {
+    "epidemiccontrolThreshold": 2.77375,
+    "source": "JHU",
+    "confirmedPer100kN": 1.2116514797792681,
+    "deaths": 2,
+    "confirmed": 24,
+    "recovered": 6,
+    "recoveredPer100k": 1.081568273997296,
+    "confirmedPer100k": 4.326273095989184,
+    "locale": "Cabo Verde",
+    "activePer100k": 2.8841820639927893,
+    "long": "-23.516667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.36052275799909866,
+    "lat": "14.9166666667",
+    "active": 16
+  }, {
+    "epidemiccontrolThreshold": 2.77375,
+    "source": "JHU",
+    "confirmedPer100kN": 3.231070612744715,
+    "deaths": 2,
+    "confirmed": 64,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.536728255971157,
+    "locale": "Cabo Verde",
+    "activePer100k": 11.17620549797206,
+    "long": "-23.516667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.36052275799909866,
+    "lat": "14.9166666667",
+    "active": 62
   }]
 }

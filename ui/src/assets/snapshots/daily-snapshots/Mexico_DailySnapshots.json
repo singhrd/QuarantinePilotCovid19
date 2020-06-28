@@ -665,12 +665,12 @@
     "recoveredPer100k": 0.0007772689921772461,
     "confirmedPer100k": 0.0,
     "locale": "Mexico",
-    "activePer100k": -0.0007772689921772461,
+    "activePer100k": 0.0,
     "long": "-99.133333",
     "date": "3/3/20",
     "deathsPer100k": 0.0,
     "lat": "19.4333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 643.277945,
     "source": "JHU",
@@ -777,12 +777,12 @@
     "recoveredPer100k": 0.0023318069765317384,
     "confirmedPer100k": 0.0,
     "locale": "Mexico",
-    "activePer100k": -0.0023318069765317384,
+    "activePer100k": 0.0,
     "long": "-99.133333",
     "date": "3/10/20",
     "deathsPer100k": 0.0,
     "lat": "19.4333333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 643.277945,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.5720699782424532,
     "lat": "19.4333333333",
     "active": 1493
+  }, {
+    "epidemiccontrolThreshold": 643.277945,
+    "source": "JHU",
+    "confirmedPer100kN": 2.487776527939714,
+    "deaths": 719,
+    "confirmed": 5441,
+    "recovered": 4465,
+    "recoveredPer100k": 3.470506050071404,
+    "confirmedPer100k": 4.229120586436396,
+    "locale": "Mexico",
+    "activePer100k": 0.19975813098955225,
+    "long": "-99.133333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.55885640537544,
+    "lat": "19.4333333333",
+    "active": 257
+  }, {
+    "epidemiccontrolThreshold": 643.277945,
+    "source": "JHU",
+    "confirmedPer100kN": 2.0163746532281084,
+    "deaths": 602,
+    "confirmed": 4410,
+    "recovered": 3894,
+    "recoveredPer100k": 3.0266854555381966,
+    "confirmedPer100k": 3.4277562555016554,
+    "locale": "Mexico",
+    "activePer100k": -0.06684513332724316,
+    "long": "-99.133333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.4679159332907022,
+    "lat": "19.4333333333",
+    "active": -86
   }]
 }

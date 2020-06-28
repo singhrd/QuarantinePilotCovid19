@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.0032324407756241643,
     "confirmedPer100k": 0.0,
     "locale": "Ghana",
-    "activePer100k": -0.0032324407756241643,
+    "activePer100k": 0.0,
     "long": "-0.216667",
     "date": "4/10/20",
     "deathsPer100k": 0.0,
     "lat": "5.55",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 154.681875,
     "source": "JHU",
@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.02909196698061748,
     "confirmedPer100k": 0.0,
     "locale": "Ghana",
-    "activePer100k": -0.02909196698061748,
+    "activePer100k": 0.0,
     "long": "-0.216667",
     "date": "5/7/20",
     "deathsPer100k": 0.0,
     "lat": "5.55",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 154.681875,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "5.55",
     "active": 107
+  }, {
+    "epidemiccontrolThreshold": 154.681875,
+    "source": "JHU",
+    "confirmedPer100kN": 0.34586304143776264,
+    "deaths": 8,
+    "confirmed": 361,
+    "recovered": 324,
+    "recoveredPer100k": 1.0473108113022291,
+    "confirmedPer100k": 1.1669111200003233,
+    "locale": "Ghana",
+    "activePer100k": 0.09374078249310076,
+    "long": "-0.216667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.025859526204993315,
+    "lat": "5.55",
+    "active": 29
+  }, {
+    "epidemiccontrolThreshold": 154.681875,
+    "source": "JHU",
+    "confirmedPer100kN": 0.5719674120175743,
+    "deaths": 0,
+    "confirmed": 597,
+    "recovered": 502,
+    "recoveredPer100k": 1.6226852693633305,
+    "confirmedPer100k": 1.929767143047626,
+    "locale": "Ghana",
+    "activePer100k": 0.3070818736842956,
+    "long": "-0.216667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "5.55",
+    "active": 95
   }]
 }

@@ -761,12 +761,12 @@
     "recoveredPer100k": 0.010582077769805947,
     "confirmedPer100k": 0.0,
     "locale": "Belarus",
-    "activePer100k": -0.010582077769805947,
+    "activePer100k": 0.0,
     "long": "27.566667",
     "date": "3/9/20",
     "deathsPer100k": 0.0,
     "lat": "53.9",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 47.2497,
     "source": "JHU",
@@ -1001,12 +1001,12 @@
     "recoveredPer100k": 0.07407454438864162,
     "confirmedPer100k": 0.0,
     "locale": "Belarus",
-    "activePer100k": -0.07407454438864162,
+    "activePer100k": 0.0,
     "long": "27.566667",
     "date": "3/24/20",
     "deathsPer100k": 0.0,
     "lat": "53.9",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 47.2497,
     "source": "JHU",
@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.1587311665470892,
     "confirmedPer100k": 0.0,
     "locale": "Belarus",
-    "activePer100k": -0.16931324431689515,
+    "activePer100k": 0.0,
     "long": "27.566667",
     "date": "3/31/20",
     "deathsPer100k": 0.010582077769805947,
     "lat": "53.9",
-    "active": -16
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 47.2497,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.05291038884902973,
     "lat": "53.9",
     "active": -880
+  }, {
+    "epidemiccontrolThreshold": 47.2497,
+    "source": "JHU",
+    "confirmedPer100kN": 2.971157395351363,
+    "deaths": 6,
+    "confirmed": 331,
+    "recovered": 1241,
+    "recoveredPer100k": 13.13235851232918,
+    "confirmedPer100k": 3.502667741805768,
+    "locale": "Belarus",
+    "activePer100k": -9.693183237142247,
+    "long": "27.566667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.06349246661883567,
+    "lat": "53.9",
+    "active": -916
+  }, {
+    "epidemiccontrolThreshold": 47.2497,
+    "source": "JHU",
+    "confirmedPer100kN": 3.4289490182000626,
+    "deaths": 4,
+    "confirmed": 382,
+    "recovered": 1437,
+    "recoveredPer100k": 15.206445755211146,
+    "confirmedPer100k": 4.042353708065871,
+    "locale": "Belarus",
+    "activePer100k": -11.206420358224497,
+    "long": "27.566667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.04232831107922379,
+    "lat": "53.9",
+    "active": -1059
   }]
 }

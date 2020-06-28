@@ -921,12 +921,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Greece",
-    "activePer100k": -0.00958493677344382,
+    "activePer100k": 0.0,
     "long": "23.733333",
     "date": "3/19/20",
     "deathsPer100k": 0.00958493677344382,
     "lat": "37.9833333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 52.165185,
     "source": "JHU",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Greece",
-    "activePer100k": -0.02875481032033146,
+    "activePer100k": 0.0,
     "long": "23.733333",
     "date": "4/19/20",
     "deathsPer100k": 0.02875481032033146,
     "lat": "37.9833333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 52.165185,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.00958493677344382,
     "lat": "37.9833333333",
     "active": 10
+  }, {
+    "epidemiccontrolThreshold": 52.165185,
+    "source": "JHU",
+    "confirmedPer100kN": 0.10309991620516469,
+    "deaths": 0,
+    "confirmed": 22,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.21086860901576404,
+    "locale": "Greece",
+    "activePer100k": 0.21086860901576404,
+    "long": "23.733333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "37.9833333333",
+    "active": 22
+  }, {
+    "epidemiccontrolThreshold": 52.165185,
+    "source": "JHU",
+    "confirmedPer100kN": 0.10778627603267217,
+    "deaths": 0,
+    "confirmed": 23,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.22045354578920787,
+    "locale": "Greece",
+    "activePer100k": 0.22045354578920787,
+    "long": "23.733333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "37.9833333333",
+    "active": 23
   }]
 }

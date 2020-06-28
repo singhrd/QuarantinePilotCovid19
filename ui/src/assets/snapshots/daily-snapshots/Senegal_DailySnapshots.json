@@ -745,12 +745,12 @@
     "recoveredPer100k": 0.0060061506586434905,
     "confirmedPer100k": 0.0,
     "locale": "Senegal",
-    "activePer100k": -0.0060061506586434905,
+    "activePer100k": 0.0,
     "long": "-17.633333",
     "date": "3/8/20",
     "deathsPer100k": 0.0,
     "lat": "14.7333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 83.247995,
     "source": "JHU",
@@ -873,12 +873,12 @@
     "recoveredPer100k": 0.0060061506586434905,
     "confirmedPer100k": 0.0,
     "locale": "Senegal",
-    "activePer100k": -0.0060061506586434905,
+    "activePer100k": 0.0,
     "long": "-17.633333",
     "date": "3/16/20",
     "deathsPer100k": 0.0,
     "lat": "14.7333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 83.247995,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0060061506586434905,
     "lat": "14.7333333333",
     "active": 13
+  }, {
+    "epidemiccontrolThreshold": 83.247995,
+    "source": "JHU",
+    "confirmedPer100kN": 0.3296684598546872,
+    "deaths": 4,
+    "confirmed": 121,
+    "recovered": 31,
+    "recoveredPer100k": 0.1861906704179482,
+    "confirmedPer100k": 0.7267442296958623,
+    "locale": "Senegal",
+    "activePer100k": 0.5165289566433402,
+    "long": "-17.633333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.024024602634573962,
+    "lat": "14.7333333333",
+    "active": 86
+  }, {
+    "epidemiccontrolThreshold": 83.247995,
+    "source": "JHU",
+    "confirmedPer100kN": 0.28607593623753846,
+    "deaths": 4,
+    "confirmed": 105,
+    "recovered": 62,
+    "recoveredPer100k": 0.3723813408358964,
+    "confirmedPer100k": 0.6306458191575665,
+    "locale": "Senegal",
+    "activePer100k": 0.23423987568709612,
+    "long": "-17.633333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.024024602634573962,
+    "lat": "14.7333333333",
+    "active": 39
   }]
 }

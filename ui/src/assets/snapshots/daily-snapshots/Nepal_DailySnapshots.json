@@ -345,12 +345,12 @@
     "recoveredPer100k": 0.0034450272014180288,
     "confirmedPer100k": 0.0,
     "locale": "Nepal",
-    "activePer100k": -0.0034450272014180288,
+    "activePer100k": 0.0,
     "long": "85.316667",
     "date": "2/12/20",
     "deathsPer100k": 0.0,
     "lat": "27.7166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 145.136735,
     "source": "JHU",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0034450272014180288,
     "confirmedPer100k": 0.0,
     "locale": "Nepal",
-    "activePer100k": -0.0034450272014180288,
+    "activePer100k": 0.0,
     "long": "85.316667",
     "date": "4/16/20",
     "deathsPer100k": 0.0,
     "lat": "27.7166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 145.136735,
     "source": "JHU",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.0068900544028360575,
     "confirmedPer100k": 0.0,
     "locale": "Nepal",
-    "activePer100k": -0.0068900544028360575,
+    "activePer100k": 0.0,
     "long": "85.316667",
     "date": "4/19/20",
     "deathsPer100k": 0.0,
     "lat": "27.7166666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 145.136735,
     "source": "JHU",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0034450272014180288,
     "confirmedPer100k": 0.0,
     "locale": "Nepal",
-    "activePer100k": -0.0034450272014180288,
+    "activePer100k": 0.0,
     "long": "85.316667",
     "date": "4/25/20",
     "deathsPer100k": 0.0,
     "lat": "27.7166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 145.136735,
     "source": "JHU",
@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.0034450272014180288,
     "locale": "Nepal",
-    "activePer100k": -0.0034450272014180288,
+    "activePer100k": 0.0,
     "long": "85.316667",
     "date": "5/14/20",
     "deathsPer100k": 0.0,
     "lat": "27.7166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 145.136735,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0068900544028360575,
     "lat": "27.7166666667",
     "active": 120
+  }, {
+    "epidemiccontrolThreshold": 145.136735,
+    "source": "JHU",
+    "confirmedPer100kN": 0.3984348787700563,
+    "deaths": 1,
+    "confirmed": 593,
+    "recovered": 48,
+    "recoveredPer100k": 0.16536130566806537,
+    "confirmedPer100k": 2.042901130440891,
+    "locale": "Nepal",
+    "activePer100k": 1.8740947975714075,
+    "long": "85.316667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0034450272014180288,
+    "lat": "27.7166666667",
+    "active": 544
+  }, {
+    "epidemiccontrolThreshold": 145.136735,
+    "source": "JHU",
+    "confirmedPer100kN": 0.37223089854740504,
+    "deaths": 1,
+    "confirmed": 554,
+    "recovered": 136,
+    "recoveredPer100k": 0.4685236993928519,
+    "confirmedPer100k": 1.908545069585588,
+    "locale": "Nepal",
+    "activePer100k": 1.4365763429913179,
+    "long": "85.316667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0034450272014180288,
+    "lat": "27.7166666667",
+    "active": 417
   }]
 }

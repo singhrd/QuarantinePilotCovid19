@@ -409,12 +409,12 @@
     "recoveredPer100k": 0.010322337399518312,
     "confirmedPer100k": 0.0,
     "locale": "United Kingdom",
-    "activePer100k": -0.010322337399518312,
+    "activePer100k": 0.0,
     "long": "-0.083333",
     "date": "2/16/20",
     "deathsPer100k": 0.0,
     "lat": "51.5",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 339.07049,
     "source": "JHU",
@@ -809,12 +809,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "United Kingdom",
-    "activePer100k": -0.002949239257005232,
+    "activePer100k": 0.0,
     "long": "-0.083333",
     "date": "3/12/20",
     "deathsPer100k": 0.002949239257005232,
     "lat": "51.5",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 339.07049,
     "source": "JHU",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.025068533684544474,
     "confirmedPer100k": -0.7653275871928578,
     "locale": "United Kingdom",
-    "activePer100k": -1.3271576656523545,
+    "activePer100k": 0.0,
     "long": "-0.083333",
     "date": "5/20/20",
     "deathsPer100k": 0.5367615447749522,
     "lat": "51.5",
-    "active": -900
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 339.07049,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.21971832464688978,
     "lat": "51.5",
     "active": 953
+  }, {
+    "epidemiccontrolThreshold": 339.07049,
+    "source": "JHU",
+    "confirmedPer100kN": 0.28133330648116117,
+    "deaths": 184,
+    "confirmed": 1381,
+    "recovered": 2,
+    "recoveredPer100k": 0.002949239257005232,
+    "confirmedPer100k": 2.0364497069621126,
+    "locale": "United Kingdom",
+    "activePer100k": 1.7621704560606262,
+    "long": "-0.083333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.27133001164448134,
+    "lat": "51.5",
+    "active": 1195
+  }, {
+    "epidemiccontrolThreshold": 339.07049,
+    "source": "JHU",
+    "confirmedPer100kN": 0.1815119305392575,
+    "deaths": 100,
+    "confirmed": 891,
+    "recovered": 1,
+    "recoveredPer100k": 0.001474619628502616,
+    "confirmedPer100k": 1.3138860889958308,
+    "locale": "United Kingdom",
+    "activePer100k": 1.1649495065170667,
+    "long": "-0.083333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.1474619628502616,
+    "lat": "51.5",
+    "active": 790
   }]
 }

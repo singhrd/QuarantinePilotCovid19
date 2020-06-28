@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 2.73727849817971,
     "confirmedPer100k": 0.0,
     "locale": "Cyprus",
-    "activePer100k": -2.73727849817971,
+    "activePer100k": 0.0,
     "long": "33.366667",
     "date": "5/23/20",
     "deathsPer100k": 0.0,
     "lat": "35.1666666667",
-    "active": -33
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.027885,
     "source": "JHU",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Cyprus",
-    "activePer100k": -0.08294783327817302,
+    "activePer100k": 0.0,
     "long": "33.366667",
     "date": "6/6/20",
     "deathsPer100k": 0.08294783327817302,
     "lat": "35.1666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.027885,
     "source": "JHU",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.7465304995035572,
     "confirmedPer100k": 0.0,
     "locale": "Cyprus",
-    "activePer100k": -0.7465304995035572,
+    "activePer100k": 0.0,
     "long": "33.366667",
     "date": "6/16/20",
     "deathsPer100k": 0.0,
     "lat": "35.1666666667",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.027885,
     "source": "JHU",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.16589566655634605,
     "confirmedPer100k": 0.0,
     "locale": "Cyprus",
-    "activePer100k": -0.24884349983451906,
+    "activePer100k": 0.0,
     "long": "33.366667",
     "date": "6/18/20",
     "deathsPer100k": 0.08294783327817302,
     "lat": "35.1666666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.027885,
     "source": "JHU",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.4976869996690381,
     "confirmedPer100k": 0.0,
     "locale": "Cyprus",
-    "activePer100k": -0.4976869996690381,
+    "activePer100k": 0.0,
     "long": "33.366667",
     "date": "6/20/20",
     "deathsPer100k": 0.0,
     "lat": "35.1666666667",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.027885,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "35.1666666667",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 6.027885,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Cyprus",
+    "activePer100k": 0.0,
+    "long": "33.366667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "35.1666666667",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 6.027885,
+    "source": "JHU",
+    "confirmedPer100kN": 0.04907807331915664,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.16589566655634605,
+    "locale": "Cyprus",
+    "activePer100k": 0.16589566655634605,
+    "long": "33.366667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "35.1666666667",
+    "active": 2
   }]
 }

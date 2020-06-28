@@ -297,12 +297,12 @@
     "recoveredPer100k": 0.0009074120044014321,
     "confirmedPer100k": 0.0,
     "locale": "US",
-    "activePer100k": -0.0009074120044014321,
+    "activePer100k": 0.0,
     "long": "-77",
     "date": "2/9/20",
     "deathsPer100k": 0.0,
     "lat": "38.883333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1653.05285,
     "source": "JHU",
@@ -553,12 +553,12 @@
     "recoveredPer100k": 0.0003024706681338107,
     "confirmedPer100k": 0.0,
     "locale": "US",
-    "activePer100k": -0.0003024706681338107,
+    "activePer100k": 0.0,
     "long": "-77",
     "date": "2/25/20",
     "deathsPer100k": 0.0,
     "lat": "38.883333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1653.05285,
     "source": "JHU",
@@ -601,12 +601,12 @@
     "recoveredPer100k": 0.0003024706681338107,
     "confirmedPer100k": 0.0,
     "locale": "US",
-    "activePer100k": -0.0003024706681338107,
+    "activePer100k": 0.0,
     "long": "-77",
     "date": "2/28/20",
     "deathsPer100k": 0.0,
     "lat": "38.883333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1653.05285,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.733491370224491,
     "lat": "38.883333",
     "active": 30146
+  }, {
+    "epidemiccontrolThreshold": 1653.05285,
+    "source": "JHU",
+    "confirmedPer100kN": 14.965086359313121,
+    "deaths": 629,
+    "confirmed": 45255,
+    "recovered": 7247,
+    "recoveredPer100k": 2.192004931965726,
+    "confirmedPer100k": 13.688310086395605,
+    "locale": "US",
+    "activePer100k": 11.306051104173712,
+    "long": "-77",
+    "date": "6/26/20",
+    "deathsPer100k": 0.19025405025616693,
+    "lat": "38.883333",
+    "active": 37379
+  }, {
+    "epidemiccontrolThreshold": 1653.05285,
+    "source": "JHU",
+    "confirmedPer100kN": 14.086129348086642,
+    "deaths": 500,
+    "confirmed": 42597,
+    "recovered": 8499,
+    "recoveredPer100k": 2.570698208469257,
+    "confirmedPer100k": 12.884343050495936,
+    "locale": "US",
+    "activePer100k": 10.162409507959772,
+    "long": "-77",
+    "date": "6/27/20",
+    "deathsPer100k": 0.15123533406690537,
+    "lat": "38.883333",
+    "active": 33598
   }]
 }

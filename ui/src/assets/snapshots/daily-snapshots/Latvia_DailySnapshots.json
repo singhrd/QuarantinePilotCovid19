@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Latvia",
-    "activePer100k": -0.05290395076123494,
+    "activePer100k": 0.0,
     "long": "24.1",
     "date": "5/5/20",
     "deathsPer100k": 0.05290395076123494,
     "lat": "56.95",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 9.45109,
     "source": "JHU",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Latvia",
-    "activePer100k": -0.05290395076123494,
+    "activePer100k": 0.0,
     "long": "24.1",
     "date": "6/8/20",
     "deathsPer100k": 0.05290395076123494,
     "lat": "56.95",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 9.45109,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "56.95",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 9.45109,
+    "source": "JHU",
+    "confirmedPer100kN": 0.06991301931812138,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 29,
+    "recoveredPer100k": 1.5342145720758134,
+    "confirmedPer100k": 0.05290395076123494,
+    "locale": "Latvia",
+    "activePer100k": -1.4813106213145784,
+    "long": "24.1",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "56.95",
+    "active": -28
+  }, {
+    "epidemiccontrolThreshold": 9.45109,
+    "source": "JHU",
+    "confirmedPer100kN": 0.20973905795436415,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.15871185228370482,
+    "locale": "Latvia",
+    "activePer100k": 0.15871185228370482,
+    "long": "24.1",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "56.95",
+    "active": 3
   }]
 }

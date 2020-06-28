@@ -601,12 +601,12 @@
     "recoveredPer100k": 0.0009810627806011239,
     "confirmedPer100k": 0.0,
     "locale": "Egypt",
-    "activePer100k": -0.0009810627806011239,
+    "activePer100k": 0.0,
     "long": "31.25",
     "date": "2/28/20",
     "deathsPer100k": 0.0,
     "lat": "30.05",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 509.65138,
     "source": "JHU",
@@ -905,12 +905,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Egypt",
-    "activePer100k": -0.0019621255612022478,
+    "activePer100k": 0.0,
     "long": "31.25",
     "date": "3/18/20",
     "deathsPer100k": 0.0019621255612022478,
     "lat": "30.05",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 509.65138,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.08142821078989328,
     "lat": "30.05",
     "active": 1083
+  }, {
+    "epidemiccontrolThreshold": 509.65138,
+    "source": "JHU",
+    "confirmedPer100kN": 0.6029641712812926,
+    "deaths": 87,
+    "confirmed": 1625,
+    "recovered": 399,
+    "recoveredPer100k": 0.3914440494598484,
+    "confirmedPer100k": 1.5942270184768261,
+    "locale": "Egypt",
+    "activePer100k": 1.11743050710468,
+    "long": "31.25",
+    "date": "6/26/20",
+    "deathsPer100k": 0.08535246191229777,
+    "lat": "30.05",
+    "active": 1139
+  }, {
+    "epidemiccontrolThreshold": 509.65138,
+    "source": "JHU",
+    "confirmedPer100kN": 0.43339209357326147,
+    "deaths": 88,
+    "confirmed": 1168,
+    "recovered": 403,
+    "recoveredPer100k": 0.3953683005822529,
+    "confirmedPer100k": 1.1458813277421127,
+    "locale": "Egypt",
+    "activePer100k": 0.6641795024669608,
+    "long": "31.25",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0863335246928989,
+    "lat": "30.05",
+    "active": 677
   }]
 }

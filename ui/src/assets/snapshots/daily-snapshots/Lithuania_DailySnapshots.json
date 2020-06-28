@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 2.2714341872094077,
     "confirmedPer100k": -3.8467837041449644,
     "locale": "Lithuania",
-    "activePer100k": -6.228125997187085,
+    "activePer100k": 0.0,
     "long": "25.316667",
     "date": "4/28/20",
     "deathsPer100k": 0.10990810583271327,
     "lat": "54.6833333333",
-    "active": -170
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 13.647765,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "54.6833333333",
     "active": -8
+  }, {
+    "epidemiccontrolThreshold": 13.647765,
+    "source": "JHU",
+    "confirmedPer100kN": 0.06786059524770888,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 7,
+    "recoveredPer100k": 0.2564522469429976,
+    "confirmedPer100k": 0.07327207055514218,
+    "locale": "Lithuania",
+    "activePer100k": -0.18318017638785544,
+    "long": "25.316667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "54.6833333333",
+    "active": -5
+  }, {
+    "epidemiccontrolThreshold": 13.647765,
+    "source": "JHU",
+    "confirmedPer100kN": 0.1696514881192722,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 2,
+    "recoveredPer100k": 0.07327207055514218,
+    "confirmedPer100k": 0.18318017638785544,
+    "locale": "Lithuania",
+    "activePer100k": 0.10990810583271327,
+    "long": "25.316667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "54.6833333333",
+    "active": 3
   }]
 }

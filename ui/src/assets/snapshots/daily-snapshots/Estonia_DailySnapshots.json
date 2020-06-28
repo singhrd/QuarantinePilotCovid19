@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.5277613794777726,
     "confirmedPer100k": 0.0,
     "locale": "Estonia",
-    "activePer100k": -0.5277613794777726,
+    "activePer100k": 0.0,
     "long": "24.716667",
     "date": "6/2/20",
     "deathsPer100k": 0.0,
     "lat": "59.4333333333",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.631785,
     "source": "JHU",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.3769724139126947,
     "confirmedPer100k": 0.0,
     "locale": "Estonia",
-    "activePer100k": -0.3769724139126947,
+    "activePer100k": 0.0,
     "long": "24.716667",
     "date": "6/18/20",
     "deathsPer100k": 0.0,
     "lat": "59.4333333333",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.631785,
     "source": "JHU",
@@ -2425,12 +2425,12 @@
     "recoveredPer100k": 0.45236689669523367,
     "confirmedPer100k": 0.0,
     "locale": "Estonia",
-    "activePer100k": -0.45236689669523367,
+    "activePer100k": 0.0,
     "long": "24.716667",
     "date": "6/21/20",
     "deathsPer100k": 0.0,
     "lat": "59.4333333333",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.631785,
     "source": "JHU",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.07539448278253894,
     "confirmedPer100k": 0.0,
     "locale": "Estonia",
-    "activePer100k": -0.07539448278253894,
+    "activePer100k": 0.0,
     "long": "24.716667",
     "date": "6/22/20",
     "deathsPer100k": 0.0,
     "lat": "59.4333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.631785,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "59.4333333333",
     "active": -6
+  }, {
+    "epidemiccontrolThreshold": 6.631785,
+    "source": "JHU",
+    "confirmedPer100kN": 0.19849455030069632,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 7,
+    "recoveredPer100k": 0.5277613794777726,
+    "confirmedPer100k": 0.15078896556507787,
+    "locale": "Estonia",
+    "activePer100k": -0.3769724139126947,
+    "long": "24.716667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "59.4333333333",
+    "active": -5
+  }, {
+    "epidemiccontrolThreshold": 6.631785,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 15,
+    "recoveredPer100k": 1.1309172417380842,
+    "confirmedPer100k": 0.0,
+    "locale": "Estonia",
+    "activePer100k": 0.0,
+    "long": "24.716667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "59.4333333333",
+    "active": 0
   }]
 }

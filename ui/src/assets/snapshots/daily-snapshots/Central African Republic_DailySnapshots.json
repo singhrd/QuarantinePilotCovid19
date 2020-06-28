@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.020780274366118512,
     "confirmedPer100k": 0.0,
     "locale": "Central African Republic",
-    "activePer100k": -0.020780274366118512,
+    "activePer100k": 0.0,
     "long": "18.583333",
     "date": "4/14/20",
     "deathsPer100k": 0.0,
     "lat": "4.3666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 24.06128,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.041560548732237024,
     "lat": "4.3666666667",
     "active": 108
+  }, {
+    "epidemiccontrolThreshold": 24.06128,
+    "source": "JHU",
+    "confirmedPer100kN": 9.935138870116873,
+    "deaths": 0,
+    "confirmed": 96,
+    "recovered": 54,
+    "recoveredPer100k": 1.1221348157703996,
+    "confirmedPer100k": 1.9949063391473771,
+    "locale": "Central African Republic",
+    "activePer100k": 0.8727715233769775,
+    "long": "18.583333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "4.3666666667",
+    "active": 42
+  }, {
+    "epidemiccontrolThreshold": 24.06128,
+    "source": "JHU",
+    "confirmedPer100kN": 9.210701660837517,
+    "deaths": 5,
+    "confirmed": 89,
+    "recovered": 38,
+    "recoveredPer100k": 0.7896504259125035,
+    "confirmedPer100k": 1.8494444185845476,
+    "locale": "Central African Republic",
+    "activePer100k": 0.9558926208414515,
+    "long": "18.583333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.10390137183059256,
+    "lat": "4.3666666667",
+    "active": 46
   }]
 }

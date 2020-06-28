@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.010944883264337702,
     "confirmedPer100k": 0.0,
     "locale": "Zambia",
-    "activePer100k": -0.010944883264337702,
+    "activePer100k": 0.0,
     "long": "28.283333",
     "date": "4/3/20",
     "deathsPer100k": 0.0,
     "lat": "-15.4166666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 91.366895,
     "source": "JHU",
@@ -1193,12 +1193,12 @@
     "recoveredPer100k": 0.005472441632168851,
     "confirmedPer100k": 0.0,
     "locale": "Zambia",
-    "activePer100k": -0.005472441632168851,
+    "activePer100k": 0.0,
     "long": "28.283333",
     "date": "4/5/20",
     "deathsPer100k": 0.0,
     "lat": "-15.4166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 91.366895,
     "source": "JHU",
@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.010944883264337702,
     "confirmedPer100k": 0.0,
     "locale": "Zambia",
-    "activePer100k": -0.010944883264337702,
+    "activePer100k": 0.0,
     "long": "28.283333",
     "date": "4/6/20",
     "deathsPer100k": 0.0,
     "lat": "-15.4166666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 91.366895,
     "source": "JHU",
@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.010944883264337702,
     "confirmedPer100k": 0.0,
     "locale": "Zambia",
-    "activePer100k": -0.010944883264337702,
+    "activePer100k": 0.0,
     "long": "28.283333",
     "date": "4/7/20",
     "deathsPer100k": 0.0,
     "lat": "-15.4166666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 91.366895,
     "source": "JHU",
@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.09303150774687047,
     "confirmedPer100k": 0.0,
     "locale": "Zambia",
-    "activePer100k": -0.09303150774687047,
+    "activePer100k": 0.0,
     "long": "28.283333",
     "date": "4/9/20",
     "deathsPer100k": 0.0,
     "lat": "-15.4166666667",
-    "active": -17
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 91.366895,
     "source": "JHU",
@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.016417324896506554,
     "confirmedPer100k": 0.0,
     "locale": "Zambia",
-    "activePer100k": -0.016417324896506554,
+    "activePer100k": 0.0,
     "long": "28.283333",
     "date": "4/11/20",
     "deathsPer100k": 0.0,
     "lat": "-15.4166666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 91.366895,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "-15.4166666667",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 91.366895,
+    "source": "JHU",
+    "confirmedPer100kN": 0.29409823900151255,
+    "deaths": 3,
+    "confirmed": 34,
+    "recovered": 10,
+    "recoveredPer100k": 0.05472441632168851,
+    "confirmedPer100k": 0.18606301549374094,
+    "locale": "Zambia",
+    "activePer100k": 0.11492127427554587,
+    "long": "28.283333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.016417324896506554,
+    "lat": "-15.4166666667",
+    "active": 21
+  }, {
+    "epidemiccontrolThreshold": 91.366895,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Zambia",
+    "activePer100k": 0.0,
+    "long": "28.283333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "-15.4166666667",
+    "active": 0
   }]
 }

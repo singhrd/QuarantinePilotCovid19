@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Suriname",
-    "activePer100k": -0.17077640075073305,
+    "activePer100k": 0.0,
     "long": "-55.166667",
     "date": "4/3/20",
     "deathsPer100k": 0.17077640075073305,
     "lat": "5.8333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.927805,
     "source": "JHU",
@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.5123292022521991,
     "confirmedPer100k": 0.0,
     "locale": "Suriname",
-    "activePer100k": -0.5123292022521991,
+    "activePer100k": 0.0,
     "long": "-55.166667",
     "date": "4/8/20",
     "deathsPer100k": 0.0,
     "lat": "5.8333333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.927805,
     "source": "JHU",
@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.17077640075073305,
     "confirmedPer100k": 0.0,
     "locale": "Suriname",
-    "activePer100k": -0.17077640075073305,
+    "activePer100k": 0.0,
     "long": "-55.166667",
     "date": "4/9/20",
     "deathsPer100k": 0.0,
     "lat": "5.8333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.927805,
     "source": "JHU",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.3415528015014661,
     "confirmedPer100k": 0.0,
     "locale": "Suriname",
-    "activePer100k": -0.3415528015014661,
+    "activePer100k": 0.0,
     "long": "-55.166667",
     "date": "4/13/20",
     "deathsPer100k": 0.0,
     "lat": "5.8333333333",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.927805,
     "source": "JHU",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.17077640075073305,
     "confirmedPer100k": 0.0,
     "locale": "Suriname",
-    "activePer100k": -0.17077640075073305,
+    "activePer100k": 0.0,
     "long": "-55.166667",
     "date": "4/24/20",
     "deathsPer100k": 0.0,
     "lat": "5.8333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.927805,
     "source": "JHU",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.17077640075073305,
     "confirmedPer100k": 0.0,
     "locale": "Suriname",
-    "activePer100k": -0.17077640075073305,
+    "activePer100k": 0.0,
     "long": "-55.166667",
     "date": "4/29/20",
     "deathsPer100k": 0.0,
     "lat": "5.8333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.927805,
     "source": "JHU",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.17077640075073305,
     "confirmedPer100k": 0.0,
     "locale": "Suriname",
-    "activePer100k": -0.17077640075073305,
+    "activePer100k": 0.0,
     "long": "-55.166667",
     "date": "5/3/20",
     "deathsPer100k": 0.0,
     "lat": "5.8333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.927805,
     "source": "JHU",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Suriname",
-    "activePer100k": -0.17077640075073305,
+    "activePer100k": 0.0,
     "long": "-55.166667",
     "date": "6/23/20",
     "deathsPer100k": 0.17077640075073305,
     "lat": "5.8333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.927805,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "5.8333333333",
     "active": -6
+  }, {
+    "epidemiccontrolThreshold": 2.927805,
+    "source": "JHU",
+    "confirmedPer100kN": 29.461032831377068,
+    "deaths": 0,
+    "confirmed": 16,
+    "recovered": 5,
+    "recoveredPer100k": 0.8538820037536652,
+    "confirmedPer100k": 2.732422412011729,
+    "locale": "Suriname",
+    "activePer100k": 1.8785404082580635,
+    "long": "-55.166667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "5.8333333333",
+    "active": 11
+  }, {
+    "epidemiccontrolThreshold": 2.927805,
+    "source": "JHU",
+    "confirmedPer100kN": 143.6225350529632,
+    "deaths": 1,
+    "confirmed": 78,
+    "recovered": 10,
+    "recoveredPer100k": 1.7077640075073304,
+    "confirmedPer100k": 13.320559258557177,
+    "locale": "Suriname",
+    "activePer100k": 11.442018850299114,
+    "long": "-55.166667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.17077640075073305,
+    "lat": "5.8333333333",
+    "active": 67
   }]
 }

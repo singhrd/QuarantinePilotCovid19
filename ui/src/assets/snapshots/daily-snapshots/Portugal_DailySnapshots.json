@@ -905,12 +905,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Portugal",
-    "activePer100k": -0.009801451026412852,
+    "activePer100k": 0.0,
     "long": "-9.133333",
     "date": "3/18/20",
     "deathsPer100k": 0.009801451026412852,
     "lat": "38.7166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 51.012855,
     "source": "JHU",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.23523482463390843,
     "confirmedPer100k": -1.5780336152524692,
     "locale": "Portugal",
-    "activePer100k": -1.9700916563089832,
+    "activePer100k": 0.0,
     "long": "-9.133333",
     "date": "5/2/20",
     "deathsPer100k": 0.15682321642260563,
     "lat": "38.7166666667",
-    "active": -201
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 51.012855,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.05880870615847711,
     "lat": "38.7166666667",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 51.012855,
+    "source": "JHU",
+    "confirmedPer100kN": 1.5414149616646255,
+    "deaths": 6,
+    "confirmed": 451,
+    "recovered": 251,
+    "recoveredPer100k": 2.4601642076296257,
+    "confirmedPer100k": 4.420454412912196,
+    "locale": "Portugal",
+    "activePer100k": 1.9014814991240934,
+    "long": "-9.133333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.05880870615847711,
+    "lat": "38.7166666667",
+    "active": 194
+  }, {
+    "epidemiccontrolThreshold": 51.012855,
+    "source": "JHU",
+    "confirmedPer100kN": 1.1039402053606964,
+    "deaths": 6,
+    "confirmed": 323,
+    "recovered": 231,
+    "recoveredPer100k": 2.2641351871013686,
+    "confirmedPer100k": 3.165868681531351,
+    "locale": "Portugal",
+    "activePer100k": 0.8429247882715053,
+    "long": "-9.133333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.05880870615847711,
+    "lat": "38.7166666667",
+    "active": 86
   }]
 }

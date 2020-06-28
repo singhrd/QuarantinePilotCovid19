@@ -937,12 +937,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Peru",
-    "activePer100k": -0.009124924042611449,
+    "activePer100k": 0.0,
     "long": "-77.05",
     "date": "3/20/20",
     "deathsPer100k": 0.009124924042611449,
     "lat": "-12.05",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 164.38493,
     "source": "JHU",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 2.281231010652862,
     "confirmedPer100k": 0.0,
     "locale": "Peru",
-    "activePer100k": -2.281231010652862,
+    "activePer100k": 0.0,
     "long": "-77.05",
     "date": "6/2/20",
     "deathsPer100k": 0.0,
     "lat": "-12.05",
-    "active": -750
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 164.38493,
     "source": "JHU",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 14.307880898814751,
     "confirmedPer100k": 0.0,
     "locale": "Peru",
-    "activePer100k": -14.307880898814751,
+    "activePer100k": 0.0,
     "long": "-77.05",
     "date": "6/12/20",
     "deathsPer100k": 0.0,
     "lat": "-12.05",
-    "active": -4704
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 164.38493,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.5322872358190012,
     "lat": "-12.05",
     "active": 4102
+  }, {
+    "epidemiccontrolThreshold": 164.38493,
+    "source": "JHU",
+    "confirmedPer100kN": 17.221061331936838,
+    "deaths": 178,
+    "confirmed": 3762,
+    "recovered": 8581,
+    "recoveredPer100k": 26.10032440321628,
+    "confirmedPer100k": 11.442654749434757,
+    "locale": "Peru",
+    "activePer100k": -15.199081813643136,
+    "long": "-77.05",
+    "date": "6/26/20",
+    "deathsPer100k": 0.5414121598616126,
+    "lat": "-12.05",
+    "active": -4997
+  }, {
+    "epidemiccontrolThreshold": 164.38493,
+    "source": "JHU",
+    "confirmedPer100kN": 16.593925392948176,
+    "deaths": 196,
+    "confirmed": 3625,
+    "recovered": 4218,
+    "recoveredPer100k": 12.829643203911697,
+    "confirmedPer100k": 11.025949884822166,
+    "locale": "Peru",
+    "activePer100k": -2.399855023206811,
+    "long": "-77.05",
+    "date": "6/27/20",
+    "deathsPer100k": 0.5961617041172813,
+    "lat": "-12.05",
+    "active": -789
   }]
 }

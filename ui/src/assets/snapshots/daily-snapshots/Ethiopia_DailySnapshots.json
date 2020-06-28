@@ -1065,12 +1065,12 @@
     "recoveredPer100k": 0.0008744507815115291,
     "confirmedPer100k": 0.0,
     "locale": "Ethiopia",
-    "activePer100k": -0.0008744507815115291,
+    "activePer100k": 0.0,
     "long": "38.7",
     "date": "3/28/20",
     "deathsPer100k": 0.0,
     "lat": "9.0333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 571.78747,
     "source": "JHU",
@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0008744507815115291,
     "confirmedPer100k": 0.0,
     "locale": "Ethiopia",
-    "activePer100k": -0.0008744507815115291,
+    "activePer100k": 0.0,
     "long": "38.7",
     "date": "4/2/20",
     "deathsPer100k": 0.0,
     "lat": "9.0333333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 571.78747,
     "source": "JHU",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0026233523445345873,
     "confirmedPer100k": 0.0,
     "locale": "Ethiopia",
-    "activePer100k": -0.0026233523445345873,
+    "activePer100k": 0.0,
     "long": "38.7",
     "date": "5/2/20",
     "deathsPer100k": 0.0,
     "lat": "9.0333333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 571.78747,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0026233523445345873,
     "lat": "9.0333333333",
     "active": 80
+  }, {
+    "epidemiccontrolThreshold": 571.78747,
+    "source": "JHU",
+    "confirmedPer100kN": 0.08107787080137903,
+    "deaths": 8,
+    "confirmed": 250,
+    "recovered": 144,
+    "recoveredPer100k": 0.1259209125376602,
+    "confirmedPer100k": 0.21861269537788228,
+    "locale": "Ethiopia",
+    "activePer100k": 0.08569617658812985,
+    "long": "38.7",
+    "date": "6/26/20",
+    "deathsPer100k": 0.006995606252092233,
+    "lat": "9.0333333333",
+    "active": 98
+  }, {
+    "epidemiccontrolThreshold": 571.78747,
+    "source": "JHU",
+    "confirmedPer100kN": 0.04702516506479983,
+    "deaths": 5,
+    "confirmed": 145,
+    "recovered": 327,
+    "recoveredPer100k": 0.28594540555427,
+    "confirmedPer100k": 0.1267953633191717,
+    "locale": "Ethiopia",
+    "activePer100k": -0.16352229614265595,
+    "long": "38.7",
+    "date": "6/27/20",
+    "deathsPer100k": 0.004372253907557646,
+    "lat": "9.0333333333",
+    "active": -187
   }]
 }

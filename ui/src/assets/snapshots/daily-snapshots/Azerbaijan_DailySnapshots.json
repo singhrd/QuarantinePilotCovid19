@@ -793,12 +793,12 @@
     "recoveredPer100k": 0.02964264311591607,
     "confirmedPer100k": 0.0,
     "locale": "Azerbaijan",
-    "activePer100k": -0.02964264311591607,
+    "activePer100k": 0.0,
     "long": "49.866667",
     "date": "3/11/20",
     "deathsPer100k": 0.0,
     "lat": "40.3833333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 50.602775,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.05928528623183214,
     "lat": "40.3833333333",
     "active": 250
+  }, {
+    "epidemiccontrolThreshold": 50.602775,
+    "source": "JHU",
+    "confirmedPer100kN": 1.6846185849550877,
+    "deaths": 7,
+    "confirmed": 517,
+    "recovered": 305,
+    "recoveredPer100k": 3.013668716784801,
+    "confirmedPer100k": 5.108415496976203,
+    "locale": "Azerbaijan",
+    "activePer100k": 2.0255806129209315,
+    "long": "49.866667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.06916616727047084,
+    "lat": "40.3833333333",
+    "active": 205
+  }, {
+    "epidemiccontrolThreshold": 50.602775,
+    "source": "JHU",
+    "confirmedPer100kN": 1.6976523844518387,
+    "deaths": 6,
+    "confirmed": 521,
+    "recovered": 355,
+    "recoveredPer100k": 3.5077127687167353,
+    "confirmedPer100k": 5.147939021130758,
+    "locale": "Azerbaijan",
+    "activePer100k": 1.5809409661821905,
+    "long": "49.866667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.05928528623183214,
+    "lat": "40.3833333333",
+    "active": 160
   }]
 }

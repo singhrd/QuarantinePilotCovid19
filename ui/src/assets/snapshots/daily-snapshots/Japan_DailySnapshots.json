@@ -313,12 +313,12 @@
     "recoveredPer100k": 0.002370552709772876,
     "confirmedPer100k": 0.0,
     "locale": "Japan",
-    "activePer100k": -0.002370552709772876,
+    "activePer100k": 0.0,
     "long": "139.75",
     "date": "2/10/20",
     "deathsPer100k": 0.0,
     "lat": "35.6833333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 632.763825,
     "source": "JHU",
@@ -329,12 +329,12 @@
     "recoveredPer100k": 0.003950921182954793,
     "confirmedPer100k": 0.0,
     "locale": "Japan",
-    "activePer100k": -0.003950921182954793,
+    "activePer100k": 0.0,
     "long": "139.75",
     "date": "2/11/20",
     "deathsPer100k": 0.0,
     "lat": "35.6833333333",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 632.763825,
     "source": "JHU",
@@ -361,12 +361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Japan",
-    "activePer100k": -0.0007901842365909587,
+    "activePer100k": 0.0,
     "long": "139.75",
     "date": "2/13/20",
     "deathsPer100k": 0.0007901842365909587,
     "lat": "35.6833333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 632.763825,
     "source": "JHU",
@@ -809,12 +809,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Japan",
-    "activePer100k": -0.0007901842365909587,
+    "activePer100k": 0.0,
     "long": "139.75",
     "date": "3/12/20",
     "deathsPer100k": 0.0007901842365909587,
     "lat": "35.6833333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 632.763825,
     "source": "JHU",
@@ -873,12 +873,12 @@
     "recoveredPer100k": 0.020544790151364928,
     "confirmedPer100k": 0.0,
     "locale": "Japan",
-    "activePer100k": -0.02449571133431972,
+    "activePer100k": 0.0,
     "long": "139.75",
     "date": "3/16/20",
     "deathsPer100k": 0.003950921182954793,
     "lat": "35.6833333333",
-    "active": -31
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 632.763825,
     "source": "JHU",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.3295068266584298,
     "locale": "Japan",
-    "activePer100k": -0.3366184847877484,
+    "activePer100k": 0.0,
     "long": "139.75",
     "date": "4/28/20",
     "deathsPer100k": 0.007111658129318629,
     "lat": "35.6833333333",
-    "active": -426
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 632.763825,
     "source": "JHU",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.09719266110068793,
     "confirmedPer100k": -0.04187976453932081,
     "locale": "Japan",
-    "activePer100k": -0.1572466630816008,
+    "activePer100k": 0.0,
     "long": "139.75",
     "date": "5/28/20",
     "deathsPer100k": 0.01817423744159205,
     "lat": "35.6833333333",
-    "active": -199
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 632.763825,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.003160736946363835,
     "lat": "35.6833333333",
     "active": 47
+  }, {
+    "epidemiccontrolThreshold": 632.763825,
+    "source": "JHU",
+    "confirmedPer100kN": 0.009754702528470454,
+    "deaths": 0,
+    "confirmed": 107,
+    "recovered": 82,
+    "recoveredPer100k": 0.06479510740045862,
+    "confirmedPer100k": 0.08454971331523259,
+    "locale": "Japan",
+    "activePer100k": 0.019754605914773966,
+    "long": "139.75",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "35.6833333333",
+    "active": 25
+  }, {
+    "epidemiccontrolThreshold": 632.763825,
+    "source": "JHU",
+    "confirmedPer100kN": 0.008387220865600764,
+    "deaths": 0,
+    "confirmed": 92,
+    "recovered": 69,
+    "recoveredPer100k": 0.05452271232477615,
+    "confirmedPer100k": 0.0726969497663682,
+    "locale": "Japan",
+    "activePer100k": 0.01817423744159205,
+    "long": "139.75",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "35.6833333333",
+    "active": 23
   }]
 }

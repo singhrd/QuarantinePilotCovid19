@@ -1714,19 +1714,19 @@
   }, {
     "epidemiccontrolThreshold": 4.85,
     "source": "NYGithub",
-    "confirmedPer100kN": 630.0,
+    "confirmedPer100kN": 627.1134020618557,
     "deaths": 213,
-    "confirmed": 6111,
+    "confirmed": 6083,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 630.0,
+    "confirmedPer100k": 627.1134020618557,
     "locale": "Delaware",
-    "activePer100k": 608.0412371134021,
+    "activePer100k": 605.1546391752578,
     "long": "ReplaceMeDelaware",
     "date": "05/08/2020",
     "deathsPer100k": 21.95876288659794,
     "lat": "ReplaceMeDelaware",
-    "active": 5898
+    "active": 5870
   }, {
     "epidemiccontrolThreshold": 4.85,
     "source": "NYGithub",
@@ -2479,5 +2479,53 @@
     "deathsPer100k": 52.0618556701031,
     "lat": "ReplaceMeDelaware",
     "active": 10384
+  }, {
+    "epidemiccontrolThreshold": 4.85,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1131.958762886598,
+    "deaths": 507,
+    "confirmed": 10980,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1131.958762886598,
+    "locale": "Delaware",
+    "activePer100k": 1079.6907216494847,
+    "long": "ReplaceMeDelaware",
+    "date": "06/25/2020",
+    "deathsPer100k": 52.26804123711341,
+    "lat": "ReplaceMeDelaware",
+    "active": 10473
+  }, {
+    "epidemiccontrolThreshold": 4.85,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1135.7731958762888,
+    "deaths": 507,
+    "confirmed": 11017,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1135.7731958762888,
+    "locale": "Delaware",
+    "activePer100k": 1083.5051546391753,
+    "long": "ReplaceMeDelaware",
+    "date": "06/26/2020",
+    "deathsPer100k": 52.26804123711341,
+    "lat": "ReplaceMeDelaware",
+    "active": 10510
+  }, {
+    "epidemiccontrolThreshold": 4.85,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1143.4020618556701,
+    "deaths": 507,
+    "confirmed": 11091,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1143.4020618556701,
+    "locale": "Delaware",
+    "activePer100k": 1091.1340206185569,
+    "long": "ReplaceMeDelaware",
+    "date": "06/27/2020",
+    "deathsPer100k": 52.26804123711341,
+    "lat": "ReplaceMeDelaware",
+    "active": 10584
   }]
 }

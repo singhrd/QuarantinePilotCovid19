@@ -2258,19 +2258,19 @@
   }, {
     "epidemiccontrolThreshold": 3.65,
     "source": "NYGithub",
-    "confirmedPer100kN": 90.95890410958904,
+    "confirmedPer100kN": 91.23287671232877,
     "deaths": 9,
-    "confirmed": 664,
+    "confirmed": 666,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 90.95890410958904,
+    "confirmedPer100k": 91.23287671232877,
     "locale": "Alaska",
-    "activePer100k": 89.72602739726028,
+    "activePer100k": 90.0,
     "long": "ReplaceMeAlaska",
     "date": "06/11/2020",
     "deathsPer100k": 1.2328767123287672,
     "lat": "ReplaceMeAlaska",
-    "active": 655
+    "active": 657
   }, {
     "epidemiccontrolThreshold": 3.65,
     "source": "NYGithub",
@@ -2479,5 +2479,53 @@
     "deathsPer100k": 1.36986301369863,
     "lat": "ReplaceMeAlaska",
     "active": 916
+  }, {
+    "epidemiccontrolThreshold": 3.65,
+    "source": "NYGithub",
+    "confirmedPer100kN": 133.013698630137,
+    "deaths": 10,
+    "confirmed": 971,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 133.013698630137,
+    "locale": "Alaska",
+    "activePer100k": 131.64383561643837,
+    "long": "ReplaceMeAlaska",
+    "date": "06/25/2020",
+    "deathsPer100k": 1.36986301369863,
+    "lat": "ReplaceMeAlaska",
+    "active": 961
+  }, {
+    "epidemiccontrolThreshold": 3.65,
+    "source": "NYGithub",
+    "confirmedPer100kN": 137.12328767123287,
+    "deaths": 12,
+    "confirmed": 1001,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 137.12328767123287,
+    "locale": "Alaska",
+    "activePer100k": 135.47945205479454,
+    "long": "ReplaceMeAlaska",
+    "date": "06/26/2020",
+    "deathsPer100k": 1.6438356164383563,
+    "lat": "ReplaceMeAlaska",
+    "active": 989
+  }, {
+    "epidemiccontrolThreshold": 3.65,
+    "source": "NYGithub",
+    "confirmedPer100kN": 140.68493150684932,
+    "deaths": 12,
+    "confirmed": 1027,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 140.68493150684932,
+    "locale": "Alaska",
+    "activePer100k": 139.04109589041096,
+    "long": "ReplaceMeAlaska",
+    "date": "06/27/2020",
+    "deathsPer100k": 1.6438356164383563,
+    "lat": "ReplaceMeAlaska",
+    "active": 1015
   }]
 }

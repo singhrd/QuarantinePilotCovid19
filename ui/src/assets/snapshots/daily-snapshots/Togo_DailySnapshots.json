@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.04855795027180313,
     "confirmedPer100k": 0.0,
     "locale": "Togo",
-    "activePer100k": -0.04855795027180313,
+    "activePer100k": 0.0,
     "long": "1.216667",
     "date": "4/12/20",
     "deathsPer100k": 0.0,
     "lat": "6.1166666667",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 41.1879,
     "source": "JHU",
@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.03641846270385234,
     "confirmedPer100k": 0.0,
     "locale": "Togo",
-    "activePer100k": -0.03641846270385234,
+    "activePer100k": 0.0,
     "long": "1.216667",
     "date": "4/14/20",
     "deathsPer100k": 0.0,
     "lat": "6.1166666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 41.1879,
     "source": "JHU",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.12139487567950782,
     "confirmedPer100k": 0.0,
     "locale": "Togo",
-    "activePer100k": -0.14567385081540937,
+    "activePer100k": 0.0,
     "long": "1.216667",
     "date": "4/16/20",
     "deathsPer100k": 0.024278975135901566,
     "lat": "6.1166666667",
-    "active": -12
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 41.1879,
     "source": "JHU",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.03641846270385234,
     "confirmedPer100k": 0.0,
     "locale": "Togo",
-    "activePer100k": -0.03641846270385234,
+    "activePer100k": 0.0,
     "long": "1.216667",
     "date": "4/19/20",
     "deathsPer100k": 0.0,
     "lat": "6.1166666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 41.1879,
     "source": "JHU",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.012139487567950783,
     "confirmedPer100k": 0.0,
     "locale": "Togo",
-    "activePer100k": -0.024278975135901566,
+    "activePer100k": 0.0,
     "long": "1.216667",
     "date": "4/20/20",
     "deathsPer100k": 0.012139487567950783,
     "lat": "6.1166666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 41.1879,
     "source": "JHU",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.03641846270385234,
     "confirmedPer100k": 0.0,
     "locale": "Togo",
-    "activePer100k": -0.03641846270385234,
+    "activePer100k": 0.0,
     "long": "1.216667",
     "date": "4/23/20",
     "deathsPer100k": 0.0,
     "lat": "6.1166666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 41.1879,
     "source": "JHU",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.03641846270385234,
     "confirmedPer100k": 0.0,
     "locale": "Togo",
-    "activePer100k": -0.03641846270385234,
+    "activePer100k": 0.0,
     "long": "1.216667",
     "date": "5/6/20",
     "deathsPer100k": 0.0,
     "lat": "6.1166666667",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 41.1879,
     "source": "JHU",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.06069743783975391,
     "confirmedPer100k": 0.0,
     "locale": "Togo",
-    "activePer100k": -0.06069743783975391,
+    "activePer100k": 0.0,
     "long": "1.216667",
     "date": "6/22/20",
     "deathsPer100k": 0.0,
     "lat": "6.1166666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 41.1879,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "6.1166666667",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 41.1879,
+    "source": "JHU",
+    "confirmedPer100kN": 0.00964477363456003,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 1,
+    "recoveredPer100k": 0.012139487567950783,
+    "confirmedPer100k": 0.03641846270385234,
+    "locale": "Togo",
+    "activePer100k": 0.024278975135901566,
+    "long": "1.216667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "6.1166666667",
+    "active": 2
+  }, {
+    "epidemiccontrolThreshold": 41.1879,
+    "source": "JHU",
+    "confirmedPer100kN": 0.07715818907648024,
+    "deaths": 0,
+    "confirmed": 24,
+    "recovered": 1,
+    "recoveredPer100k": 0.012139487567950783,
+    "confirmedPer100k": 0.29134770163081875,
+    "locale": "Togo",
+    "activePer100k": 0.279208214062868,
+    "long": "1.216667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "6.1166666667",
+    "active": 23
   }]
 }

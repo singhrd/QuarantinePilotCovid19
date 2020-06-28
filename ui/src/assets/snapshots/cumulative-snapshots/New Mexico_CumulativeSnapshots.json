@@ -1170,19 +1170,19 @@
   }, {
     "epidemiccontrolThreshold": 10.5,
     "source": "NYGithub",
-    "confirmedPer100kN": 26.0,
+    "confirmedPer100kN": 25.904761904761905,
     "deaths": 11,
-    "confirmed": 546,
+    "confirmed": 544,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 26.0,
+    "confirmedPer100k": 25.904761904761905,
     "locale": "New Mexico",
-    "activePer100k": 25.476190476190474,
+    "activePer100k": 25.38095238095238,
     "long": "ReplaceMeNew Mexico",
     "date": "04/04/2020",
     "deathsPer100k": 0.5238095238095238,
     "lat": "ReplaceMeNew Mexico",
-    "active": 535
+    "active": 533
   }, {
     "epidemiccontrolThreshold": 10.5,
     "source": "NYGithub",
@@ -1458,19 +1458,19 @@
   }, {
     "epidemiccontrolThreshold": 10.5,
     "source": "NYGithub",
-    "confirmedPer100kN": 105.28571428571429,
+    "confirmedPer100kN": 105.23809523809524,
     "deaths": 71,
-    "confirmed": 2211,
+    "confirmed": 2210,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 105.28571428571429,
+    "confirmedPer100k": 105.23809523809524,
     "locale": "New Mexico",
-    "activePer100k": 101.9047619047619,
+    "activePer100k": 101.85714285714286,
     "long": "ReplaceMeNew Mexico",
     "date": "04/22/2020",
     "deathsPer100k": 3.380952380952381,
     "lat": "ReplaceMeNew Mexico",
-    "active": 2140
+    "active": 2139
   }, {
     "epidemiccontrolThreshold": 10.5,
     "source": "NYGithub",
@@ -2146,19 +2146,19 @@
   }, {
     "epidemiccontrolThreshold": 10.5,
     "source": "NYGithub",
-    "confirmedPer100kN": 402.95238095238096,
+    "confirmedPer100kN": 397.76190476190476,
     "deaths": 383,
-    "confirmed": 8462,
+    "confirmed": 8353,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 402.95238095238096,
+    "confirmedPer100k": 397.76190476190476,
     "locale": "New Mexico",
-    "activePer100k": 384.7142857142857,
+    "activePer100k": 379.5238095238095,
     "long": "ReplaceMeNew Mexico",
     "date": "06/04/2020",
     "deathsPer100k": 18.238095238095237,
     "lat": "ReplaceMeNew Mexico",
-    "active": 8079
+    "active": 7970
   }, {
     "epidemiccontrolThreshold": 10.5,
     "source": "NYGithub",
@@ -2194,19 +2194,19 @@
   }, {
     "epidemiccontrolThreshold": 10.5,
     "source": "NYGithub",
-    "confirmedPer100kN": 425.76190476190476,
+    "confirmedPer100kN": 425.7142857142857,
     "deaths": 396,
-    "confirmed": 8941,
+    "confirmed": 8940,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 425.76190476190476,
+    "confirmedPer100k": 425.7142857142857,
     "locale": "New Mexico",
-    "activePer100k": 406.9047619047619,
+    "activePer100k": 406.85714285714283,
     "long": "ReplaceMeNew Mexico",
     "date": "06/07/2020",
     "deathsPer100k": 18.857142857142858,
     "lat": "ReplaceMeNew Mexico",
-    "active": 8545
+    "active": 8544
   }, {
     "epidemiccontrolThreshold": 10.5,
     "source": "NYGithub",
@@ -2479,5 +2479,53 @@
     "deathsPer100k": 22.857142857142858,
     "lat": "ReplaceMeNew Mexico",
     "active": 10510
+  }, {
+    "epidemiccontrolThreshold": 10.5,
+    "source": "NYGithub",
+    "confirmedPer100kN": 532.952380952381,
+    "deaths": 485,
+    "confirmed": 11192,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 532.952380952381,
+    "locale": "New Mexico",
+    "activePer100k": 509.85714285714283,
+    "long": "ReplaceMeNew Mexico",
+    "date": "06/25/2020",
+    "deathsPer100k": 23.095238095238095,
+    "lat": "ReplaceMeNew Mexico",
+    "active": 10707
+  }, {
+    "epidemiccontrolThreshold": 10.5,
+    "source": "NYGithub",
+    "confirmedPer100kN": 543.2380952380952,
+    "deaths": 489,
+    "confirmed": 11408,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 543.2380952380952,
+    "locale": "New Mexico",
+    "activePer100k": 519.952380952381,
+    "long": "ReplaceMeNew Mexico",
+    "date": "06/26/2020",
+    "deathsPer100k": 23.285714285714285,
+    "lat": "ReplaceMeNew Mexico",
+    "active": 10919
+  }, {
+    "epidemiccontrolThreshold": 10.5,
+    "source": "NYGithub",
+    "confirmedPer100kN": 553.2857142857143,
+    "deaths": 491,
+    "confirmed": 11619,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 553.2857142857143,
+    "locale": "New Mexico",
+    "activePer100k": 529.9047619047619,
+    "long": "ReplaceMeNew Mexico",
+    "date": "06/27/2020",
+    "deathsPer100k": 23.38095238095238,
+    "lat": "ReplaceMeNew Mexico",
+    "active": 11128
   }]
 }

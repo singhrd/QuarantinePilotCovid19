@@ -2489,11 +2489,43 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sierra Leone",
-    "activePer100k": -0.012589893412703378,
+    "activePer100k": 0.0,
     "long": "-13.233333",
     "date": "6/25/20",
     "deathsPer100k": 0.012589893412703378,
     "lat": "8.4833333333",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 39.714395,
+    "source": "JHU",
+    "confirmedPer100kN": 0.1748658238965877,
+    "deaths": 3,
+    "confirmed": 40,
+    "recovered": 45,
+    "recoveredPer100k": 0.566545203571652,
+    "confirmedPer100k": 0.5035957365081352,
+    "locale": "Sierra Leone",
+    "activePer100k": -0.10071914730162702,
+    "long": "-13.233333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.037769680238110136,
+    "lat": "8.4833333333",
+    "active": -8
+  }, {
+    "epidemiccontrolThreshold": 39.714395,
+    "source": "JHU",
+    "confirmedPer100kN": 0.06994632955863508,
+    "deaths": 0,
+    "confirmed": 16,
+    "recovered": 23,
+    "recoveredPer100k": 0.2895675484921777,
+    "confirmedPer100k": 0.20143829460325405,
+    "locale": "Sierra Leone",
+    "activePer100k": -0.08812925388892365,
+    "long": "-13.233333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "8.4833333333",
+    "active": -7
   }]
 }

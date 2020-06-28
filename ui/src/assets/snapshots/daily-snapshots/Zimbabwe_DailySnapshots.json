@@ -985,12 +985,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Zimbabwe",
-    "activePer100k": -0.006748477560333583,
+    "activePer100k": 0.0,
     "long": "31.033333",
     "date": "3/23/20",
     "deathsPer100k": 0.006748477560333583,
     "lat": "-17.8166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 74.090785,
     "source": "JHU",
@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Zimbabwe",
-    "activePer100k": -0.006748477560333583,
+    "activePer100k": 0.0,
     "long": "31.033333",
     "date": "4/8/20",
     "deathsPer100k": 0.006748477560333583,
     "lat": "-17.8166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 74.090785,
     "source": "JHU",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Zimbabwe",
-    "activePer100k": -0.006748477560333583,
+    "activePer100k": 0.0,
     "long": "31.033333",
     "date": "4/22/20",
     "deathsPer100k": 0.006748477560333583,
     "lat": "-17.8166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 74.090785,
     "source": "JHU",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.0404908653620015,
     "locale": "Zimbabwe",
-    "activePer100k": -0.0404908653620015,
+    "activePer100k": 0.0,
     "long": "31.033333",
     "date": "5/2/20",
     "deathsPer100k": 0.0,
     "lat": "-17.8166666667",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 74.090785,
     "source": "JHU",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.02699391024133433,
     "confirmedPer100k": 0.0,
     "locale": "Zimbabwe",
-    "activePer100k": -0.02699391024133433,
+    "activePer100k": 0.0,
     "long": "31.033333",
     "date": "5/8/20",
     "deathsPer100k": 0.0,
     "lat": "-17.8166666667",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 74.090785,
     "source": "JHU",
@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.006748477560333583,
     "confirmedPer100k": 0.0,
     "locale": "Zimbabwe",
-    "activePer100k": -0.006748477560333583,
+    "activePer100k": 0.0,
     "long": "31.033333",
     "date": "5/14/20",
     "deathsPer100k": 0.0,
     "lat": "-17.8166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 74.090785,
     "source": "JHU",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.04723934292233508,
     "confirmedPer100k": 0.0,
     "locale": "Zimbabwe",
-    "activePer100k": -0.04723934292233508,
+    "activePer100k": 0.0,
     "long": "31.033333",
     "date": "5/24/20",
     "deathsPer100k": 0.0,
     "lat": "-17.8166666667",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 74.090785,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "-17.8166666667",
     "active": 16
+  }, {
+    "epidemiccontrolThreshold": 74.090785,
+    "source": "JHU",
+    "confirmedPer100kN": 0.06850286518572608,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 7,
+    "recoveredPer100k": 0.04723934292233508,
+    "confirmedPer100k": 0.06748477560333582,
+    "locale": "Zimbabwe",
+    "activePer100k": 0.02024543268100075,
+    "long": "31.033333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "-17.8166666667",
+    "active": 3
+  }, {
+    "epidemiccontrolThreshold": 74.090785,
+    "source": "JHU",
+    "confirmedPer100kN": 0.04110171911143565,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 7,
+    "recoveredPer100k": 0.04723934292233508,
+    "confirmedPer100k": 0.0404908653620015,
+    "locale": "Zimbabwe",
+    "activePer100k": -0.006748477560333583,
+    "long": "31.033333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "-17.8166666667",
+    "active": -1
   }]
 }

@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.25645177717417983,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.25645177717417983,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "5/9/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -14
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.3297237135096598,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.3297237135096598,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "5/11/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -18
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.12822588858708991,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.12822588858708991,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "5/19/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.10990790450321992,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.10990790450321992,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "5/29/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.1831798408386999,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.1831798408386999,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "5/31/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -10
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.07327193633547996,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.07327193633547996,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "6/2/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.05495395225160996,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.05495395225160996,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "6/5/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -2201,12 +2201,12 @@
     "recoveredPer100k": 0.1831798408386999,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.1831798408386999,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "6/7/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -10
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.29308774534191984,
     "confirmedPer100k": 0.0,
     "locale": "Slovakia",
-    "activePer100k": -0.29308774534191984,
+    "activePer100k": 0.0,
     "long": "17.116667",
     "date": "6/16/20",
     "deathsPer100k": 0.0,
     "lat": "48.15",
-    "active": -16
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.29558,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "48.15",
     "active": 19
+  }, {
+    "epidemiccontrolThreshold": 27.29558,
+    "source": "JHU",
+    "confirmedPer100kN": 0.082581172115283,
+    "deaths": 0,
+    "confirmed": 13,
+    "recovered": 3,
+    "recoveredPer100k": 0.05495395225160996,
+    "confirmedPer100k": 0.23813379309030985,
+    "locale": "Slovakia",
+    "activePer100k": 0.1831798408386999,
+    "long": "17.116667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "48.15",
+    "active": 10
+  }, {
+    "epidemiccontrolThreshold": 27.29558,
+    "source": "JHU",
+    "confirmedPer100kN": 0.08893356997030477,
+    "deaths": 0,
+    "confirmed": 14,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.25645177717417983,
+    "locale": "Slovakia",
+    "activePer100k": 0.25645177717417983,
+    "long": "17.116667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "48.15",
+    "active": 14
   }]
 }

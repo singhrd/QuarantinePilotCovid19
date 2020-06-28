@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.005256400377073138,
     "confirmedPer100k": 0.0,
     "locale": "Malawi",
-    "activePer100k": -0.005256400377073138,
+    "activePer100k": 0.0,
     "long": "33.783333",
     "date": "4/24/20",
     "deathsPer100k": 0.0,
     "lat": "-13.9666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 95.12213,
     "source": "JHU",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.005256400377073138,
     "confirmedPer100k": 0.0,
     "locale": "Malawi",
-    "activePer100k": -0.005256400377073138,
+    "activePer100k": 0.0,
     "long": "33.783333",
     "date": "4/28/20",
     "deathsPer100k": 0.0,
     "lat": "-13.9666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 95.12213,
     "source": "JHU",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.010512800754146276,
     "confirmedPer100k": 0.0,
     "locale": "Malawi",
-    "activePer100k": -0.010512800754146276,
+    "activePer100k": 0.0,
     "long": "33.783333",
     "date": "4/29/20",
     "deathsPer100k": 0.0,
     "lat": "-13.9666666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 95.12213,
     "source": "JHU",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.010512800754146276,
     "confirmedPer100k": 0.0,
     "locale": "Malawi",
-    "activePer100k": -0.010512800754146276,
+    "activePer100k": 0.0,
     "long": "33.783333",
     "date": "5/1/20",
     "deathsPer100k": 0.0,
     "lat": "-13.9666666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 95.12213,
     "source": "JHU",
@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.026282001885365686,
     "confirmedPer100k": 0.0,
     "locale": "Malawi",
-    "activePer100k": -0.026282001885365686,
+    "activePer100k": 0.0,
     "long": "33.783333",
     "date": "5/7/20",
     "deathsPer100k": 0.0,
     "lat": "-13.9666666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 95.12213,
     "source": "JHU",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.021025601508292552,
     "confirmedPer100k": 0.0,
     "locale": "Malawi",
-    "activePer100k": -0.021025601508292552,
+    "activePer100k": 0.0,
     "long": "33.783333",
     "date": "5/26/20",
     "deathsPer100k": 0.0,
     "lat": "-13.9666666667",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 95.12213,
     "source": "JHU",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.05256400377073137,
     "confirmedPer100k": 0.0,
     "locale": "Malawi",
-    "activePer100k": -0.05256400377073137,
+    "activePer100k": 0.0,
     "long": "33.783333",
     "date": "6/12/20",
     "deathsPer100k": 0.0,
     "lat": "-13.9666666667",
-    "active": -10
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 95.12213,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.005256400377073138,
     "lat": "-13.9666666667",
     "active": 17
+  }, {
+    "epidemiccontrolThreshold": 95.12213,
+    "source": "JHU",
+    "confirmedPer100kN": 0.05656490214966872,
+    "deaths": 1,
+    "confirmed": 45,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.2365380169682912,
+    "locale": "Malawi",
+    "activePer100k": 0.23128161659121804,
+    "long": "33.783333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.005256400377073138,
+    "lat": "-13.9666666667",
+    "active": 44
+  }, {
+    "epidemiccontrolThreshold": 95.12213,
+    "source": "JHU",
+    "confirmedPer100kN": 0.041480928243090395,
+    "deaths": 0,
+    "confirmed": 33,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.17346121244341353,
+    "locale": "Malawi",
+    "activePer100k": 0.17346121244341353,
+    "long": "33.783333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "-13.9666666667",
+    "active": 33
   }]
 }

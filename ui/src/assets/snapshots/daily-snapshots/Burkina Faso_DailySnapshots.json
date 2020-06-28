@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.08180797157086368,
     "confirmedPer100k": 0.0,
     "locale": "Burkina Faso",
-    "activePer100k": -0.08180797157086368,
+    "activePer100k": 0.0,
     "long": "-1.516667",
     "date": "4/25/20",
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
-    "active": -17
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 103.901855,
     "source": "JHU",
@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.038497868974524084,
     "confirmedPer100k": 0.0,
     "locale": "Burkina Faso",
-    "activePer100k": -0.038497868974524084,
+    "activePer100k": 0.0,
     "long": "-1.516667",
     "date": "5/18/20",
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 103.901855,
     "source": "JHU",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0048122336218155105,
     "confirmedPer100k": 0.0,
     "locale": "Burkina Faso",
-    "activePer100k": -0.0048122336218155105,
+    "activePer100k": 0.0,
     "long": "-1.516667",
     "date": "5/29/20",
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 103.901855,
     "source": "JHU",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.024061168109077553,
     "confirmedPer100k": 0.0,
     "locale": "Burkina Faso",
-    "activePer100k": -0.024061168109077553,
+    "activePer100k": 0.0,
     "long": "-1.516667",
     "date": "6/6/20",
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 103.901855,
     "source": "JHU",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0048122336218155105,
     "confirmedPer100k": 0.0,
     "locale": "Burkina Faso",
-    "activePer100k": -0.0048122336218155105,
+    "activePer100k": 0.0,
     "long": "-1.516667",
     "date": "6/12/20",
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 103.901855,
     "source": "JHU",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.038497868974524084,
     "confirmedPer100k": 0.0,
     "locale": "Burkina Faso",
-    "activePer100k": -0.038497868974524084,
+    "activePer100k": 0.0,
     "long": "-1.516667",
     "date": "6/13/20",
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 103.901855,
     "source": "JHU",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.024061168109077553,
     "confirmedPer100k": 0.0,
     "locale": "Burkina Faso",
-    "activePer100k": -0.024061168109077553,
+    "activePer100k": 0.0,
     "long": "-1.516667",
     "date": "6/15/20",
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 103.901855,
     "source": "JHU",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0048122336218155105,
     "confirmedPer100k": 0.0,
     "locale": "Burkina Faso",
-    "activePer100k": -0.0048122336218155105,
+    "activePer100k": 0.0,
     "long": "-1.516667",
     "date": "6/18/20",
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 103.901855,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "12.3666666667",
     "active": 14
+  }, {
+    "epidemiccontrolThreshold": 103.901855,
+    "source": "JHU",
+    "confirmedPer100kN": 0.01698403140547511,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 4,
+    "recoveredPer100k": 0.019248934487262042,
+    "confirmedPer100k": 0.033685635352708576,
+    "locale": "Burkina Faso",
+    "activePer100k": 0.014436700865446532,
+    "long": "-1.516667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "12.3666666667",
+    "active": 3
+  }, {
+    "epidemiccontrolThreshold": 103.901855,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Burkina Faso",
+    "activePer100k": 0.0,
+    "long": "-1.516667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "12.3666666667",
+    "active": 0
   }]
 }

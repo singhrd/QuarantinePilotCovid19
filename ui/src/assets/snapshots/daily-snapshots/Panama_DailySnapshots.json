@@ -1001,12 +1001,12 @@
     "recoveredPer100k": 0.02325220715763392,
     "confirmedPer100k": 0.0,
     "locale": "Panama",
-    "activePer100k": -0.02325220715763392,
+    "activePer100k": 0.0,
     "long": "-79.533333",
     "date": "3/24/20",
     "deathsPer100k": 0.0,
     "lat": "8.9666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 21.503335,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.39528752167977665,
     "lat": "8.9666666667",
     "active": 984
+  }, {
+    "epidemiccontrolThreshold": 21.503335,
+    "source": "JHU",
+    "confirmedPer100kN": 13.620594909161628,
+    "deaths": 11,
+    "confirmed": 868,
+    "recovered": 470,
+    "recoveredPer100k": 10.928537364087942,
+    "confirmedPer100k": 20.18291581282624,
+    "locale": "Panama",
+    "activePer100k": 8.998604170004327,
+    "long": "-79.533333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.2557742787339731,
+    "lat": "8.9666666667",
+    "active": 387
+  }, {
+    "epidemiccontrolThreshold": 21.503335,
+    "source": "JHU",
+    "confirmedPer100kN": 11.816023002993902,
+    "deaths": 17,
+    "confirmed": 753,
+    "recovered": 100,
+    "recoveredPer100k": 2.325220715763392,
+    "confirmedPer100k": 17.50891198969834,
+    "locale": "Panama",
+    "activePer100k": 14.788403752255174,
+    "long": "-79.533333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.39528752167977665,
+    "lat": "8.9666666667",
+    "active": 636
   }]
 }

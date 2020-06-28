@@ -281,12 +281,12 @@
     "recoveredPer100k": 0.004673946431712988,
     "confirmedPer100k": 0.0,
     "locale": "Sri Lanka",
-    "activePer100k": -0.004673946431712988,
+    "activePer100k": 0.0,
     "long": "79.833333",
     "date": "2/8/20",
     "deathsPer100k": 0.0,
     "lat": "6.9166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 106.97598,
     "source": "JHU",
@@ -1017,12 +1017,12 @@
     "recoveredPer100k": 0.004673946431712988,
     "confirmedPer100k": 0.0,
     "locale": "Sri Lanka",
-    "activePer100k": -0.004673946431712988,
+    "activePer100k": 0.0,
     "long": "79.833333",
     "date": "3/25/20",
     "deathsPer100k": 0.0,
     "lat": "6.9166666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 106.97598,
     "source": "JHU",
@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.02336973215856494,
     "confirmedPer100k": 0.0,
     "locale": "Sri Lanka",
-    "activePer100k": -0.02336973215856494,
+    "activePer100k": 0.0,
     "long": "79.833333",
     "date": "4/10/20",
     "deathsPer100k": 0.0,
     "lat": "6.9166666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 106.97598,
     "source": "JHU",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.02336973215856494,
     "confirmedPer100k": 0.0,
     "locale": "Sri Lanka",
-    "activePer100k": -0.02336973215856494,
+    "activePer100k": 0.0,
     "long": "79.833333",
     "date": "4/16/20",
     "deathsPer100k": 0.0,
     "lat": "6.9166666667",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 106.97598,
     "source": "JHU",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.12152260722453768,
     "confirmedPer100k": 0.0,
     "locale": "Sri Lanka",
-    "activePer100k": -0.12152260722453768,
+    "activePer100k": 0.0,
     "long": "79.833333",
     "date": "6/20/20",
     "deathsPer100k": 0.0,
     "lat": "6.9166666667",
-    "active": -26
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 106.97598,
     "source": "JHU",
@@ -2425,12 +2425,12 @@
     "recoveredPer100k": 0.12152260722453768,
     "confirmedPer100k": 0.0,
     "locale": "Sri Lanka",
-    "activePer100k": -0.12152260722453768,
+    "activePer100k": 0.0,
     "long": "79.833333",
     "date": "6/21/20",
     "deathsPer100k": 0.0,
     "lat": "6.9166666667",
-    "active": -26
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 106.97598,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "6.9166666667",
     "active": -31
+  }, {
+    "epidemiccontrolThreshold": 106.97598,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0022117264638011314,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 17,
+    "recoveredPer100k": 0.0794570893391208,
+    "confirmedPer100k": 0.018695785726851953,
+    "locale": "Sri Lanka",
+    "activePer100k": -0.06076130361226884,
+    "long": "79.833333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "6.9166666667",
+    "active": -13
+  }, {
+    "epidemiccontrolThreshold": 106.97598,
+    "source": "JHU",
+    "confirmedPer100kN": 0.010505700703055376,
+    "deaths": 0,
+    "confirmed": 19,
+    "recovered": 20,
+    "recoveredPer100k": 0.09347892863425976,
+    "confirmedPer100k": 0.08880498220254678,
+    "locale": "Sri Lanka",
+    "activePer100k": -0.004673946431712988,
+    "long": "79.833333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "6.9166666667",
+    "active": -1
   }]
 }

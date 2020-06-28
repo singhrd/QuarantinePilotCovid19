@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 7.477770627316976,
     "confirmedPer100k": 0.0,
     "locale": "Malta",
-    "activePer100k": -7.477770627316976,
+    "activePer100k": 0.0,
     "long": "14.5",
     "date": "4/26/20",
     "deathsPer100k": 0.0,
     "lat": "35.8833333333",
-    "active": -33
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.20654,
     "source": "JHU",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 2.945788428943051,
     "confirmedPer100k": 0.0,
     "locale": "Malta",
-    "activePer100k": -3.398986648780444,
+    "activePer100k": 0.0,
     "long": "14.5",
     "date": "5/29/20",
     "deathsPer100k": 0.4531982198373925,
     "lat": "35.8833333333",
-    "active": -15
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.20654,
     "source": "JHU",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 2.039391989268266,
     "confirmedPer100k": 0.0,
     "locale": "Malta",
-    "activePer100k": -2.039391989268266,
+    "activePer100k": 0.0,
     "long": "14.5",
     "date": "5/31/20",
     "deathsPer100k": 0.0,
     "lat": "35.8833333333",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.20654,
     "source": "JHU",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 3.1723875388617473,
     "confirmedPer100k": 0.0,
     "locale": "Malta",
-    "activePer100k": -3.1723875388617473,
+    "activePer100k": 0.0,
     "long": "14.5",
     "date": "6/4/20",
     "deathsPer100k": 0.0,
     "lat": "35.8833333333",
-    "active": -14
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.20654,
     "source": "JHU",
@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.6797973297560888,
     "confirmedPer100k": 0.0,
     "locale": "Malta",
-    "activePer100k": -0.6797973297560888,
+    "activePer100k": 0.0,
     "long": "14.5",
     "date": "6/19/20",
     "deathsPer100k": 0.0,
     "lat": "35.8833333333",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.20654,
     "source": "JHU",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.22659910991869625,
     "confirmedPer100k": 0.0,
     "locale": "Malta",
-    "activePer100k": -0.22659910991869625,
+    "activePer100k": 0.0,
     "long": "14.5",
     "date": "6/22/20",
     "deathsPer100k": 0.0,
     "lat": "35.8833333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.20654,
     "source": "JHU",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.22659910991869625,
     "confirmedPer100k": 0.0,
     "locale": "Malta",
-    "activePer100k": -0.22659910991869625,
+    "activePer100k": 0.0,
     "long": "14.5",
     "date": "6/23/20",
     "deathsPer100k": 0.0,
     "lat": "35.8833333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.20654,
     "source": "JHU",
@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 1.3595946595121775,
     "confirmedPer100k": 0.0,
     "locale": "Malta",
-    "activePer100k": -1.3595946595121775,
+    "activePer100k": 0.0,
     "long": "14.5",
     "date": "6/24/20",
     "deathsPer100k": 0.0,
     "lat": "35.8833333333",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.20654,
     "source": "JHU",
@@ -2492,6 +2492,38 @@
     "activePer100k": 0.0,
     "long": "14.5",
     "date": "6/25/20",
+    "deathsPer100k": 0.0,
+    "lat": "35.8833333333",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 2.20654,
+    "source": "JHU",
+    "confirmedPer100kN": 0.012522830556495071,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 5,
+    "recoveredPer100k": 1.1329955495934811,
+    "confirmedPer100k": 0.4531982198373925,
+    "locale": "Malta",
+    "activePer100k": -0.6797973297560888,
+    "long": "14.5",
+    "date": "6/26/20",
+    "deathsPer100k": 0.0,
+    "lat": "35.8833333333",
+    "active": -3
+  }, {
+    "epidemiccontrolThreshold": 2.20654,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 3,
+    "recoveredPer100k": 0.6797973297560888,
+    "confirmedPer100k": 0.0,
+    "locale": "Malta",
+    "activePer100k": 0.0,
+    "long": "14.5",
+    "date": "6/27/20",
     "deathsPer100k": 0.0,
     "lat": "35.8833333333",
     "active": 0

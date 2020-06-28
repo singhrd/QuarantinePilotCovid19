@@ -345,12 +345,12 @@
     "recoveredPer100k": 0.018053793806176638,
     "confirmedPer100k": 0.0,
     "locale": "Finland",
-    "activePer100k": -0.018053793806176638,
+    "activePer100k": 0.0,
     "long": "24.933333",
     "date": "2/12/20",
     "deathsPer100k": 0.0,
     "lat": "60.1666666667",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.69501,
     "source": "JHU",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 5.416138141852991,
     "confirmedPer100k": 0.0,
     "locale": "Finland",
-    "activePer100k": -5.434191935659167,
+    "activePer100k": 0.0,
     "long": "24.933333",
     "date": "6/4/20",
     "deathsPer100k": 0.018053793806176638,
     "lat": "60.1666666667",
-    "active": -301
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 27.69501,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0,
     "lat": "60.1666666667",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 27.69501,
+    "source": "JHU",
+    "confirmedPer100kN": 0.8089418455830754,
+    "deaths": 1,
+    "confirmed": 19,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.3430220823173561,
+    "locale": "Finland",
+    "activePer100k": 0.3249682885111794,
+    "long": "24.933333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.018053793806176638,
+    "lat": "60.1666666667",
+    "active": 18
+  }, {
+    "epidemiccontrolThreshold": 27.69501,
+    "source": "JHU",
+    "confirmedPer100kN": 0.29803120626744883,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.12637655664323647,
+    "locale": "Finland",
+    "activePer100k": 0.12637655664323647,
+    "long": "24.933333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "60.1666666667",
+    "active": 7
   }]
 }

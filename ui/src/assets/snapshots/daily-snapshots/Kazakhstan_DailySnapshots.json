@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.6887137645799103,
     "confirmedPer100k": 0.0,
     "locale": "Kazakhstan",
-    "activePer100k": -0.6887137645799103,
+    "activePer100k": 0.0,
     "long": "71.416667",
     "date": "5/19/20",
     "deathsPer100k": 0.0,
     "lat": "51.1666666667",
-    "active": -129
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 93.65284,
     "source": "JHU",
@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.6299862342668946,
     "confirmedPer100k": 0.0,
     "locale": "Kazakhstan",
-    "activePer100k": -0.6299862342668946,
+    "activePer100k": 0.0,
     "long": "71.416667",
     "date": "5/23/20",
     "deathsPer100k": 0.0,
     "lat": "51.1666666667",
-    "active": -118
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 93.65284,
     "source": "JHU",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.5232089064250481,
     "confirmedPer100k": 0.0,
     "locale": "Kazakhstan",
-    "activePer100k": -0.5338866392092327,
+    "activePer100k": 0.0,
     "long": "71.416667",
     "date": "5/26/20",
     "deathsPer100k": 0.010677732784184655,
     "lat": "51.1666666667",
-    "active": -100
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 93.65284,
     "source": "JHU",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 1.954025099505792,
     "confirmedPer100k": 0.0,
     "locale": "Kazakhstan",
-    "activePer100k": -1.9753805650741612,
+    "activePer100k": 0.0,
     "long": "71.416667",
     "date": "6/4/20",
     "deathsPer100k": 0.02135546556836931,
     "lat": "51.1666666667",
-    "active": -370
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 93.65284,
     "source": "JHU",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 1.2599724685337892,
     "confirmedPer100k": 0.0,
     "locale": "Kazakhstan",
-    "activePer100k": -1.2759890677100663,
+    "activePer100k": 0.0,
     "long": "71.416667",
     "date": "6/12/20",
     "deathsPer100k": 0.016016599176276982,
     "lat": "51.1666666667",
-    "active": -239
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 93.65284,
     "source": "JHU",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.7741356268533874,
     "confirmedPer100k": 0.0,
     "locale": "Kazakhstan",
-    "activePer100k": -0.7901522260296645,
+    "activePer100k": 0.0,
     "long": "71.416667",
     "date": "6/18/20",
     "deathsPer100k": 0.016016599176276982,
     "lat": "51.1666666667",
-    "active": -148
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 93.65284,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.02135546556836931,
     "lat": "51.1666666667",
     "active": 123
+  }, {
+    "epidemiccontrolThreshold": 93.65284,
+    "source": "JHU",
+    "confirmedPer100kN": 17.021336671507047,
+    "deaths": 10,
+    "confirmed": 569,
+    "recovered": 328,
+    "recoveredPer100k": 1.7511481766062835,
+    "confirmedPer100k": 3.0378149771005343,
+    "locale": "Kazakhstan",
+    "activePer100k": 1.2332781365733276,
+    "long": "71.416667",
+    "date": "6/26/20",
+    "deathsPer100k": 0.05338866392092328,
+    "lat": "51.1666666667",
+    "active": 231
+  }, {
+    "epidemiccontrolThreshold": 93.65284,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 16,
+    "confirmed": 0,
+    "recovered": 190,
+    "recoveredPer100k": 1.0143846144975421,
+    "confirmedPer100k": 0.0,
+    "locale": "Kazakhstan",
+    "activePer100k": 0.0,
+    "long": "71.416667",
+    "date": "6/27/20",
+    "deathsPer100k": 0.08542186227347724,
+    "lat": "51.1666666667",
+    "active": 0
   }]
 }

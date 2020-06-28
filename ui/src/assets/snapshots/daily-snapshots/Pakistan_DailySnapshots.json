@@ -729,12 +729,12 @@
     "recoveredPer100k": 0.00045456012444037967,
     "confirmedPer100k": 0.0,
     "locale": "Pakistan",
-    "activePer100k": -0.00045456012444037967,
+    "activePer100k": 0.0,
     "long": "73.05",
     "date": "3/7/20",
     "deathsPer100k": 0.0,
     "lat": "33.6833333333",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1099.9645,
     "source": "JHU",
@@ -2495,5 +2495,37 @@
     "deathsPer100k": 0.0268190473419824,
     "lat": "33.6833333333",
     "active": -145
+  }, {
+    "epidemiccontrolThreshold": 1099.9645,
+    "source": "JHU",
+    "confirmedPer100kN": 0.2198817219615572,
+    "deaths": 73,
+    "confirmed": 3138,
+    "recovered": 2738,
+    "recoveredPer100k": 1.2445856207177595,
+    "confirmedPer100k": 1.4264096704939113,
+    "locale": "Pakistan",
+    "activePer100k": 0.14864116069200414,
+    "long": "73.05",
+    "date": "6/26/20",
+    "deathsPer100k": 0.03318288908414772,
+    "lat": "33.6833333333",
+    "active": 327
+  }, {
+    "epidemiccontrolThreshold": 1099.9645,
+    "source": "JHU",
+    "confirmedPer100kN": 0.2853277156875274,
+    "deaths": 83,
+    "confirmed": 4072,
+    "recovered": 5718,
+    "recoveredPer100k": 2.599174791550091,
+    "confirmedPer100k": 1.8509688267212259,
+    "locale": "Pakistan",
+    "activePer100k": -0.7859344551574164,
+    "long": "73.05",
+    "date": "6/27/20",
+    "deathsPer100k": 0.03772849032855151,
+    "lat": "33.6833333333",
+    "active": -1729
   }]
 }

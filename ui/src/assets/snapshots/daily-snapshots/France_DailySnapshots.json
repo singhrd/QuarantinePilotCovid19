@@ -345,12 +345,12 @@
     "recoveredPer100k": 0.0030653864713582244,
     "confirmedPer100k": 0.0,
     "locale": "France",
-    "activePer100k": -0.0030653864713582244,
+    "activePer100k": 0.0,
     "long": "2.333333",
     "date": "2/12/20",
     "deathsPer100k": 0.0,
     "lat": "48.8666666667",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 326.22314,
     "source": "JHU",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 2.2622552158623694,
     "confirmedPer100k": -3.3535327996658975,
     "locale": "France",
-    "activePer100k": -6.449573135737704,
+    "activePer100k": 0.0,
     "long": "2.333333",
     "date": "4/22/20",
     "deathsPer100k": 0.833785120209437,
     "lat": "48.8666666667",
-    "active": -4208
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 326.22314,
     "source": "JHU",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 2.0568743222813684,
     "confirmedPer100k": -3.8470600215545714,
     "locale": "France",
-    "activePer100k": -6.558394355470921,
+    "activePer100k": 0.0,
     "long": "2.333333",
     "date": "4/29/20",
     "deathsPer100k": 0.6544600116349809,
     "lat": "48.8666666667",
-    "active": -4279
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 326.22314,
     "source": "JHU",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 1.3610315932830517,
     "confirmedPer100k": -0.2528943838870535,
     "locale": "France",
-    "activePer100k": -1.7411395157314713,
+    "activePer100k": 0.0,
     "long": "2.333333",
     "date": "5/13/20",
     "deathsPer100k": 0.1272135385613663,
     "lat": "48.8666666667",
-    "active": -1136
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 326.22314,
     "source": "JHU",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 1.0422314002617963,
     "confirmedPer100k": -0.3371925118494047,
     "locale": "France",
-    "activePer100k": -1.4913105183157762,
+    "activePer100k": 0.0,
     "long": "2.333333",
     "date": "5/26/20",
     "deathsPer100k": 0.11188660620457519,
     "lat": "48.8666666667",
-    "active": -973
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 326.22314,
     "source": "JHU",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.5701618836726298,
     "confirmedPer100k": -1.3763585256398427,
     "locale": "France",
-    "activePer100k": -2.1105185855301376,
+    "activePer100k": 0.0,
     "long": "2.333333",
     "date": "6/2/20",
     "deathsPer100k": 0.163998176217665,
     "lat": "48.8666666667",
-    "active": -1377
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 326.22314,
     "source": "JHU",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.7985331757888174,
     "confirmedPer100k": -4.231766023710029,
     "locale": "France",
-    "activePer100k": -5.097737701868727,
+    "activePer100k": 0.0,
     "long": "2.333333",
     "date": "6/4/20",
     "deathsPer100k": 0.06743850236988093,
     "lat": "48.8666666667",
-    "active": -3326
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 326.22314,
     "source": "JHU",
@@ -2489,11 +2489,43 @@
     "recoveredPer100k": 0.3433232847921211,
     "confirmedPer100k": 0.0,
     "locale": "France",
-    "activePer100k": -0.3755098427413825,
+    "activePer100k": 0.0,
     "long": "2.333333",
     "date": "6/25/20",
     "deathsPer100k": 0.032186557949261355,
     "lat": "48.8666666667",
-    "active": -245
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 326.22314,
+    "source": "JHU",
+    "confirmedPer100kN": 0.7942698548167487,
+    "deaths": 26,
+    "confirmed": 1588,
+    "recovered": 298,
+    "recoveredPer100k": 0.4567425842323754,
+    "confirmedPer100k": 2.43391685825843,
+    "locale": "France",
+    "activePer100k": 1.9373242498983978,
+    "long": "2.333333",
+    "date": "6/26/20",
+    "deathsPer100k": 0.03985002412765692,
+    "lat": "48.8666666667",
+    "active": 1264
+  }, {
+    "epidemiccontrolThreshold": 326.22314,
+    "source": "JHU",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "France",
+    "activePer100k": 0.0,
+    "long": "2.333333",
+    "date": "6/27/20",
+    "deathsPer100k": 0.0,
+    "lat": "48.8666666667",
+    "active": 0
   }]
 }
