@@ -9,7 +9,8 @@ package quarantine.covid19.util
  * 
  */
 import java.io._
-import java.io.File
+import java.nio.file.Files
+import java.nio.file.Paths
 import java.io.FileOutputStream
 import scala.collection.mutable.ListBuffer
 import quarantine.covid19.core.CovidSnapshots
@@ -76,19 +77,18 @@ object InputOutput extends JsonSupport {
   }).toMap
   }
   
-  def writeToFile(bytes: Array[Byte], filePath: String) = {
+  /**
+   * Took a while to fix this
+   * https://dzone.com/articles/fileinputstream-fileoutputstream-considered-harmful
+   */
+  def writeToFile(content: Array[Byte], fileName: String) = {
     
-    val file = new File(filePath)
-		val fos = new FileOutputStream(file);
-    
-      if (!file.exists()) {
-	     file.createNewFile();
-	  }
-    
-    fos.write(bytes)
-//    fos.flush()
-    fos.close()
+    try {
+      val os = Files.newOutputStream(Paths.get(fileName))
+        os.write(content);
+    }
   }
+    
   
   /**
    * Line delimited reading of a csv

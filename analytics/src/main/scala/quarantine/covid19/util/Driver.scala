@@ -8,8 +8,11 @@ import quarantine.covid19.core.Annotation
 import quarantine.covid19.core.Annotations
 import quarantine.covid19.core.GeoLocation
 import quarantine.covid19.core.JsonSupport
+import quarantine.covid19.core.Alert
+import quarantine.covid19.core.AlertUIInfo
 import quarantine.covid19.constants.Constants
 
+import quarantine.covid19.constants.MetricType
 /**
  * This is the driver code that ingests raw data from JHU github, 
  * transforms, and creates meta-data from the data source, and writes them 
@@ -26,6 +29,7 @@ object Driver extends JsonSupport {
     val outputDirectoryNameSnapshots = "../ui/src/assets/snapshots/"
 
     val outputDirectoryNameAnnotations = "../ui/src/assets/annotations/"
+    val outputDirectoryNameAlerts = "../ui/src/assets/alerts/"
 
     val tempDataDirectory = "../"
     
@@ -35,9 +39,10 @@ object Driver extends JsonSupport {
     val countyFileName = "us-counties.csv"
     
     
-    def update(locale: String = "county", updateType: String = "Both", writeNewData: Boolean = true) = {
+    def update(localeType: String = "county", updateType: String = "Both", generateAlerts: Boolean = true, writeNewData: Boolean = true, 
+               startLocaleIndex: Int = 0, maxLocales:Int = 5000) = {
       
-      val (dcS, ccS, dcSLocale,ccSLocale) = locale match {
+      val (dcS, ccS, dcSLocale,ccSLocale) = localeType match {
         case "county" =>  
           HelperFunctions.transformCumulativeDataCountyNYFormat(csvDirectoryName+countyFileName)
         
@@ -53,7 +58,7 @@ object Driver extends JsonSupport {
 //    val locs = HelperFunctions.distinct(dcS.snapshots.map(d => GeoLocation(d.lat, d.long)))
 //    val locCovidSnapshotMap = locs.map(loc => (loc -> (HelperFunctions.filter(dcS, loc),HelperFunctions.filter(ccS, loc)))).toMap
 
-    val locales =   dcS.snapshots.map(d => d.locale).distinct
+    val locales =   dcS.snapshots.map(d => d.locale).distinct.sortWith((a,b) => a<b)
     println("Found unique locales " + locales.length)
     val localeDailyCovidSnapshotMap = HelperFunctions.pivotCovidSnapshotByLocale(dcS.snapshots)
     val localeCumulativeCovidSnapshotMap = HelperFunctions.pivotCovidSnapshotByLocale(ccS.snapshots)
@@ -62,22 +67,66 @@ object Driver extends JsonSupport {
 //    	HelperFunctions.createAnnotation(locCovidSnapshotMap(loc)._1,
 //    	                                 locCovidSnapshotMap(loc)._2,
     val annotationsLocaleMap = scala.collection.mutable.Map[String, List[Annotation]]()
+    val alertMap = scala.collection.mutable.Map[String, Double]()
     updateType match {
       case "SnapshotsOnly" => // just go to writing then
       case _ => {
     
-        locales.foreach(locale => {
+        locales.slice(startLocaleIndex,scala.math.min(maxLocales, locales.length)).foreach(locale => {
         	val annotationsLocale = HelperFunctions.createAnnotation(localeDailyCovidSnapshotMap(locale),
         	                                                                         localeCumulativeCovidSnapshotMap(locale))
         	annotationsLocale match {
         	  case None => // do nothing
-        	  case Some(x: List[Annotation]) => annotationsLocaleMap.+=(locale -> x)
+        	  case Some(x: List[Annotation]) => {
+        	    generateAlerts match {
+        	      case false => // do nothing
+        	      case true => {
+        	              val alertMeasure = HelperFunctions.findAlertMeasureExample(x, MetricType.DailyPer100k,  14) //"weekly",
+        	              alertMeasure match {
+        	                case Some(y: Double) => alertMap.+=(locale -> y)
+        	                case None => // do nothing
+        	              }
+        	      }
+        	    }
+        	    annotationsLocaleMap.+=(locale -> x)
+        	  }
         	}
         }) 
       }
     }
     
   
+    generateAlerts match {
+      case false => // do nothing
+      case true => {
+        alertMap.size > 0 match {
+          case true => {
+            alertMap.foreach(println(_))
+            val sortedAlertMap = alertMap.toArray.sortWith((a,b) => a._2 > b._2)
+            val top5Map = sortedAlertMap.slice(0, scala.math.min(5, alertMap.size))  
+            val bottom5Map = sortedAlertMap.reverse.slice(0, scala.math.min(5, alertMap.size))
+                val minChange = top5Map.map(x => x._2).foldLeft(100000000.0)((a,b) => scala.math.min(a,b))
+                val maxChange = bottom5Map.map(x => x._2).foldLeft(100000000.0)((a,b) => scala.math.max(a,b))
+//                val localesTopMap = top5Map.map(x => x._1)
+//                val localesBottomMap = bottom5Map.map(x => x._1)
+                
+                val alertTopTemplate = Constants.alertTemplate("Confirmed Daily Cases per 100k", "weekly", 14, minChange)
+                val alertBottomTemplate = Constants.alertTemplate("Confirmed Daily Cases per 100k", "weekly", 14, maxChange)
+                
+                val alertTop = Alert(localeType, "Confirmed Daily Cases per 100k", "weekly",14,alertTopTemplate,top5Map)
+                val alertBottom = Alert(localeType, "Confirmed Daily Cases per 100k", "weekly",14,alertBottomTemplate,bottom5Map)
+    
+                InputOutput.writeToFile(alertJsonImplicit.write(alertTop).prettyPrint.getBytes,
+                                          outputDirectoryNameAlerts+localeType+"/"+"topAlerts.json")
+                                          
+                InputOutput.writeToFile(alertJsonImplicit.write(alertBottom).prettyPrint.getBytes,
+                                          outputDirectoryNameAlerts+localeType+"/"+"bottomAlerts.json")
+              }
+          case false => // do nothing
+        }
+      }
+//        create an alert and write it
+    }
 //    val mapNames = locale match {
 //      case "county" => HelperFunctions.createCountyNameLookUpMap(locales)
 //      case  _ => annotationsLocaleMap.values.toList.flatten.map(x => (x.locale -> x.locale)).toMap
@@ -109,10 +158,12 @@ object Driver extends JsonSupport {
     }
     
     def main(args: Array[String]) {
-//    	update("country")
+//    	update("country") 
 //    	update("state")
-//      update("county","SnapshotsOnly")
-      update("county","AnnotationsOnly")
+//      update("county","Both" , false, true, 0, 1000)
+//      update("county","Both" , false, true, 1000, 2000)
+      update("county","Both" , false, true, 2000, 3100)
+//      update("county","Both" , true, false, 0, 3500)
     
   }
 }

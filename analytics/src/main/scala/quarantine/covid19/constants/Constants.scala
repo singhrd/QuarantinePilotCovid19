@@ -28,12 +28,12 @@ object Constants {
   // Source https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext
   val DefaultOutcomeTimeDays = 7
   
-  val DefaultMovingAverageWindowInDaysSet = List(7, 21)
+  val DefaultMovingAverageWindowInDaysSet = Array(7, 21)
   
   val DefaultMovingAverageWindowInDaysForAlert = 21
   
   val defaultMetrics = List(MetricType.SpreadRate, MetricType.DailyGrowth,
-                            MetricType.CFR, 
+                            MetricType.CFR, MetricType.CFRTA,
                             MetricType.DailyPer100k,MetricType.CumulativePer100k)
                             
   val mappingNamesMismatch = Map[String, String](("North Macedonia" -> "Macedonia"), 

@@ -1,7 +1,7 @@
 package quarantine.covid19.core
 
 
-//import 
+
 /**
  * An alert is an object that captures specific state of CovidSnapshots
  *  and Annotations that are worth paying attention to.
@@ -15,7 +15,7 @@ package quarantine.covid19.core
  *  
  *  @author rajdeep
  */
-case class Alert(alertLevel: String, metric: String, windowSize: String, deltaDays: Int, uiInfo: AlertUIInfo)
+case class Alert(localeType: String, metric: String, windowSize: String, deltaDays: Int, description: String, locales: Array[(String, Double)])
 
 /**
  *  The info that drives the UI presets
@@ -24,4 +24,4 @@ case class Alert(alertLevel: String, metric: String, windowSize: String, deltaDa
  *  
  *  @author rajdeep
  */
-case class AlertUIInfo(description: String, locales: List[String])
+case class AlertUIInfo(description: String, locales: Array[(String, Double)])
