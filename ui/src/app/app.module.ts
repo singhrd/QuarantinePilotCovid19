@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 
+import { DropdownModule } from 'primeng/dropdown';
 import { MultiSelectModule } from 'primeng/multiselect';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -31,6 +32,7 @@ import { LineChartComponent } from './charts/line-chart/line-chart.component';
     AppRoutingModule,
     FormsModule,
     HttpClientModule,
+    DropdownModule,
     MultiSelectModule
   ],
   providers: [CovidReportService],

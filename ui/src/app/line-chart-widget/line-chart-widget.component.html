@@ -18,9 +18,9 @@
                     </div>
                 </div>
                 <div>
-                <p-multiSelect [options]="availableLocations" [(ngModel)]="selectedLocations" [dropdownIcon]="'pi pi-caret-down'"
+                    <p-multiSelect [options]="availableLocations" [(ngModel)]="selectedLocations" [dropdownIcon]="'pi pi-caret-down'"
                         (onPanelHide)="hidePanel()" [filter]="true" [defaultLabel]="'Select Locations'"
-                        [maxSelectedLabels]="2"></p-multiSelect>
+                        [maxSelectedLabels]="2" [virtualScroll]="true" [itemSize]="30"></p-multiSelect>
                 </div>
 
                 <div dropdown class="dropdown">
