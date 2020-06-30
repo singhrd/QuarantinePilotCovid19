@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -20.32520325203252,
     "locale": "Rooks,Kansas",
-    "activePer100k": -20.32520325203252,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRooks,Kansas",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRooks,Kansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0246,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRooks,Kansas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.0246,
+    "source": "NYGithub",
+    "confirmedPer100kN": 20.32520325203252,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 20.32520325203252,
+    "locale": "Rooks,Kansas",
+    "activePer100k": 20.32520325203252,
+    "long": "ReplaceMeRooks,Kansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRooks,Kansas",
+    "active": 1
   }]
 }

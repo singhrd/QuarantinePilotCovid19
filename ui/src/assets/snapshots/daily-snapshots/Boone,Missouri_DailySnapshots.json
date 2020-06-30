@@ -905,12 +905,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Boone,Missouri",
-    "activePer100k": -0.5541302095166323,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Missouri",
     "date": "03/18/2020",
     "deathsPer100k": 0.5541302095166323,
     "lat": "ReplaceMeBoone,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.902315,
     "source": "NYGithub",
@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5541302095166323,
     "locale": "Boone,Missouri",
-    "activePer100k": -0.5541302095166323,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Missouri",
     "date": "04/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.902315,
     "source": "NYGithub",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5541302095166323,
     "locale": "Boone,Missouri",
-    "activePer100k": -0.5541302095166323,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Missouri",
     "date": "04/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.902315,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.770651047583161,
     "locale": "Boone,Missouri",
-    "activePer100k": -2.770651047583161,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Missouri",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Missouri",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.902315,
     "source": "NYGithub",
@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5541302095166323,
     "locale": "Boone,Missouri",
-    "activePer100k": -0.5541302095166323,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Missouri",
     "date": "05/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.902315,
     "source": "NYGithub",
@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5541302095166323,
     "locale": "Boone,Missouri",
-    "activePer100k": -0.5541302095166323,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Missouri",
     "date": "05/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.902315,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Missouri",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.902315,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.095432304682954,
+    "deaths": 0,
+    "confirmed": 11,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.095432304682954,
+    "locale": "Boone,Missouri",
+    "activePer100k": 6.095432304682954,
+    "long": "ReplaceMeBoone,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBoone,Missouri",
+    "active": 11
   }]
 }

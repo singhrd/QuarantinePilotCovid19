@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.257134236793805,
     "locale": "Oconee,South Carolina",
-    "activePer100k": -1.257134236793805,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOconee,South Carolina",
     "date": "05/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOconee,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.39773,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.257134236793805,
     "locale": "Oconee,South Carolina",
-    "activePer100k": -1.257134236793805,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOconee,South Carolina",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOconee,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.39773,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -15.085610841525659,
     "locale": "Oconee,South Carolina",
-    "activePer100k": -15.085610841525659,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOconee,South Carolina",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOconee,South Carolina",
-    "active": -12
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.39773,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOconee,South Carolina",
     "active": 32
+  }, {
+    "epidemiccontrolThreshold": 0.39773,
+    "source": "NYGithub",
+    "confirmedPer100kN": 25.1426847358761,
+    "deaths": 0,
+    "confirmed": 20,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 25.1426847358761,
+    "locale": "Oconee,South Carolina",
+    "activePer100k": 25.1426847358761,
+    "long": "ReplaceMeOconee,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeOconee,South Carolina",
+    "active": 20
   }]
 }

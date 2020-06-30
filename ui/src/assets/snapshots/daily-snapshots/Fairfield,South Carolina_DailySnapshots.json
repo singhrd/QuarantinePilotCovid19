@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.474873584821228,
     "locale": "Fairfield,South Carolina",
-    "activePer100k": -4.474873584821228,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,South Carolina",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.111735,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Fairfield,South Carolina",
-    "activePer100k": -4.474873584821228,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,South Carolina",
     "date": "05/26/2020",
     "deathsPer100k": 4.474873584821228,
     "lat": "ReplaceMeFairfield,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.111735,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Fairfield,South Carolina",
-    "activePer100k": -4.474873584821228,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,South Carolina",
     "date": "05/28/2020",
     "deathsPer100k": 4.474873584821228,
     "lat": "ReplaceMeFairfield,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.111735,
     "source": "NYGithub",
@@ -2201,12 +2201,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.949747169642457,
     "locale": "Fairfield,South Carolina",
-    "activePer100k": -8.949747169642457,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,South Carolina",
     "date": "06/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,South Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.111735,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.474873584821228,
     "locale": "Fairfield,South Carolina",
-    "activePer100k": -4.474873584821228,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,South Carolina",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.111735,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,South Carolina",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.111735,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.474873584821228,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.474873584821228,
+    "locale": "Fairfield,South Carolina",
+    "activePer100k": 4.474873584821228,
+    "long": "ReplaceMeFairfield,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFairfield,South Carolina",
+    "active": 1
   }]
 }

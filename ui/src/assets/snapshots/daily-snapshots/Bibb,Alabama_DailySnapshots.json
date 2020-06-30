@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.46548182548897,
     "locale": "Bibb,Alabama",
-    "activePer100k": -4.46548182548897,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBibb,Alabama",
     "date": "04/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBibb,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11197,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.46548182548897,
     "locale": "Bibb,Alabama",
-    "activePer100k": -4.46548182548897,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBibb,Alabama",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBibb,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11197,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.46548182548897,
     "locale": "Bibb,Alabama",
-    "activePer100k": -4.46548182548897,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBibb,Alabama",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBibb,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11197,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bibb,Alabama",
-    "activePer100k": -4.46548182548897,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBibb,Alabama",
     "date": "05/08/2020",
     "deathsPer100k": 4.46548182548897,
     "lat": "ReplaceMeBibb,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11197,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBibb,Alabama",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.11197,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.46548182548897,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.46548182548897,
+    "locale": "Bibb,Alabama",
+    "activePer100k": 4.46548182548897,
+    "long": "ReplaceMeBibb,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBibb,Alabama",
+    "active": 1
   }]
 }

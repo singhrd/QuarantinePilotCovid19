@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.491042828330762,
     "locale": "Summit,Utah",
-    "activePer100k": -9.491042828330762,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSummit,Utah",
     "date": "03/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSummit,Utah",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.210725,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3727607070826906,
     "locale": "Summit,Utah",
-    "activePer100k": -2.3727607070826906,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSummit,Utah",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSummit,Utah",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.210725,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3727607070826906,
     "locale": "Summit,Utah",
-    "activePer100k": -2.3727607070826906,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSummit,Utah",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSummit,Utah",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.210725,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3727607070826906,
     "locale": "Summit,Utah",
-    "activePer100k": -2.3727607070826906,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSummit,Utah",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSummit,Utah",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.210725,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSummit,Utah",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.210725,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.3727607070826906,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.3727607070826906,
+    "locale": "Summit,Utah",
+    "activePer100k": 2.3727607070826906,
+    "long": "ReplaceMeSummit,Utah",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSummit,Utah",
+    "active": 1
   }]
 }

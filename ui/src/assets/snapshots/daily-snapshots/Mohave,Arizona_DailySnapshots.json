@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Mohave,Arizona",
-    "activePer100k": -0.4712957333597259,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMohave,Arizona",
     "date": "05/17/2020",
     "deathsPer100k": 0.4712957333597259,
     "lat": "ReplaceMeMohave,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.060905,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.4712957333597259,
     "lat": "ReplaceMeMohave,Arizona",
     "active": 34
+  }, {
+    "epidemiccontrolThreshold": 1.060905,
+    "source": "NYGithub",
+    "confirmedPer100kN": 19.794420801108487,
+    "deaths": 0,
+    "confirmed": 42,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 19.794420801108487,
+    "locale": "Mohave,Arizona",
+    "activePer100k": 19.794420801108487,
+    "long": "ReplaceMeMohave,Arizona",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMohave,Arizona",
+    "active": 42
   }]
 }

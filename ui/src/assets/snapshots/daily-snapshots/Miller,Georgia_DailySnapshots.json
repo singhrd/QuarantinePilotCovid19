@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.488632388947185,
     "locale": "Miller,Georgia",
-    "activePer100k": -17.488632388947185,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "03/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -1177,12 +1177,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.488632388947185,
     "locale": "Miller,Georgia",
-    "activePer100k": -17.488632388947185,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "04/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -69.95452955578874,
     "locale": "Miller,Georgia",
-    "activePer100k": -69.95452955578874,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -34.97726477789437,
     "locale": "Miller,Georgia",
-    "activePer100k": -34.97726477789437,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -34.97726477789437,
     "locale": "Miller,Georgia",
-    "activePer100k": -34.97726477789437,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.488632388947185,
     "locale": "Miller,Georgia",
-    "activePer100k": -17.488632388947185,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -34.97726477789437,
     "locale": "Miller,Georgia",
-    "activePer100k": -34.97726477789437,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.488632388947185,
     "locale": "Miller,Georgia",
-    "activePer100k": -17.488632388947185,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.488632388947185,
     "locale": "Miller,Georgia",
-    "activePer100k": -17.488632388947185,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "05/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02859,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeMiller,Georgia",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMiller,Georgia",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.02859,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Miller,Georgia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMiller,Georgia",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiller,Georgia",
     "active": 0

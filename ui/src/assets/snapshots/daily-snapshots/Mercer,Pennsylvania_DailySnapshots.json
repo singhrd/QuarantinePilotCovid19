@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Mercer,Pennsylvania",
-    "activePer100k": -0.9138762977043426,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMercer,Pennsylvania",
     "date": "05/08/2020",
     "deathsPer100k": 0.9138762977043426,
     "lat": "ReplaceMeMercer,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.54712,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMercer,Pennsylvania",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.54712,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.741628893113028,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.741628893113028,
+    "locale": "Mercer,Pennsylvania",
+    "activePer100k": 2.741628893113028,
+    "long": "ReplaceMeMercer,Pennsylvania",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMercer,Pennsylvania",
+    "active": 3
   }]
 }

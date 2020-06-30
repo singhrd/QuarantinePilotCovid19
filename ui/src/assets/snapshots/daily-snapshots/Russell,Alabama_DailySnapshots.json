@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7252980452373148,
     "locale": "Russell,Alabama",
-    "activePer100k": -1.7252980452373148,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRussell,Alabama",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRussell,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.289805,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRussell,Alabama",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.289805,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.077086316661203,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.077086316661203,
+    "locale": "Russell,Alabama",
+    "activePer100k": 12.077086316661203,
+    "long": "ReplaceMeRussell,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRussell,Alabama",
+    "active": 7
   }]
 }

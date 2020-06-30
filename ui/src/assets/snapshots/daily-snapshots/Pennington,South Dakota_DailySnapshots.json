@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8789277081960009,
     "locale": "Pennington,South Dakota",
-    "activePer100k": -0.8789277081960009,
+    "activePer100k": 0.0,
     "long": "ReplaceMePennington,South Dakota",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePennington,South Dakota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.568875,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.7578554163920017,
     "lat": "ReplaceMePennington,South Dakota",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 0.568875,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.789277081960009,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.789277081960009,
+    "locale": "Pennington,South Dakota",
+    "activePer100k": 8.789277081960009,
+    "long": "ReplaceMePennington,South Dakota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePennington,South Dakota",
+    "active": 10
   }]
 }

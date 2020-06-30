@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4398640768311473,
     "locale": "Grand Forks,North Dakota",
-    "activePer100k": -1.4398640768311473,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrand Forks,North Dakota",
     "date": "06/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrand Forks,North Dakota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347255,
     "source": "NYGithub",
@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Grand Forks,North Dakota",
-    "activePer100k": -1.4398640768311473,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrand Forks,North Dakota",
     "date": "06/05/2020",
     "deathsPer100k": 1.4398640768311473,
     "lat": "ReplaceMeGrand Forks,North Dakota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347255,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrand Forks,North Dakota",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.347255,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.199320384155736,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.199320384155736,
+    "locale": "Grand Forks,North Dakota",
+    "activePer100k": 7.199320384155736,
+    "long": "ReplaceMeGrand Forks,North Dakota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGrand Forks,North Dakota",
+    "active": 5
   }]
 }

@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.10441083575653481,
     "locale": "Duval,Florida",
-    "activePer100k": -0.20882167151306963,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDuval,Florida",
     "date": "04/24/2020",
     "deathsPer100k": 0.10441083575653481,
     "lat": "ReplaceMeDuval,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.788775,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7308758502957436,
     "locale": "Duval,Florida",
-    "activePer100k": -0.7308758502957436,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDuval,Florida",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDuval,Florida",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.788775,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDuval,Florida",
     "active": 677
+  }, {
+    "epidemiccontrolThreshold": 4.788775,
+    "source": "NYGithub",
+    "confirmedPer100kN": 77.26401845983575,
+    "deaths": 0,
+    "confirmed": 740,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 77.26401845983575,
+    "locale": "Duval,Florida",
+    "activePer100k": 77.26401845983575,
+    "long": "ReplaceMeDuval,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDuval,Florida",
+    "active": 740
   }]
 }

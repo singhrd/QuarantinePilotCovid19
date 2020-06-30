@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.418157460741214,
     "locale": "Loudoun,Virginia",
-    "activePer100k": -2.418157460741214,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLoudoun,Virginia",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLoudoun,Virginia",
-    "active": -10
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.06769,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLoudoun,Virginia",
     "active": 84
+  }, {
+    "epidemiccontrolThreshold": 2.06769,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.156261335113099,
+    "deaths": 1,
+    "confirmed": 42,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.156261335113099,
+    "locale": "Loudoun,Virginia",
+    "activePer100k": 9.914445589038976,
+    "long": "ReplaceMeLoudoun,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.24181574607412137,
+    "lat": "ReplaceMeLoudoun,Virginia",
+    "active": 41
   }]
 }

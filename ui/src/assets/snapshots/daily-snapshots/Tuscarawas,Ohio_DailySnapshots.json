@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0871101351277899,
     "locale": "Tuscarawas,Ohio",
-    "activePer100k": -1.0871101351277899,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTuscarawas,Ohio",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTuscarawas,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.459935,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTuscarawas,Ohio",
     "active": 13
+  }, {
+    "epidemiccontrolThreshold": 0.459935,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.958211486405688,
+    "deaths": 0,
+    "confirmed": 11,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.958211486405688,
+    "locale": "Tuscarawas,Ohio",
+    "activePer100k": 11.958211486405688,
+    "long": "ReplaceMeTuscarawas,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTuscarawas,Ohio",
+    "active": 11
   }]
 }

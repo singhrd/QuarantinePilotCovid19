@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.282985674792662,
     "locale": "Smith,Mississippi",
-    "activePer100k": -6.282985674792662,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSmith,Mississippi",
     "date": "05/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSmith,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07958,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSmith,Mississippi",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.07958,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Smith,Mississippi",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeSmith,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSmith,Mississippi",
+    "active": 0
   }]
 }

@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Taney,Missouri",
-    "activePer100k": -1.788013159776856,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTaney,Missouri",
     "date": "04/09/2020",
     "deathsPer100k": 1.788013159776856,
     "lat": "ReplaceMeTaney,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27964,
     "source": "NYGithub",
@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.788013159776856,
     "locale": "Taney,Missouri",
-    "activePer100k": -1.788013159776856,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTaney,Missouri",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTaney,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27964,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Taney,Missouri",
-    "activePer100k": -1.788013159776856,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTaney,Missouri",
     "date": "05/01/2020",
     "deathsPer100k": 1.788013159776856,
     "lat": "ReplaceMeTaney,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27964,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 14.304105278214848,
     "long": "ReplaceMeTaney,Missouri",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTaney,Missouri",
+    "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.27964,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.304105278214848,
+    "deaths": 0,
+    "confirmed": 8,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.304105278214848,
+    "locale": "Taney,Missouri",
+    "activePer100k": 14.304105278214848,
+    "long": "ReplaceMeTaney,Missouri",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTaney,Missouri",
     "active": 8

@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Carteret,North Carolina",
-    "activePer100k": -1.4394081153829545,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarteret,North Carolina",
     "date": "04/07/2020",
     "deathsPer100k": 1.4394081153829545,
     "lat": "ReplaceMeCarteret,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347365,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Carteret,North Carolina",
-    "activePer100k": -1.4394081153829545,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarteret,North Carolina",
     "date": "04/18/2020",
     "deathsPer100k": 1.4394081153829545,
     "lat": "ReplaceMeCarteret,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347365,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4394081153829545,
     "locale": "Carteret,North Carolina",
-    "activePer100k": -1.4394081153829545,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarteret,North Carolina",
     "date": "04/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarteret,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347365,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4394081153829545,
     "locale": "Carteret,North Carolina",
-    "activePer100k": -1.4394081153829545,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarteret,North Carolina",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarteret,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347365,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.878816230765909,
     "locale": "Carteret,North Carolina",
-    "activePer100k": -2.878816230765909,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarteret,North Carolina",
     "date": "05/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarteret,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347365,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Carteret,North Carolina",
-    "activePer100k": -8.636448692297728,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarteret,North Carolina",
     "date": "05/22/2020",
     "deathsPer100k": 8.636448692297728,
     "lat": "ReplaceMeCarteret,North Carolina",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347365,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4394081153829545,
     "locale": "Carteret,North Carolina",
-    "activePer100k": -1.4394081153829545,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarteret,North Carolina",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarteret,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.347365,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarteret,North Carolina",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.347365,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.636448692297728,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.636448692297728,
+    "locale": "Carteret,North Carolina",
+    "activePer100k": 8.636448692297728,
+    "long": "ReplaceMeCarteret,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCarteret,North Carolina",
+    "active": 6
   }]
 }

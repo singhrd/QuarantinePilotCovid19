@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Columbiana,Ohio",
-    "activePer100k": -0.9815180157631794,
+    "activePer100k": 0.0,
     "long": "ReplaceMeColumbiana,Ohio",
     "date": "03/30/2020",
     "deathsPer100k": 0.9815180157631794,
     "lat": "ReplaceMeColumbiana,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.509415,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeColumbiana,Ohio",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.509415,
+    "source": "NYGithub",
+    "confirmedPer100kN": 102.07787363937067,
+    "deaths": 0,
+    "confirmed": 104,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 102.07787363937067,
+    "locale": "Columbiana,Ohio",
+    "activePer100k": 102.07787363937067,
+    "long": "ReplaceMeColumbiana,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeColumbiana,Ohio",
+    "active": 104
   }]
 }

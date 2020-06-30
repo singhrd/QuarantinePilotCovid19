@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.7512191462225224,
     "locale": "Simpson,Mississippi",
-    "activePer100k": -3.7512191462225224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Mississippi",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSimpson,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13329,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.253657438667569,
     "locale": "Simpson,Mississippi",
-    "activePer100k": -11.253657438667569,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Mississippi",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSimpson,Mississippi",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13329,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.7512191462225224,
     "locale": "Simpson,Mississippi",
-    "activePer100k": -3.7512191462225224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Mississippi",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSimpson,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13329,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSimpson,Mississippi",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.13329,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.253657438667569,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.253657438667569,
+    "locale": "Simpson,Mississippi",
+    "activePer100k": 11.253657438667569,
+    "long": "ReplaceMeSimpson,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSimpson,Mississippi",
+    "active": 3
   }]
 }

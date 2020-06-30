@@ -1081,12 +1081,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.12164221860809676,
     "locale": "Snohomish,Washington",
-    "activePer100k": -0.12164221860809676,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSnohomish,Washington",
     "date": "03/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSnohomish,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.110415,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Snohomish,Washington",
-    "activePer100k": -0.24328443721619353,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSnohomish,Washington",
     "date": "04/21/2020",
     "deathsPer100k": 0.24328443721619353,
     "lat": "ReplaceMeSnohomish,Washington",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.110415,
     "source": "NYGithub",
@@ -2425,12 +2425,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Snohomish,Washington",
-    "activePer100k": -0.12164221860809676,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSnohomish,Washington",
     "date": "06/20/2020",
     "deathsPer100k": 0.12164221860809676,
     "lat": "ReplaceMeSnohomish,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.110415,
     "source": "NYGithub",
@@ -2537,11 +2537,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Snohomish,Washington",
-    "activePer100k": -0.12164221860809676,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSnohomish,Washington",
     "date": "06/27/2020",
     "deathsPer100k": 0.12164221860809676,
     "lat": "ReplaceMeSnohomish,Washington",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 4.110415,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.2164221860809676,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.2164221860809676,
+    "locale": "Snohomish,Washington",
+    "activePer100k": 1.2164221860809676,
+    "long": "ReplaceMeSnohomish,Washington",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSnohomish,Washington",
+    "active": 10
   }]
 }

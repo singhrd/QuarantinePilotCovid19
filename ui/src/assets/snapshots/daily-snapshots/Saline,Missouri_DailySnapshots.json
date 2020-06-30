@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Saline,Missouri",
-    "activePer100k": -8.786960151135714,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaline,Missouri",
     "date": "05/28/2020",
     "deathsPer100k": 8.786960151135714,
     "lat": "ReplaceMeSaline,Missouri",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.113805,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Saline,Missouri",
-    "activePer100k": -4.393480075567857,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaline,Missouri",
     "date": "06/09/2020",
     "deathsPer100k": 4.393480075567857,
     "lat": "ReplaceMeSaline,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.113805,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.393480075567857,
     "locale": "Saline,Missouri",
-    "activePer100k": -4.393480075567857,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaline,Missouri",
     "date": "06/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaline,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.113805,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaline,Missouri",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.113805,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.393480075567857,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.393480075567857,
+    "locale": "Saline,Missouri",
+    "activePer100k": 4.393480075567857,
+    "long": "ReplaceMeSaline,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSaline,Missouri",
+    "active": 1
   }]
 }

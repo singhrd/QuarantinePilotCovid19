@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Phillips,Arkansas",
-    "activePer100k": -5.623664379709819,
+    "activePer100k": 0.0,
     "long": "ReplaceMePhillips,Arkansas",
     "date": "04/12/2020",
     "deathsPer100k": 5.623664379709819,
     "lat": "ReplaceMePhillips,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08891,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.623664379709819,
     "locale": "Phillips,Arkansas",
-    "activePer100k": -5.623664379709819,
+    "activePer100k": 0.0,
     "long": "ReplaceMePhillips,Arkansas",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePhillips,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08891,
     "source": "NYGithub",
@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.623664379709819,
     "locale": "Phillips,Arkansas",
-    "activePer100k": -5.623664379709819,
+    "activePer100k": 0.0,
     "long": "ReplaceMePhillips,Arkansas",
     "date": "05/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePhillips,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08891,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePhillips,Arkansas",
     "active": 18
+  }, {
+    "epidemiccontrolThreshold": 0.08891,
+    "source": "NYGithub",
+    "confirmedPer100kN": 28.118321898549095,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 28.118321898549095,
+    "locale": "Phillips,Arkansas",
+    "activePer100k": 28.118321898549095,
+    "long": "ReplaceMePhillips,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePhillips,Arkansas",
+    "active": 5
   }]
 }

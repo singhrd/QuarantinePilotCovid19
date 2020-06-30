@@ -1193,12 +1193,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.505116833523594,
     "locale": "Trumbull,Ohio",
-    "activePer100k": -1.010233667047188,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTrumbull,Ohio",
     "date": "04/05/2020",
     "deathsPer100k": 0.505116833523594,
     "lat": "ReplaceMeTrumbull,Ohio",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.98987,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Trumbull,Ohio",
-    "activePer100k": -0.505116833523594,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTrumbull,Ohio",
     "date": "06/03/2020",
     "deathsPer100k": 0.505116833523594,
     "lat": "ReplaceMeTrumbull,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.98987,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.505116833523594,
     "lat": "ReplaceMeTrumbull,Ohio",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.98987,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.546051501712346,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.546051501712346,
+    "locale": "Trumbull,Ohio",
+    "activePer100k": 4.546051501712346,
+    "long": "ReplaceMeTrumbull,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTrumbull,Ohio",
+    "active": 9
   }]
 }

@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.241984669908515,
     "locale": "Bollinger,Missouri",
-    "activePer100k": -8.241984669908515,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBollinger,Missouri",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBollinger,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.060665,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.241984669908515,
     "locale": "Bollinger,Missouri",
-    "activePer100k": -8.241984669908515,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBollinger,Missouri",
     "date": "06/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBollinger,Missouri",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.060665,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Bollinger,Missouri",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBollinger,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBollinger,Missouri",
+    "active": 0
   }]
 }

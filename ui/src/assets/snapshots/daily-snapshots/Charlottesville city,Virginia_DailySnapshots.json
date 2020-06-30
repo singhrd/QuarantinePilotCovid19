@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.115685693733339,
     "locale": "Charlottesville city,Virginia",
-    "activePer100k": -2.115685693733339,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCharlottesville city,Virginia",
     "date": "04/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCharlottesville city,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.23633,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Charlottesville city,Virginia",
-    "activePer100k": -2.115685693733339,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCharlottesville city,Virginia",
     "date": "04/21/2020",
     "deathsPer100k": 2.115685693733339,
     "lat": "ReplaceMeCharlottesville city,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.23633,
     "source": "NYGithub",
@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Charlottesville city,Virginia",
-    "activePer100k": -2.115685693733339,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCharlottesville city,Virginia",
     "date": "05/23/2020",
     "deathsPer100k": 2.115685693733339,
     "lat": "ReplaceMeCharlottesville city,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.23633,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCharlottesville city,Virginia",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.23633,
+    "source": "NYGithub",
+    "confirmedPer100kN": 19.04117124360005,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 19.04117124360005,
+    "locale": "Charlottesville city,Virginia",
+    "activePer100k": 19.04117124360005,
+    "long": "ReplaceMeCharlottesville city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCharlottesville city,Virginia",
+    "active": 9
   }]
 }

@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.825323296660876,
     "locale": "Polk,North Carolina",
-    "activePer100k": -4.825323296660876,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,North Carolina",
     "date": "04/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10362,
     "source": "NYGithub",
@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.650646593321753,
     "locale": "Polk,North Carolina",
-    "activePer100k": -9.650646593321753,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,North Carolina",
     "date": "05/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10362,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Polk,North Carolina",
-    "activePer100k": -14.475969889982629,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,North Carolina",
     "date": "05/13/2020",
     "deathsPer100k": 14.475969889982629,
     "lat": "ReplaceMePolk,North Carolina",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10362,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.825323296660876,
     "locale": "Polk,North Carolina",
-    "activePer100k": -4.825323296660876,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,North Carolina",
     "date": "05/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10362,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Polk,North Carolina",
-    "activePer100k": -4.825323296660876,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,North Carolina",
     "date": "05/21/2020",
     "deathsPer100k": 4.825323296660876,
     "lat": "ReplaceMePolk,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10362,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,North Carolina",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.10362,
+    "source": "NYGithub",
+    "confirmedPer100kN": 19.301293186643505,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 19.301293186643505,
+    "locale": "Polk,North Carolina",
+    "activePer100k": 19.301293186643505,
+    "long": "ReplaceMePolk,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePolk,North Carolina",
+    "active": 4
   }]
 }

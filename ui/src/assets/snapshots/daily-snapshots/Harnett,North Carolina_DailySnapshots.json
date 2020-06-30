@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Harnett,North Carolina",
-    "activePer100k": -1.4708477966700004,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHarnett,North Carolina",
     "date": "05/12/2020",
     "deathsPer100k": 1.4708477966700004,
     "lat": "ReplaceMeHarnett,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.67988,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 12.502206271695004,
     "long": "ReplaceMeHarnett,North Carolina",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHarnett,North Carolina",
+    "active": 17
+  }, {
+    "epidemiccontrolThreshold": 0.67988,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.502206271695004,
+    "deaths": 0,
+    "confirmed": 17,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.502206271695004,
+    "locale": "Harnett,North Carolina",
+    "activePer100k": 12.502206271695004,
+    "long": "ReplaceMeHarnett,North Carolina",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHarnett,North Carolina",
     "active": 17

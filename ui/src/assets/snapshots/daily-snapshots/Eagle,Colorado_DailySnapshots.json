@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8139931431059189,
     "locale": "Eagle,Colorado",
-    "activePer100k": -1.8139931431059189,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEagle,Colorado",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEagle,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.275635,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.883958858635514,
     "locale": "Eagle,Colorado",
-    "activePer100k": -10.883958858635514,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEagle,Colorado",
     "date": "05/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEagle,Colorado",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.275635,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.069965715529595,
     "locale": "Eagle,Colorado",
-    "activePer100k": -9.069965715529595,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEagle,Colorado",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEagle,Colorado",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.275635,
     "source": "NYGithub",
@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.255972572423675,
     "locale": "Eagle,Colorado",
-    "activePer100k": -7.255972572423675,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEagle,Colorado",
     "date": "05/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEagle,Colorado",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.275635,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEagle,Colorado",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.275635,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.8139931431059189,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.8139931431059189,
+    "locale": "Eagle,Colorado",
+    "activePer100k": 1.8139931431059189,
+    "long": "ReplaceMeEagle,Colorado",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeEagle,Colorado",
+    "active": 1
   }]
 }

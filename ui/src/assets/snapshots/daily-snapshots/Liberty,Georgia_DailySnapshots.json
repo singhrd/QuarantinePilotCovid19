@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.627736632212908,
     "locale": "Liberty,Georgia",
-    "activePer100k": -1.627736632212908,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLiberty,Georgia",
     "date": "04/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLiberty,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.307175,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.627736632212908,
     "locale": "Liberty,Georgia",
-    "activePer100k": -1.627736632212908,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLiberty,Georgia",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLiberty,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.307175,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.627736632212908,
     "locale": "Liberty,Georgia",
-    "activePer100k": -1.627736632212908,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLiberty,Georgia",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLiberty,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.307175,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Liberty,Georgia",
-    "activePer100k": -1.627736632212908,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLiberty,Georgia",
     "date": "06/02/2020",
     "deathsPer100k": 1.627736632212908,
     "lat": "ReplaceMeLiberty,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.307175,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.627736632212908,
     "locale": "Liberty,Georgia",
-    "activePer100k": -1.627736632212908,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLiberty,Georgia",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLiberty,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.307175,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLiberty,Georgia",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.307175,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Liberty,Georgia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeLiberty,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLiberty,Georgia",
+    "active": 0
   }]
 }

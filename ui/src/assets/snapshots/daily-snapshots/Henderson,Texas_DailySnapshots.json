@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Henderson,Texas",
-    "activePer100k": -2.4172981858177116,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHenderson,Texas",
     "date": "05/29/2020",
     "deathsPer100k": 2.4172981858177116,
     "lat": "ReplaceMeHenderson,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.413685,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHenderson,Texas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.413685,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.2086490929088558,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.2086490929088558,
+    "locale": "Henderson,Texas",
+    "activePer100k": 1.2086490929088558,
+    "long": "ReplaceMeHenderson,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHenderson,Texas",
+    "active": 1
   }]
 }

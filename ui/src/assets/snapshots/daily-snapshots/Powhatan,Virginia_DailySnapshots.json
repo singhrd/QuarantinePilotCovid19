@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.372453797382976,
     "locale": "Powhatan,Virginia",
-    "activePer100k": -3.372453797382976,
+    "activePer100k": 0.0,
     "long": "ReplaceMePowhatan,Virginia",
     "date": "04/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePowhatan,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14826,
     "source": "NYGithub",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.372453797382976,
     "locale": "Powhatan,Virginia",
-    "activePer100k": -3.372453797382976,
+    "activePer100k": 0.0,
     "long": "ReplaceMePowhatan,Virginia",
     "date": "04/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePowhatan,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14826,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePowhatan,Virginia",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.14826,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Powhatan,Virginia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMePowhatan,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePowhatan,Virginia",
+    "active": 0
   }]
 }

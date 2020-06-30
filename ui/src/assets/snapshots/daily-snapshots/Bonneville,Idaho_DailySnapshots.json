@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.679797080512674,
     "locale": "Bonneville,Idaho",
-    "activePer100k": -1.679797080512674,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBonneville,Idaho",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBonneville,Idaho",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59531,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.839898540256337,
     "locale": "Bonneville,Idaho",
-    "activePer100k": -0.839898540256337,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBonneville,Idaho",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBonneville,Idaho",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59531,
     "source": "NYGithub",
@@ -2313,12 +2313,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bonneville,Idaho",
-    "activePer100k": -0.839898540256337,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBonneville,Idaho",
     "date": "06/14/2020",
     "deathsPer100k": 0.839898540256337,
     "lat": "ReplaceMeBonneville,Idaho",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59531,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBonneville,Idaho",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.59531,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.039391241538022,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.039391241538022,
+    "locale": "Bonneville,Idaho",
+    "activePer100k": 5.039391241538022,
+    "long": "ReplaceMeBonneville,Idaho",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBonneville,Idaho",
+    "active": 6
   }]
 }

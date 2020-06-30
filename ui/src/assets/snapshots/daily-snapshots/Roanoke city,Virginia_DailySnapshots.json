@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Roanoke city,Virginia",
-    "activePer100k": -7.060508558345017,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRoanoke city,Virginia",
     "date": "05/16/2020",
     "deathsPer100k": 7.060508558345017,
     "lat": "ReplaceMeRoanoke city,Virginia",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.495715,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0086440797635738,
     "locale": "Roanoke city,Virginia",
-    "activePer100k": -1.0086440797635738,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRoanoke city,Virginia",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRoanoke city,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.495715,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRoanoke city,Virginia",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.495715,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.043220398817869,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.043220398817869,
+    "locale": "Roanoke city,Virginia",
+    "activePer100k": 5.043220398817869,
+    "long": "ReplaceMeRoanoke city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRoanoke city,Virginia",
+    "active": 5
   }]
 }

@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.288164665523157,
     "locale": "Grainger,Tennessee",
-    "activePer100k": -4.288164665523157,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrainger,Tennessee",
     "date": "04/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrainger,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1166,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.288164665523157,
     "locale": "Grainger,Tennessee",
-    "activePer100k": -4.288164665523157,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrainger,Tennessee",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrainger,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1166,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.288164665523157,
     "locale": "Grainger,Tennessee",
-    "activePer100k": -4.288164665523157,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrainger,Tennessee",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrainger,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1166,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrainger,Tennessee",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.1166,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Grainger,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeGrainger,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGrainger,Tennessee",
+    "active": 0
   }]
 }

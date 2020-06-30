@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.386146048432513,
     "locale": "Evans,Georgia",
-    "activePer100k": -9.386146048432513,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEvans,Georgia",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEvans,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05327,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.386146048432513,
     "locale": "Evans,Georgia",
-    "activePer100k": -9.386146048432513,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEvans,Georgia",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEvans,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05327,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEvans,Georgia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.05327,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.386146048432513,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.386146048432513,
+    "locale": "Evans,Georgia",
+    "activePer100k": 9.386146048432513,
+    "long": "ReplaceMeEvans,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeEvans,Georgia",
+    "active": 1
   }]
 }

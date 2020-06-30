@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.4479191807744027,
     "locale": "Custer,Oklahoma",
-    "activePer100k": -3.4479191807744027,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCuster,Oklahoma",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCuster,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.145015,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCuster,Oklahoma",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.145015,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.4479191807744027,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.4479191807744027,
+    "locale": "Custer,Oklahoma",
+    "activePer100k": 3.4479191807744027,
+    "long": "ReplaceMeCuster,Oklahoma",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCuster,Oklahoma",
+    "active": 1
   }]
 }

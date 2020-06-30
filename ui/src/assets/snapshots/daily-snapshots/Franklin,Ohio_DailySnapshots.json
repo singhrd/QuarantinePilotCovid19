@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.22783264325357167,
     "locale": "Franklin,Ohio",
-    "activePer100k": -0.683497929760715,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Ohio",
     "date": "04/20/2020",
     "deathsPer100k": 0.45566528650714333,
     "lat": "ReplaceMeFranklin,Ohio",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 6.58378,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.683497929760715,
     "lat": "ReplaceMeFranklin,Ohio",
     "active": 174
+  }, {
+    "epidemiccontrolThreshold": 6.58378,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.087855305007155,
+    "deaths": 1,
+    "confirmed": 146,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.087855305007155,
+    "locale": "Franklin,Ohio",
+    "activePer100k": 11.011911090589297,
+    "long": "ReplaceMeFranklin,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.07594421441785722,
+    "lat": "ReplaceMeFranklin,Ohio",
+    "active": 145
   }]
 }

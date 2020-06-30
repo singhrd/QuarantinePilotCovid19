@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Nicollet,Minnesota",
-    "activePer100k": -2.917663535041139,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNicollet,Minnesota",
     "date": "04/11/2020",
     "deathsPer100k": 2.917663535041139,
     "lat": "ReplaceMeNicollet,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17137,
     "source": "NYGithub",
@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Nicollet,Minnesota",
-    "activePer100k": -2.917663535041139,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNicollet,Minnesota",
     "date": "04/17/2020",
     "deathsPer100k": 2.917663535041139,
     "lat": "ReplaceMeNicollet,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17137,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Nicollet,Minnesota",
-    "activePer100k": -2.917663535041139,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNicollet,Minnesota",
     "date": "06/04/2020",
     "deathsPer100k": 2.917663535041139,
     "lat": "ReplaceMeNicollet,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17137,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNicollet,Minnesota",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.17137,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.588317675205696,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.588317675205696,
+    "locale": "Nicollet,Minnesota",
+    "activePer100k": 14.588317675205696,
+    "long": "ReplaceMeNicollet,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNicollet,Minnesota",
+    "active": 5
   }]
 }

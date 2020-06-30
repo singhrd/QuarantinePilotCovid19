@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1446362346046426,
     "locale": "Buchanan,Missouri",
-    "activePer100k": -1.1446362346046426,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBuchanan,Missouri",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.43682,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBuchanan,Missouri",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.43682,
+    "source": "NYGithub",
+    "confirmedPer100kN": 19.458815988278925,
+    "deaths": 0,
+    "confirmed": 17,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 19.458815988278925,
+    "locale": "Buchanan,Missouri",
+    "activePer100k": 19.458815988278925,
+    "long": "ReplaceMeBuchanan,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBuchanan,Missouri",
+    "active": 17
   }]
 }

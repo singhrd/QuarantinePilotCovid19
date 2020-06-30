@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Randolph,Alabama",
-    "activePer100k": 4.4010210368805565,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRandolph,Alabama",
     "date": "04/18/2020",
     "deathsPer100k": -4.4010210368805565,
     "lat": "ReplaceMeRandolph,Alabama",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11361,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.802042073761113,
     "locale": "Randolph,Alabama",
-    "activePer100k": -8.802042073761113,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRandolph,Alabama",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRandolph,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11361,
     "source": "NYGithub",
@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.4010210368805565,
     "locale": "Randolph,Alabama",
-    "activePer100k": -4.4010210368805565,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRandolph,Alabama",
     "date": "05/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRandolph,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11361,
     "source": "NYGithub",
@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Randolph,Alabama",
-    "activePer100k": -4.4010210368805565,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRandolph,Alabama",
     "date": "06/05/2020",
     "deathsPer100k": 4.4010210368805565,
     "lat": "ReplaceMeRandolph,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11361,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRandolph,Alabama",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.11361,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Randolph,Alabama",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeRandolph,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRandolph,Alabama",
+    "active": 0
   }]
 }

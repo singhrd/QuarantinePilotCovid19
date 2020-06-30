@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.225752508361204,
     "locale": "Perry,Missouri",
-    "activePer100k": -5.225752508361204,
+    "activePer100k": 0.0,
     "long": "ReplaceMePerry,Missouri",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePerry,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09568,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePerry,Missouri",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.09568,
+    "source": "NYGithub",
+    "confirmedPer100kN": 15.677257525083611,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 15.677257525083611,
+    "locale": "Perry,Missouri",
+    "activePer100k": 15.677257525083611,
+    "long": "ReplaceMePerry,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePerry,Missouri",
+    "active": 3
   }]
 }

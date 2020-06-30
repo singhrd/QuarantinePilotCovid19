@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Montana",
-    "activePer100k": -0.18691588785046728,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontana",
     "date": "04/20/2020",
     "deathsPer100k": 0.18691588785046728,
     "lat": "ReplaceMeMontana",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 5.3500000000000005,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Montana",
-    "activePer100k": -0.09345794392523364,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontana",
     "date": "04/29/2020",
     "deathsPer100k": 0.09345794392523364,
     "lat": "ReplaceMeMontana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 5.3500000000000005,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Montana",
-    "activePer100k": -0.09345794392523364,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontana",
     "date": "05/26/2020",
     "deathsPer100k": 0.09345794392523364,
     "lat": "ReplaceMeMontana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 5.3500000000000005,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontana",
     "active": 23
+  }, {
+    "epidemiccontrolThreshold": 5.3500000000000005,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.02803738317757,
+    "deaths": 0,
+    "confirmed": 11,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.02803738317757,
+    "locale": "Montana",
+    "activePer100k": 1.02803738317757,
+    "long": "ReplaceMeMontana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMontana",
+    "active": 11
   }]
 }

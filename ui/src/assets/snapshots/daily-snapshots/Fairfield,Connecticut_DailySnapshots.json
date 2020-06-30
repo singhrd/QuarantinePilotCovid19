@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.346295895824587,
     "locale": "Fairfield,Connecticut",
-    "activePer100k": -5.512375282509233,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,Connecticut",
     "date": "05/27/2020",
     "deathsPer100k": 1.1660793866846455,
     "lat": "ReplaceMeFairfield,Connecticut",
-    "active": -52
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.71666,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,Connecticut",
     "active": 42
+  }, {
+    "epidemiccontrolThreshold": 4.71666,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.8621948582259478,
+    "deaths": 0,
+    "confirmed": 27,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.8621948582259478,
+    "locale": "Fairfield,Connecticut",
+    "activePer100k": 2.8621948582259478,
+    "long": "ReplaceMeFairfield,Connecticut",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFairfield,Connecticut",
+    "active": 27
   }]
 }

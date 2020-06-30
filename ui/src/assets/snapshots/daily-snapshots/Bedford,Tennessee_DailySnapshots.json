@@ -2313,12 +2313,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.0115462756220706,
     "locale": "Bedford,Tennessee",
-    "activePer100k": -2.0115462756220706,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBedford,Tennessee",
     "date": "06/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBedford,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.248565,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 2.0115462756220706,
     "lat": "ReplaceMeBedford,Tennessee",
     "active": 18
+  }, {
+    "epidemiccontrolThreshold": 0.248565,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Bedford,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBedford,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBedford,Tennessee",
+    "active": 0
   }]
 }

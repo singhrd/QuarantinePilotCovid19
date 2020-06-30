@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "St. Louis,Missouri",
-    "activePer100k": -1.206994533320593,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Louis,Missouri",
     "date": "05/14/2020",
     "deathsPer100k": 1.206994533320593,
     "lat": "ReplaceMeSt. Louis,Missouri",
-    "active": -12
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.971025,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "St. Louis,Missouri",
-    "activePer100k": -0.40233151110686427,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Louis,Missouri",
     "date": "05/22/2020",
     "deathsPer100k": 0.40233151110686427,
     "lat": "ReplaceMeSt. Louis,Missouri",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.971025,
     "source": "NYGithub",
@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "St. Louis,Missouri",
-    "activePer100k": -0.40233151110686427,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Louis,Missouri",
     "date": "05/23/2020",
     "deathsPer100k": 0.40233151110686427,
     "lat": "ReplaceMeSt. Louis,Missouri",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.971025,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.10058287777671607,
     "lat": "ReplaceMeSt. Louis,Missouri",
     "active": 91
+  }, {
+    "epidemiccontrolThreshold": 4.971025,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.437304177709828,
+    "deaths": 0,
+    "confirmed": 64,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.437304177709828,
+    "locale": "St. Louis,Missouri",
+    "activePer100k": 6.437304177709828,
+    "long": "ReplaceMeSt. Louis,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSt. Louis,Missouri",
+    "active": 64
   }]
 }

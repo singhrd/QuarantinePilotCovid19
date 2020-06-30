@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.2472920131241856,
     "locale": "Stephenson,Illinois",
-    "activePer100k": -2.2472920131241856,
+    "activePer100k": 0.0,
     "long": "ReplaceMeStephenson,Illinois",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStephenson,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.22249,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.2472920131241856,
     "locale": "Stephenson,Illinois",
-    "activePer100k": -2.2472920131241856,
+    "activePer100k": 0.0,
     "long": "ReplaceMeStephenson,Illinois",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStephenson,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.22249,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.2472920131241856,
     "locale": "Stephenson,Illinois",
-    "activePer100k": -8.989168052496742,
+    "activePer100k": 0.0,
     "long": "ReplaceMeStephenson,Illinois",
     "date": "06/03/2020",
     "deathsPer100k": 6.741876039372556,
     "lat": "ReplaceMeStephenson,Illinois",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.22249,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.2472920131241856,
     "locale": "Stephenson,Illinois",
-    "activePer100k": -2.2472920131241856,
+    "activePer100k": 0.0,
     "long": "ReplaceMeStephenson,Illinois",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStephenson,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.22249,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.2472920131241856,
     "locale": "Stephenson,Illinois",
-    "activePer100k": -2.2472920131241856,
+    "activePer100k": 0.0,
     "long": "ReplaceMeStephenson,Illinois",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStephenson,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.22249,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStephenson,Illinois",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.22249,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Stephenson,Illinois",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeStephenson,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeStephenson,Illinois",
+    "active": 0
   }]
 }

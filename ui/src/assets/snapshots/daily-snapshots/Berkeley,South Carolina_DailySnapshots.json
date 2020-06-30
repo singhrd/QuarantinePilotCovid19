@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.5102037234486,
     "locale": "Berkeley,South Carolina",
-    "activePer100k": -3.5102037234486,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBerkeley,South Carolina",
     "date": "04/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBerkeley,South Carolina",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.139535,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.87755093086215,
     "locale": "Berkeley,South Carolina",
-    "activePer100k": -0.87755093086215,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBerkeley,South Carolina",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBerkeley,South Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.139535,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Berkeley,South Carolina",
-    "activePer100k": -0.438775465431075,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBerkeley,South Carolina",
     "date": "04/29/2020",
     "deathsPer100k": 0.438775465431075,
     "lat": "ReplaceMeBerkeley,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.139535,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.87755093086215,
     "locale": "Berkeley,South Carolina",
-    "activePer100k": -2.193877327155375,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBerkeley,South Carolina",
     "date": "05/05/2020",
     "deathsPer100k": 1.316326396293225,
     "lat": "ReplaceMeBerkeley,South Carolina",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.139535,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.87755093086215,
     "locale": "Berkeley,South Carolina",
-    "activePer100k": -0.87755093086215,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBerkeley,South Carolina",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBerkeley,South Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.139535,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBerkeley,South Carolina",
     "active": 38
+  }, {
+    "epidemiccontrolThreshold": 1.139535,
+    "source": "NYGithub",
+    "confirmedPer100kN": 25.010201529571273,
+    "deaths": 0,
+    "confirmed": 57,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 25.010201529571273,
+    "locale": "Berkeley,South Carolina",
+    "activePer100k": 25.010201529571273,
+    "long": "ReplaceMeBerkeley,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBerkeley,South Carolina",
+    "active": 57
   }]
 }

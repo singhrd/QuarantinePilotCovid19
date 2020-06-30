@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Taylor,Texas",
-    "activePer100k": -0.724459191213759,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTaylor,Texas",
     "date": "04/15/2020",
     "deathsPer100k": 0.724459191213759,
     "lat": "ReplaceMeTaylor,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.69017,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Taylor,Texas",
-    "activePer100k": 0.724459191213759,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTaylor,Texas",
     "date": "04/22/2020",
     "deathsPer100k": -0.724459191213759,
     "lat": "ReplaceMeTaylor,Texas",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.69017,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -56.5078169146732,
     "locale": "Taylor,Texas",
-    "activePer100k": -55.78335772345944,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTaylor,Texas",
     "date": "05/22/2020",
     "deathsPer100k": -0.724459191213759,
     "lat": "ReplaceMeTaylor,Texas",
-    "active": -77
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.69017,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTaylor,Texas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.69017,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.071214338496313,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.071214338496313,
+    "locale": "Taylor,Texas",
+    "activePer100k": 5.071214338496313,
+    "long": "ReplaceMeTaylor,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTaylor,Texas",
+    "active": 7
   }]
 }

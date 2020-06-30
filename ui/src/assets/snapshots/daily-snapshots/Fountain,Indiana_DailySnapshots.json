@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.235409274440231,
     "locale": "Fountain,Indiana",
-    "activePer100k": -12.235409274440231,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFountain,Indiana",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFountain,Indiana",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08173,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.117704637220116,
     "locale": "Fountain,Indiana",
-    "activePer100k": -6.117704637220116,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFountain,Indiana",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFountain,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08173,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 6.117704637220116,
     "long": "ReplaceMeFountain,Indiana",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFountain,Indiana",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.08173,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.117704637220116,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.117704637220116,
+    "locale": "Fountain,Indiana",
+    "activePer100k": 6.117704637220116,
+    "long": "ReplaceMeFountain,Indiana",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFountain,Indiana",
     "active": 1

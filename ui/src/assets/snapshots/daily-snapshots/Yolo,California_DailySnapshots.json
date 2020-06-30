@@ -969,12 +969,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yolo,California",
-    "activePer100k": -0.4535147392290249,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYolo,California",
     "date": "03/22/2020",
     "deathsPer100k": 0.4535147392290249,
     "lat": "ReplaceMeYolo,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.1025,
     "source": "NYGithub",
@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yolo,California",
-    "activePer100k": -0.4535147392290249,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYolo,California",
     "date": "04/19/2020",
     "deathsPer100k": 0.4535147392290249,
     "lat": "ReplaceMeYolo,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.1025,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yolo,California",
-    "activePer100k": -0.9070294784580498,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYolo,California",
     "date": "04/27/2020",
     "deathsPer100k": 0.9070294784580498,
     "lat": "ReplaceMeYolo,California",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.1025,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yolo,California",
-    "activePer100k": -0.4535147392290249,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYolo,California",
     "date": "05/04/2020",
     "deathsPer100k": 0.4535147392290249,
     "lat": "ReplaceMeYolo,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.1025,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yolo,California",
-    "activePer100k": -0.4535147392290249,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYolo,California",
     "date": "05/06/2020",
     "deathsPer100k": 0.4535147392290249,
     "lat": "ReplaceMeYolo,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.1025,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4535147392290249,
     "locale": "Yolo,California",
-    "activePer100k": -0.4535147392290249,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYolo,California",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYolo,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.1025,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYolo,California",
     "active": 20
+  }, {
+    "epidemiccontrolThreshold": 1.1025,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.523809523809524,
+    "deaths": 0,
+    "confirmed": 21,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.523809523809524,
+    "locale": "Yolo,California",
+    "activePer100k": 9.523809523809524,
+    "long": "ReplaceMeYolo,California",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeYolo,California",
+    "active": 21
   }]
 }

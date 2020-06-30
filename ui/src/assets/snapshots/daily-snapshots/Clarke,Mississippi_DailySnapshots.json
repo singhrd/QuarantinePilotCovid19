@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.434592368573451,
     "locale": "Clarke,Mississippi",
-    "activePer100k": -6.434592368573451,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClarke,Mississippi",
     "date": "04/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClarke,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.077705,
     "source": "NYGithub",
@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Clarke,Mississippi",
-    "activePer100k": -6.434592368573451,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClarke,Mississippi",
     "date": "04/08/2020",
     "deathsPer100k": 6.434592368573451,
     "lat": "ReplaceMeClarke,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.077705,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.434592368573451,
     "locale": "Clarke,Mississippi",
-    "activePer100k": -6.434592368573451,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClarke,Mississippi",
     "date": "05/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClarke,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.077705,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClarke,Mississippi",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.077705,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.869184737146902,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.869184737146902,
+    "locale": "Clarke,Mississippi",
+    "activePer100k": 12.869184737146902,
+    "long": "ReplaceMeClarke,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeClarke,Mississippi",
+    "active": 2
   }]
 }

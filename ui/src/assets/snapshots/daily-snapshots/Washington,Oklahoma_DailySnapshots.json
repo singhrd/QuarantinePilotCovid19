@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Washington,Oklahoma",
-    "activePer100k": -3.881460205329245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Oklahoma",
     "date": "04/15/2020",
     "deathsPer100k": 3.881460205329245,
     "lat": "ReplaceMeWashington,Oklahoma",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.257635,
     "source": "NYGithub",
@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Washington,Oklahoma",
-    "activePer100k": -1.9407301026646224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Oklahoma",
     "date": "05/10/2020",
     "deathsPer100k": 1.9407301026646224,
     "lat": "ReplaceMeWashington,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.257635,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Washington,Oklahoma",
-    "activePer100k": -1.9407301026646224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Oklahoma",
     "date": "05/15/2020",
     "deathsPer100k": 1.9407301026646224,
     "lat": "ReplaceMeWashington,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.257635,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Washington,Oklahoma",
-    "activePer100k": -1.9407301026646224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Oklahoma",
     "date": "06/27/2020",
     "deathsPer100k": 1.9407301026646224,
     "lat": "ReplaceMeWashington,Oklahoma",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.257635,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.76292041065849,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.76292041065849,
+    "locale": "Washington,Oklahoma",
+    "activePer100k": 7.76292041065849,
+    "long": "ReplaceMeWashington,Oklahoma",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWashington,Oklahoma",
+    "active": 4
   }]
 }

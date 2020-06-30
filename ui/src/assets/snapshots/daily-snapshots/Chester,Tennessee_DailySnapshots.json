@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.781349366942244,
     "locale": "Chester,Tennessee",
-    "activePer100k": -5.781349366942244,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChester,Tennessee",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.086485,
     "source": "NYGithub",
@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.781349366942244,
     "locale": "Chester,Tennessee",
-    "activePer100k": -5.781349366942244,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChester,Tennessee",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.086485,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.781349366942244,
     "locale": "Chester,Tennessee",
-    "activePer100k": -5.781349366942244,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChester,Tennessee",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.086485,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,Tennessee",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.086485,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Chester,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeChester,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeChester,Tennessee",
+    "active": 0
   }]
 }

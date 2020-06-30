@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4201680672268908,
     "locale": "Connecticut",
-    "activePer100k": -1.3725490196078434,
+    "activePer100k": 0.0,
     "long": "ReplaceMeConnecticut",
     "date": "05/27/2020",
     "deathsPer100k": 0.9523809523809526,
     "lat": "ReplaceMeConnecticut",
-    "active": -49
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 17.849999999999998,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.11204481792717089,
     "lat": "ReplaceMeConnecticut",
     "active": 143
+  }, {
+    "epidemiccontrolThreshold": 17.849999999999998,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.7170868347338937,
+    "deaths": 5,
+    "confirmed": 97,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.7170868347338937,
+    "locale": "Connecticut",
+    "activePer100k": 2.57703081232493,
+    "long": "ReplaceMeConnecticut",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.14005602240896362,
+    "lat": "ReplaceMeConnecticut",
+    "active": 92
   }]
 }

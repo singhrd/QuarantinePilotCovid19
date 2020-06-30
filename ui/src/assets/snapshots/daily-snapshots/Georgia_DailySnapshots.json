@@ -809,12 +809,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Georgia",
-    "activePer100k": -0.009416195856873824,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGeorgia",
     "date": "03/12/2020",
     "deathsPer100k": 0.009416195856873824,
     "lat": "ReplaceMeGeorgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 53.099999999999994,
     "source": "NYGithub",
@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4877589453860642,
     "locale": "Georgia",
-    "activePer100k": -1.544256120527307,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGeorgia",
     "date": "04/12/2020",
     "deathsPer100k": 0.056497175141242945,
     "lat": "ReplaceMeGeorgia",
-    "active": -164
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 53.099999999999994,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.056497175141242945,
     "lat": "ReplaceMeGeorgia",
     "active": 1518
+  }, {
+    "epidemiccontrolThreshold": 53.099999999999994,
+    "source": "NYGithub",
+    "confirmedPer100kN": 16.32768361581921,
+    "deaths": 2,
+    "confirmed": 1734,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 16.32768361581921,
+    "locale": "Georgia",
+    "activePer100k": 16.308851224105464,
+    "long": "ReplaceMeGeorgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.018832391713747648,
+    "lat": "ReplaceMeGeorgia",
+    "active": 1732
   }]
 }

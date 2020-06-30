@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.5652391685449536,
     "locale": "Montcalm,Michigan",
-    "activePer100k": -1.5652391685449536,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontcalm,Michigan",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontcalm,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.31944,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.5652391685449536,
     "locale": "Montcalm,Michigan",
-    "activePer100k": -1.5652391685449536,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontcalm,Michigan",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontcalm,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.31944,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.5652391685449536,
     "locale": "Montcalm,Michigan",
-    "activePer100k": -1.5652391685449536,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontcalm,Michigan",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontcalm,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.31944,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontcalm,Michigan",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.31944,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Montcalm,Michigan",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMontcalm,Michigan",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMontcalm,Michigan",
+    "active": 0
   }]
 }

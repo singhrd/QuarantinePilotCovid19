@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Grant,Wisconsin",
-    "activePer100k": -3.8881004685161065,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrant,Wisconsin",
     "date": "05/11/2020",
     "deathsPer100k": 3.8881004685161065,
     "lat": "ReplaceMeGrant,Wisconsin",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.257195,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Grant,Wisconsin",
-    "activePer100k": -1.9440502342580532,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrant,Wisconsin",
     "date": "05/26/2020",
     "deathsPer100k": 1.9440502342580532,
     "lat": "ReplaceMeGrant,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.257195,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.9440502342580532,
     "lat": "ReplaceMeGrant,Wisconsin",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.257195,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.720251171290267,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.720251171290267,
+    "locale": "Grant,Wisconsin",
+    "activePer100k": 9.720251171290267,
+    "long": "ReplaceMeGrant,Wisconsin",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGrant,Wisconsin",
+    "active": 5
   }]
 }

@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3631220948460354,
     "locale": "Raleigh,West Virginia",
-    "activePer100k": -1.3631220948460354,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRaleigh,West Virginia",
     "date": "03/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRaleigh,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366805,
     "source": "NYGithub",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3631220948460354,
     "locale": "Raleigh,West Virginia",
-    "activePer100k": -1.3631220948460354,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRaleigh,West Virginia",
     "date": "04/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRaleigh,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366805,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3631220948460354,
     "locale": "Raleigh,West Virginia",
-    "activePer100k": -1.3631220948460354,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRaleigh,West Virginia",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRaleigh,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366805,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3631220948460354,
     "locale": "Raleigh,West Virginia",
-    "activePer100k": -1.3631220948460354,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRaleigh,West Virginia",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRaleigh,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366805,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3631220948460354,
     "locale": "Raleigh,West Virginia",
-    "activePer100k": -1.3631220948460354,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRaleigh,West Virginia",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRaleigh,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366805,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRaleigh,West Virginia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.366805,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.452488379384142,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.452488379384142,
+    "locale": "Raleigh,West Virginia",
+    "activePer100k": 5.452488379384142,
+    "long": "ReplaceMeRaleigh,West Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRaleigh,West Virginia",
+    "active": 4
   }]
 }

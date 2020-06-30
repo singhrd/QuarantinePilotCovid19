@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "King William,Virginia",
-    "activePer100k": -5.831583858175881,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKing William,Virginia",
     "date": "04/29/2020",
     "deathsPer100k": 5.831583858175881,
     "lat": "ReplaceMeKing William,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08574,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "King William,Virginia",
-    "activePer100k": 5.831583858175881,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKing William,Virginia",
     "date": "05/12/2020",
     "deathsPer100k": -5.831583858175881,
     "lat": "ReplaceMeKing William,Virginia",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08574,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.831583858175881,
     "locale": "King William,Virginia",
-    "activePer100k": -5.831583858175881,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKing William,Virginia",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKing William,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08574,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKing William,Virginia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.08574,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.663167716351762,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.663167716351762,
+    "locale": "King William,Virginia",
+    "activePer100k": 11.663167716351762,
+    "long": "ReplaceMeKing William,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeKing William,Virginia",
+    "active": 2
   }]
 }

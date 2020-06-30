@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.5980241319399748,
     "locale": "King,Washington",
-    "activePer100k": -1.7755823688221941,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKing,Washington",
     "date": "05/04/2020",
     "deathsPer100k": 0.17755823688221942,
     "lat": "ReplaceMeKing,Washington",
-    "active": -40
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 11.26391,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.13316867766166457,
     "lat": "ReplaceMeKing,Washington",
     "active": 121
+  }, {
+    "epidemiccontrolThreshold": 11.26391,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.639943856085498,
+    "deaths": 0,
+    "confirmed": 82,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.639943856085498,
+    "locale": "King,Washington",
+    "activePer100k": 3.639943856085498,
+    "long": "ReplaceMeKing,Washington",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeKing,Washington",
+    "active": 82
   }]
 }

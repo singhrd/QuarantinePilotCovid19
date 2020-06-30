@@ -1177,12 +1177,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Tarrant,Texas",
-    "activePer100k": -0.0951241727169604,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTarrant,Texas",
     "date": "04/04/2020",
     "deathsPer100k": 0.0951241727169604,
     "lat": "ReplaceMeTarrant,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 10.512575,
     "source": "NYGithub",
@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Tarrant,Texas",
-    "activePer100k": -0.237810431792401,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTarrant,Texas",
     "date": "04/07/2020",
     "deathsPer100k": 0.237810431792401,
     "lat": "ReplaceMeTarrant,Texas",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 10.512575,
     "source": "NYGithub",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Tarrant,Texas",
-    "activePer100k": -0.1902483454339208,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTarrant,Texas",
     "date": "04/16/2020",
     "deathsPer100k": 0.1902483454339208,
     "lat": "ReplaceMeTarrant,Texas",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 10.512575,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0951241727169604,
     "lat": "ReplaceMeTarrant,Texas",
     "active": 375
+  }, {
+    "epidemiccontrolThreshold": 10.512575,
+    "source": "NYGithub",
+    "confirmedPer100kN": 18.69189993888272,
+    "deaths": 1,
+    "confirmed": 393,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 18.69189993888272,
+    "locale": "Tarrant,Texas",
+    "activePer100k": 18.644337852524238,
+    "long": "ReplaceMeTarrant,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0475620863584802,
+    "lat": "ReplaceMeTarrant,Texas",
+    "active": 392
   }]
 }

@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Greensville,Virginia",
-    "activePer100k": -8.821453775582215,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreensville,Virginia",
     "date": "04/26/2020",
     "deathsPer100k": 8.821453775582215,
     "lat": "ReplaceMeGreensville,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05668,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.64290755116443,
     "locale": "Greensville,Virginia",
-    "activePer100k": -17.64290755116443,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreensville,Virginia",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreensville,Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05668,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.821453775582215,
     "locale": "Greensville,Virginia",
-    "activePer100k": -8.821453775582215,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreensville,Virginia",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreensville,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05668,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreensville,Virginia",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.05668,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Greensville,Virginia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeGreensville,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGreensville,Virginia",
+    "active": 0
   }]
 }

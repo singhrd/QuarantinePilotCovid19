@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Indian River,Florida",
-    "activePer100k": -0.6253009260706716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeIndian River,Florida",
     "date": "04/22/2020",
     "deathsPer100k": 0.6253009260706716,
     "lat": "ReplaceMeIndian River,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.799615,
     "source": "NYGithub",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Indian River,Florida",
-    "activePer100k": -0.6253009260706716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeIndian River,Florida",
     "date": "04/28/2020",
     "deathsPer100k": 0.6253009260706716,
     "lat": "ReplaceMeIndian River,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.799615,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Indian River,Florida",
-    "activePer100k": -0.6253009260706716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeIndian River,Florida",
     "date": "04/29/2020",
     "deathsPer100k": 0.6253009260706716,
     "lat": "ReplaceMeIndian River,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.799615,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIndian River,Florida",
     "active": 79
+  }, {
+    "epidemiccontrolThreshold": 0.799615,
+    "source": "NYGithub",
+    "confirmedPer100kN": 21.885532412473506,
+    "deaths": 0,
+    "confirmed": 35,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 21.885532412473506,
+    "locale": "Indian River,Florida",
+    "activePer100k": 21.885532412473506,
+    "long": "ReplaceMeIndian River,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeIndian River,Florida",
+    "active": 35
   }]
 }

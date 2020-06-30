@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8281642083992414,
     "locale": "Comanche,Oklahoma",
-    "activePer100k": -0.8281642083992414,
+    "activePer100k": 0.0,
     "long": "ReplaceMeComanche,Oklahoma",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeComanche,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.603745,
     "source": "NYGithub",
@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6563284167984829,
     "locale": "Comanche,Oklahoma",
-    "activePer100k": -1.6563284167984829,
+    "activePer100k": 0.0,
     "long": "ReplaceMeComanche,Oklahoma",
     "date": "05/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeComanche,Oklahoma",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.603745,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6563284167984829,
     "locale": "Comanche,Oklahoma",
-    "activePer100k": -1.6563284167984829,
+    "activePer100k": 0.0,
     "long": "ReplaceMeComanche,Oklahoma",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeComanche,Oklahoma",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.603745,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeComanche,Oklahoma",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.603745,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.8281642083992414,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.8281642083992414,
+    "locale": "Comanche,Oklahoma",
+    "activePer100k": 0.8281642083992414,
+    "long": "ReplaceMeComanche,Oklahoma",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeComanche,Oklahoma",
+    "active": 1
   }]
 }

@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.9442939583087977,
     "locale": "Whitley,Indiana",
-    "activePer100k": -2.9442939583087977,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWhitley,Indiana",
     "date": "04/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWhitley,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16982,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.9442939583087977,
     "locale": "Whitley,Indiana",
-    "activePer100k": -2.9442939583087977,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWhitley,Indiana",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWhitley,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16982,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.832881874926393,
     "locale": "Whitley,Indiana",
-    "activePer100k": -11.77717583323519,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWhitley,Indiana",
     "date": "05/28/2020",
     "deathsPer100k": 2.9442939583087977,
     "lat": "ReplaceMeWhitley,Indiana",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16982,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.888587916617595,
     "locale": "Whitley,Indiana",
-    "activePer100k": -5.888587916617595,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWhitley,Indiana",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWhitley,Indiana",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16982,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.9442939583087977,
     "locale": "Whitley,Indiana",
-    "activePer100k": -2.9442939583087977,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWhitley,Indiana",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWhitley,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16982,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWhitley,Indiana",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.16982,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.9442939583087977,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.9442939583087977,
+    "locale": "Whitley,Indiana",
+    "activePer100k": 2.9442939583087977,
+    "long": "ReplaceMeWhitley,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWhitley,Indiana",
+    "active": 1
   }]
 }

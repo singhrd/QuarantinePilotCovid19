@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Franklin,Washington",
-    "activePer100k": -1.050177479994119,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Washington",
     "date": "05/23/2020",
     "deathsPer100k": 1.050177479994119,
     "lat": "ReplaceMeFranklin,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.47611,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Franklin,Washington",
-    "activePer100k": -1.050177479994119,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Washington",
     "date": "06/23/2020",
     "deathsPer100k": 1.050177479994119,
     "lat": "ReplaceMeFranklin,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.47611,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Washington",
     "active": 65
+  }, {
+    "epidemiccontrolThreshold": 0.47611,
+    "source": "NYGithub",
+    "confirmedPer100kN": 24.15408203986474,
+    "deaths": 0,
+    "confirmed": 23,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 24.15408203986474,
+    "locale": "Franklin,Washington",
+    "activePer100k": 24.15408203986474,
+    "long": "ReplaceMeFranklin,Washington",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFranklin,Washington",
+    "active": 23
   }]
 }

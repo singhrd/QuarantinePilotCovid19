@@ -1081,12 +1081,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Van Zandt,Texas",
-    "activePer100k": -1.7670966601873124,
+    "activePer100k": 0.0,
     "long": "ReplaceMeVan Zandt,Texas",
     "date": "03/29/2020",
     "deathsPer100k": 1.7670966601873124,
     "lat": "ReplaceMeVan Zandt,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28295,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7670966601873124,
     "locale": "Van Zandt,Texas",
-    "activePer100k": -1.7670966601873124,
+    "activePer100k": 0.0,
     "long": "ReplaceMeVan Zandt,Texas",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeVan Zandt,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28295,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeVan Zandt,Texas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.28295,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.369676621311188,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.369676621311188,
+    "locale": "Van Zandt,Texas",
+    "activePer100k": 12.369676621311188,
+    "long": "ReplaceMeVan Zandt,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeVan Zandt,Texas",
+    "active": 7
   }]
 }

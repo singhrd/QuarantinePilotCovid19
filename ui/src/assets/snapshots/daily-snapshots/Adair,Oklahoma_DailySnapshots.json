@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Adair,Oklahoma",
-    "activePer100k": -4.505722267279445,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Oklahoma",
     "date": "04/08/2020",
     "deathsPer100k": 4.505722267279445,
     "lat": "ReplaceMeAdair,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11097,
     "source": "NYGithub",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.01144453455889,
     "locale": "Adair,Oklahoma",
-    "activePer100k": -9.01144453455889,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Oklahoma",
     "date": "05/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdair,Oklahoma",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11097,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Adair,Oklahoma",
-    "activePer100k": -4.505722267279445,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Oklahoma",
     "date": "06/03/2020",
     "deathsPer100k": 4.505722267279445,
     "lat": "ReplaceMeAdair,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11097,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdair,Oklahoma",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.11097,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.505722267279445,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.505722267279445,
+    "locale": "Adair,Oklahoma",
+    "activePer100k": 4.505722267279445,
+    "long": "ReplaceMeAdair,Oklahoma",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAdair,Oklahoma",
+    "active": 1
   }]
 }

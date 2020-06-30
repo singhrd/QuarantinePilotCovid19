@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.209994527007115,
     "locale": "Goochland,Virginia",
-    "activePer100k": -4.209994527007115,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGoochland,Virginia",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGoochland,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.118765,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Goochland,Virginia",
-    "activePer100k": -4.209994527007115,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGoochland,Virginia",
     "date": "04/29/2020",
     "deathsPer100k": 4.209994527007115,
     "lat": "ReplaceMeGoochland,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.118765,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.209994527007115,
     "locale": "Goochland,Virginia",
-    "activePer100k": -4.209994527007115,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGoochland,Virginia",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGoochland,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.118765,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.41998905401423,
     "locale": "Goochland,Virginia",
-    "activePer100k": -8.41998905401423,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGoochland,Virginia",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGoochland,Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.118765,
     "source": "NYGithub",
@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.209994527007115,
     "locale": "Goochland,Virginia",
-    "activePer100k": -4.209994527007115,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGoochland,Virginia",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGoochland,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.118765,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGoochland,Virginia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.118765,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.209994527007115,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.209994527007115,
+    "locale": "Goochland,Virginia",
+    "activePer100k": 4.209994527007115,
+    "long": "ReplaceMeGoochland,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGoochland,Virginia",
+    "active": 1
   }]
 }

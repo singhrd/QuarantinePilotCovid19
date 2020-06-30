@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5052087017146784,
     "locale": "Onslow,North Carolina",
-    "activePer100k": -0.5052087017146784,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOnslow,North Carolina",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOnslow,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.98969,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Onslow,North Carolina",
-    "activePer100k": -0.5052087017146784,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOnslow,North Carolina",
     "date": "05/04/2020",
     "deathsPer100k": 0.5052087017146784,
     "lat": "ReplaceMeOnslow,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.98969,
     "source": "NYGithub",
@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5052087017146784,
     "locale": "Onslow,North Carolina",
-    "activePer100k": -0.5052087017146784,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOnslow,North Carolina",
     "date": "05/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOnslow,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.98969,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5052087017146784,
     "locale": "Onslow,North Carolina",
-    "activePer100k": -0.5052087017146784,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOnslow,North Carolina",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOnslow,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.98969,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOnslow,North Carolina",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.98969,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.546878315432105,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.546878315432105,
+    "locale": "Onslow,North Carolina",
+    "activePer100k": 4.546878315432105,
+    "long": "ReplaceMeOnslow,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeOnslow,North Carolina",
+    "active": 9
   }]
 }

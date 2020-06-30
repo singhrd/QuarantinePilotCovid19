@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.284490569848836,
     "locale": "Jackson,Missouri",
-    "activePer100k": -0.7112264246220898,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJackson,Missouri",
     "date": "06/25/2020",
     "deathsPer100k": 0.42673585477325393,
     "lat": "ReplaceMeJackson,Missouri",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.515055,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": -0.142245284924418,
     "lat": "ReplaceMeJackson,Missouri",
     "active": 30
+  }, {
+    "epidemiccontrolThreshold": 3.515055,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.4181698437151056,
+    "deaths": 1,
+    "confirmed": 17,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.4181698437151056,
+    "locale": "Jackson,Missouri",
+    "activePer100k": 2.275924558790688,
+    "long": "ReplaceMeJackson,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.142245284924418,
+    "lat": "ReplaceMeJackson,Missouri",
+    "active": 16
   }]
 }

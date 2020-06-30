@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8809796493700995,
     "locale": "St. Mary's,Maryland",
-    "activePer100k": -0.8809796493700995,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Mary's,Maryland",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Mary's,Maryland",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.56755,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "St. Mary's,Maryland",
-    "activePer100k": -0.8809796493700995,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Mary's,Maryland",
     "date": "04/21/2020",
     "deathsPer100k": 0.8809796493700995,
     "lat": "ReplaceMeSt. Mary's,Maryland",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.56755,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "St. Mary's,Maryland",
-    "activePer100k": -0.8809796493700995,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Mary's,Maryland",
     "date": "05/27/2020",
     "deathsPer100k": 0.8809796493700995,
     "lat": "ReplaceMeSt. Mary's,Maryland",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.56755,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.761959298740199,
     "locale": "St. Mary's,Maryland",
-    "activePer100k": -1.761959298740199,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Mary's,Maryland",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Mary's,Maryland",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.56755,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.6429389481102987,
     "locale": "St. Mary's,Maryland",
-    "activePer100k": -3.523918597480398,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Mary's,Maryland",
     "date": "06/22/2020",
     "deathsPer100k": 0.8809796493700995,
     "lat": "ReplaceMeSt. Mary's,Maryland",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.56755,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.8809796493700995,
     "lat": "ReplaceMeSt. Mary's,Maryland",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.56755,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.8809796493700995,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.8809796493700995,
+    "locale": "St. Mary's,Maryland",
+    "activePer100k": 0.8809796493700995,
+    "long": "ReplaceMeSt. Mary's,Maryland",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSt. Mary's,Maryland",
+    "active": 1
   }]
 }

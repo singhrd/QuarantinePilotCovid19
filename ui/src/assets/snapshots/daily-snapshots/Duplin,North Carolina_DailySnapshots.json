@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7023884509967484,
     "locale": "Duplin,North Carolina",
-    "activePer100k": -1.7023884509967484,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDuplin,North Carolina",
     "date": "04/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDuplin,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.293705,
     "source": "NYGithub",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7023884509967484,
     "locale": "Duplin,North Carolina",
-    "activePer100k": -1.7023884509967484,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDuplin,North Carolina",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDuplin,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.293705,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 10.21433070598049,
     "lat": "ReplaceMeDuplin,North Carolina",
     "active": 18
+  }, {
+    "epidemiccontrolThreshold": 0.293705,
+    "source": "NYGithub",
+    "confirmedPer100kN": 27.238215215947974,
+    "deaths": 0,
+    "confirmed": 16,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 27.238215215947974,
+    "locale": "Duplin,North Carolina",
+    "activePer100k": 27.238215215947974,
+    "long": "ReplaceMeDuplin,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDuplin,North Carolina",
+    "active": 16
   }]
 }

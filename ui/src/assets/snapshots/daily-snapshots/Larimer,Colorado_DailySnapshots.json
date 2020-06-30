@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5603826292592582,
     "locale": "Larimer,Colorado",
-    "activePer100k": -0.5603826292592582,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLarimer,Colorado",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLarimer,Colorado",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.784495,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.2801913146296291,
     "locale": "Larimer,Colorado",
-    "activePer100k": -0.2801913146296291,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLarimer,Colorado",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLarimer,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.784495,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLarimer,Colorado",
     "active": 12
+  }, {
+    "epidemiccontrolThreshold": 1.784495,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.4009565731481457,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.4009565731481457,
+    "locale": "Larimer,Colorado",
+    "activePer100k": 1.4009565731481457,
+    "long": "ReplaceMeLarimer,Colorado",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLarimer,Colorado",
+    "active": 5
   }]
 }

@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.6437541308658297,
     "locale": "Independence,Arkansas",
-    "activePer100k": -2.6437541308658297,
+    "activePer100k": 0.0,
     "long": "ReplaceMeIndependence,Arkansas",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIndependence,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.189125,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.6437541308658297,
     "locale": "Independence,Arkansas",
-    "activePer100k": -2.6437541308658297,
+    "activePer100k": 0.0,
     "long": "ReplaceMeIndependence,Arkansas",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIndependence,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.189125,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIndependence,Arkansas",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.189125,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.931262392597489,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.931262392597489,
+    "locale": "Independence,Arkansas",
+    "activePer100k": 7.931262392597489,
+    "long": "ReplaceMeIndependence,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeIndependence,Arkansas",
+    "active": 3
   }]
 }

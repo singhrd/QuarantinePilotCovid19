@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9409816320385425,
     "locale": "Madison,Mississippi",
-    "activePer100k": -0.9409816320385425,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Mississippi",
     "date": "05/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.53136,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.9409816320385425,
     "lat": "ReplaceMeMadison,Mississippi",
     "active": 14
+  }, {
+    "epidemiccontrolThreshold": 0.53136,
+    "source": "NYGithub",
+    "confirmedPer100kN": 16.937669376693766,
+    "deaths": 0,
+    "confirmed": 18,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 16.937669376693766,
+    "locale": "Madison,Mississippi",
+    "activePer100k": 16.937669376693766,
+    "long": "ReplaceMeMadison,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMadison,Mississippi",
+    "active": 18
   }]
 }

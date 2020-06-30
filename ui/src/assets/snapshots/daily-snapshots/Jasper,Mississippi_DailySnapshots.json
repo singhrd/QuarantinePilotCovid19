@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.103888176768601,
     "locale": "Jasper,Mississippi",
-    "activePer100k": -6.103888176768601,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJasper,Mississippi",
     "date": "04/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJasper,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.081915,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJasper,Mississippi",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.081915,
+    "source": "NYGithub",
+    "confirmedPer100kN": 30.519440883843007,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 30.519440883843007,
+    "locale": "Jasper,Mississippi",
+    "activePer100k": 30.519440883843007,
+    "long": "ReplaceMeJasper,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeJasper,Mississippi",
+    "active": 5
   }]
 }

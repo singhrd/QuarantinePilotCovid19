@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9257252777450633,
     "locale": "Washington,Florida",
-    "activePer100k": -3.9257252777450633,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Florida",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.127365,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9257252777450633,
     "locale": "Washington,Florida",
-    "activePer100k": -3.9257252777450633,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Florida",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.127365,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9257252777450633,
     "locale": "Washington,Florida",
-    "activePer100k": -7.851450555490127,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Florida",
     "date": "05/16/2020",
     "deathsPer100k": 3.9257252777450633,
     "lat": "ReplaceMeWashington,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.127365,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Washington,Florida",
-    "activePer100k": -3.9257252777450633,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Florida",
     "date": "05/28/2020",
     "deathsPer100k": 3.9257252777450633,
     "lat": "ReplaceMeWashington,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.127365,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Washington,Florida",
-    "activePer100k": -3.9257252777450633,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Florida",
     "date": "06/12/2020",
     "deathsPer100k": 3.9257252777450633,
     "lat": "ReplaceMeWashington,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.127365,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9257252777450633,
     "locale": "Washington,Florida",
-    "activePer100k": -3.9257252777450633,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Florida",
     "date": "06/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.127365,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9257252777450633,
     "locale": "Washington,Florida",
-    "activePer100k": -7.851450555490127,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Florida",
     "date": "06/26/2020",
     "deathsPer100k": 3.9257252777450633,
     "lat": "ReplaceMeWashington,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.127365,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Florida",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.127365,
+    "source": "NYGithub",
+    "confirmedPer100kN": 15.702901110980253,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 15.702901110980253,
+    "locale": "Washington,Florida",
+    "activePer100k": 15.702901110980253,
+    "long": "ReplaceMeWashington,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWashington,Florida",
+    "active": 4
   }]
 }

@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.137426149499102,
     "locale": "Douglas,Illinois",
-    "activePer100k": -5.137426149499102,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDouglas,Illinois",
     "date": "05/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDouglas,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.097325,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.274852298998203,
     "locale": "Douglas,Illinois",
-    "activePer100k": -10.274852298998203,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDouglas,Illinois",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDouglas,Illinois",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.097325,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDouglas,Illinois",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.097325,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.137426149499102,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.137426149499102,
+    "locale": "Douglas,Illinois",
+    "activePer100k": 5.137426149499102,
+    "long": "ReplaceMeDouglas,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDouglas,Illinois",
+    "active": 1
   }]
 }

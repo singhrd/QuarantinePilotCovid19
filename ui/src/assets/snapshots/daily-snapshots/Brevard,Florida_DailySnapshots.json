@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.3322579251821604,
     "locale": "Brevard,Florida",
-    "activePer100k": -0.3322579251821604,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBrevard,Florida",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBrevard,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.00971,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBrevard,Florida",
     "active": 250
+  }, {
+    "epidemiccontrolThreshold": 3.00971,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.954832857650736,
+    "deaths": 0,
+    "confirmed": 84,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.954832857650736,
+    "locale": "Brevard,Florida",
+    "activePer100k": 13.954832857650736,
+    "long": "ReplaceMeBrevard,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBrevard,Florida",
+    "active": 84
   }]
 }

@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.243756243756244,
     "locale": "Clay,Iowa",
-    "activePer100k": -6.243756243756244,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClay,Iowa",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClay,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08008,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 12.487512487512488,
     "long": "ReplaceMeClay,Iowa",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeClay,Iowa",
+    "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.08008,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.487512487512488,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.487512487512488,
+    "locale": "Clay,Iowa",
+    "activePer100k": 12.487512487512488,
+    "long": "ReplaceMeClay,Iowa",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClay,Iowa",
     "active": 2

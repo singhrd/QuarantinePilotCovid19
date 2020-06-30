@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.32275451614256717,
     "locale": "Lorain,Ohio",
-    "activePer100k": -0.32275451614256717,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLorain,Ohio",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLorain,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.549165,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLorain,Ohio",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 1.549165,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.195808709853373,
+    "deaths": 0,
+    "confirmed": 13,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.195808709853373,
+    "locale": "Lorain,Ohio",
+    "activePer100k": 4.195808709853373,
+    "long": "ReplaceMeLorain,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLorain,Ohio",
+    "active": 13
   }]
 }

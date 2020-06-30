@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.8568583811643435,
     "locale": "Robertson,Texas",
-    "activePer100k": -5.8568583811643435,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRobertson,Texas",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRobertson,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08537,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.8568583811643435,
     "locale": "Robertson,Texas",
-    "activePer100k": -5.8568583811643435,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRobertson,Texas",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRobertson,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08537,
     "source": "NYGithub",
@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.8568583811643435,
     "locale": "Robertson,Texas",
-    "activePer100k": -5.8568583811643435,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRobertson,Texas",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRobertson,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08537,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRobertson,Texas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.08537,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.8568583811643435,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.8568583811643435,
+    "locale": "Robertson,Texas",
+    "activePer100k": 5.8568583811643435,
+    "long": "ReplaceMeRobertson,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRobertson,Texas",
+    "active": 1
   }]
 }

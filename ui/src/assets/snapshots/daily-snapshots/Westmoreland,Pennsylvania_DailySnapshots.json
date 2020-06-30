@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.28661589743736726,
     "locale": "Westmoreland,Pennsylvania",
-    "activePer100k": -0.28661589743736726,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWestmoreland,Pennsylvania",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWestmoreland,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.744495,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWestmoreland,Pennsylvania",
     "active": 20
+  }, {
+    "epidemiccontrolThreshold": 1.744495,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.7260066666857745,
+    "deaths": 0,
+    "confirmed": 13,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.7260066666857745,
+    "locale": "Westmoreland,Pennsylvania",
+    "activePer100k": 3.7260066666857745,
+    "long": "ReplaceMeWestmoreland,Pennsylvania",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWestmoreland,Pennsylvania",
+    "active": 13
   }]
 }

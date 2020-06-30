@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4780640318964322,
     "locale": "Delaware,Ohio",
-    "activePer100k": -0.4780640318964322,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDelaware,Ohio",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDelaware,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.045885,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDelaware,Ohio",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 1.045885,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.7806403189643225,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.7806403189643225,
+    "locale": "Delaware,Ohio",
+    "activePer100k": 4.7806403189643225,
+    "long": "ReplaceMeDelaware,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDelaware,Ohio",
+    "active": 10
   }]
 }

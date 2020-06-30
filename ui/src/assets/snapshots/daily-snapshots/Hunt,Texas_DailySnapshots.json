@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Hunt,Texas",
-    "activePer100k": -1.0142605026675051,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHunt,Texas",
     "date": "04/13/2020",
     "deathsPer100k": 1.0142605026675051,
     "lat": "ReplaceMeHunt,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.49297,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0142605026675051,
     "locale": "Hunt,Texas",
-    "activePer100k": -1.0142605026675051,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHunt,Texas",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHunt,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.49297,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Hunt,Texas",
-    "activePer100k": -1.0142605026675051,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHunt,Texas",
     "date": "05/04/2020",
     "deathsPer100k": 1.0142605026675051,
     "lat": "ReplaceMeHunt,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.49297,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Hunt,Texas",
-    "activePer100k": -1.0142605026675051,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHunt,Texas",
     "date": "05/24/2020",
     "deathsPer100k": 1.0142605026675051,
     "lat": "ReplaceMeHunt,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.49297,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHunt,Texas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.49297,
+    "source": "NYGithub",
+    "confirmedPer100kN": 28.399294074690143,
+    "deaths": 0,
+    "confirmed": 28,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 28.399294074690143,
+    "locale": "Hunt,Texas",
+    "activePer100k": 28.399294074690143,
+    "long": "ReplaceMeHunt,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHunt,Texas",
+    "active": 28
   }]
 }

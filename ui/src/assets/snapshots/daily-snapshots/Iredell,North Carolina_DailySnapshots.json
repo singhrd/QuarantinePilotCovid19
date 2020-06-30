@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5500368524691154,
     "locale": "Iredell,North Carolina",
-    "activePer100k": -0.5500368524691154,
+    "activePer100k": 0.0,
     "long": "ReplaceMeIredell,North Carolina",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIredell,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.90903,
     "source": "NYGithub",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5500368524691154,
     "locale": "Iredell,North Carolina",
-    "activePer100k": -0.5500368524691154,
+    "activePer100k": 0.0,
     "long": "ReplaceMeIredell,North Carolina",
     "date": "04/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIredell,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.90903,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIredell,North Carolina",
     "active": 35
+  }, {
+    "epidemiccontrolThreshold": 0.90903,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.20088445925877,
+    "deaths": 0,
+    "confirmed": 24,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.20088445925877,
+    "locale": "Iredell,North Carolina",
+    "activePer100k": 13.20088445925877,
+    "long": "ReplaceMeIredell,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeIredell,North Carolina",
+    "active": 24
   }]
 }

@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0283728057095258,
     "locale": "Ashtabula,Ohio",
-    "activePer100k": -1.0283728057095258,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAshtabula,Ohio",
     "date": "04/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAshtabula,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.486205,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Ashtabula,Ohio",
-    "activePer100k": -1.0283728057095258,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAshtabula,Ohio",
     "date": "04/27/2020",
     "deathsPer100k": 1.0283728057095258,
     "lat": "ReplaceMeAshtabula,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.486205,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0283728057095258,
     "locale": "Ashtabula,Ohio",
-    "activePer100k": -1.0283728057095258,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAshtabula,Ohio",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAshtabula,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.486205,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.113491222838103,
     "locale": "Ashtabula,Ohio",
-    "activePer100k": -4.113491222838103,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAshtabula,Ohio",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAshtabula,Ohio",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.486205,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0283728057095258,
     "locale": "Ashtabula,Ohio",
-    "activePer100k": -2.0567456114190517,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAshtabula,Ohio",
     "date": "06/26/2020",
     "deathsPer100k": 1.0283728057095258,
     "lat": "ReplaceMeAshtabula,Ohio",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.486205,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAshtabula,Ohio",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.486205,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.0851184171285775,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.0851184171285775,
+    "locale": "Ashtabula,Ohio",
+    "activePer100k": 3.0851184171285775,
+    "long": "ReplaceMeAshtabula,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAshtabula,Ohio",
+    "active": 3
   }]
 }

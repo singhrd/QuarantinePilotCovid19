@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Pierce,Washington",
-    "activePer100k": -0.2209993591018586,
+    "activePer100k": 0.0,
     "long": "ReplaceMePierce,Washington",
     "date": "06/20/2020",
     "deathsPer100k": 0.2209993591018586,
     "lat": "ReplaceMePierce,Washington",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.5249,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePierce,Washington",
     "active": 58
+  }, {
+    "epidemiccontrolThreshold": 4.5249,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.541492629671374,
+    "deaths": 0,
+    "confirmed": 23,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.541492629671374,
+    "locale": "Pierce,Washington",
+    "activePer100k": 2.541492629671374,
+    "long": "ReplaceMePierce,Washington",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePierce,Washington",
+    "active": 23
   }]
 }

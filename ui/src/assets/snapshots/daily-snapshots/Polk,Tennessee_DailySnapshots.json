@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.94106463878327,
     "locale": "Polk,Tennessee",
-    "activePer100k": -5.94106463878327,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,Tennessee",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08416,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.94106463878327,
     "locale": "Polk,Tennessee",
-    "activePer100k": -5.94106463878327,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,Tennessee",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08416,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,Tennessee",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.08416,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Polk,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMePolk,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePolk,Tennessee",
+    "active": 0
   }]
 }

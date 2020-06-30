@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.329781566329249,
     "locale": "Austin,Texas",
-    "activePer100k": -3.329781566329249,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAustin,Texas",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAustin,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.15016,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAustin,Texas",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.15016,
+    "source": "NYGithub",
+    "confirmedPer100kN": 19.978689397975494,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 19.978689397975494,
+    "locale": "Austin,Texas",
+    "activePer100k": 19.978689397975494,
+    "long": "ReplaceMeAustin,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAustin,Texas",
+    "active": 6
   }]
 }

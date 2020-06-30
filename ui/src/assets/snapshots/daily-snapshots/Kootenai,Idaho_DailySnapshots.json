@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.603511228326403,
     "locale": "Kootenai,Idaho",
-    "activePer100k": -0.603511228326403,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKootenai,Idaho",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKootenai,Idaho",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.828485,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKootenai,Idaho",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.828485,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Kootenai,Idaho",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeKootenai,Idaho",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeKootenai,Idaho",
+    "active": 0
   }]
 }

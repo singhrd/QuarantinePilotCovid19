@@ -1129,12 +1129,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lee,South Carolina",
-    "activePer100k": -5.9424768243403845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,South Carolina",
     "date": "04/01/2020",
     "deathsPer100k": 5.9424768243403845,
     "lat": "ReplaceMeLee,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08414,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.9424768243403845,
     "locale": "Lee,South Carolina",
-    "activePer100k": -5.9424768243403845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,South Carolina",
     "date": "04/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08414,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.9424768243403845,
     "locale": "Lee,South Carolina",
-    "activePer100k": -5.9424768243403845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,South Carolina",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08414,
     "source": "NYGithub",
@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.9424768243403845,
     "locale": "Lee,South Carolina",
-    "activePer100k": -5.9424768243403845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,South Carolina",
     "date": "06/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08414,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lee,South Carolina",
-    "activePer100k": -5.9424768243403845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,South Carolina",
     "date": "06/25/2020",
     "deathsPer100k": 5.9424768243403845,
     "lat": "ReplaceMeLee,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08414,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,South Carolina",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.08414,
+    "source": "NYGithub",
+    "confirmedPer100kN": 41.597337770382694,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 41.597337770382694,
+    "locale": "Lee,South Carolina",
+    "activePer100k": 41.597337770382694,
+    "long": "ReplaceMeLee,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLee,South Carolina",
+    "active": 7
   }]
 }

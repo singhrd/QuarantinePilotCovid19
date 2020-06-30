@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8232426979129948,
     "locale": "Lee,Alabama",
-    "activePer100k": -2.430990263883993,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Alabama",
     "date": "05/15/2020",
     "deathsPer100k": 0.6077475659709982,
     "lat": "ReplaceMeLee,Alabama",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.82271,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.2154951319419964,
     "locale": "Lee,Alabama",
-    "activePer100k": -1.2154951319419964,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Alabama",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.82271,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Alabama",
     "active": 18
+  }, {
+    "epidemiccontrolThreshold": 0.82271,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.154951319419965,
+    "deaths": 0,
+    "confirmed": 20,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.154951319419965,
+    "locale": "Lee,Alabama",
+    "activePer100k": 12.154951319419965,
+    "long": "ReplaceMeLee,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLee,Alabama",
+    "active": 20
   }]
 }

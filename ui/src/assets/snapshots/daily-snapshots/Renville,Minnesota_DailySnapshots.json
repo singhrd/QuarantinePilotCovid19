@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.873797085510036,
     "locale": "Renville,Minnesota",
-    "activePer100k": -6.873797085510036,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRenville,Minnesota",
     "date": "05/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRenville,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07274,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Renville,Minnesota",
-    "activePer100k": -6.873797085510036,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRenville,Minnesota",
     "date": "06/20/2020",
     "deathsPer100k": 6.873797085510036,
     "lat": "ReplaceMeRenville,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07274,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRenville,Minnesota",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.07274,
+    "source": "NYGithub",
+    "confirmedPer100kN": 34.36898542755018,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 34.36898542755018,
+    "locale": "Renville,Minnesota",
+    "activePer100k": 34.36898542755018,
+    "long": "ReplaceMeRenville,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRenville,Minnesota",
+    "active": 5
   }]
 }

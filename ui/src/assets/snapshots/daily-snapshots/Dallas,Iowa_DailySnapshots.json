@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0700566059944572,
     "locale": "Dallas,Iowa",
-    "activePer100k": -1.0700566059944572,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDallas,Iowa",
     "date": "04/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDallas,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.467265,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0700566059944572,
     "locale": "Dallas,Iowa",
-    "activePer100k": -3.2101698179833713,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDallas,Iowa",
     "date": "05/26/2020",
     "deathsPer100k": 2.1401132119889144,
     "lat": "ReplaceMeDallas,Iowa",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.467265,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDallas,Iowa",
     "active": 25
+  }, {
+    "epidemiccontrolThreshold": 0.467265,
+    "source": "NYGithub",
+    "confirmedPer100kN": 22.4711887258836,
+    "deaths": 0,
+    "confirmed": 21,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 22.4711887258836,
+    "locale": "Dallas,Iowa",
+    "activePer100k": 22.4711887258836,
+    "long": "ReplaceMeDallas,Iowa",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDallas,Iowa",
+    "active": 21
   }]
 }

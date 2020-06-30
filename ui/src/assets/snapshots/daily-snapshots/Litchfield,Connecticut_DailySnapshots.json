@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.7726483782779634,
     "locale": "Litchfield,Connecticut",
-    "activePer100k": -2.7726483782779634,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLitchfield,Connecticut",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLitchfield,Connecticut",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.901665,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Litchfield,Connecticut",
-    "activePer100k": -0.5545296756555926,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLitchfield,Connecticut",
     "date": "05/27/2020",
     "deathsPer100k": 0.5545296756555926,
     "lat": "ReplaceMeLitchfield,Connecticut",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.901665,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLitchfield,Connecticut",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.901665,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Litchfield,Connecticut",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeLitchfield,Connecticut",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLitchfield,Connecticut",
+    "active": 0
   }]
 }

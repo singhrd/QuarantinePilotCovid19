@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.628412224911353,
     "locale": "Pitkin,Colorado",
-    "activePer100k": -5.628412224911353,
+    "activePer100k": 0.0,
     "long": "ReplaceMePitkin,Colorado",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePitkin,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.088835,
     "source": "NYGithub",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Pitkin,Colorado",
-    "activePer100k": 5.628412224911353,
+    "activePer100k": 0.0,
     "long": "ReplaceMePitkin,Colorado",
     "date": "04/25/2020",
     "deathsPer100k": -5.628412224911353,
     "lat": "ReplaceMePitkin,Colorado",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.088835,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -78.79777114875894,
     "locale": "Pitkin,Colorado",
-    "activePer100k": -78.79777114875894,
+    "activePer100k": 0.0,
     "long": "ReplaceMePitkin,Colorado",
     "date": "05/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePitkin,Colorado",
-    "active": -14
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.088835,
     "source": "NYGithub",
@@ -2201,12 +2201,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.628412224911353,
     "locale": "Pitkin,Colorado",
-    "activePer100k": -5.628412224911353,
+    "activePer100k": 0.0,
     "long": "ReplaceMePitkin,Colorado",
     "date": "06/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePitkin,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.088835,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.628412224911353,
     "locale": "Pitkin,Colorado",
-    "activePer100k": -5.628412224911353,
+    "activePer100k": 0.0,
     "long": "ReplaceMePitkin,Colorado",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePitkin,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.088835,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.628412224911353,
     "locale": "Pitkin,Colorado",
-    "activePer100k": -5.628412224911353,
+    "activePer100k": 0.0,
     "long": "ReplaceMePitkin,Colorado",
     "date": "06/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePitkin,Colorado",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.088835,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.628412224911353,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.628412224911353,
+    "locale": "Pitkin,Colorado",
+    "activePer100k": 5.628412224911353,
+    "long": "ReplaceMePitkin,Colorado",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePitkin,Colorado",
+    "active": 1
   }]
 }

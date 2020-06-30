@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "San Benito,California",
-    "activePer100k": -1.5921538657495862,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSan Benito,California",
     "date": "04/03/2020",
     "deathsPer100k": 1.5921538657495862,
     "lat": "ReplaceMeSan Benito,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.31404,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSan Benito,California",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.31404,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.5921538657495862,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.5921538657495862,
+    "locale": "San Benito,California",
+    "activePer100k": 1.5921538657495862,
+    "long": "ReplaceMeSan Benito,California",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSan Benito,California",
+    "active": 1
   }]
 }

@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Hampton,South Carolina",
-    "activePer100k": -5.202372281760483,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHampton,South Carolina",
     "date": "05/11/2020",
     "deathsPer100k": 5.202372281760483,
     "lat": "ReplaceMeHampton,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09611,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Hampton,South Carolina",
-    "activePer100k": 5.202372281760483,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHampton,South Carolina",
     "date": "05/15/2020",
     "deathsPer100k": -5.202372281760483,
     "lat": "ReplaceMeHampton,South Carolina",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09611,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.202372281760483,
     "locale": "Hampton,South Carolina",
-    "activePer100k": -5.202372281760483,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHampton,South Carolina",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHampton,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09611,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.202372281760483,
     "locale": "Hampton,South Carolina",
-    "activePer100k": -5.202372281760483,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHampton,South Carolina",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHampton,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09611,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 5.202372281760483,
     "lat": "ReplaceMeHampton,South Carolina",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.09611,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.404744563520966,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.404744563520966,
+    "locale": "Hampton,South Carolina",
+    "activePer100k": 10.404744563520966,
+    "long": "ReplaceMeHampton,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHampton,South Carolina",
+    "active": 2
   }]
 }

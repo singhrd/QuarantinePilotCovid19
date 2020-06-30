@@ -2105,12 +2105,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.109690137997271,
     "locale": "Baltimore city,Maryland",
-    "activePer100k": -10.615174644897134,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaltimore city,Maryland",
     "date": "06/01/2020",
     "deathsPer100k": 0.5054845068998636,
     "lat": "ReplaceMeBaltimore city,Maryland",
-    "active": -63
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.96745,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.5054845068998636,
     "lat": "ReplaceMeBaltimore city,Maryland",
     "active": 61
+  }, {
+    "epidemiccontrolThreshold": 2.96745,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.930226288564256,
+    "deaths": 2,
+    "confirmed": 53,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.930226288564256,
+    "locale": "Baltimore city,Maryland",
+    "activePer100k": 8.59323661729768,
+    "long": "ReplaceMeBaltimore city,Maryland",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.3369896712665757,
+    "lat": "ReplaceMeBaltimore city,Maryland",
+    "active": 51
   }]
 }

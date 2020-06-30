@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.928000468480075,
     "locale": "Lincoln,Mississippi",
-    "activePer100k": -2.928000468480075,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,Mississippi",
     "date": "04/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLincoln,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.170765,
     "source": "NYGithub",
@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lincoln,Mississippi",
-    "activePer100k": -2.928000468480075,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,Mississippi",
     "date": "04/26/2020",
     "deathsPer100k": 2.928000468480075,
     "lat": "ReplaceMeLincoln,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.170765,
     "source": "NYGithub",
@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lincoln,Mississippi",
-    "activePer100k": -2.928000468480075,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,Mississippi",
     "date": "04/30/2020",
     "deathsPer100k": 2.928000468480075,
     "lat": "ReplaceMeLincoln,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.170765,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lincoln,Mississippi",
-    "activePer100k": -5.85600093696015,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,Mississippi",
     "date": "05/28/2020",
     "deathsPer100k": 5.85600093696015,
     "lat": "ReplaceMeLincoln,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.170765,
     "source": "NYGithub",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lincoln,Mississippi",
-    "activePer100k": -8.784001405440225,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,Mississippi",
     "date": "05/29/2020",
     "deathsPer100k": 8.784001405440225,
     "lat": "ReplaceMeLincoln,Mississippi",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.170765,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 2.928000468480075,
     "lat": "ReplaceMeLincoln,Mississippi",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.170765,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.85600093696015,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.85600093696015,
+    "locale": "Lincoln,Mississippi",
+    "activePer100k": 5.85600093696015,
+    "long": "ReplaceMeLincoln,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLincoln,Mississippi",
+    "active": 2
   }]
 }

@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4313319530710835,
     "locale": "Hinds,Mississippi",
-    "activePer100k": -0.4313319530710835,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHinds,Mississippi",
     "date": "05/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHinds,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.1592,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.862663906142167,
     "lat": "ReplaceMeHinds,Mississippi",
     "active": 38
+  }, {
+    "epidemiccontrolThreshold": 1.1592,
+    "source": "NYGithub",
+    "confirmedPer100kN": 27.605244996549345,
+    "deaths": 0,
+    "confirmed": 64,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 27.605244996549345,
+    "locale": "Hinds,Mississippi",
+    "activePer100k": 27.605244996549345,
+    "long": "ReplaceMeHinds,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHinds,Mississippi",
+    "active": 64
   }]
 }

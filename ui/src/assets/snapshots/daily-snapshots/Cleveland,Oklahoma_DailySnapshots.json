@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Cleveland,Oklahoma",
-    "activePer100k": -0.7041906384896519,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCleveland,Oklahoma",
     "date": "05/14/2020",
     "deathsPer100k": 0.7041906384896519,
     "lat": "ReplaceMeCleveland,Oklahoma",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.42007,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.35209531924482595,
     "locale": "Cleveland,Oklahoma",
-    "activePer100k": -0.35209531924482595,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCleveland,Oklahoma",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCleveland,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.42007,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.35209531924482595,
     "locale": "Cleveland,Oklahoma",
-    "activePer100k": -0.35209531924482595,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCleveland,Oklahoma",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCleveland,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.42007,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Cleveland,Oklahoma",
-    "activePer100k": -0.35209531924482595,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCleveland,Oklahoma",
     "date": "06/10/2020",
     "deathsPer100k": 0.35209531924482595,
     "lat": "ReplaceMeCleveland,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.42007,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCleveland,Oklahoma",
     "active": 15
+  }, {
+    "epidemiccontrolThreshold": 1.42007,
+    "source": "NYGithub",
+    "confirmedPer100kN": 20.06943319695508,
+    "deaths": 0,
+    "confirmed": 57,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 20.06943319695508,
+    "locale": "Cleveland,Oklahoma",
+    "activePer100k": 20.06943319695508,
+    "long": "ReplaceMeCleveland,Oklahoma",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCleveland,Oklahoma",
+    "active": 57
   }]
 }

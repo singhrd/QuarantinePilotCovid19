@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.097688903458449,
     "locale": "Crook,Oregon",
-    "activePer100k": -4.097688903458449,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCrook,Oregon",
     "date": "06/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCrook,Oregon",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12202,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCrook,Oregon",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.12202,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Crook,Oregon",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeCrook,Oregon",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCrook,Oregon",
+    "active": 0
   }]
 }

@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.5058260455559176,
     "locale": "Madison,Idaho",
-    "activePer100k": -2.5058260455559176,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Idaho",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Idaho",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.199535,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.5058260455559176,
     "locale": "Madison,Idaho",
-    "activePer100k": -2.5058260455559176,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Idaho",
     "date": "05/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Idaho",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.199535,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Idaho",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.199535,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.5058260455559176,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.5058260455559176,
+    "locale": "Madison,Idaho",
+    "activePer100k": 2.5058260455559176,
+    "long": "ReplaceMeMadison,Idaho",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMadison,Idaho",
+    "active": 1
   }]
 }

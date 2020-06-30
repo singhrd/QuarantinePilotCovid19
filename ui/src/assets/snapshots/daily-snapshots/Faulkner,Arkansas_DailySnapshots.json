@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7936067043894387,
     "locale": "Faulkner,Arkansas",
-    "activePer100k": -1.5872134087788774,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFaulkner,Arkansas",
     "date": "04/13/2020",
     "deathsPer100k": 0.7936067043894387,
     "lat": "ReplaceMeFaulkner,Arkansas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.630035,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFaulkner,Arkansas",
     "active": 27
+  }, {
+    "epidemiccontrolThreshold": 0.630035,
+    "source": "NYGithub",
+    "confirmedPer100kN": 22.220987722904283,
+    "deaths": 0,
+    "confirmed": 28,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 22.220987722904283,
+    "locale": "Faulkner,Arkansas",
+    "activePer100k": 22.220987722904283,
+    "long": "ReplaceMeFaulkner,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFaulkner,Arkansas",
+    "active": 28
   }]
 }

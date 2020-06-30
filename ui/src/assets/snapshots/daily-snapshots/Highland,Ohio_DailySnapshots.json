@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Highland,Ohio",
-    "activePer100k": 2.316906466485948,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHighland,Ohio",
     "date": "04/30/2020",
     "deathsPer100k": -2.316906466485948,
     "lat": "ReplaceMeHighland,Ohio",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.215805,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.316906466485948,
     "locale": "Highland,Ohio",
-    "activePer100k": -2.316906466485948,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHighland,Ohio",
     "date": "05/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHighland,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.215805,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Highland,Ohio",
-    "activePer100k": -2.316906466485948,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHighland,Ohio",
     "date": "05/05/2020",
     "deathsPer100k": 2.316906466485948,
     "lat": "ReplaceMeHighland,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.215805,
     "source": "NYGithub",
@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.316906466485948,
     "locale": "Highland,Ohio",
-    "activePer100k": -2.316906466485948,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHighland,Ohio",
     "date": "05/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHighland,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.215805,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.316906466485948,
     "locale": "Highland,Ohio",
-    "activePer100k": -2.316906466485948,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHighland,Ohio",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHighland,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.215805,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHighland,Ohio",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.215805,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Highland,Ohio",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeHighland,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHighland,Ohio",
+    "active": 0
   }]
 }

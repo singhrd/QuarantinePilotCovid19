@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7519242210769999,
     "locale": "Fulton,Georgia",
-    "activePer100k": -1.31586738688475,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFulton,Georgia",
     "date": "05/18/2020",
     "deathsPer100k": 0.56394316580775,
     "lat": "ReplaceMeFulton,Georgia",
-    "active": -14
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 5.319685,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.18798105526924996,
     "locale": "Fulton,Georgia",
-    "activePer100k": -0.18798105526924996,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFulton,Georgia",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 5.319685,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8459147487116249,
     "locale": "Fulton,Georgia",
-    "activePer100k": -1.31586738688475,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFulton,Georgia",
     "date": "06/16/2020",
     "deathsPer100k": 0.46995263817312494,
     "lat": "ReplaceMeFulton,Georgia",
-    "active": -14
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 5.319685,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFulton,Georgia",
     "active": 156
+  }, {
+    "epidemiccontrolThreshold": 5.319685,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.775014874000998,
+    "deaths": 0,
+    "confirmed": 104,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.775014874000998,
+    "locale": "Fulton,Georgia",
+    "activePer100k": 9.775014874000998,
+    "long": "ReplaceMeFulton,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFulton,Georgia",
+    "active": 104
   }]
 }

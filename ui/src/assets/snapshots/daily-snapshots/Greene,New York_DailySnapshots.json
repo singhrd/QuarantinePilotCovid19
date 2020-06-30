@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.357548529287107,
     "locale": "Greene,New York",
-    "activePer100k": -6.357548529287107,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreene,New York",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreene,New York",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.23594,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreene,New York",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.23594,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Greene,New York",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeGreene,New York",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGreene,New York",
+    "active": 0
   }]
 }

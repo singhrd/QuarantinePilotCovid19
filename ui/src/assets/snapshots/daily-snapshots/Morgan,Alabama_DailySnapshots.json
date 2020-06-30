@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6711369580293953,
     "locale": "Morgan,Alabama",
-    "activePer100k": -1.6711369580293953,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Alabama",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.598395,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8355684790146977,
     "locale": "Morgan,Alabama",
-    "activePer100k": -0.8355684790146977,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Alabama",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.598395,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8355684790146977,
     "locale": "Morgan,Alabama",
-    "activePer100k": -0.8355684790146977,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Alabama",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.598395,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Alabama",
     "active": 21
+  }, {
+    "epidemiccontrolThreshold": 0.598395,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.520116311132279,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.520116311132279,
+    "locale": "Morgan,Alabama",
+    "activePer100k": 7.520116311132279,
+    "long": "ReplaceMeMorgan,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMorgan,Alabama",
+    "active": 9
   }]
 }

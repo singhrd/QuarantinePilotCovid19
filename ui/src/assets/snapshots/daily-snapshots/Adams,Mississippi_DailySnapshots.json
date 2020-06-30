@@ -1049,12 +1049,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.25807187306552,
     "locale": "Adams,Mississippi",
-    "activePer100k": -3.25807187306552,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdams,Mississippi",
     "date": "03/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdams,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.153465,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Adams,Mississippi",
-    "activePer100k": -3.25807187306552,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdams,Mississippi",
     "date": "04/18/2020",
     "deathsPer100k": 3.25807187306552,
     "lat": "ReplaceMeAdams,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.153465,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.25807187306552,
     "locale": "Adams,Mississippi",
-    "activePer100k": -3.25807187306552,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdams,Mississippi",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdams,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.153465,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.25807187306552,
     "locale": "Adams,Mississippi",
-    "activePer100k": -3.25807187306552,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdams,Mississippi",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdams,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.153465,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdams,Mississippi",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.153465,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.03228749226208,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.03228749226208,
+    "locale": "Adams,Mississippi",
+    "activePer100k": 13.03228749226208,
+    "long": "ReplaceMeAdams,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAdams,Mississippi",
+    "active": 4
   }]
 }

@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Brown,Minnesota",
-    "activePer100k": -3.9987204094689695,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBrown,Minnesota",
     "date": "04/10/2020",
     "deathsPer100k": 3.9987204094689695,
     "lat": "ReplaceMeBrown,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12504,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9987204094689695,
     "locale": "Brown,Minnesota",
-    "activePer100k": -3.9987204094689695,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBrown,Minnesota",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBrown,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12504,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9987204094689695,
     "locale": "Brown,Minnesota",
-    "activePer100k": -3.9987204094689695,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBrown,Minnesota",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBrown,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12504,
     "source": "NYGithub",
@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9987204094689695,
     "locale": "Brown,Minnesota",
-    "activePer100k": -3.9987204094689695,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBrown,Minnesota",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBrown,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12504,
     "source": "NYGithub",
@@ -2425,12 +2425,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9987204094689695,
     "locale": "Brown,Minnesota",
-    "activePer100k": -3.9987204094689695,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBrown,Minnesota",
     "date": "06/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBrown,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12504,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9987204094689695,
     "locale": "Brown,Minnesota",
-    "activePer100k": -3.9987204094689695,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBrown,Minnesota",
     "date": "06/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBrown,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12504,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBrown,Minnesota",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.12504,
+    "source": "NYGithub",
+    "confirmedPer100kN": 15.994881637875878,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 15.994881637875878,
+    "locale": "Brown,Minnesota",
+    "activePer100k": 15.994881637875878,
+    "long": "ReplaceMeBrown,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBrown,Minnesota",
+    "active": 4
   }]
 }

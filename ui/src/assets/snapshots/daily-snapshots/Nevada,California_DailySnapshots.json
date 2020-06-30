@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.004912034484487,
     "locale": "Nevada,California",
-    "activePer100k": -2.004912034484487,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNevada,California",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNevada,California",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.498775,
     "source": "NYGithub",
@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0024560172422434,
     "locale": "Nevada,California",
-    "activePer100k": -1.0024560172422434,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNevada,California",
     "date": "06/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNevada,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.498775,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeNevada,California",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNevada,California",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.498775,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Nevada,California",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeNevada,California",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNevada,California",
     "active": 0

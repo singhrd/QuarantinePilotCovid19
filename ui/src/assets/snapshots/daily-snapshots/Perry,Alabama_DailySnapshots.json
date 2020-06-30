@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.20699316373417,
     "locale": "Perry,Alabama",
-    "activePer100k": -11.20699316373417,
+    "activePer100k": 0.0,
     "long": "ReplaceMePerry,Alabama",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePerry,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.044615,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePerry,Alabama",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.044615,
+    "source": "NYGithub",
+    "confirmedPer100kN": 78.44895214613919,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 78.44895214613919,
+    "locale": "Perry,Alabama",
+    "activePer100k": 78.44895214613919,
+    "long": "ReplaceMePerry,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePerry,Alabama",
+    "active": 7
   }]
 }

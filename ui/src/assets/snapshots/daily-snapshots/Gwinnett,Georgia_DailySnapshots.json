@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Gwinnett,Georgia",
-    "activePer100k": -0.10680907877169558,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGwinnett,Georgia",
     "date": "05/16/2020",
     "deathsPer100k": 0.10680907877169558,
     "lat": "ReplaceMeGwinnett,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.68125,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.32042723631508674,
     "locale": "Gwinnett,Georgia",
-    "activePer100k": -0.32042723631508674,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGwinnett,Georgia",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGwinnett,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.68125,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.10680907877169558,
     "lat": "ReplaceMeGwinnett,Georgia",
     "active": 140
+  }, {
+    "epidemiccontrolThreshold": 4.68125,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.651535380507342,
+    "deaths": 0,
+    "confirmed": 81,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.651535380507342,
+    "locale": "Gwinnett,Georgia",
+    "activePer100k": 8.651535380507342,
+    "long": "ReplaceMeGwinnett,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGwinnett,Georgia",
+    "active": 81
   }]
 }

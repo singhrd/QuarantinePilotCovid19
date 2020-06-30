@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9524129481048176,
     "locale": "Salem city,Virginia",
-    "activePer100k": -3.9524129481048176,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSalem city,Virginia",
     "date": "05/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSalem city,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.126505,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9524129481048176,
     "locale": "Salem city,Virginia",
-    "activePer100k": -15.80965179241927,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSalem city,Virginia",
     "date": "05/22/2020",
     "deathsPer100k": 11.857238844314454,
     "lat": "ReplaceMeSalem city,Virginia",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.126505,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSalem city,Virginia",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.126505,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Salem city,Virginia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeSalem city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSalem city,Virginia",
+    "active": 0
   }]
 }

@@ -2425,12 +2425,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Alameda,California",
-    "activePer100k": -0.059832624217015316,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAlameda,California",
     "date": "06/21/2020",
     "deathsPer100k": 0.059832624217015316,
     "lat": "ReplaceMeAlameda,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 8.356645,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAlameda,California",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 8.356645,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.051880868458573,
+    "deaths": 3,
+    "confirmed": 168,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.051880868458573,
+    "locale": "Alameda,California",
+    "activePer100k": 9.872382995807527,
+    "long": "ReplaceMeAlameda,California",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.17949787265104597,
+    "lat": "ReplaceMeAlameda,California",
+    "active": 165
   }]
 }

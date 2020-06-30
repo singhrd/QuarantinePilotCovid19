@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8690288337397787,
     "locale": "Sioux,Iowa",
-    "activePer100k": -2.8690288337397787,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSioux,Iowa",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSioux,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.174275,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSioux,Iowa",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.174275,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Sioux,Iowa",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeSioux,Iowa",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSioux,Iowa",
+    "active": 0
   }]
 }

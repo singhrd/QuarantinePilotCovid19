@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Crenshaw,Alabama",
-    "activePer100k": -14.522218995062445,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCrenshaw,Alabama",
     "date": "05/19/2020",
     "deathsPer100k": 14.522218995062445,
     "lat": "ReplaceMeCrenshaw,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.06886,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.261109497531223,
     "locale": "Crenshaw,Alabama",
-    "activePer100k": -7.261109497531223,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCrenshaw,Alabama",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCrenshaw,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.06886,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCrenshaw,Alabama",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.06886,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Crenshaw,Alabama",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeCrenshaw,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCrenshaw,Alabama",
+    "active": 0
   }]
 }

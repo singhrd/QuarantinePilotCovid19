@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Laurens,South Carolina",
-    "activePer100k": -1.4816351325322625,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaurens,South Carolina",
     "date": "05/02/2020",
     "deathsPer100k": 1.4816351325322625,
     "lat": "ReplaceMeLaurens,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.337465,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4816351325322625,
     "locale": "Laurens,South Carolina",
-    "activePer100k": -1.4816351325322625,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaurens,South Carolina",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaurens,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.337465,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaurens,South Carolina",
     "active": 31
+  }, {
+    "epidemiccontrolThreshold": 0.337465,
+    "source": "NYGithub",
+    "confirmedPer100kN": 51.857229638629185,
+    "deaths": 1,
+    "confirmed": 35,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 51.857229638629185,
+    "locale": "Laurens,South Carolina",
+    "activePer100k": 50.375594506096924,
+    "long": "ReplaceMeLaurens,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 1.4816351325322625,
+    "lat": "ReplaceMeLaurens,South Carolina",
+    "active": 34
   }]
 }

@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.36592558509192,
     "locale": "Burleigh,North Dakota",
-    "activePer100k": -8.36592558509192,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBurleigh,North Dakota",
     "date": "05/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBurleigh,North Dakota",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.47813,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBurleigh,North Dakota",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.47813,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.32018488695543,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.32018488695543,
+    "locale": "Burleigh,North Dakota",
+    "activePer100k": 7.32018488695543,
+    "long": "ReplaceMeBurleigh,North Dakota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBurleigh,North Dakota",
+    "active": 7
   }]
 }

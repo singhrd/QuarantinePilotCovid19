@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5899391772708233,
     "locale": "Alamance,North Carolina",
-    "activePer100k": -0.5899391772708233,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAlamance,North Carolina",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAlamance,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.847545,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1798783545416467,
     "locale": "Alamance,North Carolina",
-    "activePer100k": -1.7698175318124703,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAlamance,North Carolina",
     "date": "05/05/2020",
     "deathsPer100k": 0.5899391772708233,
     "lat": "ReplaceMeAlamance,North Carolina",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.847545,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAlamance,North Carolina",
     "active": 34
+  }, {
+    "epidemiccontrolThreshold": 0.847545,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.978661899958114,
+    "deaths": 1,
+    "confirmed": 22,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.978661899958114,
+    "locale": "Alamance,North Carolina",
+    "activePer100k": 12.388722722687291,
+    "long": "ReplaceMeAlamance,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.5899391772708233,
+    "lat": "ReplaceMeAlamance,North Carolina",
+    "active": 21
   }]
 }

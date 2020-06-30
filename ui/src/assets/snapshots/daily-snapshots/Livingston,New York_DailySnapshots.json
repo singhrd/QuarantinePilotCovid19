@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Livingston,New York",
-    "activePer100k": 1.5894713418317068,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLivingston,New York",
     "date": "04/08/2020",
     "deathsPer100k": -1.5894713418317068,
     "lat": "ReplaceMeLivingston,New York",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.31457,
     "source": "NYGithub",
@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.1789426836634136,
     "locale": "Livingston,New York",
-    "activePer100k": -4.76841402549512,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLivingston,New York",
     "date": "04/09/2020",
     "deathsPer100k": 1.5894713418317068,
     "lat": "ReplaceMeLivingston,New York",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.31457,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLivingston,New York",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.31457,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.1789426836634136,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.1789426836634136,
+    "locale": "Livingston,New York",
+    "activePer100k": 3.1789426836634136,
+    "long": "ReplaceMeLivingston,New York",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLivingston,New York",
+    "active": 2
   }]
 }

@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Vermilion,Illinois",
-    "activePer100k": -1.3199926080413948,
+    "activePer100k": 0.0,
     "long": "ReplaceMeVermilion,Illinois",
     "date": "04/29/2020",
     "deathsPer100k": 1.3199926080413948,
     "lat": "ReplaceMeVermilion,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.37879,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3199926080413948,
     "locale": "Vermilion,Illinois",
-    "activePer100k": -1.3199926080413948,
+    "activePer100k": 0.0,
     "long": "ReplaceMeVermilion,Illinois",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeVermilion,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.37879,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3199926080413948,
     "locale": "Vermilion,Illinois",
-    "activePer100k": -1.3199926080413948,
+    "activePer100k": 0.0,
     "long": "ReplaceMeVermilion,Illinois",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeVermilion,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.37879,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.6399852160827897,
     "locale": "Vermilion,Illinois",
-    "activePer100k": -2.6399852160827897,
+    "activePer100k": 0.0,
     "long": "ReplaceMeVermilion,Illinois",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeVermilion,Illinois",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.37879,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeVermilion,Illinois",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.37879,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.239948256289765,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.239948256289765,
+    "locale": "Vermilion,Illinois",
+    "activePer100k": 9.239948256289765,
+    "long": "ReplaceMeVermilion,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeVermilion,Illinois",
+    "active": 7
   }]
 }

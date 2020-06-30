@@ -1417,12 +1417,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Walworth,Wisconsin",
-    "activePer100k": -1.9255208533908421,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWalworth,Wisconsin",
     "date": "04/19/2020",
     "deathsPer100k": 1.9255208533908421,
     "lat": "ReplaceMeWalworth,Wisconsin",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.51934,
     "source": "NYGithub",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.888281280086263,
     "locale": "Walworth,Wisconsin",
-    "activePer100k": -2.888281280086263,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWalworth,Wisconsin",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWalworth,Wisconsin",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.51934,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Walworth,Wisconsin",
-    "activePer100k": -0.9627604266954211,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWalworth,Wisconsin",
     "date": "05/08/2020",
     "deathsPer100k": 0.9627604266954211,
     "lat": "ReplaceMeWalworth,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.51934,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9627604266954211,
     "locale": "Walworth,Wisconsin",
-    "activePer100k": -0.9627604266954211,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWalworth,Wisconsin",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWalworth,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.51934,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWalworth,Wisconsin",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.51934,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.9255208533908421,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.9255208533908421,
+    "locale": "Walworth,Wisconsin",
+    "activePer100k": 1.9255208533908421,
+    "long": "ReplaceMeWalworth,Wisconsin",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWalworth,Wisconsin",
+    "active": 2
   }]
 }

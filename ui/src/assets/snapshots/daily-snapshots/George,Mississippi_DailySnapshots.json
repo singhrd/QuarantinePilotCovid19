@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.16326530612245,
     "locale": "George,Mississippi",
-    "activePer100k": -8.16326530612245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGeorge,Mississippi",
     "date": "04/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGeorge,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1225,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.081632653061225,
     "locale": "George,Mississippi",
-    "activePer100k": -4.081632653061225,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGeorge,Mississippi",
     "date": "05/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGeorge,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1225,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGeorge,Mississippi",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.1225,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "George,Mississippi",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeGeorge,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGeorge,Mississippi",
+    "active": 0
   }]
 }

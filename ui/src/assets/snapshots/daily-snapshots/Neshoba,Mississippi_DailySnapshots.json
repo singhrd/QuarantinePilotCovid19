@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.4343018064427504,
     "locale": "Neshoba,Mississippi",
-    "activePer100k": -3.4343018064427504,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNeshoba,Mississippi",
     "date": "04/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNeshoba,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14559,
     "source": "NYGithub",
@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.4343018064427504,
     "locale": "Neshoba,Mississippi",
-    "activePer100k": -6.868603612885501,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNeshoba,Mississippi",
     "date": "04/14/2020",
     "deathsPer100k": 3.4343018064427504,
     "lat": "ReplaceMeNeshoba,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14559,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -96.16045058039701,
     "locale": "Neshoba,Mississippi",
-    "activePer100k": -103.0290541932825,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNeshoba,Mississippi",
     "date": "06/22/2020",
     "deathsPer100k": 6.868603612885501,
     "lat": "ReplaceMeNeshoba,Mississippi",
-    "active": -30
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14559,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 3.4343018064427504,
     "lat": "ReplaceMeNeshoba,Mississippi",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.14559,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.4343018064427504,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.4343018064427504,
+    "locale": "Neshoba,Mississippi",
+    "activePer100k": 3.4343018064427504,
+    "long": "ReplaceMeNeshoba,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNeshoba,Mississippi",
+    "active": 1
   }]
 }

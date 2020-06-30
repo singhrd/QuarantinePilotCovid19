@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Boone,Indiana",
-    "activePer100k": -1.4739914213699277,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Indiana",
     "date": "04/26/2020",
     "deathsPer100k": 1.4739914213699277,
     "lat": "ReplaceMeBoone,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.339215,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Boone,Indiana",
-    "activePer100k": -4.4219742641097834,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Indiana",
     "date": "05/01/2020",
     "deathsPer100k": 4.4219742641097834,
     "lat": "ReplaceMeBoone,Indiana",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.339215,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4739914213699277,
     "locale": "Boone,Indiana",
-    "activePer100k": -1.4739914213699277,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Indiana",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.339215,
     "source": "NYGithub",
@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Boone,Indiana",
-    "activePer100k": -1.4739914213699277,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Indiana",
     "date": "06/05/2020",
     "deathsPer100k": 1.4739914213699277,
     "lat": "ReplaceMeBoone,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.339215,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.895965685479711,
     "locale": "Boone,Indiana",
-    "activePer100k": -5.895965685479711,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Indiana",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Indiana",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.339215,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.4219742641097834,
     "locale": "Boone,Indiana",
-    "activePer100k": -4.4219742641097834,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Indiana",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Indiana",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.339215,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Indiana",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.339215,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.9479828427398553,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.9479828427398553,
+    "locale": "Boone,Indiana",
+    "activePer100k": 2.9479828427398553,
+    "long": "ReplaceMeBoone,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBoone,Indiana",
+    "active": 2
   }]
 }

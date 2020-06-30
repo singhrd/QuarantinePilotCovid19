@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.52100004521,
     "locale": "Putnam,Georgia",
-    "activePer100k": -4.52100004521,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,Georgia",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.110595,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.04200009042,
     "locale": "Putnam,Georgia",
-    "activePer100k": -13.563000135630002,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,Georgia",
     "date": "05/22/2020",
     "deathsPer100k": 4.52100004521,
     "lat": "ReplaceMePutnam,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.110595,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Putnam,Georgia",
-    "activePer100k": -4.52100004521,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,Georgia",
     "date": "05/27/2020",
     "deathsPer100k": 4.52100004521,
     "lat": "ReplaceMePutnam,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.110595,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,Georgia",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.110595,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.52100004521,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.52100004521,
+    "locale": "Putnam,Georgia",
+    "activePer100k": 4.52100004521,
+    "long": "ReplaceMePutnam,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePutnam,Georgia",
+    "active": 1
   }]
 }

@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Coryell,Texas",
-    "activePer100k": -1.3166383589419495,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoryell,Texas",
     "date": "04/29/2020",
     "deathsPer100k": 1.3166383589419495,
     "lat": "ReplaceMeCoryell,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.379755,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3166383589419495,
     "locale": "Coryell,Texas",
-    "activePer100k": -1.3166383589419495,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoryell,Texas",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCoryell,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.379755,
     "source": "NYGithub",
@@ -2201,12 +2201,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3166383589419495,
     "locale": "Coryell,Texas",
-    "activePer100k": -1.3166383589419495,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoryell,Texas",
     "date": "06/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCoryell,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.379755,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.949915076825848,
     "locale": "Coryell,Texas",
-    "activePer100k": -3.949915076825848,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoryell,Texas",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCoryell,Texas",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.379755,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3166383589419495,
     "locale": "Coryell,Texas",
-    "activePer100k": -1.3166383589419495,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoryell,Texas",
     "date": "06/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCoryell,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.379755,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3166383589419495,
     "locale": "Coryell,Texas",
-    "activePer100k": -1.3166383589419495,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoryell,Texas",
     "date": "06/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCoryell,Texas",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.379755,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.3166383589419495,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.3166383589419495,
+    "locale": "Coryell,Texas",
+    "activePer100k": 1.3166383589419495,
+    "long": "ReplaceMeCoryell,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCoryell,Texas",
+    "active": 1
   }]
 }

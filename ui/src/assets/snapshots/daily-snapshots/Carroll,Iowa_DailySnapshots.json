@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.959087527894868,
     "locale": "Carroll,Iowa",
-    "activePer100k": -4.959087527894868,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Iowa",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.100825,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.959087527894868,
     "locale": "Carroll,Iowa",
-    "activePer100k": -4.959087527894868,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Iowa",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.100825,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 14.877262583684603,
     "long": "ReplaceMeCarroll,Iowa",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCarroll,Iowa",
+    "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.100825,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.877262583684603,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.877262583684603,
+    "locale": "Carroll,Iowa",
+    "activePer100k": 14.877262583684603,
+    "long": "ReplaceMeCarroll,Iowa",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,Iowa",
     "active": 3

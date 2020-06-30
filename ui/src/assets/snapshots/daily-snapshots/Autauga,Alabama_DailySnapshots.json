@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Autauga,Alabama",
-    "activePer100k": -1.7899013764341585,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAutauga,Alabama",
     "date": "04/06/2020",
     "deathsPer100k": 1.7899013764341585,
     "lat": "ReplaceMeAutauga,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.279345,
     "source": "NYGithub",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Autauga,Alabama",
-    "activePer100k": -1.7899013764341585,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAutauga,Alabama",
     "date": "04/16/2020",
     "deathsPer100k": 1.7899013764341585,
     "lat": "ReplaceMeAutauga,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.279345,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7899013764341585,
     "locale": "Autauga,Alabama",
-    "activePer100k": -1.7899013764341585,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAutauga,Alabama",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAutauga,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.279345,
     "source": "NYGithub",
@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7899013764341585,
     "locale": "Autauga,Alabama",
-    "activePer100k": -1.7899013764341585,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAutauga,Alabama",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAutauga,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.279345,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Autauga,Alabama",
-    "activePer100k": 1.7899013764341585,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAutauga,Alabama",
     "date": "05/01/2020",
     "deathsPer100k": -1.7899013764341585,
     "lat": "ReplaceMeAutauga,Alabama",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.279345,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7899013764341585,
     "locale": "Autauga,Alabama",
-    "activePer100k": -1.7899013764341585,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAutauga,Alabama",
     "date": "05/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAutauga,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.279345,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.7899013764341585,
     "lat": "ReplaceMeAutauga,Alabama",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 0.279345,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.949506882170793,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.949506882170793,
+    "locale": "Autauga,Alabama",
+    "activePer100k": 8.949506882170793,
+    "long": "ReplaceMeAutauga,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAutauga,Alabama",
+    "active": 5
   }]
 }

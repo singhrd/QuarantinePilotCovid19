@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7452006980802794,
     "locale": "Cherokee,South Carolina",
-    "activePer100k": -1.7452006980802794,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCherokee,South Carolina",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCherokee,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.2865,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.7452006980802794,
     "lat": "ReplaceMeCherokee,South Carolina",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.2865,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.471204188481677,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.471204188481677,
+    "locale": "Cherokee,South Carolina",
+    "activePer100k": 10.471204188481677,
+    "long": "ReplaceMeCherokee,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCherokee,South Carolina",
+    "active": 6
   }]
 }

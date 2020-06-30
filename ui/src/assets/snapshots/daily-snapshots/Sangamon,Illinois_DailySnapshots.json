@@ -921,12 +921,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sangamon,Illinois",
-    "activePer100k": -0.5136845565874908,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSangamon,Illinois",
     "date": "03/19/2020",
     "deathsPer100k": 0.5136845565874908,
     "lat": "ReplaceMeSangamon,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.97336,
     "source": "NYGithub",
@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.5410536697624722,
     "locale": "Sangamon,Illinois",
-    "activePer100k": -1.5410536697624722,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSangamon,Illinois",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSangamon,Illinois",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.97336,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sangamon,Illinois",
-    "activePer100k": -0.5136845565874908,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSangamon,Illinois",
     "date": "06/06/2020",
     "deathsPer100k": 0.5136845565874908,
     "lat": "ReplaceMeSangamon,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.97336,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 1.5410536697624722,
     "long": "ReplaceMeSangamon,Illinois",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSangamon,Illinois",
+    "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.97336,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.5410536697624722,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.5410536697624722,
+    "locale": "Sangamon,Illinois",
+    "activePer100k": 1.5410536697624722,
+    "long": "ReplaceMeSangamon,Illinois",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSangamon,Illinois",
     "active": 3

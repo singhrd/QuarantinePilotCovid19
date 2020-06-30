@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8512347735939871,
     "locale": "Gila,Arizona",
-    "activePer100k": -1.8512347735939871,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGila,Arizona",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGila,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27009,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Gila,Arizona",
-    "activePer100k": -1.8512347735939871,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGila,Arizona",
     "date": "05/26/2020",
     "deathsPer100k": 1.8512347735939871,
     "lat": "ReplaceMeGila,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27009,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGila,Arizona",
     "active": 12
+  }, {
+    "epidemiccontrolThreshold": 0.27009,
+    "source": "NYGithub",
+    "confirmedPer100kN": 35.17346069828576,
+    "deaths": 0,
+    "confirmed": 19,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 35.17346069828576,
+    "locale": "Gila,Arizona",
+    "activePer100k": 35.17346069828576,
+    "long": "ReplaceMeGila,Arizona",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGila,Arizona",
+    "active": 19
   }]
 }

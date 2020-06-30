@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1604293588627792,
     "locale": "Orangeburg,South Carolina",
-    "activePer100k": -1.1604293588627792,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOrangeburg,South Carolina",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOrangeburg,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.430875,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.1604293588627792,
     "lat": "ReplaceMeOrangeburg,South Carolina",
     "active": 21
+  }, {
+    "epidemiccontrolThreshold": 0.430875,
+    "source": "NYGithub",
+    "confirmedPer100kN": 31.33159268929504,
+    "deaths": 0,
+    "confirmed": 27,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 31.33159268929504,
+    "locale": "Orangeburg,South Carolina",
+    "activePer100k": 31.33159268929504,
+    "long": "ReplaceMeOrangeburg,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeOrangeburg,South Carolina",
+    "active": 27
   }]
 }

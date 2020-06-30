@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Chittenden,Vermont",
-    "activePer100k": -0.6105975307435857,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChittenden,Vermont",
     "date": "04/14/2020",
     "deathsPer100k": 0.6105975307435857,
     "lat": "ReplaceMeChittenden,Vermont",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.81887,
     "source": "NYGithub",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Chittenden,Vermont",
-    "activePer100k": -0.6105975307435857,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChittenden,Vermont",
     "date": "04/15/2020",
     "deathsPer100k": 0.6105975307435857,
     "lat": "ReplaceMeChittenden,Vermont",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.81887,
     "source": "NYGithub",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Chittenden,Vermont",
-    "activePer100k": -0.6105975307435857,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChittenden,Vermont",
     "date": "04/20/2020",
     "deathsPer100k": 0.6105975307435857,
     "lat": "ReplaceMeChittenden,Vermont",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.81887,
     "source": "NYGithub",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6105975307435857,
     "locale": "Chittenden,Vermont",
-    "activePer100k": -0.6105975307435857,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChittenden,Vermont",
     "date": "05/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChittenden,Vermont",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.81887,
     "source": "NYGithub",
@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6105975307435857,
     "locale": "Chittenden,Vermont",
-    "activePer100k": -0.6105975307435857,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChittenden,Vermont",
     "date": "06/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChittenden,Vermont",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.81887,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChittenden,Vermont",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.81887,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.6105975307435857,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.6105975307435857,
+    "locale": "Chittenden,Vermont",
+    "activePer100k": 0.6105975307435857,
+    "long": "ReplaceMeChittenden,Vermont",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeChittenden,Vermont",
+    "active": 1
   }]
 }

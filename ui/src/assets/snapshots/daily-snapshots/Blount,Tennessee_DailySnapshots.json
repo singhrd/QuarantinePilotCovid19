@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7513825438807405,
     "locale": "Blount,Tennessee",
-    "activePer100k": -0.7513825438807405,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBlount,Tennessee",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBlount,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.66544,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.005530175522962,
     "locale": "Blount,Tennessee",
-    "activePer100k": -3.005530175522962,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBlount,Tennessee",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBlount,Tennessee",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.66544,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7513825438807405,
     "locale": "Blount,Tennessee",
-    "activePer100k": -0.7513825438807405,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBlount,Tennessee",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBlount,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.66544,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBlount,Tennessee",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.66544,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Blount,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBlount,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBlount,Tennessee",
+    "active": 0
   }]
 }

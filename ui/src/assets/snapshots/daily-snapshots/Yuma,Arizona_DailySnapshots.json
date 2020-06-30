@@ -1193,12 +1193,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.467755289142932,
     "locale": "Yuma,Arizona",
-    "activePer100k": -0.467755289142932,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYuma,Arizona",
     "date": "04/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYuma,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.068935,
     "source": "NYGithub",
@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.467755289142932,
     "locale": "Yuma,Arizona",
-    "activePer100k": -0.467755289142932,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYuma,Arizona",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYuma,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.068935,
     "source": "NYGithub",
@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.467755289142932,
     "locale": "Yuma,Arizona",
-    "activePer100k": -0.467755289142932,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYuma,Arizona",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYuma,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.068935,
     "source": "NYGithub",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yuma,Arizona",
-    "activePer100k": -0.467755289142932,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYuma,Arizona",
     "date": "04/13/2020",
     "deathsPer100k": 0.467755289142932,
     "lat": "ReplaceMeYuma,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.068935,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.871021156571728,
     "lat": "ReplaceMeYuma,Arizona",
     "active": 152
+  }, {
+    "epidemiccontrolThreshold": 1.068935,
+    "source": "NYGithub",
+    "confirmedPer100kN": 52.85634767315132,
+    "deaths": 5,
+    "confirmed": 113,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 52.85634767315132,
+    "locale": "Yuma,Arizona",
+    "activePer100k": 50.517571227436655,
+    "long": "ReplaceMeYuma,Arizona",
+    "date": "06/28/2020",
+    "deathsPer100k": 2.33877644571466,
+    "lat": "ReplaceMeYuma,Arizona",
+    "active": 108
   }]
 }

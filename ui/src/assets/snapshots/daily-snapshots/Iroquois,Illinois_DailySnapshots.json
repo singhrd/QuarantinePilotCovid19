@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.6881315925352216,
     "locale": "Iroquois,Illinois",
-    "activePer100k": -3.6881315925352216,
+    "activePer100k": 0.0,
     "long": "ReplaceMeIroquois,Illinois",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIroquois,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13557,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeIroquois,Illinois",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.13557,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Iroquois,Illinois",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeIroquois,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeIroquois,Illinois",
+    "active": 0
   }]
 }

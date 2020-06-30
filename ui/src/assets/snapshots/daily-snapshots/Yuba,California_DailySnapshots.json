@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yuba,California",
-    "activePer100k": -1.2711648955102455,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYuba,California",
     "date": "04/09/2020",
     "deathsPer100k": 1.2711648955102455,
     "lat": "ReplaceMeYuba,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.39334,
     "source": "NYGithub",
@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yuba,California",
-    "activePer100k": 2.542329791020491,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYuba,California",
     "date": "04/10/2020",
     "deathsPer100k": -2.542329791020491,
     "lat": "ReplaceMeYuba,California",
-    "active": 2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.39334,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 5.084659582040982,
     "long": "ReplaceMeYuba,California",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeYuba,California",
+    "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.39334,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.084659582040982,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.084659582040982,
+    "locale": "Yuba,California",
+    "activePer100k": 5.084659582040982,
+    "long": "ReplaceMeYuba,California",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYuba,California",
     "active": 4

@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -56.996295240809346,
     "locale": "Baylor,Texas",
-    "activePer100k": -56.996295240809346,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaylor,Texas",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBaylor,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.017545,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -28.498147620404673,
     "locale": "Baylor,Texas",
-    "activePer100k": -28.498147620404673,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaylor,Texas",
     "date": "06/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBaylor,Texas",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.017545,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Baylor,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBaylor,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBaylor,Texas",
+    "active": 0
   }]
 }

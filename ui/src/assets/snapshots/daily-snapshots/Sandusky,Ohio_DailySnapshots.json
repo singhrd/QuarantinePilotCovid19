@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sandusky,Ohio",
-    "activePer100k": -1.7088759014320378,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSandusky,Ohio",
     "date": "04/08/2020",
     "deathsPer100k": 1.7088759014320378,
     "lat": "ReplaceMeSandusky,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.29259,
     "source": "NYGithub",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7088759014320378,
     "locale": "Sandusky,Ohio",
-    "activePer100k": -1.7088759014320378,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSandusky,Ohio",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSandusky,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.29259,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7088759014320378,
     "locale": "Sandusky,Ohio",
-    "activePer100k": -1.7088759014320378,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSandusky,Ohio",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSandusky,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.29259,
     "source": "NYGithub",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sandusky,Ohio",
-    "activePer100k": -3.4177518028640756,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSandusky,Ohio",
     "date": "04/28/2020",
     "deathsPer100k": 3.4177518028640756,
     "lat": "ReplaceMeSandusky,Ohio",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.29259,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7088759014320378,
     "locale": "Sandusky,Ohio",
-    "activePer100k": -1.7088759014320378,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSandusky,Ohio",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSandusky,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.29259,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sandusky,Ohio",
-    "activePer100k": -1.7088759014320378,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSandusky,Ohio",
     "date": "05/27/2020",
     "deathsPer100k": 1.7088759014320378,
     "lat": "ReplaceMeSandusky,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.29259,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSandusky,Ohio",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.29259,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.7088759014320378,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.7088759014320378,
+    "locale": "Sandusky,Ohio",
+    "activePer100k": 1.7088759014320378,
+    "long": "ReplaceMeSandusky,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSandusky,Ohio",
+    "active": 1
   }]
 }

@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.422111370167543,
     "locale": "Burleson,Texas",
-    "activePer100k": -5.422111370167543,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBurleson,Texas",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBurleson,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.092215,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBurleson,Texas",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.092215,
+    "source": "NYGithub",
+    "confirmedPer100kN": 21.688445480670172,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 21.688445480670172,
+    "locale": "Burleson,Texas",
+    "activePer100k": 21.688445480670172,
+    "long": "ReplaceMeBurleson,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBurleson,Texas",
+    "active": 4
   }]
 }

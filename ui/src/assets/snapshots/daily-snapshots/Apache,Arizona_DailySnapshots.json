@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.391072099266905,
     "locale": "Apache,Arizona",
-    "activePer100k": -1.391072099266905,
+    "activePer100k": 0.0,
     "long": "ReplaceMeApache,Arizona",
     "date": "03/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeApache,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.359435,
     "source": "NYGithub",
@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.78214419853381,
     "locale": "Apache,Arizona",
-    "activePer100k": -2.78214419853381,
+    "activePer100k": 0.0,
     "long": "ReplaceMeApache,Arizona",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeApache,Arizona",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.359435,
     "source": "NYGithub",
@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Apache,Arizona",
-    "activePer100k": -1.391072099266905,
+    "activePer100k": 0.0,
     "long": "ReplaceMeApache,Arizona",
     "date": "05/25/2020",
     "deathsPer100k": 1.391072099266905,
     "lat": "ReplaceMeApache,Arizona",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.359435,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Apache,Arizona",
-    "activePer100k": -8.34643259560143,
+    "activePer100k": 0.0,
     "long": "ReplaceMeApache,Arizona",
     "date": "06/27/2020",
     "deathsPer100k": 8.34643259560143,
     "lat": "ReplaceMeApache,Arizona",
-    "active": -6
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.359435,
+    "source": "NYGithub",
+    "confirmedPer100kN": 73.72682126114596,
+    "deaths": 0,
+    "confirmed": 53,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 73.72682126114596,
+    "locale": "Apache,Arizona",
+    "activePer100k": 73.72682126114596,
+    "long": "ReplaceMeApache,Arizona",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeApache,Arizona",
+    "active": 53
   }]
 }

@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Dakota,Minnesota",
-    "activePer100k": 0.23308882315784074,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDakota,Minnesota",
     "date": "04/16/2020",
     "deathsPer100k": -0.23308882315784074,
     "lat": "ReplaceMeDakota,Minnesota",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.145105,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDakota,Minnesota",
     "active": 29
+  }, {
+    "epidemiccontrolThreshold": 2.145105,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.022819395787153,
+    "deaths": 1,
+    "confirmed": 43,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.022819395787153,
+    "locale": "Dakota,Minnesota",
+    "activePer100k": 9.789730572629312,
+    "long": "ReplaceMeDakota,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.23308882315784074,
+    "lat": "ReplaceMeDakota,Minnesota",
+    "active": 42
   }]
 }

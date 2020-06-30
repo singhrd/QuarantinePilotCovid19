@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.605263157894737,
     "locale": "North Dakota",
-    "activePer100k": -4.605263157894737,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNorth Dakota",
     "date": "05/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNorth Dakota",
-    "active": -35
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.8,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNorth Dakota",
     "active": 37
+  }, {
+    "epidemiccontrolThreshold": 3.8,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.868421052631579,
+    "deaths": 1,
+    "confirmed": 37,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.868421052631579,
+    "locale": "North Dakota",
+    "activePer100k": 4.736842105263158,
+    "long": "ReplaceMeNorth Dakota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.13157894736842105,
+    "lat": "ReplaceMeNorth Dakota",
+    "active": 36
   }]
 }

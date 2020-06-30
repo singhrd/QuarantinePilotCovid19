@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.836187169573106,
     "locale": "Fayette,Texas",
-    "activePer100k": -11.836187169573106,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFayette,Texas",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFayette,Texas",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12673,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.945395723191036,
     "locale": "Fayette,Texas",
-    "activePer100k": -3.945395723191036,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFayette,Texas",
     "date": "04/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFayette,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12673,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Fayette,Texas",
-    "activePer100k": -3.945395723191036,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFayette,Texas",
     "date": "04/24/2020",
     "deathsPer100k": 3.945395723191036,
     "lat": "ReplaceMeFayette,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12673,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.890791446382072,
     "locale": "Fayette,Texas",
-    "activePer100k": -7.890791446382072,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFayette,Texas",
     "date": "05/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFayette,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12673,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.945395723191036,
     "locale": "Fayette,Texas",
-    "activePer100k": -3.945395723191036,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFayette,Texas",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFayette,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12673,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.945395723191036,
     "locale": "Fayette,Texas",
-    "activePer100k": -3.945395723191036,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFayette,Texas",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFayette,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12673,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.945395723191036,
     "locale": "Fayette,Texas",
-    "activePer100k": -3.945395723191036,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFayette,Texas",
     "date": "06/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFayette,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12673,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFayette,Texas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.12673,
+    "source": "NYGithub",
+    "confirmedPer100kN": 19.72697861595518,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 19.72697861595518,
+    "locale": "Fayette,Texas",
+    "activePer100k": 19.72697861595518,
+    "long": "ReplaceMeFayette,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFayette,Texas",
+    "active": 5
   }]
 }

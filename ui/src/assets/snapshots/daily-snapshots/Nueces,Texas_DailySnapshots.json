@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Nueces,Texas",
-    "activePer100k": -0.27601892385741966,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNueces,Texas",
     "date": "04/20/2020",
     "deathsPer100k": 0.27601892385741966,
     "lat": "ReplaceMeNueces,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.81147,
     "source": "NYGithub",
@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Nueces,Texas",
-    "activePer100k": -0.27601892385741966,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNueces,Texas",
     "date": "04/26/2020",
     "deathsPer100k": 0.27601892385741966,
     "lat": "ReplaceMeNueces,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.81147,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNueces,Texas",
     "active": 228
+  }, {
+    "epidemiccontrolThreshold": 1.81147,
+    "source": "NYGithub",
+    "confirmedPer100kN": 51.8915576851949,
+    "deaths": 1,
+    "confirmed": 188,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 51.8915576851949,
+    "locale": "Nueces,Texas",
+    "activePer100k": 51.61553876133748,
+    "long": "ReplaceMeNueces,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.27601892385741966,
+    "lat": "ReplaceMeNueces,Texas",
+    "active": 187
   }]
 }

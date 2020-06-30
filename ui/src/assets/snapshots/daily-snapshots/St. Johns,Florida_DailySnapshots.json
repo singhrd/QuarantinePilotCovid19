@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.37782613952363675,
     "locale": "St. Johns,Florida",
-    "activePer100k": -0.37782613952363675,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Johns,Florida",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Johns,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.32336,
     "source": "NYGithub",
@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.37782613952363675,
     "locale": "St. Johns,Florida",
-    "activePer100k": -0.37782613952363675,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Johns,Florida",
     "date": "05/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Johns,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.32336,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7556522790472735,
     "locale": "St. Johns,Florida",
-    "activePer100k": -0.7556522790472735,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Johns,Florida",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Johns,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.32336,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.37782613952363675,
     "locale": "St. Johns,Florida",
-    "activePer100k": -0.37782613952363675,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Johns,Florida",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Johns,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.32336,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Johns,Florida",
     "active": 74
+  }, {
+    "epidemiccontrolThreshold": 1.32336,
+    "source": "NYGithub",
+    "confirmedPer100kN": 30.60391730141458,
+    "deaths": 0,
+    "confirmed": 81,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 30.60391730141458,
+    "locale": "St. Johns,Florida",
+    "activePer100k": 30.60391730141458,
+    "long": "ReplaceMeSt. Johns,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSt. Johns,Florida",
+    "active": 81
   }]
 }

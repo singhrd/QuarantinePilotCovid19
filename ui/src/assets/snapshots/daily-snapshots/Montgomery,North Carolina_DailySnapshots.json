@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.360247304309424,
     "locale": "Montgomery,North Carolina",
-    "activePer100k": -7.360247304309424,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontgomery,North Carolina",
     "date": "05/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontgomery,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.135865,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.680123652154712,
     "locale": "Montgomery,North Carolina",
-    "activePer100k": -7.360247304309424,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontgomery,North Carolina",
     "date": "06/09/2020",
     "deathsPer100k": 3.680123652154712,
     "lat": "ReplaceMeMontgomery,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.135865,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontgomery,North Carolina",
     "active": 10
+  }, {
+    "epidemiccontrolThreshold": 0.135865,
+    "source": "NYGithub",
+    "confirmedPer100kN": 51.52173113016597,
+    "deaths": 0,
+    "confirmed": 14,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 51.52173113016597,
+    "locale": "Montgomery,North Carolina",
+    "activePer100k": 51.52173113016597,
+    "long": "ReplaceMeMontgomery,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMontgomery,North Carolina",
+    "active": 14
   }]
 }

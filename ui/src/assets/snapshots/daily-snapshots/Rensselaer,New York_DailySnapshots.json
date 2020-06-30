@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Rensselaer,New York",
-    "activePer100k": 1.2601282810590118,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRensselaer,New York",
     "date": "04/08/2020",
     "deathsPer100k": -1.2601282810590118,
     "lat": "ReplaceMeRensselaer,New York",
-    "active": 2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.79357,
     "source": "NYGithub",
@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.560769686354071,
     "locale": "Rensselaer,New York",
-    "activePer100k": -8.820897967413083,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRensselaer,New York",
     "date": "04/09/2020",
     "deathsPer100k": 1.2601282810590118,
     "lat": "ReplaceMeRensselaer,New York",
-    "active": -14
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.79357,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Rensselaer,New York",
-    "activePer100k": 0.6300641405295059,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRensselaer,New York",
     "date": "06/18/2020",
     "deathsPer100k": -0.6300641405295059,
     "lat": "ReplaceMeRensselaer,New York",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.79357,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.6300641405295059,
     "long": "ReplaceMeRensselaer,New York",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRensselaer,New York",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.79357,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.6300641405295059,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.6300641405295059,
+    "locale": "Rensselaer,New York",
+    "activePer100k": 0.6300641405295059,
+    "long": "ReplaceMeRensselaer,New York",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRensselaer,New York",
     "active": 1

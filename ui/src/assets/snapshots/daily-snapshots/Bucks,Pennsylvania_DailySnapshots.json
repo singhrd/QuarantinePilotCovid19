@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bucks,Pennsylvania",
-    "activePer100k": -0.15916723701593263,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBucks,Pennsylvania",
     "date": "04/07/2020",
     "deathsPer100k": 0.15916723701593263,
     "lat": "ReplaceMeBucks,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.14135,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bucks,Pennsylvania",
-    "activePer100k": -1.5916723701593263,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBucks,Pennsylvania",
     "date": "04/22/2020",
     "deathsPer100k": 1.5916723701593263,
     "lat": "ReplaceMeBucks,Pennsylvania",
-    "active": -10
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.14135,
     "source": "NYGithub",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bucks,Pennsylvania",
-    "activePer100k": -0.6366689480637305,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBucks,Pennsylvania",
     "date": "04/25/2020",
     "deathsPer100k": 0.6366689480637305,
     "lat": "ReplaceMeBucks,Pennsylvania",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.14135,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.31833447403186527,
     "lat": "ReplaceMeBucks,Pennsylvania",
     "active": 26
+  }, {
+    "epidemiccontrolThreshold": 3.14135,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.2283413182230567,
+    "deaths": 1,
+    "confirmed": 14,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.2283413182230567,
+    "locale": "Bucks,Pennsylvania",
+    "activePer100k": 2.0691740812071244,
+    "long": "ReplaceMeBucks,Pennsylvania",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.15916723701593263,
+    "lat": "ReplaceMeBucks,Pennsylvania",
+    "active": 13
   }]
 }

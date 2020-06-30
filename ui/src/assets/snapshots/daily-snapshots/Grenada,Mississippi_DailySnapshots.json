@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Grenada,Mississippi",
-    "activePer100k": -4.817419789960497,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrenada,Mississippi",
     "date": "05/03/2020",
     "deathsPer100k": 4.817419789960497,
     "lat": "ReplaceMeGrenada,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10379,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 4.817419789960497,
     "lat": "ReplaceMeGrenada,Mississippi",
     "active": 30
+  }, {
+    "epidemiccontrolThreshold": 0.10379,
+    "source": "NYGithub",
+    "confirmedPer100kN": 38.53935831968398,
+    "deaths": 0,
+    "confirmed": 8,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 38.53935831968398,
+    "locale": "Grenada,Mississippi",
+    "activePer100k": 38.53935831968398,
+    "long": "ReplaceMeGrenada,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGrenada,Mississippi",
+    "active": 8
   }]
 }

@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.982477100756671,
     "locale": "Sunflower,Mississippi",
-    "activePer100k": -3.982477100756671,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSunflower,Mississippi",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSunflower,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12555,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.982477100756671,
     "locale": "Sunflower,Mississippi",
-    "activePer100k": -3.982477100756671,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSunflower,Mississippi",
     "date": "05/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSunflower,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12555,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.982477100756671,
     "locale": "Sunflower,Mississippi",
-    "activePer100k": -3.982477100756671,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSunflower,Mississippi",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSunflower,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12555,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.982477100756671,
     "locale": "Sunflower,Mississippi",
-    "activePer100k": -3.982477100756671,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSunflower,Mississippi",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSunflower,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12555,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSunflower,Mississippi",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.12555,
+    "source": "NYGithub",
+    "confirmedPer100kN": 23.894862604540023,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 23.894862604540023,
+    "locale": "Sunflower,Mississippi",
+    "activePer100k": 23.894862604540023,
+    "long": "ReplaceMeSunflower,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSunflower,Mississippi",
+    "active": 6
   }]
 }

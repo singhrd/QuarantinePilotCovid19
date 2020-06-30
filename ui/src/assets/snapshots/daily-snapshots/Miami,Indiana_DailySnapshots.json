@@ -1193,12 +1193,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8156323910350265,
     "locale": "Miami,Indiana",
-    "activePer100k": -2.8156323910350265,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiami,Indiana",
     "date": "04/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiami,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17758,
     "source": "NYGithub",
@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8156323910350265,
     "locale": "Miami,Indiana",
-    "activePer100k": -2.8156323910350265,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiami,Indiana",
     "date": "04/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiami,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17758,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.631264782070053,
     "locale": "Miami,Indiana",
-    "activePer100k": -5.631264782070053,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiami,Indiana",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiami,Indiana",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17758,
     "source": "NYGithub",
@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8156323910350265,
     "locale": "Miami,Indiana",
-    "activePer100k": -2.8156323910350265,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiami,Indiana",
     "date": "05/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiami,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17758,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8156323910350265,
     "locale": "Miami,Indiana",
-    "activePer100k": -2.8156323910350265,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiami,Indiana",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiami,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17758,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8156323910350265,
     "locale": "Miami,Indiana",
-    "activePer100k": -5.631264782070053,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiami,Indiana",
     "date": "06/20/2020",
     "deathsPer100k": 2.8156323910350265,
     "lat": "ReplaceMeMiami,Indiana",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17758,
     "source": "NYGithub",
@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8156323910350265,
     "locale": "Miami,Indiana",
-    "activePer100k": -2.8156323910350265,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMiami,Indiana",
     "date": "06/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiami,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17758,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMiami,Indiana",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.17758,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.8156323910350265,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.8156323910350265,
+    "locale": "Miami,Indiana",
+    "activePer100k": 2.8156323910350265,
+    "long": "ReplaceMeMiami,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMiami,Indiana",
+    "active": 1
   }]
 }

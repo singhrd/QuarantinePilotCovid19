@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.644385246575568,
     "locale": "Laurel,Kentucky",
-    "activePer100k": -1.644385246575568,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaurel,Kentucky",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaurel,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.304065,
     "source": "NYGithub",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.644385246575568,
     "locale": "Laurel,Kentucky",
-    "activePer100k": -1.644385246575568,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaurel,Kentucky",
     "date": "05/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaurel,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.304065,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaurel,Kentucky",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.304065,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.644385246575568,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.644385246575568,
+    "locale": "Laurel,Kentucky",
+    "activePer100k": 1.644385246575568,
+    "long": "ReplaceMeLaurel,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLaurel,Kentucky",
+    "active": 1
   }]
 }

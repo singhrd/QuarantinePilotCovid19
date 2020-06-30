@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.438920918089851,
     "locale": "Appling,Georgia",
-    "activePer100k": -5.438920918089851,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAppling,Georgia",
     "date": "03/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAppling,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09193,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Appling,Georgia",
-    "activePer100k": -5.438920918089851,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAppling,Georgia",
     "date": "04/21/2020",
     "deathsPer100k": 5.438920918089851,
     "lat": "ReplaceMeAppling,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09193,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Appling,Georgia",
-    "activePer100k": -5.438920918089851,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAppling,Georgia",
     "date": "04/29/2020",
     "deathsPer100k": 5.438920918089851,
     "lat": "ReplaceMeAppling,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09193,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Appling,Georgia",
-    "activePer100k": 5.438920918089851,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAppling,Georgia",
     "date": "05/03/2020",
     "deathsPer100k": -5.438920918089851,
     "lat": "ReplaceMeAppling,Georgia",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09193,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Appling,Georgia",
-    "activePer100k": -5.438920918089851,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAppling,Georgia",
     "date": "05/17/2020",
     "deathsPer100k": 5.438920918089851,
     "lat": "ReplaceMeAppling,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09193,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.438920918089851,
     "locale": "Appling,Georgia",
-    "activePer100k": -5.438920918089851,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAppling,Georgia",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAppling,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09193,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.438920918089851,
     "locale": "Appling,Georgia",
-    "activePer100k": -5.438920918089851,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAppling,Georgia",
     "date": "06/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAppling,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09193,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAppling,Georgia",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.09193,
+    "source": "NYGithub",
+    "confirmedPer100kN": 38.07244642662896,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 38.07244642662896,
+    "locale": "Appling,Georgia",
+    "activePer100k": 38.07244642662896,
+    "long": "ReplaceMeAppling,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAppling,Georgia",
+    "active": 7
   }]
 }

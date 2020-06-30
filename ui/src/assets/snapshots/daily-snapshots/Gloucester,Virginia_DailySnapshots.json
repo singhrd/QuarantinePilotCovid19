@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Gloucester,Virginia",
-    "activePer100k": -2.677519545892685,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGloucester,Virginia",
     "date": "04/21/2020",
     "deathsPer100k": 2.677519545892685,
     "lat": "ReplaceMeGloucester,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18674,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.677519545892685,
     "locale": "Gloucester,Virginia",
-    "activePer100k": -2.677519545892685,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGloucester,Virginia",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGloucester,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18674,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.032558637678056,
     "locale": "Gloucester,Virginia",
-    "activePer100k": -8.032558637678056,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGloucester,Virginia",
     "date": "06/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGloucester,Virginia",
-    "active": -3
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.18674,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.677519545892685,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.677519545892685,
+    "locale": "Gloucester,Virginia",
+    "activePer100k": 2.677519545892685,
+    "long": "ReplaceMeGloucester,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGloucester,Virginia",
+    "active": 1
   }]
 }

@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.1615779519048903,
     "locale": "Calvert,Maryland",
-    "activePer100k": -2.1615779519048903,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCalvert,Maryland",
     "date": "03/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCalvert,Maryland",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.462625,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Calvert,Maryland",
-    "activePer100k": -2.1615779519048903,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCalvert,Maryland",
     "date": "05/02/2020",
     "deathsPer100k": 2.1615779519048903,
     "lat": "ReplaceMeCalvert,Maryland",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.462625,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.323155903809781,
     "locale": "Calvert,Maryland",
-    "activePer100k": -6.484733855714672,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCalvert,Maryland",
     "date": "06/03/2020",
     "deathsPer100k": 2.1615779519048903,
     "lat": "ReplaceMeCalvert,Maryland",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.462625,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCalvert,Maryland",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.462625,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.1615779519048903,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.1615779519048903,
+    "locale": "Calvert,Maryland",
+    "activePer100k": 2.1615779519048903,
+    "long": "ReplaceMeCalvert,Maryland",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCalvert,Maryland",
+    "active": 2
   }]
 }

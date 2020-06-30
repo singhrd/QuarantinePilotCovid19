@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.2753594707019094,
     "locale": "Marshall,West Virginia",
-    "activePer100k": -3.2753594707019094,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarshall,West Virginia",
     "date": "06/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarshall,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.152655,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.2753594707019094,
     "locale": "Marshall,West Virginia",
-    "activePer100k": -3.2753594707019094,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarshall,West Virginia",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarshall,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.152655,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarshall,West Virginia",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.152655,
+    "source": "NYGithub",
+    "confirmedPer100kN": -3.2753594707019094,
+    "deaths": 0,
+    "confirmed": -1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -3.2753594707019094,
+    "locale": "Marshall,West Virginia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMarshall,West Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMarshall,West Virginia",
+    "active": 0
   }]
 }

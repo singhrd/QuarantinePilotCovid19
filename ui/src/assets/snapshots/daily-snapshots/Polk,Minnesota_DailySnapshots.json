@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.188368830506313,
     "locale": "Polk,Minnesota",
-    "activePer100k": -3.188368830506313,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,Minnesota",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.15682,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.188368830506313,
     "locale": "Polk,Minnesota",
-    "activePer100k": -3.188368830506313,
+    "activePer100k": 0.0,
     "long": "ReplaceMePolk,Minnesota",
     "date": "06/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePolk,Minnesota",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.15682,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.376737661012626,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.376737661012626,
+    "locale": "Polk,Minnesota",
+    "activePer100k": 6.376737661012626,
+    "long": "ReplaceMePolk,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePolk,Minnesota",
+    "active": 2
   }]
 }

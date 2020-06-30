@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1162022335206694,
     "locale": "Peoria,Illinois",
-    "activePer100k": -0.5581011167603347,
+    "activePer100k": 0.0,
     "long": "ReplaceMePeoria,Illinois",
     "date": "04/06/2020",
     "deathsPer100k": -0.5581011167603347,
     "lat": "ReplaceMePeoria,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.895895,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePeoria,Illinois",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.895895,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.4648089340826775,
+    "deaths": 1,
+    "confirmed": 8,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.4648089340826775,
+    "locale": "Peoria,Illinois",
+    "activePer100k": 3.9067078173223426,
+    "long": "ReplaceMePeoria,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.5581011167603347,
+    "lat": "ReplaceMePeoria,Illinois",
+    "active": 7
   }]
 }

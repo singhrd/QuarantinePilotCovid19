@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.011526510975243,
     "locale": "Henry,Iowa",
-    "activePer100k": -5.011526510975243,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHenry,Iowa",
     "date": "05/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHenry,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09977,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Henry,Iowa",
-    "activePer100k": -5.011526510975243,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHenry,Iowa",
     "date": "06/02/2020",
     "deathsPer100k": 5.011526510975243,
     "lat": "ReplaceMeHenry,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09977,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.011526510975243,
     "locale": "Henry,Iowa",
-    "activePer100k": -5.011526510975243,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHenry,Iowa",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHenry,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09977,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.011526510975243,
     "locale": "Henry,Iowa",
-    "activePer100k": -5.011526510975243,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHenry,Iowa",
     "date": "06/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHenry,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09977,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHenry,Iowa",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.09977,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.011526510975243,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.011526510975243,
+    "locale": "Henry,Iowa",
+    "activePer100k": 5.011526510975243,
+    "long": "ReplaceMeHenry,Iowa",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHenry,Iowa",
+    "active": 1
   }]
 }

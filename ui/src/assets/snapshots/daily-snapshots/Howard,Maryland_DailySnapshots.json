@@ -2313,12 +2313,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.053455740120974,
     "locale": "Howard,Maryland",
-    "activePer100k": -11.360496177346556,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHoward,Maryland",
     "date": "06/14/2020",
     "deathsPer100k": 0.3070404372255826,
     "lat": "ReplaceMeHoward,Maryland",
-    "active": -37
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.62845,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.0619300561884,
     "locale": "Howard,Maryland",
-    "activePer100k": -7.368970493413983,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHoward,Maryland",
     "date": "06/16/2020",
     "deathsPer100k": 0.3070404372255826,
     "lat": "ReplaceMeHoward,Maryland",
-    "active": -24
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.62845,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.991525683932574,
     "locale": "Howard,Maryland",
-    "activePer100k": -3.991525683932574,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHoward,Maryland",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHoward,Maryland",
-    "active": -13
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.62845,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.3070404372255826,
     "lat": "ReplaceMeHoward,Maryland",
     "active": 19
+  }, {
+    "epidemiccontrolThreshold": 1.62845,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.3774448094814087,
+    "deaths": 0,
+    "confirmed": 11,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.3774448094814087,
+    "locale": "Howard,Maryland",
+    "activePer100k": 3.3774448094814087,
+    "long": "ReplaceMeHoward,Maryland",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHoward,Maryland",
+    "active": 11
   }]
 }

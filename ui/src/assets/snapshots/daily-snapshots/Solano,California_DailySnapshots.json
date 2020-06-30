@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Solano,California",
-    "activePer100k": -0.22339230145450728,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSolano,California",
     "date": "04/29/2020",
     "deathsPer100k": 0.22339230145450728,
     "lat": "ReplaceMeSolano,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.238215,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSolano,California",
     "active": 34
+  }, {
+    "epidemiccontrolThreshold": 2.238215,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.169615072725364,
+    "deaths": 0,
+    "confirmed": 50,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.169615072725364,
+    "locale": "Solano,California",
+    "activePer100k": 11.169615072725364,
+    "long": "ReplaceMeSolano,California",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSolano,California",
+    "active": 50
   }]
 }

@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1704667821527226,
     "locale": "Lee,Mississippi",
-    "activePer100k": -1.1704667821527226,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Mississippi",
     "date": "04/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.42718,
     "source": "NYGithub",
@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lee,Mississippi",
-    "activePer100k": -1.1704667821527226,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Mississippi",
     "date": "04/06/2020",
     "deathsPer100k": 1.1704667821527226,
     "lat": "ReplaceMeLee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.42718,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.340933564305445,
     "locale": "Lee,Mississippi",
-    "activePer100k": -1.1704667821527226,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Mississippi",
     "date": "04/27/2020",
     "deathsPer100k": -1.1704667821527226,
     "lat": "ReplaceMeLee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.42718,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1704667821527226,
     "locale": "Lee,Mississippi",
-    "activePer100k": -1.1704667821527226,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Mississippi",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.42718,
     "source": "NYGithub",
@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1704667821527226,
     "locale": "Lee,Mississippi",
-    "activePer100k": -1.1704667821527226,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Mississippi",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.42718,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.340933564305445,
     "locale": "Lee,Mississippi",
-    "activePer100k": -2.340933564305445,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Mississippi",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.42718,
     "source": "NYGithub",
@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1704667821527226,
     "locale": "Lee,Mississippi",
-    "activePer100k": -1.1704667821527226,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Mississippi",
     "date": "05/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.42718,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1704667821527226,
     "locale": "Lee,Mississippi",
-    "activePer100k": -1.1704667821527226,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Mississippi",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.42718,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Mississippi",
     "active": 10
+  }, {
+    "epidemiccontrolThreshold": 0.42718,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.852333910763613,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.852333910763613,
+    "locale": "Lee,Mississippi",
+    "activePer100k": 5.852333910763613,
+    "long": "ReplaceMeLee,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLee,Mississippi",
+    "active": 5
   }]
 }

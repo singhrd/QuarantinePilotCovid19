@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8716652786951156,
     "locale": "Scotland,North Carolina",
-    "activePer100k": -2.8716652786951156,
+    "activePer100k": 0.0,
     "long": "ReplaceMeScotland,North Carolina",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeScotland,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.174115,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 2.8716652786951156,
     "long": "ReplaceMeScotland,North Carolina",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeScotland,North Carolina",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.174115,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.8716652786951156,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.8716652786951156,
+    "locale": "Scotland,North Carolina",
+    "activePer100k": 2.8716652786951156,
+    "long": "ReplaceMeScotland,North Carolina",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeScotland,North Carolina",
     "active": 1

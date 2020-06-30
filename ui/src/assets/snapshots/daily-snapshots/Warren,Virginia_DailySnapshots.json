@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.979583706802112,
     "locale": "Warren,Virginia",
-    "activePer100k": -4.979583706802112,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWarren,Virginia",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWarren,Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20082,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Warren,Virginia",
-    "activePer100k": -2.489791853401056,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWarren,Virginia",
     "date": "06/26/2020",
     "deathsPer100k": 2.489791853401056,
     "lat": "ReplaceMeWarren,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20082,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWarren,Virginia",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 0.20082,
+    "source": "NYGithub",
+    "confirmedPer100kN": 17.42854297380739,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 17.42854297380739,
+    "locale": "Warren,Virginia",
+    "activePer100k": 17.42854297380739,
+    "long": "ReplaceMeWarren,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWarren,Virginia",
+    "active": 7
   }]
 }

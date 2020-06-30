@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.639828098337862,
     "locale": "Pecos,Texas",
-    "activePer100k": -12.639828098337862,
+    "activePer100k": 0.0,
     "long": "ReplaceMePecos,Texas",
     "date": "04/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePecos,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.079115,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.319914049168931,
     "locale": "Pecos,Texas",
-    "activePer100k": -6.319914049168931,
+    "activePer100k": 0.0,
     "long": "ReplaceMePecos,Texas",
     "date": "05/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePecos,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.079115,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -492.9532958351766,
     "locale": "Pecos,Texas",
-    "activePer100k": -492.9532958351766,
+    "activePer100k": 0.0,
     "long": "ReplaceMePecos,Texas",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePecos,Texas",
-    "active": -78
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.079115,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.319914049168931,
     "locale": "Pecos,Texas",
-    "activePer100k": -6.319914049168931,
+    "activePer100k": 0.0,
     "long": "ReplaceMePecos,Texas",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePecos,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.079115,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePecos,Texas",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.079115,
+    "source": "NYGithub",
+    "confirmedPer100kN": -18.95974214750679,
+    "deaths": 0,
+    "confirmed": -3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -18.95974214750679,
+    "locale": "Pecos,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMePecos,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePecos,Texas",
+    "active": 0
   }]
 }

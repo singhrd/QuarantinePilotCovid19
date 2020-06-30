@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Howard,Arkansas",
-    "activePer100k": -7.5746099075897595,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHoward,Arkansas",
     "date": "04/21/2020",
     "deathsPer100k": 7.5746099075897595,
     "lat": "ReplaceMeHoward,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.06601,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.5746099075897595,
     "locale": "Howard,Arkansas",
-    "activePer100k": -7.5746099075897595,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHoward,Arkansas",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHoward,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.06601,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHoward,Arkansas",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.06601,
+    "source": "NYGithub",
+    "confirmedPer100kN": 45.447659445538555,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 45.447659445538555,
+    "locale": "Howard,Arkansas",
+    "activePer100k": 45.447659445538555,
+    "long": "ReplaceMeHoward,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHoward,Arkansas",
+    "active": 6
   }]
 }

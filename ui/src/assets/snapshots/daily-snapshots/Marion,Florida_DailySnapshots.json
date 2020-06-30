@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5470773758886588,
     "locale": "Marion,Florida",
-    "activePer100k": -0.5470773758886588,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarion,Florida",
     "date": "05/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarion,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.827895,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarion,Florida",
     "active": 74
+  }, {
+    "epidemiccontrolThreshold": 1.827895,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.02677670216287,
+    "deaths": 0,
+    "confirmed": 33,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.02677670216287,
+    "locale": "Marion,Florida",
+    "activePer100k": 9.02677670216287,
+    "long": "ReplaceMeMarion,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMarion,Florida",
+    "active": 33
   }]
 }

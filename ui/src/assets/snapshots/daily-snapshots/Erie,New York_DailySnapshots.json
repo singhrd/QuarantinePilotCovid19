@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5442461211578945,
     "locale": "Erie,New York",
-    "activePer100k": -0.5442461211578945,
+    "activePer100k": 0.0,
     "long": "ReplaceMeErie,New York",
     "date": "03/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeErie,New York",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.59351,
     "source": "NYGithub",
@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Erie,New York",
-    "activePer100k": -0.6530953453894733,
+    "activePer100k": 0.0,
     "long": "ReplaceMeErie,New York",
     "date": "04/07/2020",
     "deathsPer100k": 0.6530953453894733,
     "lat": "ReplaceMeErie,New York",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.59351,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeErie,New York",
     "active": 25
+  }, {
+    "epidemiccontrolThreshold": 4.59351,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.3946829330947357,
+    "deaths": 0,
+    "confirmed": 22,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.3946829330947357,
+    "locale": "Erie,New York",
+    "activePer100k": 2.3946829330947357,
+    "long": "ReplaceMeErie,New York",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeErie,New York",
+    "active": 22
   }]
 }

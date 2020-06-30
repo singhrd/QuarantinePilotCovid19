@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -16.784155756965426,
     "locale": "Osceola,Iowa",
-    "activePer100k": -16.784155756965426,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOsceola,Iowa",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOsceola,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02979,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -67.1366230278617,
     "locale": "Osceola,Iowa",
-    "activePer100k": -67.1366230278617,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOsceola,Iowa",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOsceola,Iowa",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.02979,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 16.784155756965426,
     "long": "ReplaceMeOsceola,Iowa",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeOsceola,Iowa",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.02979,
+    "source": "NYGithub",
+    "confirmedPer100kN": 16.784155756965426,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 16.784155756965426,
+    "locale": "Osceola,Iowa",
+    "activePer100k": 16.784155756965426,
+    "long": "ReplaceMeOsceola,Iowa",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOsceola,Iowa",
     "active": 1

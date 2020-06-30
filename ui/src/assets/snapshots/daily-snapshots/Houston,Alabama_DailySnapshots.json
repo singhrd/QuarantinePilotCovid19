@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9444475926030864,
     "locale": "Houston,Alabama",
-    "activePer100k": -0.9444475926030864,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Alabama",
     "date": "03/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.52941,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8888951852061728,
     "locale": "Houston,Alabama",
-    "activePer100k": -1.8888951852061728,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Alabama",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.52941,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.9444475926030864,
     "lat": "ReplaceMeHouston,Alabama",
     "active": 23
+  }, {
+    "epidemiccontrolThreshold": 0.52941,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.722237963015432,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.722237963015432,
+    "locale": "Houston,Alabama",
+    "activePer100k": 4.722237963015432,
+    "long": "ReplaceMeHouston,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHouston,Alabama",
+    "active": 5
   }]
 }

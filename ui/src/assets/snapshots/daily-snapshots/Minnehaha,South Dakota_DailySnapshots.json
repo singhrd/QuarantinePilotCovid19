@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.908830138660205,
     "locale": "Minnehaha,South Dakota",
-    "activePer100k": -11.908830138660205,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMinnehaha,South Dakota",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMinnehaha,South Dakota",
-    "active": -23
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.96567,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.5177752234200089,
     "lat": "ReplaceMeMinnehaha,South Dakota",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.96567,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.213302681040107,
+    "deaths": 0,
+    "confirmed": 12,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.213302681040107,
+    "locale": "Minnehaha,South Dakota",
+    "activePer100k": 6.213302681040107,
+    "long": "ReplaceMeMinnehaha,South Dakota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMinnehaha,South Dakota",
+    "active": 12
   }]
 }

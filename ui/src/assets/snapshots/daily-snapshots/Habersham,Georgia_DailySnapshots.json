@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.206141899046947,
     "locale": "Habersham,Georgia",
-    "activePer100k": -2.206141899046947,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHabersham,Georgia",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHabersham,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.22664,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 6.6184256971408395,
     "long": "ReplaceMeHabersham,Georgia",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHabersham,Georgia",
+    "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.22664,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.6184256971408395,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.6184256971408395,
+    "locale": "Habersham,Georgia",
+    "activePer100k": 6.6184256971408395,
+    "long": "ReplaceMeHabersham,Georgia",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHabersham,Georgia",
     "active": 3

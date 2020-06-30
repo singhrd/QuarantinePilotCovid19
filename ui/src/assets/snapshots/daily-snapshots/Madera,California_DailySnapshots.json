@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Madera,California",
-    "activePer100k": -0.6356188066892523,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadera,California",
     "date": "04/03/2020",
     "deathsPer100k": 0.6356188066892523,
     "lat": "ReplaceMeMadera,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.786635,
     "source": "NYGithub",
@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.2712376133785046,
     "locale": "Madera,California",
-    "activePer100k": -1.2712376133785046,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadera,California",
     "date": "04/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadera,California",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.786635,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6356188066892523,
     "locale": "Madera,California",
-    "activePer100k": -0.6356188066892523,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadera,California",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadera,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.786635,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadera,California",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.786635,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.6274256802710285,
+    "deaths": 0,
+    "confirmed": 12,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.6274256802710285,
+    "locale": "Madera,California",
+    "activePer100k": 7.6274256802710285,
+    "long": "ReplaceMeMadera,California",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMadera,California",
+    "active": 12
   }]
 }

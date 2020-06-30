@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -152.3859282479972,
     "locale": "Houston,Texas",
-    "activePer100k": -152.3859282479972,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Texas",
     "date": "05/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Texas",
-    "active": -35
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11484,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -39.18495297805643,
     "locale": "Houston,Texas",
-    "activePer100k": -39.18495297805643,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Texas",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Texas",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11484,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.3538836642284915,
     "locale": "Houston,Texas",
-    "activePer100k": -4.3538836642284915,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Texas",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11484,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Texas",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.11484,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Houston,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeHouston,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHouston,Texas",
+    "active": 0
   }]
 }

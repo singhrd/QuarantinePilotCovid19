@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Greene,Virginia",
-    "activePer100k": -5.045663252434532,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreene,Virginia",
     "date": "04/21/2020",
     "deathsPer100k": 5.045663252434532,
     "lat": "ReplaceMeGreene,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.099095,
     "source": "NYGithub",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.045663252434532,
     "locale": "Greene,Virginia",
-    "activePer100k": -5.045663252434532,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreene,Virginia",
     "date": "04/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreene,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.099095,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreene,Virginia",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.099095,
+    "source": "NYGithub",
+    "confirmedPer100kN": 25.22831626217266,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 25.22831626217266,
+    "locale": "Greene,Virginia",
+    "activePer100k": 25.22831626217266,
+    "long": "ReplaceMeGreene,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGreene,Virginia",
+    "active": 5
   }]
 }

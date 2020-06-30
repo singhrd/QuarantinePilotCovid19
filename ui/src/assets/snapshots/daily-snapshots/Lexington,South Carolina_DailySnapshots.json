@@ -1017,12 +1017,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.3347280334728034,
     "locale": "Lexington,South Carolina",
-    "activePer100k": -0.3347280334728034,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLexington,South Carolina",
     "date": "03/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLexington,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.49375,
     "source": "NYGithub",
@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6694560669456068,
     "locale": "Lexington,South Carolina",
-    "activePer100k": -0.6694560669456068,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLexington,South Carolina",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLexington,South Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.49375,
     "source": "NYGithub",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.00836820083682,
     "locale": "Lexington,South Carolina",
-    "activePer100k": -2.00836820083682,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLexington,South Carolina",
     "date": "04/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLexington,South Carolina",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.49375,
     "source": "NYGithub",
@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.351464435146444,
     "locale": "Lexington,South Carolina",
-    "activePer100k": -4.6861924686192475,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLexington,South Carolina",
     "date": "04/17/2020",
     "deathsPer100k": 0.3347280334728034,
     "lat": "ReplaceMeLexington,South Carolina",
-    "active": -14
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.49375,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6694560669456068,
     "locale": "Lexington,South Carolina",
-    "activePer100k": -0.6694560669456068,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLexington,South Carolina",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLexington,South Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.49375,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.00418410041841,
     "locale": "Lexington,South Carolina",
-    "activePer100k": -1.00418410041841,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLexington,South Carolina",
     "date": "05/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLexington,South Carolina",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.49375,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6694560669456068,
     "locale": "Lexington,South Carolina",
-    "activePer100k": -1.00418410041841,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLexington,South Carolina",
     "date": "05/19/2020",
     "deathsPer100k": 0.3347280334728034,
     "lat": "ReplaceMeLexington,South Carolina",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.49375,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.6694560669456068,
     "lat": "ReplaceMeLexington,South Carolina",
     "active": 69
+  }, {
+    "epidemiccontrolThreshold": 1.49375,
+    "source": "NYGithub",
+    "confirmedPer100kN": 18.410041841004187,
+    "deaths": 1,
+    "confirmed": 55,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 18.410041841004187,
+    "locale": "Lexington,South Carolina",
+    "activePer100k": 18.075313807531384,
+    "long": "ReplaceMeLexington,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.3347280334728034,
+    "lat": "ReplaceMeLexington,South Carolina",
+    "active": 54
   }]
 }

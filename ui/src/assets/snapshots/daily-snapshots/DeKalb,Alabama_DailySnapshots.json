@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3983471536643686,
     "locale": "DeKalb,Alabama",
-    "activePer100k": -1.3983471536643686,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDeKalb,Alabama",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDeKalb,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.357565,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3983471536643686,
     "locale": "DeKalb,Alabama",
-    "activePer100k": -2.796694307328737,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDeKalb,Alabama",
     "date": "05/19/2020",
     "deathsPer100k": 1.3983471536643686,
     "lat": "ReplaceMeDeKalb,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.357565,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDeKalb,Alabama",
     "active": 22
+  }, {
+    "epidemiccontrolThreshold": 0.357565,
+    "source": "NYGithub",
+    "confirmedPer100kN": 15.381818690308055,
+    "deaths": 0,
+    "confirmed": 11,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 15.381818690308055,
+    "locale": "DeKalb,Alabama",
+    "activePer100k": 15.381818690308055,
+    "long": "ReplaceMeDeKalb,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDeKalb,Alabama",
+    "active": 11
   }]
 }

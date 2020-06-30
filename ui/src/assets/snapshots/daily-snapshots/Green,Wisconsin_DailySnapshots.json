@@ -2313,12 +2313,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Green,Wisconsin",
-    "activePer100k": -2.705627705627706,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreen,Wisconsin",
     "date": "06/14/2020",
     "deathsPer100k": 2.705627705627706,
     "lat": "ReplaceMeGreen,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1848,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreen,Wisconsin",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.1848,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.116883116883118,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.116883116883118,
+    "locale": "Green,Wisconsin",
+    "activePer100k": 8.116883116883118,
+    "long": "ReplaceMeGreen,Wisconsin",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGreen,Wisconsin",
+    "active": 3
   }]
 }

@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8292906011048915,
     "locale": "Camden,Georgia",
-    "activePer100k": -1.8292906011048915,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCamden,Georgia",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCamden,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27333,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.658581202209783,
     "locale": "Camden,Georgia",
-    "activePer100k": -3.658581202209783,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCamden,Georgia",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCamden,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27333,
     "source": "NYGithub",
@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8292906011048915,
     "locale": "Camden,Georgia",
-    "activePer100k": -1.8292906011048915,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCamden,Georgia",
     "date": "05/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCamden,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27333,
     "source": "NYGithub",
@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8292906011048915,
     "locale": "Camden,Georgia",
-    "activePer100k": -1.8292906011048915,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCamden,Georgia",
     "date": "05/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCamden,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27333,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.8292906011048915,
     "lat": "ReplaceMeCamden,Georgia",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.27333,
+    "source": "NYGithub",
+    "confirmedPer100kN": -1.8292906011048915,
+    "deaths": 0,
+    "confirmed": -1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -1.8292906011048915,
+    "locale": "Camden,Georgia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeCamden,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCamden,Georgia",
+    "active": 0
   }]
 }

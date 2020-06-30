@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.195633546288953,
     "locale": "Passaic,New Jersey",
-    "activePer100k": -2.391267092577906,
+    "activePer100k": 0.0,
     "long": "ReplaceMePassaic,New Jersey",
     "date": "06/24/2020",
     "deathsPer100k": 1.195633546288953,
     "lat": "ReplaceMePassaic,New Jersey",
-    "active": -12
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.50913,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.5978167731444765,
     "lat": "ReplaceMePassaic,New Jersey",
     "active": 22
+  }, {
+    "epidemiccontrolThreshold": 2.50913,
+    "source": "NYGithub",
+    "confirmedPer100kN": -0.19927225771482546,
+    "deaths": 1,
+    "confirmed": -1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -0.19927225771482546,
+    "locale": "Passaic,New Jersey",
+    "activePer100k": 0.0,
+    "long": "ReplaceMePassaic,New Jersey",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.19927225771482546,
+    "lat": "ReplaceMePassaic,New Jersey",
+    "active": 0
   }]
 }

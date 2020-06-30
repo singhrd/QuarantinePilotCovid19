@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6334606589257774,
     "locale": "Houston,Georgia",
-    "activePer100k": -0.6334606589257774,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Georgia",
     "date": "05/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.789315,
     "source": "NYGithub",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6334606589257774,
     "locale": "Houston,Georgia",
-    "activePer100k": -0.6334606589257774,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Georgia",
     "date": "05/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.789315,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Houston,Georgia",
-    "activePer100k": -0.6334606589257774,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Georgia",
     "date": "05/13/2020",
     "deathsPer100k": 0.6334606589257774,
     "lat": "ReplaceMeHouston,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.789315,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6334606589257774,
     "locale": "Houston,Georgia",
-    "activePer100k": -0.6334606589257774,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHouston,Georgia",
     "date": "05/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.789315,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHouston,Georgia",
     "active": 13
+  }, {
+    "epidemiccontrolThreshold": 0.789315,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.9003819767773322,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.9003819767773322,
+    "locale": "Houston,Georgia",
+    "activePer100k": 1.9003819767773322,
+    "long": "ReplaceMeHouston,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHouston,Georgia",
+    "active": 3
   }]
 }

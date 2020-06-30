@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sevier,Arkansas",
-    "activePer100k": -5.879931792791203,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSevier,Arkansas",
     "date": "04/29/2020",
     "deathsPer100k": 5.879931792791203,
     "lat": "ReplaceMeSevier,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.085035,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSevier,Arkansas",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.085035,
+    "source": "NYGithub",
+    "confirmedPer100kN": 52.91938613512083,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 52.91938613512083,
+    "locale": "Sevier,Arkansas",
+    "activePer100k": 52.91938613512083,
+    "long": "ReplaceMeSevier,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSevier,Arkansas",
+    "active": 9
   }]
 }

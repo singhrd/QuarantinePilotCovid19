@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.7352457791722693,
     "locale": "Boone,Illinois",
-    "activePer100k": -3.7352457791722693,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoone,Illinois",
     "date": "06/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Illinois",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.26772,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoone,Illinois",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.26772,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.338114447930673,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.338114447930673,
+    "locale": "Boone,Illinois",
+    "activePer100k": 9.338114447930673,
+    "long": "ReplaceMeBoone,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBoone,Illinois",
+    "active": 5
   }]
 }

@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.178033432911714,
     "locale": "Portsmouth city,Virginia",
-    "activePer100k": -3.178033432911714,
+    "activePer100k": 0.0,
     "long": "ReplaceMePortsmouth city,Virginia",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePortsmouth city,Virginia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.47199,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePortsmouth city,Virginia",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.47199,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.237377910548952,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.237377910548952,
+    "locale": "Portsmouth city,Virginia",
+    "activePer100k": 4.237377910548952,
+    "long": "ReplaceMePortsmouth city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePortsmouth city,Virginia",
+    "active": 4
   }]
 }

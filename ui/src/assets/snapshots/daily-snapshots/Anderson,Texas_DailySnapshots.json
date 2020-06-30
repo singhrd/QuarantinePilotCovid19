@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.464103230276262,
     "locale": "Anderson,Texas",
-    "activePer100k": -3.464103230276262,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAnderson,Texas",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAnderson,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.288675,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.732051615138131,
     "locale": "Anderson,Texas",
-    "activePer100k": -1.732051615138131,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAnderson,Texas",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAnderson,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.288675,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeAnderson,Texas",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAnderson,Texas",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.288675,
+    "source": "NYGithub",
+    "confirmedPer100kN": -1.732051615138131,
+    "deaths": 0,
+    "confirmed": -1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -1.732051615138131,
+    "locale": "Anderson,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeAnderson,Texas",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAnderson,Texas",
     "active": 0

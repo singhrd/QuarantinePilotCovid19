@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Catawba,North Carolina",
-    "activePer100k": -0.6267588420003636,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCatawba,North Carolina",
     "date": "04/03/2020",
     "deathsPer100k": 0.6267588420003636,
     "lat": "ReplaceMeCatawba,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.797755,
     "source": "NYGithub",
@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6267588420003636,
     "locale": "Catawba,North Carolina",
-    "activePer100k": -0.6267588420003636,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCatawba,North Carolina",
     "date": "04/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCatawba,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.797755,
     "source": "NYGithub",
@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6267588420003636,
     "locale": "Catawba,North Carolina",
-    "activePer100k": -0.6267588420003636,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCatawba,North Carolina",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCatawba,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.797755,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCatawba,North Carolina",
     "active": 26
+  }, {
+    "epidemiccontrolThreshold": 0.797755,
+    "source": "NYGithub",
+    "confirmedPer100kN": 21.30980062801236,
+    "deaths": 0,
+    "confirmed": 34,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 21.30980062801236,
+    "locale": "Catawba,North Carolina",
+    "activePer100k": 21.30980062801236,
+    "long": "ReplaceMeCatawba,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCatawba,North Carolina",
+    "active": 34
   }]
 }

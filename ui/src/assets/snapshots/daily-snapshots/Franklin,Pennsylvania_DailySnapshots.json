@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6450489269611099,
     "locale": "Franklin,Pennsylvania",
-    "activePer100k": -0.6450489269611099,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Pennsylvania",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.775135,
     "source": "NYGithub",
@@ -2313,12 +2313,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6450489269611099,
     "locale": "Franklin,Pennsylvania",
-    "activePer100k": -0.6450489269611099,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Pennsylvania",
     "date": "06/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.775135,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Pennsylvania",
     "active": 10
+  }, {
+    "epidemiccontrolThreshold": 0.775135,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.6450489269611099,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.6450489269611099,
+    "locale": "Franklin,Pennsylvania",
+    "activePer100k": 0.6450489269611099,
+    "long": "ReplaceMeFranklin,Pennsylvania",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFranklin,Pennsylvania",
+    "active": 1
   }]
 }

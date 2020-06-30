@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.557098813490704,
     "locale": "Clay,Minnesota",
-    "activePer100k": -4.671296440472112,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClay,Minnesota",
     "date": "05/31/2020",
     "deathsPer100k": 3.114197626981408,
     "lat": "ReplaceMeClay,Minnesota",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.32111,
     "source": "NYGithub",
@@ -2313,12 +2313,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.671296440472112,
     "locale": "Clay,Minnesota",
-    "activePer100k": -4.671296440472112,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClay,Minnesota",
     "date": "06/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClay,Minnesota",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.32111,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Clay,Minnesota",
-    "activePer100k": -1.557098813490704,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClay,Minnesota",
     "date": "06/16/2020",
     "deathsPer100k": 1.557098813490704,
     "lat": "ReplaceMeClay,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.32111,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClay,Minnesota",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.32111,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.557098813490704,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.557098813490704,
+    "locale": "Clay,Minnesota",
+    "activePer100k": 1.557098813490704,
+    "long": "ReplaceMeClay,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeClay,Minnesota",
+    "active": 1
   }]
 }

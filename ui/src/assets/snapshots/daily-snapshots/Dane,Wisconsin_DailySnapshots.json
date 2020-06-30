@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.18291734879594657,
     "locale": "Dane,Wisconsin",
-    "activePer100k": -0.18291734879594657,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDane,Wisconsin",
     "date": "04/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDane,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.733475,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDane,Wisconsin",
     "active": 84
+  }, {
+    "epidemiccontrolThreshold": 2.733475,
+    "source": "NYGithub",
+    "confirmedPer100kN": 21.950081855513588,
+    "deaths": 0,
+    "confirmed": 120,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 21.950081855513588,
+    "locale": "Dane,Wisconsin",
+    "activePer100k": 21.950081855513588,
+    "long": "ReplaceMeDane,Wisconsin",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDane,Wisconsin",
+    "active": 120
   }]
 }

@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7729468599033816,
     "locale": "Washington,Tennessee",
-    "activePer100k": -0.7729468599033816,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Tennessee",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.646875,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7729468599033816,
     "locale": "Washington,Tennessee",
-    "activePer100k": -0.7729468599033816,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Tennessee",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.646875,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.5458937198067633,
     "locale": "Washington,Tennessee",
-    "activePer100k": -1.5458937198067633,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Tennessee",
     "date": "05/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Tennessee",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.646875,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Tennessee",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.646875,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Washington,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeWashington,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWashington,Tennessee",
+    "active": 0
   }]
 }

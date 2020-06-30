@@ -1033,12 +1033,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.24798327600786602,
     "locale": "Manatee,Florida",
-    "activePer100k": -0.24798327600786602,
+    "activePer100k": 0.0,
     "long": "ReplaceMeManatee,Florida",
     "date": "03/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeManatee,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.016265,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.24798327600786602,
     "lat": "ReplaceMeManatee,Florida",
     "active": 273
+  }, {
+    "epidemiccontrolThreshold": 2.016265,
+    "source": "NYGithub",
+    "confirmedPer100kN": 23.55841122074727,
+    "deaths": 1,
+    "confirmed": 95,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 23.55841122074727,
+    "locale": "Manatee,Florida",
+    "activePer100k": 23.310427944739406,
+    "long": "ReplaceMeManatee,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.24798327600786602,
+    "lat": "ReplaceMeManatee,Florida",
+    "active": 94
   }]
 }

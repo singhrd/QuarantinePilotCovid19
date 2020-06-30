@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.019514249613927,
     "locale": "Jefferson,Florida",
-    "activePer100k": -7.019514249613927,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Florida",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJefferson,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07123,
     "source": "NYGithub",
@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jefferson,Florida",
-    "activePer100k": -7.019514249613927,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Florida",
     "date": "05/23/2020",
     "deathsPer100k": 7.019514249613927,
     "lat": "ReplaceMeJefferson,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07123,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jefferson,Florida",
-    "activePer100k": -7.019514249613927,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Florida",
     "date": "06/09/2020",
     "deathsPer100k": 7.019514249613927,
     "lat": "ReplaceMeJefferson,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07123,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJefferson,Florida",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.07123,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.039028499227854,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.039028499227854,
+    "locale": "Jefferson,Florida",
+    "activePer100k": 14.039028499227854,
+    "long": "ReplaceMeJefferson,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeJefferson,Florida",
+    "active": 2
   }]
 }

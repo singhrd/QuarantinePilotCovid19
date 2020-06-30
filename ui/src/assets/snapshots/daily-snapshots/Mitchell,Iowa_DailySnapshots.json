@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.446438692612885,
     "locale": "Mitchell,Iowa",
-    "activePer100k": -9.446438692612885,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMitchell,Iowa",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMitchell,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05293,
     "source": "NYGithub",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.446438692612885,
     "locale": "Mitchell,Iowa",
-    "activePer100k": -9.446438692612885,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMitchell,Iowa",
     "date": "05/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMitchell,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05293,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.446438692612885,
     "locale": "Mitchell,Iowa",
-    "activePer100k": -9.446438692612885,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMitchell,Iowa",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMitchell,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05293,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.446438692612885,
     "locale": "Mitchell,Iowa",
-    "activePer100k": -9.446438692612885,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMitchell,Iowa",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMitchell,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05293,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMitchell,Iowa",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.05293,
+    "source": "NYGithub",
+    "confirmedPer100kN": 47.23219346306443,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 47.23219346306443,
+    "locale": "Mitchell,Iowa",
+    "activePer100k": 47.23219346306443,
+    "long": "ReplaceMeMitchell,Iowa",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMitchell,Iowa",
+    "active": 5
   }]
 }

@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.683411152256749,
     "locale": "Graves,Kentucky",
-    "activePer100k": -2.683411152256749,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGraves,Kentucky",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGraves,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18633,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.366822304513498,
     "locale": "Graves,Kentucky",
-    "activePer100k": -8.050233456770247,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGraves,Kentucky",
     "date": "05/20/2020",
     "deathsPer100k": 2.683411152256749,
     "lat": "ReplaceMeGraves,Kentucky",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18633,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.683411152256749,
     "locale": "Graves,Kentucky",
-    "activePer100k": -2.683411152256749,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGraves,Kentucky",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGraves,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18633,
     "source": "NYGithub",
@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Graves,Kentucky",
-    "activePer100k": -2.683411152256749,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGraves,Kentucky",
     "date": "06/05/2020",
     "deathsPer100k": 2.683411152256749,
     "lat": "ReplaceMeGraves,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18633,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Graves,Kentucky",
-    "activePer100k": -2.683411152256749,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGraves,Kentucky",
     "date": "06/23/2020",
     "deathsPer100k": 2.683411152256749,
     "lat": "ReplaceMeGraves,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18633,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGraves,Kentucky",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.18633,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.050233456770247,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.050233456770247,
+    "locale": "Graves,Kentucky",
+    "activePer100k": 8.050233456770247,
+    "long": "ReplaceMeGraves,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGraves,Kentucky",
+    "active": 3
   }]
 }

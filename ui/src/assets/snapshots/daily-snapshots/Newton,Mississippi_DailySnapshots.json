@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.515653249595584,
     "locale": "Newton,Mississippi",
-    "activePer100k": -9.515653249595584,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNewton,Mississippi",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNewton,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10509,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.757826624797792,
     "locale": "Newton,Mississippi",
-    "activePer100k": -4.757826624797792,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNewton,Mississippi",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNewton,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10509,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.515653249595584,
     "locale": "Newton,Mississippi",
-    "activePer100k": -9.515653249595584,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNewton,Mississippi",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNewton,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10509,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.757826624797792,
     "locale": "Newton,Mississippi",
-    "activePer100k": -4.757826624797792,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNewton,Mississippi",
     "date": "06/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNewton,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10509,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNewton,Mississippi",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.10509,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Newton,Mississippi",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeNewton,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNewton,Mississippi",
+    "active": 0
   }]
 }

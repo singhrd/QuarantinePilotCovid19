@@ -1033,12 +1033,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9670899296925621,
     "locale": "Fond du Lac,Wisconsin",
-    "activePer100k": -0.9670899296925621,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFond du Lac,Wisconsin",
     "date": "03/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFond du Lac,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.517015,
     "source": "NYGithub",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Fond du Lac,Wisconsin",
-    "activePer100k": -0.9670899296925621,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFond du Lac,Wisconsin",
     "date": "04/15/2020",
     "deathsPer100k": 0.9670899296925621,
     "lat": "ReplaceMeFond du Lac,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.517015,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Fond du Lac,Wisconsin",
-    "activePer100k": -0.9670899296925621,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFond du Lac,Wisconsin",
     "date": "05/21/2020",
     "deathsPer100k": 0.9670899296925621,
     "lat": "ReplaceMeFond du Lac,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.517015,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.9670899296925621,
     "long": "ReplaceMeFond du Lac,Wisconsin",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFond du Lac,Wisconsin",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.517015,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.9670899296925621,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.9670899296925621,
+    "locale": "Fond du Lac,Wisconsin",
+    "activePer100k": 0.9670899296925621,
+    "long": "ReplaceMeFond du Lac,Wisconsin",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFond du Lac,Wisconsin",
     "active": 1

@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5443213673352747,
     "locale": "Mercer,New Jersey",
-    "activePer100k": -0.816482051002912,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMercer,New Jersey",
     "date": "06/27/2020",
     "deathsPer100k": 0.27216068366763735,
     "lat": "ReplaceMeMercer,New Jersey",
-    "active": -3
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 1.83715,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.9051247856734614,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.9051247856734614,
+    "locale": "Mercer,New Jersey",
+    "activePer100k": 1.9051247856734614,
+    "long": "ReplaceMeMercer,New Jersey",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMercer,New Jersey",
+    "active": 7
   }]
 }

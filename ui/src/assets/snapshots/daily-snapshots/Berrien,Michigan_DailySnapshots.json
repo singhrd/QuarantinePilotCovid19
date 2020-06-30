@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6518862328146492,
     "locale": "Berrien,Michigan",
-    "activePer100k": -0.6518862328146492,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBerrien,Michigan",
     "date": "06/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBerrien,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.767005,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 3.259431164073246,
     "long": "ReplaceMeBerrien,Michigan",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBerrien,Michigan",
+    "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.767005,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.259431164073246,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.259431164073246,
+    "locale": "Berrien,Michigan",
+    "activePer100k": 3.259431164073246,
+    "long": "ReplaceMeBerrien,Michigan",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBerrien,Michigan",
     "active": 5

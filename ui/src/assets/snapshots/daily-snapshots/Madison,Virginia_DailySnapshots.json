@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.540909433677701,
     "locale": "Madison,Virginia",
-    "activePer100k": -7.540909433677701,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Virginia",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.066305,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Virginia",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMadison,Virginia",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.066305,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Madison,Virginia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMadison,Virginia",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Virginia",
     "active": 0

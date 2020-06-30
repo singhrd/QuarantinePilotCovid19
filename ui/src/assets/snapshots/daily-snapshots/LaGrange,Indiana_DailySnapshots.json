@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "LaGrange,Indiana",
-    "activePer100k": -2.5243600747210584,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaGrange,Indiana",
     "date": "04/07/2020",
     "deathsPer100k": 2.5243600747210584,
     "lat": "ReplaceMeLaGrange,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.19807,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.5243600747210584,
     "locale": "LaGrange,Indiana",
-    "activePer100k": -2.5243600747210584,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaGrange,Indiana",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaGrange,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.19807,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaGrange,Indiana",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.19807,
+    "source": "NYGithub",
+    "confirmedPer100kN": 22.719240672489523,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 22.719240672489523,
+    "locale": "LaGrange,Indiana",
+    "activePer100k": 22.719240672489523,
+    "long": "ReplaceMeLaGrange,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLaGrange,Indiana",
+    "active": 9
   }]
 }

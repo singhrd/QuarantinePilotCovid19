@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.21194253813905975,
     "locale": "Seminole,Florida",
-    "activePer100k": -0.21194253813905975,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSeminole,Florida",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSeminole,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.35913,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.21194253813905975,
     "locale": "Seminole,Florida",
-    "activePer100k": -0.21194253813905975,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSeminole,Florida",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSeminole,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.35913,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Seminole,Florida",
-    "activePer100k": -0.4238850762781195,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSeminole,Florida",
     "date": "05/08/2020",
     "deathsPer100k": 0.4238850762781195,
     "lat": "ReplaceMeSeminole,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.35913,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSeminole,Florida",
     "active": 236
+  }, {
+    "epidemiccontrolThreshold": 2.35913,
+    "source": "NYGithub",
+    "confirmedPer100kN": 34.758576254805796,
+    "deaths": 0,
+    "confirmed": 164,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 34.758576254805796,
+    "locale": "Seminole,Florida",
+    "activePer100k": 34.758576254805796,
+    "long": "ReplaceMeSeminole,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSeminole,Florida",
+    "active": 164
   }]
 }

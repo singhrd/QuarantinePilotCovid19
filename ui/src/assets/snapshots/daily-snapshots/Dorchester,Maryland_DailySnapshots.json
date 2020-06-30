@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.131949011870087,
     "locale": "Dorchester,Maryland",
-    "activePer100k": -3.131949011870087,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDorchester,Maryland",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDorchester,Maryland",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.159645,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Dorchester,Maryland",
-    "activePer100k": -3.131949011870087,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDorchester,Maryland",
     "date": "06/23/2020",
     "deathsPer100k": 3.131949011870087,
     "lat": "ReplaceMeDorchester,Maryland",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.159645,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.263898023740174,
     "locale": "Dorchester,Maryland",
-    "activePer100k": -6.263898023740174,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDorchester,Maryland",
     "date": "06/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDorchester,Maryland",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.159645,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDorchester,Maryland",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.159645,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.263898023740174,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.263898023740174,
+    "locale": "Dorchester,Maryland",
+    "activePer100k": 6.263898023740174,
+    "long": "ReplaceMeDorchester,Maryland",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDorchester,Maryland",
+    "active": 2
   }]
 }

@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4816004546308292,
     "locale": "York,Maine",
-    "activePer100k": -0.4816004546308292,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYork,Maine",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYork,Maine",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.038205,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYork,Maine",
     "active": 13
+  }, {
+    "epidemiccontrolThreshold": 1.038205,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.9632009092616584,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.9632009092616584,
+    "locale": "York,Maine",
+    "activePer100k": 0.9632009092616584,
+    "long": "ReplaceMeYork,Maine",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeYork,Maine",
+    "active": 2
   }]
 }

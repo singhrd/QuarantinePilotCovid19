@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Herkimer,New York",
-    "activePer100k": 3.2616317943867315,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHerkimer,New York",
     "date": "04/08/2020",
     "deathsPer100k": -3.2616317943867315,
     "lat": "ReplaceMeHerkimer,New York",
-    "active": 2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.306595,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHerkimer,New York",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.306595,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.523263588773463,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.523263588773463,
+    "locale": "Herkimer,New York",
+    "activePer100k": 6.523263588773463,
+    "long": "ReplaceMeHerkimer,New York",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHerkimer,New York",
+    "active": 4
   }]
 }

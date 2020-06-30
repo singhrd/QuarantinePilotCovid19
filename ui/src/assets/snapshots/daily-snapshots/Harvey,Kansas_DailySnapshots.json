@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Harvey,Kansas",
-    "activePer100k": -2.9045281594005057,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHarvey,Kansas",
     "date": "05/15/2020",
     "deathsPer100k": 2.9045281594005057,
     "lat": "ReplaceMeHarvey,Kansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.172145,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Harvey,Kansas",
-    "activePer100k": -2.9045281594005057,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHarvey,Kansas",
     "date": "05/20/2020",
     "deathsPer100k": 2.9045281594005057,
     "lat": "ReplaceMeHarvey,Kansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.172145,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHarvey,Kansas",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.172145,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.9045281594005057,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.9045281594005057,
+    "locale": "Harvey,Kansas",
+    "activePer100k": 2.9045281594005057,
+    "long": "ReplaceMeHarvey,Kansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHarvey,Kansas",
+    "active": 1
   }]
 }

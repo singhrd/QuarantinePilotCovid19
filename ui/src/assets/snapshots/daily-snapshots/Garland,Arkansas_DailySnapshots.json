@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0061779325055844,
     "locale": "Garland,Arkansas",
-    "activePer100k": -1.0061779325055844,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGarland,Arkansas",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGarland,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.49693,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Garland,Arkansas",
-    "activePer100k": -1.0061779325055844,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGarland,Arkansas",
     "date": "05/06/2020",
     "deathsPer100k": 1.0061779325055844,
     "lat": "ReplaceMeGarland,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.49693,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGarland,Arkansas",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.49693,
+    "source": "NYGithub",
+    "confirmedPer100kN": 23.14209244762844,
+    "deaths": 0,
+    "confirmed": 23,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 23.14209244762844,
+    "locale": "Garland,Arkansas",
+    "activePer100k": 23.14209244762844,
+    "long": "ReplaceMeGarland,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGarland,Arkansas",
+    "active": 23
   }]
 }

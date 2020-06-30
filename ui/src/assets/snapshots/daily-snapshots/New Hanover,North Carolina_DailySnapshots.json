@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "New Hanover,North Carolina",
-    "activePer100k": -0.4264883376764062,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNew Hanover,North Carolina",
     "date": "04/12/2020",
     "deathsPer100k": 0.4264883376764062,
     "lat": "ReplaceMeNew Hanover,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.172365,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "New Hanover,North Carolina",
-    "activePer100k": -0.4264883376764062,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNew Hanover,North Carolina",
     "date": "04/22/2020",
     "deathsPer100k": 0.4264883376764062,
     "lat": "ReplaceMeNew Hanover,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.172365,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "New Hanover,North Carolina",
-    "activePer100k": -0.4264883376764062,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNew Hanover,North Carolina",
     "date": "04/24/2020",
     "deathsPer100k": 0.4264883376764062,
     "lat": "ReplaceMeNew Hanover,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.172365,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNew Hanover,North Carolina",
     "active": 33
+  }, {
+    "epidemiccontrolThreshold": 1.172365,
+    "source": "NYGithub",
+    "confirmedPer100kN": 25.589300260584373,
+    "deaths": 0,
+    "confirmed": 60,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 25.589300260584373,
+    "locale": "New Hanover,North Carolina",
+    "activePer100k": 25.589300260584373,
+    "long": "ReplaceMeNew Hanover,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNew Hanover,North Carolina",
+    "active": 60
   }]
 }

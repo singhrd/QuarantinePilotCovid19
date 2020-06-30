@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Clarke,Alabama",
-    "activePer100k": -4.233341800016933,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClarke,Alabama",
     "date": "04/20/2020",
     "deathsPer100k": 4.233341800016933,
     "lat": "ReplaceMeClarke,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11811,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.233341800016933,
     "locale": "Clarke,Alabama",
-    "activePer100k": -4.233341800016933,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClarke,Alabama",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClarke,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11811,
     "source": "NYGithub",
@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.233341800016933,
     "locale": "Clarke,Alabama",
-    "activePer100k": -4.233341800016933,
+    "activePer100k": 0.0,
     "long": "ReplaceMeClarke,Alabama",
     "date": "05/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClarke,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.11811,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeClarke,Alabama",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.11811,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Clarke,Alabama",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeClarke,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeClarke,Alabama",
+    "active": 0
   }]
 }

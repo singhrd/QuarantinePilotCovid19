@@ -2105,12 +2105,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lucas,Iowa",
-    "activePer100k": -11.627906976744187,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLucas,Iowa",
     "date": "06/01/2020",
     "deathsPer100k": 11.627906976744187,
     "lat": "ReplaceMeLucas,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.043,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.627906976744187,
     "locale": "Lucas,Iowa",
-    "activePer100k": -11.627906976744187,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLucas,Iowa",
     "date": "06/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLucas,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.043,
     "source": "NYGithub",
@@ -2525,6 +2525,22 @@
     "long": "ReplaceMeLucas,Iowa",
     "date": "06/27/2020",
     "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLucas,Iowa",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.043,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 1,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Lucas,Iowa",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeLucas,Iowa",
+    "date": "06/28/2020",
+    "deathsPer100k": 11.627906976744187,
     "lat": "ReplaceMeLucas,Iowa",
     "active": 0
   }]

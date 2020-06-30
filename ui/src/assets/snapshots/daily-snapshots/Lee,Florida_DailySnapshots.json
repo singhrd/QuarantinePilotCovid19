@@ -841,12 +841,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lee,Florida",
-    "activePer100k": -0.1297728844748805,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Florida",
     "date": "03/14/2020",
     "deathsPer100k": 0.1297728844748805,
     "lat": "ReplaceMeLee,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.852885,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.1297728844748805,
     "locale": "Lee,Florida",
-    "activePer100k": -0.1297728844748805,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLee,Florida",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.852885,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLee,Florida",
     "active": 199
+  }, {
+    "epidemiccontrolThreshold": 3.852885,
+    "source": "NYGithub",
+    "confirmedPer100kN": 30.107309198172278,
+    "deaths": 4,
+    "confirmed": 232,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 30.107309198172278,
+    "locale": "Lee,Florida",
+    "activePer100k": 29.588217660272754,
+    "long": "ReplaceMeLee,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.519091537899522,
+    "lat": "ReplaceMeLee,Florida",
+    "active": 228
   }]
 }

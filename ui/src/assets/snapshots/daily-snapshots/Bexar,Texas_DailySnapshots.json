@@ -969,12 +969,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bexar,Texas",
-    "activePer100k": -0.04991130760638345,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBexar,Texas",
     "date": "03/22/2020",
     "deathsPer100k": 0.04991130760638345,
     "lat": "ReplaceMeBexar,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 10.01777,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0998226152127669,
     "lat": "ReplaceMeBexar,Texas",
     "active": 793
+  }, {
+    "epidemiccontrolThreshold": 10.01777,
+    "source": "NYGithub",
+    "confirmedPer100kN": 24.70609726515981,
+    "deaths": 2,
+    "confirmed": 495,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 24.70609726515981,
+    "locale": "Bexar,Texas",
+    "activePer100k": 24.606274649947043,
+    "long": "ReplaceMeBexar,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0998226152127669,
+    "lat": "ReplaceMeBexar,Texas",
+    "active": 493
   }]
 }

@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.095076814987035,
     "locale": "Madison,Alabama",
-    "activePer100k": -5.095076814987035,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Alabama",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Alabama",
-    "active": -19
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.864545,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8044858128926897,
     "locale": "Madison,Alabama",
-    "activePer100k": -0.8044858128926897,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Alabama",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Alabama",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.864545,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5363238752617931,
     "locale": "Madison,Alabama",
-    "activePer100k": -0.5363238752617931,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Alabama",
     "date": "05/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.864545,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.2681619376308966,
     "locale": "Madison,Alabama",
-    "activePer100k": -0.2681619376308966,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Alabama",
     "date": "05/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.864545,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Alabama",
     "active": 32
+  }, {
+    "epidemiccontrolThreshold": 1.864545,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.413457438678069,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.413457438678069,
+    "locale": "Madison,Alabama",
+    "activePer100k": 2.413457438678069,
+    "long": "ReplaceMeMadison,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMadison,Alabama",
+    "active": 9
   }]
 }

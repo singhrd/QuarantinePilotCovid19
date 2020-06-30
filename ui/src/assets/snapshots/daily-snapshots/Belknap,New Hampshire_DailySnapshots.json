@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.631241537934522,
     "locale": "Belknap,New Hampshire",
-    "activePer100k": -1.631241537934522,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBelknap,New Hampshire",
     "date": "04/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBelknap,New Hampshire",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.306515,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.631241537934522,
     "locale": "Belknap,New Hampshire",
-    "activePer100k": -1.631241537934522,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBelknap,New Hampshire",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBelknap,New Hampshire",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.306515,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBelknap,New Hampshire",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.306515,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Belknap,New Hampshire",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBelknap,New Hampshire",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBelknap,New Hampshire",
+    "active": 0
   }]
 }

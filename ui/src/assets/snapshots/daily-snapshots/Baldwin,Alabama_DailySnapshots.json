@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4479604361342806,
     "locale": "Baldwin,Alabama",
-    "activePer100k": -0.4479604361342806,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaldwin,Alabama",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBaldwin,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.11617,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.4479604361342806,
     "lat": "ReplaceMeBaldwin,Alabama",
     "active": 39
+  }, {
+    "epidemiccontrolThreshold": 1.11617,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.959208722685611,
+    "deaths": 0,
+    "confirmed": 20,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.959208722685611,
+    "locale": "Baldwin,Alabama",
+    "activePer100k": 8.959208722685611,
+    "long": "ReplaceMeBaldwin,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBaldwin,Alabama",
+    "active": 20
   }]
 }

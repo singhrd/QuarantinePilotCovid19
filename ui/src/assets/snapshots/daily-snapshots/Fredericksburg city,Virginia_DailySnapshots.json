@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.444000551040088,
     "locale": "Fredericksburg city,Virginia",
-    "activePer100k": -3.444000551040088,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFredericksburg city,Virginia",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFredericksburg city,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14518,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -41.328006612481055,
     "locale": "Fredericksburg city,Virginia",
-    "activePer100k": -41.328006612481055,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFredericksburg city,Virginia",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFredericksburg city,Virginia",
-    "active": -12
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14518,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.332001653120264,
     "locale": "Fredericksburg city,Virginia",
-    "activePer100k": -10.332001653120264,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFredericksburg city,Virginia",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFredericksburg city,Virginia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14518,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFredericksburg city,Virginia",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.14518,
+    "source": "NYGithub",
+    "confirmedPer100kN": 24.108003857280618,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 24.108003857280618,
+    "locale": "Fredericksburg city,Virginia",
+    "activePer100k": 24.108003857280618,
+    "long": "ReplaceMeFredericksburg city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFredericksburg city,Virginia",
+    "active": 7
   }]
 }

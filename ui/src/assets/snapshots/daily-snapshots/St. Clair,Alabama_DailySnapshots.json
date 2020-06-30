@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1171686477790688,
     "locale": "St. Clair,Alabama",
-    "activePer100k": -1.1171686477790688,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Clair,Alabama",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Clair,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.44756,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Clair,Alabama",
     "active": 10
+  }, {
+    "epidemiccontrolThreshold": 0.44756,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.2343372955581375,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.2343372955581375,
+    "locale": "St. Clair,Alabama",
+    "activePer100k": 2.2343372955581375,
+    "long": "ReplaceMeSt. Clair,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSt. Clair,Alabama",
+    "active": 2
   }]
 }

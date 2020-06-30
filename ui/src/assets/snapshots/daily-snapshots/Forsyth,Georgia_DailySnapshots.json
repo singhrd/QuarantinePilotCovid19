@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.40941322896025417,
     "locale": "Forsyth,Georgia",
-    "activePer100k": -0.8188264579205083,
+    "activePer100k": 0.0,
     "long": "ReplaceMeForsyth,Georgia",
     "date": "04/08/2020",
     "deathsPer100k": 0.40941322896025417,
     "lat": "ReplaceMeForsyth,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.22126,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.0470661448012706,
     "locale": "Forsyth,Georgia",
-    "activePer100k": -2.456479373761525,
+    "activePer100k": 0.0,
     "long": "ReplaceMeForsyth,Georgia",
     "date": "05/12/2020",
     "deathsPer100k": 0.40941322896025417,
     "lat": "ReplaceMeForsyth,Georgia",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.22126,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Forsyth,Georgia",
-    "activePer100k": -0.40941322896025417,
+    "activePer100k": 0.0,
     "long": "ReplaceMeForsyth,Georgia",
     "date": "06/11/2020",
     "deathsPer100k": 0.40941322896025417,
     "lat": "ReplaceMeForsyth,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.22126,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeForsyth,Georgia",
     "active": 22
+  }, {
+    "epidemiccontrolThreshold": 1.22126,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.094132289602541,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.094132289602541,
+    "locale": "Forsyth,Georgia",
+    "activePer100k": 4.094132289602541,
+    "long": "ReplaceMeForsyth,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeForsyth,Georgia",
+    "active": 10
   }]
 }

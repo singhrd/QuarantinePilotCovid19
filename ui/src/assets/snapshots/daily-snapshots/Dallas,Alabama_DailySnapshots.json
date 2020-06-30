@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.6884611248521346,
     "locale": "Dallas,Alabama",
-    "activePer100k": -2.6884611248521346,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDallas,Alabama",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDallas,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18598,
     "source": "NYGithub",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.6884611248521346,
     "locale": "Dallas,Alabama",
-    "activePer100k": -2.6884611248521346,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDallas,Alabama",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDallas,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18598,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.6884611248521346,
     "locale": "Dallas,Alabama",
-    "activePer100k": -2.6884611248521346,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDallas,Alabama",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDallas,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.18598,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDallas,Alabama",
     "active": 17
+  }, {
+    "epidemiccontrolThreshold": 0.18598,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.065383374556404,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.065383374556404,
+    "locale": "Dallas,Alabama",
+    "activePer100k": 8.065383374556404,
+    "long": "ReplaceMeDallas,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDallas,Alabama",
+    "active": 3
   }]
 }

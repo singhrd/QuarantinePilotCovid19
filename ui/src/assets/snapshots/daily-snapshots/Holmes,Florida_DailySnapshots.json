@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.09761941173472,
     "locale": "Holmes,Florida",
-    "activePer100k": -5.09761941173472,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHolmes,Florida",
     "date": "05/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHolmes,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.098085,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.19523882346944,
     "locale": "Holmes,Florida",
-    "activePer100k": -10.19523882346944,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHolmes,Florida",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHolmes,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.098085,
     "source": "NYGithub",
@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.19523882346944,
     "locale": "Holmes,Florida",
-    "activePer100k": -10.19523882346944,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHolmes,Florida",
     "date": "05/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHolmes,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.098085,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHolmes,Florida",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.098085,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Holmes,Florida",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeHolmes,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHolmes,Florida",
+    "active": 0
   }]
 }

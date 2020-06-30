@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.2594524119947845,
     "locale": "Kleberg,Texas",
-    "activePer100k": -3.2594524119947845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKleberg,Texas",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKleberg,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1534,
     "source": "NYGithub",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Kleberg,Texas",
-    "activePer100k": -3.2594524119947845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKleberg,Texas",
     "date": "04/13/2020",
     "deathsPer100k": 3.2594524119947845,
     "lat": "ReplaceMeKleberg,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1534,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.2594524119947845,
     "locale": "Kleberg,Texas",
-    "activePer100k": -3.2594524119947845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKleberg,Texas",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKleberg,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.1534,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKleberg,Texas",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.1534,
+    "source": "NYGithub",
+    "confirmedPer100kN": 32.59452411994785,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 32.59452411994785,
+    "locale": "Kleberg,Texas",
+    "activePer100k": 32.59452411994785,
+    "long": "ReplaceMeKleberg,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeKleberg,Texas",
+    "active": 10
   }]
 }

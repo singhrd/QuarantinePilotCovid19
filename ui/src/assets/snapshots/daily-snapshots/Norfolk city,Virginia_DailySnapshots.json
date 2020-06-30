@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8239200467986586,
     "locale": "Norfolk city,Virginia",
-    "activePer100k": -0.8239200467986586,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNorfolk city,Virginia",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNorfolk city,Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.21371,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.4119600233993293,
     "lat": "ReplaceMeNorfolk city,Virginia",
     "active": 19
+  }, {
+    "epidemiccontrolThreshold": 1.21371,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.355480304191281,
+    "deaths": 0,
+    "confirmed": 13,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.355480304191281,
+    "locale": "Norfolk city,Virginia",
+    "activePer100k": 5.355480304191281,
+    "long": "ReplaceMeNorfolk city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNorfolk city,Virginia",
+    "active": 13
   }]
 }

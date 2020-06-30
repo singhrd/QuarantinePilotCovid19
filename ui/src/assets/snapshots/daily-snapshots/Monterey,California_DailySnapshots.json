@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Monterey,California",
-    "activePer100k": -0.2303823656122066,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMonterey,California",
     "date": "05/02/2020",
     "deathsPer100k": 0.2303823656122066,
     "lat": "ReplaceMeMonterey,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.170305,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMonterey,California",
     "active": 20
+  }, {
+    "epidemiccontrolThreshold": 2.170305,
+    "source": "NYGithub",
+    "confirmedPer100kN": 22.807854195608453,
+    "deaths": 1,
+    "confirmed": 99,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 22.807854195608453,
+    "locale": "Monterey,California",
+    "activePer100k": 22.577471829996245,
+    "long": "ReplaceMeMonterey,California",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.2303823656122066,
+    "lat": "ReplaceMeMonterey,California",
+    "active": 98
   }]
 }

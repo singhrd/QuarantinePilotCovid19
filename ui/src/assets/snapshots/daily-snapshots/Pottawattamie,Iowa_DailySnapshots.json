@@ -1033,12 +1033,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0728923030706177,
     "locale": "Pottawattamie,Iowa",
-    "activePer100k": -1.0728923030706177,
+    "activePer100k": 0.0,
     "long": "ReplaceMePottawattamie,Iowa",
     "date": "03/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePottawattamie,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.46603,
     "source": "NYGithub",
@@ -1193,12 +1193,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0728923030706177,
     "locale": "Pottawattamie,Iowa",
-    "activePer100k": -1.0728923030706177,
+    "activePer100k": 0.0,
     "long": "ReplaceMePottawattamie,Iowa",
     "date": "04/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePottawattamie,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.46603,
     "source": "NYGithub",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Pottawattamie,Iowa",
-    "activePer100k": -1.0728923030706177,
+    "activePer100k": 0.0,
     "long": "ReplaceMePottawattamie,Iowa",
     "date": "04/13/2020",
     "deathsPer100k": 1.0728923030706177,
     "lat": "ReplaceMePottawattamie,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.46603,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0728923030706177,
     "locale": "Pottawattamie,Iowa",
-    "activePer100k": -1.0728923030706177,
+    "activePer100k": 0.0,
     "long": "ReplaceMePottawattamie,Iowa",
     "date": "05/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePottawattamie,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.46603,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.2186769092118532,
     "locale": "Pottawattamie,Iowa",
-    "activePer100k": -3.2186769092118532,
+    "activePer100k": 0.0,
     "long": "ReplaceMePottawattamie,Iowa",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePottawattamie,Iowa",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.46603,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePottawattamie,Iowa",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.46603,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.364461515353089,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.364461515353089,
+    "locale": "Pottawattamie,Iowa",
+    "activePer100k": 5.364461515353089,
+    "long": "ReplaceMePottawattamie,Iowa",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePottawattamie,Iowa",
+    "active": 5
   }]
 }

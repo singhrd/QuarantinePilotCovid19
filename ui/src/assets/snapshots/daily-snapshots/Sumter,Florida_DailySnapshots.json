@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7551729346020238,
     "locale": "Sumter,Florida",
-    "activePer100k": -0.7551729346020238,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSumter,Florida",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSumter,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.6621,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.5103458692040477,
     "locale": "Sumter,Florida",
-    "activePer100k": -1.5103458692040477,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSumter,Florida",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSumter,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.6621,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sumter,Florida",
-    "activePer100k": -0.7551729346020238,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSumter,Florida",
     "date": "05/12/2020",
     "deathsPer100k": 0.7551729346020238,
     "lat": "ReplaceMeSumter,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.6621,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Sumter,Florida",
-    "activePer100k": -0.7551729346020238,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSumter,Florida",
     "date": "05/20/2020",
     "deathsPer100k": 0.7551729346020238,
     "lat": "ReplaceMeSumter,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.6621,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.5103458692040477,
     "locale": "Sumter,Florida",
-    "activePer100k": -1.5103458692040477,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSumter,Florida",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSumter,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.6621,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7551729346020238,
     "locale": "Sumter,Florida",
-    "activePer100k": -0.7551729346020238,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSumter,Florida",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSumter,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.6621,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSumter,Florida",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.6621,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.041383476816191,
+    "deaths": 0,
+    "confirmed": 8,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.041383476816191,
+    "locale": "Sumter,Florida",
+    "activePer100k": 6.041383476816191,
+    "long": "ReplaceMeSumter,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSumter,Florida",
+    "active": 8
   }]
 }

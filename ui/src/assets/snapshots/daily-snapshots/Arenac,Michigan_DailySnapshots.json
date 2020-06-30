@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.719075455217363,
     "locale": "Arenac,Michigan",
-    "activePer100k": -6.719075455217363,
+    "activePer100k": 0.0,
     "long": "ReplaceMeArenac,Michigan",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeArenac,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.074415,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.719075455217363,
     "locale": "Arenac,Michigan",
-    "activePer100k": -6.719075455217363,
+    "activePer100k": 0.0,
     "long": "ReplaceMeArenac,Michigan",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeArenac,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.074415,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.719075455217363,
     "locale": "Arenac,Michigan",
-    "activePer100k": -6.719075455217363,
+    "activePer100k": 0.0,
     "long": "ReplaceMeArenac,Michigan",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeArenac,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.074415,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Arenac,Michigan",
-    "activePer100k": -6.719075455217363,
+    "activePer100k": 0.0,
     "long": "ReplaceMeArenac,Michigan",
     "date": "06/20/2020",
     "deathsPer100k": 6.719075455217363,
     "lat": "ReplaceMeArenac,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.074415,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeArenac,Michigan",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.074415,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.719075455217363,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.719075455217363,
+    "locale": "Arenac,Michigan",
+    "activePer100k": 6.719075455217363,
+    "long": "ReplaceMeArenac,Michigan",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeArenac,Michigan",
+    "active": 1
   }]
 }

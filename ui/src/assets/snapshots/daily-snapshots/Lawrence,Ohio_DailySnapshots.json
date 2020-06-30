@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.681718043152885,
     "locale": "Lawrence,Ohio",
-    "activePer100k": -1.681718043152885,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLawrence,Ohio",
     "date": "04/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLawrence,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.297315,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.681718043152885,
     "locale": "Lawrence,Ohio",
-    "activePer100k": -1.681718043152885,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLawrence,Ohio",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLawrence,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.297315,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.681718043152885,
     "locale": "Lawrence,Ohio",
-    "activePer100k": -1.681718043152885,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLawrence,Ohio",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLawrence,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.297315,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 3.36343608630577,
     "long": "ReplaceMeLawrence,Ohio",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLawrence,Ohio",
+    "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.297315,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.36343608630577,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.36343608630577,
+    "locale": "Lawrence,Ohio",
+    "activePer100k": 3.36343608630577,
+    "long": "ReplaceMeLawrence,Ohio",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLawrence,Ohio",
     "active": 2

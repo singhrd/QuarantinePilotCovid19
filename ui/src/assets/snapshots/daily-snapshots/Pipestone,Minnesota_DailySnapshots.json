@@ -2313,12 +2313,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.957703265395574,
     "locale": "Pipestone,Minnesota",
-    "activePer100k": -10.957703265395574,
+    "activePer100k": 0.0,
     "long": "ReplaceMePipestone,Minnesota",
     "date": "06/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePipestone,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.04563,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePipestone,Minnesota",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.04563,
+    "source": "NYGithub",
+    "confirmedPer100kN": 43.8308130615823,
+    "deaths": 1,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 43.8308130615823,
+    "locale": "Pipestone,Minnesota",
+    "activePer100k": 32.873109796186725,
+    "long": "ReplaceMePipestone,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 10.957703265395574,
+    "lat": "ReplaceMePipestone,Minnesota",
+    "active": 3
   }]
 }

@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.2661336895976325,
     "locale": "Osceola,Florida",
-    "activePer100k": -0.2661336895976325,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOsceola,Florida",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOsceola,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.878755,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.532267379195265,
     "locale": "Osceola,Florida",
-    "activePer100k": -0.7984010687928974,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOsceola,Florida",
     "date": "05/05/2020",
     "deathsPer100k": 0.2661336895976325,
     "lat": "ReplaceMeOsceola,Florida",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.878755,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOsceola,Florida",
     "active": 164
+  }, {
+    "epidemiccontrolThreshold": 1.878755,
+    "source": "NYGithub",
+    "confirmedPer100kN": 48.968598885964376,
+    "deaths": 0,
+    "confirmed": 184,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 48.968598885964376,
+    "locale": "Osceola,Florida",
+    "activePer100k": 48.968598885964376,
+    "long": "ReplaceMeOsceola,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeOsceola,Florida",
+    "active": 184
   }]
 }

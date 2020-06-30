@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8253957772752034,
     "locale": "Richland,Ohio",
-    "activePer100k": -0.8253957772752034,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRichland,Ohio",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichland,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.60577,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6507915545504068,
     "locale": "Richland,Ohio",
-    "activePer100k": -1.6507915545504068,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRichland,Ohio",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichland,Ohio",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.60577,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichland,Ohio",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.60577,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.3015831091008137,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.3015831091008137,
+    "locale": "Richland,Ohio",
+    "activePer100k": 3.3015831091008137,
+    "long": "ReplaceMeRichland,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRichland,Ohio",
+    "active": 4
   }]
 }

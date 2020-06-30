@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.6103689797097265,
     "locale": "Adams,Ohio",
-    "activePer100k": -3.6103689797097265,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdams,Ohio",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdams,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13849,
     "source": "NYGithub",
@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Adams,Ohio",
-    "activePer100k": -3.6103689797097265,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdams,Ohio",
     "date": "05/18/2020",
     "deathsPer100k": 3.6103689797097265,
     "lat": "ReplaceMeAdams,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13849,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeAdams,Ohio",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAdams,Ohio",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.13849,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Adams,Ohio",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeAdams,Ohio",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdams,Ohio",
     "active": 0

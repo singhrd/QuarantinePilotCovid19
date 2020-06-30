@@ -1209,12 +1209,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "LaPorte,Indiana",
-    "activePer100k": -0.9100174723354688,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaPorte,Indiana",
     "date": "04/06/2020",
     "deathsPer100k": 0.9100174723354688,
     "lat": "ReplaceMeLaPorte,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.54944,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "LaPorte,Indiana",
-    "activePer100k": -0.9100174723354688,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaPorte,Indiana",
     "date": "05/27/2020",
     "deathsPer100k": 0.9100174723354688,
     "lat": "ReplaceMeLaPorte,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.54944,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.6400698893418753,
     "locale": "LaPorte,Indiana",
-    "activePer100k": -3.6400698893418753,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLaPorte,Indiana",
     "date": "06/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaPorte,Indiana",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.54944,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLaPorte,Indiana",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.54944,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.190157251019219,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.190157251019219,
+    "locale": "LaPorte,Indiana",
+    "activePer100k": 8.190157251019219,
+    "long": "ReplaceMeLaPorte,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLaPorte,Indiana",
+    "active": 9
   }]
 }

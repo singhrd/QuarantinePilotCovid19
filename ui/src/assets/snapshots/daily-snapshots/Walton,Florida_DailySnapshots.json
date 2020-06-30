@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.350056027325134,
     "locale": "Walton,Florida",
-    "activePer100k": -1.350056027325134,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWalton,Florida",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWalton,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.370355,
     "source": "NYGithub",
@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.350056027325134,
     "locale": "Walton,Florida",
-    "activePer100k": -1.350056027325134,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWalton,Florida",
     "date": "05/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWalton,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.370355,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Walton,Florida",
-    "activePer100k": -1.350056027325134,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWalton,Florida",
     "date": "05/21/2020",
     "deathsPer100k": 1.350056027325134,
     "lat": "ReplaceMeWalton,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.370355,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Walton,Florida",
-    "activePer100k": -1.350056027325134,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWalton,Florida",
     "date": "05/26/2020",
     "deathsPer100k": 1.350056027325134,
     "lat": "ReplaceMeWalton,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.370355,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWalton,Florida",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.370355,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.350056027325134,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.350056027325134,
+    "locale": "Walton,Florida",
+    "activePer100k": 1.350056027325134,
+    "long": "ReplaceMeWalton,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWalton,Florida",
+    "active": 1
   }]
 }

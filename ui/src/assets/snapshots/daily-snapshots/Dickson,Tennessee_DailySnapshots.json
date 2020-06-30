@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8536368354711947,
     "locale": "Dickson,Tennessee",
-    "activePer100k": -1.8536368354711947,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDickson,Tennessee",
     "date": "05/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDickson,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.26974,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8536368354711947,
     "locale": "Dickson,Tennessee",
-    "activePer100k": -1.8536368354711947,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDickson,Tennessee",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDickson,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.26974,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDickson,Tennessee",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.26974,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Dickson,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeDickson,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDickson,Tennessee",
+    "active": 0
   }]
 }

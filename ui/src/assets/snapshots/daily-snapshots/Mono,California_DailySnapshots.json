@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Mono,California",
-    "activePer100k": -6.923289947382996,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMono,California",
     "date": "03/31/2020",
     "deathsPer100k": 6.923289947382996,
     "lat": "ReplaceMeMono,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07222,
     "source": "NYGithub",
@@ -2105,12 +2105,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.923289947382996,
     "locale": "Mono,California",
-    "activePer100k": -6.923289947382996,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMono,California",
     "date": "06/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMono,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07222,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeMono,California",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMono,California",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.07222,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Mono,California",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMono,California",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMono,California",
     "active": 0

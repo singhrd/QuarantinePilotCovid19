@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.109341674960898,
     "locale": "Bamberg,South Carolina",
-    "activePer100k": -7.109341674960898,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBamberg,South Carolina",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBamberg,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07033,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 7.109341674960898,
     "lat": "ReplaceMeBamberg,South Carolina",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.07033,
+    "source": "NYGithub",
+    "confirmedPer100kN": 49.765391724726285,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 49.765391724726285,
+    "locale": "Bamberg,South Carolina",
+    "activePer100k": 49.765391724726285,
+    "long": "ReplaceMeBamberg,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBamberg,South Carolina",
+    "active": 7
   }]
 }

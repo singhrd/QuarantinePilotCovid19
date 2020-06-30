@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Union,Georgia",
-    "activePer100k": -4.079800905715802,
+    "activePer100k": 0.0,
     "long": "ReplaceMeUnion,Georgia",
     "date": "04/09/2020",
     "deathsPer100k": 4.079800905715802,
     "lat": "ReplaceMeUnion,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.122555,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.079800905715802,
     "locale": "Union,Georgia",
-    "activePer100k": -4.079800905715802,
+    "activePer100k": 0.0,
     "long": "ReplaceMeUnion,Georgia",
     "date": "04/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnion,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.122555,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.079800905715802,
     "locale": "Union,Georgia",
-    "activePer100k": -4.079800905715802,
+    "activePer100k": 0.0,
     "long": "ReplaceMeUnion,Georgia",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnion,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.122555,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.159601811431603,
     "locale": "Union,Georgia",
-    "activePer100k": -8.159601811431603,
+    "activePer100k": 0.0,
     "long": "ReplaceMeUnion,Georgia",
     "date": "05/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnion,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.122555,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.079800905715802,
     "locale": "Union,Georgia",
-    "activePer100k": -4.079800905715802,
+    "activePer100k": 0.0,
     "long": "ReplaceMeUnion,Georgia",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnion,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.122555,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnion,Georgia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.122555,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.079800905715802,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.079800905715802,
+    "locale": "Union,Georgia",
+    "activePer100k": 4.079800905715802,
+    "long": "ReplaceMeUnion,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeUnion,Georgia",
+    "active": 1
   }]
 }

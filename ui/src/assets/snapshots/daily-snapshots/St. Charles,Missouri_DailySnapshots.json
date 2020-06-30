@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9949704245041315,
     "locale": "St. Charles,Missouri",
-    "activePer100k": -0.9949704245041315,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Charles,Missouri",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Charles,Missouri",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.01011,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Charles,Missouri",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 2.01011,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.218565153150823,
+    "deaths": 0,
+    "confirmed": 25,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.218565153150823,
+    "locale": "St. Charles,Missouri",
+    "activePer100k": 6.218565153150823,
+    "long": "ReplaceMeSt. Charles,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSt. Charles,Missouri",
+    "active": 25
   }]
 }

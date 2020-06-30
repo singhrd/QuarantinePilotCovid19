@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6833261584086701,
     "locale": "Douglas,Georgia",
-    "activePer100k": -0.6833261584086701,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDouglas,Georgia",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDouglas,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.731715,
     "source": "NYGithub",
@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Douglas,Georgia",
-    "activePer100k": -0.6833261584086701,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDouglas,Georgia",
     "date": "05/30/2020",
     "deathsPer100k": 0.6833261584086701,
     "lat": "ReplaceMeDouglas,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.731715,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDouglas,Georgia",
     "active": 21
+  }, {
+    "epidemiccontrolThreshold": 0.731715,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.56656621772138,
+    "deaths": 0,
+    "confirmed": 14,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.56656621772138,
+    "locale": "Douglas,Georgia",
+    "activePer100k": 9.56656621772138,
+    "long": "ReplaceMeDouglas,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDouglas,Georgia",
+    "active": 14
   }]
 }

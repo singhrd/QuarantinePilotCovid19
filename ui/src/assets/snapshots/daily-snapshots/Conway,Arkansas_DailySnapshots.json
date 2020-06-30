@@ -1065,12 +1065,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Conway,Arkansas",
-    "activePer100k": -4.797083373309028,
+    "activePer100k": 0.0,
     "long": "ReplaceMeConway,Arkansas",
     "date": "03/28/2020",
     "deathsPer100k": 4.797083373309028,
     "lat": "ReplaceMeConway,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10423,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Conway,Arkansas",
-    "activePer100k": -4.797083373309028,
+    "activePer100k": 0.0,
     "long": "ReplaceMeConway,Arkansas",
     "date": "06/17/2020",
     "deathsPer100k": 4.797083373309028,
     "lat": "ReplaceMeConway,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10423,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeConway,Arkansas",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.10423,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.391250119927085,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.391250119927085,
+    "locale": "Conway,Arkansas",
+    "activePer100k": 14.391250119927085,
+    "long": "ReplaceMeConway,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeConway,Arkansas",
+    "active": 3
   }]
 }

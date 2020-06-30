@@ -1049,12 +1049,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Greenville,South Carolina",
-    "activePer100k": -0.19100664321105087,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreenville,South Carolina",
     "date": "03/27/2020",
     "deathsPer100k": 0.19100664321105087,
     "lat": "ReplaceMeGreenville,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.61771,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.19100664321105087,
     "locale": "Greenville,South Carolina",
-    "activePer100k": -0.5730199296331526,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreenville,South Carolina",
     "date": "04/24/2020",
     "deathsPer100k": 0.38201328642210175,
     "lat": "ReplaceMeGreenville,South Carolina",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.61771,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.38201328642210175,
     "lat": "ReplaceMeGreenville,South Carolina",
     "active": 153
+  }, {
+    "epidemiccontrolThreshold": 2.61771,
+    "source": "NYGithub",
+    "confirmedPer100kN": 37.246295426154916,
+    "deaths": 0,
+    "confirmed": 195,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 37.246295426154916,
+    "locale": "Greenville,South Carolina",
+    "activePer100k": 37.246295426154916,
+    "long": "ReplaceMeGreenville,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGreenville,South Carolina",
+    "active": 195
   }]
 }

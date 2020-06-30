@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.281308986978207,
     "locale": "Davis,Utah",
-    "activePer100k": -0.281308986978207,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDavis,Utah",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDavis,Utah",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.777405,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDavis,Utah",
     "active": 44
+  }, {
+    "epidemiccontrolThreshold": 1.777405,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.28319657028083,
+    "deaths": 0,
+    "confirmed": 33,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.28319657028083,
+    "locale": "Davis,Utah",
+    "activePer100k": 9.28319657028083,
+    "long": "ReplaceMeDavis,Utah",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDavis,Utah",
+    "active": 33
   }]
 }

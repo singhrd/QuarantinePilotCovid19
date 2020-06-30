@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Tipton,Indiana",
-    "activePer100k": -6.601531555320834,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTipton,Indiana",
     "date": "04/16/2020",
     "deathsPer100k": 6.601531555320834,
     "lat": "ReplaceMeTipton,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07574,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Tipton,Indiana",
-    "activePer100k": -6.601531555320834,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTipton,Indiana",
     "date": "05/27/2020",
     "deathsPer100k": 6.601531555320834,
     "lat": "ReplaceMeTipton,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07574,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTipton,Indiana",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.07574,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Tipton,Indiana",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeTipton,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTipton,Indiana",
+    "active": 0
   }]
 }

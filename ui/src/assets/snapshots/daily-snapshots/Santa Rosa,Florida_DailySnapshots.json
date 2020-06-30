@@ -713,12 +713,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Santa Rosa,Florida",
-    "activePer100k": -0.542555327079479,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSanta Rosa,Florida",
     "date": "03/06/2020",
     "deathsPer100k": 0.542555327079479,
     "lat": "ReplaceMeSanta Rosa,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.921565,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.542555327079479,
     "locale": "Santa Rosa,Florida",
-    "activePer100k": -0.542555327079479,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSanta Rosa,Florida",
     "date": "04/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSanta Rosa,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.921565,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6276659812384369,
     "locale": "Santa Rosa,Florida",
-    "activePer100k": -1.6276659812384369,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSanta Rosa,Florida",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSanta Rosa,Florida",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.921565,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.542555327079479,
     "locale": "Santa Rosa,Florida",
-    "activePer100k": -0.542555327079479,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSanta Rosa,Florida",
     "date": "05/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSanta Rosa,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.921565,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSanta Rosa,Florida",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.921565,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.106438504066453,
+    "deaths": 0,
+    "confirmed": 26,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.106438504066453,
+    "locale": "Santa Rosa,Florida",
+    "activePer100k": 14.106438504066453,
+    "long": "ReplaceMeSanta Rosa,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSanta Rosa,Florida",
+    "active": 26
   }]
 }

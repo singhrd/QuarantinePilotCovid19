@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bond,Illinois",
-    "activePer100k": -6.087909411907951,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBond,Illinois",
     "date": "04/16/2020",
     "deathsPer100k": 6.087909411907951,
     "lat": "ReplaceMeBond,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08213,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.175818823815902,
     "locale": "Bond,Illinois",
-    "activePer100k": -12.175818823815902,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBond,Illinois",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBond,Illinois",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08213,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBond,Illinois",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.08213,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Bond,Illinois",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBond,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBond,Illinois",
+    "active": 0
   }]
 }

@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7714791851195748,
     "locale": "Putnam,West Virginia",
-    "activePer100k": -1.7714791851195748,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,West Virginia",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28225,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Putnam,West Virginia",
-    "activePer100k": 1.7714791851195748,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,West Virginia",
     "date": "05/02/2020",
     "deathsPer100k": -1.7714791851195748,
     "lat": "ReplaceMePutnam,West Virginia",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28225,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.5429583702391496,
     "locale": "Putnam,West Virginia",
-    "activePer100k": -3.5429583702391496,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,West Virginia",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,West Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28225,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Putnam,West Virginia",
-    "activePer100k": -1.7714791851195748,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,West Virginia",
     "date": "05/27/2020",
     "deathsPer100k": 1.7714791851195748,
     "lat": "ReplaceMePutnam,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28225,
     "source": "NYGithub",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Putnam,West Virginia",
-    "activePer100k": 1.7714791851195748,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,West Virginia",
     "date": "05/29/2020",
     "deathsPer100k": -1.7714791851195748,
     "lat": "ReplaceMePutnam,West Virginia",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28225,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7714791851195748,
     "locale": "Putnam,West Virginia",
-    "activePer100k": -1.7714791851195748,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,West Virginia",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28225,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.5429583702391496,
     "locale": "Putnam,West Virginia",
-    "activePer100k": -3.5429583702391496,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,West Virginia",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,West Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28225,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7714791851195748,
     "locale": "Putnam,West Virginia",
-    "activePer100k": -1.7714791851195748,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,West Virginia",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.28225,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,West Virginia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.28225,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.7714791851195748,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.7714791851195748,
+    "locale": "Putnam,West Virginia",
+    "activePer100k": 1.7714791851195748,
+    "long": "ReplaceMePutnam,West Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePutnam,West Virginia",
+    "active": 1
   }]
 }

@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "McLennan,Texas",
-    "activePer100k": -0.38967668525424454,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcLennan,Texas",
     "date": "03/31/2020",
     "deathsPer100k": 0.38967668525424454,
     "lat": "ReplaceMeMcLennan,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.283115,
     "source": "NYGithub",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "McLennan,Texas",
-    "activePer100k": -0.38967668525424454,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcLennan,Texas",
     "date": "04/15/2020",
     "deathsPer100k": 0.38967668525424454,
     "lat": "ReplaceMeMcLennan,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.283115,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMcLennan,Texas",
     "active": 73
+  }, {
+    "epidemiccontrolThreshold": 1.283115,
+    "source": "NYGithub",
+    "confirmedPer100kN": 18.314804206949493,
+    "deaths": 0,
+    "confirmed": 47,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 18.314804206949493,
+    "locale": "McLennan,Texas",
+    "activePer100k": 18.314804206949493,
+    "long": "ReplaceMeMcLennan,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMcLennan,Texas",
+    "active": 47
   }]
 }

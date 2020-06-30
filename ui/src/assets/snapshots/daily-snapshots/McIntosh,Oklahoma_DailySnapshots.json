@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "McIntosh,Oklahoma",
-    "activePer100k": -5.103082261686058,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcIntosh,Oklahoma",
     "date": "05/19/2020",
     "deathsPer100k": 5.103082261686058,
     "lat": "ReplaceMeMcIntosh,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09798,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMcIntosh,Oklahoma",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.09798,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.103082261686058,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.103082261686058,
+    "locale": "McIntosh,Oklahoma",
+    "activePer100k": 5.103082261686058,
+    "long": "ReplaceMeMcIntosh,Oklahoma",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMcIntosh,Oklahoma",
+    "active": 1
   }]
 }

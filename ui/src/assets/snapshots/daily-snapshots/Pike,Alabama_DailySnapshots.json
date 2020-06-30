@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.01987074953192,
     "locale": "Pike,Alabama",
-    "activePer100k": -3.01987074953192,
+    "activePer100k": 0.0,
     "long": "ReplaceMePike,Alabama",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePike,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16557,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePike,Alabama",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.16557,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.01987074953192,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.01987074953192,
+    "locale": "Pike,Alabama",
+    "activePer100k": 3.01987074953192,
+    "long": "ReplaceMePike,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePike,Alabama",
+    "active": 1
   }]
 }

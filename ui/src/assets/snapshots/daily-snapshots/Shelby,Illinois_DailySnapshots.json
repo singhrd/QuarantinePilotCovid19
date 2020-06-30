@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.622353702505316,
     "locale": "Shelby,Illinois",
-    "activePer100k": -4.622353702505316,
+    "activePer100k": 0.0,
     "long": "ReplaceMeShelby,Illinois",
     "date": "04/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeShelby,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10817,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Shelby,Illinois",
-    "activePer100k": -4.622353702505316,
+    "activePer100k": 0.0,
     "long": "ReplaceMeShelby,Illinois",
     "date": "04/29/2020",
     "deathsPer100k": 4.622353702505316,
     "lat": "ReplaceMeShelby,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10817,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeShelby,Illinois",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.10817,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.244707405010631,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.244707405010631,
+    "locale": "Shelby,Illinois",
+    "activePer100k": 9.244707405010631,
+    "long": "ReplaceMeShelby,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeShelby,Illinois",
+    "active": 2
   }]
 }

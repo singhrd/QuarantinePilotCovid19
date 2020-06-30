@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "White,Georgia",
-    "activePer100k": -3.2469640885771804,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWhite,Georgia",
     "date": "05/14/2020",
     "deathsPer100k": 3.2469640885771804,
     "lat": "ReplaceMeWhite,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.15399,
     "source": "NYGithub",
@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.493928177154361,
     "locale": "White,Georgia",
-    "activePer100k": -9.740892265731542,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWhite,Georgia",
     "date": "05/18/2020",
     "deathsPer100k": 3.2469640885771804,
     "lat": "ReplaceMeWhite,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.15399,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "White,Georgia",
-    "activePer100k": -3.2469640885771804,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWhite,Georgia",
     "date": "06/15/2020",
     "deathsPer100k": 3.2469640885771804,
     "lat": "ReplaceMeWhite,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.15399,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWhite,Georgia",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.15399,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "White,Georgia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeWhite,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWhite,Georgia",
+    "active": 0
   }]
 }

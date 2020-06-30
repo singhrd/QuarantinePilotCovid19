@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Carbon,Pennsylvania",
-    "activePer100k": -7.790346202985261,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarbon,Pennsylvania",
     "date": "05/18/2020",
     "deathsPer100k": 7.790346202985261,
     "lat": "ReplaceMeCarbon,Pennsylvania",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.32091,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.1161384811941044,
     "locale": "Carbon,Pennsylvania",
-    "activePer100k": -3.1161384811941044,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarbon,Pennsylvania",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarbon,Pennsylvania",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.32091,
     "source": "NYGithub",
@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.790346202985261,
     "locale": "Carbon,Pennsylvania",
-    "activePer100k": -7.790346202985261,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarbon,Pennsylvania",
     "date": "06/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarbon,Pennsylvania",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.32091,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 1.5580692405970522,
     "long": "ReplaceMeCarbon,Pennsylvania",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCarbon,Pennsylvania",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.32091,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.5580692405970522,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.5580692405970522,
+    "locale": "Carbon,Pennsylvania",
+    "activePer100k": 1.5580692405970522,
+    "long": "ReplaceMeCarbon,Pennsylvania",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarbon,Pennsylvania",
     "active": 1

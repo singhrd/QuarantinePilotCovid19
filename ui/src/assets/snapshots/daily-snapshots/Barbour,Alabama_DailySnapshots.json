@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Barbour,Alabama",
-    "activePer100k": -4.050879040751843,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBarbour,Alabama",
     "date": "04/29/2020",
     "deathsPer100k": 4.050879040751843,
     "lat": "ReplaceMeBarbour,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.12343,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBarbour,Alabama",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.12343,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Barbour,Alabama",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBarbour,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBarbour,Alabama",
+    "active": 0
   }]
 }

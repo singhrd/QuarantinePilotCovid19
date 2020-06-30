@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.0648522741203874,
     "locale": "Bureau,Illinois",
-    "activePer100k": -3.0648522741203874,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBureau,Illinois",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBureau,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16314,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bureau,Illinois",
-    "activePer100k": -3.0648522741203874,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBureau,Illinois",
     "date": "05/05/2020",
     "deathsPer100k": 3.0648522741203874,
     "lat": "ReplaceMeBureau,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16314,
     "source": "NYGithub",
@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.0648522741203874,
     "locale": "Bureau,Illinois",
-    "activePer100k": -3.0648522741203874,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBureau,Illinois",
     "date": "05/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBureau,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16314,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBureau,Illinois",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.16314,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.0648522741203874,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.0648522741203874,
+    "locale": "Bureau,Illinois",
+    "activePer100k": 3.0648522741203874,
+    "long": "ReplaceMeBureau,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBureau,Illinois",
+    "active": 1
   }]
 }

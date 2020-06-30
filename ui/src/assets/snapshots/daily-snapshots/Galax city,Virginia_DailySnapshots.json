@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -15.755475027572082,
     "locale": "Galax city,Virginia",
-    "activePer100k": -15.755475027572082,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGalax city,Virginia",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGalax city,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.031735,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGalax city,Virginia",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.031735,
+    "source": "NYGithub",
+    "confirmedPer100kN": 126.04380022057666,
+    "deaths": 0,
+    "confirmed": 8,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 126.04380022057666,
+    "locale": "Galax city,Virginia",
+    "activePer100k": 126.04380022057666,
+    "long": "ReplaceMeGalax city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGalax city,Virginia",
+    "active": 8
   }]
 }

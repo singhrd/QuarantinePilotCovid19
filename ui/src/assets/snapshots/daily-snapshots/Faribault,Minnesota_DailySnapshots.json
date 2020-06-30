@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.324397568300006,
     "locale": "Faribault,Minnesota",
-    "activePer100k": -7.324397568300006,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFaribault,Minnesota",
     "date": "05/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFaribault,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.068265,
     "source": "NYGithub",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -14.648795136600013,
     "locale": "Faribault,Minnesota",
-    "activePer100k": -14.648795136600013,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFaribault,Minnesota",
     "date": "05/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFaribault,Minnesota",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.068265,
     "source": "NYGithub",
@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.324397568300006,
     "locale": "Faribault,Minnesota",
-    "activePer100k": -7.324397568300006,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFaribault,Minnesota",
     "date": "05/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFaribault,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.068265,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -21.97319270490002,
     "locale": "Faribault,Minnesota",
-    "activePer100k": -21.97319270490002,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFaribault,Minnesota",
     "date": "05/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFaribault,Minnesota",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.068265,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.324397568300006,
     "locale": "Faribault,Minnesota",
-    "activePer100k": -7.324397568300006,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFaribault,Minnesota",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFaribault,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.068265,
     "source": "NYGithub",
@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -14.648795136600013,
     "locale": "Faribault,Minnesota",
-    "activePer100k": -14.648795136600013,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFaribault,Minnesota",
     "date": "06/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFaribault,Minnesota",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.068265,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFaribault,Minnesota",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.068265,
+    "source": "NYGithub",
+    "confirmedPer100kN": 21.97319270490002,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 21.97319270490002,
+    "locale": "Faribault,Minnesota",
+    "activePer100k": 21.97319270490002,
+    "long": "ReplaceMeFaribault,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFaribault,Minnesota",
+    "active": 3
   }]
 }

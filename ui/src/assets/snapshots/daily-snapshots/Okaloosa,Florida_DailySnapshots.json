@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Okaloosa,Florida",
-    "activePer100k": -0.4745228672569731,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOkaloosa,Florida",
     "date": "05/21/2020",
     "deathsPer100k": 0.4745228672569731,
     "lat": "ReplaceMeOkaloosa,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.05369,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOkaloosa,Florida",
     "active": 22
+  }, {
+    "epidemiccontrolThreshold": 1.05369,
+    "source": "NYGithub",
+    "confirmedPer100kN": 18.031868955764978,
+    "deaths": 0,
+    "confirmed": 38,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 18.031868955764978,
+    "locale": "Okaloosa,Florida",
+    "activePer100k": 18.031868955764978,
+    "long": "ReplaceMeOkaloosa,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeOkaloosa,Florida",
+    "active": 38
   }]
 }

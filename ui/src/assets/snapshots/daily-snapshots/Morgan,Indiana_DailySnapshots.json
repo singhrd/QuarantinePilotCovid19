@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Morgan,Indiana",
-    "activePer100k": -1.4186610676843194,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Indiana",
     "date": "04/22/2020",
     "deathsPer100k": 1.4186610676843194,
     "lat": "ReplaceMeMorgan,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.352445,
     "source": "NYGithub",
@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.837322135368639,
     "locale": "Morgan,Indiana",
-    "activePer100k": -4.255983203052958,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Indiana",
     "date": "04/26/2020",
     "deathsPer100k": 1.4186610676843194,
     "lat": "ReplaceMeMorgan,Indiana",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.352445,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4186610676843194,
     "locale": "Morgan,Indiana",
-    "activePer100k": -1.4186610676843194,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Indiana",
     "date": "05/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.352445,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4186610676843194,
     "locale": "Morgan,Indiana",
-    "activePer100k": -1.4186610676843194,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Indiana",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.352445,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Morgan,Indiana",
-    "activePer100k": -1.4186610676843194,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Indiana",
     "date": "06/17/2020",
     "deathsPer100k": 1.4186610676843194,
     "lat": "ReplaceMeMorgan,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.352445,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4186610676843194,
     "locale": "Morgan,Indiana",
-    "activePer100k": -1.4186610676843194,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Indiana",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.352445,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Indiana",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.352445,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.4186610676843194,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.4186610676843194,
+    "locale": "Morgan,Indiana",
+    "activePer100k": 1.4186610676843194,
+    "long": "ReplaceMeMorgan,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMorgan,Indiana",
+    "active": 1
   }]
 }

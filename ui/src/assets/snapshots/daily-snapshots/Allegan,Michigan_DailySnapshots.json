@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.693752593558659,
     "locale": "Allegan,Michigan",
-    "activePer100k": -2.5406288903379886,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAllegan,Michigan",
     "date": "05/19/2020",
     "deathsPer100k": 0.8468762967793295,
     "lat": "ReplaceMeAllegan,Michigan",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.590405,
     "source": "NYGithub",
@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Allegan,Michigan",
-    "activePer100k": 0.8468762967793295,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAllegan,Michigan",
     "date": "05/25/2020",
     "deathsPer100k": -0.8468762967793295,
     "lat": "ReplaceMeAllegan,Michigan",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.590405,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8468762967793295,
     "locale": "Allegan,Michigan",
-    "activePer100k": -0.8468762967793295,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAllegan,Michigan",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAllegan,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.590405,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.693752593558659,
     "locale": "Allegan,Michigan",
-    "activePer100k": -1.693752593558659,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAllegan,Michigan",
     "date": "06/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAllegan,Michigan",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.590405,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAllegan,Michigan",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.590405,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.5406288903379886,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.5406288903379886,
+    "locale": "Allegan,Michigan",
+    "activePer100k": 2.5406288903379886,
+    "long": "ReplaceMeAllegan,Michigan",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAllegan,Michigan",
+    "active": 3
   }]
 }

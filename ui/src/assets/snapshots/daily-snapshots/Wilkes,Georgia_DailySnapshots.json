@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Wilkes,Georgia",
-    "activePer100k": -10.228086325048585,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWilkes,Georgia",
     "date": "05/13/2020",
     "deathsPer100k": 10.228086325048585,
     "lat": "ReplaceMeWilkes,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.048885,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWilkes,Georgia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.048885,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.228086325048585,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.228086325048585,
+    "locale": "Wilkes,Georgia",
+    "activePer100k": 10.228086325048585,
+    "long": "ReplaceMeWilkes,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWilkes,Georgia",
+    "active": 1
   }]
 }

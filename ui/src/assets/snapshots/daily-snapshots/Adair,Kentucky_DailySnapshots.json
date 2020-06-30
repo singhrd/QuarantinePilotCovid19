@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.207790855119258,
     "locale": "Adair,Kentucky",
-    "activePer100k": -5.207790855119258,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Kentucky",
     "date": "04/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdair,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09601,
     "source": "NYGithub",
@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Adair,Kentucky",
-    "activePer100k": -10.415581710238516,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Kentucky",
     "date": "04/26/2020",
     "deathsPer100k": 10.415581710238516,
     "lat": "ReplaceMeAdair,Kentucky",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09601,
     "source": "NYGithub",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -20.831163420477033,
     "locale": "Adair,Kentucky",
-    "activePer100k": -26.038954275596293,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Kentucky",
     "date": "04/28/2020",
     "deathsPer100k": 5.207790855119258,
     "lat": "ReplaceMeAdair,Kentucky",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09601,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Adair,Kentucky",
-    "activePer100k": -5.207790855119258,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Kentucky",
     "date": "05/01/2020",
     "deathsPer100k": 5.207790855119258,
     "lat": "ReplaceMeAdair,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09601,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Adair,Kentucky",
-    "activePer100k": -10.415581710238516,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Kentucky",
     "date": "05/03/2020",
     "deathsPer100k": 10.415581710238516,
     "lat": "ReplaceMeAdair,Kentucky",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09601,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.207790855119258,
     "locale": "Adair,Kentucky",
-    "activePer100k": -20.831163420477033,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Kentucky",
     "date": "05/19/2020",
     "deathsPer100k": 15.623372565357776,
     "lat": "ReplaceMeAdair,Kentucky",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09601,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Adair,Kentucky",
-    "activePer100k": -5.207790855119258,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAdair,Kentucky",
     "date": "05/26/2020",
     "deathsPer100k": 5.207790855119258,
     "lat": "ReplaceMeAdair,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09601,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAdair,Kentucky",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.09601,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.207790855119258,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.207790855119258,
+    "locale": "Adair,Kentucky",
+    "activePer100k": 5.207790855119258,
+    "long": "ReplaceMeAdair,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAdair,Kentucky",
+    "active": 1
   }]
 }

@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Monroe,Mississippi",
-    "activePer100k": -2.8367184840576423,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMonroe,Mississippi",
     "date": "04/30/2020",
     "deathsPer100k": 2.8367184840576423,
     "lat": "ReplaceMeMonroe,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17626,
     "source": "NYGithub",
@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8367184840576423,
     "locale": "Monroe,Mississippi",
-    "activePer100k": -5.6734369681152845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMonroe,Mississippi",
     "date": "05/10/2020",
     "deathsPer100k": 2.8367184840576423,
     "lat": "ReplaceMeMonroe,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17626,
     "source": "NYGithub",
@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.6734369681152845,
     "locale": "Monroe,Mississippi",
-    "activePer100k": -5.6734369681152845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMonroe,Mississippi",
     "date": "05/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMonroe,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17626,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8367184840576423,
     "locale": "Monroe,Mississippi",
-    "activePer100k": -5.6734369681152845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMonroe,Mississippi",
     "date": "05/28/2020",
     "deathsPer100k": 2.8367184840576423,
     "lat": "ReplaceMeMonroe,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17626,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMonroe,Mississippi",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.17626,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.6734369681152845,
+    "deaths": 1,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.6734369681152845,
+    "locale": "Monroe,Mississippi",
+    "activePer100k": 2.8367184840576423,
+    "long": "ReplaceMeMonroe,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 2.8367184840576423,
+    "lat": "ReplaceMeMonroe,Mississippi",
+    "active": 1
   }]
 }

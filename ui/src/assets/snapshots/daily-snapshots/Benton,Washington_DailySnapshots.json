@@ -1017,12 +1017,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9785214540828808,
     "locale": "Benton,Washington",
-    "activePer100k": -0.9785214540828808,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Washington",
     "date": "03/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBenton,Washington",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.02195,
     "source": "NYGithub",
@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Benton,Washington",
-    "activePer100k": -0.4892607270414404,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Washington",
     "date": "03/31/2020",
     "deathsPer100k": 0.4892607270414404,
     "lat": "ReplaceMeBenton,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.02195,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4892607270414404,
     "locale": "Benton,Washington",
-    "activePer100k": -0.4892607270414404,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Washington",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBenton,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.02195,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Benton,Washington",
-    "activePer100k": -0.4892607270414404,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Washington",
     "date": "06/13/2020",
     "deathsPer100k": 0.4892607270414404,
     "lat": "ReplaceMeBenton,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.02195,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Benton,Washington",
-    "activePer100k": -0.4892607270414404,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Washington",
     "date": "06/20/2020",
     "deathsPer100k": 0.4892607270414404,
     "lat": "ReplaceMeBenton,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.02195,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBenton,Washington",
     "active": 71
+  }, {
+    "epidemiccontrolThreshold": 1.02195,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.188561084201773,
+    "deaths": 0,
+    "confirmed": 29,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.188561084201773,
+    "locale": "Benton,Washington",
+    "activePer100k": 14.188561084201773,
+    "long": "ReplaceMeBenton,Washington",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBenton,Washington",
+    "active": 29
   }]
 }

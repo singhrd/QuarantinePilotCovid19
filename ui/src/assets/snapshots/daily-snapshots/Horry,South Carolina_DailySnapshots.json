@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.28242125389388306,
     "locale": "Horry,South Carolina",
-    "activePer100k": -0.28242125389388306,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHorry,South Carolina",
     "date": "04/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHorry,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.770405,
     "source": "NYGithub",
@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Horry,South Carolina",
-    "activePer100k": -0.28242125389388306,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHorry,South Carolina",
     "date": "05/25/2020",
     "deathsPer100k": 0.28242125389388306,
     "lat": "ReplaceMeHorry,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.770405,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.5648425077877661,
     "lat": "ReplaceMeHorry,South Carolina",
     "active": 219
+  }, {
+    "epidemiccontrolThreshold": 1.770405,
+    "source": "NYGithub",
+    "confirmedPer100kN": 51.965510716474476,
+    "deaths": 0,
+    "confirmed": 184,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 51.965510716474476,
+    "locale": "Horry,South Carolina",
+    "activePer100k": 51.965510716474476,
+    "long": "ReplaceMeHorry,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHorry,South Carolina",
+    "active": 184
   }]
 }

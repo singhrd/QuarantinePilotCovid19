@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.509102104479501,
     "locale": "Bergen,New Jersey",
-    "activePer100k": -9.0109225253754,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBergen,New Jersey",
     "date": "05/14/2020",
     "deathsPer100k": 1.5018204208959003,
     "lat": "ReplaceMeBergen,New Jersey",
-    "active": -84
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.66101,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4290915488274001,
     "locale": "Bergen,New Jersey",
-    "activePer100k": -3.2181866162055006,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBergen,New Jersey",
     "date": "05/20/2020",
     "deathsPer100k": 2.7890950673781005,
     "lat": "ReplaceMeBergen,New Jersey",
-    "active": -30
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.66101,
     "source": "NYGithub",
@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.2872746464822002,
     "locale": "Bergen,New Jersey",
-    "activePer100k": -1.9309119697233004,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBergen,New Jersey",
     "date": "05/30/2020",
     "deathsPer100k": 0.6436373232411001,
     "lat": "ReplaceMeBergen,New Jersey",
-    "active": -18
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.66101,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.21454577441370004,
     "lat": "ReplaceMeBergen,New Jersey",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 4.66101,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.474558089341151,
+    "deaths": 0,
+    "confirmed": 79,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.474558089341151,
+    "locale": "Bergen,New Jersey",
+    "activePer100k": 8.474558089341151,
+    "long": "ReplaceMeBergen,New Jersey",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBergen,New Jersey",
+    "active": 79
   }]
 }

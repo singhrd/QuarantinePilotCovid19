@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.6057195010648,
     "locale": "Lewis,New York",
-    "activePer100k": -7.6057195010648,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLewis,New York",
     "date": "04/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLewis,New York",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13148,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLewis,New York",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.13148,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.4085792515972,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.4085792515972,
+    "locale": "Lewis,New York",
+    "activePer100k": 11.4085792515972,
+    "long": "ReplaceMeLewis,New York",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLewis,New York",
+    "active": 3
   }]
 }

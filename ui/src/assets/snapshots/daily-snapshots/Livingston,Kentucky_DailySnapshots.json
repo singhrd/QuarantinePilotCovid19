@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.876658690450295,
     "locale": "Livingston,Kentucky",
-    "activePer100k": -10.876658690450295,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLivingston,Kentucky",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLivingston,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.04597,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLivingston,Kentucky",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.04597,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.876658690450295,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.876658690450295,
+    "locale": "Livingston,Kentucky",
+    "activePer100k": 10.876658690450295,
+    "long": "ReplaceMeLivingston,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLivingston,Kentucky",
+    "active": 1
   }]
 }

@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jackson,Mississippi",
-    "activePer100k": -0.6962963994513185,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJackson,Mississippi",
     "date": "05/02/2020",
     "deathsPer100k": 0.6962963994513185,
     "lat": "ReplaceMeJackson,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.718085,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jackson,Mississippi",
-    "activePer100k": -1.392592798902637,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJackson,Mississippi",
     "date": "05/12/2020",
     "deathsPer100k": 1.392592798902637,
     "lat": "ReplaceMeJackson,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.718085,
     "source": "NYGithub",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6962963994513185,
     "locale": "Jackson,Mississippi",
-    "activePer100k": -0.6962963994513185,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJackson,Mississippi",
     "date": "05/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJackson,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.718085,
     "source": "NYGithub",
@@ -2105,12 +2105,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6962963994513185,
     "locale": "Jackson,Mississippi",
-    "activePer100k": -0.6962963994513185,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJackson,Mississippi",
     "date": "06/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJackson,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.718085,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 1.392592798902637,
     "long": "ReplaceMeJackson,Mississippi",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeJackson,Mississippi",
+    "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.718085,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.392592798902637,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.392592798902637,
+    "locale": "Jackson,Mississippi",
+    "activePer100k": 1.392592798902637,
+    "long": "ReplaceMeJackson,Mississippi",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJackson,Mississippi",
     "active": 2

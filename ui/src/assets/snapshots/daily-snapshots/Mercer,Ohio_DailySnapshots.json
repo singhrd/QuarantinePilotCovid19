@@ -1177,12 +1177,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Mercer,Ohio",
-    "activePer100k": -2.42883513067133,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMercer,Ohio",
     "date": "04/04/2020",
     "deathsPer100k": 2.42883513067133,
     "lat": "ReplaceMeMercer,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20586,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Mercer,Ohio",
-    "activePer100k": -4.85767026134266,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMercer,Ohio",
     "date": "05/28/2020",
     "deathsPer100k": 4.85767026134266,
     "lat": "ReplaceMeMercer,Ohio",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20586,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.42883513067133,
     "locale": "Mercer,Ohio",
-    "activePer100k": -2.42883513067133,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMercer,Ohio",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMercer,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20586,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.42883513067133,
     "locale": "Mercer,Ohio",
-    "activePer100k": -2.42883513067133,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMercer,Ohio",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMercer,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20586,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMercer,Ohio",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.20586,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.42883513067133,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.42883513067133,
+    "locale": "Mercer,Ohio",
+    "activePer100k": 2.42883513067133,
+    "long": "ReplaceMeMercer,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMercer,Ohio",
+    "active": 1
   }]
 }

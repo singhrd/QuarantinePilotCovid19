@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Baker,Florida",
-    "activePer100k": -3.4234851078397806,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaker,Florida",
     "date": "04/17/2020",
     "deathsPer100k": 3.4234851078397806,
     "lat": "ReplaceMeBaker,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14605,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.4234851078397806,
     "locale": "Baker,Florida",
-    "activePer100k": -3.4234851078397806,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaker,Florida",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBaker,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14605,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Baker,Florida",
-    "activePer100k": -3.4234851078397806,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaker,Florida",
     "date": "06/03/2020",
     "deathsPer100k": 3.4234851078397806,
     "lat": "ReplaceMeBaker,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14605,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.846970215679561,
     "locale": "Baker,Florida",
-    "activePer100k": -6.846970215679561,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaker,Florida",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBaker,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.14605,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 13.693940431359122,
     "long": "ReplaceMeBaker,Florida",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBaker,Florida",
+    "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.14605,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.693940431359122,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.693940431359122,
+    "locale": "Baker,Florida",
+    "activePer100k": 13.693940431359122,
+    "long": "ReplaceMeBaker,Florida",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBaker,Florida",
     "active": 4

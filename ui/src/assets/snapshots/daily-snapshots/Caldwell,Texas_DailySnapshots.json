@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.290216196408941,
     "locale": "Caldwell,Texas",
-    "activePer100k": -2.290216196408941,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCaldwell,Texas",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCaldwell,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.21832,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCaldwell,Texas",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.21832,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.160864785635765,
+    "deaths": 1,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.160864785635765,
+    "locale": "Caldwell,Texas",
+    "activePer100k": 6.870648589226824,
+    "long": "ReplaceMeCaldwell,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 2.290216196408941,
+    "lat": "ReplaceMeCaldwell,Texas",
+    "active": 3
   }]
 }

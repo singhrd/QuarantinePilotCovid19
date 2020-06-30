@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3557126030624262,
     "locale": "Cerro Gordo,Iowa",
-    "activePer100k": -2.3557126030624262,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCerro Gordo,Iowa",
     "date": "05/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCerro Gordo,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.21225,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3557126030624262,
     "locale": "Cerro Gordo,Iowa",
-    "activePer100k": -2.3557126030624262,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCerro Gordo,Iowa",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCerro Gordo,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.21225,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3557126030624262,
     "locale": "Cerro Gordo,Iowa",
-    "activePer100k": -4.7114252061248525,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCerro Gordo,Iowa",
     "date": "05/21/2020",
     "deathsPer100k": 2.3557126030624262,
     "lat": "ReplaceMeCerro Gordo,Iowa",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.21225,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.7114252061248525,
     "locale": "Cerro Gordo,Iowa",
-    "activePer100k": -4.7114252061248525,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCerro Gordo,Iowa",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCerro Gordo,Iowa",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.21225,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCerro Gordo,Iowa",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.21225,
+    "source": "NYGithub",
+    "confirmedPer100kN": 16.489988221436985,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 16.489988221436985,
+    "locale": "Cerro Gordo,Iowa",
+    "activePer100k": 16.489988221436985,
+    "long": "ReplaceMeCerro Gordo,Iowa",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCerro Gordo,Iowa",
+    "active": 7
   }]
 }

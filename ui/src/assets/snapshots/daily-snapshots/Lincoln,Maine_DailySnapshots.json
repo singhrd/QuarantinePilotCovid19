@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.8873361436738465,
     "locale": "Lincoln,Maine",
-    "activePer100k": -2.8873361436738465,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,Maine",
     "date": "05/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLincoln,Maine",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17317,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLincoln,Maine",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.17317,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Lincoln,Maine",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeLincoln,Maine",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLincoln,Maine",
+    "active": 0
   }]
 }

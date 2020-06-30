@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Montgomery,Virginia",
-    "activePer100k": -1.014867813467296,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontgomery,Virginia",
     "date": "06/11/2020",
     "deathsPer100k": 1.014867813467296,
     "lat": "ReplaceMeMontgomery,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.492675,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.014867813467296,
     "locale": "Montgomery,Virginia",
-    "activePer100k": -1.014867813467296,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMontgomery,Virginia",
     "date": "06/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontgomery,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.492675,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMontgomery,Virginia",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.492675,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.14867813467296,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.14867813467296,
+    "locale": "Montgomery,Virginia",
+    "activePer100k": 10.14867813467296,
+    "long": "ReplaceMeMontgomery,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMontgomery,Virginia",
+    "active": 10
   }]
 }

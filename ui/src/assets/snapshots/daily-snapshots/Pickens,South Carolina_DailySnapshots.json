@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7881214337505122,
     "locale": "Pickens,South Carolina",
-    "activePer100k": -0.7881214337505122,
+    "activePer100k": 0.0,
     "long": "ReplaceMePickens,South Carolina",
     "date": "04/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePickens,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.63442,
     "source": "NYGithub",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7881214337505122,
     "locale": "Pickens,South Carolina",
-    "activePer100k": -0.7881214337505122,
+    "activePer100k": 0.0,
     "long": "ReplaceMePickens,South Carolina",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePickens,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.63442,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7881214337505122,
     "locale": "Pickens,South Carolina",
-    "activePer100k": -1.5762428675010245,
+    "activePer100k": 0.0,
     "long": "ReplaceMePickens,South Carolina",
     "date": "04/29/2020",
     "deathsPer100k": 0.7881214337505122,
     "lat": "ReplaceMePickens,South Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.63442,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePickens,South Carolina",
     "active": 67
+  }, {
+    "epidemiccontrolThreshold": 0.63442,
+    "source": "NYGithub",
+    "confirmedPer100kN": 21.27927871126383,
+    "deaths": 0,
+    "confirmed": 27,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 21.27927871126383,
+    "locale": "Pickens,South Carolina",
+    "activePer100k": 21.27927871126383,
+    "long": "ReplaceMePickens,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePickens,South Carolina",
+    "active": 27
   }]
 }

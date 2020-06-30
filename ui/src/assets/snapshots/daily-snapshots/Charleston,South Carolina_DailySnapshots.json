@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.24306889058496958,
     "locale": "Charleston,South Carolina",
-    "activePer100k": -0.24306889058496958,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCharleston,South Carolina",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCharleston,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.05703,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.24306889058496958,
     "locale": "Charleston,South Carolina",
-    "activePer100k": -0.48613778116993916,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCharleston,South Carolina",
     "date": "05/05/2020",
     "deathsPer100k": 0.24306889058496958,
     "lat": "ReplaceMeCharleston,South Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.05703,
     "source": "NYGithub",
@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.24306889058496958,
     "locale": "Charleston,South Carolina",
-    "activePer100k": -0.24306889058496958,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCharleston,South Carolina",
     "date": "05/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCharleston,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.05703,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.4584133435098174,
     "locale": "Charleston,South Carolina",
-    "activePer100k": -1.2153444529248478,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCharleston,South Carolina",
     "date": "05/13/2020",
     "deathsPer100k": -0.24306889058496958,
     "lat": "ReplaceMeCharleston,South Carolina",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.05703,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCharleston,South Carolina",
     "active": 281
+  }, {
+    "epidemiccontrolThreshold": 2.05703,
+    "source": "NYGithub",
+    "confirmedPer100kN": 58.09346484980773,
+    "deaths": 1,
+    "confirmed": 239,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 58.09346484980773,
+    "locale": "Charleston,South Carolina",
+    "activePer100k": 57.85039595922276,
+    "long": "ReplaceMeCharleston,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.24306889058496958,
+    "lat": "ReplaceMeCharleston,South Carolina",
+    "active": 238
   }]
 }

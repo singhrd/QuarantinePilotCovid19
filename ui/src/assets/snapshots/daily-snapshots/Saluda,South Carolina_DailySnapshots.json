@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.884482000683827,
     "locale": "Saluda,South Carolina",
-    "activePer100k": -4.884482000683827,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaluda,South Carolina",
     "date": "04/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaluda,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.102365,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.884482000683827,
     "locale": "Saluda,South Carolina",
-    "activePer100k": -4.884482000683827,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaluda,South Carolina",
     "date": "06/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaluda,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.102365,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaluda,South Carolina",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.102365,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.653446002051483,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.653446002051483,
+    "locale": "Saluda,South Carolina",
+    "activePer100k": 14.653446002051483,
+    "long": "ReplaceMeSaluda,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSaluda,South Carolina",
+    "active": 3
   }]
 }

@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.0445716622367613,
     "locale": "Carroll,New Hampshire",
-    "activePer100k": -2.0445716622367613,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,New Hampshire",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,New Hampshire",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.24455,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.089143324473523,
     "locale": "Carroll,New Hampshire",
-    "activePer100k": -4.089143324473523,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,New Hampshire",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,New Hampshire",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.24455,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,New Hampshire",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.24455,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.0445716622367613,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.0445716622367613,
+    "locale": "Carroll,New Hampshire",
+    "activePer100k": 2.0445716622367613,
+    "long": "ReplaceMeCarroll,New Hampshire",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCarroll,New Hampshire",
+    "active": 1
   }]
 }

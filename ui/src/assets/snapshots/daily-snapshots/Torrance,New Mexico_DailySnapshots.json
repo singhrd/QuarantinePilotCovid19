@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Torrance,New Mexico",
-    "activePer100k": -6.467886941336266,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTorrance,New Mexico",
     "date": "05/07/2020",
     "deathsPer100k": 6.467886941336266,
     "lat": "ReplaceMeTorrance,New Mexico",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.077305,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.467886941336266,
     "locale": "Torrance,New Mexico",
-    "activePer100k": -6.467886941336266,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTorrance,New Mexico",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTorrance,New Mexico",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.077305,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.467886941336266,
     "locale": "Torrance,New Mexico",
-    "activePer100k": -6.467886941336266,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTorrance,New Mexico",
     "date": "06/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTorrance,New Mexico",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.077305,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTorrance,New Mexico",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.077305,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.467886941336266,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.467886941336266,
+    "locale": "Torrance,New Mexico",
+    "activePer100k": 6.467886941336266,
+    "long": "ReplaceMeTorrance,New Mexico",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTorrance,New Mexico",
+    "active": 1
   }]
 }

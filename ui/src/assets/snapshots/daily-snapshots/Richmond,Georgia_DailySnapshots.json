@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.4937832686477251,
     "locale": "Richmond,Georgia",
-    "activePer100k": -0.4937832686477251,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRichmond,Georgia",
     "date": "06/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichmond,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.01259,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRichmond,Georgia",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 1.01259,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.813498059431753,
+    "deaths": 0,
+    "confirmed": 30,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.813498059431753,
+    "locale": "Richmond,Georgia",
+    "activePer100k": 14.813498059431753,
+    "long": "ReplaceMeRichmond,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRichmond,Georgia",
+    "active": 30
   }]
 }

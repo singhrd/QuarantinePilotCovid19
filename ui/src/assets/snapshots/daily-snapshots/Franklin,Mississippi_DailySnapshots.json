@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.96512381693245,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.96512381693245,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "04/25/2020",
     "deathsPer100k": 12.96512381693245,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.96512381693245,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "04/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.96512381693245,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.96512381693245,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "05/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.96512381693245,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "05/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "05/22/2020",
     "deathsPer100k": 12.96512381693245,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.96512381693245,
     "locale": "Franklin,Mississippi",
-    "activePer100k": -12.96512381693245,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.038565,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 12.96512381693245,
     "long": "ReplaceMeFranklin,Mississippi",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFranklin,Mississippi",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.038565,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.96512381693245,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.96512381693245,
+    "locale": "Franklin,Mississippi",
+    "activePer100k": 12.96512381693245,
+    "long": "ReplaceMeFranklin,Mississippi",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Mississippi",
     "active": 1

@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bowie,Texas",
-    "activePer100k": -1.072443562657515,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBowie,Texas",
     "date": "04/25/2020",
     "deathsPer100k": 1.072443562657515,
     "lat": "ReplaceMeBowie,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.466225,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -24.66620194112285,
     "locale": "Bowie,Texas",
-    "activePer100k": -24.66620194112285,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBowie,Texas",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBowie,Texas",
-    "active": -23
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.466225,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.434661375945091,
     "locale": "Bowie,Texas",
-    "activePer100k": -7.507104938602606,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBowie,Texas",
     "date": "05/26/2020",
     "deathsPer100k": 1.072443562657515,
     "lat": "ReplaceMeBowie,Texas",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.466225,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.072443562657515,
     "locale": "Bowie,Texas",
-    "activePer100k": -1.072443562657515,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBowie,Texas",
     "date": "06/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBowie,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.466225,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBowie,Texas",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.466225,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Bowie,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeBowie,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBowie,Texas",
+    "active": 0
   }]
 }

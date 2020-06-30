@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6359115299044626,
     "locale": "Lincoln,South Dakota",
-    "activePer100k": -1.6359115299044626,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,South Dakota",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLincoln,South Dakota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.30564,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6359115299044626,
     "locale": "Lincoln,South Dakota",
-    "activePer100k": -1.6359115299044626,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,South Dakota",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLincoln,South Dakota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.30564,
     "source": "NYGithub",
@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6359115299044626,
     "locale": "Lincoln,South Dakota",
-    "activePer100k": -1.6359115299044626,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLincoln,South Dakota",
     "date": "05/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLincoln,South Dakota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.30564,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLincoln,South Dakota",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.30564,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.2718230598089253,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.2718230598089253,
+    "locale": "Lincoln,South Dakota",
+    "activePer100k": 3.2718230598089253,
+    "long": "ReplaceMeLincoln,South Dakota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLincoln,South Dakota",
+    "active": 2
   }]
 }

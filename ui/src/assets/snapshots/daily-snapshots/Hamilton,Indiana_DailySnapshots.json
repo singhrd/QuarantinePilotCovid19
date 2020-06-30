@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.591696719929233,
     "locale": "Hamilton,Indiana",
-    "activePer100k": -0.591696719929233,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHamilton,Indiana",
     "date": "05/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHamilton,Indiana",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.690055,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.508663919221563,
     "locale": "Hamilton,Indiana",
-    "activePer100k": -6.508663919221563,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHamilton,Indiana",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHamilton,Indiana",
-    "active": -22
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.690055,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHamilton,Indiana",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 1.690055,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.7750901597876991,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.7750901597876991,
+    "locale": "Hamilton,Indiana",
+    "activePer100k": 1.7750901597876991,
+    "long": "ReplaceMeHamilton,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHamilton,Indiana",
+    "active": 6
   }]
 }

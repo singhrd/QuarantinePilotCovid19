@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Hunterdon,New Jersey",
-    "activePer100k": -1.6080919185340632,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHunterdon,New Jersey",
     "date": "05/23/2020",
     "deathsPer100k": 1.6080919185340632,
     "lat": "ReplaceMeHunterdon,New Jersey",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.621855,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHunterdon,New Jersey",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.621855,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.236413633403285,
+    "deaths": 1,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.236413633403285,
+    "locale": "Hunterdon,New Jersey",
+    "activePer100k": 6.432367674136253,
+    "long": "ReplaceMeHunterdon,New Jersey",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.8040459592670316,
+    "lat": "ReplaceMeHunterdon,New Jersey",
+    "active": 8
   }]
 }

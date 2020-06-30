@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Yadkin,North Carolina",
-    "activePer100k": -2.65484376244458,
+    "activePer100k": 0.0,
     "long": "ReplaceMeYadkin,North Carolina",
     "date": "04/15/2020",
     "deathsPer100k": 2.65484376244458,
     "lat": "ReplaceMeYadkin,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.188335,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeYadkin,North Carolina",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.188335,
+    "source": "NYGithub",
+    "confirmedPer100kN": 42.47750019911328,
+    "deaths": 0,
+    "confirmed": 16,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 42.47750019911328,
+    "locale": "Yadkin,North Carolina",
+    "activePer100k": 42.47750019911328,
+    "long": "ReplaceMeYadkin,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeYadkin,North Carolina",
+    "active": 16
   }]
 }

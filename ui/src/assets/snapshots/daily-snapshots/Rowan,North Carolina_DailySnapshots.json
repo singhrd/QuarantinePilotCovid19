@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.111367603175497,
     "locale": "Rowan,North Carolina",
-    "activePer100k": -4.926524407409493,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRowan,North Carolina",
     "date": "04/14/2020",
     "deathsPer100k": 2.815156804233996,
     "lat": "ReplaceMeRowan,North Carolina",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.71044,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRowan,North Carolina",
     "active": 10
+  }, {
+    "epidemiccontrolThreshold": 0.71044,
+    "source": "NYGithub",
+    "confirmedPer100kN": 16.890940825403977,
+    "deaths": 0,
+    "confirmed": 24,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 16.890940825403977,
+    "locale": "Rowan,North Carolina",
+    "activePer100k": 16.890940825403977,
+    "long": "ReplaceMeRowan,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRowan,North Carolina",
+    "active": 24
   }]
 }

@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Delaware,Pennsylvania",
-    "activePer100k": -0.529336723440971,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDelaware,Pennsylvania",
     "date": "05/25/2020",
     "deathsPer100k": 0.529336723440971,
     "lat": "ReplaceMeDelaware,Pennsylvania",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.833735,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Delaware,Pennsylvania",
-    "activePer100k": -1.058673446881942,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDelaware,Pennsylvania",
     "date": "06/06/2020",
     "deathsPer100k": 1.058673446881942,
     "lat": "ReplaceMeDelaware,Pennsylvania",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.833735,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeDelaware,Pennsylvania",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDelaware,Pennsylvania",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 2.833735,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Delaware,Pennsylvania",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeDelaware,Pennsylvania",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDelaware,Pennsylvania",
     "active": 0

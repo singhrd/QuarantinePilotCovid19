@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7171509032213752,
     "locale": "Newton,Missouri",
-    "activePer100k": -3.4343018064427504,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNewton,Missouri",
     "date": "04/22/2020",
     "deathsPer100k": 1.7171509032213752,
     "lat": "ReplaceMeNewton,Missouri",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.29118,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNewton,Missouri",
     "active": 16
+  }, {
+    "epidemiccontrolThreshold": 0.29118,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.151452709664126,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.151452709664126,
+    "locale": "Newton,Missouri",
+    "activePer100k": 5.151452709664126,
+    "long": "ReplaceMeNewton,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNewton,Missouri",
+    "active": 3
   }]
 }

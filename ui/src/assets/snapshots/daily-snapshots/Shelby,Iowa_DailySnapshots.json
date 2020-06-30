@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.730574471800244,
     "locale": "Shelby,Iowa",
-    "activePer100k": -8.730574471800244,
+    "activePer100k": 0.0,
     "long": "ReplaceMeShelby,Iowa",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeShelby,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05727,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.730574471800244,
     "locale": "Shelby,Iowa",
-    "activePer100k": -8.730574471800244,
+    "activePer100k": 0.0,
     "long": "ReplaceMeShelby,Iowa",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeShelby,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05727,
     "source": "NYGithub",
@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.461148943600488,
     "locale": "Shelby,Iowa",
-    "activePer100k": -17.461148943600488,
+    "activePer100k": 0.0,
     "long": "ReplaceMeShelby,Iowa",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeShelby,Iowa",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05727,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 8.730574471800244,
     "long": "ReplaceMeShelby,Iowa",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeShelby,Iowa",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.05727,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.730574471800244,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.730574471800244,
+    "locale": "Shelby,Iowa",
+    "activePer100k": 8.730574471800244,
+    "long": "ReplaceMeShelby,Iowa",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeShelby,Iowa",
     "active": 1

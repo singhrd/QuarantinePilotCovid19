@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lowndes,Alabama",
-    "activePer100k": -10.281719103434094,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLowndes,Alabama",
     "date": "04/22/2020",
     "deathsPer100k": 10.281719103434094,
     "lat": "ReplaceMeLowndes,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.04863,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lowndes,Alabama",
-    "activePer100k": -10.281719103434094,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLowndes,Alabama",
     "date": "05/13/2020",
     "deathsPer100k": 10.281719103434094,
     "lat": "ReplaceMeLowndes,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.04863,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLowndes,Alabama",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.04863,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.281719103434094,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.281719103434094,
+    "locale": "Lowndes,Alabama",
+    "activePer100k": 10.281719103434094,
+    "long": "ReplaceMeLowndes,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLowndes,Alabama",
+    "active": 1
   }]
 }

@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.405405405405405,
     "locale": "Roosevelt,New Mexico",
-    "activePer100k": -5.405405405405405,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRoosevelt,New Mexico",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRoosevelt,New Mexico",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0925,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.405405405405405,
     "locale": "Roosevelt,New Mexico",
-    "activePer100k": -5.405405405405405,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRoosevelt,New Mexico",
     "date": "06/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRoosevelt,New Mexico",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0925,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Roosevelt,New Mexico",
-    "activePer100k": -5.405405405405405,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRoosevelt,New Mexico",
     "date": "06/15/2020",
     "deathsPer100k": 5.405405405405405,
     "lat": "ReplaceMeRoosevelt,New Mexico",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0925,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.405405405405405,
     "locale": "Roosevelt,New Mexico",
-    "activePer100k": -5.405405405405405,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRoosevelt,New Mexico",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRoosevelt,New Mexico",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0925,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.405405405405405,
     "locale": "Roosevelt,New Mexico",
-    "activePer100k": -5.405405405405405,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRoosevelt,New Mexico",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRoosevelt,New Mexico",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0925,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRoosevelt,New Mexico",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.0925,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.81081081081081,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.81081081081081,
+    "locale": "Roosevelt,New Mexico",
+    "activePer100k": 10.81081081081081,
+    "long": "ReplaceMeRoosevelt,New Mexico",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRoosevelt,New Mexico",
+    "active": 2
   }]
 }

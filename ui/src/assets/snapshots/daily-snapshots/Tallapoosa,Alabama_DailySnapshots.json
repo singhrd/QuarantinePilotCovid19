@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Tallapoosa,Alabama",
-    "activePer100k": -4.954542076448584,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTallapoosa,Alabama",
     "date": "04/17/2020",
     "deathsPer100k": 4.954542076448584,
     "lat": "ReplaceMeTallapoosa,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.201835,
     "source": "NYGithub",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.954542076448584,
     "locale": "Tallapoosa,Alabama",
-    "activePer100k": -4.954542076448584,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTallapoosa,Alabama",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTallapoosa,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.201835,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Tallapoosa,Alabama",
-    "activePer100k": -2.477271038224292,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTallapoosa,Alabama",
     "date": "06/20/2020",
     "deathsPer100k": 2.477271038224292,
     "lat": "ReplaceMeTallapoosa,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.201835,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTallapoosa,Alabama",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.201835,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.909084152897169,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.909084152897169,
+    "locale": "Tallapoosa,Alabama",
+    "activePer100k": 9.909084152897169,
+    "long": "ReplaceMeTallapoosa,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTallapoosa,Alabama",
+    "active": 4
   }]
 }

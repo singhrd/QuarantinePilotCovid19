@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6346224630967038,
     "locale": "Fairfield,Ohio",
-    "activePer100k": -0.6346224630967038,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,Ohio",
     "date": "03/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.78787,
     "source": "NYGithub",
@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6346224630967038,
     "locale": "Fairfield,Ohio",
-    "activePer100k": -0.6346224630967038,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,Ohio",
     "date": "04/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.78787,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6346224630967038,
     "locale": "Fairfield,Ohio",
-    "activePer100k": -0.6346224630967038,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFairfield,Ohio",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.78787,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFairfield,Ohio",
     "active": 10
+  }, {
+    "epidemiccontrolThreshold": 0.78787,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.615469557160446,
+    "deaths": 0,
+    "confirmed": 12,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.615469557160446,
+    "locale": "Fairfield,Ohio",
+    "activePer100k": 7.615469557160446,
+    "long": "ReplaceMeFairfield,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFairfield,Ohio",
+    "active": 12
   }]
 }

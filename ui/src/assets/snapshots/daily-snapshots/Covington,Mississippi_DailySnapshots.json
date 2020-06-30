@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.365958360163125,
     "locale": "Covington,Mississippi",
-    "activePer100k": -5.365958360163125,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCovington,Mississippi",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCovington,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09318,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.73191672032625,
     "locale": "Covington,Mississippi",
-    "activePer100k": -10.73191672032625,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCovington,Mississippi",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCovington,Mississippi",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09318,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.365958360163125,
     "locale": "Covington,Mississippi",
-    "activePer100k": -5.365958360163125,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCovington,Mississippi",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCovington,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09318,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.365958360163125,
     "locale": "Covington,Mississippi",
-    "activePer100k": -5.365958360163125,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCovington,Mississippi",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCovington,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09318,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.365958360163125,
     "locale": "Covington,Mississippi",
-    "activePer100k": -5.365958360163125,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCovington,Mississippi",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCovington,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09318,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCovington,Mississippi",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.09318,
+    "source": "NYGithub",
+    "confirmedPer100kN": 21.4638334406525,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 21.4638334406525,
+    "locale": "Covington,Mississippi",
+    "activePer100k": 21.4638334406525,
+    "long": "ReplaceMeCovington,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCovington,Mississippi",
+    "active": 4
   }]
 }

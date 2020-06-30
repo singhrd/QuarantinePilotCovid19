@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -7.500500033335555,
     "locale": "Carroll,Georgia",
-    "activePer100k": -7.500500033335555,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -9
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.3335555703713577,
     "locale": "Carroll,Georgia",
-    "activePer100k": -4.166944462964198,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "05/04/2020",
     "deathsPer100k": 0.8333888925928394,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -1705,12 +1705,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6667777851856789,
     "locale": "Carroll,Georgia",
-    "activePer100k": -2.5001666777785183,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "05/07/2020",
     "deathsPer100k": 0.8333888925928394,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Carroll,Georgia",
-    "activePer100k": -0.8333888925928394,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "05/11/2020",
     "deathsPer100k": 0.8333888925928394,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8333888925928394,
     "locale": "Carroll,Georgia",
-    "activePer100k": -0.8333888925928394,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.5001666777785183,
     "locale": "Carroll,Georgia",
-    "activePer100k": -2.5001666777785183,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.6667777851856789,
     "locale": "Carroll,Georgia",
-    "activePer100k": -1.6667777851856789,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "06/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Carroll,Georgia",
-    "activePer100k": -0.8333888925928394,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "06/17/2020",
     "deathsPer100k": 0.8333888925928394,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.166944462964198,
     "locale": "Carroll,Georgia",
-    "activePer100k": -3.3335555703713577,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarroll,Georgia",
     "date": "06/20/2020",
     "deathsPer100k": -0.8333888925928394,
     "lat": "ReplaceMeCarroll,Georgia",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.59996,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarroll,Georgia",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.59996,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.3335555703713577,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.3335555703713577,
+    "locale": "Carroll,Georgia",
+    "activePer100k": 3.3335555703713577,
+    "long": "ReplaceMeCarroll,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCarroll,Georgia",
+    "active": 4
   }]
 }

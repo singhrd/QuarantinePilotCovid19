@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Simpson,Kentucky",
-    "activePer100k": -5.384449709239716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Kentucky",
     "date": "03/30/2020",
     "deathsPer100k": 5.384449709239716,
     "lat": "ReplaceMeSimpson,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09286,
     "source": "NYGithub",
@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.384449709239716,
     "locale": "Simpson,Kentucky",
-    "activePer100k": -5.384449709239716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Kentucky",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSimpson,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09286,
     "source": "NYGithub",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Simpson,Kentucky",
-    "activePer100k": -5.384449709239716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Kentucky",
     "date": "04/15/2020",
     "deathsPer100k": 5.384449709239716,
     "lat": "ReplaceMeSimpson,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09286,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.384449709239716,
     "locale": "Simpson,Kentucky",
-    "activePer100k": -5.384449709239716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Kentucky",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSimpson,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09286,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Simpson,Kentucky",
-    "activePer100k": -5.384449709239716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Kentucky",
     "date": "05/21/2020",
     "deathsPer100k": 5.384449709239716,
     "lat": "ReplaceMeSimpson,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09286,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.384449709239716,
     "locale": "Simpson,Kentucky",
-    "activePer100k": -5.384449709239716,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSimpson,Kentucky",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSimpson,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09286,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSimpson,Kentucky",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.09286,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.768899418479432,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.768899418479432,
+    "locale": "Simpson,Kentucky",
+    "activePer100k": 10.768899418479432,
+    "long": "ReplaceMeSimpson,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSimpson,Kentucky",
+    "active": 2
   }]
 }

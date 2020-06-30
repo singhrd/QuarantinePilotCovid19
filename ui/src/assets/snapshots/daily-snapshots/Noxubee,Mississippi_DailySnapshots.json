@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Noxubee,Mississippi",
-    "activePer100k": -9.599692809830085,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNoxubee,Mississippi",
     "date": "05/17/2020",
     "deathsPer100k": 9.599692809830085,
     "lat": "ReplaceMeNoxubee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.052085,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.599692809830085,
     "locale": "Noxubee,Mississippi",
-    "activePer100k": -9.599692809830085,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNoxubee,Mississippi",
     "date": "06/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNoxubee,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.052085,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNoxubee,Mississippi",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.052085,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.599692809830085,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.599692809830085,
+    "locale": "Noxubee,Mississippi",
+    "activePer100k": 9.599692809830085,
+    "long": "ReplaceMeNoxubee,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNoxubee,Mississippi",
+    "active": 1
   }]
 }

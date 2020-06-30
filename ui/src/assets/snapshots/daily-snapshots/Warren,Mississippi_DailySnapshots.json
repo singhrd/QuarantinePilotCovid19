@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.2035653687666645,
     "locale": "Warren,Mississippi",
-    "activePer100k": -2.2035653687666645,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWarren,Mississippi",
     "date": "04/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWarren,Mississippi",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.226905,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 2.2035653687666645,
     "lat": "ReplaceMeWarren,Mississippi",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.226905,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.221392212599987,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.221392212599987,
+    "locale": "Warren,Mississippi",
+    "activePer100k": 13.221392212599987,
+    "long": "ReplaceMeWarren,Mississippi",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWarren,Mississippi",
+    "active": 6
   }]
 }

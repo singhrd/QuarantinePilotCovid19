@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Atascosa,Texas",
-    "activePer100k": -1.9549195550603091,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAtascosa,Texas",
     "date": "05/24/2020",
     "deathsPer100k": 1.9549195550603091,
     "lat": "ReplaceMeAtascosa,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.255765,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9098391101206182,
     "locale": "Atascosa,Texas",
-    "activePer100k": -3.9098391101206182,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAtascosa,Texas",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAtascosa,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.255765,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.9549195550603091,
     "locale": "Atascosa,Texas",
-    "activePer100k": -1.9549195550603091,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAtascosa,Texas",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAtascosa,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.255765,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9098391101206182,
     "locale": "Atascosa,Texas",
-    "activePer100k": -3.9098391101206182,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAtascosa,Texas",
     "date": "06/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAtascosa,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.255765,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAtascosa,Texas",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.255765,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.864758665180927,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.864758665180927,
+    "locale": "Atascosa,Texas",
+    "activePer100k": 5.864758665180927,
+    "long": "ReplaceMeAtascosa,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAtascosa,Texas",
+    "active": 3
   }]
 }

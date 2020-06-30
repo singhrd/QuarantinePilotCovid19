@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Cambria,Pennsylvania",
-    "activePer100k": -0.7680963500061448,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCambria,Pennsylvania",
     "date": "04/07/2020",
     "deathsPer100k": 0.7680963500061448,
     "lat": "ReplaceMeCambria,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.65096,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7680963500061448,
     "locale": "Cambria,Pennsylvania",
-    "activePer100k": -0.7680963500061448,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCambria,Pennsylvania",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCambria,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.65096,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7680963500061448,
     "locale": "Cambria,Pennsylvania",
-    "activePer100k": -0.7680963500061448,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCambria,Pennsylvania",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCambria,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.65096,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7680963500061448,
     "locale": "Cambria,Pennsylvania",
-    "activePer100k": -0.7680963500061448,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCambria,Pennsylvania",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCambria,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.65096,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCambria,Pennsylvania",
     "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.65096,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.0723854000245794,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.0723854000245794,
+    "locale": "Cambria,Pennsylvania",
+    "activePer100k": 3.0723854000245794,
+    "long": "ReplaceMeCambria,Pennsylvania",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCambria,Pennsylvania",
+    "active": 4
   }]
 }

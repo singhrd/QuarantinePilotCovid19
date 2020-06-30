@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "New Madrid,Missouri",
-    "activePer100k": -5.856172405715625,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNew Madrid,Missouri",
     "date": "05/18/2020",
     "deathsPer100k": 5.856172405715625,
     "lat": "ReplaceMeNew Madrid,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08538,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.856172405715625,
     "locale": "New Madrid,Missouri",
-    "activePer100k": -5.856172405715625,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNew Madrid,Missouri",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNew Madrid,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08538,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "New Madrid,Missouri",
-    "activePer100k": -5.856172405715625,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNew Madrid,Missouri",
     "date": "06/17/2020",
     "deathsPer100k": 5.856172405715625,
     "lat": "ReplaceMeNew Madrid,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08538,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "New Madrid,Missouri",
-    "activePer100k": 5.856172405715625,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNew Madrid,Missouri",
     "date": "06/20/2020",
     "deathsPer100k": -5.856172405715625,
     "lat": "ReplaceMeNew Madrid,Missouri",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08538,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.71234481143125,
     "locale": "New Madrid,Missouri",
-    "activePer100k": -11.71234481143125,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNew Madrid,Missouri",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNew Madrid,Missouri",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.08538,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNew Madrid,Missouri",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.08538,
+    "source": "NYGithub",
+    "confirmedPer100kN": 23.4246896228625,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 23.4246896228625,
+    "locale": "New Madrid,Missouri",
+    "activePer100k": 23.4246896228625,
+    "long": "ReplaceMeNew Madrid,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNew Madrid,Missouri",
+    "active": 4
   }]
 }

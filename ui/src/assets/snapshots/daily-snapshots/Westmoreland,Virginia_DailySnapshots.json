@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.550929780738273,
     "locale": "Westmoreland,Virginia",
-    "activePer100k": -5.550929780738273,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWestmoreland,Virginia",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWestmoreland,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.090075,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.550929780738273,
     "locale": "Westmoreland,Virginia",
-    "activePer100k": -5.550929780738273,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWestmoreland,Virginia",
     "date": "05/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWestmoreland,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.090075,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.550929780738273,
     "locale": "Westmoreland,Virginia",
-    "activePer100k": -5.550929780738273,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWestmoreland,Virginia",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWestmoreland,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.090075,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWestmoreland,Virginia",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.090075,
+    "source": "NYGithub",
+    "confirmedPer100kN": 22.203719122953093,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 22.203719122953093,
+    "locale": "Westmoreland,Virginia",
+    "activePer100k": 22.203719122953093,
+    "long": "ReplaceMeWestmoreland,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWestmoreland,Virginia",
+    "active": 4
   }]
 }

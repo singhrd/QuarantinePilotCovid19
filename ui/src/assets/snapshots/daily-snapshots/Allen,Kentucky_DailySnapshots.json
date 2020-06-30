@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.383063570255688,
     "locale": "Allen,Kentucky",
-    "activePer100k": -9.383063570255688,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAllen,Kentucky",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAllen,Kentucky",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.106575,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.691531785127844,
     "locale": "Allen,Kentucky",
-    "activePer100k": -4.691531785127844,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAllen,Kentucky",
     "date": "06/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAllen,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.106575,
     "source": "NYGithub",
@@ -2425,12 +2425,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Allen,Kentucky",
-    "activePer100k": -4.691531785127844,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAllen,Kentucky",
     "date": "06/21/2020",
     "deathsPer100k": 4.691531785127844,
     "lat": "ReplaceMeAllen,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.106575,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAllen,Kentucky",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.106575,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Allen,Kentucky",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeAllen,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAllen,Kentucky",
+    "active": 0
   }]
 }

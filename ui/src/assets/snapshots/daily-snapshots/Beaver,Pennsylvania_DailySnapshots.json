@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6100201916683442,
     "locale": "Beaver,Pennsylvania",
-    "activePer100k": -0.6100201916683442,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBeaver,Pennsylvania",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBeaver,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.819645,
     "source": "NYGithub",
@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Beaver,Pennsylvania",
-    "activePer100k": -0.6100201916683442,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBeaver,Pennsylvania",
     "date": "05/21/2020",
     "deathsPer100k": 0.6100201916683442,
     "lat": "ReplaceMeBeaver,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.819645,
     "source": "NYGithub",
@@ -2169,12 +2169,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6100201916683442,
     "locale": "Beaver,Pennsylvania",
-    "activePer100k": -0.6100201916683442,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBeaver,Pennsylvania",
     "date": "06/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBeaver,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.819645,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Beaver,Pennsylvania",
-    "activePer100k": -0.6100201916683442,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBeaver,Pennsylvania",
     "date": "06/11/2020",
     "deathsPer100k": 0.6100201916683442,
     "lat": "ReplaceMeBeaver,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.819645,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBeaver,Pennsylvania",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.819645,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.6601211500100654,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.6601211500100654,
+    "locale": "Beaver,Pennsylvania",
+    "activePer100k": 3.6601211500100654,
+    "long": "ReplaceMeBeaver,Pennsylvania",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBeaver,Pennsylvania",
+    "active": 6
   }]
 }

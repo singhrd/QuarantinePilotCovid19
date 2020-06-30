@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3419036244816898,
     "locale": "Putnam,Florida",
-    "activePer100k": -1.3419036244816898,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,Florida",
     "date": "04/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.372605,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Putnam,Florida",
-    "activePer100k": -2.6838072489633795,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,Florida",
     "date": "05/05/2020",
     "deathsPer100k": 2.6838072489633795,
     "lat": "ReplaceMePutnam,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.372605,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3419036244816898,
     "locale": "Putnam,Florida",
-    "activePer100k": -1.3419036244816898,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,Florida",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.372605,
     "source": "NYGithub",
@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Putnam,Florida",
-    "activePer100k": -1.3419036244816898,
+    "activePer100k": 0.0,
     "long": "ReplaceMePutnam,Florida",
     "date": "05/14/2020",
     "deathsPer100k": 1.3419036244816898,
     "lat": "ReplaceMePutnam,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.372605,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePutnam,Florida",
     "active": 12
+  }, {
+    "epidemiccontrolThreshold": 0.372605,
+    "source": "NYGithub",
+    "confirmedPer100kN": 28.179976114115483,
+    "deaths": 0,
+    "confirmed": 21,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 28.179976114115483,
+    "locale": "Putnam,Florida",
+    "activePer100k": 28.179976114115483,
+    "long": "ReplaceMePutnam,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePutnam,Florida",
+    "active": 21
   }]
 }

@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lewis,West Virginia",
-    "activePer100k": -6.286540516753631,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLewis,West Virginia",
     "date": "05/22/2020",
     "deathsPer100k": 6.286540516753631,
     "lat": "ReplaceMeLewis,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.079535,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.286540516753631,
     "locale": "Lewis,West Virginia",
-    "activePer100k": -6.286540516753631,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLewis,West Virginia",
     "date": "06/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLewis,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.079535,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lewis,West Virginia",
-    "activePer100k": -6.286540516753631,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLewis,West Virginia",
     "date": "06/23/2020",
     "deathsPer100k": 6.286540516753631,
     "lat": "ReplaceMeLewis,West Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.079535,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 6.286540516753631,
     "long": "ReplaceMeLewis,West Virginia",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLewis,West Virginia",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.079535,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.286540516753631,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.286540516753631,
+    "locale": "Lewis,West Virginia",
+    "activePer100k": 6.286540516753631,
+    "long": "ReplaceMeLewis,West Virginia",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLewis,West Virginia",
     "active": 1

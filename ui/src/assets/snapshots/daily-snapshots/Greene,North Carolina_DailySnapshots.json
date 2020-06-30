@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.746309744173905,
     "locale": "Greene,North Carolina",
-    "activePer100k": -4.746309744173905,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreene,North Carolina",
     "date": "04/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreene,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.105345,
     "source": "NYGithub",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.746309744173905,
     "locale": "Greene,North Carolina",
-    "activePer100k": -4.746309744173905,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreene,North Carolina",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreene,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.105345,
     "source": "NYGithub",
@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.746309744173905,
     "locale": "Greene,North Carolina",
-    "activePer100k": -9.49261948834781,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreene,North Carolina",
     "date": "05/09/2020",
     "deathsPer100k": 4.746309744173905,
     "lat": "ReplaceMeGreene,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.105345,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.746309744173905,
     "locale": "Greene,North Carolina",
-    "activePer100k": -9.49261948834781,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreene,North Carolina",
     "date": "05/19/2020",
     "deathsPer100k": 4.746309744173905,
     "lat": "ReplaceMeGreene,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.105345,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.746309744173905,
     "locale": "Greene,North Carolina",
-    "activePer100k": -4.746309744173905,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGreene,North Carolina",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreene,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.105345,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGreene,North Carolina",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.105345,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.49261948834781,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.49261948834781,
+    "locale": "Greene,North Carolina",
+    "activePer100k": 9.49261948834781,
+    "long": "ReplaceMeGreene,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGreene,North Carolina",
+    "active": 2
   }]
 }

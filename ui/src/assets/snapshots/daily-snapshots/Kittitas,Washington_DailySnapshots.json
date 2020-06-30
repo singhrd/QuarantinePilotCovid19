@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.086158339417962,
     "locale": "Kittitas,Washington",
-    "activePer100k": -2.086158339417962,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKittitas,Washington",
     "date": "04/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKittitas,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.239675,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.086158339417962,
     "locale": "Kittitas,Washington",
-    "activePer100k": -2.086158339417962,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKittitas,Washington",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKittitas,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.239675,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.086158339417962,
     "locale": "Kittitas,Washington",
-    "activePer100k": -2.086158339417962,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKittitas,Washington",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKittitas,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.239675,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.086158339417962,
     "locale": "Kittitas,Washington",
-    "activePer100k": -2.086158339417962,
+    "activePer100k": 0.0,
     "long": "ReplaceMeKittitas,Washington",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKittitas,Washington",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.239675,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeKittitas,Washington",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.239675,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.43079169708981,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.43079169708981,
+    "locale": "Kittitas,Washington",
+    "activePer100k": 10.43079169708981,
+    "long": "ReplaceMeKittitas,Washington",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeKittitas,Washington",
+    "active": 5
   }]
 }

@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.433512441963588,
     "locale": "Perry,Indiana",
-    "activePer100k": -10.433512441963588,
+    "activePer100k": 0.0,
     "long": "ReplaceMePerry,Indiana",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePerry,Indiana",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.095845,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.216756220981794,
     "locale": "Perry,Indiana",
-    "activePer100k": -5.216756220981794,
+    "activePer100k": 0.0,
     "long": "ReplaceMePerry,Indiana",
     "date": "05/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePerry,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.095845,
     "source": "NYGithub",
@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Perry,Indiana",
-    "activePer100k": -5.216756220981794,
+    "activePer100k": 0.0,
     "long": "ReplaceMePerry,Indiana",
     "date": "06/19/2020",
     "deathsPer100k": 5.216756220981794,
     "lat": "ReplaceMePerry,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.095845,
     "source": "NYGithub",
@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.216756220981794,
     "locale": "Perry,Indiana",
-    "activePer100k": -5.216756220981794,
+    "activePer100k": 0.0,
     "long": "ReplaceMePerry,Indiana",
     "date": "06/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePerry,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.095845,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMePerry,Indiana",
     "date": "06/27/2020",
+    "deathsPer100k": 5.216756220981794,
+    "lat": "ReplaceMePerry,Indiana",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.095845,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 1,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Perry,Indiana",
+    "activePer100k": 0.0,
+    "long": "ReplaceMePerry,Indiana",
+    "date": "06/28/2020",
     "deathsPer100k": 5.216756220981794,
     "lat": "ReplaceMePerry,Indiana",
     "active": 0

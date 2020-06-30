@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -26.872088857040488,
     "locale": "Bacon,Georgia",
-    "activePer100k": -26.872088857040488,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBacon,Georgia",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBacon,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05582,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.914725904693658,
     "locale": "Bacon,Georgia",
-    "activePer100k": -17.914725904693658,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBacon,Georgia",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBacon,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05582,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -26.872088857040488,
     "locale": "Bacon,Georgia",
-    "activePer100k": -26.872088857040488,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBacon,Georgia",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBacon,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05582,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.957362952346829,
     "locale": "Bacon,Georgia",
-    "activePer100k": -8.957362952346829,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBacon,Georgia",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBacon,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05582,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.914725904693658,
     "locale": "Bacon,Georgia",
-    "activePer100k": -17.914725904693658,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBacon,Georgia",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBacon,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05582,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Bacon,Georgia",
-    "activePer100k": -8.957362952346829,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBacon,Georgia",
     "date": "06/20/2020",
     "deathsPer100k": 8.957362952346829,
     "lat": "ReplaceMeBacon,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.05582,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBacon,Georgia",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 0.05582,
+    "source": "NYGithub",
+    "confirmedPer100kN": 17.914725904693658,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 17.914725904693658,
+    "locale": "Bacon,Georgia",
+    "activePer100k": 17.914725904693658,
+    "long": "ReplaceMeBacon,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBacon,Georgia",
+    "active": 2
   }]
 }

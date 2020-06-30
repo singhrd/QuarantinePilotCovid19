@@ -1177,12 +1177,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Willacy,Texas",
-    "activePer100k": -4.682086337672067,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWillacy,Texas",
     "date": "04/04/2020",
     "deathsPer100k": 4.682086337672067,
     "lat": "ReplaceMeWillacy,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10679,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.682086337672067,
     "locale": "Willacy,Texas",
-    "activePer100k": -4.682086337672067,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWillacy,Texas",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWillacy,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10679,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.682086337672067,
     "locale": "Willacy,Texas",
-    "activePer100k": -4.682086337672067,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWillacy,Texas",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWillacy,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.10679,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWillacy,Texas",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.10679,
+    "source": "NYGithub",
+    "confirmedPer100kN": 37.45669070137654,
+    "deaths": 0,
+    "confirmed": 8,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 37.45669070137654,
+    "locale": "Willacy,Texas",
+    "activePer100k": 37.45669070137654,
+    "long": "ReplaceMeWillacy,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWillacy,Texas",
+    "active": 8
   }]
 }

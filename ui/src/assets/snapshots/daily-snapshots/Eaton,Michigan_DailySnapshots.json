@@ -1273,12 +1273,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Eaton,Michigan",
-    "activePer100k": -0.9068814161860195,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEaton,Michigan",
     "date": "04/10/2020",
     "deathsPer100k": 0.9068814161860195,
     "lat": "ReplaceMeEaton,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.55134,
     "source": "NYGithub",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Eaton,Michigan",
-    "activePer100k": -0.9068814161860195,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEaton,Michigan",
     "date": "04/13/2020",
     "deathsPer100k": 0.9068814161860195,
     "lat": "ReplaceMeEaton,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.55134,
     "source": "NYGithub",
@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.813762832372039,
     "locale": "Eaton,Michigan",
-    "activePer100k": -1.813762832372039,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEaton,Michigan",
     "date": "05/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEaton,Michigan",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.55134,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9068814161860195,
     "locale": "Eaton,Michigan",
-    "activePer100k": -0.9068814161860195,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEaton,Michigan",
     "date": "06/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEaton,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.55134,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9068814161860195,
     "locale": "Eaton,Michigan",
-    "activePer100k": -0.9068814161860195,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEaton,Michigan",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEaton,Michigan",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.55134,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeEaton,Michigan",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.55134,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.720644248558058,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.720644248558058,
+    "locale": "Eaton,Michigan",
+    "activePer100k": 2.720644248558058,
+    "long": "ReplaceMeEaton,Michigan",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeEaton,Michigan",
+    "active": 3
   }]
 }

@@ -2201,12 +2201,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6080247101242194,
     "locale": "Somerset,New Jersey",
-    "activePer100k": -0.9120370651863291,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSomerset,New Jersey",
     "date": "06/07/2020",
     "deathsPer100k": 0.3040123550621097,
     "lat": "ReplaceMeSomerset,New Jersey",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.64467,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.3040123550621097,
     "locale": "Somerset,New Jersey",
-    "activePer100k": -0.6080247101242194,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSomerset,New Jersey",
     "date": "06/23/2020",
     "deathsPer100k": 0.3040123550621097,
     "lat": "ReplaceMeSomerset,New Jersey",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.64467,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSomerset,New Jersey",
     "active": 10
+  }, {
+    "epidemiccontrolThreshold": 1.64467,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.8641976809937555,
+    "deaths": 3,
+    "confirmed": 16,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.8641976809937555,
+    "locale": "Somerset,New Jersey",
+    "activePer100k": 3.952160615807426,
+    "long": "ReplaceMeSomerset,New Jersey",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.9120370651863291,
+    "lat": "ReplaceMeSomerset,New Jersey",
+    "active": 13
   }]
 }

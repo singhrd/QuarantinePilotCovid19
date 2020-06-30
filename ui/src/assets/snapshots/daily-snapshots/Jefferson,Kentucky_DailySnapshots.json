@@ -1289,12 +1289,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jefferson,Kentucky",
-    "activePer100k": -0.13041941579926886,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Kentucky",
     "date": "04/11/2020",
     "deathsPer100k": 0.13041941579926886,
     "lat": "ReplaceMeJefferson,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.833785,
     "source": "NYGithub",
@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jefferson,Kentucky",
-    "activePer100k": -0.5216776631970754,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Kentucky",
     "date": "04/17/2020",
     "deathsPer100k": 0.5216776631970754,
     "lat": "ReplaceMeJefferson,Kentucky",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.833785,
     "source": "NYGithub",
@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jefferson,Kentucky",
-    "activePer100k": -0.39125824739780657,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Kentucky",
     "date": "04/25/2020",
     "deathsPer100k": 0.39125824739780657,
     "lat": "ReplaceMeJefferson,Kentucky",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.833785,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.608388315985377,
     "locale": "Jefferson,Kentucky",
-    "activePer100k": -2.738807731784646,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Kentucky",
     "date": "05/13/2020",
     "deathsPer100k": 0.13041941579926886,
     "lat": "ReplaceMeJefferson,Kentucky",
-    "active": -21
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.833785,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jefferson,Kentucky",
-    "activePer100k": -0.39125824739780657,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Kentucky",
     "date": "06/16/2020",
     "deathsPer100k": 0.39125824739780657,
     "lat": "ReplaceMeJefferson,Kentucky",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.833785,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJefferson,Kentucky",
     "active": 55
+  }, {
+    "epidemiccontrolThreshold": 3.833785,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.1737747421934197,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.1737747421934197,
+    "locale": "Jefferson,Kentucky",
+    "activePer100k": 1.1737747421934197,
+    "long": "ReplaceMeJefferson,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeJefferson,Kentucky",
+    "active": 9
   }]
 }

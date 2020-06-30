@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.4707219449523152,
     "locale": "McClain,Oklahoma",
-    "activePer100k": -2.4707219449523152,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcClain,Oklahoma",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMcClain,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20237,
     "source": "NYGithub",
@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.4707219449523152,
     "locale": "McClain,Oklahoma",
-    "activePer100k": -2.4707219449523152,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcClain,Oklahoma",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMcClain,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20237,
     "source": "NYGithub",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.4707219449523152,
     "locale": "McClain,Oklahoma",
-    "activePer100k": -2.4707219449523152,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcClain,Oklahoma",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMcClain,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20237,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.4707219449523152,
     "locale": "McClain,Oklahoma",
-    "activePer100k": -2.4707219449523152,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcClain,Oklahoma",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMcClain,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20237,
     "source": "NYGithub",
@@ -2185,12 +2185,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "McClain,Oklahoma",
-    "activePer100k": -2.4707219449523152,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcClain,Oklahoma",
     "date": "06/06/2020",
     "deathsPer100k": 2.4707219449523152,
     "lat": "ReplaceMeMcClain,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20237,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.4707219449523152,
     "locale": "McClain,Oklahoma",
-    "activePer100k": -2.4707219449523152,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMcClain,Oklahoma",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMcClain,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.20237,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMcClain,Oklahoma",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.20237,
+    "source": "NYGithub",
+    "confirmedPer100kN": 22.236497504570835,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 22.236497504570835,
+    "locale": "McClain,Oklahoma",
+    "activePer100k": 22.236497504570835,
+    "long": "ReplaceMeMcClain,Oklahoma",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMcClain,Oklahoma",
+    "active": 9
   }]
 }

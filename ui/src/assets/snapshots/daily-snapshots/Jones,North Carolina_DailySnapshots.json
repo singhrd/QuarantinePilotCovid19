@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jones,North Carolina",
-    "activePer100k": -10.616838305552607,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJones,North Carolina",
     "date": "04/22/2020",
     "deathsPer100k": 10.616838305552607,
     "lat": "ReplaceMeJones,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.047095,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.616838305552607,
     "locale": "Jones,North Carolina",
-    "activePer100k": -10.616838305552607,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJones,North Carolina",
     "date": "05/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJones,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.047095,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.616838305552607,
     "locale": "Jones,North Carolina",
-    "activePer100k": -10.616838305552607,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJones,North Carolina",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJones,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.047095,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.616838305552607,
     "locale": "Jones,North Carolina",
-    "activePer100k": -10.616838305552607,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJones,North Carolina",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJones,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.047095,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -21.233676611105214,
     "locale": "Jones,North Carolina",
-    "activePer100k": -21.233676611105214,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJones,North Carolina",
     "date": "05/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJones,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.047095,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jones,North Carolina",
-    "activePer100k": -10.616838305552607,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJones,North Carolina",
     "date": "05/27/2020",
     "deathsPer100k": 10.616838305552607,
     "lat": "ReplaceMeJones,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.047095,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -10.616838305552607,
     "locale": "Jones,North Carolina",
-    "activePer100k": -10.616838305552607,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJones,North Carolina",
     "date": "06/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJones,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.047095,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJones,North Carolina",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.047095,
+    "source": "NYGithub",
+    "confirmedPer100kN": 31.850514916657822,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 31.850514916657822,
+    "locale": "Jones,North Carolina",
+    "activePer100k": 31.850514916657822,
+    "long": "ReplaceMeJones,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeJones,North Carolina",
+    "active": 3
   }]
 }

@@ -1065,12 +1065,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.9611303955600008,
     "locale": "Franklin,Kentucky",
-    "activePer100k": -1.9611303955600008,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Kentucky",
     "date": "03/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.254955,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -15.689043164480006,
     "locale": "Franklin,Kentucky",
-    "activePer100k": -15.689043164480006,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Kentucky",
     "date": "04/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Kentucky",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.254955,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.9611303955600008,
     "locale": "Franklin,Kentucky",
-    "activePer100k": -1.9611303955600008,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Kentucky",
     "date": "05/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.254955,
     "source": "NYGithub",
@@ -1881,12 +1881,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.9222607911200016,
     "locale": "Franklin,Kentucky",
-    "activePer100k": -3.9222607911200016,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Kentucky",
     "date": "05/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Kentucky",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.254955,
     "source": "NYGithub",
@@ -2393,12 +2393,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Franklin,Kentucky",
-    "activePer100k": -1.9611303955600008,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Kentucky",
     "date": "06/19/2020",
     "deathsPer100k": 1.9611303955600008,
     "lat": "ReplaceMeFranklin,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.254955,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Kentucky",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.254955,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 1,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Franklin,Kentucky",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeFranklin,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 1.9611303955600008,
+    "lat": "ReplaceMeFranklin,Kentucky",
+    "active": 0
   }]
 }

@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1598909702487967,
     "locale": "Muskingum,Ohio",
-    "activePer100k": -1.1598909702487967,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMuskingum,Ohio",
     "date": "04/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMuskingum,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.431075,
     "source": "NYGithub",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1598909702487967,
     "locale": "Muskingum,Ohio",
-    "activePer100k": -1.1598909702487967,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMuskingum,Ohio",
     "date": "04/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMuskingum,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.431075,
     "source": "NYGithub",
@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1598909702487967,
     "locale": "Muskingum,Ohio",
-    "activePer100k": -1.1598909702487967,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMuskingum,Ohio",
     "date": "05/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMuskingum,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.431075,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Muskingum,Ohio",
-    "activePer100k": -1.1598909702487967,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMuskingum,Ohio",
     "date": "06/02/2020",
     "deathsPer100k": 1.1598909702487967,
     "lat": "ReplaceMeMuskingum,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.431075,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3197819404975935,
     "locale": "Muskingum,Ohio",
-    "activePer100k": -2.3197819404975935,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMuskingum,Ohio",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMuskingum,Ohio",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.431075,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 1.1598909702487967,
     "long": "ReplaceMeMuskingum,Ohio",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMuskingum,Ohio",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.431075,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.1598909702487967,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.1598909702487967,
+    "locale": "Muskingum,Ohio",
+    "activePer100k": 1.1598909702487967,
+    "long": "ReplaceMeMuskingum,Ohio",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMuskingum,Ohio",
     "active": 1

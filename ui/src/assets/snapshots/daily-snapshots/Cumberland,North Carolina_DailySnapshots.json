@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Cumberland,North Carolina",
-    "activePer100k": -0.2980545976411959,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCumberland,North Carolina",
     "date": "04/13/2020",
     "deathsPer100k": 0.2980545976411959,
     "lat": "ReplaceMeCumberland,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.677545,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCumberland,North Carolina",
     "active": 14
+  }, {
+    "epidemiccontrolThreshold": 1.677545,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.220238503289032,
+    "deaths": 0,
+    "confirmed": 41,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.220238503289032,
+    "locale": "Cumberland,North Carolina",
+    "activePer100k": 12.220238503289032,
+    "long": "ReplaceMeCumberland,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCumberland,North Carolina",
+    "active": 41
   }]
 }

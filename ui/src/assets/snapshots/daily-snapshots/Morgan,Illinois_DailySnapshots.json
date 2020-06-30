@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.9710618575078733,
     "locale": "Morgan,Illinois",
-    "activePer100k": -2.9710618575078733,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Illinois",
     "date": "04/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16829,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.9710618575078733,
     "locale": "Morgan,Illinois",
-    "activePer100k": -2.9710618575078733,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Illinois",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16829,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.9710618575078733,
     "locale": "Morgan,Illinois",
-    "activePer100k": -2.9710618575078733,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMorgan,Illinois",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16829,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMorgan,Illinois",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.16829,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Morgan,Illinois",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMorgan,Illinois",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMorgan,Illinois",
+    "active": 0
   }]
 }

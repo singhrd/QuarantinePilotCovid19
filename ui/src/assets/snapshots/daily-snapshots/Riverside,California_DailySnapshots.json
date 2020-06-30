@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Riverside,California",
-    "activePer100k": -0.24286129462879866,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRiverside,California",
     "date": "05/16/2020",
     "deathsPer100k": 0.24286129462879866,
     "lat": "ReplaceMeRiverside,California",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 12.35273,
     "source": "NYGithub",
@@ -1961,12 +1961,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Riverside,California",
-    "activePer100k": -0.3238150595050649,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRiverside,California",
     "date": "05/23/2020",
     "deathsPer100k": 0.3238150595050649,
     "lat": "ReplaceMeRiverside,California",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 12.35273,
     "source": "NYGithub",
@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Riverside,California",
-    "activePer100k": -0.04047688243813311,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRiverside,California",
     "date": "05/24/2020",
     "deathsPer100k": 0.04047688243813311,
     "lat": "ReplaceMeRiverside,California",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 12.35273,
     "source": "NYGithub",
@@ -2073,12 +2073,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Riverside,California",
-    "activePer100k": -0.3238150595050649,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRiverside,California",
     "date": "05/30/2020",
     "deathsPer100k": 0.3238150595050649,
     "lat": "ReplaceMeRiverside,California",
-    "active": -8
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 12.35273,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRiverside,California",
     "active": 215
+  }, {
+    "epidemiccontrolThreshold": 12.35273,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.207385735784722,
+    "deaths": 0,
+    "confirmed": 351,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.207385735784722,
+    "locale": "Riverside,California",
+    "activePer100k": 14.207385735784722,
+    "long": "ReplaceMeRiverside,California",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRiverside,California",
+    "active": 351
   }]
 }

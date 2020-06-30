@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Franklin,Vermont",
-    "activePer100k": -6.072628638516659,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Vermont",
     "date": "04/08/2020",
     "deathsPer100k": 6.072628638516659,
     "lat": "ReplaceMeFranklin,Vermont",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.24701,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.02420954617222,
     "locale": "Franklin,Vermont",
-    "activePer100k": -4.04841909234444,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Vermont",
     "date": "04/21/2020",
     "deathsPer100k": 2.02420954617222,
     "lat": "ReplaceMeFranklin,Vermont",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.24701,
     "source": "NYGithub",
@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.04841909234444,
     "locale": "Franklin,Vermont",
-    "activePer100k": -6.072628638516659,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Vermont",
     "date": "04/23/2020",
     "deathsPer100k": 2.02420954617222,
     "lat": "ReplaceMeFranklin,Vermont",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.24701,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Franklin,Vermont",
-    "activePer100k": -2.02420954617222,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFranklin,Vermont",
     "date": "06/18/2020",
     "deathsPer100k": 2.02420954617222,
     "lat": "ReplaceMeFranklin,Vermont",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.24701,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeFranklin,Vermont",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.24701,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Franklin,Vermont",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeFranklin,Vermont",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeFranklin,Vermont",
+    "active": 0
   }]
 }

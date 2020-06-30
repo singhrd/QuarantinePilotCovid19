@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.621819610380607,
     "locale": "Coffee,Georgia",
-    "activePer100k": -4.621819610380607,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoffee,Georgia",
     "date": "04/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCoffee,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.216365,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Coffee,Georgia",
-    "activePer100k": -2.3109098051903034,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoffee,Georgia",
     "date": "05/16/2020",
     "deathsPer100k": 2.3109098051903034,
     "lat": "ReplaceMeCoffee,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.216365,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3109098051903034,
     "locale": "Coffee,Georgia",
-    "activePer100k": -6.93272941557091,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoffee,Georgia",
     "date": "05/28/2020",
     "deathsPer100k": 4.621819610380607,
     "lat": "ReplaceMeCoffee,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.216365,
     "source": "NYGithub",
@@ -2521,11 +2521,27 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.3109098051903034,
     "locale": "Coffee,Georgia",
-    "activePer100k": -2.3109098051903034,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCoffee,Georgia",
     "date": "06/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCoffee,Georgia",
-    "active": -1
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.216365,
+    "source": "NYGithub",
+    "confirmedPer100kN": 113.23458045432487,
+    "deaths": 0,
+    "confirmed": 49,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 113.23458045432487,
+    "locale": "Coffee,Georgia",
+    "activePer100k": 113.23458045432487,
+    "long": "ReplaceMeCoffee,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCoffee,Georgia",
+    "active": 49
   }]
 }

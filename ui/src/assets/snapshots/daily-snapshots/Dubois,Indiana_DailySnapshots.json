@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.339947585174092,
     "locale": "Dubois,Indiana",
-    "activePer100k": -2.339947585174092,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDubois,Indiana",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDubois,Indiana",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.21368,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDubois,Indiana",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.21368,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.679895170348184,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.679895170348184,
+    "locale": "Dubois,Indiana",
+    "activePer100k": 4.679895170348184,
+    "long": "ReplaceMeDubois,Indiana",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDubois,Indiana",
+    "active": 2
   }]
 }

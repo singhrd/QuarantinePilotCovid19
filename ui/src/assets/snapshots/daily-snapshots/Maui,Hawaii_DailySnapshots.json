@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5973109062998382,
     "locale": "Maui,Hawaii",
-    "activePer100k": -0.5973109062998382,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMaui,Hawaii",
     "date": "04/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaui,Hawaii",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.837085,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5973109062998382,
     "locale": "Maui,Hawaii",
-    "activePer100k": -1.1946218125996764,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMaui,Hawaii",
     "date": "05/03/2020",
     "deathsPer100k": 0.5973109062998382,
     "lat": "ReplaceMeMaui,Hawaii",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.837085,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5973109062998382,
     "locale": "Maui,Hawaii",
-    "activePer100k": -0.5973109062998382,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMaui,Hawaii",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaui,Hawaii",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.837085,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5973109062998382,
     "locale": "Maui,Hawaii",
-    "activePer100k": -0.5973109062998382,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMaui,Hawaii",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaui,Hawaii",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.837085,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMaui,Hawaii",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.837085,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.5973109062998382,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.5973109062998382,
+    "locale": "Maui,Hawaii",
+    "activePer100k": 0.5973109062998382,
+    "long": "ReplaceMeMaui,Hawaii",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMaui,Hawaii",
+    "active": 1
   }]
 }

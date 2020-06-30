@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -14.654161781946074,
     "locale": "Saguache,Colorado",
-    "activePer100k": -14.654161781946074,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaguache,Colorado",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaguache,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.03412,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Saguache,Colorado",
-    "activePer100k": -14.654161781946074,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaguache,Colorado",
     "date": "05/27/2020",
     "deathsPer100k": 14.654161781946074,
     "lat": "ReplaceMeSaguache,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.03412,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -14.654161781946074,
     "locale": "Saguache,Colorado",
-    "activePer100k": -14.654161781946074,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaguache,Colorado",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaguache,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.03412,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -14.654161781946074,
     "locale": "Saguache,Colorado",
-    "activePer100k": -14.654161781946074,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaguache,Colorado",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaguache,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.03412,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -14.654161781946074,
     "locale": "Saguache,Colorado",
-    "activePer100k": -14.654161781946074,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaguache,Colorado",
     "date": "06/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaguache,Colorado",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.03412,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaguache,Colorado",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.03412,
+    "source": "NYGithub",
+    "confirmedPer100kN": 29.30832356389215,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 29.30832356389215,
+    "locale": "Saguache,Colorado",
+    "activePer100k": 29.30832356389215,
+    "long": "ReplaceMeSaguache,Colorado",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSaguache,Colorado",
+    "active": 2
   }]
 }

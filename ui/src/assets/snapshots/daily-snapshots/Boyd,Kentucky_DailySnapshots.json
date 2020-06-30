@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Boyd,Kentucky",
-    "activePer100k": -2.140502590008134,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoyd,Kentucky",
     "date": "04/07/2020",
     "deathsPer100k": 2.140502590008134,
     "lat": "ReplaceMeBoyd,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.23359,
     "source": "NYGithub",
@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.421507770024402,
     "locale": "Boyd,Kentucky",
-    "activePer100k": -6.421507770024402,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoyd,Kentucky",
     "date": "04/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoyd,Kentucky",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.23359,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.281005180016268,
     "locale": "Boyd,Kentucky",
-    "activePer100k": -4.281005180016268,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBoyd,Kentucky",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoyd,Kentucky",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.23359,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 2.140502590008134,
     "long": "ReplaceMeBoyd,Kentucky",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBoyd,Kentucky",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.23359,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.140502590008134,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.140502590008134,
+    "locale": "Boyd,Kentucky",
+    "activePer100k": 2.140502590008134,
+    "long": "ReplaceMeBoyd,Kentucky",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBoyd,Kentucky",
     "active": 1

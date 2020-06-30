@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.2528865108420164,
     "locale": "Essex,New Jersey",
-    "activePer100k": -2.3780468725554615,
+    "activePer100k": 0.0,
     "long": "ReplaceMeEssex,New Jersey",
     "date": "06/20/2020",
     "deathsPer100k": 0.12516036171344536,
     "lat": "ReplaceMeEssex,New Jersey",
-    "active": -19
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.994875,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.37548108514033607,
     "lat": "ReplaceMeEssex,New Jersey",
     "active": 27
+  }, {
+    "epidemiccontrolThreshold": 3.994875,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.503207234268907,
+    "deaths": 3,
+    "confirmed": 20,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.503207234268907,
+    "locale": "Essex,New Jersey",
+    "activePer100k": 2.127726149128571,
+    "long": "ReplaceMeEssex,New Jersey",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.37548108514033607,
+    "lat": "ReplaceMeEssex,New Jersey",
+    "active": 17
   }]
 }

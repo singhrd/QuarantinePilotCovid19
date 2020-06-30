@@ -1385,12 +1385,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Centre,Pennsylvania",
-    "activePer100k": -0.6158204267635558,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCentre,Pennsylvania",
     "date": "04/17/2020",
     "deathsPer100k": 0.6158204267635558,
     "lat": "ReplaceMeCentre,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.811925,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6158204267635558,
     "locale": "Centre,Pennsylvania",
-    "activePer100k": -0.6158204267635558,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCentre,Pennsylvania",
     "date": "04/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCentre,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.811925,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6158204267635558,
     "locale": "Centre,Pennsylvania",
-    "activePer100k": -0.6158204267635558,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCentre,Pennsylvania",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCentre,Pennsylvania",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.811925,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.079102133817779,
     "locale": "Centre,Pennsylvania",
-    "activePer100k": -3.079102133817779,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCentre,Pennsylvania",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCentre,Pennsylvania",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.811925,
     "source": "NYGithub",
@@ -2525,6 +2525,22 @@
     "long": "ReplaceMeCentre,Pennsylvania",
     "date": "06/27/2020",
     "deathsPer100k": 0.6158204267635558,
+    "lat": "ReplaceMeCentre,Pennsylvania",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.811925,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.6158204267635558,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.6158204267635558,
+    "locale": "Centre,Pennsylvania",
+    "activePer100k": 0.6158204267635558,
+    "long": "ReplaceMeCentre,Pennsylvania",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
     "lat": "ReplaceMeCentre,Pennsylvania",
     "active": 1
   }]

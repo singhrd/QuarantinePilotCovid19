@@ -1305,12 +1305,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1051555506437531,
     "locale": "Burke,North Carolina",
-    "activePer100k": -2.2103111012875063,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBurke,North Carolina",
     "date": "04/12/2020",
     "deathsPer100k": 1.1051555506437531,
     "lat": "ReplaceMeBurke,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.452425,
     "source": "NYGithub",
@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.2103111012875063,
     "locale": "Burke,North Carolina",
-    "activePer100k": -2.2103111012875063,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBurke,North Carolina",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBurke,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.452425,
     "source": "NYGithub",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Burke,North Carolina",
-    "activePer100k": -1.1051555506437531,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBurke,North Carolina",
     "date": "04/15/2020",
     "deathsPer100k": 1.1051555506437531,
     "lat": "ReplaceMeBurke,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.452425,
     "source": "NYGithub",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Burke,North Carolina",
-    "activePer100k": -1.1051555506437531,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBurke,North Carolina",
     "date": "04/16/2020",
     "deathsPer100k": 1.1051555506437531,
     "lat": "ReplaceMeBurke,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.452425,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Burke,North Carolina",
-    "activePer100k": -1.1051555506437531,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBurke,North Carolina",
     "date": "05/06/2020",
     "deathsPer100k": 1.1051555506437531,
     "lat": "ReplaceMeBurke,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.452425,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.1051555506437531,
     "lat": "ReplaceMeBurke,North Carolina",
     "active": 16
+  }, {
+    "epidemiccontrolThreshold": 0.452425,
+    "source": "NYGithub",
+    "confirmedPer100kN": 17.68248881030005,
+    "deaths": 1,
+    "confirmed": 16,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 17.68248881030005,
+    "locale": "Burke,North Carolina",
+    "activePer100k": 16.577333259656296,
+    "long": "ReplaceMeBurke,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 1.1051555506437531,
+    "lat": "ReplaceMeBurke,North Carolina",
+    "active": 15
   }]
 }

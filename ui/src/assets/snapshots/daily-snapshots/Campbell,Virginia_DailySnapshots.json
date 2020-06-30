@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.6439828732804957,
     "locale": "Campbell,Virginia",
-    "activePer100k": -3.6439828732804957,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCampbell,Virginia",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCampbell,Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.274425,
     "source": "NYGithub",
@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Campbell,Virginia",
-    "activePer100k": -1.8219914366402479,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCampbell,Virginia",
     "date": "05/14/2020",
     "deathsPer100k": 1.8219914366402479,
     "lat": "ReplaceMeCampbell,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.274425,
     "source": "NYGithub",
@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8219914366402479,
     "locale": "Campbell,Virginia",
-    "activePer100k": -1.8219914366402479,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCampbell,Virginia",
     "date": "06/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCampbell,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.274425,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCampbell,Virginia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.274425,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.6439828732804957,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.6439828732804957,
+    "locale": "Campbell,Virginia",
+    "activePer100k": 3.6439828732804957,
+    "long": "ReplaceMeCampbell,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCampbell,Virginia",
+    "active": 2
   }]
 }

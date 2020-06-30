@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3925055352095024,
     "locale": "Robertson,Tennessee",
-    "activePer100k": -1.3925055352095024,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRobertson,Tennessee",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRobertson,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.359065,
     "source": "NYGithub",
@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3925055352095024,
     "locale": "Robertson,Tennessee",
-    "activePer100k": -1.3925055352095024,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRobertson,Tennessee",
     "date": "05/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRobertson,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.359065,
     "source": "NYGithub",
@@ -2409,12 +2409,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.7850110704190048,
     "locale": "Robertson,Tennessee",
-    "activePer100k": -2.7850110704190048,
+    "activePer100k": 0.0,
     "long": "ReplaceMeRobertson,Tennessee",
     "date": "06/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRobertson,Tennessee",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.359065,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeRobertson,Tennessee",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 0.359065,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Robertson,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeRobertson,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeRobertson,Tennessee",
+    "active": 0
   }]
 }

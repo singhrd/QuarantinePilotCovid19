@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.615069127472382,
     "locale": "Macon,Missouri",
-    "activePer100k": -6.615069127472382,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMacon,Missouri",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMacon,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.075585,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.615069127472382,
     "locale": "Macon,Missouri",
-    "activePer100k": -6.615069127472382,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMacon,Missouri",
     "date": "05/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMacon,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.075585,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMacon,Missouri",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.075585,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.615069127472382,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.615069127472382,
+    "locale": "Macon,Missouri",
+    "activePer100k": 6.615069127472382,
+    "long": "ReplaceMeMacon,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMacon,Missouri",
+    "active": 1
   }]
 }

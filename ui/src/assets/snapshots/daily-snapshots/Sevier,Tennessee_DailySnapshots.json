@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0178117048346056,
     "locale": "Sevier,Tennessee",
-    "activePer100k": -1.0178117048346056,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSevier,Tennessee",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSevier,Tennessee",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.49125,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSevier,Tennessee",
     "active": 13
+  }, {
+    "epidemiccontrolThreshold": 0.49125,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Sevier,Tennessee",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeSevier,Tennessee",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSevier,Tennessee",
+    "active": 0
   }]
 }

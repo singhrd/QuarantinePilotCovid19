@@ -1993,12 +1993,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7231023985306559,
     "locale": "Florence,South Carolina",
-    "activePer100k": -1.4462047970613119,
+    "activePer100k": 0.0,
     "long": "ReplaceMeFlorence,South Carolina",
     "date": "05/25/2020",
     "deathsPer100k": 0.7231023985306559,
     "lat": "ReplaceMeFlorence,South Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.691465,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.7231023985306559,
     "lat": "ReplaceMeFlorence,South Carolina",
     "active": 39
+  }, {
+    "epidemiccontrolThreshold": 0.691465,
+    "source": "NYGithub",
+    "confirmedPer100kN": 21.693071955919677,
+    "deaths": 1,
+    "confirmed": 30,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 21.693071955919677,
+    "locale": "Florence,South Carolina",
+    "activePer100k": 20.96996955738902,
+    "long": "ReplaceMeFlorence,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.7231023985306559,
+    "lat": "ReplaceMeFlorence,South Carolina",
+    "active": 29
   }]
 }

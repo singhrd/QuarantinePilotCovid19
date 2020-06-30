@@ -1081,12 +1081,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.078411284495681,
     "locale": "Lauderdale,Alabama",
-    "activePer100k": -1.078411284495681,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLauderdale,Alabama",
     "date": "03/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLauderdale,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.463645,
     "source": "NYGithub",
@@ -1465,12 +1465,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lauderdale,Alabama",
-    "activePer100k": 1.078411284495681,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLauderdale,Alabama",
     "date": "04/22/2020",
     "deathsPer100k": -1.078411284495681,
     "lat": "ReplaceMeLauderdale,Alabama",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.463645,
     "source": "NYGithub",
@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Lauderdale,Alabama",
-    "activePer100k": 1.078411284495681,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLauderdale,Alabama",
     "date": "04/24/2020",
     "deathsPer100k": -1.078411284495681,
     "lat": "ReplaceMeLauderdale,Alabama",
-    "active": 1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.463645,
     "source": "NYGithub",
@@ -1561,12 +1561,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.078411284495681,
     "locale": "Lauderdale,Alabama",
-    "activePer100k": -1.078411284495681,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLauderdale,Alabama",
     "date": "04/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLauderdale,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.463645,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLauderdale,Alabama",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.463645,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.70570156046113,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.70570156046113,
+    "locale": "Lauderdale,Alabama",
+    "activePer100k": 9.70570156046113,
+    "long": "ReplaceMeLauderdale,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLauderdale,Alabama",
+    "active": 9
   }]
 }

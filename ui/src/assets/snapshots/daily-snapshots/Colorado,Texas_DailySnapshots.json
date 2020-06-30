@@ -1193,12 +1193,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -9.305355231935978,
     "locale": "Colorado,Texas",
-    "activePer100k": -9.305355231935978,
+    "activePer100k": 0.0,
     "long": "ReplaceMeColorado,Texas",
     "date": "04/05/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeColorado,Texas",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.107465,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.652677615967989,
     "locale": "Colorado,Texas",
-    "activePer100k": -4.652677615967989,
+    "activePer100k": 0.0,
     "long": "ReplaceMeColorado,Texas",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeColorado,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.107465,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeColorado,Texas",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.107465,
+    "source": "NYGithub",
+    "confirmedPer100kN": 23.263388079839945,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 23.263388079839945,
+    "locale": "Colorado,Texas",
+    "activePer100k": 23.263388079839945,
+    "long": "ReplaceMeColorado,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeColorado,Texas",
+    "active": 5
   }]
 }

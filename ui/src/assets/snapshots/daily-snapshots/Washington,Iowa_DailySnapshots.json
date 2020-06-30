@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Washington,Iowa",
-    "activePer100k": -4.552697473252902,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Iowa",
     "date": "05/13/2020",
     "deathsPer100k": 4.552697473252902,
     "lat": "ReplaceMeWashington,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.109825,
     "source": "NYGithub",
@@ -2489,12 +2489,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.552697473252902,
     "locale": "Washington,Iowa",
-    "activePer100k": -4.552697473252902,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWashington,Iowa",
     "date": "06/25/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.109825,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 4.552697473252902,
     "long": "ReplaceMeWashington,Iowa",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeWashington,Iowa",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.109825,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.552697473252902,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.552697473252902,
+    "locale": "Washington,Iowa",
+    "activePer100k": 4.552697473252902,
+    "long": "ReplaceMeWashington,Iowa",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWashington,Iowa",
     "active": 1

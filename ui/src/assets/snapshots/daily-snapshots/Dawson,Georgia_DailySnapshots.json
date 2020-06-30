@@ -1049,12 +1049,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.8302436034931824,
     "locale": "Dawson,Georgia",
-    "activePer100k": -3.8302436034931824,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDawson,Georgia",
     "date": "03/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDawson,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13054,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -19.15121801746591,
     "locale": "Dawson,Georgia",
-    "activePer100k": -19.15121801746591,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDawson,Georgia",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDawson,Georgia",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13054,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.8302436034931824,
     "locale": "Dawson,Georgia",
-    "activePer100k": -3.8302436034931824,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDawson,Georgia",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDawson,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.13054,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDawson,Georgia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.13054,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.660487206986365,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.660487206986365,
+    "locale": "Dawson,Georgia",
+    "activePer100k": 7.660487206986365,
+    "long": "ReplaceMeDawson,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDawson,Georgia",
+    "active": 2
   }]
 }

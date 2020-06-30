@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.1013521895546456,
     "locale": "Chester,South Carolina",
-    "activePer100k": -3.1013521895546456,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChester,South Carolina",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16122,
     "source": "NYGithub",
@@ -1753,12 +1753,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.1013521895546456,
     "locale": "Chester,South Carolina",
-    "activePer100k": -3.1013521895546456,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChester,South Carolina",
     "date": "05/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16122,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.1013521895546456,
     "locale": "Chester,South Carolina",
-    "activePer100k": -3.1013521895546456,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChester,South Carolina",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16122,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.1013521895546456,
     "locale": "Chester,South Carolina",
-    "activePer100k": -3.1013521895546456,
+    "activePer100k": 0.0,
     "long": "ReplaceMeChester,South Carolina",
     "date": "05/19/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,South Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16122,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeChester,South Carolina",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.16122,
+    "source": "NYGithub",
+    "confirmedPer100kN": 27.91216970599181,
+    "deaths": 0,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 27.91216970599181,
+    "locale": "Chester,South Carolina",
+    "activePer100k": 27.91216970599181,
+    "long": "ReplaceMeChester,South Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeChester,South Carolina",
+    "active": 9
   }]
 }

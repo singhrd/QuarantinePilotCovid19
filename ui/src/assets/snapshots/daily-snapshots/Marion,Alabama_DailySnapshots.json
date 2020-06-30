@@ -1097,12 +1097,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.365983372042142,
     "locale": "Marion,Alabama",
-    "activePer100k": -3.365983372042142,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarion,Alabama",
     "date": "03/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarion,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.148545,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.731966744084284,
     "locale": "Marion,Alabama",
-    "activePer100k": -6.731966744084284,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarion,Alabama",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarion,Alabama",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.148545,
     "source": "NYGithub",
@@ -1577,12 +1577,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.365983372042142,
     "locale": "Marion,Alabama",
-    "activePer100k": -3.365983372042142,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarion,Alabama",
     "date": "04/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarion,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.148545,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.365983372042142,
     "locale": "Marion,Alabama",
-    "activePer100k": -3.365983372042142,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarion,Alabama",
     "date": "05/22/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarion,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.148545,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Marion,Alabama",
-    "activePer100k": -3.365983372042142,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarion,Alabama",
     "date": "06/10/2020",
     "deathsPer100k": 3.365983372042142,
     "lat": "ReplaceMeMarion,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.148545,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarion,Alabama",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.148545,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.365983372042142,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.365983372042142,
+    "locale": "Marion,Alabama",
+    "activePer100k": 3.365983372042142,
+    "long": "ReplaceMeMarion,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMarion,Alabama",
+    "active": 1
   }]
 }

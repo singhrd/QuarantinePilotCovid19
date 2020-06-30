@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.661638216223369,
     "locale": "Johnson,Iowa",
-    "activePer100k": -0.661638216223369,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJohnson,Iowa",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJohnson,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.7557,
     "source": "NYGithub",
@@ -2105,12 +2105,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.661638216223369,
     "locale": "Johnson,Iowa",
-    "activePer100k": -0.661638216223369,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJohnson,Iowa",
     "date": "06/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJohnson,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.7557,
     "source": "NYGithub",
@@ -2249,12 +2249,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.308191081116845,
     "locale": "Johnson,Iowa",
-    "activePer100k": -3.308191081116845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJohnson,Iowa",
     "date": "06/10/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJohnson,Iowa",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.7557,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJohnson,Iowa",
     "active": 52
+  }, {
+    "epidemiccontrolThreshold": 0.7557,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.247849675797273,
+    "deaths": 0,
+    "confirmed": 17,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.247849675797273,
+    "locale": "Johnson,Iowa",
+    "activePer100k": 11.247849675797273,
+    "long": "ReplaceMeJohnson,Iowa",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeJohnson,Iowa",
+    "active": 17
   }]
 }

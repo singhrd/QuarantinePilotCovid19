@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.566274026740575,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -2.566274026740575,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "04/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -2.566274026740575,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "04/26/2020",
     "deathsPer100k": 2.566274026740575,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.566274026740575,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -2.566274026740575,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "04/30/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -17.963918187184028,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -17.963918187184028,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "05/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -7
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.13254805348115,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -5.13254805348115,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "05/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.13254805348115,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -5.13254805348115,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "06/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -2265,12 +2265,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.566274026740575,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -2.566274026740575,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "06/11/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.566274026740575,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -2.566274026740575,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.13254805348115,
     "locale": "Des Moines,Iowa",
-    "activePer100k": -5.13254805348115,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "06/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.194835,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 2.566274026740575,
     "long": "ReplaceMeDes Moines,Iowa",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDes Moines,Iowa",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.194835,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.566274026740575,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.566274026740575,
+    "locale": "Des Moines,Iowa",
+    "activePer100k": 2.566274026740575,
+    "long": "ReplaceMeDes Moines,Iowa",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDes Moines,Iowa",
     "active": 1

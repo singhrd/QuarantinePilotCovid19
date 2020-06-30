@@ -1017,12 +1017,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Stark,Ohio",
-    "activePer100k": -0.2698283352131374,
+    "activePer100k": 0.0,
     "long": "ReplaceMeStark,Ohio",
     "date": "03/25/2020",
     "deathsPer100k": 0.2698283352131374,
     "lat": "ReplaceMeStark,Ohio",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.85303,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeStark,Ohio",
     "active": 18
+  }, {
+    "epidemiccontrolThreshold": 1.85303,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.1586266817050994,
+    "deaths": 0,
+    "confirmed": 8,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.1586266817050994,
+    "locale": "Stark,Ohio",
+    "activePer100k": 2.1586266817050994,
+    "long": "ReplaceMeStark,Ohio",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeStark,Ohio",
+    "active": 8
   }]
 }

@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Henry,Virginia",
-    "activePer100k": -1.977965464722986,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHenry,Virginia",
     "date": "04/21/2020",
     "deathsPer100k": 1.977965464722986,
     "lat": "ReplaceMeHenry,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.252785,
     "source": "NYGithub",
@@ -2425,12 +2425,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.977965464722986,
     "locale": "Henry,Virginia",
-    "activePer100k": -1.977965464722986,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHenry,Virginia",
     "date": "06/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHenry,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.252785,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 11.867792788337917,
     "long": "ReplaceMeHenry,Virginia",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHenry,Virginia",
+    "active": 6
+  }, {
+    "epidemiccontrolThreshold": 0.252785,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.867792788337917,
+    "deaths": 0,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.867792788337917,
+    "locale": "Henry,Virginia",
+    "activePer100k": 11.867792788337917,
+    "long": "ReplaceMeHenry,Virginia",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHenry,Virginia",
     "active": 6

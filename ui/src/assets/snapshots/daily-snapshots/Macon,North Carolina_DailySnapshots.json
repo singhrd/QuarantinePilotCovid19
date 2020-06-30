@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Macon,North Carolina",
-    "activePer100k": -2.7887779574990237,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMacon,North Carolina",
     "date": "04/07/2020",
     "deathsPer100k": 2.7887779574990237,
     "lat": "ReplaceMeMacon,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17929,
     "source": "NYGithub",
@@ -2361,12 +2361,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.7887779574990237,
     "locale": "Macon,North Carolina",
-    "activePer100k": -2.7887779574990237,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMacon,North Carolina",
     "date": "06/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMacon,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17929,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.7887779574990237,
     "locale": "Macon,North Carolina",
-    "activePer100k": -2.7887779574990237,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMacon,North Carolina",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMacon,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.17929,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMacon,North Carolina",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.17929,
+    "source": "NYGithub",
+    "confirmedPer100kN": 30.676557532489262,
+    "deaths": 0,
+    "confirmed": 11,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 30.676557532489262,
+    "locale": "Macon,North Carolina",
+    "activePer100k": 30.676557532489262,
+    "long": "ReplaceMeMacon,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMacon,North Carolina",
+    "active": 11
   }]
 }

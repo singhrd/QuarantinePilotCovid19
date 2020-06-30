@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.756668085852388,
     "locale": "Natrona,Wyoming",
-    "activePer100k": -3.756668085852388,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNatrona,Wyoming",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNatrona,Wyoming",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.39929,
     "source": "NYGithub",
@@ -1625,12 +1625,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.2522226952841293,
     "locale": "Natrona,Wyoming",
-    "activePer100k": -1.2522226952841293,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNatrona,Wyoming",
     "date": "05/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNatrona,Wyoming",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.39929,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.2522226952841293,
     "locale": "Natrona,Wyoming",
-    "activePer100k": -1.2522226952841293,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNatrona,Wyoming",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNatrona,Wyoming",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.39929,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNatrona,Wyoming",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.39929,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.008890781136517,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.008890781136517,
+    "locale": "Natrona,Wyoming",
+    "activePer100k": 5.008890781136517,
+    "long": "ReplaceMeNatrona,Wyoming",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNatrona,Wyoming",
+    "active": 4
   }]
 }

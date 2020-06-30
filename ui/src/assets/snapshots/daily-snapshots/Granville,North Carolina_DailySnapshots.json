@@ -1497,12 +1497,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.3089026024518966,
     "locale": "Granville,North Carolina",
-    "activePer100k": -3.3089026024518966,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGranville,North Carolina",
     "date": "04/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGranville,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.302215,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Granville,North Carolina",
-    "activePer100k": -3.3089026024518966,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGranville,North Carolina",
     "date": "05/05/2020",
     "deathsPer100k": 3.3089026024518966,
     "lat": "ReplaceMeGranville,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.302215,
     "source": "NYGithub",
@@ -1721,12 +1721,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.272256506129741,
     "locale": "Granville,North Carolina",
-    "activePer100k": -4.963353903677845,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGranville,North Carolina",
     "date": "05/08/2020",
     "deathsPer100k": -3.3089026024518966,
     "lat": "ReplaceMeGranville,North Carolina",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.302215,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGranville,North Carolina",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.302215,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.58115910858164,
+    "deaths": 0,
+    "confirmed": 7,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.58115910858164,
+    "locale": "Granville,North Carolina",
+    "activePer100k": 11.58115910858164,
+    "long": "ReplaceMeGranville,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGranville,North Carolina",
+    "active": 7
   }]
 }

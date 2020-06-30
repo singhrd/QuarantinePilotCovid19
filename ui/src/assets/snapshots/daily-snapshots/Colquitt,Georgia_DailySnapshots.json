@@ -2057,12 +2057,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -4.385964912280701,
     "locale": "Colquitt,Georgia",
-    "activePer100k": -4.385964912280701,
+    "activePer100k": 0.0,
     "long": "ReplaceMeColquitt,Georgia",
     "date": "05/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeColquitt,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.228,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeColquitt,Georgia",
     "active": 58
+  }, {
+    "epidemiccontrolThreshold": 0.228,
+    "source": "NYGithub",
+    "confirmedPer100kN": 26.31578947368421,
+    "deaths": 0,
+    "confirmed": 12,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 26.31578947368421,
+    "locale": "Colquitt,Georgia",
+    "activePer100k": 26.31578947368421,
+    "long": "ReplaceMeColquitt,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeColquitt,Georgia",
+    "active": 12
   }]
 }

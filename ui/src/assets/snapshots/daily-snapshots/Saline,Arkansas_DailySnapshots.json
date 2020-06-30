@@ -1241,12 +1241,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.450239715118796,
     "locale": "Saline,Arkansas",
-    "activePer100k": -2.450239715118796,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaline,Arkansas",
     "date": "04/08/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaline,Arkansas",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.612185,
     "source": "NYGithub",
@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8167465717062653,
     "locale": "Saline,Arkansas",
-    "activePer100k": -0.8167465717062653,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaline,Arkansas",
     "date": "05/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaline,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.612185,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8167465717062653,
     "locale": "Saline,Arkansas",
-    "activePer100k": -0.8167465717062653,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaline,Arkansas",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaline,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.612185,
     "source": "NYGithub",
@@ -2153,12 +2153,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8167465717062653,
     "locale": "Saline,Arkansas",
-    "activePer100k": -0.8167465717062653,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSaline,Arkansas",
     "date": "06/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaline,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.612185,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSaline,Arkansas",
     "active": 13
+  }, {
+    "epidemiccontrolThreshold": 0.612185,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.266986286825061,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.266986286825061,
+    "locale": "Saline,Arkansas",
+    "activePer100k": 3.266986286825061,
+    "long": "ReplaceMeSaline,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSaline,Arkansas",
+    "active": 4
   }]
 }

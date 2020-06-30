@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Union,North Carolina",
-    "activePer100k": -0.4169116022329785,
+    "activePer100k": 0.0,
     "long": "ReplaceMeUnion,North Carolina",
     "date": "05/04/2020",
     "deathsPer100k": 0.4169116022329785,
     "lat": "ReplaceMeUnion,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.199295,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUnion,North Carolina",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 1.199295,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.673524862523399,
+    "deaths": 0,
+    "confirmed": 28,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.673524862523399,
+    "locale": "Union,North Carolina",
+    "activePer100k": 11.673524862523399,
+    "long": "ReplaceMeUnion,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeUnion,North Carolina",
+    "active": 28
   }]
 }

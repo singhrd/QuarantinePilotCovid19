@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.287063893262617,
     "locale": "Conecuh,Alabama",
-    "activePer100k": -8.287063893262617,
+    "activePer100k": 0.0,
     "long": "ReplaceMeConecuh,Alabama",
     "date": "04/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeConecuh,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.060335,
     "source": "NYGithub",
@@ -1433,12 +1433,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.287063893262617,
     "locale": "Conecuh,Alabama",
-    "activePer100k": -8.287063893262617,
+    "activePer100k": 0.0,
     "long": "ReplaceMeConecuh,Alabama",
     "date": "04/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeConecuh,Alabama",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.060335,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeConecuh,Alabama",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.060335,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Conecuh,Alabama",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeConecuh,Alabama",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeConecuh,Alabama",
+    "active": 0
   }]
 }

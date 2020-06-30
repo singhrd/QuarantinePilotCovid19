@@ -2217,12 +2217,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.473483957847936,
     "locale": "Brazoria,Texas",
-    "activePer100k": -3.2062928841673255,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBrazoria,Texas",
     "date": "06/08/2020",
     "deathsPer100k": -0.26719107368061046,
     "lat": "ReplaceMeBrazoria,Texas",
-    "active": -12
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.87132,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.26719107368061046,
     "lat": "ReplaceMeBrazoria,Texas",
     "active": 77
+  }, {
+    "epidemiccontrolThreshold": 1.87132,
+    "source": "NYGithub",
+    "confirmedPer100kN": 25.917534147019214,
+    "deaths": 0,
+    "confirmed": 97,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 25.917534147019214,
+    "locale": "Brazoria,Texas",
+    "activePer100k": 25.917534147019214,
+    "long": "ReplaceMeBrazoria,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBrazoria,Texas",
+    "active": 97
   }]
 }

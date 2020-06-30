@@ -1513,12 +1513,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Coles,Illinois",
-    "activePer100k": -1.97546472807728,
+    "activePer100k": 0.0,
     "long": "ReplaceMeColes,Illinois",
     "date": "04/25/2020",
     "deathsPer100k": 1.97546472807728,
     "lat": "ReplaceMeColes,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.253105,
     "source": "NYGithub",
@@ -1817,12 +1817,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Coles,Illinois",
-    "activePer100k": -3.95092945615456,
+    "activePer100k": 0.0,
     "long": "ReplaceMeColes,Illinois",
     "date": "05/14/2020",
     "deathsPer100k": 3.95092945615456,
     "lat": "ReplaceMeColes,Illinois",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.253105,
     "source": "NYGithub",
@@ -1897,12 +1897,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Coles,Illinois",
-    "activePer100k": -3.95092945615456,
+    "activePer100k": 0.0,
     "long": "ReplaceMeColes,Illinois",
     "date": "05/19/2020",
     "deathsPer100k": 3.95092945615456,
     "lat": "ReplaceMeColes,Illinois",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.253105,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.97546472807728,
     "locale": "Coles,Illinois",
-    "activePer100k": -1.97546472807728,
+    "activePer100k": 0.0,
     "long": "ReplaceMeColes,Illinois",
     "date": "05/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeColes,Illinois",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.253105,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 5.92639418423184,
     "long": "ReplaceMeColes,Illinois",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeColes,Illinois",
+    "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.253105,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.92639418423184,
+    "deaths": 0,
+    "confirmed": 3,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.92639418423184,
+    "locale": "Coles,Illinois",
+    "activePer100k": 5.92639418423184,
+    "long": "ReplaceMeColes,Illinois",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeColes,Illinois",
     "active": 3

@@ -1337,12 +1337,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.9923097639067597,
     "locale": "Botetourt,Virginia",
-    "activePer100k": -2.9923097639067597,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBotetourt,Virginia",
     "date": "04/14/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBotetourt,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.167095,
     "source": "NYGithub",
@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.9923097639067597,
     "locale": "Botetourt,Virginia",
-    "activePer100k": -2.9923097639067597,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBotetourt,Virginia",
     "date": "05/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBotetourt,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.167095,
     "source": "NYGithub",
@@ -1945,12 +1945,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Botetourt,Virginia",
-    "activePer100k": -2.9923097639067597,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBotetourt,Virginia",
     "date": "05/22/2020",
     "deathsPer100k": 2.9923097639067597,
     "lat": "ReplaceMeBotetourt,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.167095,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBotetourt,Virginia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.167095,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.969239055627039,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.969239055627039,
+    "locale": "Botetourt,Virginia",
+    "activePer100k": 11.969239055627039,
+    "long": "ReplaceMeBotetourt,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBotetourt,Virginia",
+    "active": 4
   }]
 }

@@ -1081,12 +1081,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.3406203377591269,
     "locale": "Leon,Florida",
-    "activePer100k": -0.3406203377591269,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLeon,Florida",
     "date": "03/29/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLeon,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.46791,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7031016887956345,
     "locale": "Leon,Florida",
-    "activePer100k": -1.7031016887956345,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLeon,Florida",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLeon,Florida",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.46791,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Leon,Florida",
-    "activePer100k": -0.3406203377591269,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLeon,Florida",
     "date": "05/06/2020",
     "deathsPer100k": 0.3406203377591269,
     "lat": "ReplaceMeLeon,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.46791,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6812406755182538,
     "locale": "Leon,Florida",
-    "activePer100k": -1.0218610132773807,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLeon,Florida",
     "date": "05/31/2020",
     "deathsPer100k": 0.3406203377591269,
     "lat": "ReplaceMeLeon,Florida",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.46791,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLeon,Florida",
     "active": 80
+  }, {
+    "epidemiccontrolThreshold": 1.46791,
+    "source": "NYGithub",
+    "confirmedPer100kN": 59.94917944560633,
+    "deaths": 0,
+    "confirmed": 176,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 59.94917944560633,
+    "locale": "Leon,Florida",
+    "activePer100k": 59.94917944560633,
+    "long": "ReplaceMeLeon,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLeon,Florida",
+    "active": 176
   }]
 }

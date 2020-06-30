@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.9816237424946,
     "locale": "Merrimack,New Hampshire",
-    "activePer100k": -1.9816237424946,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMerrimack,New Hampshire",
     "date": "04/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMerrimack,New Hampshire",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.756955,
     "source": "NYGithub",
@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -26.421649899928,
     "locale": "Merrimack,New Hampshire",
-    "activePer100k": -26.421649899928,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMerrimack,New Hampshire",
     "date": "05/15/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMerrimack,New Hampshire",
-    "active": -40
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.756955,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMerrimack,New Hampshire",
     "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.756955,
+    "source": "NYGithub",
+    "confirmedPer100kN": -0.6605412474982,
+    "deaths": 0,
+    "confirmed": -1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -0.6605412474982,
+    "locale": "Merrimack,New Hampshire",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMerrimack,New Hampshire",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMerrimack,New Hampshire",
+    "active": 0
   }]
 }

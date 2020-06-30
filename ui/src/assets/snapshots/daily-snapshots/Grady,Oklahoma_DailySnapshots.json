@@ -1113,12 +1113,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7910233907654836,
     "locale": "Grady,Oklahoma",
-    "activePer100k": -1.7910233907654836,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrady,Oklahoma",
     "date": "03/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrady,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27917,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Grady,Oklahoma",
-    "activePer100k": -1.7910233907654836,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrady,Oklahoma",
     "date": "06/16/2020",
     "deathsPer100k": 1.7910233907654836,
     "lat": "ReplaceMeGrady,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27917,
     "source": "NYGithub",
@@ -2473,12 +2473,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.7910233907654836,
     "locale": "Grady,Oklahoma",
-    "activePer100k": -1.7910233907654836,
+    "activePer100k": 0.0,
     "long": "ReplaceMeGrady,Oklahoma",
     "date": "06/24/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrady,Oklahoma",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.27917,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeGrady,Oklahoma",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.27917,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.955116953827417,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.955116953827417,
+    "locale": "Grady,Oklahoma",
+    "activePer100k": 8.955116953827417,
+    "long": "ReplaceMeGrady,Oklahoma",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeGrady,Oklahoma",
+    "active": 5
   }]
 }

@@ -937,12 +937,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Baltimore,Maryland",
-    "activePer100k": -0.12086490929088559,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaltimore,Maryland",
     "date": "03/20/2020",
     "deathsPer100k": 0.12086490929088559,
     "lat": "ReplaceMeBaltimore,Maryland",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.13685,
     "source": "NYGithub",
@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.1755683672359405,
     "locale": "Baltimore,Maryland",
-    "activePer100k": -2.900757822981254,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaltimore,Maryland",
     "date": "05/05/2020",
     "deathsPer100k": 0.7251894557453135,
     "lat": "ReplaceMeBaltimore,Maryland",
-    "active": -24
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.13685,
     "source": "NYGithub",
@@ -1737,12 +1737,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.0216227322721396,
     "locale": "Baltimore,Maryland",
-    "activePer100k": -3.988542006599224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBaltimore,Maryland",
     "date": "05/09/2020",
     "deathsPer100k": 0.9669192743270847,
     "lat": "ReplaceMeBaltimore,Maryland",
-    "active": -33
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.13685,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.48345963716354234,
     "lat": "ReplaceMeBaltimore,Maryland",
     "active": 28
+  }, {
+    "epidemiccontrolThreshold": 4.13685,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.680650736671622,
+    "deaths": 2,
+    "confirmed": 47,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.680650736671622,
+    "locale": "Baltimore,Maryland",
+    "activePer100k": 5.438920918089851,
+    "long": "ReplaceMeBaltimore,Maryland",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.24172981858177117,
+    "lat": "ReplaceMeBaltimore,Maryland",
+    "active": 45
   }]
 }

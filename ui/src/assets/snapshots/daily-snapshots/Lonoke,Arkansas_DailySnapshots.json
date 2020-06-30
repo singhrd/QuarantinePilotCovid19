@@ -1177,12 +1177,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3640889931659141,
     "locale": "Lonoke,Arkansas",
-    "activePer100k": -1.3640889931659141,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLonoke,Arkansas",
     "date": "04/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLonoke,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366545,
     "source": "NYGithub",
@@ -1321,12 +1321,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3640889931659141,
     "locale": "Lonoke,Arkansas",
-    "activePer100k": -1.3640889931659141,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLonoke,Arkansas",
     "date": "04/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLonoke,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366545,
     "source": "NYGithub",
@@ -1401,12 +1401,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.456355972663657,
     "locale": "Lonoke,Arkansas",
-    "activePer100k": -5.456355972663657,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLonoke,Arkansas",
     "date": "04/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLonoke,Arkansas",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366545,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3640889931659141,
     "locale": "Lonoke,Arkansas",
-    "activePer100k": -1.3640889931659141,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLonoke,Arkansas",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLonoke,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366545,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3640889931659141,
     "locale": "Lonoke,Arkansas",
-    "activePer100k": -1.3640889931659141,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLonoke,Arkansas",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLonoke,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366545,
     "source": "NYGithub",
@@ -2025,12 +2025,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3640889931659141,
     "locale": "Lonoke,Arkansas",
-    "activePer100k": -1.3640889931659141,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLonoke,Arkansas",
     "date": "05/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLonoke,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366545,
     "source": "NYGithub",
@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.456355972663657,
     "locale": "Lonoke,Arkansas",
-    "activePer100k": -6.82044496582957,
+    "activePer100k": 0.0,
     "long": "ReplaceMeLonoke,Arkansas",
     "date": "06/26/2020",
     "deathsPer100k": 1.3640889931659141,
     "lat": "ReplaceMeLonoke,Arkansas",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.366545,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeLonoke,Arkansas",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.366545,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.82044496582957,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.82044496582957,
+    "locale": "Lonoke,Arkansas",
+    "activePer100k": 6.82044496582957,
+    "long": "ReplaceMeLonoke,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeLonoke,Arkansas",
+    "active": 5
   }]
 }

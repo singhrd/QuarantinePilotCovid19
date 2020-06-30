@@ -1177,12 +1177,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9515743798113979,
     "locale": "Carver,Minnesota",
-    "activePer100k": -0.9515743798113979,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCarver,Minnesota",
     "date": "04/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarver,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.525445,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCarver,Minnesota",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.525445,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.515743798113979,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.515743798113979,
+    "locale": "Carver,Minnesota",
+    "activePer100k": 9.515743798113979,
+    "long": "ReplaceMeCarver,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCarver,Minnesota",
+    "active": 10
   }]
 }

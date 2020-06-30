@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.8999306525311825,
     "locale": "Warren,New Jersey",
-    "activePer100k": -1.8999306525311825,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWarren,New Jersey",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWarren,New Jersey",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.526335,
     "source": "NYGithub",
@@ -2201,12 +2201,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9499653262655913,
     "locale": "Warren,New Jersey",
-    "activePer100k": -0.9499653262655913,
+    "activePer100k": 0.0,
     "long": "ReplaceMeWarren,New Jersey",
     "date": "06/07/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeWarren,New Jersey",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.526335,
     "source": "NYGithub",
@@ -2525,6 +2525,22 @@
     "long": "ReplaceMeWarren,New Jersey",
     "date": "06/27/2020",
     "deathsPer100k": 0.9499653262655913,
+    "lat": "ReplaceMeWarren,New Jersey",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.526335,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.9499653262655913,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.9499653262655913,
+    "locale": "Warren,New Jersey",
+    "activePer100k": 0.9499653262655913,
+    "long": "ReplaceMeWarren,New Jersey",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
     "lat": "ReplaceMeWarren,New Jersey",
     "active": 1
   }]

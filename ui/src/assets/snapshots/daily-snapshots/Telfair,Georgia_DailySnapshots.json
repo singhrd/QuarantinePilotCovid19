@@ -1481,12 +1481,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.305170239596469,
     "locale": "Telfair,Georgia",
-    "activePer100k": -6.305170239596469,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTelfair,Georgia",
     "date": "04/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTelfair,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0793,
     "source": "NYGithub",
@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.305170239596469,
     "locale": "Telfair,Georgia",
-    "activePer100k": -6.305170239596469,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTelfair,Georgia",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTelfair,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0793,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -12.610340479192939,
     "locale": "Telfair,Georgia",
-    "activePer100k": -12.610340479192939,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTelfair,Georgia",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTelfair,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0793,
     "source": "NYGithub",
@@ -2329,12 +2329,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Telfair,Georgia",
-    "activePer100k": -6.305170239596469,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTelfair,Georgia",
     "date": "06/15/2020",
     "deathsPer100k": 6.305170239596469,
     "lat": "ReplaceMeTelfair,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.0793,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTelfair,Georgia",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 0.0793,
+    "source": "NYGithub",
+    "confirmedPer100kN": 107.18789407313999,
+    "deaths": 0,
+    "confirmed": 17,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 107.18789407313999,
+    "locale": "Telfair,Georgia",
+    "activePer100k": 107.18789407313999,
+    "long": "ReplaceMeTelfair,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTelfair,Georgia",
+    "active": 17
   }]
 }

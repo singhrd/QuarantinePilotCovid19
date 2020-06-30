@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -6.1888847629657135,
     "locale": "Accomack,Virginia",
-    "activePer100k": -6.1888847629657135,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAccomack,Virginia",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAccomack,Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16158,
     "source": "NYGithub",
@@ -1449,12 +1449,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Accomack,Virginia",
-    "activePer100k": -3.0944423814828568,
+    "activePer100k": 0.0,
     "long": "ReplaceMeAccomack,Virginia",
     "date": "04/21/2020",
     "deathsPer100k": 3.0944423814828568,
     "lat": "ReplaceMeAccomack,Virginia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16158,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeAccomack,Virginia",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.16158,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Accomack,Virginia",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeAccomack,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeAccomack,Virginia",
+    "active": 0
   }]
 }

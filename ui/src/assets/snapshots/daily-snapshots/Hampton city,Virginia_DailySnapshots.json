@@ -1673,12 +1673,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Hampton city,Virginia",
-    "activePer100k": -1.486878299011226,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHampton city,Virginia",
     "date": "05/05/2020",
     "deathsPer100k": 1.486878299011226,
     "lat": "ReplaceMeHampton city,Virginia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.67255,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHampton city,Virginia",
     "active": 9
+  }, {
+    "epidemiccontrolThreshold": 0.67255,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.717195747528065,
+    "deaths": 0,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.717195747528065,
+    "locale": "Hampton city,Virginia",
+    "activePer100k": 3.717195747528065,
+    "long": "ReplaceMeHampton city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHampton city,Virginia",
+    "active": 5
   }]
 }

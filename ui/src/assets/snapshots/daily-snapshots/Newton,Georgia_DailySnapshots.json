@@ -1833,12 +1833,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8949026345933563,
     "locale": "Newton,Georgia",
-    "activePer100k": -1.7898052691867126,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNewton,Georgia",
     "date": "05/15/2020",
     "deathsPer100k": 0.8949026345933563,
     "lat": "ReplaceMeNewton,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.55872,
     "source": "NYGithub",
@@ -1849,12 +1849,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.8949026345933563,
     "locale": "Newton,Georgia",
-    "activePer100k": -1.7898052691867126,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNewton,Georgia",
     "date": "05/16/2020",
     "deathsPer100k": 0.8949026345933563,
     "lat": "ReplaceMeNewton,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.55872,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -3.579610538373425,
     "locale": "Newton,Georgia",
-    "activePer100k": -3.579610538373425,
+    "activePer100k": 0.0,
     "long": "ReplaceMeNewton,Georgia",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNewton,Georgia",
-    "active": -4
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.55872,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeNewton,Georgia",
     "active": 20
+  }, {
+    "epidemiccontrolThreshold": 0.55872,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.949026345933563,
+    "deaths": 0,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.949026345933563,
+    "locale": "Newton,Georgia",
+    "activePer100k": 8.949026345933563,
+    "long": "ReplaceMeNewton,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeNewton,Georgia",
+    "active": 10
   }]
 }

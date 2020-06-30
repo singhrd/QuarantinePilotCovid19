@@ -1545,12 +1545,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6735095234246612,
     "locale": "Orange,North Carolina",
-    "activePer100k": -0.6735095234246612,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOrange,North Carolina",
     "date": "04/27/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOrange,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.74238,
     "source": "NYGithub",
@@ -1593,12 +1593,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6735095234246612,
     "locale": "Orange,North Carolina",
-    "activePer100k": -1.3470190468493224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOrange,North Carolina",
     "date": "04/30/2020",
     "deathsPer100k": 0.6735095234246612,
     "lat": "ReplaceMeOrange,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.74238,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Orange,North Carolina",
-    "activePer100k": -1.3470190468493224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOrange,North Carolina",
     "date": "05/06/2020",
     "deathsPer100k": 1.3470190468493224,
     "lat": "ReplaceMeOrange,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.74238,
     "source": "NYGithub",
@@ -1801,12 +1801,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6735095234246612,
     "locale": "Orange,North Carolina",
-    "activePer100k": -0.6735095234246612,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOrange,North Carolina",
     "date": "05/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOrange,North Carolina",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.74238,
     "source": "NYGithub",
@@ -2457,12 +2457,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.3470190468493224,
     "locale": "Orange,North Carolina",
-    "activePer100k": -1.3470190468493224,
+    "activePer100k": 0.0,
     "long": "ReplaceMeOrange,North Carolina",
     "date": "06/23/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOrange,North Carolina",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.74238,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeOrange,North Carolina",
     "active": 23
+  }, {
+    "epidemiccontrolThreshold": 0.74238,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.796680945068562,
+    "deaths": 0,
+    "confirmed": 19,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.796680945068562,
+    "locale": "Orange,North Carolina",
+    "activePer100k": 12.796680945068562,
+    "long": "ReplaceMeOrange,North Carolina",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeOrange,North Carolina",
+    "active": 19
   }]
 }

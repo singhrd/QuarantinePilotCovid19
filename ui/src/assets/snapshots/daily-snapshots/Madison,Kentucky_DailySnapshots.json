@@ -1193,12 +1193,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0754191446116124,
     "locale": "Madison,Kentucky",
-    "activePer100k": -2.1508382892232247,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Kentucky",
     "date": "04/05/2020",
     "deathsPer100k": 1.0754191446116124,
     "lat": "ReplaceMeMadison,Kentucky",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.464935,
     "source": "NYGithub",
@@ -1913,12 +1913,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.377095723058062,
     "locale": "Madison,Kentucky",
-    "activePer100k": -5.377095723058062,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Kentucky",
     "date": "05/20/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Kentucky",
-    "active": -5
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.464935,
     "source": "NYGithub",
@@ -2137,12 +2137,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.0754191446116124,
     "locale": "Madison,Kentucky",
-    "activePer100k": -1.0754191446116124,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMadison,Kentucky",
     "date": "06/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Kentucky",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.464935,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMadison,Kentucky",
     "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.464935,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.980448879950961,
+    "deaths": 0,
+    "confirmed": 13,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.980448879950961,
+    "locale": "Madison,Kentucky",
+    "activePer100k": 13.980448879950961,
+    "long": "ReplaceMeMadison,Kentucky",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMadison,Kentucky",
+    "active": 13
   }]
 }

@@ -1529,12 +1529,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7369631223653569,
     "locale": "Marathon,Wisconsin",
-    "activePer100k": -0.7369631223653569,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarathon,Wisconsin",
     "date": "04/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarathon,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.67846,
     "source": "NYGithub",
@@ -2089,12 +2089,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7369631223653569,
     "locale": "Marathon,Wisconsin",
-    "activePer100k": -0.7369631223653569,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarathon,Wisconsin",
     "date": "05/31/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarathon,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.67846,
     "source": "NYGithub",
@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.7369631223653569,
     "locale": "Marathon,Wisconsin",
-    "activePer100k": -0.7369631223653569,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMarathon,Wisconsin",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarathon,Wisconsin",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.67846,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMarathon,Wisconsin",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.67846,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.4739262447307138,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.4739262447307138,
+    "locale": "Marathon,Wisconsin",
+    "activePer100k": 1.4739262447307138,
+    "long": "ReplaceMeMarathon,Wisconsin",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMarathon,Wisconsin",
+    "active": 2
   }]
 }

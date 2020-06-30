@@ -2505,12 +2505,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -8.111858255950475,
     "locale": "Sussex,Delaware",
-    "activePer100k": -8.111858255950475,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSussex,Delaware",
     "date": "06/26/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSussex,Delaware",
-    "active": -19
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.171125,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSussex,Delaware",
     "active": 23
+  }, {
+    "epidemiccontrolThreshold": 1.171125,
+    "source": "NYGithub",
+    "confirmedPer100kN": 28.178033941722703,
+    "deaths": 0,
+    "confirmed": 66,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 28.178033941722703,
+    "locale": "Sussex,Delaware",
+    "activePer100k": 28.178033941722703,
+    "long": "ReplaceMeSussex,Delaware",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSussex,Delaware",
+    "active": 66
   }]
 }

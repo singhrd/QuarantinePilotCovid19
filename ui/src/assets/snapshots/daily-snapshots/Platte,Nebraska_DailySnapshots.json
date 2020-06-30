@@ -2281,12 +2281,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.975500448162534,
     "locale": "Platte,Nebraska",
-    "activePer100k": -5.975500448162534,
+    "activePer100k": 0.0,
     "long": "ReplaceMePlatte,Nebraska",
     "date": "06/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePlatte,Nebraska",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16735,
     "source": "NYGithub",
@@ -2425,12 +2425,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.987750224081267,
     "locale": "Platte,Nebraska",
-    "activePer100k": -2.987750224081267,
+    "activePer100k": 0.0,
     "long": "ReplaceMePlatte,Nebraska",
     "date": "06/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePlatte,Nebraska",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16735,
     "source": "NYGithub",
@@ -2441,12 +2441,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.975500448162534,
     "locale": "Platte,Nebraska",
-    "activePer100k": -8.9632506722438,
+    "activePer100k": 0.0,
     "long": "ReplaceMePlatte,Nebraska",
     "date": "06/22/2020",
     "deathsPer100k": 2.987750224081267,
     "lat": "ReplaceMePlatte,Nebraska",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.16735,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMePlatte,Nebraska",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.16735,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.987750224081267,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.987750224081267,
+    "locale": "Platte,Nebraska",
+    "activePer100k": 2.987750224081267,
+    "long": "ReplaceMePlatte,Nebraska",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMePlatte,Nebraska",
+    "active": 1
   }]
 }

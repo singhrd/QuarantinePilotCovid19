@@ -1977,12 +1977,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Deaf Smith,Texas",
-    "activePer100k": -5.391998274560552,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDeaf Smith,Texas",
     "date": "05/24/2020",
     "deathsPer100k": 5.391998274560552,
     "lat": "ReplaceMeDeaf Smith,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09273,
     "source": "NYGithub",
@@ -2009,12 +2009,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Deaf Smith,Texas",
-    "activePer100k": -5.391998274560552,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDeaf Smith,Texas",
     "date": "05/26/2020",
     "deathsPer100k": 5.391998274560552,
     "lat": "ReplaceMeDeaf Smith,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09273,
     "source": "NYGithub",
@@ -2121,12 +2121,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.391998274560552,
     "locale": "Deaf Smith,Texas",
-    "activePer100k": -5.391998274560552,
+    "activePer100k": 0.0,
     "long": "ReplaceMeDeaf Smith,Texas",
     "date": "06/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDeaf Smith,Texas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.09273,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeDeaf Smith,Texas",
     "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.09273,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Deaf Smith,Texas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeDeaf Smith,Texas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeDeaf Smith,Texas",
+    "active": 0
   }]
 }

@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Umatilla,Oregon",
-    "activePer100k": -1.2828736369467608,
+    "activePer100k": 0.0,
     "long": "ReplaceMeUmatilla,Oregon",
     "date": "05/11/2020",
     "deathsPer100k": 1.2828736369467608,
     "lat": "ReplaceMeUmatilla,Oregon",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.38975,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeUmatilla,Oregon",
     "active": 56
+  }, {
+    "epidemiccontrolThreshold": 0.38975,
+    "source": "NYGithub",
+    "confirmedPer100kN": 61.577934573444516,
+    "deaths": 0,
+    "confirmed": 48,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 61.577934573444516,
+    "locale": "Umatilla,Oregon",
+    "activePer100k": 61.577934573444516,
+    "long": "ReplaceMeUmatilla,Oregon",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeUmatilla,Oregon",
+    "active": 48
   }]
 }

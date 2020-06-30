@@ -1017,12 +1017,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Citrus,Florida",
-    "activePer100k": -0.6681946049967593,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCitrus,Florida",
     "date": "03/25/2020",
     "deathsPer100k": 0.6681946049967593,
     "lat": "ReplaceMeCitrus,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.748285,
     "source": "NYGithub",
@@ -1353,12 +1353,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.6681946049967593,
     "locale": "Citrus,Florida",
-    "activePer100k": -1.3363892099935186,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCitrus,Florida",
     "date": "04/15/2020",
     "deathsPer100k": 0.6681946049967593,
     "lat": "ReplaceMeCitrus,Florida",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.748285,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCitrus,Florida",
     "active": 24
+  }, {
+    "epidemiccontrolThreshold": 0.748285,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.68652986495787,
+    "deaths": 0,
+    "confirmed": 13,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.68652986495787,
+    "locale": "Citrus,Florida",
+    "activePer100k": 8.68652986495787,
+    "long": "ReplaceMeCitrus,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCitrus,Florida",
+    "active": 13
   }]
 }

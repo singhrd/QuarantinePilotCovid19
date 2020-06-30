@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Terrell,Georgia",
-    "activePer100k": -11.721955222131053,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTerrell,Georgia",
     "date": "04/16/2020",
     "deathsPer100k": 11.721955222131053,
     "lat": "ReplaceMeTerrell,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.042655,
     "source": "NYGithub",
@@ -1769,12 +1769,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -11.721955222131053,
     "locale": "Terrell,Georgia",
-    "activePer100k": -35.16586566639315,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTerrell,Georgia",
     "date": "05/11/2020",
     "deathsPer100k": 23.443910444262105,
     "lat": "ReplaceMeTerrell,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.042655,
     "source": "NYGithub",
@@ -2041,12 +2041,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -23.443910444262105,
     "locale": "Terrell,Georgia",
-    "activePer100k": -23.443910444262105,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTerrell,Georgia",
     "date": "05/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTerrell,Georgia",
-    "active": -2
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.042655,
     "source": "NYGithub",
@@ -2345,12 +2345,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Terrell,Georgia",
-    "activePer100k": -11.721955222131053,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTerrell,Georgia",
     "date": "06/16/2020",
     "deathsPer100k": 11.721955222131053,
     "lat": "ReplaceMeTerrell,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.042655,
     "source": "NYGithub",
@@ -2377,12 +2377,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -35.16586566639315,
     "locale": "Terrell,Georgia",
-    "activePer100k": -35.16586566639315,
+    "activePer100k": 0.0,
     "long": "ReplaceMeTerrell,Georgia",
     "date": "06/18/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTerrell,Georgia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.042655,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeTerrell,Georgia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.042655,
+    "source": "NYGithub",
+    "confirmedPer100kN": 11.721955222131053,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 11.721955222131053,
+    "locale": "Terrell,Georgia",
+    "activePer100k": 11.721955222131053,
+    "long": "ReplaceMeTerrell,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeTerrell,Georgia",
+    "active": 1
   }]
 }

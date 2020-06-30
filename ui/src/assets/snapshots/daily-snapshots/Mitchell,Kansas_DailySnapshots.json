@@ -1145,12 +1145,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -16.725204883759826,
     "locale": "Mitchell,Kansas",
-    "activePer100k": -16.725204883759826,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMitchell,Kansas",
     "date": "04/02/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMitchell,Kansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.029895,
     "source": "NYGithub",
@@ -2524,6 +2524,22 @@
     "activePer100k": 0.0,
     "long": "ReplaceMeMitchell,Kansas",
     "date": "06/27/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeMitchell,Kansas",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.029895,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Mitchell,Kansas",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeMitchell,Kansas",
+    "date": "06/28/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeMitchell,Kansas",
     "active": 0

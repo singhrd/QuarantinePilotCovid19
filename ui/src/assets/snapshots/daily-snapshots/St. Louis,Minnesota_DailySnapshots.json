@@ -1929,12 +1929,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.5023358617571708,
     "locale": "St. Louis,Minnesota",
-    "activePer100k": -0.5023358617571708,
+    "activePer100k": 0.0,
     "long": "ReplaceMeSt. Louis,Minnesota",
     "date": "05/21/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Louis,Minnesota",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.99535,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeSt. Louis,Minnesota",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.99535,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.0093434470286833,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.0093434470286833,
+    "locale": "St. Louis,Minnesota",
+    "activePer100k": 2.0093434470286833,
+    "long": "ReplaceMeSt. Louis,Minnesota",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeSt. Louis,Minnesota",
+    "active": 4
   }]
 }

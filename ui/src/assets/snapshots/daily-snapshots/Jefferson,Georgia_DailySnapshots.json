@@ -1257,12 +1257,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Jefferson,Georgia",
-    "activePer100k": -6.509569066527796,
+    "activePer100k": 0.0,
     "long": "ReplaceMeJefferson,Georgia",
     "date": "04/09/2020",
     "deathsPer100k": 6.509569066527796,
     "lat": "ReplaceMeJefferson,Georgia",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.07681,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeJefferson,Georgia",
     "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.07681,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.019138133055591,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.019138133055591,
+    "locale": "Jefferson,Georgia",
+    "activePer100k": 13.019138133055591,
+    "long": "ReplaceMeJefferson,Georgia",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeJefferson,Georgia",
+    "active": 2
   }]
 }

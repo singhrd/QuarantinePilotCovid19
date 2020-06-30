@@ -1033,12 +1033,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Highlands,Florida",
-    "activePer100k": -0.9414334265352424,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHighlands,Florida",
     "date": "03/26/2020",
     "deathsPer100k": 0.9414334265352424,
     "lat": "ReplaceMeHighlands,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.531105,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9414334265352424,
     "locale": "Highlands,Florida",
-    "activePer100k": -0.9414334265352424,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHighlands,Florida",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHighlands,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.531105,
     "source": "NYGithub",
@@ -1689,12 +1689,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.9414334265352424,
     "locale": "Highlands,Florida",
-    "activePer100k": -0.9414334265352424,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHighlands,Florida",
     "date": "05/06/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHighlands,Florida",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.531105,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHighlands,Florida",
     "active": 89
+  }, {
+    "epidemiccontrolThreshold": 0.531105,
+    "source": "NYGithub",
+    "confirmedPer100kN": -46.13023790022688,
+    "deaths": 0,
+    "confirmed": -49,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -46.13023790022688,
+    "locale": "Highlands,Florida",
+    "activePer100k": 0.0,
+    "long": "ReplaceMeHighlands,Florida",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeHighlands,Florida",
+    "active": 0
   }]
 }

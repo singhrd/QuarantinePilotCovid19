@@ -1161,12 +1161,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.35824189209037727,
     "locale": "Benton,Arkansas",
-    "activePer100k": -0.35824189209037727,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Arkansas",
     "date": "04/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBenton,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.395705,
     "source": "NYGithub",
@@ -1177,12 +1177,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.35824189209037727,
     "locale": "Benton,Arkansas",
-    "activePer100k": -0.35824189209037727,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Arkansas",
     "date": "04/04/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBenton,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.395705,
     "source": "NYGithub",
@@ -1369,12 +1369,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.35824189209037727,
     "locale": "Benton,Arkansas",
-    "activePer100k": -0.35824189209037727,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Arkansas",
     "date": "04/16/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBenton,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.395705,
     "source": "NYGithub",
@@ -1609,12 +1609,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -0.35824189209037727,
     "locale": "Benton,Arkansas",
-    "activePer100k": -0.35824189209037727,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Arkansas",
     "date": "05/01/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBenton,Arkansas",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.395705,
     "source": "NYGithub",
@@ -1641,12 +1641,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.149451352542264,
     "locale": "Benton,Arkansas",
-    "activePer100k": -2.149451352542264,
+    "activePer100k": 0.0,
     "long": "ReplaceMeBenton,Arkansas",
     "date": "05/03/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeBenton,Arkansas",
-    "active": -6
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 1.395705,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 1.074725676271132,
     "lat": "ReplaceMeBenton,Arkansas",
     "active": 116
+  }, {
+    "epidemiccontrolThreshold": 1.395705,
+    "source": "NYGithub",
+    "confirmedPer100kN": 17.912094604518863,
+    "deaths": 0,
+    "confirmed": 50,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 17.912094604518863,
+    "locale": "Benton,Arkansas",
+    "activePer100k": 17.912094604518863,
+    "long": "ReplaceMeBenton,Arkansas",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeBenton,Arkansas",
+    "active": 50
   }]
 }

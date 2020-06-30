@@ -1225,12 +1225,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 0.0,
     "locale": "Cape Girardeau,Missouri",
-    "activePer100k": -1.2678931419659951,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCape Girardeau,Missouri",
     "date": "04/07/2020",
     "deathsPer100k": 1.2678931419659951,
     "lat": "ReplaceMeCape Girardeau,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.394355,
     "source": "NYGithub",
@@ -1785,12 +1785,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.2678931419659951,
     "locale": "Cape Girardeau,Missouri",
-    "activePer100k": -1.2678931419659951,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCape Girardeau,Missouri",
     "date": "05/12/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCape Girardeau,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.394355,
     "source": "NYGithub",
@@ -1865,12 +1865,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.2678931419659951,
     "locale": "Cape Girardeau,Missouri",
-    "activePer100k": -1.2678931419659951,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCape Girardeau,Missouri",
     "date": "05/17/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCape Girardeau,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.394355,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.2678931419659951,
     "locale": "Cape Girardeau,Missouri",
-    "activePer100k": -1.2678931419659951,
+    "activePer100k": 0.0,
     "long": "ReplaceMeCape Girardeau,Missouri",
     "date": "06/09/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCape Girardeau,Missouri",
-    "active": -1
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.394355,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeCape Girardeau,Missouri",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.394355,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.0715725678639805,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.0715725678639805,
+    "locale": "Cape Girardeau,Missouri",
+    "activePer100k": 5.0715725678639805,
+    "long": "ReplaceMeCape Girardeau,Missouri",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMeCape Girardeau,Missouri",
+    "active": 4
   }]
 }

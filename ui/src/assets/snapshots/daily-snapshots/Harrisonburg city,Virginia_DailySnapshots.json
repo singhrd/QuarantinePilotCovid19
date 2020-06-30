@@ -2297,12 +2297,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -5.658669081032142,
     "locale": "Harrisonburg city,Virginia",
-    "activePer100k": -5.658669081032142,
+    "activePer100k": 0.0,
     "long": "ReplaceMeHarrisonburg city,Virginia",
     "date": "06/13/2020",
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHarrisonburg city,Virginia",
-    "active": -3
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 0.26508,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMeHarrisonburg city,Virginia",
     "active": 12
+  }, {
+    "epidemiccontrolThreshold": 0.26508,
+    "source": "NYGithub",
+    "confirmedPer100kN": 15.089784216085711,
+    "deaths": 1,
+    "confirmed": 8,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 15.089784216085711,
+    "locale": "Harrisonburg city,Virginia",
+    "activePer100k": 13.203561189074998,
+    "long": "ReplaceMeHarrisonburg city,Virginia",
+    "date": "06/28/2020",
+    "deathsPer100k": 1.8862230270107139,
+    "lat": "ReplaceMeHarrisonburg city,Virginia",
+    "active": 7
   }]
 }

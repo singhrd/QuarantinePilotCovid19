@@ -1657,12 +1657,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -2.173982690520978,
     "locale": "Macomb,Michigan",
-    "activePer100k": -3.8902848146164866,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMacomb,Michigan",
     "date": "05/04/2020",
     "deathsPer100k": 1.7163021240955088,
     "lat": "ReplaceMeMacomb,Michigan",
-    "active": -34
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.36986,
     "source": "NYGithub",
@@ -2233,12 +2233,12 @@
     "recoveredPer100k": 0.0,
     "confirmedPer100k": -1.1442014160636724,
     "locale": "Macomb,Michigan",
-    "activePer100k": -1.4874618408827742,
+    "activePer100k": 0.0,
     "long": "ReplaceMeMacomb,Michigan",
     "date": "06/09/2020",
     "deathsPer100k": 0.34326042481910174,
     "lat": "ReplaceMeMacomb,Michigan",
-    "active": -13
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.36986,
     "source": "NYGithub",
@@ -2527,5 +2527,21 @@
     "deathsPer100k": 0.457680566425469,
     "lat": "ReplaceMeMacomb,Michigan",
     "active": 15
+  }, {
+    "epidemiccontrolThreshold": 4.36986,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.9749236817655484,
+    "deaths": 2,
+    "confirmed": 26,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.9749236817655484,
+    "locale": "Macomb,Michigan",
+    "activePer100k": 2.746083398552814,
+    "long": "ReplaceMeMacomb,Michigan",
+    "date": "06/28/2020",
+    "deathsPer100k": 0.2288402832127345,
+    "lat": "ReplaceMeMacomb,Michigan",
+    "active": 24
   }]
 }
