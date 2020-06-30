@@ -15,7 +15,7 @@ package quarantine.covid19.core
  *  
  *  @author rajdeep
  */
-case class Alert(localeType: String, metric: String, windowSize: String, deltaDays: Int, description: String, locales: Array[(String, Double)])
+case class Alert(localeType: String, metric: String, windowSize: String, deltaDays: Int, description: String, locales: Array[String])
 
 /**
  *  The info that drives the UI presets
@@ -24,4 +24,4 @@ case class Alert(localeType: String, metric: String, windowSize: String, deltaDa
  *  
  *  @author rajdeep
  */
-case class AlertUIInfo(description: String, locales: Array[(String, Double)])
+case class AlertUIInfo(description: String, locales: Array[String])

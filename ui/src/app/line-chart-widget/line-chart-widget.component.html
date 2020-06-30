@@ -8,12 +8,12 @@
                 <div dropdown class="dropdown">
                     <button class="btn btn-secondary dropdown-toggle" type="button" id="localeDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        {{ selectedLocale | titlecase }}
+                        {{ selectedLocale}}
                     </button>
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="localeDropdown">
                         <div *ngFor="let locale of localesAvailable">
                             <button class="dropdown-item" type="button" 
-                            (click)="selectLocale(locale)">{{ locale | titlecase }}</button>
+                            (click)="selectLocale(locale)">{{locale}}</button>
                         </div>
                     </div>
                 </div>
@@ -59,8 +59,22 @@
                         </div>
                     </div>
                 </div>
-                <p *ngIf="!noChartData" class="card-text text-muted pt-1 mx-2">{{ chartDescriptionText }}</p>
+<p *ngIf="!noChartData" class="card-text text-muted pt-1 mx-2">{{ chartDescriptionText }}</p>
             </div>
+                 <div dropdown class="dropdown ml-3">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="alertDropdown"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{ selectedAlert | titlecase }}
+                    </button>
+                    <div class="dropdown-menu scrollable-menu" aria-labelledby="alertDropdown">
+                        <div *ngFor="let alert of alertOptions">
+                            <button class="dropdown-item" type="button"
+                                (click)="selectAlert(alert)">{{ alert | titlecase }}</button>
+                        </div>
+                    </div>
+                </div>
+
+
             <div class="card-body">
                 <div>
                     <div id="lineContainer" class="chart-container"></div>

@@ -39,4 +39,9 @@ export class CovidReportService {
   getAnnotations(location: string) {
     return this.http.get('/assets/annotations/' + location + '_Annotations.json');
   }
+  
+  // We can also call it get presets
+  getAlerts(locale: string, alertType: string) {
+    return this.http.get('/assets/alerts/' + locale + '/' + alertType + 'Alert.json');
+  }
 }

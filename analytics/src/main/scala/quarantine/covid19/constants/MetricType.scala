@@ -8,13 +8,10 @@ object MetricType extends Enumeration {
   val DailyGrowth = Value("Daily Growth Rate")
   val CFR = Value("Confirmed Fatality Rate")
   val CFRTA = Value("Time Adjusted Confirmed Fatality Rate")
+//  val Daily = Value("Daily cases")
   val DailyPer100k = Value("Confirmed Daily Cases per 100k")
   val CumulativePer100k = Value("Confirmed Cumulative Cases per 100k")
   
-  def name(metric: MetricType.Value) = metric.toString() 
-    
-  def valuesSet = MetricType.values
-  
-  def stringValues = valuesSet.toList.map(name(_))
+  def name(metric: MetricType.Value): String = metric.toString()
 }
 

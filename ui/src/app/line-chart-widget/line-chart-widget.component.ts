@@ -22,24 +22,24 @@ export class LineChartWidgetComponent implements OnInit {
   data: Array<any> = [];
 
   // Dropdown options
-  locations = LocationsByLocaleName.sort();
-  locationsCountries = CountriesByName.sort();
-  locationsCounties = CountiesByName.sort();
-  locationsStates = StatesByName.sort();
+  locations = LocationsByLocaleName;
+  locationsCountries = CountriesByName;
+  locationsCounties = CountiesByName;
+  locationsStates = StatesByName;
   availableLocations = [];
   
   selectedLocationsAll: Array<string> = ['US', 'California', 'San Diego,California'];
   selectedLocationsCountries: Array<string> = ['US', 'United Kingdom', 'India'];
   selectedLocationsCounties: Array<string> = ['San Diego,California', 'Riverside,California', 'Los Angeles,California'];
   selectedLocationsStates: Array<string> = ['Texas', 'California', 'Florida', 'Arizona'];
-
+   
   windowsAvailable = ['daily', 'weekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
 
-  localesAvailable = ['Country','State','County','All'];
+  localesAvailable = ['Countries','US States','US Counties','All'];
   selectedLocale = this.localesAvailable[0];
   
-  selectedLocations = this.selectedLocationsCountries
+  selectedLocations = this.selectedLocationsCountries;
   
   metrics = [
     'Spread Rate',
@@ -54,13 +54,15 @@ export class LineChartWidgetComponent implements OnInit {
   selectedMetric = this.metrics[this.initialMetricIndex];
 
   scaleOptions = ['linear','log'];
+
+  alertOptions = ['Select Top 5 Locations', 'Daily High', 'Highest % change', 'Moving Average Crossover'];
   
   chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
-    'Ratio of daily confirmed cases over successive days. Value less than 1 for a sustained period indicates inflection point (peak) has been reached.',
+    'Ratio of daily confirmed cases over successive days.',
     'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
     'Percentage deaths today within confirmed cases a week ago. Reported Flu fatality rate in the US is 0.001.',
-    'Total confirmed cases per 100k in population',
+    'Total confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.',
     'Daily confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.'
   ];
   chartDescriptionText = this.chartDescriptions[this.initialMetricIndex];
@@ -69,6 +71,9 @@ export class LineChartWidgetComponent implements OnInit {
   
    selectedScale = this.scaleOptions[0];
 
+
+   selectedAlert =  this.alertOptions[0];
+   
   /**
    * Constructor
    * @param service 
@@ -83,21 +88,25 @@ export class LineChartWidgetComponent implements OnInit {
    */
   selectLocale(locale: string) {
     this.selectedLocale = locale;
-    if(locale === 'Country') {
-      this.selectedLocations = []
-      this.updateMultiselectLabels(this.locationsCountries)
+    if(locale === 'Countries') {
+        this.selectedAlert = this.alertOptions[0];
+        this.selectedLocations = [];
+        this.updateMultiselectLabels(this.locationsCountries);
       }
-    if(locale === 'County')  {
-      this.selectedLocations = []
-      this.updateMultiselectLabels(this.locationsCounties)
+    if(locale === 'US Counties')  {
+      this.selectedAlert = this.alertOptions[0];
+      this.selectedLocations = [];
+      this.updateMultiselectLabels(this.locationsCounties);
       }
-    if(locale === 'State') {
-      this.selectedLocations = []
-      this.updateMultiselectLabels(this.locationsStates)
+    if(locale === 'US States') {
+      this.selectedAlert =  this.alertOptions[0];
+      this.selectedLocations = [];
+      this.updateMultiselectLabels(this.locationsStates);
       }
     if(locale === 'All'){
-      this.selectedLocations = []
-      this.updateMultiselectLabels(this.locations)
+      this.selectedAlert =  this.alertOptions[0];
+      this.selectedLocations = [];
+      this.updateMultiselectLabels(this.locations);
       }
       
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
@@ -133,7 +142,66 @@ export class LineChartWidgetComponent implements OnInit {
     this.chartDescriptionText = this.chartDescriptions[idx];
   }
 
-  /**
+
+   /**
+   *
+   */
+   setAlertLocaleFromLocale(locale: string) {
+     if(locale === this.localesAvailable[0]){
+       return 'country'
+     }
+     if(locale === this.localesAvailable[1]){
+       return 'state'
+     }
+     if(locale === this.localesAvailable[2]){
+       return 'county'
+     }     
+     return 'country'
+   }
+   
+   /**
+   *
+   */
+  selectAlert(alert: string) {
+  
+    const localeAlert = this.setAlertLocaleFromLocale(this.selectedLocale);
+    const requestArray = [];
+    
+    this.selectedAlert = alert;
+    
+    if(alert === this.alertOptions[0]) {
+      this.selectedLocations = [];
+      this.selectLocale(this.selectedLocale)
+     // this.selectMetric(this.selectedMetric)
+      }
+    else {
+       
+      this.selectedMetric = this.metrics[5];
+      if(alert === this.alertOptions[1]) {
+            requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
+            }
+      if(alert === this.alertOptions[2]) {
+            requestArray.push(this.service.getAlerts(localeAlert,'BiweeklyPercentChange'));
+            }    
+      if(alert === this.alertOptions[3]) {
+            requestArray.push(this.service.getAlerts(localeAlert,'MACrossover'));
+            }               
+      forkJoin(requestArray)
+      .subscribe(allResponses => {
+        // Loop over all responses (one per selected location)
+        for (let i = 0; i < allResponses.length; i++) {
+          const res: any = allResponses[i];
+        this.chartDescriptionText = res.description;
+        this.selectedLocations = res.locales;
+        this.availableLocations = [];
+        this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
+        }
+    })
+    }
+      
+  }
+  
+    /**
    * Populate the data set to be used for the chart, and then call the chart generation function
    * @param locations - string array of locations to chart
    * @param window - window to view the moving average
@@ -288,7 +356,7 @@ export class LineChartWidgetComponent implements OnInit {
   createMultiselectLabels() {
     const locationsMultiselect = [];
     const defaultSelected = [];
-    this.locations.forEach(locale => {
+    this.locationsCountries.forEach(locale => {
       locationsMultiselect.push({ label: locale, value: locale });
     });
     this.availableLocations = locationsMultiselect;

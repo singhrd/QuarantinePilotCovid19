@@ -40,17 +40,7 @@ object Constants {
                                                  ("Taiwan*" -> "Taiwan"),
                                                   ("Congo (Brazzaville)" -> "DR Congo"),
                                                   ("Korea_South" -> "Korea"))                          
-  /**
-   * 
-   */
-  def alertTemplate(metric: String, windowSize: String, deltaInDays: Int, changeInPercent: Double): String =  {
-    val changeDescription = changeInPercent > 0 match {
-      case true => " increased by " + scala.math.abs(changeInPercent)
-      case false =>  " decreased by " + scala.math.abs(changeInPercent)
-    }
-    
-    windowSize + " " +  metric + " " + changeDescription + " in the last " + deltaInDays + " days."
-  }
+
 
   
 }

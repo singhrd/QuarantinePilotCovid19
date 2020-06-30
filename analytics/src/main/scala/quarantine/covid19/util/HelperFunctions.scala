@@ -19,7 +19,9 @@ import quarantine.covid19.core.Annotation
 import quarantine.covid19.core.Annotations
 import quarantine.covid19.constants.Constants
 import quarantine.covid19.constants.MetricType
+import quarantine.covid19.constants.MeasureType
 import quarantine.covid19.core.Alert
+import quarantine.covid19.core.AlertUIInfo
 
 
 
@@ -190,51 +192,55 @@ object HelperFunctions {
   }
     
   /**
-   * This takes in daily and cumulative CovidSnapshots for a specific location and upto a specific date
+   * This method computes annotations requested in the metrics list daily and the moving averages
+   * (as specified by the movingAverageWindows). The annotations are based on measurements or observations in 
+   * daily and cumulative CovidSnapshots for a specific location and up to a specific date.
+   * 
+   * 
    * The caller has the responsibility to provide continuous data at this point so no date is missing
    * between the min and the max date for the snapshots
+
+   * @param  dailySnapshots               daily/new covid observations for a locale
+   * @param  cumulativeSnapshots          cumulative/aggregated covid observations for a locale
+   * @param  metrics                      A list of metrics of [[MetricType]] requested to be included in Annotations 
+   *                                      Each metric enriches the raw observations in specific way as specified in the [[MetricType]]
+   * @param  alphaWindowInDays            Maximum days to look back when computing the spread rate. We start with the previous day but 
+   *                                      if the cases are 0 for some reason, we look for the first non-zero value upto this window 
+   * @param  growthWindowInDays           Maximum days to look back when computing the daily growth rate. We start with the previous day but 
+   *                                      if the cases are 0 for some reason, we look for the first non-zero value upto this window
+   * @param  movingAverageWindowsInDays   An array of
+   * 
    */
-  def createAnnotation(dailySnapshots: CovidSnapshots, 
+  def createAnnotationMetrics(dailySnapshots: CovidSnapshots, 
                        cumulativeSnapshots: CovidSnapshots,  
                        metrics: List[MetricType.Value]=Constants.defaultMetrics,
-                       alphaWindow: Int = Constants.DefaultDeltaInDays, 
-                       growthWindow: Int = Constants.DefaultDeltaInDays,
-                       movingAverageWindows: Array[Int] = Constants.DefaultMovingAverageWindowInDaysSet): Option[List[Annotation]] = {
+                       alphaWindowInDays: Int = Constants.DefaultDeltaInDays, 
+                       growthWindowInDays: Int = Constants.DefaultDeltaInDays,
+                       movingAverageWindowsInDays: Array[Int] = Constants.DefaultMovingAverageWindowInDaysSet): List[Map[String, Array[(String, Double)]]] = {
     
-    val daysToString = movingAverageWindows.map(x => (x, stringForDays(x))).toMap
-    val (locale, lat, long) = (dailySnapshots.snapshots(0).locale, dailySnapshots.snapshots(0).lat, dailySnapshots.snapshots(0).long)
+    val daysToString = movingAverageWindowsInDays.map(x => (x, stringForDays(x))).toMap
 
-    // we can use the sortSnapshots on this and then transform to the string, date form
-    val datesSorted = dailySnapshots.snapshots.map(dS => dS.date).distinct.map(dSS => (dSS, HelperFunctions.getDate(dSS))).sortWith((a,b) => a._2.before(b._2))
-    val (dateMin, dateMax) = (datesSorted(0), datesSorted.last)
-    val diffDays = HelperFunctions.daysBetween(dateMin._2, dateMax._2)
-
-    diffDays > cumulativeSnapshots.snapshots.length match {
-      case true => {
-      	println("There is a gap in data for this location " + locale + "-" + diffDays + "-"+ cumulativeSnapshots.snapshots  .length)
-      	return None
-      }
-      case false => {
-     		val mapIndexToAnnotationMetrics = scala.collection.mutable.Map[(Int, MetricType.Value), Double]()
+    val timeMetricKeyValuePairs = Range(0,cumulativeSnapshots.snapshots.length.toInt).toList.map(i => {
+      val currentMetricValues = metrics.map(metric => {
+           (metric, getMetricValue(dailySnapshots.snapshots, cumulativeSnapshots.snapshots, i, alphaWindowInDays, growthWindowInDays, metric))
+          })
+          (i -> currentMetricValues)
+          }) //using the flatten might mean - need to re-correct the structure
+          
+        val mapIndexToAnnotationMetrics = timeMetricKeyValuePairs.map(x => (x._1, x._2.toMap))
         val result = Range(0,cumulativeSnapshots.snapshots.length.toInt).toList.map(i => {
-          val currentMetricValues = metrics.map(metric => {
-            val metricValue = getMetricValue(dailySnapshots.snapshots, cumulativeSnapshots.snapshots, i, alphaWindow, growthWindow, metric)
-            mapIndexToAnnotationMetrics.+=((i,metric) -> metricValue)
-              val metricMA = movingAverageWindows.map(m => {
-                val windowSize = m > i match {
-                  case true => (i+1).toDouble
-                  case false => m.toDouble
-                }
-              (daysToString(m), Range(scala.math.max(0,i-m),i).toList.map(k => mapIndexToAnnotationMetrics.get((k, metric)).get).foldLeft(0.0)((a,b) => a + b)/windowSize)
+        		val dateI = cumulativeSnapshots.snapshots(i).date
+        		val combinedMetricValues = metrics.map(metric => {
+              val metricMA = movingAverageWindowsInDays.map(m => {
+                val windowSize = scala.math.min((i+1).toDouble, m.toDouble)
+               (daysToString(m), Range(scala.math.max(0,i-m),i).map(k => mapIndexToAnnotationMetrics(k)).foldLeft(0.0)((a,b) => a + b._2(metric))/windowSize)
               }) 
-              (MetricType.name(metric), Array(("daily", metricValue)) ++ metricMA)
-        	})
-          Annotation(datesSorted(i)._1, locale, lat, long, currentMetricValues.toMap)
-        })    
-        Some(result)     
-      }
-    }
-  }    
+              (MetricType.name(metric), Array(("daily", mapIndexToAnnotationMetrics(i)._2(metric))) ++ metricMA)
+        		})
+         combinedMetricValues.toMap
+        })
+        result
+  }
 
   /**
    * Just a clone
@@ -385,63 +391,57 @@ object HelperFunctions {
       InputOutput.countryLocaleMap.contains(c) match {
         case true => {
           val countryMapValue = InputOutput.countryLocaleMap(c)
-          val (normalizerCountry, ecCountry) = InputOutput.countryPopulationECMap.contains(c) match {
-            case true => (InputOutput.countryPopulationECMap(c)._1, InputOutput.countryPopulationECMap(c)._2)
+          (InputOutput.countryPopulationDensityMap.contains(c) && InputOutput.countryPopulationECMap.contains(c)) match {
             case false => {
-              println("** missing key " + c)
-              (1.0,0.5)
+            	println("** missing key " + c + " Skipping it")
             }
+            case true => {
+              val (normalizerCountry, ecCountry) = (InputOutput.countryPopulationECMap(c)._1, InputOutput.countryPopulationECMap(c)._2)
+              val normalizerCountryPD = InputOutput.countryPopulationDensityMap(c) 
+          
+              val (confirmedCumul, confirmedDaily) = combineCountryRecords(mapConfirmed(c), firstDateIndex, c)
+              val (recoveredCumul, recoveredDaily) = combineCountryRecords(mapRecovered(c), firstDateIndex, c)
+              val (deathsCumul, deathsDaily) = combineCountryRecords(mapDeaths(c), firstDateIndex, c)
+            // Now let's create the daily and the cumulative snapshots 
+            Range(0, lastDateIndex-firstDateIndex).foreach(i => {
+              
+               val activeDaily = confirmedDaily(i) > 0 match {
+                 case true => confirmedDaily(i)-deathsDaily(i)-recoveredDaily(i)
+                 case false => 0
+               }
+               covidSnapshotListBufferDaily.+=(CovidSnapshot(headers(i+firstDateIndex), 
+                                                             c, 
+                                                             countryMapValue._2.lat.toString(), 
+                                                             countryMapValue._2.long.toString(),
+                                                             confirmedDaily(i), confirmedDaily(i).toDouble/normalizerCountry,
+                                                             confirmedDaily(i).toDouble/(normalizerCountry*normalizerCountryPD),
+                                                             recoveredDaily(i),recoveredDaily(i).toDouble/normalizerCountry,
+                                                             activeDaily, activeDaily.toDouble/normalizerCountry,// daily active does not make much sense
+                                                             deathsDaily(i),deathsDaily(i).toDouble/normalizerCountry,
+                                                             ecCountry,
+                                                             "JHU",
+                                                             None))
+              val activeCumulative = confirmedCumul(i)-deathsCumul(i)-recoveredCumul(i)                                                    
+              covidSnapshotListBufferCumul.+=(CovidSnapshot(headers(i+firstDateIndex), 
+                                                             c, 
+                                                             countryMapValue._2.lat.toString(), 
+                                                             countryMapValue._2.long.toString(),
+                                                             confirmedCumul(i),confirmedCumul(i).toDouble/normalizerCountry,
+                                                             confirmedCumul(i).toDouble/(normalizerCountry*normalizerCountryPD),
+                                                             recoveredCumul(i),recoveredCumul(i).toDouble/normalizerCountry,
+                                                             activeCumulative, activeCumulative.toDouble/normalizerCountry, 
+                                                             deathsCumul(i),deathsCumul(i).toDouble/normalizerCountry,
+                                                             ecCountry,
+                                                             "JHU",
+                                                             None))
+                                                             
+                                                             
+              })
           }
-          val normalizerCountryPD = InputOutput.countryPopulationDensityMap.contains(c) match {
-            case true => InputOutput.countryPopulationDensityMap(c)
-            case false => {
-              println("** missing key " + c)
-              1.0
-            }
-          }          
-          
-          val (confirmedCumul, confirmedDaily) = combineCountryRecords(mapConfirmed(c), firstDateIndex, c)
-          val (recoveredCumul, recoveredDaily) = combineCountryRecords(mapRecovered(c), firstDateIndex, c)
-          val (deathsCumul, deathsDaily) = combineCountryRecords(mapDeaths(c), firstDateIndex, c)
-        // Now let's create the daily and the cumulative snapshots 
-        Range(0, lastDateIndex-firstDateIndex).foreach(i => {
-          
-           val activeDaily = confirmedDaily(i) > 0 match {
-             case true => confirmedDaily(i)-deathsDaily(i)-recoveredDaily(i)
-             case false => 0
-           }
-           covidSnapshotListBufferDaily.+=(CovidSnapshot(headers(i+firstDateIndex), 
-                                                         c, 
-                                                         countryMapValue._2.lat.toString(), 
-                                                         countryMapValue._2.long.toString(),
-                                                         confirmedDaily(i), confirmedDaily(i).toDouble/normalizerCountry,
-                                                         confirmedDaily(i).toDouble/(normalizerCountry*normalizerCountryPD),
-                                                         recoveredDaily(i),recoveredDaily(i).toDouble/normalizerCountry,
-                                                         activeDaily, activeDaily.toDouble/normalizerCountry,// daily active does not make much sense
-                                                         deathsDaily(i),deathsDaily(i).toDouble/normalizerCountry,
-                                                         ecCountry,
-                                                         "JHU",
-                                                         None))
-          val activeCumulative = confirmedCumul(i)-deathsCumul(i)-recoveredCumul(i)                                                    
-          covidSnapshotListBufferCumul.+=(CovidSnapshot(headers(i+firstDateIndex), 
-                                                         c, 
-                                                         countryMapValue._2.lat.toString(), 
-                                                         countryMapValue._2.long.toString(),
-                                                         confirmedCumul(i),confirmedCumul(i).toDouble/normalizerCountry,
-                                                         confirmedCumul(i).toDouble/(normalizerCountry*normalizerCountryPD),
-                                                         recoveredCumul(i),recoveredCumul(i).toDouble/normalizerCountry,
-                                                         activeCumulative, activeCumulative.toDouble/normalizerCountry, 
-                                                         deathsCumul(i),deathsCumul(i).toDouble/normalizerCountry,
-                                                         ecCountry,
-                                                         "JHU",
-                                                         None))
-                                                         
-                                                         
-          })
+          }
+        }
+        case false => println("Skipping *** " + c)// skip it 
       }
-      case false => println("Skipping *** " + c)// skip it 
-      }
-        
     })
    
     val dailyCS = CovidSnapshots(covidSnapshotListBufferDaily.toList)
@@ -486,50 +486,55 @@ object HelperFunctions {
       
       //localeListCounty.map(l => (l -> tokensPerRecord.filter(ll => (ll(localeCountyIndex)+","+ll(localeStateIndex)).equals(l)))).toMap
     countyRecordsMap.foreach(c => {
-          val cKey = c._1.toLowerCase()
-          val (normalizerCounty, ecCounty) = InputOutput.countyPopulationECMap.contains(cKey) match {
-            case true => (InputOutput.countyPopulationECMap(cKey)._1, InputOutput.countyPopulationECMap(cKey)._2)
+          val cKey = c._1.replace(" Parish", "").replace(" Borough","").replace(" Municipality","").toLowerCase()
+          InputOutput.countyPopulationECMap.contains(cKey) match {
             case false => {
-              println("** missing key " + c._1)
-              (1.0,0.5)
+            	println("** missing key " + cKey + " Skipping it")
+            }
+            case true => {
+              val (normalizerCounty, ecCounty) = (InputOutput.countyPopulationECMap(cKey)._1, InputOutput.countyPopulationECMap(cKey)._2)
+              val normalizerCountyPD = 1.0 // replace when you have the population densities
+              
+              val (confirmedCumul, confirmedDaily) = combineCountyRecords(countyRecordsMap(c._1), confirmedCountIndex-1)
+              val (deathsCumul, deathsDaily) = combineCountyRecords(countyRecordsMap(c._1), deathsCountIndex-1)
+            // Now let's create the daily and the cumulative snapshots 
+              Range(0, confirmedCumul.length).foreach(i => {
+              
+               val activeDaily = confirmedDaily(i)._2 > 0 match {
+                 case true => confirmedDaily(i)._2-deathsDaily(i)._2
+                 case false => 0
+               }
+               
+               covidSnapshotListBufferDaily.+=(CovidSnapshot(confirmedDaily(i)._1, 
+                                                             c._1, 
+                                                             Constants.DefaultLat+c._1, 
+                                                             Constants.DefaultLong+c._1,
+                                                             confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble/normalizerCounty,
+                                                             confirmedDaily(i)._2.toDouble/(normalizerCounty*normalizerCountyPD),
+                                                             0L,0.0,
+                                                             activeDaily, activeDaily.toDouble/normalizerCounty,// daily active does not make much sense
+                                                             deathsDaily(i)._2,deathsDaily(i)._2.toDouble/normalizerCounty,
+                                                             ecCounty,
+                                                             "NYGithub",
+                                                             None))
+              val activeCumulative = confirmedCumul(i)._2-deathsCumul(i)._2-0L  // using recovery is 0 without any additional info but we won't be using these snapshots                                                  
+              covidSnapshotListBufferCumul.+=(CovidSnapshot(confirmedCumul(i)._1, 
+                                                             c._1, 
+                                                             Constants.DefaultLat+c._1, 
+                                                             Constants.DefaultLong+c._1,
+                                                             confirmedCumul(i)._2,confirmedCumul(i)._2.toDouble/normalizerCounty,
+                                                             confirmedCumul(i)._2.toDouble/(normalizerCounty*normalizerCountyPD),
+                                                             0L,0.0,
+                                                             activeCumulative, activeCumulative.toDouble/normalizerCounty, 
+                                                             deathsCumul(i)._2,deathsCumul(i)._2.toDouble/normalizerCounty,
+                                                             ecCounty,
+                                                             "NYGithub",
+                                                             None))
+                                                             
+                                                             
+              })
             }
           }
-          val normalizerCountyPD = 1.0 // replace when you have the population densities
-          
-          val (confirmedCumul, confirmedDaily) = combineCountyRecords(countyRecordsMap(c._1), confirmedCountIndex-1)
-          val (deathsCumul, deathsDaily) = combineCountyRecords(countyRecordsMap(c._1), deathsCountIndex-1)
-        // Now let's create the daily and the cumulative snapshots 
-        Range(0, confirmedCumul.length).foreach(i => {
-          
-           val activeDaily = confirmedDaily(i)._2-deathsDaily(i)._2-0L
-           covidSnapshotListBufferDaily.+=(CovidSnapshot(confirmedDaily(i)._1, 
-                                                         c._1, 
-                                                         Constants.DefaultLat+c._1, 
-                                                         Constants.DefaultLong+c._1,
-                                                         confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble/normalizerCounty,
-                                                         confirmedDaily(i)._2.toDouble/(normalizerCounty*normalizerCountyPD),
-                                                         0L,0.0,
-                                                         activeDaily, activeDaily.toDouble/normalizerCounty,// daily active does not make much sense
-                                                         deathsDaily(i)._2,deathsDaily(i)._2.toDouble/normalizerCounty,
-                                                         ecCounty,
-                                                         "NYGithub",
-                                                         None))
-          val activeCumulative = confirmedCumul(i)._2-deathsCumul(i)._2-0L  // using recovery is 0 without any additional info but we won't be using these snapshots                                                  
-          covidSnapshotListBufferCumul.+=(CovidSnapshot(confirmedCumul(i)._1, 
-                                                         c._1, 
-                                                         Constants.DefaultLat+c._1, 
-                                                         Constants.DefaultLong+c._1,
-                                                         confirmedCumul(i)._2,confirmedCumul(i)._2.toDouble/normalizerCounty,
-                                                         confirmedCumul(i)._2.toDouble/(normalizerCounty*normalizerCountyPD),
-                                                         0L,0.0,
-                                                         activeCumulative, activeCumulative.toDouble/normalizerCounty, 
-                                                         deathsCumul(i)._2,deathsCumul(i)._2.toDouble/normalizerCounty,
-                                                         ecCounty,
-                                                         "NYGithub",
-                                                         None))
-                                                         
-                                                         
-          })
     })
     
     val dailyCS = CovidSnapshots(covidSnapshotListBufferDaily.toList)
@@ -588,49 +593,54 @@ object HelperFunctions {
     val stateRecordsMap = localeListState.map(l => (l -> tokensPerRecord.filter(ll => ll(localeStateIndex-1).equals(l)))).toMap
     
     stateRecordsMap.foreach(c => {
-          val (normalizerState, ecState) = InputOutput.statePopulationECMap.contains(c._1) match {
-            case true => (InputOutput.statePopulationECMap(c._1)._1, InputOutput.statePopulationECMap(c._1)._2)
+          InputOutput.statePopulationECMap.contains(c._1) match {
             case false => {
-              println("** missing key " + c._1)
-              (1.0,0.5)
+              println("** missing key " + c._1 + " skipping it")
+            }
+            case true => {
+              val (normalizerState, ecState) = (InputOutput.statePopulationECMap(c._1)._1, InputOutput.statePopulationECMap(c._1)._2)
+              val normalizerStatePD = 1.0 // replace when you have the population densities
+          
+              val (confirmedCumul, confirmedDaily) = combineCountyRecords(stateRecordsMap(c._1), confirmedCountIndex-2)
+              val (deathsCumul, deathsDaily) = combineCountyRecords(stateRecordsMap(c._1), deathsCountIndex-2)
+            // Now let's create the daily and the cumulative snapshots 
+              Range(0, confirmedCumul.length).foreach(i => {
+              
+                val activeDaily = confirmedDaily(i)._2 > 0 match {
+                   case true => confirmedDaily(i)._2-deathsDaily(i)._2
+                   case false => 0
+                }
+                
+                 covidSnapshotListBufferDaily.+=(CovidSnapshot(confirmedDaily(i)._1, 
+                                                               c._1, 
+                                                               Constants.DefaultLat+c._1, 
+                                                               Constants.DefaultLong+c._1,
+                                                               confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble/normalizerState,
+                                                               confirmedDaily(i)._2.toDouble/(normalizerState*normalizerStatePD),
+                                                               0L,0.0,
+                                                               activeDaily, activeDaily.toDouble/normalizerState,// daily active does not make much sense
+                                                               deathsDaily(i)._2,deathsDaily(i)._2.toDouble/normalizerState,
+                                                               ecState,
+                                                               "NYGithub",
+                                                               None))
+                val activeCumulative = confirmedCumul(i)._2-deathsCumul(i)._2-0L  // using recovery is 0 without any additional info but we won't be using these snapshots                                                  
+                covidSnapshotListBufferCumul.+=(CovidSnapshot(confirmedCumul(i)._1, 
+                                                               c._1, 
+                                                               Constants.DefaultLat+c._1, 
+                                                               Constants.DefaultLong+c._1,
+                                                               confirmedCumul(i)._2,confirmedCumul(i)._2.toDouble/normalizerState,
+                                                               confirmedCumul(i)._2.toDouble/(normalizerState*normalizerStatePD),
+                                                               0L,0.0,
+                                                               activeCumulative, activeCumulative.toDouble/normalizerState, 
+                                                               deathsCumul(i)._2,deathsCumul(i)._2.toDouble/normalizerState,
+                                                               ecState,
+                                                               "NYGithub",
+                                                               None))
+                                                               
+                                                               
+                })
             }
           }
-          val normalizerStatePD = 1.0 // replace when you have the population densities
-          
-          val (confirmedCumul, confirmedDaily) = combineCountyRecords(stateRecordsMap(c._1), confirmedCountIndex-2)
-          val (deathsCumul, deathsDaily) = combineCountyRecords(stateRecordsMap(c._1), deathsCountIndex-2)
-        // Now let's create the daily and the cumulative snapshots 
-        Range(0, confirmedCumul.length).foreach(i => {
-          
-           val activeDaily = confirmedDaily(i)._2-deathsDaily(i)._2-0L
-           covidSnapshotListBufferDaily.+=(CovidSnapshot(confirmedDaily(i)._1, 
-                                                         c._1, 
-                                                         Constants.DefaultLat+c._1, 
-                                                         Constants.DefaultLong+c._1,
-                                                         confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble/normalizerState,
-                                                         confirmedDaily(i)._2.toDouble/(normalizerState*normalizerStatePD),
-                                                         0L,0.0,
-                                                         activeDaily, activeDaily.toDouble/normalizerState,// daily active does not make much sense
-                                                         deathsDaily(i)._2,deathsDaily(i)._2.toDouble/normalizerState,
-                                                         ecState,
-                                                         "NYGithub",
-                                                         None))
-          val activeCumulative = confirmedCumul(i)._2-deathsCumul(i)._2-0L  // using recovery is 0 without any additional info but we won't be using these snapshots                                                  
-          covidSnapshotListBufferCumul.+=(CovidSnapshot(confirmedCumul(i)._1, 
-                                                         c._1, 
-                                                         Constants.DefaultLat+c._1, 
-                                                         Constants.DefaultLong+c._1,
-                                                         confirmedCumul(i)._2,confirmedCumul(i)._2.toDouble/normalizerState,
-                                                         confirmedCumul(i)._2.toDouble/(normalizerState*normalizerStatePD),
-                                                         0L,0.0,
-                                                         activeCumulative, activeCumulative.toDouble/normalizerState, 
-                                                         deathsCumul(i)._2,deathsCumul(i)._2.toDouble/normalizerState,
-                                                         ecState,
-                                                         "NYGithub",
-                                                         None))
-                                                         
-                                                         
-          })
     })
     
     val dailyCS = CovidSnapshots(covidSnapshotListBufferDaily.toList)
@@ -715,18 +725,14 @@ object HelperFunctions {
     }
   }
   
-  
-  def findAlertMeasureExample(annotations: List[Annotation], metric: MetricType.Value, interval: Int): Option[Double] = {
-//    println(metric)
-     val latestAnnotation = annotations.last
-//     println(latestAnnotation.metrics(MetricType.name(metric))(0))
-     val weeklyValue = latestAnnotation.metrics(MetricType.name(metric)).filter(x => x._1.equals("weekly"))(0)._2
-     val triweeklyValue = latestAnnotation.metrics(MetricType.name(metric)).filter(x => x._1.equals("triweekly"))(0)._2
-     weeklyValue > triweeklyValue match {
+  def findAlertMeasureExampleToday(metricsCurrent: Map[String, Array[(String, Double)]], metric: MetricType.Value, interval: Int): Option[Double] = {
+     val dailyValue = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals("daily"))(0)._2
+     val weeklyValue = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals("weekly"))(0)._2
+     dailyValue > weeklyValue match {
        case true => {
          // check to see if the both values were below 1 - then don't return anything
-          (weeklyValue > 1.0 && triweeklyValue > 1.0) match {
-            case true => Some((weeklyValue/triweeklyValue)-1)
+          (dailyValue > 1.0 && weeklyValue > 1.0) match {
+            case true => Some(100*((dailyValue/weeklyValue)-1))
             case false => None
           }
        }
@@ -734,24 +740,79 @@ object HelperFunctions {
      }
                                 
   }
+
+  /**
+   * 
+   */
+  def alertTemplateNew(metric: String, windowSize: String, deltaInDays: Int, changeInPercent: Double): String =  {
+    val changeDescription = changeInPercent > 0 match {
+      case true => " increased by " + scala.math.abs(changeInPercent)
+      case false =>  " decreased by " + scala.math.abs(changeInPercent)
+    }
+    
+    windowSize + " " +  metric + " " + changeDescription + " in the last " + deltaInDays + " days."
+  }
   
-  //  def findAlertMeasureExample(annotations: List[Annotation], metric: MetricType.Value, windowSize: String, interval: Int): Option[Double] = {
-//     val latestAnnotation = annotations.last
-//     val annotationFromTwoWeeksAgo = annotations(annotations.length-interval)
-//     val currentValue = latestAnnotation.metrics(MetricType.name(metric)).filter(x => x._1.equals(windowSize))(0)._2
-//     val oldValue = annotationFromTwoWeeksAgo.metrics(MetricType.name(metric)).filter(x => x._1.equals(windowSize))(0)._2
-//     oldValue > 0.0 match {
-//       case true => {
-//         // check to see if the both values were below 1 - then don't return anything
-//          (oldValue > 1.0 && currentValue > 1.0) match {
-//            case true => Some((currentValue/oldValue)-1)
-//            case false => None
-//          }
-//       }
-//       case false => None// do not generate an alert
-//     }
-//                                
-//  }
+  /**
+   * 
+   */
+  def alertTemplatePercent(localeType: String, measure: MeasureType.Value): String =  {
+         
+    val localePlural = localeType match {
+      case "country" => "Countries"
+      case "state" => "States"
+      case "county" => "Counties"
+    }
+    
+    localePlural + " with " + MeasureType.name(measure)
+    
+  }
+  
+  def findAlertMeasureExamplePercent(metricsCurrent: Map[String, Array[(String, Double)]], metricPrevious: Map[String, Array[(String, Double)]], metric:MetricType.Value, windowSize: String = "weekly"): Option[Double] = {
+     val currentValue = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals(windowSize))(0)._2
+     val oldValue = metricPrevious(MetricType.name(metric)).filter(x => x._1.equals(windowSize))(0)._2
+     oldValue > 1.0 match {
+       case true => Some(100*((currentValue/oldValue)-1))
+       case false => None
+       
+     }
+  }
+  
+    def findAlertMeasureExampleTrend(metricsCurrent: Map[String, Array[(String, Double)]], metricPrevious: Map[String, Array[(String, Double)]], metric: MetricType.Value, interval: Int): Option[Double] = {
+     val currentValueDaily = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals("daily"))(0)._2
+     val currentValueWeekly = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals("weekly"))(0)._2
+     
+     val oldValueDaily = metricPrevious(MetricType.name(metric)).filter(x => x._1.equals("daily"))(0)._2
+     val oldValueWeekly = metricPrevious(MetricType.name(metric)).filter(x => x._1.equals("weekly"))(0)._2
+
+     val currentDelta = currentValueDaily - currentValueWeekly
+     val oldDelta = oldValueDaily - oldValueWeekly
+     
+     // Only the ones with values above 1.0 are interesting, And need crossover so 
+     // currentDelta >0 implies currentDaily higher than currentWeekly
+     // oldDelta <0 implies oldWeekly higher than oldDaily
+     
+     (currentValueDaily > 1.0 && oldValueDaily > 1.0 && currentDelta > 0.0 && oldDelta < 0.0) match {
+       case false => None
+       case true => {
+         // check to see if the both values were below 1 - then don't return anything
+          (oldDelta > 0.0) match {
+            case true => None
+            case false => {
+              Some(100*((currentValueDaily/oldValueDaily)-1))
+            }
+          }
+       }
+     }
+  }
+    
+  def generateAlertUInfo(localeType: String, measureType: MeasureType.Value, alertMap: Map[String, Double], numLocs: Int = 5): AlertUIInfo = {
+    val sortedAlertMap = alertMap.toArray.sortWith((a,b) => a._2 > b._2)
+    val topLocsMap = sortedAlertMap.slice(0, scala.math.min(numLocs, alertMap.size))  
+    val localesTopMap = topLocsMap.map(x => x._1)
+    val alertTopTemplate = HelperFunctions.alertTemplatePercent(localeType, measureType)
+    AlertUIInfo(alertTopTemplate,localesTopMap)
+  }
   
   // replace the province with the capital name or default and use the country lat lon from the map
   def combineCountryRecords(records: List[List[String]], startDateIndex: Int, countryName: String): (List[Long], List[Long]) = {

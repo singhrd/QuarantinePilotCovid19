@@ -54,7 +54,7 @@ object InputOutput extends JsonSupport {
     val lines = readCSV(countyPopulationMapFileName)
     lines.slice(1,lines.length).map(x => {
     val elements = tokenize(x,Some(Constants.CommaDelimiter))
-    val countyNameOnly = elements(1).replace(" County", "").toLowerCase()
+    val countyNameOnly = elements(1).replace(" County", "").replace(" Parish", "").replace(" Borough","").replace(" Municipality","").toLowerCase()
     ((countyNameOnly+","+elements(0).toLowerCase())-> (elements(2).toDouble/Constants.OneHundredThousand, elements(2).toDouble*Constants.EpidemicControlThresholdPer100k/Constants.OneHundredThousand))
   }).toMap
   }
@@ -83,10 +83,17 @@ object InputOutput extends JsonSupport {
    */
   def writeToFile(content: Array[Byte], fileName: String) = {
     
-    try {
-      val os = Files.newOutputStream(Paths.get(fileName))
-        os.write(content);
-    }
+//    try {
+//      val os = Files.newOutputStream(Paths.get(fileName))
+//        os.write(content);
+//    }
+    
+        val bufferedOutputStream = new BufferedOutputStream(new FileOutputStream(fileName))
+//    try {
+//      val os = Files.newOutputStream(Paths.get(fileName))
+        bufferedOutputStream.write(content);
+        bufferedOutputStream.flush();
+        bufferedOutputStream.close();
   }
     
   
@@ -96,7 +103,10 @@ object InputOutput extends JsonSupport {
    */
   def readCSV(filePath: String): List[String] = io.Source.fromFile(filePath).getLines().toList
   
-  
+  def readAnnotations(dirPath: String):List[Annotations] = {
+    
+    null
+  }
   /**
    * Splitting a string/line into the elements using the delimiter 
    * If the delimiter is not provided, we use the CSV delimiter
