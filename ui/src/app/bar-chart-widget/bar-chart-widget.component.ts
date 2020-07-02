@@ -1,6 +1,6 @@
 import { Component, OnInit, ViewEncapsulation, Input } from '@angular/core';
 import { CovidReportService } from '../services/covid-report.service';
-import { ResultMessage, LocationsByLocaleName,  CountriesByName} from '../models/data-types';
+import { ResultMessage, LocationsByLocaleName, CountriesByName } from '../models/data-types';
 
 @Component({
   selector: 'app-bar-chart-widget',
@@ -13,6 +13,7 @@ export class BarChartWidgetComponent implements OnInit {
   @Input() uuid: string;
 
   locations = CountriesByName;
+  availableLocations = [];
   snapshots = ['daily', 'cumulative'];
   normalizations = ['Confirmed cases', 'Confirmed cases per 100k'];
   yAxisTitles = ['Confirmed Cases', 'Confirmed cases per-100k'];
@@ -25,7 +26,9 @@ export class BarChartWidgetComponent implements OnInit {
   dataSet = [];
   dataLabels = ['Date', 'Active', 'Recovered', 'Deaths'];
 
-  constructor(private service: CovidReportService) { }
+  constructor(private service: CovidReportService) {
+    this.createDropdownLabels();
+  }
 
   /**
    * Populate the data set for for a given location.
@@ -74,7 +77,19 @@ export class BarChartWidgetComponent implements OnInit {
     this.yAxisTitle = this.yAxisTitles[idx];
     this.populateDataSet();
   }
- 
+
+  /**
+   * Set the multi-select options based on the locale list.
+   */
+  createDropdownLabels() {
+    const locationsDropdown = [];
+    const defaultSelected = [];
+    this.locations.forEach(locale => {
+      locationsDropdown.push({ label: locale, value: locale });
+    });
+    this.availableLocations = locationsDropdown;
+  }
+
   /**
    * Init lifecycle hook
    */

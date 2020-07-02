@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild, ViewEncapsulation } from '@angular/core';
-import { LocationsByLocaleName, CountriesByName,  CountiesByName, StatesByName } from '../models/data-types';
+import { LocationsByLocaleName, CountriesByName, CountiesByName, StatesByName } from '../models/data-types';
 import { CovidReportService } from '../services/covid-report.service';
 import { forkJoin } from 'rxjs';
 import { serializeNodes } from '@angular/compiler/src/i18n/digest';
@@ -27,36 +27,36 @@ export class LineChartWidgetComponent implements OnInit {
   locationsCounties = CountiesByName;
   locationsStates = StatesByName;
   availableLocations = [];
-  
+
   selectedLocationsAll: Array<string> = ['US', 'California', 'San Diego,California'];
   selectedLocationsCountries: Array<string> = ['US', 'United Kingdom', 'India'];
   selectedLocationsCounties: Array<string> = ['San Diego,California', 'Riverside,California', 'Los Angeles,California'];
   selectedLocationsStates: Array<string> = ['Texas', 'California', 'Florida', 'Arizona'];
-   
+
   windowsAvailable = ['daily', 'weekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
 
-  localesAvailable = ['Countries','US States','US Counties','All'];
+  localesAvailable = ['Countries', 'US States', 'US Counties', 'All'];
   selectedLocale = this.localesAvailable[0];
-  
+
   selectedLocations = this.selectedLocationsCountries;
-  
+
   metrics = [
     'Spread Rate',
     'Daily Growth Rate',
     'Confirmed Fatality Rate',
-    'Time Adjusted Confirmed Fatality Rate',    
+    'Time Adjusted Confirmed Fatality Rate',
     'Confirmed Cumulative Cases per 100k',
     'Confirmed Daily Cases per 100k'
   ];
-  
+
   initialMetricIndex = Math.floor(Math.random() * 6);
   selectedMetric = this.metrics[this.initialMetricIndex];
 
-  scaleOptions = ['linear','log'];
+  scaleOptions = ['linear', 'log'];
 
   alertOptions = ['Select Top 5 Locations', 'Daily High', 'Highest % change', 'Moving Average Crossover'];
-  
+
   chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days.',
@@ -67,13 +67,11 @@ export class LineChartWidgetComponent implements OnInit {
   ];
   chartDescriptionText = this.chartDescriptions[this.initialMetricIndex];
   noChartData = true;
-  
-  
-   selectedScale = this.scaleOptions[0];
 
+  selectedScale = this.scaleOptions[0];
 
-   selectedAlert =  this.alertOptions[0];
-   
+  selectedAlert = this.alertOptions[0];
+
   /**
    * Constructor
    * @param service 
@@ -88,31 +86,31 @@ export class LineChartWidgetComponent implements OnInit {
    */
   selectLocale(locale: string) {
     this.selectedLocale = locale;
-    if(locale === 'Countries') {
-        this.selectedAlert = this.alertOptions[0];
-        this.selectedLocations = [];
-        this.updateMultiselectLabels(this.locationsCountries);
-      }
-    if(locale === 'US Counties')  {
+    if (locale === 'Countries') {
+      this.selectedAlert = this.alertOptions[0];
+      this.selectedLocations = [];
+      this.updateMultiselectLabels(this.locationsCountries);
+    }
+    if (locale === 'US Counties') {
       this.selectedAlert = this.alertOptions[0];
       this.selectedLocations = [];
       this.updateMultiselectLabels(this.locationsCounties);
-      }
-    if(locale === 'US States') {
-      this.selectedAlert =  this.alertOptions[0];
+    }
+    if (locale === 'US States') {
+      this.selectedAlert = this.alertOptions[0];
       this.selectedLocations = [];
       this.updateMultiselectLabels(this.locationsStates);
-      }
-    if(locale === 'All'){
-      this.selectedAlert =  this.alertOptions[0];
+    }
+    if (locale === 'All') {
+      this.selectedAlert = this.alertOptions[0];
       this.selectedLocations = [];
       this.updateMultiselectLabels(this.locations);
-      }
-      
+    }
+
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
-  
-    /**
+
+  /**
    * Update selected window to view, redraw graph
    * @param day - window to get the moving average for
    */
@@ -120,7 +118,7 @@ export class LineChartWidgetComponent implements OnInit {
     this.selectedScale = scale;
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
-  
+
   /**
   * Update selected window to view, redraw graph
   * @param day - window to get the moving average for
@@ -136,72 +134,71 @@ export class LineChartWidgetComponent implements OnInit {
    */
   selectMetric(metric: string, idx: number) {
     this.selectedMetric = metric;
-    if(metric === this.metrics[0] || metric === this.metrics[1] || metric === this.metrics[2] || metric === this.metrics[3])
+    if (metric === this.metrics[0] || metric === this.metrics[1] || metric === this.metrics[2] || metric === this.metrics[3]) {
       this.selectedScale = this.scaleOptions[0];
+    }
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
     this.chartDescriptionText = this.chartDescriptions[idx];
   }
 
 
-   /**
+  /**
    *
    */
-   setAlertLocaleFromLocale(locale: string) {
-     if(locale === this.localesAvailable[0]){
-       return 'country'
-     }
-     if(locale === this.localesAvailable[1]){
-       return 'state'
-     }
-     if(locale === this.localesAvailable[2]){
-       return 'county'
-     }     
-     return 'country'
-   }
-   
-   /**
+  setAlertLocaleFromLocale(locale: string) {
+    if (locale === this.localesAvailable[0]) {
+      return 'country';
+    }
+    if (locale === this.localesAvailable[1]) {
+      return 'state';
+    }
+    if (locale === this.localesAvailable[2]) {
+      return 'county';
+    }
+    return 'country';
+  }
+
+  /**
    *
    */
   selectAlert(alert: string) {
-  
+
     const localeAlert = this.setAlertLocaleFromLocale(this.selectedLocale);
     const requestArray = [];
-    
+
     this.selectedAlert = alert;
-    
-    if(alert === this.alertOptions[0]) {
+
+    if (alert === this.alertOptions[0]) {
       this.selectedLocations = [];
       this.selectLocale(this.selectedLocale)
-     // this.selectMetric(this.selectedMetric)
-      }
-    else {
-       
+      // this.selectMetric(this.selectedMetric)
+    } else {
       this.selectedMetric = this.metrics[5];
-      if(alert === this.alertOptions[1]) {
-            requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
-            }
-      if(alert === this.alertOptions[2]) {
-            requestArray.push(this.service.getAlerts(localeAlert,'BiweeklyPercentChange'));
-            }    
-      if(alert === this.alertOptions[3]) {
-            requestArray.push(this.service.getAlerts(localeAlert,'MACrossover'));
-            }               
+      if (alert === this.alertOptions[1]) {
+        requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
+      }
+      if (alert === this.alertOptions[2]) {
+        requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChange'));
+      }
+      if (alert === this.alertOptions[3]) {
+        requestArray.push(this.service.getAlerts(localeAlert, 'MACrossover'));
+      }
       forkJoin(requestArray)
-      .subscribe(allResponses => {
-        // Loop over all responses (one per selected location)
-        for (let i = 0; i < allResponses.length; i++) {
-          const res: any = allResponses[i];
-        this.chartDescriptionText = res.description;
-        this.selectedLocations = res.locales;
-        this.availableLocations = [];
-        this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
-        }
-    })
+        .subscribe(allResponses => {
+          // Loop over all responses (one per selected location)
+          for (let i = 0; i < allResponses.length; i++) {
+            const res: any = allResponses[i];
+            this.chartDescriptionText = res.description;
+            this.selectedLocations = res.locales;
+            this.availableLocations = [];
+            this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
+          }
+        });
     }
-      
+
   }
-  
-    /**
+
+  /**
    * Populate the data set to be used for the chart, and then call the chart generation function
    * @param locations - string array of locations to chart
    * @param window - window to view the moving average
@@ -212,7 +209,7 @@ export class LineChartWidgetComponent implements OnInit {
     const displayData = [];
     const requestArray = [];
     const labels = [];
-    
+
     // Skip empty data sets
     if (locations.length === 0) {
       return;
@@ -297,14 +294,16 @@ export class LineChartWidgetComponent implements OnInit {
     const title = this.selectedMetric.replace(/\b[a-z]/g, (x) => x.toLocaleUpperCase());
     this.chart.yAxis().title('Moving Average ' + title);
     this.chart.xAxis().labels().padding(5);
-    
-    if(scale === 'linear')
-      this.chart.yScale(anychart.scales.linear());
 
-    if(scale === 'log')
+    if (scale === 'linear') {
+      this.chart.yScale(anychart.scales.linear());
+    }
+
+    if (scale === 'log') {
       this.chart.yScale(anychart.scales.log());
-    
-    
+    }
+
+
     // Map data per location
     labels.forEach((loc, col) => {
       // mat data set
@@ -349,8 +348,8 @@ export class LineChartWidgetComponent implements OnInit {
     });
     this.availableLocations = locationsMultiselect;
   }
-  
-    /**
+
+  /**
    * Set the multi-select options based on the locale list.
    */
   createMultiselectLabels() {
@@ -364,7 +363,7 @@ export class LineChartWidgetComponent implements OnInit {
 
   /**
    * Hide the multiselect panel, kick off chart update.
-   */  
+   */
   hidePanel() {
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }

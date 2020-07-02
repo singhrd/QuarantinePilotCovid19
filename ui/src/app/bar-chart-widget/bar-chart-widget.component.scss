@@ -16,6 +16,40 @@ div.bar-chart-widget {
             border-top: 1px solid lightgray;
         }
 
+        .ui-dropdown {
+            font-family: Arial, Helvetica, sans-serif;
+            // font-size: 18px;
+            margin: 0 .5em .5em 0;
+            border-radius: 0.25rem;
+            background: #6c757d;
+            &:hover {
+                background: #545b62;
+            }
+
+            .ui-dropdown-label {
+                color: #fff;
+                padding: 0.25rem 2em 0.25rem 0.75rem;
+                background: transparent;
+                font-size: 16px;
+            }
+
+            .ui-dropdown-trigger {
+                background: transparent;
+            }
+
+            .ui-dropdown-trigger-icon {
+                color: #fff;
+            }
+
+            // .ui-dropdown-items {
+            //     width: 300px;
+            // }
+
+            .pi {
+                font-size: 0.75em;
+            }
+        }
+
         div.dropdown {
             margin: 0 .5em .5em 0;
             padding-bottom: .5em;
