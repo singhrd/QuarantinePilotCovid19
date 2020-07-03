@@ -2,6 +2,22 @@
   "snapshots": [{
     "epidemiccontrolThreshold": 0.140815,
     "source": "OpenDataSanDiego",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "91932",
+    "activePer100k": 0.0,
+    "long": "ReplaceMe91932",
+    "date": "03/30/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMe91932",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.140815,
+    "source": "OpenDataSanDiego",
     "confirmedPer100kN": 3.550758086851543,
     "deaths": 0,
     "confirmed": 1,
@@ -1455,5 +1471,21 @@
     "deathsPer100k": 0.0,
     "lat": "ReplaceMe91932",
     "active": 202
+  }, {
+    "epidemiccontrolThreshold": 0.140815,
+    "source": "OpenDataSanDiego",
+    "confirmedPer100kN": 724.3546497177148,
+    "deaths": 0,
+    "confirmed": 204,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 724.3546497177148,
+    "locale": "91932",
+    "activePer100k": 724.3546497177148,
+    "long": "ReplaceMe91932",
+    "date": "06/30/2020",
+    "deathsPer100k": 0.0,
+    "lat": "ReplaceMe91932",
+    "active": 204
   }]
 }

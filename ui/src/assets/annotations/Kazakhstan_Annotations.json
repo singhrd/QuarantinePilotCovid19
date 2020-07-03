@@ -2419,14 +2419,29 @@
     "long": "71.416667",
     "date": "7/1/20",
     "metrics": {
-      "Spread Rate": [["daily", 0.646298379783179], ["weekly", 0.024707417991474707], ["biweekly", 0.025814237267161286], ["triweekly", 0.02544380158746525]],
-      "Confirmed Daily Cases per 100k": [["daily", 108.19746630214311], ["weekly", 2.702229089597588], ["biweekly", 2.580197857778335], ["triweekly", 2.3475758221228835]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 227.29689777693875], ["weekly", 110.68766612645474], ["biweekly", 101.29087992877282], ["triweekly", 93.08542363172634]],
-      "Daily Growth Rate": [["daily", 41.443762781186095], ["weekly", 0.8435221585875945], ["biweekly", 0.8705916068810156], ["triweekly", 0.966855452479226]],
-      "Confirmed Cumulative Cases": [["daily", 42574.0], ["weekly", 20732.428571428572], ["biweekly", 18972.35714285714], ["triweekly", 17435.428571428572]],
-      "Confirmed Daily Cases": [["daily", 20266.0], ["weekly", 506.14285714285717], ["biweekly", 483.2857142857143], ["triweekly", 439.7142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.004415840653920233], ["weekly", 0.007868958342329603], ["biweekly", 0.007282160522075858], ["triweekly", 0.006585210927738057]],
+      "Spread Rate": [["daily", 0.6102108186648483], ["weekly", 0.024707417991474707], ["biweekly", 0.025814237267161286], ["triweekly", 0.02544380158746525]],
+      "Confirmed Daily Cases per 100k": [["daily", 100.14111691647578], ["weekly", 2.702229089597588], ["biweekly", 2.580197857778335], ["triweekly", 2.3475758221228835]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 219.24054839127143], ["weekly", 110.68766612645474], ["biweekly", 101.29087992877282], ["triweekly", 93.08542363172634]],
+      "Daily Growth Rate": [["daily", 38.35787321063395], ["weekly", 0.8435221585875945], ["biweekly", 0.8705916068810156], ["triweekly", 0.966855452479226]],
+      "Confirmed Cumulative Cases": [["daily", 41065.0], ["weekly", 20732.428571428572], ["biweekly", 18972.35714285714], ["triweekly", 17435.428571428572]],
+      "Confirmed Daily Cases": [["daily", 18757.0], ["weekly", 506.14285714285717], ["biweekly", 483.2857142857143], ["triweekly", 439.7142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.004578107877754779], ["weekly", 0.007868958342329603], ["biweekly", 0.007282160522075858], ["triweekly", 0.006585210927738057]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009748509204044594], ["weekly", 0.00947566348045169], ["biweekly", 0.008751030943632781], ["triweekly", 0.007820730407492302]]
+    },
+    "lat": "51.1666666667"
+  }, {
+    "locale": "Kazakhstan",
+    "long": "71.416667",
+    "date": "7/2/20",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03608756111833067], ["weekly", 0.10797551221885218], ["biweekly", 0.06787747543548443], ["triweekly", 0.053617361427298234]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.056349385667323], ["weekly", 16.61150143139584], ["biweekly", 9.605383334572966], ["triweekly", 7.053913662618749]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 227.29689777693875], ["weekly", 127.2991675578506], ["biweekly", 110.89626326334577], ["triweekly", 100.1393372943451]],
+      "Daily Growth Rate": [["daily", 0.08044996534627072], ["weekly", 6.184106507030218], ["biweekly", 3.5420723464160937], ["triweekly", 2.739157277570322]],
+      "Confirmed Cumulative Cases": [["daily", 42574.0], ["weekly", 23843.85714285714], ["biweekly", 20771.5], ["triweekly", 18756.666666666668]],
+      "Confirmed Daily Cases": [["daily", 1509.0], ["weekly", 3111.4285714285716], ["biweekly", 1799.142857142857], ["triweekly", 1321.2380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.004415840653920233], ["weekly", 0.007515529033262607], ["biweekly", 0.007172777761636734], ["triweekly", 0.006563672841523291]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009518987341772152], ["weekly", 0.009644614799364183], ["biweekly", 0.00892715095526316], ["triweekly", 0.008020548331090333]]
     },
     "lat": "51.1666666667"
   }]
