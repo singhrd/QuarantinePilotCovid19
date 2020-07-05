@@ -25,9 +25,9 @@ trait JsonSupport extends DefaultJsonProtocol {
   implicit val annotationJsonImplicit = jsonFormat5(Annotation)
   implicit val annotationsJsonImplicit = jsonFormat1(Annotations)
   implicit val covidSnapshotsJsonImplicit = jsonFormat1(CovidSnapshots)
-//  implicit val alertUIInfoJsonImplicit = jsonFormat2(AlertUIInfo)
-  implicit val alertJsonImplicit = jsonFormat6(Alert)
   implicit val alertUIJsonImplicit = jsonFormat2(AlertUIInfo)
+  implicit val alertJsonImplicit = jsonFormat6(Alert)
+  
   
   
 }

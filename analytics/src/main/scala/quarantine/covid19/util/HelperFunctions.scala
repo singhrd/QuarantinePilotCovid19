@@ -134,7 +134,7 @@ object HelperFunctions {
    * sort the snapshots per the earliest reported date to the latest reported date
    */
   def sortSnapshots(cs: List[CovidSnapshot]): List[CovidSnapshot] = {
-    cs.sortWith((a,b) => HelperFunctions.beforeOrEqual(a.date,b.date))
+    cs.sortWith((a,b) => beforeOrEqual(a.date,b.date))
   }
   
   
@@ -448,14 +448,20 @@ object HelperFunctions {
     
     val cumulCS = CovidSnapshots(covidSnapshotListBufferCumul.toList)
     
-    val countryCovidSnapshotMapDaily = HelperFunctions.pivotCovidSnapshotByLocale(dailyCS.snapshots)
+    val countryCovidSnapshotMapDaily = pivotCovidSnapshotByLocale(dailyCS.snapshots)
     
-    val countryCovidSnapshotMapCumul = HelperFunctions.pivotCovidSnapshotByLocale(cumulCS.snapshots)
+    val countryCovidSnapshotMapCumul = pivotCovidSnapshotByLocale(cumulCS.snapshots)
     
     (dailyCS,cumulCS,countryCovidSnapshotMapDaily,countryCovidSnapshotMapCumul)
   }
   
     
+  def reFormatDateElements(dateInSlashFormat: String): String = {
+    val elementsDate = dateInSlashFormat.split("/").toList
+    // remove the 08:00 from the end or replace (" 08:00:00","")
+    elementsDate(1)+"/"+elementsDate(2).split(" ")(0)+"/"+elementsDate(0)
+  }
+  
   def transformDateToSlashFormat(dateInHyphenFormat: String): String = {
     val elementsDate = dateInHyphenFormat.split("-").toList
     elementsDate(1)+"/"+elementsDate(2)+"/"+elementsDate(0)
@@ -542,13 +548,118 @@ object HelperFunctions {
     val cumulCS = CovidSnapshots(covidSnapshotListBufferCumul.toList)
     
     
-    val countyCovidSnapshotMapDaily = HelperFunctions.pivotCovidSnapshotByLocale(dailyCS.snapshots)
+    val countyCovidSnapshotMapDaily = pivotCovidSnapshotByLocale(dailyCS.snapshots)
     
-    val countyCovidSnapshotMapCumul = HelperFunctions.pivotCovidSnapshotByLocale(cumulCS.snapshots)
+    val countyCovidSnapshotMapCumul = pivotCovidSnapshotByLocale(cumulCS.snapshots)
     
     (dailyCS,cumulCS,countyCovidSnapshotMapDaily,countyCovidSnapshotMapCumul)
   }
 
+  /**
+   * County San Diego data from Open GIS
+   * Columns we are interested in 
+   * X,Y,objectid,zipcode_zip,ziptext,case_count,updatedate
+   * 
+   * col5 is locale // 4 in index starting with 0
+   * col6 is total count //5 in index starting with 0
+   * col7 is date // 6 i index starting with 0
+   * using default lat and long until we need to do geo stuff
+   * do not rely on this for any uniqueness earliest date is 2020/04/01 
+   * so create covid snapshots from these and follow the rest of the logic
+   * 
+   */
+  def createSnapshotsSanDiegoCountyByZipCode(tokensPerRecordRaw:List[List[String]]):
+                      (CovidSnapshots, CovidSnapshots, 
+                          Map[String,CovidSnapshots], Map[String, CovidSnapshots]) = {
+    
+    val covidSnapshotListBufferDaily = scala.collection.mutable.ListBuffer[CovidSnapshot]()
+    val covidSnapshotListBufferCumul = scala.collection.mutable.ListBuffer[CovidSnapshot]()
+    
+    val localeIndex = 4
+    val confirmedCountIndex = 5
+    val dateIndex = 6
+  
+    val tokensPerRecordBuffer = scala.collection.mutable.ListBuffer[(String, String, Long)]()
+//    
+    
+    
+    tokensPerRecordRaw.slice(1,tokensPerRecordRaw.length).foreach(l => {
+//            println(l(dateIndex)+ ","+ l(localeIndex) +","+l(confirmedCountIndex))
+            val valueConfirmed = l(confirmedCountIndex) match {
+              case "" => 0L
+              case _ => l(confirmedCountIndex).toLong
+            }
+            tokensPerRecordBuffer.+=((reFormatDateElements(l(dateIndex)), l(localeIndex),valueConfirmed))
+    })
+      
+      val tokensPerRecord = tokensPerRecordBuffer.toList
+      val localeListSanDiego = tokensPerRecord.map(l => l._2).distinct
+      val sanDiegoCountyRecordsMap = localeListSanDiego.map(l => (l -> tokensPerRecord.filter(ll => ll._2.equals(l)))).toMap
+      sanDiegoCountyRecordsMap.foreach(c => {
+          InputOutput.sanDiegoZipCodePopulationMap.contains(c._1) match {
+            case false => {
+              println("** missing key " + c._1 + " skipping it")
+            }      
+            case true => {
+              val (normalizerZipCode, ecZipCode) = (InputOutput.sanDiegoZipCodePopulationMap(c._1)._1, InputOutput.sanDiegoZipCodePopulationMap(c._1)._2)
+              val normalizerZipCodePD = 1.0 // replace when you have the population densities
+              val confirmedCumulObserved = c._2.sortWith((a,b) => a._1<b._1).map(y => (y._1,y._3))
+              val gapValues = fillGapStartDate(confirmedCumulObserved(0)._1, getDate(Constants.DefaultSanDiegoZipCodeDate))
+              val confirmedCumul = gapValues match {
+                case None => confirmedCumulObserved
+                case Some(gapValues: List[(String, Long)]) => gapValues ++ confirmedCumulObserved
+              }
+              val confirmedDaily = extractDailyFromCumulativeWithKey(confirmedCumul)
+              
+              Range(0, confirmedCumul.length).foreach(i => {
+                val activeDaily = confirmedDaily(i)._2
+                val activeCumul = confirmedCumul(i)._2
+                
+                covidSnapshotListBufferDaily.+=(CovidSnapshot(confirmedDaily(i)._1, 
+                    c._1, 
+                    Constants.DefaultLat+c._1, 
+                    Constants.DefaultLong+c._1,
+                    confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble/normalizerZipCode,
+                    confirmedDaily(i)._2.toDouble/(normalizerZipCode*normalizerZipCodePD),
+                    0L,0.0,
+                    activeDaily, activeDaily.toDouble/normalizerZipCode,
+                    0L,0.0,
+                    ecZipCode,
+                    "OpenDataSanDiego",
+                    None))
+              val activeCumulative = confirmedCumul(i)._2  // using recovery is 0 without any additional info but we won't be using these snapshots                                                  
+                covidSnapshotListBufferCumul.+=(CovidSnapshot(confirmedCumul(i)._1, 
+                    c._1, 
+                    Constants.DefaultLat+c._1, 
+                    Constants.DefaultLong+c._1,
+                    confirmedCumul(i)._2, confirmedCumul(i)._2.toDouble/normalizerZipCode,
+                    confirmedCumul(i)._2.toDouble/(normalizerZipCode*normalizerZipCodePD),
+                    0L,0.0,
+                    activeCumulative, activeCumulative.toDouble/normalizerZipCode,
+                    0L,0.0,
+                    ecZipCode,
+                    "OpenDataSanDiego",
+                    None))
+              })
+            }
+          }
+    })
+    
+    val dailyCS = CovidSnapshots(covidSnapshotListBufferDaily.toList)
+    
+    val cumulCS = CovidSnapshots(covidSnapshotListBufferCumul.toList)
+    
+    
+    val countyCovidSnapshotMapDaily = pivotCovidSnapshotByLocale(dailyCS.snapshots)
+    
+    val countyCovidSnapshotMapCumul = pivotCovidSnapshotByLocale(cumulCS.snapshots)
+    
+    (dailyCS,cumulCS,countyCovidSnapshotMapDaily,countyCovidSnapshotMapCumul)
+  }
+
+//  }
+
+  
   /**
    * Assume all the files have same header format
    */
@@ -559,7 +670,7 @@ object HelperFunctions {
     val covidSnapshotListBufferDaily = scala.collection.mutable.ListBuffer[CovidSnapshot]()
     val covidSnapshotListBufferCumul = scala.collection.mutable.ListBuffer[CovidSnapshot]()
     
-    val localeCountyDateIndex = 0
+    val dateIndex = 0
     val localeStateIndex = 2
     val confirmedCountIndex = 4
     val deathsCountIndex = 5  
@@ -569,12 +680,12 @@ object HelperFunctions {
     val tokensPerRecordMap = scala.collection.mutable.Map[(String, String), List[(String, String)]]()
     
     tokensPerRecordRaw.slice(1,tokensPerRecordRaw.length).foreach(l => {
-        val dateKey = transformDateToSlashFormat(l(0))
-        tokensPerRecordMap.contains((dateKey,l(2))) match {
-          case false => tokensPerRecordMap.+=((dateKey, l(2)) -> List((l(confirmedCountIndex), l(deathsCountIndex))))
+        val dateKey = transformDateToSlashFormat(l(dateIndex))
+        tokensPerRecordMap.contains((dateKey,l(localeStateIndex))) match {
+          case false => tokensPerRecordMap.+=((dateKey, l(localeStateIndex)) -> List((l(confirmedCountIndex), l(deathsCountIndex))))
           case true => {
-            val currentValue = tokensPerRecordMap((dateKey, l(2)))
-            tokensPerRecordMap.+=((dateKey, l(2)) -> (currentValue ++ List((l(confirmedCountIndex), l(deathsCountIndex)))))
+            val currentValue = tokensPerRecordMap((dateKey, l(localeStateIndex)))
+            tokensPerRecordMap.+=((dateKey, l(localeStateIndex)) -> (currentValue ++ List((l(confirmedCountIndex), l(deathsCountIndex)))))
           }
         }
       })
@@ -587,10 +698,10 @@ object HelperFunctions {
         List(dateString, stateKey, sumConfirmedDeaths._1.toString(), sumConfirmedDeaths._2.toString())
       }).toList
   
-    
-    val localeListState = tokensPerRecord.map(l => l(localeStateIndex-1)).distinct
+    // the index moved by one in the reduced structure
+    val localeListState = tokensPerRecord.map(l => l(1)).distinct
 
-    val stateRecordsMap = localeListState.map(l => (l -> tokensPerRecord.filter(ll => ll(localeStateIndex-1).equals(l)))).toMap
+    val stateRecordsMap = localeListState.map(l => (l -> tokensPerRecord.filter(ll => ll(1).equals(l)))).toMap
     
     stateRecordsMap.foreach(c => {
           InputOutput.statePopulationECMap.contains(c._1) match {
@@ -648,14 +759,14 @@ object HelperFunctions {
     val cumulCS = CovidSnapshots(covidSnapshotListBufferCumul.toList)
     
     
-    val countyCovidSnapshotMapDaily = HelperFunctions.pivotCovidSnapshotByLocale(dailyCS.snapshots)
+    val countyCovidSnapshotMapDaily = pivotCovidSnapshotByLocale(dailyCS.snapshots)
     
-    val countyCovidSnapshotMapCumul = HelperFunctions.pivotCovidSnapshotByLocale(cumulCS.snapshots)
+    val countyCovidSnapshotMapCumul = pivotCovidSnapshotByLocale(cumulCS.snapshots)
     
     (dailyCS,cumulCS,countyCovidSnapshotMapDaily,countyCovidSnapshotMapCumul)
   }
   
-  def extractDailyFromCumulativeCounty(cumul:List[(String, Long)]): List[(String, Long)] = {
+  def extractDailyFromCumulativeWithKey(cumul:List[(String, Long)]): List[(String, Long)] = {
     val cumulOneStepMoved = cumul.slice(1,cumul.length)
     List(cumul(0)) ++ cumulOneStepMoved.zip(cumul.slice(0,cumul.length-1)).map(x => (x._1._1, x._1._2-x._2._2))
   }
@@ -666,26 +777,34 @@ object HelperFunctions {
     List(cumul(0)) ++ cumulOneStepMoved.zip(cumul.slice(0,cumul.length-1)).map(x => x._1-x._2)
   }
 
+  def fillGapStartDate(firstObservedDate: String, firstExpectedDate: Date): Option[List[(String, Long)]]  = {
+  
+    // make this date construction one time
+    val startDate = getDate(firstObservedDate)
+    firstExpectedDate.before(startDate) match {
+      case true => {
+        // add dummy annotations to the front
+        Some(Range(0,daysBetween(firstExpectedDate, startDate).toInt).toList.map(i => {
+          (getDateStringFromDate(dateDaysAfter(firstExpectedDate, i)),0L)
+        }).toList)
+      }
+      case false => None
+    }
+  }
+  
     // replace the province with the capital name or default and use the country lat lon from the map
   def combineCountyRecords(records: List[List[String]], dataIndex: Int): (List[(String, Long)], List[(String, Long)]) = {
     val recordsCountValues = records.sortWith((a,b) => a(0)<b(0)).map(x => (x(0),x(dataIndex).toLong))
-    val referenceDate = HelperFunctions.getDate(Constants.DefaultCountyRefDate)
-    val startDate = HelperFunctions.getDate(recordsCountValues(0)._1)
-    referenceDate.before(startDate) match {
-      case true => {
-        // add dummy annotations to the front
-        val defaultFillerSnapshotValue = Range(0,HelperFunctions.daysBetween(referenceDate, startDate).toInt).toList.map(i => {
-          (HelperFunctions.getDateStringFromDate(HelperFunctions.dateDaysAfter(referenceDate, i)),0L)
-        }).toList
-        
-        val recordsCountValuesPadded = defaultFillerSnapshotValue ++ recordsCountValues
-        (recordsCountValuesPadded,extractDailyFromCumulativeCounty(recordsCountValuesPadded))
+    val referenceDate = getDate(Constants.DefaultCountyRefDate)
+    val gapValues = fillGapStartDate(recordsCountValues(0)._1, referenceDate)
+    
+    gapValues match {
+      case Some(x: List[(String, Long)]) => {
+        val recordsCountValuesPadded = x ++ recordsCountValues
+        (recordsCountValuesPadded,extractDailyFromCumulativeWithKey(recordsCountValuesPadded))
       }
-      case false => (recordsCountValues,extractDailyFromCumulativeCounty(recordsCountValues))
+      case None => (recordsCountValues,extractDailyFromCumulativeWithKey(recordsCountValues))
     }
-    // now fill in the gap on the front since data only got recorded after the first case was reported
-    
-    
   }
   
     /**
@@ -722,63 +841,48 @@ object HelperFunctions {
       }
       case MetricType.CumulativePer100k => cumulativeSnapshotsSorted(dateIndex).confirmedPer100k
       case MetricType.DailyPer100k => dailySnapshotsSorted(dateIndex).confirmedPer100k
+      case MetricType.Cumulative => cumulativeSnapshotsSorted(dateIndex).confirmed
+      case MetricType.Daily => dailySnapshotsSorted(dateIndex).confirmed
     }
-  }
-  
-  def findAlertMeasureExampleToday(metricsCurrent: Map[String, Array[(String, Double)]], metric: MetricType.Value, interval: Int): Option[Double] = {
-     val dailyValue = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals("daily"))(0)._2
-     val weeklyValue = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals("weekly"))(0)._2
-     dailyValue > weeklyValue match {
-       case true => {
-         // check to see if the both values were below 1 - then don't return anything
-          (dailyValue > 1.0 && weeklyValue > 1.0) match {
-            case true => Some(100*((dailyValue/weeklyValue)-1))
-            case false => None
-          }
-       }
-       case false => None// do not generate an alert
-     }
-                                
-  }
-
-  /**
-   * 
-   */
-  def alertTemplateNew(metric: String, windowSize: String, deltaInDays: Int, changeInPercent: Double): String =  {
-    val changeDescription = changeInPercent > 0 match {
-      case true => " increased by " + scala.math.abs(changeInPercent)
-      case false =>  " decreased by " + scala.math.abs(changeInPercent)
-    }
-    
-    windowSize + " " +  metric + " " + changeDescription + " in the last " + deltaInDays + " days."
   }
   
   /**
    * 
    */
-  def alertTemplatePercent(localeType: String, measure: MeasureType.Value): String =  {
+  def alertDescription(localeType: String, measure: MeasureType.Value): String =  {
          
     val localePlural = localeType match {
       case "country" => "Countries"
       case "state" => "States"
       case "county" => "Counties"
+      case "sandiegozipcode" => "San Diego Zip codes"
     }
     
-    localePlural + " with " + MeasureType.name(measure)
+    localePlural + " with " + Constants.mapMeasureToDescription(measure)
     
   }
   
-  def findAlertMeasureExamplePercent(metricsCurrent: Map[String, Array[(String, Double)]], metricPrevious: Map[String, Array[(String, Double)]], metric:MetricType.Value, windowSize: String = "weekly"): Option[Double] = {
-     val currentValue = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals(windowSize))(0)._2
-     val oldValue = metricPrevious(MetricType.name(metric)).filter(x => x._1.equals(windowSize))(0)._2
-     oldValue > 1.0 match {
-       case true => Some(100*((currentValue/oldValue)-1))
-       case false => None
-       
-     }
+  def findPercentMeasure(metricsCurrent: Map[String, Array[(String, Double)]], 
+                                     metricPrevious: Map[String, Array[(String, Double)]], 
+                                     metric:MetricType.Value, 
+                                     windowSize: String = "weekly"): Option[Double] = {
+    val currentValue = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals(windowSize))(0)._2
+    val oldValue = metricPrevious(MetricType.name(metric)).filter(x => x._1.equals(windowSize))(0)._2
+    
+    val theresholdMatch = currentValue > Constants.minThreshold || oldValue > Constants.minThreshold
+    
+    theresholdMatch match {
+      case true => {
+        oldValue > 0.0 match {
+          case true =>  Some(100*((currentValue/oldValue)-1))
+          case false => Some(currentValue*100) // assume lowest possible value = 1 case for olderValue (first case) to compute the percent
+        }
+      }
+      case false => None
+    }       
   }
   
-    def findAlertMeasureExampleTrend(metricsCurrent: Map[String, Array[(String, Double)]], metricPrevious: Map[String, Array[(String, Double)]], metric: MetricType.Value, interval: Int): Option[Double] = {
+  def findMovingAverageUpTrendMeasure(metricsCurrent: Map[String, Array[(String, Double)]], metricPrevious: Map[String, Array[(String, Double)]], metric: MetricType.Value, interval: Int): Option[Double] = {
      val currentValueDaily = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals("daily"))(0)._2
      val currentValueWeekly = metricsCurrent(MetricType.name(metric)).filter(x => x._1.equals("weekly"))(0)._2
      
@@ -795,7 +899,7 @@ object HelperFunctions {
      (currentValueDaily > 1.0 && oldValueDaily > 1.0 && currentDelta > 0.0 && oldDelta < 0.0) match {
        case false => None
        case true => {
-         // check to see if the both values were below 1 - then don't return anything
+         // check to see if old value was above 0 before normalizing
           (oldDelta > 0.0) match {
             case true => None
             case false => {
@@ -806,12 +910,18 @@ object HelperFunctions {
      }
   }
     
-  def generateAlertUInfo(localeType: String, measureType: MeasureType.Value, alertMap: Map[String, Double], numLocs: Int = 5): AlertUIInfo = {
-    val sortedAlertMap = alertMap.toArray.sortWith((a,b) => a._2 > b._2)
-    val topLocsMap = sortedAlertMap.slice(0, scala.math.min(numLocs, alertMap.size))  
-    val localesTopMap = topLocsMap.map(x => x._1)
-    val alertTopTemplate = HelperFunctions.alertTemplatePercent(localeType, measureType)
-    AlertUIInfo(alertTopTemplate,localesTopMap)
+  def generateAlertUInfo(localeType: String, 
+                         measureType: MeasureType.Value, 
+                         alertMap: Map[String, Double], 
+                         descending: Boolean = true, 
+                         numLocs: Int = 5): AlertUIInfo = {
+    val sortedAlertMap = descending match { 
+      case true => alertMap.toArray.sortWith((a,b) => a._2 > b._2)  
+      case false => alertMap.toArray.sortWith((a,b) => a._2 < b._2)
+    }
+    val locales = sortedAlertMap.map(x => x._1).slice(0, scala.math.min(sortedAlertMap.size, numLocs))
+    val alertTemplate = alertDescription(localeType, measureType)
+    AlertUIInfo(alertTemplate,locales)
   }
   
   // replace the province with the capital name or default and use the country lat lon from the map
@@ -847,6 +957,12 @@ object HelperFunctions {
           }).toMap
   }
   
+  
+  def transformCumulativeDataSanDiegoCountyOpenGISFormat(fileNameSanDiegoCounty: String): 
+                      (CovidSnapshots, CovidSnapshots, 
+                          Map[String,CovidSnapshots], Map[String, CovidSnapshots]) = {
+    createSnapshotsSanDiegoCountyByZipCode(InputOutput.readCSV(fileNameSanDiegoCounty).map(line => InputOutput.tokenize(line)))
+  }
   
   def transformCumulativeDataCountyNYFormat(fileNameCountyState: String, countyOrState: String="county"): 
                       (CovidSnapshots, CovidSnapshots, 

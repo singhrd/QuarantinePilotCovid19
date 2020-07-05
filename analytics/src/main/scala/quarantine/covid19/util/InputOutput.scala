@@ -31,9 +31,8 @@ object InputOutput extends JsonSupport {
   val countyPopulationMapFileName = "../data/csv/general/populationCountyUS.csv"
   val statePopulationMapFileName = "../data/csv/general/populationStates.csv"
 
-  val countryTestMapFileName = "../data/csv/general/populationStates.csv"
+  val sanDiegoPopulationByZipCodeFileName = "../data/csv/general/populationSanDiegoByZipSandag.csv"
   
-  val stateTestMapFileName = "../data/csv/general/populationStates.csv"
   
   
   val countryLocaleMap = readCSV(countryMapFileName).map(x => {
@@ -59,6 +58,7 @@ object InputOutput extends JsonSupport {
   }).toMap
   }
 
+  // state data is in M so instead of dividing by OneHundredThousand we multiply by 10
   val statePopulationECMap= {
     val lines = readCSV(statePopulationMapFileName)
     lines.slice(1,lines.length).map(x => {
@@ -68,7 +68,7 @@ object InputOutput extends JsonSupport {
   }).toMap
   }
     
-  
+  // We are normalizing every country to 100 sq mile
   val countryPopulationDensityMap= {
     val lines = readCSV(countryPopulationDensityMapFileName)
     lines.slice(1,lines.length).map(x => {
@@ -77,6 +77,21 @@ object InputOutput extends JsonSupport {
   }).toMap
   }
   
+  // Since the zip code data is segmented by age/gender - we simply add 
+  // values belonging to the same zip code to get the total population and then normalize
+  // The county does not normalize for zip codes with cases <5 or population less than 10k
+  val sanDiegoZipCodePopulationMap = {
+    val lines = readCSV(sanDiegoPopulationByZipCodeFileName)
+    val mapZipToCount = scala.collection.mutable.Map[String, Long]()
+    lines.slice(1,lines.length).map(x => {
+    val elements = tokenize(x,Some(Constants.CommaDelimiter))
+    val zipCurrent = elements(0)
+    val popSegmentCount = elements(1).toLong
+    val currentCount = mapZipToCount.getOrElse(zipCurrent, 0L)
+    mapZipToCount.+=((zipCurrent, currentCount+popSegmentCount))
+  })
+  mapZipToCount.filter(y => y._2 >0L).map(x => (x._1 -> (x._2/Constants.OneHundredThousand, x._2*Constants.EpidemicControlThresholdPer100k/Constants.OneHundredThousand)))
+  }
   /**
    * Took a while to fix this
    * https://dzone.com/articles/fileinputstream-fileoutputstream-considered-harmful
@@ -129,4 +144,8 @@ object InputOutput extends JsonSupport {
       }
     }
   }
+  
+  
+  
+  
 }

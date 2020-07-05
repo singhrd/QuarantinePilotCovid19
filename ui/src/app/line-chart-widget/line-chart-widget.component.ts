@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild, ViewEncapsulation } from '@angular/core';
-import { LocationsByLocaleName, CountriesByName, CountiesByName, StatesByName } from '../models/data-types';
+import { LocationsByLocaleName, CountriesByName, CountiesByName, StatesByName, SanDiegoZipCodesByName} from '../models/data-types';
 import { CovidReportService } from '../services/covid-report.service';
 import { forkJoin } from 'rxjs';
 import { serializeNodes } from '@angular/compiler/src/i18n/digest';
@@ -26,28 +26,32 @@ export class LineChartWidgetComponent implements OnInit {
   locationsCountries = CountriesByName;
   locationsCounties = CountiesByName;
   locationsStates = StatesByName;
+  locationsZipCodesSanDiego = SanDiegoZipCodesByName;  
   availableLocations = [];
 
   selectedLocationsAll: Array<string> = ['US', 'California', 'San Diego,California'];
   selectedLocationsCountries: Array<string> = ['US', 'United Kingdom', 'India'];
   selectedLocationsCounties: Array<string> = ['San Diego,California', 'Riverside,California', 'Los Angeles,California'];
   selectedLocationsStates: Array<string> = ['Texas', 'California', 'Florida', 'Arizona'];
-
+  selectedLocationsZipCodesSanDiegoCounty: Array<string> = ['92064', '91901', '92128'];
+  
   windowsAvailable = ['daily', 'weekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
 
-  localesAvailable = ['Countries', 'US States', 'US Counties', 'All'];
+  localesAvailable = ['Countries','US States','US Counties','All']; // 'San Diego Zip-Codes',
   selectedLocale = this.localesAvailable[0];
 
   selectedLocations = this.selectedLocationsCountries;
 
   metrics = [
-    'Spread Rate',
-    'Daily Growth Rate',
+    'Confirmed Cumulative Cases per 100k',
+    'Confirmed Daily Cases per 100k',
+    'Confirmed Cumulative Cases',
+    'Confirmed Daily Cases',
     'Confirmed Fatality Rate',
     'Time Adjusted Confirmed Fatality Rate',
-    'Confirmed Cumulative Cases per 100k',
-    'Confirmed Daily Cases per 100k'
+    'Spread Rate',
+    'Daily Growth Rate',
   ];
 
   initialMetricIndex = Math.floor(Math.random() * 6);
@@ -55,14 +59,14 @@ export class LineChartWidgetComponent implements OnInit {
 
   scaleOptions = ['linear', 'log'];
 
-  alertOptions = ['Select Top 5 Locations', 'Daily High', 'Highest % change', 'Moving Average Crossover'];
+  alertOptions = ['Select Top 5 Locations', 'Daily High', 'Daily Low', 'Highest biweekly % Uptrend', 'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
 
   chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days.',
     'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
     'Percentage deaths today within confirmed cases a week ago. Reported Flu fatality rate in the US is 0.001.',
-    'Total confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.',
+    'Total confirmed cases per 100k in population.',
     'Daily confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.'
   ];
   chartDescriptionText = this.chartDescriptions[this.initialMetricIndex];
@@ -106,7 +110,12 @@ export class LineChartWidgetComponent implements OnInit {
       this.selectedLocations = [];
       this.updateMultiselectLabels(this.locations);
     }
-
+    if(locale === 'San Diego Zip-Codes'){
+      this.selectedAlert =  this.alertOptions[0];
+      this.selectedLocations = [];
+      this.updateMultiselectLabels(this.locationsZipCodesSanDiego);
+    }
+      
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
 
@@ -155,6 +164,9 @@ export class LineChartWidgetComponent implements OnInit {
     if (locale === this.localesAvailable[2]) {
       return 'county';
     }
+    if(locale === this.localesAvailable[3]){
+       return 'sandiegozipcode'
+    }     
     return 'country';
   }
 
@@ -167,23 +179,28 @@ export class LineChartWidgetComponent implements OnInit {
     const requestArray = [];
 
     this.selectedAlert = alert;
-
+    this.selectedMetric = this.metrics[1];
+    
     if (alert === this.alertOptions[0]) {
       this.selectedLocations = [];
       this.selectLocale(this.selectedLocale)
-      // this.selectMetric(this.selectedMetric)
     } else {
-      this.selectedMetric = this.metrics[5];
-      if (alert === this.alertOptions[1]) {
-        requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
-      }
-      if (alert === this.alertOptions[2]) {
-        requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChange'));
-      }
-      if (alert === this.alertOptions[3]) {
-        requestArray.push(this.service.getAlerts(localeAlert, 'MACrossover'));
-      }
-      forkJoin(requestArray)
+    if (alert === this.alertOptions[1]) {
+      requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
+    }
+    if (alert === this.alertOptions[2]) {
+      requestArray.push(this.service.getAlerts(localeAlert, 'DailyLow'));
+    }
+    if (alert === this.alertOptions[3]) {
+      requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChangeUptrend'));
+    }
+    if (alert === this.alertOptions[4]) {
+      requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChangeDowntrend'));
+    }
+    if (alert === this.alertOptions[5]) {
+      requestArray.push(this.service.getAlerts(localeAlert, 'MACrossoverUptrend'));
+    }
+    forkJoin(requestArray)
         .subscribe(allResponses => {
           // Loop over all responses (one per selected location)
           for (let i = 0; i < allResponses.length; i++) {
