@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEEstill,Kentucky"
+  }, {
+    "locale": "Estill,Kentucky",
+    "long": "REPLACE_MEEstill,Kentucky",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", -0.015938825093872122], ["triweekly", 0.013699146307227657]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", -0.5063701363148407], ["triweekly", 0.3375800908765605]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 28.35672763363108], ["weekly", 28.356727633631074], ["biweekly", 30.888578315205276], ["triweekly", 32.40768872414981]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.09523809523809523]],
+      "Confirmed Cumulative Cases": [["daily", 4.0], ["weekly", 4.0], ["biweekly", 4.357142857142857], ["triweekly", 4.571428571428571]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", -0.07142857142857142], ["triweekly", 0.047619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEEstill,Kentucky"
   }]
 }

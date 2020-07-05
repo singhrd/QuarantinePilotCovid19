@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.03475285800885674], ["biweekly", 0.03740288403088339], ["triweekly", 0.039435852042924074]]
     },
     "lat": "REPLACE_MEJuneau,Wisconsin"
+  }, {
+    "locale": "Juneau,Wisconsin",
+    "long": "REPLACE_MEJuneau,Wisconsin",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.023530497410193973], ["weekly", 0.04338320197117459], ["biweekly", 0.03155948230564566], ["triweekly", 0.026648370854067745]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.747142803612246], ["weekly", 5.888367262819244], ["biweekly", 4.014795861013122], ["triweekly", 3.211836688810497]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 161.12714055532658], ["weekly", 137.03836538924784], ["biweekly", 123.65571251920412], ["triweekly", 114.19863782437321]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.170345428602806], ["biweekly", 0.8143094348983457], ["triweekly", 0.5904920042179448]],
+      "Confirmed Cumulative Cases": [["daily", 43.0], ["weekly", 36.57142857142857], ["biweekly", 33.0], ["triweekly", 30.476190476190474]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 1.0714285714285714], ["triweekly", 0.8571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.023255813953488372], ["weekly", 0.02761425082853654], ["biweekly", 0.03084219923863179], ["triweekly", 0.033691977622932655]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.034070147648727026], ["biweekly", 0.0367308410201307], ["triweekly", 0.03880744818871376]]
+    },
+    "lat": "REPLACE_MEJuneau,Wisconsin"
   }]
 }

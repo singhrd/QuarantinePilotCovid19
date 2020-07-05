@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004098360655737705], ["weekly", 0.004250591622957894], ["biweekly", 0.004586475044845876], ["triweekly", 0.005020772410668524]]
     },
     "lat": "REPLACE_MELoudon,Tennessee"
+  }, {
+    "locale": "Loudon,Tennessee",
+    "long": "REPLACE_MELoudon,Tennessee",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010772096981910728], ["weekly", 0.018121325842019483], ["biweekly", 0.014534464779646594], ["triweekly", 0.018455978255113775]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.548568469334911], ["weekly", 8.719179023240574], ["biweekly", 6.737547427049535], ["triweekly", 7.83845386937789]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 517.8663904712583], ["weekly", 481.9328041936609], ["biweekly", 461.0596180471152], ["triweekly", 436.31124122357375]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.0661200156409751], ["biweekly", 0.9509171506776305], ["triweekly", 1.355342417087499]],
+      "Confirmed Cumulative Cases": [["daily", 280.0], ["weekly", 260.57142857142856], ["biweekly", 249.28571428571428], ["triweekly", 235.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 4.714285714285714], ["biweekly", 3.642857142857143], ["triweekly", 4.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.0035714285714285713], ["weekly", 0.0038438102481210793], ["biweekly", 0.0040238853565877555], ["triweekly", 0.004280787337345586]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004032258064516129], ["weekly", 0.004203960465054431], ["biweekly", 0.004499275881957839], ["triweekly", 0.004927332153293842]]
+    },
+    "lat": "REPLACE_MELoudon,Tennessee"
   }]
 }

@@ -2595,18 +2595,18 @@
     "epidemiccontrolThreshold": 0.194185,
     "source": "NYGithub",
     "confirmedPer100kN": 23.173777583232486,
-    "deaths": 0,
+    "deaths": 1,
     "confirmed": 9,
     "recovered": 0,
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 23.173777583232486,
     "locale": "Graham,Arizona",
-    "activePer100k": 23.173777583232486,
+    "activePer100k": 20.598913407317763,
     "long": "REPLACE_MEGraham,Arizona",
     "date": "07/02/2020",
-    "deathsPer100k": 0.0,
+    "deathsPer100k": 2.5748641759147204,
     "lat": "REPLACE_MEGraham,Arizona",
-    "active": 9
+    "active": 8
   }, {
     "epidemiccontrolThreshold": 0.194185,
     "source": "NYGithub",
@@ -2623,5 +2623,21 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEGraham,Arizona",
     "active": 8
+  }, {
+    "epidemiccontrolThreshold": 0.194185,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.149728351829441,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.149728351829441,
+    "locale": "Graham,Arizona",
+    "activePer100k": 5.149728351829441,
+    "long": "REPLACE_MEGraham,Arizona",
+    "date": "07/04/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEGraham,Arizona",
+    "active": 2
   }]
 }

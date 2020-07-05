@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.034482758620689655], ["weekly", 0.0388559880185496], ["biweekly", 0.04090832527221475], ["triweekly", 0.04473462561489975]]
     },
     "lat": "REPLACE_MEAthens,Ohio"
+  }, {
+    "locale": "Athens,Ohio",
+    "long": "REPLACE_MEAthens,Ohio",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.13062018241706408], ["weekly", 0.05627204081529832], ["biweekly", 0.04165330609611547], ["triweekly", 0.029795519036400604]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.184563809757067], ["weekly", 3.0615212699190226], ["biweekly", 2.0774608617307657], ["triweekly", 1.4578672713900107]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 75.00727111301606], ["weekly", 52.92058195145739], ["biweekly", 46.797539411619354], ["triweekly", 43.15287123314432]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.162708347680669], ["biweekly", 0.8313541738403346], ["triweekly", 0.5542361158935565]],
+      "Confirmed Cumulative Cases": [["daily", 49.0], ["weekly", 34.57142857142857], ["biweekly", 30.571428571428573], ["triweekly", 28.19047619047619]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 2.0], ["biweekly", 1.3571428571428572], ["triweekly", 0.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.029361366425319915], ["biweekly", 0.033595540932936395], ["triweekly", 0.03663098173997001]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03333333333333333], ["weekly", 0.03782971544055288], ["biweekly", 0.04026578939729507], ["triweekly", 0.04373115909419185]]
+    },
+    "lat": "REPLACE_MEAthens,Ohio"
   }]
 }

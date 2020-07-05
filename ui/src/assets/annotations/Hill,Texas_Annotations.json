@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.020422752687701218], ["biweekly", 0.023439252190287866], ["triweekly", 0.027123015255889612]]
     },
     "lat": "REPLACE_MEHill,Texas"
+  }, {
+    "locale": "Hill,Texas",
+    "long": "REPLACE_MEHill,Texas",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013245226750020933], ["weekly", 0.036720728998555864], ["biweekly", 0.03338146513044655], ["triweekly", 0.037672742329530884]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.728587410297689], ["weekly", 6.6265694250086735], ["biweekly", 5.457174820595378], ["triweekly", 5.327242086771679]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 207.37264318262436], ["weekly", 182.42555828847406], ["biweekly", 160.20706080462145], ["triweekly", 143.18587267371683]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.34055620271824], ["biweekly", 1.455992387073406], ["triweekly", 1.2738361945568737]],
+      "Confirmed Cumulative Cases": [["daily", 76.0], ["weekly", 66.85714285714286], ["biweekly", 58.714285714285715], ["triweekly", 52.476190476190474]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.4285714285714284], ["biweekly", 2.0], ["triweekly", 1.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.013157894736842105], ["weekly", 0.015089446184044165], ["biweekly", 0.017467869690562975], ["triweekly", 0.0200764413598477]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.01984629319708179], ["biweekly", 0.02256993894774947], ["triweekly", 0.026112531486785155]]
+    },
+    "lat": "REPLACE_MEHill,Texas"
   }]
 }

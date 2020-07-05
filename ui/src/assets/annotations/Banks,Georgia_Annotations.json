@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0078125], ["weekly", 0.001152073732718894], ["biweekly", 0.000576036866359447], ["triweekly", 0.0029939750136103575]]
     },
     "lat": "REPLACE_MEBanks,Georgia"
+  }, {
+    "locale": "Banks,Georgia",
+    "long": "REPLACE_MEBanks,Georgia",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007067167223092419], ["weekly", 0.013818518065507364], ["biweekly", 0.0158122908332734], ["triweekly", 0.013139574091250602]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.199126546740147], ["weekly", 9.655520729660273], ["biweekly", 10.398253093480294], ["triweekly", 8.417633456626906]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 738.275969637101], ["weekly", 698.9111543546398], ["biweekly", 658.4322405264487], ["triweekly", 628.8467347009512]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.792673924890792], ["biweekly", 0.9029979898188393], ["triweekly", 0.8233661586523473]],
+      "Confirmed Cumulative Cases": [["daily", 142.0], ["weekly", 134.42857142857142], ["biweekly", 126.64285714285714], ["triweekly", 120.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 2.0], ["triweekly", 1.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.007042253521126761], ["weekly", 0.0020335793892024894], ["biweekly", 0.0010167896946012447], ["triweekly", 0.0024294664409738355]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007751937984496124], ["weekly", 0.0022681451612903227], ["biweekly", 0.0011340725806451614], ["triweekly", 0.0028248732820086255]]
+    },
+    "lat": "REPLACE_MEBanks,Georgia"
   }]
 }

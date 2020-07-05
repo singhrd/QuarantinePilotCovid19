@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03424408014571949], ["weekly", 0.03702129420684792], ["biweekly", 0.0385547614462848], ["triweekly", 0.03976003369084784]]
     },
     "lat": "REPLACE_MEMiami-Dade,Florida"
+  }, {
+    "locale": "Miami-Dade,Florida",
+    "long": "REPLACE_MEMiami-Dade,Florida",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05557623899236752], ["weekly", 0.04819244528173045], ["biweekly", 0.03939038913200475], ["triweekly", 0.03365061091058873]],
+      "Confirmed Daily Cases per 100k": [["daily", 88.99718065176265], ["weekly", 63.70086515397049], ["biweekly", 47.15125945259847], ["triweekly", 37.57553578307809]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1646.263811493813], ["weekly", 1355.7689375337172], ["biweekly", 1178.876130604914], ["triweekly", 1066.3169034351322]],
+      "Daily Growth Rate": [["daily", 1.1818181818181819], ["weekly", 1.1212560604978727], ["biweekly", 1.1738683765224265], ["triweekly", 1.1930183758278812]],
+      "Confirmed Cumulative Cases": [["daily", 44728.0], ["weekly", 36835.42857142857], ["biweekly", 32029.35714285714], ["triweekly", 28971.190476190477]],
+      "Confirmed Daily Cases": [["daily", 2418.0], ["weekly", 1730.7142857142858], ["biweekly", 1281.0714285714287], ["triweekly", 1020.9047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.023206939724557323], ["weekly", 0.02699093303353702], ["biweekly", 0.03019088699845732], ["triweekly", 0.03241711606402667]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03288869173980546], ["weekly", 0.03636898331191407], ["biweekly", 0.03804382760343145], ["triweekly", 0.03936898758915395]]
+    },
+    "lat": "REPLACE_MEMiami-Dade,Florida"
   }]
 }

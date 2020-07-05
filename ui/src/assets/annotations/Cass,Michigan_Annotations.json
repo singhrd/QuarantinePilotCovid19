@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03731343283582089], ["weekly", 0.03675911154360867], ["biweekly", 0.03564635327690306], ["triweekly", 0.036238204282991474]]
     },
     "lat": "REPLACE_MECass,Michigan"
+  }, {
+    "locale": "Cass,Michigan",
+    "long": "REPLACE_MECass,Michigan",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02531780798428951], ["weekly", 0.021716601042660853], ["biweekly", 0.01933803672414339], ["triweekly", 0.01493607423119245]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.723946164095236], ["weekly", 6.068814843217686], ["biweekly", 5.103321572705781], ["triweekly", 3.8619730820476175]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 308.9578465638094], ["weekly", 278.88962756786725], ["biweekly", 261.3728210885798], ["triweekly", 249.28116727216886]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.0094995115611038], ["biweekly", 1.0115606409560722], ["triweekly", 0.8747121787891217]],
+      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 144.42857142857142], ["biweekly", 135.35714285714286], ["triweekly", 129.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 3.142857142857143], ["biweekly", 2.642857142857143], ["triweekly", 2.0]],
+      "Confirmed Fatality Rate": [["daily", 0.0375], ["weekly", 0.03260279407000922], ["biweekly", 0.03215710859982308], ["triweekly", 0.03287906721661003]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04477611940298507], ["weekly", 0.03728768118041862], ["biweekly", 0.035805332815301294], ["triweekly", 0.03612913154202867]]
+    },
+    "lat": "REPLACE_MECass,Michigan"
   }]
 }

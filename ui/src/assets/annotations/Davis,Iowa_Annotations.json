@@ -2459,5 +2459,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.027777777777777776], ["weekly", 0.027777777777777783], ["biweekly", 0.028605381546558027], ["triweekly", 0.030521123180567385]]
     },
     "lat": "REPLACE_MEDavis,Iowa"
+  }, {
+    "locale": "Davis,Iowa",
+    "long": "REPLACE_MEDavis,Iowa",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.025317807984289953], ["weekly", 0.011434672524790912], ["biweekly", 0.005717336262395456], ["triweekly", 0.007954956412531718]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.11111111111111], ["weekly", 4.761904761904761], ["biweekly", 2.3809523809523805], ["triweekly", 3.174603174603175]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 444.44444444444446], ["weekly", 419.04761904761915], ["biweekly", 409.5238095238096], ["triweekly", 400.52910052910056]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.14285714285714285], ["biweekly", 0.07142857142857142], ["triweekly", 0.0812907991041213]],
+      "Confirmed Cumulative Cases": [["daily", 40.0], ["weekly", 37.714285714285715], ["biweekly", 36.857142857142854], ["triweekly", 36.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.42857142857142855], ["biweekly", 0.21428571428571427], ["triweekly", 0.2857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.025], ["weekly", 0.02652942126626337], ["biweekly", 0.027153599522020583], ["triweekly", 0.027793144666209687]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02702702702702703], ["weekly", 0.027777777777777783], ["biweekly", 0.028425006366182844], ["triweekly", 0.030143194231209865]]
+    },
+    "lat": "REPLACE_MEDavis,Iowa"
   }]
 }
