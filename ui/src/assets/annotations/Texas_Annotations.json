@@ -2449,14 +2449,29 @@
     "long": "REPLACE_METexas",
     "date": "07/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.03543408317587016], ["weekly", 0.04100550151534448], ["biweekly", 0.04098900717690527], ["triweekly", 0.037015972204367455]],
-      "Confirmed Daily Cases per 100k": [["daily", 22.66896551724138], ["weekly", 22.402463054187194], ["biweekly", 19.601724137931036], ["triweekly", 16.172085385878486]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 651.1517241379311], ["weekly", 554.991133004926], ["biweekly", 485.93571428571425], ["triweekly", 431.2701149425287]],
-      "Daily Growth Rate": [["daily", 0.8843153080441216], ["weekly", 1.0688444097122665], ["biweekly", 1.0899482550101085], ["triweekly", 1.1054955430122535]],
-      "Confirmed Cumulative Cases": [["daily", 188834.0], ["weekly", 160947.42857142858], ["biweekly", 140921.35714285713], ["triweekly", 125068.33333333333]],
-      "Confirmed Daily Cases": [["daily", 6574.0], ["weekly", 6496.714285714285], ["biweekly", 5684.5], ["triweekly", 4689.9047619047615]],
-      "Confirmed Fatality Rate": [["daily", 0.013774002563097748], ["weekly", 0.015300901090781933], ["biweekly", 0.01692350179281507], ["triweekly", 0.018569994060342772]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018242134350759564], ["weekly", 0.020367568768129347], ["biweekly", 0.022162156355932557], ["triweekly", 0.023478812093467312]]
+      "Spread Rate": [["daily", 0.0418476945802162], ["weekly", 0.04100550151534448], ["biweekly", 0.04098900717690527], ["triweekly", 0.037015972204367455]],
+      "Confirmed Daily Cases per 100k": [["daily", 26.858620689655172], ["weekly", 22.402463054187194], ["biweekly", 19.601724137931036], ["triweekly", 16.172085385878486]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 655.3413793103448], ["weekly", 554.991133004926], ["biweekly", 485.93571428571425], ["triweekly", 431.2701149425287]],
+      "Daily Growth Rate": [["daily", 1.0477535647027172], ["weekly", 1.0688444097122665], ["biweekly", 1.0899482550101085], ["triweekly", 1.1054955430122535]],
+      "Confirmed Cumulative Cases": [["daily", 190049.0], ["weekly", 160947.42857142858], ["biweekly", 140921.35714285713], ["triweekly", 125068.33333333333]],
+      "Confirmed Daily Cases": [["daily", 7789.0], ["weekly", 6496.714285714285], ["biweekly", 5684.5], ["triweekly", 4689.9047619047615]],
+      "Confirmed Fatality Rate": [["daily", 0.013728038558477025], ["weekly", 0.015300901090781933], ["biweekly", 0.01692350179281507], ["triweekly", 0.018569994060342772]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01829824241489108], ["weekly", 0.020367568768129347], ["biweekly", 0.022162156355932557], ["triweekly", 0.023478812093467312]]
+    },
+    "lat": "REPLACE_METexas"
+  }, {
+    "locale": "Texas",
+    "long": "REPLACE_METexas",
+    "date": "07/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02933670914837272], ["weekly", 0.04105209440632888], ["biweekly", 0.04081773374350244], ["triweekly", 0.037741630344302515]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.510344827586206], ["weekly", 23.382758620689653], ["biweekly", 20.376108374384238], ["triweekly", 17.080131362889983]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 674.851724137931], ["weekly", 578.3738916256158], ["biweekly", 506.3118226600985], ["triweekly", 448.35024630541875]],
+      "Daily Growth Rate": [["daily", 0.7264090383874695], ["weekly", 1.0671570421055208], ["biweekly", 1.0614599491031906], ["triweekly", 1.1016297350345785]],
+      "Confirmed Cumulative Cases": [["daily", 195707.0], ["weekly", 167728.42857142858], ["biweekly", 146830.42857142858], ["triweekly", 130021.57142857143]],
+      "Confirmed Daily Cases": [["daily", 5658.0], ["weekly", 6781.0], ["biweekly", 5909.071428571428], ["triweekly", 4953.238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.013520211336334418], ["weekly", 0.014895491465588582], ["biweekly", 0.01646115520575721], ["triweekly", 0.01813606237415897]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017801519116786308], ["weekly", 0.019837526961298292], ["biweekly", 0.021669158062290476], ["triweekly", 0.02307402052702735]]
     },
     "lat": "REPLACE_METexas"
   }]

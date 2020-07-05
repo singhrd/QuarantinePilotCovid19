@@ -2595,18 +2595,18 @@
     "epidemiccontrolThreshold": 36.4,
     "source": "NYGithub",
     "confirmedPer100kN": 45.92032967032967,
-    "deaths": 39,
+    "deaths": 40,
     "confirmed": 3343,
     "recovered": 0,
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 45.92032967032967,
     "locale": "Arizona",
-    "activePer100k": 45.38461538461539,
+    "activePer100k": 45.370879120879124,
     "long": "REPLACE_MEArizona",
     "date": "07/02/2020",
-    "deathsPer100k": 0.5357142857142857,
+    "deathsPer100k": 0.5494505494505495,
     "lat": "REPLACE_MEArizona",
-    "active": 3304
+    "active": 3303
   }, {
     "epidemiccontrolThreshold": 36.4,
     "source": "NYGithub",
@@ -2623,5 +2623,21 @@
     "deathsPer100k": 0.4945054945054945,
     "lat": "REPLACE_MEArizona",
     "active": 4363
+  }, {
+    "epidemiccontrolThreshold": 36.4,
+    "source": "NYGithub",
+    "confirmedPer100kN": 37.39010989010989,
+    "deaths": 19,
+    "confirmed": 2722,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 37.39010989010989,
+    "locale": "Arizona",
+    "activePer100k": 37.12912087912088,
+    "long": "REPLACE_MEArizona",
+    "date": "07/04/2020",
+    "deathsPer100k": 0.260989010989011,
+    "lat": "REPLACE_MEArizona",
+    "active": 2703
   }]
 }
