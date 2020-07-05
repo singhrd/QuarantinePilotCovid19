@@ -63,7 +63,7 @@ export class LineChartWidgetComponent implements OnInit {
     'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
     'Percentage deaths today within confirmed cases a week ago. Reported Flu fatality rate in the US is 0.001.',
     'Total confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.',
-    'Daily confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.'
+    'Daily confirmed cases per 100k in population. l less than 0.5 for 21 days implies the epidemic is under control.'
   ];
   chartDescriptionText = this.chartDescriptions[this.initialMetricIndex];
   noChartData = true;
@@ -78,6 +78,16 @@ export class LineChartWidgetComponent implements OnInit {
    */
   constructor(private service: CovidReportService) {
     this.createMultiselectLabels();
+  }
+
+  resetDefaults() {
+    console.log('resetting to defaults');
+    this.selectedLocale = this.localesAvailable[0];
+    this.selectedLocations = this.selectedLocationsCountries;
+    this.selectedWindow = this.windowsAvailable[1];
+    this.selectedScale = this.scaleOptions[0];
+    this.selectedMetric = this.metrics[0];
+    this.hidePanel();
   }
 
   /**

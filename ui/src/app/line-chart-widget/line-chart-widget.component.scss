@@ -20,7 +20,7 @@ div.line-chart-widget {
             font-family: Arial, Helvetica, sans-serif;
             font-size: 16px;
             margin: 0 .5em .5em 0;
-            border-radius: 0.25rem;
+            border-radius: 0;
             background: #6c757d;
             &:hover {
                 background: #545b62;
@@ -28,7 +28,7 @@ div.line-chart-widget {
 
             .ui-multiselect-label {
                 color: #fff;
-                padding: 0.25rem 2em 0.25rem 0.75rem;
+                padding: 0.5rem 2em 0.5rem 0.7rem;
             }
 
             .ui-multiselect-trigger {
@@ -48,12 +48,15 @@ div.line-chart-widget {
             }
         }
 
+
+
         div.dropdown {
             margin: 0 .5em .5em 0;
-            padding-bottom: .125em;
 
             .btn {
-                padding: 0.25rem 0.75rem;
+                padding-top: 0.5em;
+                padding-bottom: 0.5em;
+                border-radius: 0px;
             }
             .dropdown-menu {
                 max-height: 200px;
@@ -63,6 +66,7 @@ div.line-chart-widget {
                 padding: 0.125rem 1.5rem;
             }
         }
+
 
         div.chart-container {
             height: 400px;
@@ -76,4 +80,8 @@ div.line-chart-widget {
         }
     }
 
+    #reset-button {
+        flex: none;
+        height: 2.66em;
+    }
 }
