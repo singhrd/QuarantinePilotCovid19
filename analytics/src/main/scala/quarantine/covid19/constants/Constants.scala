@@ -57,4 +57,5 @@ object Constants {
 
 
   
+  val stateNameMap = Map[String, String]()
 }
