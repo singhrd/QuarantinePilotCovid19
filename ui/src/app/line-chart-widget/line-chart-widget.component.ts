@@ -28,6 +28,7 @@ export class LineChartWidgetComponent implements OnInit {
   locationsStates = StatesByName;
   locationsZipCodesSanDiego = SanDiegoZipCodesByName;  
   availableLocations = [];
+  availableAlertsEmpty = [];
 
   selectedLocationsAll: Array<string> = ['US', 'California', 'San Diego,California'];
   selectedLocationsCountries: Array<string> = ['US', 'United Kingdom', 'India'];
@@ -43,7 +44,31 @@ export class LineChartWidgetComponent implements OnInit {
 
   selectedLocations = this.selectedLocationsCountries;
 
-  metrics = [
+  metricsCountries = [
+    'Confirmed Cumulative Cases per 100k',
+    'Confirmed Daily Cases per 100k',
+    'Confirmed Cumulative Cases',
+    'Confirmed Daily Cases',
+    'Confirmed Fatality Rate',
+    'Time Adjusted Confirmed Fatality Rate',
+    'Spread Rate',
+    'Daily Growth Rate',
+    'Estimated Infection Rate',
+  ];
+
+  metricsStates = [
+    'Confirmed Cumulative Cases per 100k',
+    'Confirmed Daily Cases per 100k',
+    'Confirmed Cumulative Cases',
+    'Confirmed Daily Cases',
+    'Confirmed Fatality Rate',
+    'Time Adjusted Confirmed Fatality Rate',
+    'Spread Rate',
+    'Daily Growth Rate',
+    'Estimated Infection Rate'
+  ];
+  
+  metricsCounties = [
     'Confirmed Cumulative Cases per 100k',
     'Confirmed Daily Cases per 100k',
     'Confirmed Cumulative Cases',
@@ -53,15 +78,33 @@ export class LineChartWidgetComponent implements OnInit {
     'Spread Rate',
     'Daily Growth Rate',
   ];
-
+  
+  metricsSDZipCodes = [
+    'Confirmed Cumulative Cases per 100k',
+    'Confirmed Daily Cases per 100k',
+    'Confirmed Cumulative Cases',
+    'Confirmed Daily Cases',
+    'Confirmed Fatality Rate',
+    'Time Adjusted Confirmed Fatality Rate',
+    'Spread Rate',
+    'Daily Growth Rate',
+  ];
+  
   initialMetricIndex = Math.floor(Math.random() * 6);
-  selectedMetric = this.metrics[this.initialMetricIndex];
-
+  selectedMetric = this.metricsCountries[this.initialMetricIndex];
+  availableMetrics = this.metricsCountries;
+  
   scaleOptions = ['linear', 'log'];
 
-  alertOptions = ['Select Top 5 Locations', 'Daily High', 'Daily Low', 'Highest biweekly % Uptrend', 'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
+  alertOptionsCountries = ['Select Top 5 Locations', 'Daily High', 'Daily Low', 'Highest biweekly % Uptrend', 'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
 
-  chartDescriptions = [
+  alertOptionsStates = ['Select Top 5 Locations', 'Daily High', 'Daily Low', 'Highest biweekly % Uptrend', 'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
+  
+  alertOptionsCounties = ['Select Top 5 Locations', 'Highest biweekly % Uptrend', 'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
+  
+  alertOptionsAll = ['Top 5 available only for same geo-level'];
+  
+      chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
     'Ratio of daily confirmed cases over successive days.',
     'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
@@ -74,7 +117,9 @@ export class LineChartWidgetComponent implements OnInit {
 
   selectedScale = this.scaleOptions[0];
 
-  selectedAlert = this.alertOptions[0];
+  selectedAlert = this.alertOptionsCountries[0];
+  availableAlerts = this.alertOptionsCountries;
+
 
   /**
    * Constructor
@@ -91,28 +136,38 @@ export class LineChartWidgetComponent implements OnInit {
   selectLocale(locale: string) {
     this.selectedLocale = locale;
     if (locale === 'Countries') {
-      this.selectedAlert = this.alertOptions[0];
+      this.selectedAlert = this.alertOptionsCountries[0];
+      this.availableAlerts = this.alertOptionsCountries;
       this.selectedLocations = [];
+      this.availableMetrics = this.metricsCountries;
       this.updateMultiselectLabels(this.locationsCountries);
     }
     if (locale === 'US Counties') {
-      this.selectedAlert = this.alertOptions[0];
+      this.selectedAlert = this.alertOptionsCounties[0];
+      this.availableAlerts = this.alertOptionsCounties;
       this.selectedLocations = [];
+      this.availableMetrics = this.metricsCounties;
       this.updateMultiselectLabels(this.locationsCounties);
     }
     if (locale === 'US States') {
-      this.selectedAlert = this.alertOptions[0];
+      this.selectedAlert = this.alertOptionsStates[0];
+      this.availableAlerts = this.alertOptionsStates;
       this.selectedLocations = [];
+      this.availableMetrics = this.metricsStates;
       this.updateMultiselectLabels(this.locationsStates);
     }
     if (locale === 'All') {
-      this.selectedAlert = this.alertOptions[0];
+      this.selectedAlert = this.alertOptionsAll[0];
+      this.availableAlerts = this.availableAlertsEmpty;
       this.selectedLocations = [];
+      this.availableMetrics = this.metricsCounties; // use the smallest set
       this.updateMultiselectLabels(this.locations);
     }
     if(locale === 'San Diego Zip-Codes'){
-      this.selectedAlert =  this.alertOptions[0];
+      this.selectedAlert =  this.alertOptionsStates[0];
+      this.availableAlerts = this.availableAlertsEmpty;
       this.selectedLocations = [];
+      this.availableMetrics = this.metricsSDZipCodes;
       this.updateMultiselectLabels(this.locationsZipCodesSanDiego);
     }
       
@@ -143,7 +198,8 @@ export class LineChartWidgetComponent implements OnInit {
    */
   selectMetric(metric: string, idx: number) {
     this.selectedMetric = metric;
-    if (metric === this.metrics[0] || metric === this.metrics[1] || metric === this.metrics[2] || metric === this.metrics[3]) {
+    if(this.selectedLocale === this.localesAvailable[0])
+    if (metric==='Spread Rate' || metric==='Daily Growth Rate' || metric==='Confirmed Fatality rate' || metric === 'Time Adjusted Confirmed Fatality Rate') {
       this.selectedScale = this.scaleOptions[0];
     }
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
@@ -179,25 +235,25 @@ export class LineChartWidgetComponent implements OnInit {
     const requestArray = [];
 
     this.selectedAlert = alert;
-    this.selectedMetric = this.metrics[1];
+    this.selectedMetric = this.availableMetrics[1];
     
-    if (alert === this.alertOptions[0]) {
+    if (alert === this.availableAlerts[0]) {
       this.selectedLocations = [];
       this.selectLocale(this.selectedLocale)
     } else {
-    if (alert === this.alertOptions[1]) {
+    if (alert === 'Daily High') {
       requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
     }
-    if (alert === this.alertOptions[2]) {
+    if (alert === 'Daily Low') {
       requestArray.push(this.service.getAlerts(localeAlert, 'DailyLow'));
     }
-    if (alert === this.alertOptions[3]) {
+    if (alert === 'Highest biweekly % Uptrend') {
       requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChangeUptrend'));
     }
-    if (alert === this.alertOptions[4]) {
+    if (alert === 'Highest biweekly % Downtrend') {
       requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChangeDowntrend'));
     }
-    if (alert === this.alertOptions[5]) {
+    if (alert === 'Moving Average Crossover Uptrend') {
       requestArray.push(this.service.getAlerts(localeAlert, 'MACrossoverUptrend'));
     }
     forkJoin(requestArray)

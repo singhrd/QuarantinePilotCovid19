@@ -53,7 +53,7 @@
                         {{ selectedMetric | titlecase }}
                     </button>
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="metricDropdown">
-                        <div *ngFor="let metric of metrics; let i=index">
+                        <div *ngFor="let metric of availableMetrics; let i=index">
                             <button class="dropdown-item" type="button"
                                 (click)="selectMetric(metric, i)">{{ metric | titlecase }}</button>
                         </div>
@@ -67,7 +67,7 @@
                         {{ selectedAlert | titlecase }}
                     </button>
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="alertDropdown">
-                        <div *ngFor="let alert of alertOptions">
+                        <div *ngFor="let alert of availableAlerts">
                             <button class="dropdown-item" type="button"
                                 (click)="selectAlert(alert)">{{ alert | titlecase }}</button>
                         </div>
