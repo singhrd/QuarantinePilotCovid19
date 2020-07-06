@@ -37,6 +37,7 @@ object Driver extends JsonSupport {
   val recoveredFileName = "time_series_covid19_recovered_global.csv"
   val deathsFileName = "time_series_covid19_deaths_global.csv"
   val countyFileName = "us-counties.csv"
+  val sandiegoZipCodeConfirmedFile = "sandiegozipcodesCOVID19.csv"
 
   def update(localeType: String = "county", generateAlerts: Boolean = true, writeNewData: Boolean = true) = {
     val (dcS, ccS, dcSLocale,ccSLocale) = localeType match {
@@ -45,6 +46,7 @@ object Driver extends JsonSupport {
       case "country" => HelperFunctions.transformCumulativeDataJHUFormat(csvDirectoryName+confirmedFileName,
                                      csvDirectoryName+recoveredFileName,
                                      csvDirectoryName+deathsFileName)
+      case "sandiegozipcode" => HelperFunctions.transformCumulativeDataSanDiegoCountyOpenGISFormat(csvDirectoryName+sandiegoZipCodeConfirmedFile)                               
     }
 
     val locales =   dcS.snapshots.map(d => d.locale).distinct.sortWith((a,b) => a<b)
@@ -54,7 +56,7 @@ object Driver extends JsonSupport {
     
     val alertPercentMap = scala.collection.mutable.Map[String, Double]()
     val alertTrendMap = scala.collection.mutable.Map[String, Double]()
-    val alertDailyHighMap = scala.collection.mutable.Map[String, Double]()
+    val alertDailyMap = scala.collection.mutable.Map[String, Double]()
 
     locales.foreach(locale => {
         // we can use the sortSnapshots on this and then transform to the string, date form
@@ -72,19 +74,19 @@ object Driver extends JsonSupport {
           generateAlerts match {
             case false => // do nothing
             case true => {
-              val alertPercentMeasure = HelperFunctions.findAlertMeasureExamplePercent(metricsForLocale.last, 
+              val alertPercentMeasure = HelperFunctions.findPercentMeasure(metricsForLocale.last, 
                                                                                      metricsForLocale(metricsForLocale.length-14),
                                                                                      MetricType.DailyPer100k) //"weekly",
               alertPercentMeasure match {
                 case Some(y: Double) => alertPercentMap.+=(locale -> y)
                 case None => // do nothing
               }
-              val alertTrendMeasure = HelperFunctions.findAlertMeasureExampleTrend(metricsForLocale.last, metricsForLocale(metricsForLocale.length-14), MetricType.DailyPer100k,  14) //"weekly",
+              val alertTrendMeasure = HelperFunctions.findMovingAverageUpTrendMeasure(metricsForLocale.last, metricsForLocale(metricsForLocale.length-14), MetricType.DailyPer100k,  14) //"weekly",
               alertTrendMeasure match {
                 case Some(y: Double) => alertTrendMap.+=(locale -> y)
                 case None => // do nothing
               }        
-              alertDailyHighMap.+=(locale -> metricsForLocale.last(MetricType.name(MetricType.DailyPer100k))(0)._2) 
+              alertDailyMap.+=(locale -> metricsForLocale.last(MetricType.name(MetricType.DailyPer100k))(1)._2) 
             }
           }
           writeNewData match {
@@ -104,29 +106,20 @@ object Driver extends JsonSupport {
       case true => {
         alertPercentMap.size > 0 match {
           case true => {
-            val alertTopUIInfo = HelperFunctions.generateAlertUInfo(localeType, MeasureType.BiweeklyPercentChange, alertPercentMap.toMap)
-            InputOutput.writeToFile(alertUIJsonImplicit.write(alertTopUIInfo).prettyPrint.getBytes,
-                                          outputDirectoryNameAlerts+localeType+"/BiweeklyPercentChangeAlert.json")
-                                          
-              }
+            writeAlerts(localeType, MeasureType.BiweeklyPercentChangeUptrend, alertPercentMap.toMap)
+            writeAlerts(localeType, MeasureType.BiweeklyPercentChangeDowntrend, alertPercentMap.toMap, false)
+          }
           case false => // do nothing
         }
-        alertDailyHighMap.size > 0 match {
+        alertDailyMap.size > 0 match {
           case true => {
-            val alertTopUIInfo = HelperFunctions.generateAlertUInfo(localeType, MeasureType.DailyHigh, alertDailyHighMap.toMap)
-            InputOutput.writeToFile(alertUIJsonImplicit.write(alertTopUIInfo).prettyPrint.getBytes,
-                                          outputDirectoryNameAlerts+localeType+"/DailyHighAlert.json")
-                                          
-              }
+            writeAlerts(localeType, MeasureType.DailyHigh, alertDailyMap.toMap)
+            writeAlerts(localeType, MeasureType.DailyLow, alertDailyMap.toMap, false)
+          }
           case false => // do nothing
         }         
-        alertPercentMap.size > 0 match {
-          case true => {
-            val alertTopUIInfo = HelperFunctions.generateAlertUInfo(localeType, MeasureType.MACrossover, alertTrendMap.toMap)
-            InputOutput.writeToFile(alertUIJsonImplicit.write(alertTopUIInfo).prettyPrint.getBytes,
-                                          outputDirectoryNameAlerts+localeType+"/MACrossoverAlert.json")
-                                          
-              }
+        alertTrendMap.size > 0 match {
+          case true => writeAlerts(localeType, MeasureType.MACrossoverUptrend, alertTrendMap.toMap)
           case false => // do nothing
         }        
       }
@@ -141,22 +134,38 @@ object Driver extends JsonSupport {
     }
   }
     
+    def writeAlerts(localeType: String, 
+                    measure: MeasureType.Value, 
+                    alertMap: Map[String, Double], 
+                    upTrend: Boolean = true, 
+                    numLocalesToSelect: Int = 5) {
+      
+      val alertUIInfo = HelperFunctions.generateAlertUInfo(localeType, measure, alertMap.toMap, upTrend)
+      val fileNameSuffix = "/" + MeasureType.name(measure) + "Alert.json"
+      InputOutput.writeToFile(alertUIJsonImplicit.write(alertUIInfo).prettyPrint.getBytes,
+                                          outputDirectoryNameAlerts+localeType+fileNameSuffix)
+    }
+    
     def getAlerts(localeType: String) = update(localeType, true, false)
       
     def alertsDaily() = {
       getAlerts("country")
       getAlerts("state")
       getAlerts("county")
+      getAlerts("sandiegozipcode")
     }
     
     def updateDaily() = {
       update("country")
       update("state")
       update("county")
+//      update("sandiegozipcode")
     }
     
     def main(args: Array[String]) {
       updateDaily()
 //      alertsDaily()
+//      InputOutput.sanDiegoZipCodePopulationMap.toList.sortWith((a,b) => a._1<b._1).foreach(x => println("    '"+x._1+"'"+","))
+//      InputOutput.sanDiegoZipCodePopulationMap.toList.foreach(x => println(x._1+","+x._2))
   }
 }

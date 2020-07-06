@@ -53,7 +53,7 @@
                         {{ selectedMetric | titlecase }}
                     </button>
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="metricDropdown">
-                        <div *ngFor="let metric of metrics; let i=index">
+                        <div *ngFor="let metric of availableMetrics; let i=index">
                             <button class="dropdown-item" type="button"
                                 (click)="selectMetric(metric, i)">{{ metric | titlecase }}</button>
                         </div>
@@ -64,15 +64,14 @@
                 </button>
                 <p *ngIf="!noChartData" class="card-text text-muted pt-1 mx-2">{{ chartDescriptionText }}</p>
             </div>
-            <div class="btn-group d-flex flex-row flex-wrap pt-2 pb-1 mx-3">
-                <!-- <p class="card-text mt-2">Available presets:</p> -->
-                <div dropdown class="dropdown ml-3">
+            <div class="btn-group d-flex flex-row flex-wrap pt-2 pb-1 ml-3">
+                <div dropdown class="dropdown">
                     <button class="btn btn-info dropdown-toggle" type="button" id="alertDropdown"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         {{ selectedAlert | titlecase }}
                     </button>
                     <div class="dropdown-menu scrollable-menu" aria-labelledby="alertDropdown">
-                        <div *ngFor="let alert of alertOptions">
+                        <div *ngFor="let alert of availableAlerts">
                             <button class="dropdown-item" type="button"
                                 (click)="selectAlert(alert)">{{ alert | titlecase }}</button>
                         </div>
