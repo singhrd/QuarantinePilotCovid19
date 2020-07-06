@@ -96,16 +96,16 @@ export class LineChartWidgetComponent implements OnInit {
 
   scaleOptions = ['linear', 'log'];
 
-  alertOptionsCountries = ['Top 5 Daily High', 'Top 5 Daily Low', 'Top 5 Highest biweekly % Uptrend',
-    'Top 5 Highest biweekly % Downtrend', 'Top 5 Moving Average Crossover Uptrend'];
+  alertOptionsCountries = ['Daily High', 'Daily Low', 'Highest biweekly % Uptrend',
+    'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
 
-  alertOptionsStates = ['Top 5 Daily High', 'Top 5 Daily Low', 'Top 5 Highest biweekly % Uptrend',
-    'Top 5 Highest biweekly % Downtrend', 'Top 5 Moving Average Crossover Uptrend'];
+  alertOptionsStates = ['Daily High', 'Daily Low', 'Highest biweekly % Uptrend',
+    'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
 
-  alertOptionsCounties = ['Top 5 Highest biweekly % Uptrend',
-    'Top 5 Highest biweekly % Downtrend', 'Top 5 Moving Average Crossover Uptrend'];
+  alertOptionsCounties = ['Highest biweekly % Uptrend',
+    'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
 
-  alertOptionsAll = ['Top 5 available only for same geo-level'];
+  alertOptionsAll = ['available only for same geo-level'];
 
   chartDescriptions = [
     'Rate of growth of cumulative confirmed cases. Similar to rho.',
@@ -249,37 +249,37 @@ export class LineChartWidgetComponent implements OnInit {
     this.selectedAlert = alert;
     this.selectedMetric = this.availableMetrics[1];
 
-    if (alert === this.availableAlerts[0]) {
-      this.selectedLocations = [];
-      this.selectLocale(this.selectedLocale);
-    } else {
-      if (alert === 'Daily High') {
-        requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
-      }
-      if (alert === 'Daily Low') {
-        requestArray.push(this.service.getAlerts(localeAlert, 'DailyLow'));
-      }
-      if (alert === 'Highest biweekly % Uptrend') {
-        requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChangeUptrend'));
-      }
-      if (alert === 'Highest biweekly % Downtrend') {
-        requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChangeDowntrend'));
-      }
-      if (alert === 'Moving Average Crossover Uptrend') {
-        requestArray.push(this.service.getAlerts(localeAlert, 'MACrossoverUptrend'));
-      }
-      forkJoin(requestArray)
-        .subscribe(allResponses => {
-          // Loop over all responses (one per selected location)
-          for (let i = 0; i < allResponses.length; i++) {
-            const res: any = allResponses[i];
-            this.chartDescriptionText = res.description;
-            this.selectedLocations = res.locales;
-            this.availableLocations = [];
-            this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
-          }
-        });
+    // if (alert === this.availableAlerts[0]) {
+    //   this.selectedLocations = [];
+    //   this.selectLocale(this.selectedLocale);
+    // } else {
+    if (alert === 'Daily High') {
+      requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
     }
+    if (alert === 'Daily Low') {
+      requestArray.push(this.service.getAlerts(localeAlert, 'DailyLow'));
+    }
+    if (alert === 'Highest biweekly % Uptrend') {
+      requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChangeUptrend'));
+    }
+    if (alert === 'Highest biweekly % Downtrend') {
+      requestArray.push(this.service.getAlerts(localeAlert, 'BiweeklyPercentChangeDowntrend'));
+    }
+    if (alert === 'Moving Average Crossover Uptrend') {
+      requestArray.push(this.service.getAlerts(localeAlert, 'MACrossoverUptrend'));
+    }
+    forkJoin(requestArray)
+      .subscribe(allResponses => {
+        // Loop over all responses (one per selected location)
+        for (let i = 0; i < allResponses.length; i++) {
+          const res: any = allResponses[i];
+          this.chartDescriptionText = res.description;
+          this.selectedLocations = res.locales;
+          this.availableLocations = [];
+          this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
+        }
+      });
+    // }
 
   }
 
