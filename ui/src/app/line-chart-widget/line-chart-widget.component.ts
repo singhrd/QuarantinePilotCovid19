@@ -29,6 +29,7 @@ export class LineChartWidgetComponent implements OnInit {
   locationsZipCodesSanDiego = SanDiegoZipCodesByName;
   availableLocations = [];
   availableAlertsEmpty = [];
+  disablePresets = false;
 
   selectedLocationsAll: Array<string> = ['US', 'California', 'San Diego,California'];
   selectedLocationsCountries: Array<string> = ['US', 'United Kingdom', 'India'];
@@ -130,17 +131,14 @@ export class LineChartWidgetComponent implements OnInit {
    * @param service
    */
   constructor(private service: CovidReportService) {
-    this.createMultiselectLabels();
+    this.availableLocations = this.createMultiselectLabels(this.locationsCountries);
   }
 
   resetDefaults() {
-    console.log('resetting to defaults');
-    this.selectedLocale = this.localesAvailable[0];
-    this.selectedLocations = this.selectedLocationsCountries;
     this.selectedWindow = this.windowsAvailable[1];
     this.selectedScale = this.scaleOptions[0];
     this.selectedMetric = this.metricsCountries[0];
-    this.hidePanel();
+    this.selectLocale(this.localesAvailable[0]);
   }
 
   resetAlertDropdown() {
@@ -154,31 +152,38 @@ export class LineChartWidgetComponent implements OnInit {
   selectLocale(locale: string) {
     this.selectedLocale = locale;
     this.resetAlertDropdown();
-    this.selectedLocations = [];
+    this.disablePresets = false;
     if (locale === 'Countries') {
       this.availableAlerts = this.alertOptionsCountries;
       this.availableMetrics = this.metricsCountries;
       this.updateMultiselectLabels(this.locationsCountries);
+      this.selectedLocations = this.selectedLocationsCountries;
     }
     if (locale === 'US Counties') {
       this.availableAlerts = this.alertOptionsCounties;
       this.availableMetrics = this.metricsCounties;
       this.updateMultiselectLabels(this.locationsCounties);
+      this.selectedLocations = this.selectedLocationsCounties;
     }
     if (locale === 'US States') {
       this.availableAlerts = this.alertOptionsStates;
       this.availableMetrics = this.metricsStates;
       this.updateMultiselectLabels(this.locationsStates);
+      this.selectedLocations = this.selectedLocationsStates;
     }
     if (locale === 'All') {
       this.availableAlerts = this.availableAlertsEmpty;
+      this.disablePresets = true;
       this.availableMetrics = this.metricsCounties; // use the smallest set
       this.updateMultiselectLabels(this.locations);
+      this.selectedLocations = this.selectedLocationsAll;
     }
     if (locale === 'San Diego Zip-Codes') {
       this.availableAlerts = this.availableAlertsEmpty;
+      this.disablePresets = true;
       this.availableMetrics = this.metricsSDZipCodes;
       this.updateMultiselectLabels(this.locationsZipCodesSanDiego);
+      this.selectedLocations = this.selectedLocationsZipCodesSanDiegoCounty;
     }
 
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
@@ -199,6 +204,7 @@ export class LineChartWidgetComponent implements OnInit {
   */
   selectWindow(window: string) {
     this.selectedWindow = window;
+    this.resetAlertDropdown();
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
 
@@ -208,6 +214,7 @@ export class LineChartWidgetComponent implements OnInit {
    */
   selectMetric(metric: string, idx: number) {
     this.selectedMetric = metric;
+    this.resetAlertDropdown();
     if (this.selectedLocale === this.localesAvailable[0]) {
       if (metric === 'Spread Rate' || metric === 'Daily Growth Rate' || metric === 'Confirmed Fatality rate' ||
           metric === 'Time Adjusted Confirmed Fatality Rate') {
@@ -249,10 +256,6 @@ export class LineChartWidgetComponent implements OnInit {
     this.selectedAlert = alert;
     this.selectedMetric = this.availableMetrics[1];
 
-    // if (alert === this.availableAlerts[0]) {
-    //   this.selectedLocations = [];
-    //   this.selectLocale(this.selectedLocale);
-    // } else {
     if (alert === 'Daily High') {
       requestArray.push(this.service.getAlerts(localeAlert, 'DailyHigh'));
     }
@@ -279,8 +282,6 @@ export class LineChartWidgetComponent implements OnInit {
           this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
         }
       });
-    // }
-
   }
 
   /**
@@ -427,7 +428,6 @@ export class LineChartWidgetComponent implements OnInit {
    */
   updateMultiselectLabels(localeArray: Array<string>) {
     const locationsMultiselect = [];
-    const defaultSelected = [];
     localeArray.forEach(locale => {
       locationsMultiselect.push({ label: locale, value: locale });
     });
@@ -437,19 +437,19 @@ export class LineChartWidgetComponent implements OnInit {
   /**
    * Set the multi-select options based on the locale list.
    */
-  createMultiselectLabels() {
+  createMultiselectLabels(localeArray: Array<string>): Array<any> {
     const locationsMultiselect = [];
-    const defaultSelected = [];
-    this.locationsCountries.forEach(locale => {
+    localeArray.forEach(locale => {
       locationsMultiselect.push({ label: locale, value: locale });
     });
-    this.availableLocations = locationsMultiselect;
+    return locationsMultiselect;
   }
 
   /**
    * Hide the multiselect panel, kick off chart update.
    */
   hidePanel() {
+    console.log(this.selectedLocations);
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
   }
 
