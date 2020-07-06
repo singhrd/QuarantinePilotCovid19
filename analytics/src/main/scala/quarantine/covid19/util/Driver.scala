@@ -10,6 +10,8 @@ import quarantine.covid19.core.GeoLocation
 import quarantine.covid19.core.JsonSupport
 import quarantine.covid19.core.Alert
 import quarantine.covid19.core.AlertUIInfo
+import quarantine.covid19.core.StateRiskList
+import quarantine.covid19.core.StateRisk
 import quarantine.covid19.constants.Constants
 import quarantine.covid19.constants.MetricType
 import quarantine.covid19.constants.MeasureType
@@ -30,6 +32,7 @@ object Driver extends JsonSupport {
 
   val outputDirectoryNameAnnotations = "../ui/src/assets/annotations/"
   val outputDirectoryNameAlerts = "../ui/src/assets/alerts/"
+  val outputDirectoryNameMaps = "../ui/src/assets/maps/"
 
   val tempDataDirectory = "../"
     
@@ -39,7 +42,7 @@ object Driver extends JsonSupport {
   val countyFileName = "us-counties.csv"
   val sandiegoZipCodeConfirmedFile = "sandiegozipcodesCOVID19.csv"
 
-  def update(localeType: String = "county", generateAlerts: Boolean = true, writeNewData: Boolean = true) = {
+  def update(localeType: String = "county", generateAlerts: Boolean = true, writeNewData: Boolean = true, createMapData: Boolean = true) = {
     val (dcS, ccS, dcSLocale,ccSLocale) = localeType match {
       case "county" => HelperFunctions.transformCumulativeDataCountyNYFormat(csvDirectoryName+countyFileName)
       case "state" => HelperFunctions.transformCumulativeDataCountyNYFormat(csvDirectoryName+countyFileName, "state")
@@ -48,11 +51,33 @@ object Driver extends JsonSupport {
                                      csvDirectoryName+deathsFileName)
       case "sandiegozipcode" => HelperFunctions.transformCumulativeDataSanDiegoCountyOpenGISFormat(csvDirectoryName+sandiegoZipCodeConfirmedFile)                               
     }
-
     val locales =   dcS.snapshots.map(d => d.locale).distinct.sortWith((a,b) => a<b)
     println("Found unique locales " + locales.length)
     val localeDailyCovidSnapshotMap = HelperFunctions.pivotCovidSnapshotByLocale(dcS.snapshots)
     val localeCumulativeCovidSnapshotMap = HelperFunctions.pivotCovidSnapshotByLocale(ccS.snapshots)
+
+//    InputOutput.stateIdsAndNames.keys.foreach(println(_))
+    localeType match {
+      case "state" => {
+        createMapData match {
+          case true => { // do something 
+            // create a StateRiskList and print it
+            val stateRiskListLastWeek = StateRiskList(localeDailyCovidSnapshotMap.filter(y => !(y._1.equals("Hawaii") || y._1.equals("Alaska"))).map(x => {
+              val snapshotTwoweeksAgo = x._2.snapshots(x._2.snapshots.length-8)
+              StateRisk(InputOutput.stateIdsAndNames(x._1), x._1, snapshotTwoweeksAgo.confirmedPer100k)
+            }).toList)
+            val stateRiskList = StateRiskList(localeDailyCovidSnapshotMap.filter(y => !(y._1.equals("Hawaii") || y._1.equals("Alaska"))).map(x => {
+              StateRisk(InputOutput.stateIdsAndNames(x._1), x._1, x._2.snapshots.last.confirmedPer100k)
+            }).toList)
+            InputOutput.writeToFile(stateRiskListJsonImplicit.write(stateRiskListLastWeek).prettyPrint.getBytes,outputDirectoryNameMaps+"/StateRiskMapLastWeek.json")
+            InputOutput.writeToFile(stateRiskListJsonImplicit.write(stateRiskList).prettyPrint.getBytes,outputDirectoryNameMaps+"/StateRiskMap.json")
+          }
+          case false => // do nothing
+        }
+      }
+      case _ => // do nothing
+    }
+    
     
     val alertPercentMap = scala.collection.mutable.Map[String, Double]()
     val alertTrendMap = scala.collection.mutable.Map[String, Double]()
@@ -157,12 +182,13 @@ object Driver extends JsonSupport {
     
     def updateDaily() = {
       update("country")
-      update("state")
+//      update("state")
       update("county")
 //      update("sandiegozipcode")
     }
     
     def main(args: Array[String]) {
+//        update("state")
       updateDaily()
 //      alertsDaily()
 //      InputOutput.sanDiegoZipCodePopulationMap.toList.sortWith((a,b) => a._1<b._1).foreach(x => println("    '"+x._1+"'"+","))

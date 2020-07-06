@@ -1,0 +1,79 @@
+div.choropleth-map-widget {
+    .card-container {
+        margin: 2em;
+      }
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    
+        .card-title {
+            margin: .5em .5em 0 .5em;
+            padding-bottom: .125em;
+        }
+
+        .card-body {
+            margin: .125em 1em 0 1em;
+            border-top: 1px solid lightgray;
+        }
+
+        .ui-multiselect {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
+            margin: 0 .5em .5em 0;
+            border-radius: 0.25rem;
+            background: #6c757d;
+            &:hover {
+                background: #545b62;
+            }
+
+            .ui-multiselect-label {
+                color: #fff;
+                padding: 0.25rem 2em 0.25rem 0.75rem;
+            }
+
+            .ui-multiselect-trigger {
+                background: transparent;
+            }
+
+            .ui-multiselect-trigger-icon {
+                color: #fff;
+            }
+
+            .ui-multiselect-items {
+                width: 300px;
+            }
+
+            .pi {
+                font-size: 0.75em;
+            }
+        }
+
+        div.dropdown {
+            margin: 0 .5em .5em 0;
+            padding-bottom: .125em;
+
+            .btn {
+                padding: 0.25rem 0.75rem;
+            }
+            .dropdown-menu {
+                max-height: 200px;
+                overflow-y: auto;
+            }
+            .dropdown-item {
+                padding: 0.125rem 1.5rem;
+            }
+        }
+
+        div.map-container {
+            height: 400px;
+    
+            &.invisible {
+                height: 0px;
+            }
+        }
+        div.anychart-credits {
+            bottom: 0.0rem;
+        }
+    }
+
+}
