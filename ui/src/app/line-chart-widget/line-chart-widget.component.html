@@ -33,7 +33,7 @@
             </div>
             <div class="btn-group d-flex flex-row flex-wrap pt-0 pb-1 ml-3">
                 <div dropdown class="dropdown" id=alertDropdown>
-                    <button class="btn btn-info dropdown-toggle" type="button" id="alertDropdown"
+                    <button class="btn btn-info dropdown-toggle" type="button" id="alertDropdown" [disabled]="disablePresets"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <span *ngIf="!(selectedAlert === alertPlaceholder)">Top 5 </span>{{ selectedAlert | titlecase }}
                     </button>
