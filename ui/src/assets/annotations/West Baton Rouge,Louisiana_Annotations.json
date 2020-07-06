@@ -2474,5 +2474,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.12345679012345678], ["weekly", 0.12678107698066338], ["biweekly", 0.13569370840267328], ["triweekly", 0.1438539909578268]]
     },
     "lat": "REPLACE_MEWest Baton Rouge,Louisiana"
+  }, {
+    "locale": "West Baton Rouge,Louisiana",
+    "long": "REPLACE_MEWest Baton Rouge,Louisiana",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.06346035391722626], ["weekly", 0.02525992566285305], ["biweekly", 0.015938825093872122], ["triweekly", 0.017219677408538785]],
+      "Confirmed Daily Cases per 100k": [["daily", 71.79293406385793], ["weekly", 25.370435345874604], ["biweekly", 15.654098404901351], ["triweekly", 15.834030570474933]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1167.5798224069526], ["weekly", 1014.8174138349842], ["biweekly", 957.5989851825863], ["triweekly", 905.5985893318218]],
+      "Daily Growth Rate": [["daily", 1.2583057392117916], ["weekly", 1.081099076498876], ["biweekly", 0.8326726137756097], ["triweekly", 0.8851713414712837]],
+      "Confirmed Cumulative Cases": [["daily", 309.0], ["weekly", 268.57142857142856], ["biweekly", 253.42857142857142], ["triweekly", 239.66666666666666]],
+      "Confirmed Daily Cases": [["daily", 19.0], ["weekly", 6.714285714285714], ["biweekly", 4.142857142857143], ["triweekly", 4.190476190476191]],
+      "Confirmed Fatality Rate": [["daily", 0.0970873786407767], ["weekly", 0.1121058593108278], ["biweekly", 0.11902535709545062], ["triweekly", 0.12733813113354622]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.12096774193548387], ["weekly", 0.12594485488007345], ["biweekly", 0.13390384687683815], ["triweekly", 0.1416662711016188]]
+    },
+    "lat": "REPLACE_MEWest Baton Rouge,Louisiana"
   }]
 }

@@ -2449,13 +2449,13 @@
     "long": "REPLACE_MELos Angeles,California",
     "date": "07/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.023294982719019735], ["biweekly", 0.022816305287356262], ["triweekly", 0.021273803002471798]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 23.052704929688613], ["biweekly", 20.946655343519527], ["triweekly", 18.40042242042141]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1072.4758686205855], ["weekly", 1001.7567157260956], ["biweekly", 927.6401348674311], ["triweekly", 864.9901402015709]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.027472719169851], ["biweekly", 1.096802872761136], ["triweekly", 1.0675919206266524]],
-      "Confirmed Cumulative Cases": [["daily", 107667.0], ["weekly", 100567.42857142857], ["biweekly", 93126.78571428571], ["triweekly", 86837.28571428571]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2314.285714285714], ["biweekly", 2102.8571428571427], ["triweekly", 1847.2380952380952]],
-      "Confirmed Fatality Rate": [["daily", 0.032080396035925586], ["weekly", 0.03330265212389088], ["biweekly", 0.035059444542584604], ["triweekly", 0.036545720923464066]],
+      "Spread Rate": [["daily", 0.024251453456304972], ["weekly", 0.023294982719019735], ["biweekly", 0.022816305287356262], ["triweekly", 0.021273803002471798]],
+      "Confirmed Daily Cases per 100k": [["daily", 26.327042833590678], ["weekly", 23.052704929688613], ["biweekly", 20.946655343519527], ["triweekly", 18.40042242042141]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1098.8029114541762], ["weekly", 1001.7567157260956], ["biweekly", 927.6401348674311], ["triweekly", 864.9901402015709]],
+      "Daily Growth Rate": [["daily", 1.2236111111111112], ["weekly", 1.027472719169851], ["biweekly", 1.096802872761136], ["triweekly", 1.0675919206266524]],
+      "Confirmed Cumulative Cases": [["daily", 110310.0], ["weekly", 100567.42857142857], ["biweekly", 93126.78571428571], ["triweekly", 86837.28571428571]],
+      "Confirmed Daily Cases": [["daily", 2643.0], ["weekly", 2314.285714285714], ["biweekly", 2102.8571428571427], ["triweekly", 1847.2380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.03131175777354728], ["weekly", 0.03330265212389088], ["biweekly", 0.035059444542584604], ["triweekly", 0.036545720923464066]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03704736571134375], ["weekly", 0.039079433779403185], ["biweekly", 0.04076344463241936], ["triweekly", 0.042273309162318244]]
     },
     "lat": "REPLACE_MELos Angeles,California"
@@ -2464,14 +2464,29 @@
     "long": "REPLACE_MELos Angeles,California",
     "date": "07/04/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.0205645885891812], ["biweekly", 0.02156542705281555], ["triweekly", 0.020179566866504912]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 20.541098497534268], ["biweekly", 19.96335786781491], ["triweekly", 17.641011297120354]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1072.4758686205855], ["weekly", 1022.29781422363], ["biweekly", 947.603492735246], ["triweekly", 882.6311514986913]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8999346022538889], ["biweekly", 1.0017024048282983], ["triweekly", 1.0254946841616632]],
-      "Confirmed Cumulative Cases": [["daily", 107667.0], ["weekly", 102629.57142857143], ["biweekly", 95130.92857142857], ["triweekly", 88608.28571428571]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2062.1428571428573], ["biweekly", 2004.142857142857], ["triweekly", 1771.0]],
-      "Confirmed Fatality Rate": [["daily", 0.032080396035925586], ["weekly", 0.03287962061297711], ["biweekly", 0.03460264788465469], ["triweekly", 0.03615984014475108]],
+      "Spread Rate": [["daily", 0.028481820872780617], ["weekly", 0.02402908194008191], ["biweekly", 0.023297673728265904], ["triweekly", 0.021334397983471816]],
+      "Confirmed Daily Cases per 100k": [["daily", 31.745851498544642], ["weekly", 24.302104616618646], ["biweekly", 21.8438609273571], ["triweekly", 18.894680003481813]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1130.5487629527208], ["weekly", 1026.0588203427144], ["biweekly", 949.4839957947883], ["triweekly", 883.8848202050527]],
+      "Daily Growth Rate": [["daily", 1.2058267120696178], ["weekly", 1.0747361895554763], ["biweekly", 1.089103198479092], ["triweekly", 1.0837618799288589]],
+      "Confirmed Cumulative Cases": [["daily", 113497.0], ["weekly", 103007.14285714286], ["biweekly", 95319.71428571429], ["triweekly", 88734.14285714286]],
+      "Confirmed Daily Cases": [["daily", 3187.0], ["weekly", 2439.714285714286], ["biweekly", 2192.9285714285716], ["triweekly", 1896.857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.030432522445527195], ["weekly", 0.03276981514692307], ["biweekly", 0.034547745151627667], ["triweekly", 0.036123238322733064]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03621645993016745], ["weekly", 0.038509332654645866], ["biweekly", 0.04030528475820956], ["triweekly", 0.041828326296320856]]
+    },
+    "lat": "REPLACE_MELos Angeles,California"
+  }, {
+    "locale": "Los Angeles,California",
+    "long": "REPLACE_MELos Angeles,California",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013094852091333209], ["weekly", 0.024857407977229937], ["biweekly", 0.02353614740736771], ["triweekly", 0.021656709162146945]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.901723828623403], ["weekly", 25.793415404662703], ["biweekly", 22.66920468409904], ["triweekly", 19.672590210985707]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1145.4504867813441], ["weekly", 1051.852235747377], ["biweekly", 972.1532004788872], ["triweekly", 903.5574104160382]],
+      "Daily Growth Rate": [["daily", 0.4694069657985566], ["weekly", 1.073868860280112], ["biweekly", 1.0704683274888198], ["triweekly", 1.0951692909524293]],
+      "Confirmed Cumulative Cases": [["daily", 114993.0], ["weekly", 105596.57142857143], ["biweekly", 97595.5], ["triweekly", 90709.09523809524]],
+      "Confirmed Daily Cases": [["daily", 1496.0], ["weekly", 2589.4285714285716], ["biweekly", 2275.785714285714], ["triweekly", 1974.952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.03032358491386432], ["weekly", 0.03219668509713611], ["biweekly", 0.034000358321555374], ["triweekly", 0.03566164078021139]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03562016058185384], ["weekly", 0.03793459833375653], ["biweekly", 0.03980784256568619], ["triweekly", 0.041345292695419145]]
     },
     "lat": "REPLACE_MELos Angeles,California"
   }]

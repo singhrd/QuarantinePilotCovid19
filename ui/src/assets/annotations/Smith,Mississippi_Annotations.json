@@ -2474,5 +2474,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05392156862745098], ["weekly", 0.057802983036251386], ["biweekly", 0.05943893784208887], ["triweekly", 0.06124124243440986]]
     },
     "lat": "REPLACE_MESmith,Mississippi"
+  }, {
+    "locale": "Smith,Mississippi",
+    "long": "REPLACE_MESmith,Mississippi",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.00913248356327312], ["weekly", 0.010786793215449413], ["biweekly", 0.013544347091111917], ["triweekly", 0.010897217734707023]],
+      "Confirmed Daily Cases per 100k": [["daily", -12.565971349585324], ["weekly", 14.3611101138118], ["biweekly", 17.05381826015151], ["triweekly", 13.463540731698558]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1369.6908771048002], ["weekly", 1314.9391447958928], ["biweekly", 1266.0216134707211], ["triweekly", 1223.3870678203425]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6142857142857142], ["biweekly", 0.7258503401360545], ["triweekly", 0.6346938775510205]],
+      "Confirmed Cumulative Cases": [["daily", 218.0], ["weekly", 209.28571428571428], ["biweekly", 201.5], ["triweekly", 194.71428571428572]],
+      "Confirmed Daily Cases": [["daily", -2.0], ["weekly", 2.2857142857142856], ["biweekly", 2.7142857142857144], ["triweekly", 2.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.05045871559633028], ["weekly", 0.05260305592607243], ["biweekly", 0.0547374486374398], ["triweekly", 0.05673480700200283]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05392156862745098], ["weekly", 0.05687184134880717], ["biweekly", 0.05880068253996802], ["triweekly", 0.06061497566754052]]
+    },
+    "lat": "REPLACE_MESmith,Mississippi"
   }]
 }

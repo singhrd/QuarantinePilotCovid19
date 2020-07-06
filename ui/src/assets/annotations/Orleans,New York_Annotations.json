@@ -2474,5 +2474,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.14642857142857144], ["weekly", 0.14698121388948268], ["biweekly", 0.14373974171476092], ["triweekly", 0.14283711822298345]]
     },
     "lat": "REPLACE_MEOrleans,New York"
+  }, {
+    "locale": "Orleans,New York",
+    "long": "REPLACE_MEOrleans,New York",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.001016781109837796], ["biweekly", 0.001795426662253011], ["triweekly", 0.003685079219781911]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.708054831766172], ["biweekly", 1.2390959555908008], ["triweekly", 2.4781919111816024]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 698.8501189532118], ["weekly", 697.4340092896794], ["biweekly", 692.8316528831994], ["triweekly", 685.2790680110268]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.3658085959685459], ["triweekly", 0.7874063764729875]],
+      "Confirmed Cumulative Cases": [["daily", 282.0], ["weekly", 281.42857142857144], ["biweekly", 279.57142857142856], ["triweekly", 276.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.5], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.1453900709219858], ["weekly", 0.1451773410204545], ["biweekly", 0.14125488329704847], ["triweekly", 0.1390715806092168]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.14590747330960854], ["weekly", 0.14712036045720067], ["biweekly", 0.14407303595199603], ["triweekly", 0.14306075098317414]]
+    },
+    "lat": "REPLACE_MEOrleans,New York"
   }]
 }

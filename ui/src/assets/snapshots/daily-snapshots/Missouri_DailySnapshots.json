@@ -2626,18 +2626,34 @@
   }, {
     "epidemiccontrolThreshold": 30.7,
     "source": "NYGithub",
-    "confirmedPer100kN": 6.8892508143322475,
-    "deaths": 3,
-    "confirmed": 423,
+    "confirmedPer100kN": 7.182410423452769,
+    "deaths": 2,
+    "confirmed": 441,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 6.8892508143322475,
+    "confirmedPer100k": 7.182410423452769,
     "locale": "Missouri",
-    "activePer100k": 6.840390879478828,
+    "activePer100k": 7.149837133550489,
     "long": "REPLACE_MEMissouri",
     "date": "07/04/2020",
-    "deathsPer100k": 0.048859934853420196,
+    "deathsPer100k": 0.03257328990228013,
     "lat": "REPLACE_MEMissouri",
-    "active": 420
+    "active": 439
+  }, {
+    "epidemiccontrolThreshold": 30.7,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.4462540716612375,
+    "deaths": 0,
+    "confirmed": 273,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.4462540716612375,
+    "locale": "Missouri",
+    "activePer100k": 4.4462540716612375,
+    "long": "REPLACE_MEMissouri",
+    "date": "07/05/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEMissouri",
+    "active": 273
   }]
 }

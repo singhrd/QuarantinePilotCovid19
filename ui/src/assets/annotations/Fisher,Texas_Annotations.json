@@ -2474,5 +2474,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.2], ["weekly", 0.5], ["biweekly", 0.5], ["triweekly", 0.5]]
     },
     "lat": "REPLACE_MEFisher,Texas"
+  }, {
+    "locale": "Fisher,Texas",
+    "long": "REPLACE_MEFisher,Texas",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.09531017980432477], ["weekly", 0.09902102579427795], ["biweekly", 0.11495985088815004], ["triweekly", 0.07663990059210002]],
+      "Confirmed Daily Cases per 100k": [["daily", 26.109660574412533], ["weekly", 18.649757553151808], ["biweekly", 14.919806042521445], ["triweekly", 9.946537361680964]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 287.20626631853787], ["weekly", 179.03767251025738], ["biweekly", 121.22342409548676], ["triweekly", 98.22205644659955]],
+      "Daily Growth Rate": [["daily", 0.7071067811865476], ["weekly", 0.09523809523809523], ["biweekly", 0.047619047619047616], ["triweekly", 0.031746031746031744]],
+      "Confirmed Cumulative Cases": [["daily", 11.0], ["weekly", 6.857142857142857], ["biweekly", 4.642857142857143], ["triweekly", 3.761904761904762]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.7142857142857143], ["biweekly", 0.5714285714285714], ["triweekly", 0.38095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.09090909090909091], ["weekly", 0.16071428571428575], ["biweekly", 0.30892857142857144], ["triweekly", 0.3726190476190476]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.2], ["weekly", 0.4571428571428572], ["biweekly", 0.4785714285714286], ["triweekly", 0.48571428571428565]]
+    },
+    "lat": "REPLACE_MEFisher,Texas"
   }]
 }

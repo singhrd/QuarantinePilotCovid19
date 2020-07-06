@@ -2474,5 +2474,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016129032258064516], ["weekly", 0.023913582090590003], ["biweekly", 0.01664189089168517], ["triweekly", 0.011094593927790114]]
     },
     "lat": "REPLACE_MEUvalde,Texas"
+  }, {
+    "locale": "Uvalde,Texas",
+    "long": "REPLACE_MEUvalde,Texas",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.09065436826813045], ["weekly", 0.11326379154043334], ["biweekly", 0.09546157052657252], ["triweekly", 0.08294890930857997]],
+      "Confirmed Daily Cases per 100k": [["daily", 48.61448711716092], ["weekly", 40.066884986671084], ["biweekly", 26.978369224358534], ["triweekly", 20.122480015528147]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 560.9363898133952], ["weekly", 341.3698600864376], ["biweekly", 257.76362674758394], ["triweekly", 207.9916518419192]],
+      "Daily Growth Rate": [["daily", 0.325], ["weekly", 1.3783372722813716], ["biweekly", 1.5891686361406858], ["triweekly", 1.5248024680027787]],
+      "Confirmed Cumulative Cases": [["daily", 150.0], ["weekly", 91.28571428571429], ["biweekly", 68.92857142857143], ["triweekly", 55.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 10.714285714285714], ["biweekly", 7.214285714285714], ["triweekly", 5.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.006666666666666667], ["weekly", 0.011452411011296739], ["biweekly", 0.00959790157005856], ["triweekly", 0.006398601046705706]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014285714285714285], ["weekly", 0.022249475587773817], ["biweekly", 0.017793964624404062], ["triweekly", 0.011862643082936043]]
+    },
+    "lat": "REPLACE_MEUvalde,Texas"
   }]
 }

@@ -2474,5 +2474,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.027354422091264197], ["biweekly", 0.028154251861958635], ["triweekly", 0.029630996376994432]]
     },
     "lat": "REPLACE_METowns,Georgia"
+  }, {
+    "locale": "Towns,Georgia",
+    "long": "REPLACE_METowns,Georgia",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.020202707317519497], ["weekly", 0.036319162626320116], ["biweekly", 0.022021525689608325], ["triweekly", 0.020289733110042854]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.307717869901138], ["weekly", 13.05498522413036], ["biweekly", 7.714309450622486], ["triweekly", 6.725295418491398]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 415.3858934950569], ["weekly", 361.9791357599782], ["biweekly", 334.08894005388146], ["triweekly", 320.04494079762]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 0.0], ["biweekly", 0.07142857142857142], ["triweekly", 0.11629759858606706]],
+      "Confirmed Cumulative Cases": [["daily", 50.0], ["weekly", 43.57142857142857], ["biweekly", 40.214285714285715], ["triweekly", 38.523809523809526]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 0.9285714285714286], ["triweekly", 0.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.023132661585937634], ["biweekly", 0.025139114102594225], ["triweekly", 0.026245426030603262]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.027145566619250827], ["biweekly", 0.027801808252936076], ["triweekly", 0.02929682762177305]]
+    },
+    "lat": "REPLACE_METowns,Georgia"
   }]
 }

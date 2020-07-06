@@ -140,6 +140,7 @@ export class LineChartWidgetComponent implements OnInit {
     this.selectedWindow = this.windowsAvailable[1];
     this.selectedScale = this.scaleOptions[0];
     this.selectedMetric = this.metricsCountries[0];
+    this.selectedAlert = this.alertPlaceholder;
     this.hidePanel();
   }
 

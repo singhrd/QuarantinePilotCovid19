@@ -2464,14 +2464,29 @@
     "long": "REPLACE_MEBoone,Missouri",
     "date": "07/04/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.04572649950092002], ["biweekly", 0.04470678239648418], ["triweekly", 0.0387193569351869]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 9.97434377129938], ["biweekly", 8.470276059754235], ["triweekly", 6.7551111255360885]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 254.89989637765083], ["weekly", 214.2900681659319], ["biweekly", 186.38565404384437], ["triweekly", 164.9197052132834]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 4.539938394938395], ["biweekly", 3.364341242474883], ["triweekly", 2.9317385806208476]],
-      "Confirmed Cumulative Cases": [["daily", 460.0], ["weekly", 386.7142857142857], ["biweekly", 336.35714285714283], ["triweekly", 297.6190476190476]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 18.0], ["biweekly", 15.285714285714286], ["triweekly", 12.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.004347826086956522], ["weekly", 0.00522549626316422], ["biweekly", 0.006141159143023461], ["triweekly", 0.007131296662176106]],
+      "Spread Rate": [["daily", 0.038384243008315444], ["weekly", 0.04572649950092002], ["biweekly", 0.04470678239648418], ["triweekly", 0.0387193569351869]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.974343771299381], ["weekly", 9.97434377129938], ["biweekly", 8.470276059754235], ["triweekly", 6.7551111255360885]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 264.8742401489502], ["weekly", 214.2900681659319], ["biweekly", 186.38565404384437], ["triweekly", 164.9197052132834]],
+      "Daily Growth Rate": [["daily", 0.5806451612903226], ["weekly", 4.539938394938395], ["biweekly", 3.364341242474883], ["triweekly", 2.9317385806208476]],
+      "Confirmed Cumulative Cases": [["daily", 478.0], ["weekly", 386.7142857142857], ["biweekly", 336.35714285714283], ["triweekly", 297.6190476190476]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 18.0], ["biweekly", 15.285714285714286], ["triweekly", 12.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0041841004184100415], ["weekly", 0.00522549626316422], ["biweekly", 0.006141159143023461], ["triweekly", 0.007131296662176106]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005847953216374269], ["weekly", 0.007056822022882703], ["biweekly", 0.008084196861682049], ["triweekly", 0.008836911854360875]]
+    },
+    "lat": "REPLACE_MEBoone,Missouri"
+  }, {
+    "locale": "Boone,Missouri",
+    "long": "REPLACE_MEBoone,Missouri",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04098934453319636], ["weekly", 0.047828570775550236], ["biweekly", 0.04432390339973117], ["triweekly", 0.039622507275720885]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.082604190332644], ["weekly", 10.765958356323141], ["biweekly", 8.747341164512552], ["triweekly", 7.124531265213842]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 275.95684433928284], ["weekly", 225.05602652225505], ["biweekly", 195.13299520835693], ["triweekly", 172.04423647849725]],
+      "Daily Growth Rate": [["daily", 1.1111111111111112], ["weekly", 4.54669722750368], ["biweekly", 3.366530182567049], ["triweekly", 2.895896286714038]],
+      "Confirmed Cumulative Cases": [["daily", 498.0], ["weekly", 406.14285714285717], ["biweekly", 352.14285714285717], ["triweekly", 310.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 19.428571428571427], ["biweekly", 15.785714285714286], ["triweekly", 12.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.004016064257028112], ["weekly", 0.004987803006312187], ["biweekly", 0.005884159089530237], ["triweekly", 0.006872664081367795]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0056657223796034], ["weekly", 0.006780515172748288], ["biweekly", 0.007815094618895596], ["triweekly", 0.008580340338179662]]
     },
     "lat": "REPLACE_MEBoone,Missouri"
   }]

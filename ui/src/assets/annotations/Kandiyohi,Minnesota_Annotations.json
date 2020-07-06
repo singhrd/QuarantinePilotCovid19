@@ -2474,5 +2474,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0017730496453900709], ["weekly", 0.0017811863623592567], ["biweekly", 0.001801380545030132], ["triweekly", 0.001831558988752332]]
     },
     "lat": "REPLACE_MEKandiyohi,Minnesota"
+  }, {
+    "locale": "Kandiyohi,Minnesota",
+    "long": "REPLACE_MEKandiyohi,Minnesota",
+    "date": "07/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005249355886143725], ["weekly", 0.0015117299043624197], ["biweekly", 0.0012642555071001077], ["triweekly", 0.0022231959034597097]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.944605199194426], ["weekly", 1.9841729140555502], ["biweekly", 1.6534774283796252], ["triweekly", 2.8660275425246833]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1326.4195930461353], ["weekly", 1311.5382961907187], ["biweekly", 1306.247168419904], ["triweekly", 1296.2160720210675]],
+      "Daily Growth Rate": [["daily", 0.8660254037844386], ["weekly", 0.6704801820500907], ["biweekly", 0.4982666635763297], ["triweekly", 0.852019045558823]],
+      "Confirmed Cumulative Cases": [["daily", 573.0], ["weekly", 566.5714285714286], ["biweekly", 564.2857142857143], ["triweekly", 559.952380952381]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 0.8571428571428571], ["biweekly", 0.7142857142857143], ["triweekly", 1.2380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.0017452006980802793], ["weekly", 0.001765028914260071], ["biweekly", 0.0017722030211436482], ["triweekly", 0.0017861592562626078]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0017699115044247787], ["weekly", 0.0017793771280272264], ["biweekly", 0.0017967244272638766], ["triweekly", 0.0018238834491618985]]
+    },
+    "lat": "REPLACE_MEKandiyohi,Minnesota"
   }]
 }

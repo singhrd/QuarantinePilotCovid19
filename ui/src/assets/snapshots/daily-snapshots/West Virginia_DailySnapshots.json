@@ -2626,18 +2626,34 @@
   }, {
     "epidemiccontrolThreshold": 8.95,
     "source": "NYGithub",
-    "confirmedPer100kN": 4.46927374301676,
+    "confirmedPer100kN": 4.41340782122905,
     "deaths": 1,
-    "confirmed": 80,
+    "confirmed": 79,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 4.46927374301676,
+    "confirmedPer100k": 4.41340782122905,
     "locale": "West Virginia",
-    "activePer100k": 4.41340782122905,
+    "activePer100k": 4.357541899441341,
     "long": "REPLACE_MEWest Virginia",
     "date": "07/04/2020",
     "deathsPer100k": 0.0558659217877095,
     "lat": "REPLACE_MEWest Virginia",
-    "active": 79
+    "active": 78
+  }, {
+    "epidemiccontrolThreshold": 8.95,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.262569832402235,
+    "deaths": 1,
+    "confirmed": 130,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.262569832402235,
+    "locale": "West Virginia",
+    "activePer100k": 7.206703910614526,
+    "long": "REPLACE_MEWest Virginia",
+    "date": "07/05/2020",
+    "deathsPer100k": 0.0558659217877095,
+    "lat": "REPLACE_MEWest Virginia",
+    "active": 129
   }]
 }
