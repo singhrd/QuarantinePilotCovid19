@@ -2489,5 +2489,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07772020725388601], ["weekly", 0.07862683562729056], ["biweekly", 0.07823925583484705], ["triweekly", 0.07757312807287195]]
     },
     "lat": "REPLACE_MEBay,Michigan"
+  }, {
+    "locale": "Bay,Michigan",
+    "long": "REPLACE_MEBay,Michigan",
+    "date": "07/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0024721891453882705], ["weekly", 0.006511072642331354], ["biweekly", 0.004751477310111607], ["triweekly", 0.0032937947863399806]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.9696875666660202], ["weekly", 2.493482314284052], ["biweekly", 1.8008483380940372], ["triweekly", 1.2467411571420257]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 392.72346449973816], ["weekly", 384.4118567854579], ["biweekly", 377.7625706140339], ["triweekly", 374.0685227410204]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.2920610272857025], ["biweekly", 0.9256171966695009], ["triweekly", 0.7599352739701435]],
+      "Confirmed Cumulative Cases": [["daily", 405.0], ["weekly", 396.42857142857144], ["biweekly", 389.57142857142856], ["triweekly", 385.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.5714285714285716], ["biweekly", 1.8571428571428572], ["triweekly", 1.2857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.07407407407407407], ["weekly", 0.07569289439440967], ["biweekly", 0.0764779658049869], ["triweekly", 0.07654891456489318]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07751937984496124], ["weekly", 0.07839185389712008], ["biweekly", 0.07829619371561912], ["triweekly", 0.07764000511002443]]
+    },
+    "lat": "REPLACE_MEBay,Michigan"
   }]
 }

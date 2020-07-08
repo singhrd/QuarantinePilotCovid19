@@ -2489,5 +2489,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06451612903225806], ["weekly", 0.06422811059907833], ["biweekly", 0.06578638963928173], ["triweekly", 0.06756720465139872]]
     },
     "lat": "REPLACE_MESeneca,Ohio"
+  }, {
+    "locale": "Seneca,Ohio",
+    "long": "REPLACE_MESeneca,Ohio",
+    "date": "07/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.029852963149681333], ["weekly", 0.008931479568761993], ["biweekly", 0.004465739784380997], ["triweekly", 0.006152939594286004]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.8123165029540758], ["weekly", 0.5178047151297359], ["biweekly", 0.25890235756486796], ["triweekly", 0.34520314341982394]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 61.618761100438576], ["weekly", 59.54754223991964], ["biweekly", 57.99412809453043], ["triweekly", 56.78591709256102]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.14285714285714285], ["triweekly", 0.14285714285714285]],
+      "Confirmed Cumulative Cases": [["daily", 34.0], ["weekly", 32.857142857142854], ["biweekly", 32.0], ["triweekly", 31.333333333333332]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.2857142857142857], ["biweekly", 0.14285714285714285], ["triweekly", 0.19047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.060876623376623376], ["biweekly", 0.06255236698785084], ["triweekly", 0.06393792525605649]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.06422811059907833], ["biweekly", 0.06546857619577306], ["triweekly", 0.06711206441131223]]
+    },
+    "lat": "REPLACE_MESeneca,Ohio"
   }]
 }

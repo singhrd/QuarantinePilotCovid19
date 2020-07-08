@@ -2489,5 +2489,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.0693877551020408], ["biweekly", 0.08548752834467119], ["triweekly", 0.09998110355253215]]
     },
     "lat": "REPLACE_MEFloyd,Virginia"
+  }, {
+    "locale": "Floyd,Virginia",
+    "long": "REPLACE_MEFloyd,Virginia",
+    "date": "07/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04879016416943216], ["weekly", 0.031877650187744244], ["biweekly", 0.02547678170990946], ["triweekly", 0.03802417601037006]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.349609499015811], ["weekly", 3.628348285151892], ["biweekly", 2.721261213863919], ["triweekly", 3.325985928055901]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 133.34179947933202], ["weekly", 117.01423219614853], ["biweekly", 105.22210026940488], ["triweekly", 92.52288127137324]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.47356860892481695], ["triweekly", 0.3633314535689256]],
+      "Confirmed Cumulative Cases": [["daily", 21.0], ["weekly", 18.428571428571427], ["biweekly", 16.571428571428573], ["triweekly", 14.571428571428571]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.42857142857142855], ["triweekly", 0.5238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.047619047619047616], ["weekly", 0.05448424984028699], ["biweekly", 0.0612982473691231], ["triweekly", 0.07283828736172832]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.06811224489795918], ["biweekly", 0.08201530612244898], ["triweekly", 0.09502078609221468]]
+    },
+    "lat": "REPLACE_MEFloyd,Virginia"
   }]
 }

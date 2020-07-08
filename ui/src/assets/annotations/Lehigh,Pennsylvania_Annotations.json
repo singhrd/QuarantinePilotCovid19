@@ -2489,5 +2489,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07285239677266256], ["weekly", 0.07244524001170835], ["biweekly", 0.07176102376242732], ["triweekly", 0.07118485377744146]]
     },
     "lat": "REPLACE_MELehigh,Pennsylvania"
+  }, {
+    "locale": "Lehigh,Pennsylvania",
+    "long": "REPLACE_MELehigh,Pennsylvania",
+    "date": "07/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.001390820808342852], ["weekly", 0.003251082911857241], ["biweekly", 0.003846297675216524], ["triweekly", 0.0041283386404975956]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.6246161844264293], ["weekly", 3.752089759270563], ["biweekly", 4.370991162861584], ["triweekly", 4.615972968449696]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1168.9113446948159], ["weekly", 1156.5333166229955], ["biweekly", 1141.080122202082], ["triweekly", 1122.8547652442508]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.1208450969320534], ["biweekly", 1.1465891221188993], ["triweekly", 1.329529797050902]],
+      "Confirmed Cumulative Cases": [["daily", 4317.0], ["weekly", 4271.285714285715], ["biweekly", 4214.214285714285], ["triweekly", 4146.9047619047615]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 13.857142857142858], ["biweekly", 16.142857142857142], ["triweekly", 17.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.07111419967570072], ["weekly", 0.07069971844038711], ["biweekly", 0.06972930191876926], ["triweekly", 0.06929726829027233]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07274881516587678], ["weekly", 0.07264114981469232], ["biweekly", 0.07194145678693557], ["triweekly", 0.07135845157976851]]
+    },
+    "lat": "REPLACE_MELehigh,Pennsylvania"
   }]
 }

@@ -2489,5 +2489,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.02409578143774261], ["biweekly", 0.025114601154002793], ["triweekly", 0.027032183082260377]]
     },
     "lat": "REPLACE_MEHalifax,Virginia"
+  }, {
+    "locale": "Halifax,Virginia",
+    "long": "REPLACE_MEHalifax,Virginia",
+    "date": "07/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.031252543504104224], ["weekly", 0.03590206118298659], ["biweekly", 0.034255220018706165], ["triweekly", 0.025343657797490867]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.897791277166701], ["weekly", 5.897791277166701], ["biweekly", 5.055249666142887], ["triweekly", 3.6510136477698634]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 191.67821650791777], ["weekly", 168.08705139925095], ["biweekly", 147.65541733192347], ["triweekly", 136.35131738402063]],
+      "Daily Growth Rate": [["daily", 0.7071067811865476], ["weekly", 1.3397092104298898], ["biweekly", 1.226547499928095], ["triweekly", 0.8989891323895178]],
+      "Confirmed Cumulative Cases": [["daily", 65.0], ["weekly", 57.0], ["biweekly", 50.07142857142857], ["triweekly", 46.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.0], ["biweekly", 1.7142857142857142], ["triweekly", 1.2380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.015384615384615385], ["weekly", 0.017660783854906832], ["biweekly", 0.020504506762344755], ["triweekly", 0.0223148113989841]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.02334822966978268], ["biweekly", 0.024641825171022733], ["triweekly", 0.02651590514251305]]
+    },
+    "lat": "REPLACE_MEHalifax,Virginia"
   }]
 }

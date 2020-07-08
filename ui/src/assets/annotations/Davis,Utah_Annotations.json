@@ -2489,5 +2489,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004492362982929021], ["weekly", 0.005105857134382338], ["biweekly", 0.005326949630188175], ["triweekly", 0.0057909701099940055]]
     },
     "lat": "REPLACE_MEDavis,Utah"
+  }, {
+    "locale": "Davis,Utah",
+    "long": "REPLACE_MEDavis,Utah",
+    "date": "07/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03319806940959591], ["weekly", 0.035000751298234434], ["biweekly", 0.036253516730103144], ["triweekly", 0.03655141787346262]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.502831374953937], ["weekly", 12.417782425180851], ["biweekly", 11.372920473547511], ["triweekly", 10.207497527494942]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 413.5242108579643], ["weekly", 359.39232436372924], ["biweekly", 319.1048587286361], ["triweekly", 283.3317325512408]],
+      "Daily Growth Rate": [["daily", 1.1162790697674418], ["weekly", 1.091592663810709], ["biweekly", 1.065992418076767], ["triweekly", 1.102689892817261]],
+      "Confirmed Cumulative Cases": [["daily", 1470.0], ["weekly", 1277.5714285714287], ["biweekly", 1134.357142857143], ["triweekly", 1007.1904761904761]],
+      "Confirmed Daily Cases": [["daily", 48.0], ["weekly", 44.142857142857146], ["biweekly", 40.42857142857143], ["triweekly", 36.285714285714285]],
+      "Confirmed Fatality Rate": [["daily", 0.004081632653061225], ["weekly", 0.003934618983014704], ["biweekly", 0.003999336104498422], ["triweekly", 0.004449490070504361]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005194805194805195], ["weekly", 0.0050800665324776725], ["biweekly", 0.005214932267496959], ["triweekly", 0.00565794099017685]]
+    },
+    "lat": "REPLACE_MEDavis,Utah"
   }]
 }

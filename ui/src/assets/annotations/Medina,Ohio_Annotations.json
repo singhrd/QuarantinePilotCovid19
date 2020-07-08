@@ -2489,5 +2489,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06896551724137931], ["weekly", 0.07307298081685054], ["biweekly", 0.07509677231211216], ["triweekly", 0.07604027302181206]]
     },
     "lat": "REPLACE_MEMedina,Ohio"
+  }, {
+    "locale": "Medina,Ohio",
+    "long": "REPLACE_MEMedina,Ohio",
+    "date": "07/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013474698583360478], ["weekly", 0.01517460189361535], ["biweekly", 0.015904226608609257], ["triweekly", 0.012484308799731999]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.894384297842511], ["weekly", 4.132815989547154], ["biweekly", 4.093077374263047], ["triweekly", 3.1525968125391755]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 290.9661411102333], ["weekly", 275.07069499659036], ["biweekly", 260.4071459567549], ["triweekly", 248.57828480718558]],
+      "Daily Growth Rate": [["daily", 0.875], ["weekly", 1.3930116785108027], ["biweekly", 1.2880307825660589], ["triweekly", 1.4539252836154675]],
+      "Confirmed Cumulative Cases": [["daily", 523.0], ["weekly", 494.42857142857144], ["biweekly", 468.07142857142856], ["triweekly", 446.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 7.428571428571429], ["biweekly", 7.357142857142857], ["triweekly", 5.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.06118546845124283], ["weekly", 0.06447995949270505], ["biweekly", 0.06737928909722611], ["triweekly", 0.07024363436042776]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06823027718550106], ["weekly", 0.07220226432452595], ["biweekly", 0.0744453348066835], ["triweekly", 0.07563294623116532]]
+    },
+    "lat": "REPLACE_MEMedina,Ohio"
   }]
 }

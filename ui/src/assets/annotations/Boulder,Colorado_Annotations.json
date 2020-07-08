@@ -2489,5 +2489,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.052941176470588235], ["weekly", 0.05524242713135181], ["biweekly", 0.05873395351726729], ["triweekly", 0.06177994954975253]]
     },
     "lat": "REPLACE_MEBoulder,Colorado"
+  }, {
+    "locale": "Boulder,Colorado",
+    "long": "REPLACE_MEBoulder,Colorado",
+    "date": "07/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.011768913962113103], ["weekly", 0.007768110125438861], ["biweekly", 0.01030954700696128], ["triweekly", 0.014009658197724654]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.211590577444236], ["weekly", 3.328410788955982], ["biweekly", 4.226205804398057], ["triweekly", 5.342975213850394]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 445.43771229567494], ["weekly", 431.7299152306326], ["biweekly", 417.54037449876756], ["triweekly", 397.77428586610796]],
+      "Daily Growth Rate": [["daily", 4.25], ["weekly", 0.9715670883738109], ["biweekly", 0.989531426739136], ["triweekly", 1.16960427929074]],
+      "Confirmed Cumulative Cases": [["daily", 1453.0], ["weekly", 1408.2857142857142], ["biweekly", 1362.0], ["triweekly", 1297.5238095238096]],
+      "Confirmed Daily Cases": [["daily", 17.0], ["weekly", 10.857142857142858], ["biweekly", 13.785714285714286], ["triweekly", 17.428571428571427]],
+      "Confirmed Fatality Rate": [["daily", 0.04955264969029594], ["weekly", 0.05103618809927395], ["biweekly", 0.05251729337139897], ["triweekly", 0.055144046031577985]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05267008046817849], ["weekly", 0.0546454707301268], ["biweekly", 0.057775813251815314], ["triweekly", 0.06102011805810076]]
+    },
+    "lat": "REPLACE_MEBoulder,Colorado"
   }]
 }
