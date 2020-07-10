@@ -2494,14 +2494,59 @@
     "long": "REPLACE_MEWashington,Texas",
     "date": "07/06/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.04298182257368577], ["weekly", 0.017977006714480912], ["biweekly", 0.01833124648355858], ["triweekly", 0.014564971025474821]],
-      "Confirmed Daily Cases per 100k": [["daily", 36.22986455604482], ["weekly", 13.93456329078647], ["biweekly", 13.337367721181334], ["triweekly", 10.35138987315566]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 861.1560113706037], ["weekly", 780.733674663779], ["biweekly", 734.1524202345785], ["triweekly", 695.4010632735343]],
-      "Daily Growth Rate": [["daily", 0.9636241116594315], ["weekly", 2.3607142857142853], ["biweekly", 1.8429945054945054], ["triweekly", 1.5294485551357524]],
-      "Confirmed Cumulative Cases": [["daily", 309.0], ["weekly", 280.14285714285717], ["biweekly", 263.42857142857144], ["triweekly", 249.52380952380952]],
-      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 5.0], ["biweekly", 4.785714285714286], ["triweekly", 3.7142857142857144]],
-      "Confirmed Fatality Rate": [["daily", 0.10032362459546926], ["weekly", 0.11084515670064739], ["biweekly", 0.11357001045814008], ["triweekly", 0.11481316659059579]],
+      "Spread Rate": [["daily", 0.07169192845611683], ["weekly", 0.017977006714480912], ["biweekly", 0.01833124648355858], ["triweekly", 0.014564971025474821]],
+      "Confirmed Daily Cases per 100k": [["daily", 61.31207847946046], ["weekly", 13.93456329078647], ["biweekly", 13.337367721181334], ["triweekly", 10.35138987315566]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 886.2382252940193], ["weekly", 780.733674663779], ["biweekly", 734.1524202345785], ["triweekly", 695.4010632735343]],
+      "Daily Growth Rate": [["daily", 1.2535663410560174], ["weekly", 2.3607142857142853], ["biweekly", 1.8429945054945054], ["triweekly", 1.5294485551357524]],
+      "Confirmed Cumulative Cases": [["daily", 318.0], ["weekly", 280.14285714285717], ["biweekly", 263.42857142857144], ["triweekly", 249.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 5.0], ["biweekly", 4.785714285714286], ["triweekly", 3.7142857142857144]],
+      "Confirmed Fatality Rate": [["daily", 0.09748427672955975], ["weekly", 0.11084515670064739], ["biweekly", 0.11357001045814008], ["triweekly", 0.11481316659059579]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1169811320754717], ["weekly", 0.12583038296788696], ["biweekly", 0.12763086224784667], ["triweekly", 0.125709498641362]]
+    },
+    "lat": "REPLACE_MEWashington,Texas"
+  }, {
+    "locale": "Washington,Texas",
+    "long": "REPLACE_MEWashington,Texas",
+    "date": "07/07/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0260459366848507], ["biweekly", 0.021604704902572713], ["triweekly", 0.017978872380528005]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 21.10091012604808], ["biweekly", 16.522410759075385], ["triweekly", 13.271012657891871]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 886.2382252940193], ["weekly", 801.8345847898271], ["biweekly", 750.6748309936538], ["triweekly", 708.6720759314262]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.9683666201508596], ["biweekly", 1.8468206727127925], ["triweekly", 1.589142190424134]],
+      "Confirmed Cumulative Cases": [["daily", 318.0], ["weekly", 287.7142857142857], ["biweekly", 269.35714285714283], ["triweekly", 254.28571428571428]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 7.571428571428571], ["biweekly", 5.928571428571429], ["triweekly", 4.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.09748427672955975], ["weekly", 0.1080598916512314], ["biweekly", 0.11232648615158888], ["triweekly", 0.11377593905172381]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11610486891385768], ["weekly", 0.1236969884619513], ["biweekly", 0.12713999946686794], ["triweekly", 0.12529889232427496]]
+    },
+    "lat": "REPLACE_MEWashington,Texas"
+  }, {
+    "locale": "Washington,Texas",
+    "long": "REPLACE_MEWashington,Texas",
+    "date": "07/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.052079149044889306], ["weekly", 0.024971817768561038], ["biweekly", 0.020399130774904708], ["triweekly", 0.017978872380528005]],
+      "Confirmed Daily Cases per 100k": [["daily", 47.37751518867399], ["weekly", 20.30464936657457], ["biweekly", 15.726149999601871], ["triweekly", 13.271012657891871]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 933.6157404826934], ["weekly", 822.1392341564016], ["biweekly", 766.4009809932556], ["triweekly", 721.9430885893181]],
+      "Daily Growth Rate": [["daily", 0.8790490729915326], ["weekly", 1.8969380487222882], ["biweekly", 1.7992016250937446], ["triweekly", 1.589142190424134]],
+      "Confirmed Cumulative Cases": [["daily", 335.0], ["weekly", 295.0], ["biweekly", 275.0], ["triweekly", 259.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 17.0], ["weekly", 7.285714285714286], ["biweekly", 5.642857142857143], ["triweekly", 4.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.0955223880597015], ["weekly", 0.10539980705347453], ["biweekly", 0.11122031225390949], ["triweekly", 0.11273871151285182]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11636363636363636], ["weekly", 0.12175381073954362], ["biweekly", 0.1265865464600596], ["triweekly", 0.12487531465350628]]
+    },
+    "lat": "REPLACE_MEWashington,Texas"
+  }, {
+    "locale": "Washington,Texas",
+    "long": "REPLACE_MEWashington,Texas",
+    "date": "07/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005952398527295344], ["weekly", 0.028194204879784936], ["biweekly", 0.02352382845245796], ["triweekly", 0.020240895333741203]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.573825316314587], ["weekly", 23.887822784205373], ["biweekly", 18.712127847627546], ["triweekly", 15.394374683154572]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 939.1895657990079], ["weekly", 846.0270569406072], ["biweekly", 785.1131088408831], ["triweekly", 737.3374632724725]],
+      "Daily Growth Rate": [["daily", 0.11764705882352941], ["weekly", 1.4510879162925072], ["biweekly", 1.826276558878854], ["triweekly", 1.6310016700903975]],
+      "Confirmed Cumulative Cases": [["daily", 337.0], ["weekly", 303.57142857142856], ["biweekly", 281.7142857142857], ["triweekly", 264.57142857142856]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 8.571428571428571], ["biweekly", 6.714285714285714], ["triweekly", 5.523809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.09495548961424333], ["weekly", 0.10294196638667864], ["biweekly", 0.11004096889954913], ["triweekly", 0.11163399374487502]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11428571428571428], ["weekly", 0.1200013723066073], ["biweekly", 0.12609197254082818], ["triweekly", 0.12460378649465415]]
     },
     "lat": "REPLACE_MEWashington,Texas"
   }]

@@ -2671,5 +2671,53 @@
     "deathsPer100k": 0.2424060252441635,
     "lat": "REPLACE_MEMiddlesex,New Jersey",
     "active": 42
+  }, {
+    "epidemiccontrolThreshold": 4.12531,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.0908271135987357,
+    "deaths": 5,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.0908271135987357,
+    "locale": "Middlesex,New Jersey",
+    "activePer100k": 0.484812050488327,
+    "long": "REPLACE_MEMiddlesex,New Jersey",
+    "date": "07/07/2020",
+    "deathsPer100k": 0.6060150631104086,
+    "lat": "REPLACE_MEMiddlesex,New Jersey",
+    "active": 4
+  }, {
+    "epidemiccontrolThreshold": 4.12531,
+    "source": "NYGithub",
+    "confirmedPer100kN": -1.2120301262208173,
+    "deaths": 10,
+    "confirmed": -10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -1.2120301262208173,
+    "locale": "Middlesex,New Jersey",
+    "activePer100k": 0.0,
+    "long": "REPLACE_MEMiddlesex,New Jersey",
+    "date": "07/08/2020",
+    "deathsPer100k": 1.2120301262208173,
+    "lat": "REPLACE_MEMiddlesex,New Jersey",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 4.12531,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.7272180757324904,
+    "deaths": 13,
+    "confirmed": 6,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.7272180757324904,
+    "locale": "Middlesex,New Jersey",
+    "activePer100k": -0.8484210883545722,
+    "long": "REPLACE_MEMiddlesex,New Jersey",
+    "date": "07/09/2020",
+    "deathsPer100k": 1.5756391640870626,
+    "lat": "REPLACE_MEMiddlesex,New Jersey",
+    "active": -7
   }]
 }
