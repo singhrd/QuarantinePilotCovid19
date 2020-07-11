@@ -2549,5 +2549,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007142857142857143], ["weekly", 0.007999405839683048], ["biweekly", 0.009391288122937732], ["triweekly", 0.012473747360854482]]
     },
     "lat": "REPLACE_MEWichita,Texas"
+  }, {
+    "locale": "Wichita,Texas",
+    "long": "REPLACE_MEWichita,Texas",
+    "date": "07/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03125254350410511], ["weekly", 0.042872084635762545], ["biweekly", 0.052995524623526906], ["triweekly", 0.06332019093483315]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.61264463434924], ["weekly", 15.881418740074112], ["biweekly", 16.043474033340175], ["triweekly", 15.017123842655115]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 442.4109506163503], ["weekly", 364.84048357299514], ["biweekly", 311.95643953717007], ["triweekly", 260.47687470965093]],
+      "Daily Growth Rate": [["daily", 0.9473684210526315], ["weekly", 1.0340212913264282], ["biweekly", 0.9652577034555426], ["triweekly", 0.8933727705165646]],
+      "Confirmed Cumulative Cases": [["daily", 585.0], ["weekly", 482.42857142857144], ["biweekly", 412.5], ["triweekly", 344.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 21.0], ["biweekly", 21.214285714285715], ["triweekly", 19.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.005128205128205128], ["weekly", 0.005626121248280801], ["biweekly", 0.00578439192318315], ["triweekly", 0.007168464468665957]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007058823529411765], ["weekly", 0.007961612944747296], ["biweekly", 0.008949111252189433], ["triweekly", 0.011789817875081675]]
+    },
+    "lat": "REPLACE_MEWichita,Texas"
   }]
 }

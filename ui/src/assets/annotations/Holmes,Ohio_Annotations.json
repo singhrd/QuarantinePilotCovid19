@@ -2549,5 +2549,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0196078431372549], ["weekly", 0.01595379274901257], ["biweekly", 0.019990408124589226], ["triweekly", 0.0249350848513398]]
     },
     "lat": "REPLACE_MEHolmes,Ohio"
+  }, {
+    "locale": "Holmes,Ohio",
+    "long": "REPLACE_MEHolmes,Ohio",
+    "date": "07/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019646997383796716], ["weekly", 0.030187013381029613], ["biweekly", 0.028537883756310705], ["triweekly", 0.04353850336524589]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.37397634212921], ["weekly", 15.598596126348628], ["biweekly", 13.486286234238918], ["triweekly", 16.35686121582391]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 584.6223839854413], ["weekly", 535.8767710906019], ["biweekly", 488.4310412062914], ["triweekly", 430.26127648511635]],
+      "Daily Growth Rate": [["daily", 0.7142857142857143], ["weekly", 1.2576324463923128], ["biweekly", 0.9983740463254082], ["triweekly", 1.2753049197724944]],
+      "Confirmed Cumulative Cases": [["daily", 257.0], ["weekly", 235.57142857142858], ["biweekly", 214.71428571428572], ["triweekly", 189.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 6.857142857142857], ["biweekly", 5.928571428571429], ["triweekly", 7.190476190476191]],
+      "Confirmed Fatality Rate": [["daily", 0.019455252918287938], ["weekly", 0.013325684628681684], ["biweekly", 0.01442219605049001], ["triweekly", 0.017054686580996778]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022727272727272728], ["weekly", 0.01621898758434315], ["biweekly", 0.019269327613176734], ["triweekly", 0.02393828973689763]]
+    },
+    "lat": "REPLACE_MEHolmes,Ohio"
   }]
 }

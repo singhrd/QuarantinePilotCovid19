@@ -2549,5 +2549,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01060070671378092], ["weekly", 0.011741222723924237], ["biweekly", 0.012089038245846315], ["triweekly", 0.012372676974419078]]
     },
     "lat": "REPLACE_MEDallas,Alabama"
+  }, {
+    "locale": "Dallas,Alabama",
+    "long": "REPLACE_MEDallas,Alabama",
+    "date": "07/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019378474837310478], ["weekly", 0.019181040282853928], ["biweekly", 0.021760450095048536], ["triweekly", 0.025366195593463287]],
+      "Confirmed Daily Cases per 100k": [["daily", 51.08076137219056], ["weekly", 46.85603674742292], ["biweekly", 48.96839905980674], ["triweekly", 51.33680528884315]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2661.5765136036134], ["weekly", 2443.0430307406323], ["biweekly", 2280.0070668120993], ["triweekly", 2105.8331925091793]],
+      "Daily Growth Rate": [["daily", 0.4222222222222222], ["weekly", 2.926800373539504], ["biweekly", 2.6329263305606014], ["triweekly", 2.1159967104979893]],
+      "Confirmed Cumulative Cases": [["daily", 990.0], ["weekly", 908.7142857142857], ["biweekly", 848.0714285714286], ["triweekly", 783.2857142857143]],
+      "Confirmed Daily Cases": [["daily", 19.0], ["weekly", 17.428571428571427], ["biweekly", 18.214285714285715], ["triweekly", 19.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.00909090909090909], ["weekly", 0.009914928582170576], ["biweekly", 0.010134894241449642], ["triweekly", 0.009961576112540048]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010285714285714285], ["weekly", 0.011459919054145135], ["biweekly", 0.011969038600088812], ["triweekly", 0.012180608420719911]]
+    },
+    "lat": "REPLACE_MEDallas,Alabama"
   }]
 }

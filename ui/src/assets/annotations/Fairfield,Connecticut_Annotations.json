@@ -2549,5 +2549,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08247176238570489], ["weekly", 0.08278611240551152], ["biweekly", 0.08313692044003333], ["triweekly", 0.08328585567604013]]
     },
     "lat": "REPLACE_MEFairfield,Connecticut"
+  }, {
+    "locale": "Fairfield,Connecticut",
+    "long": "REPLACE_MEFairfield,Connecticut",
+    "date": "07/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.001183712259427594], ["weekly", 0.0013002941049816538], ["biweekly", 0.0014485756955429402], ["triweekly", 0.0013964523844438794]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.120144339426628], ["weekly", 2.3170148852305297], ["biweekly", 2.5668890395200963], ["triweekly", 2.463405803905226]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1792.1580101173288], ["weekly", 1782.0721806169133], ["biweekly", 1774.0762076796477], ["triweekly", 1765.4946710676827]],
+      "Daily Growth Rate": [["daily", 0.7407407407407407], ["weekly", 0.8445488823071721], ["biweekly", 0.9845236943150104], ["triweekly", 1.3082904162885487]],
+      "Confirmed Cumulative Cases": [["daily", 16906.0], ["weekly", 16810.85714285714], ["biweekly", 16735.428571428572], ["triweekly", 16654.47619047619]],
+      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 21.857142857142858], ["biweekly", 24.214285714285715], ["triweekly", 23.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.08162782444102686], ["weekly", 0.08194592800708057], ["biweekly", 0.08225707043539267], ["triweekly", 0.08240878511577898]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08235364325356567], ["weekly", 0.0826882116396952], ["biweekly", 0.08304706610065742], ["triweekly", 0.08322787958531505]]
+    },
+    "lat": "REPLACE_MEFairfield,Connecticut"
   }]
 }

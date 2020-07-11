@@ -2549,5 +2549,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10256410256410256], ["weekly", 0.122824410197403], ["biweekly", 0.1362542716131742], ["triweekly", 0.15696947606241357]]
     },
     "lat": "REPLACE_MEJenkins,Georgia"
+  }, {
+    "locale": "Jenkins,Georgia",
+    "long": "REPLACE_MEJenkins,Georgia",
+    "date": "07/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014706147389695445], ["weekly", 0.020442977662953332], ["biweekly", 0.025855714012030413], ["triweekly", 0.03705430444730181]],
+      "Confirmed Daily Cases per 100k": [["daily", 23.05209774089442], ["weekly", 29.638411381149968], ["biweekly", 33.75485740630969], ["triweekly", 40.06674131155459]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1579.0686952512679], ["weekly", 1447.3424224461567], ["biweekly", 1307.383257590726], ["triweekly", 1174.0104063755518]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 0.7920573301190175], ["biweekly", 1.235154233529131], ["triweekly", 1.2216855039253915]],
+      "Confirmed Cumulative Cases": [["daily", 137.0], ["weekly", 125.57142857142857], ["biweekly", 113.42857142857143], ["triweekly", 101.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.5714285714285716], ["biweekly", 2.9285714285714284], ["triweekly", 3.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.08759124087591241], ["weekly", 0.09574014770982511], ["biweekly", 0.1031319399074145], ["triweekly", 0.10823757132281471]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1], ["weekly", 0.11923934278254834], ["biweekly", 0.13090746787927368], ["triweekly", 0.15211322120615872]]
+    },
+    "lat": "REPLACE_MEJenkins,Georgia"
   }]
 }

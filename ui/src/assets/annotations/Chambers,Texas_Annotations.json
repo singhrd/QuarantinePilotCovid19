@@ -2549,5 +2549,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005988023952095809], ["weekly", 0.0079569706670547], ["biweekly", 0.010221196704352101], ["triweekly", 0.008290779487883086]]
     },
     "lat": "REPLACE_MEChambers,Texas"
+  }, {
+    "locale": "Chambers,Texas",
+    "long": "REPLACE_MEChambers,Texas",
+    "date": "07/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.061154423153330306], ["weekly", 0.07254673153853337], ["biweekly", 0.07362150593227852], ["triweekly", 0.06911588872813582]],
+      "Confirmed Daily Cases per 100k": [["daily", 79.84123001117777], ["weekly", 72.02004829579708], ["biweekly", 58.1700390081438], ["triweekly", 46.16669762551095]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1345.8950201884254], ["weekly", 945.3853398466397], ["biweekly", 789.4505293962375], ["triweekly", 657.3051466634512]],
+      "Daily Growth Rate": [["daily", 0.4069767441860465], ["weekly", 0.22137914650036988], ["biweekly", 0.5679448210822456], ["triweekly", 0.7491343157959148]],
+      "Confirmed Cumulative Cases": [["daily", 590.0], ["weekly", 414.42857142857144], ["biweekly", 346.07142857142856], ["triweekly", 288.14285714285717]],
+      "Confirmed Daily Cases": [["daily", 35.0], ["weekly", 31.571428571428573], ["biweekly", 25.5], ["triweekly", 20.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.003389830508474576], ["weekly", 0.004979951568437709], ["biweekly", 0.006174676392823755], ["triweekly", 0.005622257502187163]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005681818181818182], ["weekly", 0.0073694012172098025], ["biweekly", 0.009550011602029273], ["triweekly", 0.008575923485601935]]
+    },
+    "lat": "REPLACE_MEChambers,Texas"
   }]
 }

@@ -2549,5 +2549,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009230769230769232], ["weekly", 0.009165082910548248], ["biweekly", 0.01068094609394241], ["triweekly", 0.01230007803153633]]
     },
     "lat": "REPLACE_MEDeKalb,Alabama"
+  }, {
+    "locale": "DeKalb,Alabama",
+    "long": "REPLACE_MEDeKalb,Alabama",
+    "date": "07/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.026668247082160867], ["weekly", 0.03849139509767025], ["biweekly", 0.03957497422132158], ["triweekly", 0.04017994262723851]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.16198453428048], ["weekly", 40.152539698076865], ["biweekly", 36.15726211617867], ["triweekly", 32.29516045367709]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1222.155412302658], ["weekly", 1061.5452535103507], ["biweekly", 930.2005030054476], ["triweekly", 820.0973116443032]],
+      "Daily Growth Rate": [["daily", 0.45098039215686275], ["weekly", 1.1777680288724925], ["biweekly", 1.1829406720643327], ["triweekly", 1.452742397574838]],
+      "Confirmed Cumulative Cases": [["daily", 874.0], ["weekly", 759.1428571428571], ["biweekly", 665.2142857142857], ["triweekly", 586.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 23.0], ["weekly", 28.714285714285715], ["biweekly", 25.857142857142858], ["triweekly", 23.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.008009153318077803], ["weekly", 0.006780027968117449], ["biweekly", 0.007791652497693711], ["triweekly", 0.00909640698088244]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00995732574679943], ["weekly", 0.00902305724705019], ["biweekly", 0.010364486597155045], ["triweekly", 0.011932535969079009]]
+    },
+    "lat": "REPLACE_MEDeKalb,Alabama"
   }]
 }
