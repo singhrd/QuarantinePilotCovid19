@@ -2564,5 +2564,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05161290322580645], ["weekly", 0.04890083999204083], ["biweekly", 0.04716841372701279], ["triweekly", 0.04521945517251801]]
     },
     "lat": "REPLACE_MELowndes,Alabama"
+  }, {
+    "locale": "Lowndes,Alabama",
+    "long": "REPLACE_MELowndes,Alabama",
+    "date": "07/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0020639842208511894], ["weekly", 0.005721071589896606], ["biweekly", 0.007296550830074443], ["triweekly", 0.007438996804348473]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.281719103434094], ["weekly", 27.90752328074968], ["biweekly", 34.517199847243035], ["triweekly", 34.272397011446984]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4986.633765165536], ["weekly", 4920.536999500602], ["biweekly", 4807.438089362827], ["triweekly", 4669.858895645448]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.710463485342955], ["biweekly", 2.2148519131369238], ["triweekly", 2.023846853655908]],
+      "Confirmed Cumulative Cases": [["daily", 485.0], ["weekly", 478.57142857142856], ["biweekly", 467.57142857142856], ["triweekly", 454.1904761904762]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.7142857142857144], ["biweekly", 3.357142857142857], ["triweekly", 3.3333333333333335]],
+      "Confirmed Fatality Rate": [["daily", 0.049484536082474224], ["weekly", 0.04713779305373463], ["biweekly", 0.04514156149335407], ["triweekly", 0.04289414484942184]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0511727078891258], ["weekly", 0.049409123323089346], ["biweekly", 0.047749459609601454], ["triweekly", 0.04557637213285054]]
+    },
+    "lat": "REPLACE_MELowndes,Alabama"
   }]
 }

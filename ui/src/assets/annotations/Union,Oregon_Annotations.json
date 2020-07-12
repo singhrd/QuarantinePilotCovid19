@@ -2564,5 +2564,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005633802816901409], ["weekly", 0.003042588575910746], ["biweekly", 0.0033770665676885942], ["triweekly", 0.002251377711792396]]
     },
     "lat": "REPLACE_MEUnion,Oregon"
+  }, {
+    "locale": "Union,Oregon",
+    "long": "REPLACE_MEUnion,Oregon",
+    "date": "07/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0027137058715958062], ["weekly", 0.0051378783847879006], ["biweekly", 0.0124815472336561], ["triweekly", 0.01784254521149576]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.7264766163592324], ["weekly", 6.920599430381432], ["biweekly", 15.70443716894248], ["triweekly", 20.40689575625294]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1375.069871436557], ["weekly", 1344.7257047033459], ["biweekly", 1297.878570097687], ["triweekly", 1211.1049003167504]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.748517338299009], ["biweekly", 0.9955790154698508], ["triweekly", 1.100673097166192]],
+      "Confirmed Cumulative Cases": [["daily", 369.0], ["weekly", 360.85714285714283], ["biweekly", 348.2857142857143], ["triweekly", 325.0]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 4.214285714285714], ["triweekly", 5.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.005420054200542005], ["weekly", 0.0031599087463850587], ["biweekly", 0.0030712954792734845], ["triweekly", 0.002201637269739111]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005633802816901409], ["weekly", 0.003385096699083439], ["biweekly", 0.003497154685327232], ["triweekly", 0.002519654036406749]]
+    },
+    "lat": "REPLACE_MEUnion,Oregon"
   }]
 }

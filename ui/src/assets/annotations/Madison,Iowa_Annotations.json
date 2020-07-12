@@ -2564,5 +2564,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.046511627906976744], ["weekly", 0.053927450543991895], ["biweekly", 0.05577524988183989], ["triweekly", 0.05706241923088594]]
     },
     "lat": "REPLACE_MEMadison,Iowa"
+  }, {
+    "locale": "Madison,Iowa",
+    "long": "REPLACE_MEMadison,Iowa",
+    "date": "07/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03704127168034921], ["weekly", 0.029870256836937083], ["biweekly", 0.029638846575907745], ["triweekly", 0.021139589949331447]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.241400416207615], ["weekly", 8.743857440148295], ["biweekly", 7.869471696133467], ["triweekly", 5.537776378760588]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 336.6385114457094], ["weekly", 299.9143101970866], ["biweekly", 267.12484479653045], ["triweekly", 249.1999370442264]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.8925066993866325], ["biweekly", 0.8391104925504591], ["triweekly", 0.5594069950336394]],
+      "Confirmed Cumulative Cases": [["daily", 55.0], ["weekly", 49.0], ["biweekly", 43.642857142857146], ["triweekly", 40.714285714285715]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.4285714285714286], ["biweekly", 1.2857142857142858], ["triweekly", 0.9047619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.03636363636363636], ["weekly", 0.04090233157476769], ["biweekly", 0.04665551754253119], ["triweekly", 0.05023132942211163]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.043478260869565216], ["weekly", 0.052408703510294696], ["biweekly", 0.054895828345783604], ["triweekly", 0.05620506203444398]]
+    },
+    "lat": "REPLACE_MEMadison,Iowa"
   }]
 }

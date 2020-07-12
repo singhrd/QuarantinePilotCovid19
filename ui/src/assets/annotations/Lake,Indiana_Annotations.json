@@ -2564,5 +2564,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05185621685327048], ["weekly", 0.053722588797855346], ["biweekly", 0.05534165624677449], ["triweekly", 0.05678139281602782]]
     },
     "lat": "REPLACE_MELake,Indiana"
+  }, {
+    "locale": "Lake,Indiana",
+    "long": "REPLACE_MELake,Indiana",
+    "date": "07/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.028115025369451985], ["weekly", 0.010283877165927078], ["biweekly", 0.011047764010080055], ["triweekly", 0.010798096486717125]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.13228615036674], ["weekly", 11.181564777600146], ["biweekly", 11.534666823208571], ["triweekly", 10.887313072926458]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1159.0280395391899], ["weekly", 1087.4954501330164], ["biweekly", 1047.4625057121614], ["triweekly", 1009.3225805913734]],
+      "Daily Growth Rate": [["daily", 1.6421052631578947], ["weekly", 1.1188072155091544], ["biweekly", 1.2530368050334073], ["triweekly", 1.2245813350134793]],
+      "Confirmed Cumulative Cases": [["daily", 5627.0], ["weekly", 5279.714285714285], ["biweekly", 5085.357142857143], ["triweekly", 4900.190476190476]],
+      "Confirmed Daily Cases": [["daily", 156.0], ["weekly", 54.285714285714285], ["biweekly", 56.0], ["triweekly", 52.857142857142854]],
+      "Confirmed Fatality Rate": [["daily", 0.04691665185711747], ["weekly", 0.04933752808647416], ["biweekly", 0.05083771218866805], ["triweekly", 0.052440884523895684]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.051341890315052506], ["weekly", 0.05326692383980355], ["biweekly", 0.054885420155725784], ["triweekly", 0.056381561594870684]]
+    },
+    "lat": "REPLACE_MELake,Indiana"
   }]
 }

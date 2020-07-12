@@ -2564,5 +2564,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013157894736842105], ["weekly", 0.013699364726761988], ["biweekly", 0.014476732911977592], ["triweekly", 0.015388666230161043]]
     },
     "lat": "REPLACE_MEMuskingum,Ohio"
+  }, {
+    "locale": "Muskingum,Ohio",
+    "long": "REPLACE_MEMuskingum,Ohio",
+    "date": "07/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0408219945202557], ["weekly", 0.03337355016878644], ["biweekly", 0.020548719460841487], ["triweekly", 0.02159401558545356]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.639563880995187], ["weekly", 3.313974200710848], ["biweekly", 1.9883845204265087], ["triweekly", 1.9331516170813277]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 115.98909702487967], ["weekly", 101.07621312168087], ["biweekly", 93.20552439499258], ["triweekly", 88.15171373890855]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.9463921244845127], ["biweekly", 0.6160532050993993], ["triweekly", 0.7637599254173659]],
+      "Confirmed Cumulative Cases": [["daily", 100.0], ["weekly", 87.14285714285714], ["biweekly", 80.35714285714286], ["triweekly", 76.0]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.857142857142857], ["biweekly", 1.7142857142857142], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.01], ["weekly", 0.011513165495928042], ["biweekly", 0.012554051243341672], ["triweekly", 0.013334803397765422]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013594936990755303], ["biweekly", 0.01424562234868411], ["triweekly", 0.01516489251014672]]
+    },
+    "lat": "REPLACE_MEMuskingum,Ohio"
   }]
 }

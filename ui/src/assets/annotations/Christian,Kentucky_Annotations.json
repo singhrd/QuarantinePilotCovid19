@@ -2554,14 +2554,29 @@
     "long": "REPLACE_MEChristian,Kentucky",
     "date": "07/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0033613477027047978], ["weekly", 0.020665150558211387], ["biweekly", 0.019830838328448546], ["triweekly", 0.027702111926007435]],
-      "Confirmed Daily Cases per 100k": [["daily", 1.4192248194036419], ["weekly", 8.109856110877953], ["biweekly", 7.2988704997901594], ["triweekly", 8.853259587708433]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 422.9289961822853], ["weekly", 386.84013648887833], ["biweekly", 362.61194135763054], ["triweekly", 327.773351147984]],
-      "Daily Growth Rate": [["daily", 0.09090909090909091], ["weekly", 3.1973282339443823], ["biweekly", 2.408571167349901], ["triweekly", 2.4807345007550303]],
-      "Confirmed Cumulative Cases": [["daily", 298.0], ["weekly", 272.57142857142856], ["biweekly", 255.5], ["triweekly", 230.95238095238096]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 5.714285714285714], ["biweekly", 5.142857142857143], ["triweekly", 6.238095238095238]],
-      "Confirmed Fatality Rate": [["daily", 0.013422818791946308], ["weekly", 0.014704107095004523], ["biweekly", 0.015761515967813146], ["triweekly", 0.01626741314731499]],
+      "Spread Rate": [["daily", 0.052471051737453145], ["weekly", 0.020665150558211387], ["biweekly", 0.019830838328448546], ["triweekly", 0.027702111926007435]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.70759711045827], ["weekly", 8.109856110877953], ["biweekly", 7.2988704997901594], ["triweekly", 8.853259587708433]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 444.2173684733399], ["weekly", 386.84013648887833], ["biweekly", 362.61194135763054], ["triweekly", 327.773351147984]],
+      "Daily Growth Rate": [["daily", 1.4545454545454546], ["weekly", 3.1973282339443823], ["biweekly", 2.408571167349901], ["triweekly", 2.4807345007550303]],
+      "Confirmed Cumulative Cases": [["daily", 313.0], ["weekly", 272.57142857142856], ["biweekly", 255.5], ["triweekly", 230.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 16.0], ["weekly", 5.714285714285714], ["biweekly", 5.142857142857143], ["triweekly", 6.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.012779552715654952], ["weekly", 0.014704107095004523], ["biweekly", 0.015761515967813146], ["triweekly", 0.01626741314731499]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015267175572519083], ["weekly", 0.01681892484062177], ["biweekly", 0.01950565366790958], ["triweekly", 0.019586298576307108]]
+    },
+    "lat": "REPLACE_MEChristian,Kentucky"
+  }, {
+    "locale": "Christian,Kentucky",
+    "long": "REPLACE_MEChristian,Kentucky",
+    "date": "07/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03144913268250349], ["weekly", 0.02540838382557948], ["biweekly", 0.02326201366199048], ["triweekly", 0.029914732291590355]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.192248194036418], ["weekly", 10.340066541369392], ["biweekly", 8.819468520579774], ["triweekly", 9.866991601568175]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 458.4096166673763], ["weekly", 397.18020303024775], ["biweekly", 371.4314098782103], ["triweekly", 337.6403427495521]],
+      "Daily Growth Rate": [["daily", 0.625], ["weekly", 3.3158347274508757], ["biweekly", 2.5107665909738954], ["triweekly", 2.5305581752351065]],
+      "Confirmed Cumulative Cases": [["daily", 323.0], ["weekly", 279.85714285714283], ["biweekly", 261.7142857142857], ["triweekly", 237.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 7.285714285714286], ["biweekly", 6.214285714285714], ["triweekly", 6.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.01238390092879257], ["weekly", 0.014348732401166788], ["biweekly", 0.015410118658627943], ["triweekly", 0.01602053128347535]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01509433962264151], ["weekly", 0.016471504916089095], ["biweekly", 0.018885302222490713], ["triweekly", 0.019373457312843106]]
     },
     "lat": "REPLACE_MEChristian,Kentucky"
   }]

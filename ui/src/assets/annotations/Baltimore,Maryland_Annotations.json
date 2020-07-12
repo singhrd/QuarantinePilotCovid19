@@ -2564,5 +2564,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06033642125792296], ["weekly", 0.06094552151589678], ["biweekly", 0.06136195228734954], ["triweekly", 0.061816336750399895]]
     },
     "lat": "REPLACE_MEBaltimore,Maryland"
+  }, {
+    "locale": "Baltimore,Maryland",
+    "long": "REPLACE_MEBaltimore,Maryland",
+    "date": "07/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010982134536236643], ["weekly", 0.006784162775582406], ["biweekly", 0.007090722839753839], ["triweekly", 0.007012299759545098]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.48216638263413], ["weekly", 6.889299829580478], ["biweekly", 7.018797946677855], ["triweekly", 6.779945864031582]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1051.2829810121227], ["weekly", 1017.0609452671891], ["biweekly", 992.3440713172032], ["triweekly", 969.6243461064521]],
+      "Daily Growth Rate": [["daily", 1.1176470588235294], ["weekly", 1.0495866019535685], ["biweekly", 1.0828369466226682], ["triweekly", 1.1856643769355732]],
+      "Confirmed Cumulative Cases": [["daily", 8698.0], ["weekly", 8414.857142857143], ["biweekly", 8210.357142857143], ["triweekly", 8022.380952380952]],
+      "Confirmed Daily Cases": [["daily", 95.0], ["weekly", 57.0], ["biweekly", 58.07142857142857], ["triweekly", 56.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.05713957231547482], ["weekly", 0.0578415355285281], ["biweekly", 0.05837575170716881], ["triweekly", 0.05880250126546266]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.060205935796486976], ["weekly", 0.06079919328555055], ["biweekly", 0.06123687222809102], ["triweekly", 0.06171288829032335]]
+    },
+    "lat": "REPLACE_MEBaltimore,Maryland"
   }]
 }

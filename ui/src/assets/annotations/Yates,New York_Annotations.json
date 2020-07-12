@@ -2564,5 +2564,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.13043478260869565], ["weekly", 0.1316770186335404], ["biweekly", 0.137110096897814], ["triweekly", 0.14177303163150973]]
     },
     "lat": "REPLACE_MEYates,New York"
+  }, {
+    "locale": "Yates,New York",
+    "long": "REPLACE_MEYates,New York",
+    "date": "07/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0060799449169708685], ["biweekly", 0.004609894366969395], ["triweekly", 0.008681978894950234]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.1468481745044183], ["biweekly", 0.8601361308783139], ["triweekly", 1.5291308993392245]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 192.67049331674227], ["weekly", 192.67049331674227], ["biweekly", 188.08310061872456], ["triweekly", 182.73114247103723]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.07142857142857142], ["triweekly", 0.23809523809523808]],
+      "Confirmed Cumulative Cases": [["daily", 48.0], ["weekly", 48.0], ["biweekly", 46.857142857142854], ["triweekly", 45.523809523809526]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.21428571428571427], ["triweekly", 0.38095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.125], ["weekly", 0.125], ["biweekly", 0.1281314699792961], ["triweekly", 0.13214172091324247]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.125], ["weekly", 0.13126293995859215], ["biweekly", 0.1357125813698637], ["triweekly", 0.140658204429726]]
+    },
+    "lat": "REPLACE_MEYates,New York"
   }]
 }
