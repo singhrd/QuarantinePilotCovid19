@@ -40,7 +40,7 @@ export class LineChartWidgetComponent implements OnInit {
   windowsAvailable = ['daily', 'weekly', 'triweekly'];
   selectedWindow = this.windowsAvailable[1];
 
-  localesAvailable = ['Countries', 'US States', 'US Counties', 'All']; // 'San Diego Zip-Codes',
+  localesAvailable = ['Countries', 'US States', 'US Counties', 'San Diego Zip-Codes','All'];
   selectedLocale = this.localesAvailable[0];
 
   selectedLocations = this.selectedLocationsCountries;
@@ -103,8 +103,11 @@ export class LineChartWidgetComponent implements OnInit {
   alertOptionsStates = ['Daily High', 'Daily Low', 'Highest biweekly % Uptrend',
     'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
 
-  alertOptionsCounties = ['Highest biweekly % Uptrend',
-    'Highest biweekly % Downtrend', 'Moving Average Crossover Uptrend'];
+  alertOptionsCounties = ['Daily High','Highest biweekly % Uptrend',
+    'Moving Average Crossover Uptrend'];
+
+  alertOptionsSanDiegoCounty = ['Daily High', 'Highest biweekly % Uptrend',
+     'Moving Average Crossover Uptrend'];
 
   alertOptionsAll = ['available only for same geo-level'];
 
@@ -172,19 +175,19 @@ export class LineChartWidgetComponent implements OnInit {
       this.updateMultiselectLabels(this.locationsStates);
       this.selectedLocations = this.selectedLocationsStates;
     }
+    if (locale === 'San Diego Zip-Codes') {
+      this.availableAlerts = this.alertOptionsSanDiegoCounty;
+      this.disablePresets = false;
+      this.availableMetrics = this.metricsSDZipCodes;
+      this.updateMultiselectLabels(this.locationsZipCodesSanDiego);
+      this.selectedLocations = this.selectedLocationsZipCodesSanDiegoCounty;
+    }
     if (locale === 'All') {
       this.availableAlerts = this.availableAlertsEmpty;
       this.disablePresets = true;
       this.availableMetrics = this.metricsCounties; // use the smallest set
       this.updateMultiselectLabels(this.locations);
       this.selectedLocations = this.selectedLocationsAll;
-    }
-    if (locale === 'San Diego Zip-Codes') {
-      this.availableAlerts = this.availableAlertsEmpty;
-      this.disablePresets = true;
-      this.availableMetrics = this.metricsSDZipCodes;
-      this.updateMultiselectLabels(this.locationsZipCodesSanDiego);
-      this.selectedLocations = this.selectedLocationsZipCodesSanDiegoCounty;
     }
 
     this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
