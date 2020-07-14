@@ -601,7 +601,10 @@ object HelperFunctions {
               println("** missing key " + c._1 + " skipping it")
             }      
             case true => {
-              val (normalizerZipCode, ecZipCode) = (InputOutput.sanDiegoZipCodePopulationMap(c._1)._1, InputOutput.sanDiegoZipCodePopulationMap(c._1)._2)
+              val (invNormalizerZipCode, ecZipCode) = InputOutput.sanDiegoZipCodePopulationMap(c._1)._1 < 0.1 match {
+                case true => (0.0, InputOutput.sanDiegoZipCodePopulationMap(c._1)._2) // default to not computing it
+                case false => (1.0/InputOutput.sanDiegoZipCodePopulationMap(c._1)._1, InputOutput.sanDiegoZipCodePopulationMap(c._1)._2)
+              }
               val normalizerZipCodePD = 1.0 // replace when you have the population densities
               val confirmedCumulObserved = c._2.sortWith((a,b) => a._1<b._1).map(y => (y._1,y._3))
               val gapValues = fillGapStartDate(confirmedCumulObserved(0)._1, getDate(Constants.DefaultSanDiegoZipCodeDate))
@@ -619,10 +622,10 @@ object HelperFunctions {
                     c._1, 
                     Constants.DefaultLat+c._1, 
                     Constants.DefaultLong+c._1,
-                    confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble/normalizerZipCode,
-                    confirmedDaily(i)._2.toDouble/(normalizerZipCode*normalizerZipCodePD),
+                    confirmedDaily(i)._2, confirmedDaily(i)._2.toDouble*invNormalizerZipCode,
+                    confirmedDaily(i)._2.toDouble*invNormalizerZipCode/normalizerZipCodePD,
                     0L,0.0,
-                    activeDaily, activeDaily.toDouble/normalizerZipCode,
+                    activeDaily, activeDaily.toDouble*invNormalizerZipCode,
                     0L,0.0,
                     ecZipCode,
                     "OpenDataSanDiego",
@@ -632,10 +635,10 @@ object HelperFunctions {
                     c._1, 
                     Constants.DefaultLat+c._1, 
                     Constants.DefaultLong+c._1,
-                    confirmedCumul(i)._2, confirmedCumul(i)._2.toDouble/normalizerZipCode,
-                    confirmedCumul(i)._2.toDouble/(normalizerZipCode*normalizerZipCodePD),
+                    confirmedCumul(i)._2, confirmedCumul(i)._2.toDouble*invNormalizerZipCode,
+                    confirmedCumul(i)._2.toDouble*invNormalizerZipCode/normalizerZipCodePD,
                     0L,0.0,
-                    activeCumulative, activeCumulative.toDouble/normalizerZipCode,
+                    activeCumulative, activeCumulative.toDouble*invNormalizerZipCode,
                     0L,0.0,
                     ecZipCode,
                     "OpenDataSanDiego",
@@ -849,7 +852,7 @@ object HelperFunctions {
   /**
    * 
    */
-  def alertDescription(localeType: String, measure: MeasureType.Value): String =  {
+  def alertDescription(localeType: String, measure: MeasureType.Value, alertPrefix: Option[String] = Some("Top 5")): String =  {
          
     val localePlural = localeType match {
       case "country" => "Countries"
@@ -858,7 +861,12 @@ object HelperFunctions {
       case "sandiegozipcode" => "San Diego Zip codes"
     }
     
-    localePlural + " with " + Constants.mapMeasureToDescription(measure)
+    val localePrefix = alertPrefix match {
+      case Some(x: String) => x + " " + localePlural.toLowerCase()
+      case None => localePlural
+    }
+    
+    localePrefix + " with " + Constants.mapMeasureToDescription(measure)
     
   }
   

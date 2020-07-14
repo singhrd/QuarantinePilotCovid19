@@ -2579,5 +2579,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEMadison,Missouri"
+  }, {
+    "locale": "Madison,Missouri",
+    "long": "REPLACE_MEMadison,Missouri",
+    "date": "07/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.03997255628110162], ["triweekly", 0.0403475171612954]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 1.7727143802590528], ["triweekly", 1.5757461157858246]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 57.908669755129054], ["weekly", 57.90866975512905], ["biweekly", 53.77233620119126], ["triweekly", 44.51482777094954]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.14285714285714285], ["triweekly", 0.09523809523809523]],
+      "Confirmed Cumulative Cases": [["daily", 7.0], ["weekly", 7.0], ["biweekly", 6.5], ["triweekly", 5.380952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.21428571428571427], ["triweekly", 0.19047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMadison,Missouri"
   }]
 }

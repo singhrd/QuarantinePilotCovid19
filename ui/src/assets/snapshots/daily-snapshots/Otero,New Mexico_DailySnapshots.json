@@ -2738,18 +2738,34 @@
   }, {
     "epidemiccontrolThreshold": 0.33745,
     "source": "NYGithub",
-    "confirmedPer100kN": 1.481700992739665,
+    "confirmedPer100kN": 2.96340198547933,
     "deaths": 1,
-    "confirmed": 1,
+    "confirmed": 2,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 1.481700992739665,
+    "confirmedPer100k": 2.96340198547933,
     "locale": "Otero,New Mexico",
-    "activePer100k": 0.0,
+    "activePer100k": 1.481700992739665,
     "long": "REPLACE_MEOtero,New Mexico",
     "date": "07/11/2020",
     "deathsPer100k": 1.481700992739665,
     "lat": "REPLACE_MEOtero,New Mexico",
-    "active": 0
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.33745,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.92680397095866,
+    "deaths": 0,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.92680397095866,
+    "locale": "Otero,New Mexico",
+    "activePer100k": 5.92680397095866,
+    "long": "REPLACE_MEOtero,New Mexico",
+    "date": "07/12/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEOtero,New Mexico",
+    "active": 4
   }]
 }

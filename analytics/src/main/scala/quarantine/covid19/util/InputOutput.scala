@@ -33,26 +33,29 @@ object InputOutput extends JsonSupport {
 
   val sanDiegoPopulationByZipCodeFileName = "../data/csv/general/populationSanDiegoByZipSandag.csv"
   
-  val stateIdNameMapFile = "../data/csv/general/stateIdAndNames.csv"
+  // id to name for geo-map data setting
+  // id,name formatted csv for geo-map data setting
+  
+  val stateIdNameMapFile = "../data/csv/general/stateIdAndNames.csv" 
+  val countyIdNameMapFile = "../data/csv/general/countyIdAndNames.csv" 
+  val countryIdNameMapFile = "../data/csv/general/californiaCountiesIdAndNames.csv"
+  
   
   val countryLocaleMap = readCSV(countryMapFileName).map(x => {
-    val elements = tokenize(x,Some(Constants.CommaDelimiter))
+    val elements = tokenize(x,Some(Constants.CommaDelimiter), true)
     (elements(0) -> (elements(1),GeoLocation(elements(2),elements(3))))
   }).toMap
   
-  val stateIdsAndNames = {
-    val lines = readCSV(stateIdNameMapFile)
-    lines.slice(1,lines.length).map(x => {
-    val elements = tokenize(x,Some(Constants.CommaDelimiter))
-//    println(elements(1))
-    (elements(1) -> elements(0))
-  }).toMap
-  }
+  val stateIdsAndNames = createIdToNameMap(stateIdNameMapFile)
+  
+  val countyIdsAndNames = createIdToNameMap(countyIdNameMapFile)
+  
+//  val countryIdsAndNames = createIdToNameMap(countryIdNameMapFile)
   
   val countryPopulationECMap= {
     val lines = readCSV(countryPopulationMapFileName)
     lines.slice(1,lines.length).map(x => {
-    val elements = tokenize(x,Some(Constants.CommaDelimiter))
+    val elements = tokenize(x,Some(Constants.CommaDelimiter), true)
     (elements(0) -> (elements(1).toDouble/Constants.OneHundredThousand, elements(1).toDouble*Constants.EpidemicControlThresholdPer100k/Constants.OneHundredThousand))
   }).toMap
   }
@@ -60,7 +63,7 @@ object InputOutput extends JsonSupport {
   val countyPopulationECMap= {
     val lines = readCSV(countyPopulationMapFileName)
     lines.slice(1,lines.length).map(x => {
-    val elements = tokenize(x,Some(Constants.CommaDelimiter))
+    val elements = tokenize(x,Some(Constants.CommaDelimiter), true)
     val countyNameOnly = elements(1).replace(" County", "").replace(" Parish", "").replace(" Borough","").replace(" Municipality","").toLowerCase()
     ((countyNameOnly+","+elements(0).toLowerCase())-> (elements(2).toDouble/Constants.OneHundredThousand, elements(2).toDouble*Constants.EpidemicControlThresholdPer100k/Constants.OneHundredThousand))
   }).toMap
@@ -134,12 +137,33 @@ object InputOutput extends JsonSupport {
    * Splitting a string/line into the elements using the delimiter 
    * If the delimiter is not provided, we use the CSV delimiter
    */
-  def tokenize(line: String, delimiter: Option[String] = None): List[String] = {
-    handleCountryNames(line).split(delimiter.getOrElse(Constants.DefaultDelimiter)).toList
+  def tokenize(line: String, delimiter: Option[String] = None, handleSpecialCharacters: Boolean = false): List[String] = {
+    handleSpecialCharacters match {
+      case true => handleCountryNames(line).split(delimiter.getOrElse(Constants.DefaultDelimiter)).toList
+      case false => line.split(delimiter.getOrElse(Constants.DefaultDelimiter)).toList
+    }
   }
  
   def fixCountryNamesMisMatch(name: String): String = Constants.mappingNamesMismatch.getOrElse(name, name)
   
+  def mapLocaleToGeoMapName(localeType: String, localeString: String): String = {
+    localeType match {
+      case "state" => stateIdsAndNames(localeString)
+      case "county" => countyIdsAndNames(localeString.split(",")(0))
+      case "country" => localeString //countryIdsAndNames(localeString)
+      case "sandiegozipcode" => localeString
+    }
+  }
+  
+    
+  def createIdToNameMap(fileName: String) = {
+    val lines = readCSV(fileName)
+    lines.slice(1,lines.length).map(x => {
+    val elements = tokenize(x,Some(Constants.CommaDelimiter))
+//    println(elements(1))
+    (elements(1) -> elements(0))
+  }).toMap
+  }
   
   def handleCountryNames(line: String): String = {
     line.contains(Constants.DoubleQuotes) match {

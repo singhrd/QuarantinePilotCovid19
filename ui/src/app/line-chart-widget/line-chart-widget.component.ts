@@ -41,9 +41,9 @@ export class LineChartWidgetComponent implements OnInit {
   selectedWindow = this.windowsAvailable[1];
 
   localesAvailable = ['Countries', 'US States', 'US Counties', 'San Diego Zip-Codes','All'];
-  selectedLocale = this.localesAvailable[0];
+  selectedLocale = this.localesAvailable[1];
 
-  selectedLocations = this.selectedLocationsCountries;
+  selectedLocations = this.selectedLocationsStates;
 
   metricsCountries = [
     'Confirmed Cumulative Cases per 100k',
@@ -91,9 +91,21 @@ export class LineChartWidgetComponent implements OnInit {
     'Daily Growth Rate',
   ];
 
+  chartDescriptions = [
+    'Total confirmed cases per 100k in population.',
+    'Daily confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.',
+    'Total confirmed cases.',
+    'Daily confirmed cases. Value less than 0.5 per 100k for 21 days implies the epidemic is under control.',    
+    'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
+    'Percentage deaths today within confirmed cases a week ago. Reported Flu fatality rate in the US is 0.001.',
+    'Rate of growth of cumulative confirmed cases. Similar to rho.',
+    'Ratio of daily confirmed cases over successive days.',
+    'Positive cases percentage of the total tested.'
+  ];
+  
   initialMetricIndex = Math.floor(Math.random() * 6);
-  selectedMetric = this.metricsCountries[this.initialMetricIndex];
-  availableMetrics = this.metricsCountries;
+  selectedMetric = this.metricsStates[this.initialMetricIndex];
+  availableMetrics = this.metricsStates;
 
   scaleOptions = ['linear', 'log'];
 
@@ -111,22 +123,15 @@ export class LineChartWidgetComponent implements OnInit {
 
   alertOptionsAll = ['available only for same geo-level'];
 
-  chartDescriptions = [
-    'Rate of growth of cumulative confirmed cases. Similar to rho.',
-    'Ratio of daily confirmed cases over successive days.',
-    'Percentage deaths within confirmed cases. Reported Flu fatality rate in the US is 0.001.',
-    'Percentage deaths today within confirmed cases a week ago. Reported Flu fatality rate in the US is 0.001.',
-    'Total confirmed cases per 100k in population.',
-    'Daily confirmed cases per 100k in population. Value less than 0.5 for 21 days implies the epidemic is under control.'
-  ];
+
   chartDescriptionText = this.chartDescriptions[this.initialMetricIndex];
   noChartData = true;
 
   selectedScale = this.scaleOptions[0];
 
   alertPlaceholder = 'Available Presets';
-  selectedAlert = this.alertPlaceholder;
-  availableAlerts = this.alertOptionsCountries;
+  selectedAlert = this.alertOptionsStates[0];
+  availableAlerts = this.alertOptionsStates;
 
 
   /**
@@ -135,18 +140,22 @@ export class LineChartWidgetComponent implements OnInit {
    */
   constructor(private service: CovidReportService) {
     this.availableLocations = this.createMultiselectLabels(this.locationsCountries);
+    this.selectAlert(this.alertOptionsStates[0]);
   }
 
   resetDefaults() {
     this.selectedWindow = this.windowsAvailable[1];
     this.selectedScale = this.scaleOptions[0];
-    this.selectedMetric = this.metricsCountries[0];
-    this.selectLocale(this.localesAvailable[0]);
+    this.selectedMetric = this.metricsStates[this.initialMetricIndex];
+    this.chartDescriptionText=this.chartDescriptions[this.initialMetricIndex];
+    this.selectLocale(this.localesAvailable[1]);
     this.resetAlertDropdown();
   }
 
   resetAlertDropdown() {
-    this.selectedAlert = this.alertPlaceholder;
+    this.selectedAlert = this.alertPlaceholder; 
+//    this.selectAlert(this.selectedAlert);
+    //alertPlaceholder;
   }
 
   /**

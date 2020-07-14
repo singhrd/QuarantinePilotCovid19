@@ -10,8 +10,9 @@ import quarantine.covid19.core.GeoLocation
 import quarantine.covid19.core.JsonSupport
 import quarantine.covid19.core.Alert
 import quarantine.covid19.core.AlertUIInfo
-import quarantine.covid19.core.StateRiskList
-import quarantine.covid19.core.StateRisk
+import quarantine.covid19.core.RiskLocale
+import quarantine.covid19.core.RiskLocales
+import quarantine.covid19.core.RiskLocalesTemporal
 import quarantine.covid19.constants.Constants
 import quarantine.covid19.constants.MetricType
 import quarantine.covid19.constants.MeasureType
@@ -42,7 +43,7 @@ object Driver extends JsonSupport {
   val countyFileName = "us-counties.csv"
   val sandiegoZipCodeConfirmedFile = "sandiegozipcodesCOVID19.csv"
 
-  def update(localeType: String = "county", generateAlerts: Boolean = true, writeNewData: Boolean = true, createMapData: Boolean = true) = {
+  def update(localeType: String = "county", createMapData: Boolean = true, generateAlerts: Boolean = true, writeNewData: Boolean = true) = {
     val (dcS, ccS, dcSLocale,ccSLocale) = localeType match {
       case "county" => HelperFunctions.transformCumulativeDataCountyNYFormat(csvDirectoryName+countyFileName)
       case "state" => HelperFunctions.transformCumulativeDataCountyNYFormat(csvDirectoryName+countyFileName, "state")
@@ -53,38 +54,21 @@ object Driver extends JsonSupport {
     }
     val locales =   dcS.snapshots.map(d => d.locale).distinct.sortWith((a,b) => a<b)
     println("Found unique locales " + locales.length)
+    
     val localeDailyCovidSnapshotMap = HelperFunctions.pivotCovidSnapshotByLocale(dcS.snapshots)
     val localeCumulativeCovidSnapshotMap = HelperFunctions.pivotCovidSnapshotByLocale(ccS.snapshots)
 
-//    InputOutput.stateIdsAndNames.keys.foreach(println(_))
-    localeType match {
-      case "state" => {
-        createMapData match {
-          case true => { // do something 
-            // create a StateRiskList and print it
-            val stateRiskListLastWeek = StateRiskList(localeDailyCovidSnapshotMap.filter(y => !(y._1.equals("Hawaii") || y._1.equals("Alaska"))).map(x => {
-              val snapshotTwoweeksAgo = x._2.snapshots(x._2.snapshots.length-8)
-              StateRisk(InputOutput.stateIdsAndNames(x._1), x._1, snapshotTwoweeksAgo.confirmedPer100k)
-            }).toList)
-            val stateRiskList = StateRiskList(localeDailyCovidSnapshotMap.filter(y => !(y._1.equals("Hawaii") || y._1.equals("Alaska"))).map(x => {
-              StateRisk(InputOutput.stateIdsAndNames(x._1), x._1, x._2.snapshots.last.confirmedPer100k)
-            }).toList)
-            InputOutput.writeToFile(stateRiskListJsonImplicit.write(stateRiskListLastWeek).prettyPrint.getBytes,outputDirectoryNameMaps+"/StateRiskMapLastWeek.json")
-            InputOutput.writeToFile(stateRiskListJsonImplicit.write(stateRiskList).prettyPrint.getBytes,outputDirectoryNameMaps+"/StateRiskMap.json")
-          }
-          case false => // do nothing
-        }
-      }
-      case _ => // do nothing
-    }
-    
-    
     val alertPercentMap = scala.collection.mutable.Map[String, Double]()
     val alertTrendMap = scala.collection.mutable.Map[String, Double]()
     val alertDailyMap = scala.collection.mutable.Map[String, Double]()
 
+
+    
+    val riskLocalesTemporal = scala.collection.mutable.Map[String, List[RiskLocale]]()
+//    val riskLocalesTemporal = scala.collection.mutable.ListBuffer[(String, RiskLocale)]()
+    
     locales.foreach(locale => {
-        // we can use the sortSnapshots on this and then transform to the string, date form
+      // we can use the sortSnapshots on this and then transform to the string, date form
       val currentSnapshotDaily = localeDailyCovidSnapshotMap(locale)
       val (lat, long) = (currentSnapshotDaily.snapshots(0).lat, currentSnapshotDaily.snapshots(0).long)
       val dates = currentSnapshotDaily.snapshots.map(x => x.date)
@@ -114,17 +98,75 @@ object Driver extends JsonSupport {
               alertDailyMap.+=(locale -> metricsForLocale.last(MetricType.name(MetricType.DailyPer100k))(1)._2) 
             }
           }
+          
+ 
+          createMapData match {
+                case true => { // do something 
+                  
+                  val continueCreatingMap = localeType.equals("state") match {
+                    case true => !locale.equals("Hawaii") && !locale.equals("Alaska")
+                    case false => {
+                      localeType.equals("county") match {
+                        case true => locale.endsWith(",California")
+                        case false => {
+                          localeType.equals("sandiegozipcode") match {
+                            case true => true
+                            case false => localeType.equals("country")
+                          }
+                        }
+                      }
+                    }
+                  }
+                   continueCreatingMap match {
+                     case false => // do nothing
+                     case true => {
+                       val listRiskLocales = 
+                       Range(1,Constants.DefaultMapWindowInDays).foreach(dateKey => {
+                         val currentDateKey = dates(dates.length-dateKey)
+                         val newValueToAdd = List(RiskLocale(InputOutput.mapLocaleToGeoMapName(localeType, locale), locale, metricsForLocale(dates.length-dateKey)(MetricType.name(MetricType.DailyPer100k))(1)._2))
+                         riskLocalesTemporal.contains(currentDateKey) match {
+                           case false => {
+                             riskLocalesTemporal.+=(currentDateKey -> newValueToAdd)
+                           }
+                           case true => {
+                             val currentValue = riskLocalesTemporal(currentDateKey)
+                             riskLocalesTemporal.+=(currentDateKey -> (newValueToAdd++currentValue)) 
+                           }
+                         }
+                       })
+//                       val metricsLastWeek = metricsForLocale(metricsForLocale.length-8)
+//                       val metricsNow = metricsForLocale.last
+//                       riskLocalesLastWeek.+=((dates.last, RiskLocale(InputOutput.mapLocaleToGeoMapName(localeType, locale), locale, metricsLastWeek(MetricType.name(MetricType.DailyPer100k))(1)._2)))
+//                       riskLocalesCurrent.+=((dates(dates.length-8), RiskLocale(InputOutput.mapLocaleToGeoMapName(localeType, locale), locale, metricsNow(MetricType.name(MetricType.DailyPer100k))(1)._2)))
+                     }
+                   }
+                }
+                case false => // do nothing
+          }
+          
           writeNewData match {
             case true => {
-              val annotaionsLocale = Annotations(Range(0,metricsForLocale.length).map(i => Annotation(dates(i), locale, lat, long,metricsForLocale(i))).toList)
-              InputOutput.writeToFile(annotationsJsonImplicit.write(annotaionsLocale).prettyPrint.getBytes, outputDirectoryNameAnnotations+locale+"_Annotations.json")
+              val annotationsLocale = Annotations(Range(0,metricsForLocale.length).map(i => Annotation(dates(i), locale, lat, long,metricsForLocale(i))).toList)
+              InputOutput.writeToFile(annotationsJsonImplicit.write(annotationsLocale).prettyPrint.getBytes, outputDirectoryNameAnnotations+locale+"_Annotations.json")
             }
             case false => // do not write
           }
+
         }
       }
     })
     
+              
+    createMapData match {
+      case false => // don't write it
+      case true => {
+                val resultTOWrite = RiskLocalesTemporal(riskLocalesTemporal.toMap.toList.sortWith((y,z) => y._1<z._1).map(x => RiskLocales(x._1, x._2)))
+                InputOutput.writeToFile(riskLocalesTemporalJsonImplicit.write(resultTOWrite).prettyPrint.getBytes, outputDirectoryNameMaps+"/"+localeType+"/RiskMapMultiDays.json")
+
+//        InputOutput.writeToFile(riskLocalesJsonImplicit.write(RiskLocales(riskLocalesLastWeek(0)._1, riskLocalesLastWeek.toList.map(x => x._2))).prettyPrint.getBytes, outputDirectoryNameMaps+"/"+localeType+"/RiskMapLastWeek.json")
+//        InputOutput.writeToFile(riskLocalesJsonImplicit.write(RiskLocales(riskLocalesCurrent(0)._1, riskLocalesCurrent.toList.map(x => x._2))).prettyPrint.getBytes, outputDirectoryNameMaps+"/"+localeType+"/RiskMap.json")
+      }
+    }    
   
     generateAlerts match {
       case false => // do nothing
@@ -159,38 +201,40 @@ object Driver extends JsonSupport {
     }
   }
     
-    def writeAlerts(localeType: String, 
-                    measure: MeasureType.Value, 
-                    alertMap: Map[String, Double], 
-                    upTrend: Boolean = true, 
-                    numLocalesToSelect: Int = 5) {
+  def writeAlerts(localeType: String, 
+      measure: MeasureType.Value, 
+      alertMap: Map[String, Double], 
+      upTrend: Boolean = true, 
+      numLocalesToSelect: Int = 5) {
       
-      val alertUIInfo = HelperFunctions.generateAlertUInfo(localeType, measure, alertMap.toMap, upTrend)
-      val fileNameSuffix = "/" + MeasureType.name(measure) + "Alert.json"
-      InputOutput.writeToFile(alertUIJsonImplicit.write(alertUIInfo).prettyPrint.getBytes,
-                                          outputDirectoryNameAlerts+localeType+fileNameSuffix)
+    val alertUIInfo = HelperFunctions.generateAlertUInfo(localeType, measure, alertMap.toMap, upTrend)
+    val fileNameSuffix = "/" + MeasureType.name(measure) + "Alert.json"
+    InputOutput.writeToFile(alertUIJsonImplicit.write(alertUIInfo).prettyPrint.getBytes,
+        outputDirectoryNameAlerts+localeType+fileNameSuffix)
     }
     
-    def getAlerts(localeType: String) = update(localeType, true, false)
+  def getAlerts(localeType: String) = update(localeType, true, false)
       
-    def alertsDaily() = {
-      getAlerts("country")
-      getAlerts("state")
-      getAlerts("county")
-      getAlerts("sandiegozipcode")
+  def alertsDaily() = {
+    getAlerts("country")
+    getAlerts("state")
+    getAlerts("county")
+    getAlerts("sandiegozipcode")
     }
     
-    def updateDaily() = {
-      update("country")
-//      update("state")
-      update("county")
-//      update("sandiegozipcode")
+  def updateDaily() = {
+//    update("country", true)
+//    update("state", true)
+//    update("county", true)
+    update("sandiegozipcode", true)
     }
     
-    def main(args: Array[String]) {
-//        update("state")
-      updateDaily()
-//      alertsDaily()
+
+  def main(args: Array[String]) {
+	  updateDaily()
+//    update("state", true)
+//    update("country", true)
+//    update("county", true, false, false)
 //      InputOutput.sanDiegoZipCodePopulationMap.toList.sortWith((a,b) => a._1<b._1).foreach(x => println("    '"+x._1+"'"+","))
 //      InputOutput.sanDiegoZipCodePopulationMap.toList.foreach(x => println(x._1+","+x._2))
   }

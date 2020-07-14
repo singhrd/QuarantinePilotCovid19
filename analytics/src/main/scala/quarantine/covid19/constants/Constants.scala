@@ -39,6 +39,8 @@ object Constants {
   
   val DefaultMovingAverageWindowInDaysForAlert = 21
   
+  val DefaultMapWindowInDays = 14
+  
   val defaultMetrics = List(MetricType.SpreadRate, MetricType.DailyGrowth,
                             MetricType.CFR, MetricType.CFRTA,
                             MetricType.DailyPer100k,MetricType.CumulativePer100k, MetricType.Cumulative, MetricType.Daily)

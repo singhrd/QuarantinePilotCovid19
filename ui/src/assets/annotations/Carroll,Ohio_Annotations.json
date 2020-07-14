@@ -2579,5 +2579,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05172413793103448], ["weekly", 0.05921778762862445], ["biweekly", 0.06483412066836206], ["triweekly", 0.07014816877450514]]
     },
     "lat": "REPLACE_MECarroll,Ohio"
+  }, {
+    "locale": "Carroll,Ohio",
+    "long": "REPLACE_MECarroll,Ohio",
+    "date": "07/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04380262265839363], ["weekly", 0.020607086977792375], ["biweekly", 0.025324644120064806], ["triweekly", 0.025768141583872355]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.146615144534444], ["weekly", 4.777120776229047], ["biweekly", 5.30791197358783], ["triweekly", 4.954051175348641]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 260.08768670580366], ["weekly", 227.17863246955912], ["biweekly", 210.98950095011625], ["triweekly", 194.97729982979294]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.5897092104298896], ["biweekly", 0.6814925468415439], ["triweekly", 0.7913450440462496]],
+      "Confirmed Cumulative Cases": [["daily", 70.0], ["weekly", 61.142857142857146], ["biweekly", 56.785714285714285], ["triweekly", 52.476190476190474]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.2857142857142858], ["biweekly", 1.4285714285714286], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.04285714285714286], ["weekly", 0.049170498897763], ["biweekly", 0.053329454027264585], ["triweekly", 0.05841296393568417]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05084745762711865], ["weekly", 0.05748840915676616], ["biweekly", 0.06303419645464474], ["triweekly", 0.06875021910069339]]
+    },
+    "lat": "REPLACE_MECarroll,Ohio"
   }]
 }

@@ -2579,5 +2579,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.25], ["weekly", 0.2755102040816326], ["biweekly", 0.2908163265306122], ["triweekly", 0.2913832199546485]]
     },
     "lat": "REPLACE_MEBuffalo,Wisconsin"
+  }, {
+    "locale": "Buffalo,Wisconsin",
+    "long": "REPLACE_MEBuffalo,Wisconsin",
+    "date": "07/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.07410797215372167], ["weekly", 0.06935825939738585], ["biweekly", 0.04421708631473025], ["triweekly", 0.036818566106356275]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.674008134448622], ["weekly", 5.481434381749016], ["biweekly", 3.2888606290494096], ["triweekly", 2.5580027114828736]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 107.43611388228071], ["weekly", 76.74008134448623], ["biweekly", 66.87349945733797], ["triweekly", 61.75749403437224]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.48774479462472786], ["biweekly", 0.31530096874093533], ["triweekly", 0.21020064582729023]],
+      "Confirmed Cumulative Cases": [["daily", 14.0], ["weekly", 10.0], ["biweekly", 8.714285714285714], ["triweekly", 8.047619047619047]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.7142857142857143], ["biweekly", 0.42857142857142855], ["triweekly", 0.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.14285714285714285], ["weekly", 0.20567210567210573], ["biweekly", 0.2380401344687059], ["triweekly", 0.25846666560952275]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.25], ["weekly", 0.2704081632653061], ["biweekly", 0.28486394557823125], ["triweekly", 0.28968253968253965]]
+    },
+    "lat": "REPLACE_MEBuffalo,Wisconsin"
   }]
 }
