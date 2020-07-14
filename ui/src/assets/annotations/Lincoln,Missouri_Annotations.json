@@ -2594,5 +2594,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01020408163265306], ["weekly", 0.010295493102404527], ["biweekly", 0.010460806479132511], ["triweekly", 0.010714866352699469]]
     },
     "lat": "REPLACE_MELincoln,Missouri"
+  }, {
+    "locale": "Lincoln,Missouri",
+    "long": "REPLACE_MELincoln,Missouri",
+    "date": "07/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008368249670516192], ["weekly", 0.02773657349156533], ["biweekly", 0.015341092974549537], ["triweekly", 0.012774475552127613]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.694541880602579], ["weekly", 5.083625641807736], ["biweekly", 2.783890232418522], ["triweekly", 2.259389174136772]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 203.34502567230948], ["weekly", 184.94714239719573], ["biweekly", 175.02196852509496], ["triweekly", 170.26111276530673]],
+      "Daily Growth Rate": [["daily", 0.14285714285714285], ["weekly", 1.3272057306456975], ["biweekly", 0.8380492632019492], ["triweekly", 0.7729852230870139]],
+      "Confirmed Cumulative Cases": [["daily", 120.0], ["weekly", 109.14285714285714], ["biweekly", 103.28571428571429], ["triweekly", 100.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.0], ["biweekly", 1.6428571428571428], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.008333333333333333], ["weekly", 0.009182206330216477], ["biweekly", 0.009723665071023816], ["triweekly", 0.009997228841095836]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00980392156862745], ["weekly", 0.010265123811831155], ["biweekly", 0.010404740096535515], ["triweekly", 0.010653429626941843]]
+    },
+    "lat": "REPLACE_MELincoln,Missouri"
   }]
 }

@@ -2594,5 +2594,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00936768149882904], ["weekly", 0.0119462206691329], ["biweekly", 0.013913844275510085], ["triweekly", 0.01584354386501375]]
     },
     "lat": "REPLACE_MENapa,California"
+  }, {
+    "locale": "Napa,California",
+    "long": "REPLACE_MENapa,California",
+    "date": "07/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019418085857101808], ["weekly", 0.02537524464139234], ["biweekly", 0.04206884486250954], ["triweekly", 0.0389671582625691]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.2598443489371585], ["weekly", 8.608101156596918], ["biweekly", 11.771319051490963], ["triweekly", 9.852645902129]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 377.5119061447323], ["weekly", 344.3240462638767], ["biweekly", 302.4762291953603], ["triweekly", 264.88060667407865]],
+      "Daily Growth Rate": [["daily", 0.7692307692307693], ["weekly", 1.091938178780284], ["biweekly", 1.9032468280718218], ["triweekly", 1.5996825435876119]],
+      "Confirmed Cumulative Cases": [["daily", 520.0], ["weekly", 474.2857142857143], ["biweekly", 416.64285714285717], ["triweekly", 364.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 11.857142857142858], ["biweekly", 16.214285714285715], ["triweekly", 13.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.007692307692307693], ["weekly", 0.008449207577764144], ["biweekly", 0.009857243114909557], ["triweekly", 0.011691817934406736]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008869179600886918], ["weekly", 0.011265278652054971], ["biweekly", 0.013313123112728033], ["triweekly", 0.01525442724901596]]
+    },
+    "lat": "REPLACE_MENapa,California"
   }]
 }

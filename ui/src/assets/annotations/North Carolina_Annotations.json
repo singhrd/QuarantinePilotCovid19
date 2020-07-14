@@ -2560,8 +2560,8 @@
       "Daily Growth Rate": [["daily", 1.1359121798222687], ["weekly", 1.0494961070317084], ["biweekly", 1.0518125188184224], ["triweekly", 1.042469895681199]],
       "Confirmed Cumulative Cases": [["daily", 81821.0], ["weekly", 74835.14285714286], ["biweekly", 69289.71428571429], ["triweekly", 64144.142857142855]],
       "Confirmed Daily Cases": [["daily", 2173.0], ["weekly", 1591.4285714285713], ["biweekly", 1579.2857142857142], ["triweekly", 1486.7619047619048]],
-      "Confirmed Fatality Rate": [["daily", 0.01835714547610027], ["weekly", 0.01923724200295975], ["biweekly", 0.02026127374143513], ["triweekly", 0.02132615573372009]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021320993087001576], ["weekly", 0.02259585903000836], ["biweekly", 0.023892615218386735], ["triweekly", 0.025273630584352898]]
+      "Confirmed Fatality Rate": [["daily", 0.018369367277349335], ["weekly", 0.01923724200295975], ["biweekly", 0.02026127374143513], ["triweekly", 0.02132615573372009]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021335188155634732], ["weekly", 0.02259585903000836], ["biweekly", 0.023892615218386735], ["triweekly", 0.025273630584352898]]
     },
     "lat": "REPLACE_MENorth Carolina"
   }, {
@@ -2575,8 +2575,8 @@
       "Daily Growth Rate": [["daily", 1.0427979751495629], ["weekly", 1.0481543907579003], ["biweekly", 1.0370211469442214], ["triweekly", 1.0376676125960411]],
       "Confirmed Cumulative Cases": [["daily", 84087.0], ["weekly", 76460.0], ["biweekly", 70901.71428571429], ["triweekly", 65658.76190476191]],
       "Confirmed Daily Cases": [["daily", 2266.0], ["weekly", 1624.857142857143], ["biweekly", 1612.0], ["triweekly", 1514.6190476190477]],
-      "Confirmed Fatality Rate": [["daily", 0.018064623544662078], ["weekly", 0.018994315359738268], ["biweekly", 0.01998246439952763], ["triweekly", 0.02103586965557595]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021175453759723423], ["weekly", 0.022235016066985643], ["biweekly", 0.023531785034057336], ["triweekly", 0.02488447158624964]]
+      "Confirmed Fatality Rate": [["daily", 0.018076515989391938], ["weekly", 0.018996061331345276], ["biweekly", 0.019983337385331135], ["triweekly", 0.021036451646111617]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02118939415061198], ["weekly", 0.022237043933933238], ["biweekly", 0.023532798967531132], ["triweekly", 0.024885147541898838]]
     },
     "lat": "REPLACE_MENorth Carolina"
   }, {
@@ -2590,8 +2590,23 @@
       "Daily Growth Rate": [["daily", 0.8106796116504854], ["weekly", 1.1023049303449484], ["biweekly", 1.0508236678680656], ["triweekly", 1.0385661127920798]],
       "Confirmed Cumulative Cases": [["daily", 85924.0], ["weekly", 78224.71428571429], ["biweekly", 72571.5], ["triweekly", 67203.85714285714]],
       "Confirmed Daily Cases": [["daily", 1837.0], ["weekly", 1764.7142857142858], ["biweekly", 1669.7857142857142], ["triweekly", 1545.095238095238]],
-      "Confirmed Fatality Rate": [["daily", 0.01781807178436758], ["weekly", 0.01875901690662934], ["biweekly", 0.019703272098184517], ["triweekly", 0.020753564650085883]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02094563165239281], ["weekly", 0.021932787198483888], ["biweekly", 0.023199125456974393], ["triweekly", 0.024517887700314628]]
+      "Confirmed Fatality Rate": [["daily", 0.017829709976258087], ["weekly", 0.018762461798912045], ["biweekly", 0.019704994544325866], ["triweekly", 0.020754712947513448]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020959312665882288], ["weekly", 0.021936806549844128], ["biweekly", 0.023201135132654517], ["triweekly", 0.02451922748410137]]
+    },
+    "lat": "REPLACE_MENorth Carolina"
+  }, {
+    "locale": "North Carolina",
+    "long": "REPLACE_MENorth Carolina",
+    "date": "07/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.021028677734243217], ["weekly", 0.02310241436686538], ["biweekly", 0.02310442465582823], ["triweekly", 0.023139513774096072]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.40705433746425], ["weekly", 17.47242271551137], ["biweekly", 16.16914067819692], ["triweekly", 15.012029597348947]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 836.5109628217349], ["weekly", 763.1798992237503], ["biweekly", 707.9851559308183], ["triweekly", 655.6589041717734]],
+      "Daily Growth Rate": [["daily", 0.9940119760479041], ["weekly", 1.0671561524777238], ["biweekly", 1.0367615144302167], ["triweekly", 1.0416166911480713]],
+      "Confirmed Cumulative Cases": [["daily", 87750.0], ["weekly", 80057.57142857143], ["biweekly", 74267.64285714286], ["triweekly", 68778.61904761905]],
+      "Confirmed Daily Cases": [["daily", 1826.0], ["weekly", 1832.857142857143], ["biweekly", 1696.142857142857], ["triweekly", 1574.7619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.01762962962962963], ["weekly", 0.018545998499216954], ["biweekly", 0.019441483457381673], ["triweekly", 0.02048205843930408]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020645936207126653], ["weekly", 0.021682256577964392], ["biweekly", 0.022890013270871586], ["triweekly", 0.024175953891959485]]
     },
     "lat": "REPLACE_MENorth Carolina"
   }]

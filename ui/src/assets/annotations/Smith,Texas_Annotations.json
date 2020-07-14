@@ -2594,5 +2594,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010362694300518135], ["weekly", 0.010401336511754566], ["biweekly", 0.01127239818215851], ["triweekly", 0.012210076935437105]]
     },
     "lat": "REPLACE_MESmith,Texas"
+  }, {
+    "locale": "Smith,Texas",
+    "long": "REPLACE_MESmith,Texas",
+    "date": "07/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.10366677439526661], ["weekly", 0.07444785620355024], ["biweekly", 0.06825081750195976], ["triweekly", 0.06386542503997242]],
+      "Confirmed Daily Cases per 100k": [["daily", 61.009404900515996], ["weekly", 32.407410248966244], ["biweekly", 24.551068370428972], ["triweekly", 19.640854696343176]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 619.5462103277752], ["weekly", 505.32236473435427], ["biweekly", 401.83961155299625], ["triweekly", 331.50080067171723]],
+      "Daily Growth Rate": [["daily", 1.2158698359919928], ["weekly", 0.9717030502019133], ["biweekly", 0.8707469176363639], ["triweekly", 0.78871837128475]],
+      "Confirmed Cumulative Cases": [["daily", 1442.0], ["weekly", 1176.142857142857], ["biweekly", 935.2857142857143], ["triweekly", 771.5714285714286]],
+      "Confirmed Daily Cases": [["daily", 142.0], ["weekly", 75.42857142857143], ["biweekly", 57.142857142857146], ["triweekly", 45.714285714285715]],
+      "Confirmed Fatality Rate": [["daily", 0.005547850208044383], ["weekly", 0.006176455342728583], ["biweekly", 0.0067352844992394295], ["triweekly", 0.007834888203873751]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009422850412249705], ["weekly", 0.010453149983257156], ["biweekly", 0.010962170464128293], ["triweekly", 0.01200067439729625]]
+    },
+    "lat": "REPLACE_MESmith,Texas"
   }]
 }

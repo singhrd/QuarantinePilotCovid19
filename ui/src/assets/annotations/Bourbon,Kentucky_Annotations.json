@@ -2594,5 +2594,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.029411764705882353], ["weekly", 0.03132875584251296], ["biweekly", 0.03355344925860367], ["triweekly", 0.03542079089089384]]
     },
     "lat": "REPLACE_MEBourbon,Kentucky"
+  }, {
+    "locale": "Bourbon,Kentucky",
+    "long": "REPLACE_MEBourbon,Kentucky",
+    "date": "07/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04445176257083405], ["weekly", 0.03683272990029992], ["biweekly", 0.02735658944686468], ["triweekly", 0.023254893710187234]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.107135637760258], ["weekly", 7.219382598400186], ["biweekly", 5.05356781888013], ["triweekly", 4.090983472426771]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 232.46411966848595], ["weekly", 194.92333015680498], ["biweekly", 179.76262670016462], ["triweekly", 167.73032236949763]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.2020305089104422], ["biweekly", 0.8867295401695069], ["triweekly", 0.6248247782647448]],
+      "Confirmed Cumulative Cases": [["daily", 46.0], ["weekly", 38.57142857142857], ["biweekly", 35.57142857142857], ["triweekly", 33.19047619047619]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.4285714285714286], ["biweekly", 1.0], ["triweekly", 0.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.021739130434782608], ["weekly", 0.026086170039040017], ["biweekly", 0.028427350895958565], ["triweekly", 0.030701247979170336]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02857142857142857], ["weekly", 0.030768531752877106], ["biweekly", 0.03300878694923549], ["triweekly", 0.03483722413085649]]
+    },
+    "lat": "REPLACE_MEBourbon,Kentucky"
   }]
 }

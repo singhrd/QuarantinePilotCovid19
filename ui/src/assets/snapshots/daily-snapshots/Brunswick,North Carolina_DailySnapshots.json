@@ -2723,18 +2723,18 @@
     "epidemiccontrolThreshold": 0.7141,
     "source": "NYGithub",
     "confirmedPer100kN": 8.402184567987677,
-    "deaths": 0,
+    "deaths": 1,
     "confirmed": 12,
     "recovered": 0,
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 8.402184567987677,
     "locale": "Brunswick,North Carolina",
-    "activePer100k": 8.402184567987677,
+    "activePer100k": 7.702002520655371,
     "long": "REPLACE_MEBrunswick,North Carolina",
     "date": "07/10/2020",
-    "deathsPer100k": 0.0,
+    "deathsPer100k": 0.7001820473323065,
     "lat": "REPLACE_MEBrunswick,North Carolina",
-    "active": 12
+    "active": 11
   }, {
     "epidemiccontrolThreshold": 0.7141,
     "source": "NYGithub",
@@ -2767,5 +2767,21 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEBrunswick,North Carolina",
     "active": 11
+  }, {
+    "epidemiccontrolThreshold": 0.7141,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.00364094664613,
+    "deaths": 0,
+    "confirmed": 20,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.00364094664613,
+    "locale": "Brunswick,North Carolina",
+    "activePer100k": 14.00364094664613,
+    "long": "REPLACE_MEBrunswick,North Carolina",
+    "date": "07/13/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEBrunswick,North Carolina",
+    "active": 20
   }]
 }

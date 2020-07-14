@@ -2594,5 +2594,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.014901566024099993], ["biweekly", 0.01692518241574929], ["triweekly", 0.020260114249439538]]
     },
     "lat": "REPLACE_MEMonroe,Wisconsin"
+  }, {
+    "locale": "Monroe,Wisconsin",
+    "long": "REPLACE_MEMonroe,Wisconsin",
+    "date": "07/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.022141125877213952], ["weekly", 0.071912949325496], ["biweekly", 0.05621185255554284], ["triweekly", 0.05091420968865791]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.4860657687068946], ["weekly", 16.3695945591174], ["biweekly", 11.273400026561983], ["triweekly", 9.05990139120963]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 296.19700343761485], ["weekly", 239.36671289275446], ["biweekly", 195.81741416000816], ["triweekly", 170.49087163458123]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.950392464678179], ["biweekly", 1.7800409794580765], ["triweekly", 1.6171911346158547]],
+      "Confirmed Cumulative Cases": [["daily", 137.0], ["weekly", 110.71428571428571], ["biweekly", 90.57142857142857], ["triweekly", 78.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 7.571428571428571], ["biweekly", 5.214285714285714], ["triweekly", 4.190476190476191]],
+      "Confirmed Fatality Rate": [["daily", 0.0072992700729927005], ["weekly", 0.009251817431791348], ["biweekly", 0.01178756575575959], ["triweekly", 0.013920086877171077]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011363636363636364], ["weekly", 0.014323314079727829], ["biweekly", 0.01625422159986094], ["triweekly", 0.019359908488122662]]
+    },
+    "lat": "REPLACE_MEMonroe,Wisconsin"
   }]
 }
