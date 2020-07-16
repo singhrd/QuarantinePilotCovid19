@@ -2404,7 +2404,7 @@
     "long": "REPLACE_MEPrince William,Virginia",
     "date": "06/30/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.010348488350309992], ["weekly", 0.006195428216532913], ["biweekly", 0.006227708219870033], ["triweekly", 0.006591309184623621]],
+      "Spread Rate": [["daily", 0.010348488350311769], ["weekly", 0.006195428216532913], ["biweekly", 0.006227708219870033], ["triweekly", 0.006591309184623621]],
       "Confirmed Daily Cases per 100k": [["daily", 15.94608098482996], ["weekly", 9.294287202586606], ["biweekly", 9.142419764635843], ["triweekly", 9.436030144673982]],
       "Confirmed Cumulative Cases per 100k": [["daily", 1548.8959996598169], ["weekly", 1511.1113810976676], ["biweekly", 1473.9646057749108], ["triweekly", 1440.7157613595577]],
       "Daily Growth Rate": [["daily", 12.5], ["weekly", 1.114335971614049], ["biweekly", 1.1842507303267438], ["triweekly", 1.1320297949358054]],
@@ -2419,7 +2419,7 @@
     "long": "REPLACE_MEPrince William,Virginia",
     "date": "07/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.006294492594282275], ["weekly", 0.0064786643225599305], ["biweekly", 0.006826501693175605], ["triweekly", 0.0066461802445258586]],
+      "Spread Rate": [["daily", 0.0062944925942804986], ["weekly", 0.006478664322560184], ["biweekly", 0.006826501693175732], ["triweekly", 0.0066461802445259436]],
       "Confirmed Daily Cases per 100k": [["daily", 9.780263004029042], ["weekly", 9.810636491619194], ["biweekly", 10.083997879930564], ["triweekly", 9.608146574351512]],
       "Confirmed Cumulative Cases per 100k": [["daily", 1558.6762626638458], ["weekly", 1520.9220175892865], ["biweekly", 1484.0486036548414], ["triweekly", 1450.3239079339091]],
       "Daily Growth Rate": [["daily", 0.6133333333333333], ["weekly", 2.5686216858997635], ["biweekly", 2.0439446078777643], ["triweekly", 1.6883678231048194]],
@@ -2524,7 +2524,7 @@
     "long": "REPLACE_MEPrince William,Virginia",
     "date": "07/08/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0033982518652351246], ["weekly", 0.006759764165165295], ["biweekly", 0.006619214243862613], ["triweekly", 0.0068042558505055015]],
+      "Spread Rate": [["daily", 0.0033982518652351246], ["weekly", 0.006759764165165042], ["biweekly", 0.006619214243862613], ["triweekly", 0.0068042558505055015]],
       "Confirmed Daily Cases per 100k": [["daily", 5.52797474140772], ["weekly", 10.721841119323765], ["biweekly", 10.266238805471477], ["triweekly", 10.296612293061632]],
       "Confirmed Cumulative Cases per 100k": [["daily", 1629.476862236491], ["weekly", 1592.6945687648165], ["biweekly", 1556.8082931770514], ["triweekly", 1520.2639253581663]],
       "Daily Growth Rate": [["daily", 0.4642857142857143], ["weekly", 1.4912586952696927], ["biweekly", 2.029940190584728], ["triweekly", 1.85971597034174]],
@@ -2607,6 +2607,36 @@
       "Confirmed Daily Cases": [["daily", 38.0], ["weekly", 34.142857142857146], ["biweekly", 43.214285714285715], ["triweekly", 44.285714285714285]],
       "Confirmed Fatality Rate": [["daily", 0.020007646234229643], ["weekly", 0.019852269467891433], ["biweekly", 0.019691674274719684], ["triweekly", 0.019572486898577386]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020706937483513585], ["weekly", 0.020688879504277675], ["biweekly", 0.0205574973832436], ["triweekly", 0.020483767991312025]]
+    },
+    "lat": "REPLACE_MEPrince William,Virginia"
+  }, {
+    "locale": "Prince William,Virginia",
+    "long": "REPLACE_MEPrince William,Virginia",
+    "date": "07/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00546484171244721], ["weekly", 0.004907753721599002], ["biweekly", 0.006047310132034157], ["triweekly", 0.0060966828268670765]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.142419764635845], ["weekly", 8.04897421139036], ["biweekly", 9.673955797463508], ["triweekly", 9.547399599171207]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1677.5277196041118], ["weekly", 1644.9065939322882], ["biweekly", 1613.4396607888905], ["triweekly", 1579.3302342251493]],
+      "Daily Growth Rate": [["daily", 1.131578947368421], ["weekly", 1.6184660979692034], ["biweekly", 2.1143862061432577], ["triweekly", 1.781036127966855]],
+      "Confirmed Cumulative Cases": [["daily", 7890.0], ["weekly", 7736.571428571428], ["biweekly", 7588.571428571428], ["triweekly", 7428.142857142857]],
+      "Confirmed Daily Cases": [["daily", 43.0], ["weekly", 37.857142857142854], ["biweekly", 45.5], ["triweekly", 44.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.019898605830164767], ["weekly", 0.019940786891638074], ["biweekly", 0.01974373618623936], ["triweekly", 0.01960788935402848]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020555119141136422], ["weekly", 0.0207343920712706], ["biweekly", 0.02059847462610672], ["triweekly", 0.02051137841223802]]
+    },
+    "lat": "REPLACE_MEPrince William,Virginia"
+  }, {
+    "locale": "Prince William,Virginia",
+    "long": "REPLACE_MEPrince William,Virginia",
+    "date": "07/15/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00719836410025998], ["weekly", 0.004637192293494051], ["biweekly", 0.0056984782293295465], ["triweekly", 0.005958540260406426]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.11902154847077], ["weekly", 7.654118872718381], ["biweekly", 9.187979996021072], ["triweekly", 9.395532161220444]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1689.6467411525825], ["weekly", 1652.5607128050067], ["biweekly", 1622.6276407849114], ["triweekly", 1588.7257663863697]],
+      "Daily Growth Rate": [["daily", 1.3255813953488371], ["weekly", 1.1134535666408827], ["biweekly", 1.3023561309552876], ["triweekly", 1.7244446492701129]],
+      "Confirmed Cumulative Cases": [["daily", 7947.0], ["weekly", 7772.571428571428], ["biweekly", 7631.785714285715], ["triweekly", 7472.333333333333]],
+      "Confirmed Daily Cases": [["daily", 57.0], ["weekly", 36.0], ["biweekly", 43.214285714285715], ["triweekly", 44.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0201333836667925], ["weekly", 0.020015330551736047], ["biweekly", 0.019753162046350647], ["triweekly", 0.019638901883197758]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020876826722338204], ["weekly", 0.02076859234469307], ["biweekly", 0.020589289452106967], ["triweekly", 0.020526449102419075]]
     },
     "lat": "REPLACE_MEPrince William,Virginia"
   }]

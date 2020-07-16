@@ -2609,5 +2609,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.041666666666666664], ["weekly", 0.04246659137963486], ["biweekly", 0.04465470918968794], ["triweekly", 0.059843653847365195]]
     },
     "lat": "REPLACE_MEAroostook,Maine"
+  }, {
+    "locale": "Aroostook,Maine",
+    "long": "REPLACE_MEAroostook,Maine",
+    "date": "07/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04082199452025481], ["weekly", 0.0], ["biweekly", 0.00621509835640212], ["triweekly", 0.011124516722928832]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.491313101185594], ["weekly", 0.0], ["biweekly", 0.21304472874079913], ["triweekly", 0.3550745479013319]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 37.282827529639846], ["weekly", 35.791514428454256], ["biweekly", 35.68499206408386], ["triweekly", 34.65527587516998]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.1281214661417214], ["triweekly", 0.21683912266090347]],
+      "Confirmed Cumulative Cases": [["daily", 25.0], ["weekly", 24.0], ["biweekly", 23.928571428571427], ["triweekly", 23.238095238095237]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.0], ["biweekly", 0.14285714285714285], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.04], ["weekly", 0.041666666666666664], ["biweekly", 0.041796066252587985], ["triweekly", 0.04313655633531409]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.041666666666666664], ["weekly", 0.04192546583850931], ["biweekly", 0.04387150116963782], ["triweekly", 0.05706587606958741]]
+    },
+    "lat": "REPLACE_MEAroostook,Maine"
+  }, {
+    "locale": "Aroostook,Maine",
+    "long": "REPLACE_MEAroostook,Maine",
+    "date": "07/15/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.04082199452025481], ["weekly", 0.005831713502893544], ["biweekly", 0.005955829209932206], ["triweekly", 0.008302542244989407]],
+      "Confirmed Daily Cases per 100k": [["daily", -1.491313101185594], ["weekly", 0.21304472874079913], ["biweekly", 0.21304472874079913], ["triweekly", 0.2840596383210655]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 35.791514428454256], ["weekly", 36.004559157195054], ["biweekly", 35.89803679282466], ["triweekly", 34.939335513491045]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.07142857142857142], ["triweekly", 0.16922007504185585]],
+      "Confirmed Cumulative Cases": [["daily", 24.0], ["weekly", 24.142857142857142], ["biweekly", 24.071428571428573], ["triweekly", 23.428571428571427]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 0.14285714285714285], ["biweekly", 0.14285714285714285], ["triweekly", 0.19047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.041666666666666664], ["weekly", 0.041428571428571426], ["biweekly", 0.04154761904761905], ["triweekly", 0.04277374454393087]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.041666666666666664], ["weekly", 0.041666666666666664], ["biweekly", 0.04344633110161061], ["triweekly", 0.05428809829180962]]
+    },
+    "lat": "REPLACE_MEAroostook,Maine"
   }]
 }

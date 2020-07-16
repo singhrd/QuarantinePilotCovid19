@@ -2104,7 +2104,7 @@
     "long": "149.133333",
     "date": "6/10/20",
     "metrics": {
-      "Spread Rate": [["daily", 0.001511093082369186], ["weekly", 0.0008865189352340914], ["biweekly", 0.0013381168603196411], ["triweekly", 0.0013410962490217418]],
+      "Spread Rate": [["daily", 0.0015110930823709623], ["weekly", 0.0008865189352340914], ["biweekly", 0.0013381168603196411], ["triweekly", 0.0013410962490217418]],
       "Confirmed Daily Cases per 100k": [["daily", 0.0432404146614252], ["weekly", 0.025270372204729007], ["biweekly", 0.03790555830709352], ["triweekly", 0.037811964335964884]],
       "Confirmed Cumulative Cases per 100k": [["daily", 28.636947346225686], ["weekly", 28.529688655312277], ["biweekly", 28.400248193241392], ["triweekly", 28.249468305753176]],
       "Daily Growth Rate": [["daily", 1.5714285714285714], ["weekly", 1.2594465058750772], ["biweekly", 1.1631919771957366], ["triweekly", 1.243034192683019]],
@@ -2119,7 +2119,7 @@
     "long": "149.133333",
     "date": "6/11/20",
     "metrics": {
-      "Spread Rate": [["daily", 0.0005489227529089646], ["weekly", 0.0008851761785059356], ["biweekly", 0.0013360773529464964], ["triweekly", 0.0013524904275014546]],
+      "Spread Rate": [["daily", 0.0005489227529071883], ["weekly", 0.0008851761785061894], ["biweekly", 0.0013360773529466233], ["triweekly", 0.0013524904275015394]],
       "Confirmed Daily Cases per 100k": [["daily", 0.01572378714960916], ["weekly", 0.025270372204729007], ["biweekly", 0.03790555830709352], ["triweekly", 0.038186340220479384]],
       "Confirmed Cumulative Cases per 100k": [["daily", 28.652671133375296], ["weekly", 28.554959027517015], ["biweekly", 28.438153751548487], ["triweekly", 28.28765464597366]],
       "Daily Growth Rate": [["daily", 0.36363636363636365], ["weekly", 1.2875077303648734], ["biweekly", 1.2149973147153599], ["triweekly", 1.210721267512951]],
@@ -2224,7 +2224,7 @@
     "long": "149.133333",
     "date": "6/18/20",
     "metrics": {
-      "Spread Rate": [["daily", 0.0024324336317693707], ["weekly", 0.0020636577365118164], ["biweekly", 0.0014744169575088759], ["triweekly", 0.0015786041474682697]],
+      "Spread Rate": [["daily", 0.0024324336317693707], ["weekly", 0.0020636577365115627], ["biweekly", 0.0014744169575088759], ["triweekly", 0.0015786041474682697]],
       "Confirmed Daily Cases per 100k": [["daily", 0.07075704217324123], ["weekly", 0.059525765637806115], ["biweekly", 0.042398068921267566], ["triweekly", 0.04511229408399772]],
       "Confirmed Cumulative Cases per 100k": [["daily", 29.12438474786357], ["weekly", 28.83405624942257], ["biweekly", 28.69450763846979], ["triweekly", 28.57012125083985]],
       "Daily Growth Rate": [["daily", 0.8571428571428571], ["weekly", 1.5743242264981396], ["biweekly", 1.4309159784315066], ["triweekly", 1.3347729519762865]],
@@ -2329,7 +2329,7 @@
     "long": "149.133333",
     "date": "6/25/20",
     "metrics": {
-      "Spread Rate": [["daily", 0.004883531120439599], ["weekly", 0.0031919373035067217], ["biweekly", 0.002627797520009269], ["triweekly", 0.002046923739508158]],
+      "Spread Rate": [["daily", 0.004883531120439599], ["weekly", 0.0031919373035067217], ["biweekly", 0.002627797520009142], ["triweekly", 0.002046923739508158]],
       "Confirmed Daily Cases per 100k": [["daily", 0.14544503113388474], ["weekly", 0.09378115907088323], ["biweekly", 0.07665346235434467], ["triweekly", 0.05952576563780611]],
       "Confirmed Cumulative Cases per 100k": [["daily", 29.855540850320395], ["weekly", 29.384388799658893], ["biweekly", 29.109222524540733], ["triweekly", 28.92446802553283]],
       "Daily Growth Rate": [["daily", 1.0], ["weekly", 4.357120361849426], ["biweekly", 2.965722294173783], ["triweekly", 2.406317439570813]],
@@ -2434,7 +2434,7 @@
     "long": "149.133333",
     "date": "7/2/20",
     "metrics": {
-      "Spread Rate": [["daily", 0.008091162583188094], ["weekly", 0.00813713270581294], ["biweekly", 0.005664535004659831], ["triweekly", 0.004464242581943826]],
+      "Spread Rate": [["daily", 0.008091162583188094], ["weekly", 0.00813713270581294], ["biweekly", 0.005664535004659831], ["triweekly", 0.004464242581943741]],
       "Confirmed Daily Cases per 100k": [["daily", 0.2555115411811489], ["weekly", 0.2487727752598878], ["biweekly", 0.1712769671653855], ["triweekly", 0.1340265666561924]],
       "Confirmed Cumulative Cases per 100k": [["daily", 31.707016787186877], ["weekly", 30.549633740210286], ["biweekly", 29.967011269934584], ["triweekly", 29.58935959643058]],
       "Daily Growth Rate": [["daily", 0.8024691358024691], ["weekly", 2.7591919541108516], ["biweekly", 3.5581561579801386], ["triweekly", 2.896878847486139]],
@@ -2607,6 +2607,36 @@
       "Confirmed Daily Cases": [["daily", 271.0], ["weekly", 199.57142857142858], ["biweekly", 158.28571428571428], ["triweekly", 119.33333333333333]],
       "Confirmed Fatality Rate": [["daily", 0.010535557506584723], ["weekly", 0.01144216570911325], ["biweekly", 0.012118045105487673], ["triweekly", 0.012620203671624615]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012335808109651628], ["weekly", 0.013090456778656211], ["biweekly", 0.013404453907915902], ["triweekly", 0.013596026088139111]]
+    },
+    "lat": "-35.2666666667"
+  }, {
+    "locale": "Australia",
+    "long": "149.133333",
+    "date": "7/14/20",
+    "metrics": {
+      "Spread Rate": [["daily", 0.022761133051004023], ["weekly", 0.022535756580492766], ["biweekly", 0.019207287611259005], ["triweekly", 0.014930451296163025]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.9277034418269405], ["weekly", 0.8400994848505466], ["biweekly", 0.6786498846536668], ["triweekly", 0.5164515326877581]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 41.22383895948782], ["weekly", 37.56693531955015], ["biweekly", 35.0766805297308], ["triweekly", 33.410052685843354]],
+      "Daily Growth Rate": [["daily", 0.8708487084870848], ["weekly", 1.1552602794651416], ["biweekly", 1.2129454350292512], ["triweekly", 1.7624819550273518]],
+      "Confirmed Cumulative Cases": [["daily", 10487.0], ["weekly", 9556.714285714286], ["biweekly", 8923.214285714286], ["triweekly", 8499.238095238095]],
+      "Confirmed Daily Cases": [["daily", 236.0], ["weekly", 213.71428571428572], ["biweekly", 172.64285714285714], ["triweekly", 131.38095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.010584533231620102], ["weekly", 0.011217621464520763], ["biweekly", 0.01192233736182985], ["triweekly", 0.012473586307320676]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012491559756921], ["weekly", 0.012919748888707835], ["biweekly", 0.013294049232047451], ["triweekly", 0.013522339920034284]]
+    },
+    "lat": "-35.2666666667"
+  }, {
+    "locale": "Australia",
+    "long": "149.133333",
+    "date": "7/15/20",
+    "metrics": {
+      "Spread Rate": [["daily", 0.030335236798848086], ["weekly", 0.023665627191221766], ["biweekly", 0.020053227787566717], ["triweekly", 0.015830347000381127]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.2696958123309399], ["weekly", 0.899063686661581], ["biweekly", 0.7207671716615485], ["triweekly", 0.5551994367350093]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 42.49353477181876], ["weekly", 38.46599900621173], ["biweekly", 35.79744770139234], ["triweekly", 33.96525212257836]],
+      "Daily Growth Rate": [["daily", 1.36864406779661], ["weekly", 1.1708632511094763], ["biweekly", 1.187393812166084], ["triweekly", 1.7272313644262085]],
+      "Confirmed Cumulative Cases": [["daily", 10810.0], ["weekly", 9785.42857142857], ["biweekly", 9106.57142857143], ["triweekly", 8640.47619047619]],
+      "Confirmed Daily Cases": [["daily", 323.0], ["weekly", 228.71428571428572], ["biweekly", 183.35714285714286], ["triweekly", 141.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.010453283996299722], ["weekly", 0.011025572371182544], ["biweekly", 0.011740424511851779], ["triweekly", 0.012325469443650159]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01247791519434629], ["weekly", 0.012792280513433922], ["biweekly", 0.013198592899604985], ["triweekly", 0.013451672448357007]]
     },
     "lat": "-35.2666666667"
   }]

@@ -2114,19 +2114,19 @@
   }, {
     "epidemiccontrolThreshold": 164.38493,
     "source": "JHU",
-    "confirmedPer100kN": 778.3764082459352,
-    "deaths": 4634,
-    "confirmed": 170039,
+    "confirmedPer100kN": 815.574266933686,
+    "deaths": 4767,
+    "confirmed": 178165,
     "recovered": 69257,
     "recoveredPer100k": 210.65495480638037,
-    "confirmedPer100k": 517.1976530938693,
+    "confirmedPer100k": 541.9140306839563,
     "locale": "Peru",
-    "activePer100k": 292.44773228300187,
+    "activePer100k": 316.7595715738663,
     "long": "-77.05",
     "date": "6/2/20",
-    "deathsPer100k": 14.094966004487151,
+    "deathsPer100k": 14.499504303709593,
     "lat": "-12.05",
-    "active": 96148
+    "active": 104141
   }, {
     "epidemiccontrolThreshold": 164.38493,
     "source": "JHU",
@@ -2783,5 +2783,37 @@
     "deathsPer100k": 36.6639448032128,
     "lat": "-12.05",
     "active": 97061
+  }, {
+    "epidemiccontrolThreshold": 164.38493,
+    "source": "JHU",
+    "confirmedPer100kN": 1528.3211280461871,
+    "deaths": 12229,
+    "confirmed": 333867,
+    "recovered": 223261,
+    "recoveredPer100k": 679.0798888924916,
+    "confirmedPer100k": 1015.5036717781855,
+    "locale": "Peru",
+    "activePer100k": 299.22755084666215,
+    "long": "-77.05",
+    "date": "7/14/20",
+    "deathsPer100k": 37.196232039031806,
+    "lat": "-12.05",
+    "active": 98377
+  }, {
+    "epidemiccontrolThreshold": 164.38493,
+    "source": "JHU",
+    "confirmedPer100kN": 1546.1006607982454,
+    "deaths": 12417,
+    "confirmed": 337751,
+    "recovered": 226400,
+    "recoveredPer100k": 688.6276010824107,
+    "confirmedPer100k": 1027.31740677202,
+    "locale": "Peru",
+    "activePer100k": 300.92174507724036,
+    "long": "-77.05",
+    "date": "7/15/20",
+    "deathsPer100k": 37.768060612368785,
+    "lat": "-12.05",
+    "active": 98934
   }]
 }
