@@ -2629,12 +2629,27 @@
     "long": "REPLACE_MEKossuth,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.2818511521409879], ["weekly", 0.025383025319636068], ["biweekly", 0.021104586635273988], ["triweekly", 0.022160154747106347]],
-      "Confirmed Daily Cases per 100k": [["daily", 94.51157766826435], ["weekly", 6.750826976304596], ["biweekly", 5.304221195667898], ["triweekly", 5.143487220041597]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 384.797137649362], ["weekly", 276.7839060284885], ["biweekly", 253.15601161142237], ["triweekly", 239.49362368318685]],
-      "Daily Growth Rate": [["daily", 3.7416573867739413], ["weekly", 0.868192895598518], ["biweekly", 0.6483821620849733], ["triweekly", 0.5687321749035268]],
-      "Confirmed Cumulative Cases": [["daily", 57.0], ["weekly", 41.0], ["biweekly", 37.5], ["triweekly", 35.476190476190474]],
-      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 1.0], ["biweekly", 0.7857142857142857], ["triweekly", 0.7619047619047619]],
+      "Spread Rate": [["daily", 0.2992428948528567], ["weekly", 0.025383025319636068], ["biweekly", 0.021104586635273988], ["triweekly", 0.022160154747106347]],
+      "Confirmed Daily Cases per 100k": [["daily", 101.26240464456895], ["weekly", 6.750826976304596], ["biweekly", 5.304221195667898], ["triweekly", 5.143487220041597]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 391.5479646256666], ["weekly", 276.7839060284885], ["biweekly", 253.15601161142237], ["triweekly", 239.49362368318685]],
+      "Daily Growth Rate": [["daily", 3.872983346207417], ["weekly", 0.868192895598518], ["biweekly", 0.6483821620849733], ["triweekly", 0.5687321749035268]],
+      "Confirmed Cumulative Cases": [["daily", 58.0], ["weekly", 41.0], ["biweekly", 37.5], ["triweekly", 35.476190476190474]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 1.0], ["biweekly", 0.7857142857142857], ["triweekly", 0.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEKossuth,Iowa"
+  }, {
+    "locale": "Kossuth,Iowa",
+    "long": "REPLACE_MEKossuth,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01709443335930061], ["weekly", 0.06421787112888497], ["biweekly", 0.04247907912476375], ["triweekly", 0.02983122886006061]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.750826976304597], ["weekly", 20.25248092891379], ["biweekly", 12.537250098851393], ["triweekly", 8.679634683820195]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 398.29879160197123], ["weekly", 297.03638695740227], ["biweekly", 265.6932617102738], ["triweekly", 248.17325836700704]],
+      "Daily Growth Rate": [["daily", 0.06666666666666667], ["weekly", 1.2786190879138633], ["biweekly", 0.9250238296712173], ["triweekly", 0.6579218580562609]],
+      "Confirmed Cumulative Cases": [["daily", 59.0], ["weekly", 44.0], ["biweekly", 39.357142857142854], ["triweekly", 36.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.0], ["biweekly", 1.8571428571428572], ["triweekly", 1.2857142857142858]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },

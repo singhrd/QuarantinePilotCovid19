@@ -2629,14 +2629,29 @@
     "long": "REPLACE_MEWarren,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.029241849594497715], ["weekly", 0.020965666168695534], ["biweekly", 0.022773194271973867], ["triweekly", 0.0216241388252624]],
-      "Confirmed Daily Cases per 100k": [["daily", 19.430303501340692], ["weekly", 12.768485158023882], ["biweekly", 12.768485158023879], ["triweekly", 11.380606336499547]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 674.2315314965219], ["weekly", 620.6594089856826], ["biweekly", 577.4963776362758], ["triweekly", 534.5183967964058]],
-      "Daily Growth Rate": [["daily", 1.5811388300841898], ["weekly", 2.307823129251701], ["biweekly", 1.7643118550806063], ["triweekly", 1.7286440840060782]],
-      "Confirmed Cumulative Cases": [["daily", 347.0], ["weekly", 319.42857142857144], ["biweekly", 297.2142857142857], ["triweekly", 275.0952380952381]],
-      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 6.571428571428571], ["biweekly", 6.571428571428571], ["triweekly", 5.857142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.002881844380403458], ["weekly", 0.0031380976540836916], ["biweekly", 0.0033928079310980934], ["triweekly", 0.005155739381210727]],
+      "Spread Rate": [["daily", 0.032119549422112925], ["weekly", 0.020965666168695534], ["biweekly", 0.022773194271973867], ["triweekly", 0.0216241388252624]],
+      "Confirmed Daily Cases per 100k": [["daily", 21.37333385147476], ["weekly", 12.768485158023882], ["biweekly", 12.768485158023879], ["triweekly", 11.380606336499547]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 676.174561846656], ["weekly", 620.6594089856826], ["biweekly", 577.4963776362758], ["triweekly", 534.5183967964058]],
+      "Daily Growth Rate": [["daily", 1.6583123951777], ["weekly", 2.307823129251701], ["biweekly", 1.7643118550806063], ["triweekly", 1.7286440840060782]],
+      "Confirmed Cumulative Cases": [["daily", 348.0], ["weekly", 319.42857142857144], ["biweekly", 297.2142857142857], ["triweekly", 275.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 6.571428571428571], ["biweekly", 6.571428571428571], ["triweekly", 5.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.0028735632183908046], ["weekly", 0.0031380976540836916], ["biweekly", 0.0033928079310980934], ["triweekly", 0.005155739381210727]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.003355704697986577], ["weekly", 0.0036475182081124958], ["biweekly", 0.003994159674415247], ["triweekly", 0.005867628974490612]]
+    },
+    "lat": "REPLACE_MEWarren,Iowa"
+  }, {
+    "locale": "Warren,Iowa",
+    "long": "REPLACE_MEWarren,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04769487380801696], ["weekly", 0.02215842760986713], ["biweekly", 0.02305524230450365], ["triweekly", 0.022931640554610097]],
+      "Confirmed Daily Cases per 100k": [["daily", 33.03151595227917], ["weekly", 13.878788215243349], ["biweekly", 13.323636686633614], ["triweekly", 12.305858884182433]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 709.2060777989352], ["weekly", 634.538197200926], ["biweekly", 590.8200143229094], ["triweekly", 546.8242556805881]],
+      "Daily Growth Rate": [["daily", 1.5454545454545454], ["weekly", 1.544724899991372], ["biweekly", 1.632762740450442], ["triweekly", 1.780118470957891]],
+      "Confirmed Cumulative Cases": [["daily", 365.0], ["weekly", 326.57142857142856], ["biweekly", 304.07142857142856], ["triweekly", 281.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 17.0], ["weekly", 7.142857142857143], ["biweekly", 6.857142857142857], ["triweekly", 6.333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.0027397260273972603], ["weekly", 0.0030692202998557237], ["biweekly", 0.0033146157346792965], ["triweekly", 0.004849607840115273]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0033333333333333335], ["weekly", 0.0035600111695028684], ["biweekly", 0.003901626953507312], ["triweekly", 0.00555360306695574]]
     },
     "lat": "REPLACE_MEWarren,Iowa"
   }]

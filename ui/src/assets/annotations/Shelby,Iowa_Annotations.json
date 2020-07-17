@@ -2629,12 +2629,27 @@
     "long": "REPLACE_MEShelby,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.016393809775675727], ["weekly", 0.004802372971283576], ["biweekly", 0.009453675106048174], ["triweekly", 0.01681615662411546]],
-      "Confirmed Daily Cases per 100k": [["daily", 17.461148943600488], ["weekly", 4.988899698171567], ["biweekly", 9.35418693407169], ["triweekly", 14.96669909451471]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1073.8606600314301], ["weekly", 1040.185587068772], ["biweekly", 1012.7466387288283], ["triweekly", 967.43079980377]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.368192895598518], ["biweekly", 0.811003205490971], ["triweekly", 0.9287029691004351]],
-      "Confirmed Cumulative Cases": [["daily", 123.0], ["weekly", 119.14285714285714], ["biweekly", 116.0], ["triweekly", 110.80952380952381]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.5714285714285714], ["biweekly", 1.0714285714285714], ["triweekly", 1.7142857142857142]],
+      "Spread Rate": [["daily", 0.024491020008295727], ["weekly", 0.004802372971283576], ["biweekly", 0.009453675106048174], ["triweekly", 0.01681615662411546]],
+      "Confirmed Daily Cases per 100k": [["daily", 26.191723415400734], ["weekly", 4.988899698171567], ["biweekly", 9.35418693407169], ["triweekly", 14.96669909451471]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1082.5912345032302], ["weekly", 1040.185587068772], ["biweekly", 1012.7466387288283], ["triweekly", 967.43079980377]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 0.368192895598518], ["biweekly", 0.811003205490971], ["triweekly", 0.9287029691004351]],
+      "Confirmed Cumulative Cases": [["daily", 124.0], ["weekly", 119.14285714285714], ["biweekly", 116.0], ["triweekly", 110.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 0.5714285714285714], ["biweekly", 1.0714285714285714], ["triweekly", 1.7142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEShelby,Iowa"
+  }, {
+    "locale": "Shelby,Iowa",
+    "long": "REPLACE_MEShelby,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008032171697264445], ["weekly", 0.008301090115325824], ["biweekly", 0.010532337938795091], ["triweekly", 0.013699146307227657]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.730574471800244], ["weekly", 8.730574471800242], ["biweekly", 10.601411858614583], ["triweekly", 12.887990886943218]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1091.3218089750305], ["weekly", 1048.9161615405721], ["biweekly", 1023.3480505874429], ["triweekly", 980.3187906907134]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 0.5824786098842323], ["biweekly", 0.8943365388243044], ["triweekly", 0.9048934452909111]],
+      "Confirmed Cumulative Cases": [["daily", 125.0], ["weekly", 120.14285714285714], ["biweekly", 117.21428571428571], ["triweekly", 112.28571428571429]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.0], ["biweekly", 1.2142857142857142], ["triweekly", 1.4761904761904763]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },

@@ -2629,14 +2629,29 @@
     "long": "REPLACE_MELinn,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.016000341346440905], ["weekly", 0.012776694069663261], ["biweekly", 0.012146777499968777], ["triweekly", 0.012058079441219251]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.14529831588048], ["weekly", 7.687741580977755], ["biweekly", 7.026091690811638], ["triweekly", 6.70051793533307]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 639.1537939004703], ["weekly", 608.0877562002897], ["biweekly", 583.102596062112], ["triweekly", 560.7640354845987]],
-      "Daily Growth Rate": [["daily", 1.4375], ["weekly", 1.2532348292852495], ["biweekly", 1.2419235370916042], ["triweekly", 1.334232980259812]],
-      "Confirmed Cumulative Cases": [["daily", 1449.0], ["weekly", 1378.5714285714287], ["biweekly", 1321.9285714285713], ["triweekly", 1271.2857142857142]],
-      "Confirmed Daily Cases": [["daily", 23.0], ["weekly", 17.428571428571427], ["biweekly", 15.928571428571429], ["triweekly", 15.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.057971014492753624], ["weekly", 0.060236773704798637], ["biweekly", 0.06254048590131855], ["triweekly", 0.06493984550696251]],
+      "Spread Rate": [["daily", 0.020819627782389993], ["weekly", 0.012776694069663261], ["biweekly", 0.012146777499968777], ["triweekly", 0.012058079441219251]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.232997803322366], ["weekly", 7.687741580977755], ["biweekly", 7.026091690811638], ["triweekly", 6.70051793533307]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 642.2414933879121], ["weekly", 608.0877562002897], ["biweekly", 583.102596062112], ["triweekly", 560.7640354845987]],
+      "Daily Growth Rate": [["daily", 1.875], ["weekly", 1.2532348292852495], ["biweekly", 1.2419235370916042], ["triweekly", 1.334232980259812]],
+      "Confirmed Cumulative Cases": [["daily", 1456.0], ["weekly", 1378.5714285714287], ["biweekly", 1321.9285714285713], ["triweekly", 1271.2857142857142]],
+      "Confirmed Daily Cases": [["daily", 30.0], ["weekly", 17.428571428571427], ["biweekly", 15.928571428571429], ["triweekly", 15.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.057692307692307696], ["weekly", 0.060236773704798637], ["biweekly", 0.06254048590131855], ["triweekly", 0.06493984550696251]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0634441087613293], ["weekly", 0.06562724573050595], ["biweekly", 0.06787178054508076], ["triweekly", 0.0704926003274291]]
+    },
+    "lat": "REPLACE_MELinn,Iowa"
+  }, {
+    "locale": "Linn,Iowa",
+    "long": "REPLACE_MELinn,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02241180392737796], ["weekly", 0.013576498894239666], ["biweekly", 0.012748770034770627], ["triweekly", 0.012239115240809303]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.556297583654603], ["weekly", 8.317884333516915], ["biweekly", 7.498698755216009], ["triweekly", 6.9315702779307635]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 656.7977909715668], ["weekly", 616.4056405338066], ["biweekly", 590.601294817328], ["triweekly", 567.6956057625295]],
+      "Daily Growth Rate": [["daily", 1.1], ["weekly", 1.1639491149995354], ["biweekly", 1.2419235370916044], ["triweekly", 1.1973282183550504]],
+      "Confirmed Cumulative Cases": [["daily", 1489.0], ["weekly", 1397.4285714285713], ["biweekly", 1338.9285714285713], ["triweekly", 1287.0]],
+      "Confirmed Daily Cases": [["daily", 33.0], ["weekly", 18.857142857142858], ["biweekly", 17.0], ["triweekly", 15.714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.05708529214237743], ["weekly", 0.0596308841260994], ["biweekly", 0.06185254494244165], ["triweekly", 0.06430386218891881]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0633855331841909], ["weekly", 0.06507304967975518], ["biweekly", 0.06720177714906814], ["triweekly", 0.06985777541788268]]
     },
     "lat": "REPLACE_MELinn,Iowa"
   }]

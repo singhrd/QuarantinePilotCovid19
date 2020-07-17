@@ -2629,14 +2629,29 @@
     "long": "REPLACE_MEBremer,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02531780798428951], ["weekly", 0.029756720456745076], ["biweekly", 0.021161844010226614], ["triweekly", 0.015215365633687602]],
-      "Confirmed Daily Cases per 100k": [["daily", 11.970313622216901], ["weekly", 12.540328556608182], ["biweekly", 8.550224015869215], ["triweekly", 6.080159300173665]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 478.8125448886761], ["weekly", 436.06142480933005], ["biweekly", 402.14553621304873], ["triweekly", 382.2900159984191]],
-      "Daily Growth Rate": [["daily", 3.0], ["weekly", 1.1773688033995993], ["biweekly", 1.052970115985514], ["triweekly", 0.824711042523182]],
-      "Confirmed Cumulative Cases": [["daily", 120.0], ["weekly", 109.28571428571429], ["biweekly", 100.78571428571429], ["triweekly", 95.80952380952381]],
-      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.142857142857143], ["biweekly", 2.142857142857143], ["triweekly", 1.5238095238095237]],
-      "Confirmed Fatality Rate": [["daily", 0.058333333333333334], ["weekly", 0.06432126241369393], ["biweekly", 0.06544104479109634], ["triweekly", 0.06692405957911385]],
+      "Spread Rate": [["daily", 0.04184710993550045], ["weekly", 0.029756720456745076], ["biweekly", 0.021161844010226614], ["triweekly", 0.015215365633687602]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.950522703694837], ["weekly", 12.540328556608182], ["biweekly", 8.550224015869215], ["triweekly", 6.080159300173665]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 486.792753970154], ["weekly", 436.06142480933005], ["biweekly", 402.14553621304873], ["triweekly", 382.2900159984191]],
+      "Daily Growth Rate": [["daily", 5.0], ["weekly", 1.1773688033995993], ["biweekly", 1.052970115985514], ["triweekly", 0.824711042523182]],
+      "Confirmed Cumulative Cases": [["daily", 122.0], ["weekly", 109.28571428571429], ["biweekly", 100.78571428571429], ["triweekly", 95.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 3.142857142857143], ["biweekly", 2.142857142857143], ["triweekly", 1.5238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.05737704918032787], ["weekly", 0.06432126241369393], ["biweekly", 0.06544104479109634], ["triweekly", 0.06692405957911385]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07142857142857142], ["weekly", 0.07589991239833631], ["biweekly", 0.07371601883913996], ["triweekly", 0.07371901245723858]]
+    },
+    "lat": "REPLACE_MEBremer,Iowa"
+  }, {
+    "locale": "Bremer,Iowa",
+    "long": "REPLACE_MEBremer,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03226086221822122], ["weekly", 0.031293366580383494], ["biweekly", 0.023334587875360708], ["triweekly", 0.017208085154425717]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.960418162955868], ["weekly", 13.680358425390747], ["biweekly", 9.690253884651778], ["triweekly", 7.0301841908258]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 502.75317213310984], ["weekly", 449.7417832347208], ["biweekly", 411.83579009770057], ["triweekly", 389.32020018924493]],
+      "Daily Growth Rate": [["daily", 0.8], ["weekly", 1.463083089113885], ["biweekly", 1.3386844016997996], ["triweekly", 1.06280628061842]],
+      "Confirmed Cumulative Cases": [["daily", 126.0], ["weekly", 112.71428571428571], ["biweekly", 103.21428571428571], ["triweekly", 97.57142857142857]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 3.4285714285714284], ["biweekly", 2.4285714285714284], ["triweekly", 1.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.06231390209251627], ["biweekly", 0.06466927557670418], ["triweekly", 0.0662949554784572]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06862745098039216], ["weekly", 0.07474035766735301], ["biweekly", 0.07377604284874381], ["triweekly", 0.0734573693384526]]
     },
     "lat": "REPLACE_MEBremer,Iowa"
   }]

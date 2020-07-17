@@ -2629,14 +2629,29 @@
     "long": "REPLACE_MEMuscatine,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.012811563134200732], ["weekly", 0.010398055151183147], ["biweekly", 0.00857955929126973], ["triweekly", 0.00800459837440989]],
-      "Confirmed Daily Cases per 100k": [["daily", 21.09506844177761], ["weekly", 16.40727545471592], ["biweekly", 13.226273070638344], ["triweekly", 12.054324823872921]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1657.1348209263078], ["weekly", 1613.9401569740967], ["biweekly", 1548.6458975114515], ["triweekly", 1504.6699347280633]],
-      "Daily Growth Rate": [["daily", 3.0], ["weekly", 1.9177045177045176], ["biweekly", 1.3819097943344631], ["triweekly", 1.3220668470166264]],
-      "Confirmed Cumulative Cases": [["daily", 707.0], ["weekly", 688.5714285714286], ["biweekly", 660.7142857142857], ["triweekly", 641.952380952381]],
-      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 7.0], ["biweekly", 5.642857142857143], ["triweekly", 5.142857142857143]],
-      "Confirmed Fatality Rate": [["daily", 0.06364922206506365], ["weekly", 0.06493952470580182], ["biweekly", 0.06724137698780253], ["triweekly", 0.06901688557711945]],
+      "Spread Rate": [["daily", 0.015636423769755048], ["weekly", 0.010398055151183147], ["biweekly", 0.00857955929126973], ["triweekly", 0.00800459837440989]],
+      "Confirmed Daily Cases per 100k": [["daily", 25.7828614288393], ["weekly", 16.40727545471592], ["biweekly", 13.226273070638344], ["triweekly", 12.054324823872921]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1661.8226139133694], ["weekly", 1613.9401569740967], ["biweekly", 1548.6458975114515], ["triweekly", 1504.6699347280633]],
+      "Daily Growth Rate": [["daily", 3.6666666666666665], ["weekly", 1.9177045177045176], ["biweekly", 1.3819097943344631], ["triweekly", 1.3220668470166264]],
+      "Confirmed Cumulative Cases": [["daily", 709.0], ["weekly", 688.5714285714286], ["biweekly", 660.7142857142857], ["triweekly", 641.952380952381]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 7.0], ["biweekly", 5.642857142857143], ["triweekly", 5.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.06346967559943582], ["weekly", 0.06493952470580182], ["biweekly", 0.06724137698780253], ["triweekly", 0.06901688557711945]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06666666666666667], ["weekly", 0.07066514561570121], ["biweekly", 0.0717365722049349], ["triweekly", 0.07292509672533283]]
+    },
+    "lat": "REPLACE_MEMuscatine,Iowa"
+  }, {
+    "locale": "Muscatine,Iowa",
+    "long": "REPLACE_MEMuscatine,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014005831188919515], ["weekly", 0.007020405094228188], ["biweekly", 0.009351102413782009], ["triweekly", 0.00834733909459511]],
+      "Confirmed Daily Cases per 100k": [["daily", 23.438964935308455], ["weekly", 11.384640111435534], ["biweekly", 14.565642495513114], ["triweekly", 12.724009536310305]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1685.261578848678], ["weekly", 1625.324797085532], ["biweekly", 1563.2115400069645], ["triweekly", 1517.3939442643737]],
+      "Daily Growth Rate": [["daily", 0.9090909090909091], ["weekly", 1.6986568986568984], ["biweekly", 1.6170288419535108], ["triweekly", 1.4371462120959912]],
+      "Confirmed Cumulative Cases": [["daily", 719.0], ["weekly", 693.4285714285714], ["biweekly", 666.9285714285714], ["triweekly", 647.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 4.857142857142857], ["biweekly", 6.214285714285714], ["triweekly", 5.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.06258692628650904], ["weekly", 0.06469445190783761], ["biweekly", 0.06672210025638878], ["triweekly", 0.06859787453123423]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06578947368421052], ["weekly", 0.0700833051624781], ["biweekly", 0.07121636412170161], ["triweekly", 0.07255096671515429]]
     },
     "lat": "REPLACE_MEMuscatine,Iowa"
   }]

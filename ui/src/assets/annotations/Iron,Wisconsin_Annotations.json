@@ -2639,5 +2639,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.125], ["weekly", 0.15051020408163265], ["biweekly", 0.2228741496598639], ["triweekly", 0.31524943310657605]]
     },
     "lat": "REPLACE_MEIron,Wisconsin"
+  }, {
+    "locale": "Iron,Wisconsin",
+    "long": "REPLACE_MEIron,Wisconsin",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.13353139262452274], ["weekly", 0.13786869943479818], ["biweekly", 0.07847230633343641], ["triweekly", 0.11197025034111799]],
+      "Confirmed Daily Cases per 100k": [["daily", 52.75189027606823], ["weekly", 32.65593207566128], ["biweekly", 17.583963425356078], ["triweekly", 15.90930024198883]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 422.01512220854585], ["weekly", 248.68748273003595], ["biweekly", 192.1676002913914], ["triweekly", 156.58100764483746]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.3095238095238098], ["biweekly", 0.7261904761904762], ["triweekly", 0.6606558784692007]],
+      "Confirmed Cumulative Cases": [["daily", 24.0], ["weekly", 14.142857142857142], ["biweekly", 10.928571428571429], ["triweekly", 8.904761904761905]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.8571428571428572], ["biweekly", 1.0], ["triweekly", 0.9047619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.041666666666666664], ["weekly", 0.09285547552354274], ["biweekly", 0.11147875816993465], ["triweekly", 0.15572506780489972]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1111111111111111], ["weekly", 0.14795918367346936], ["biweekly", 0.19608843537414966], ["triweekly", 0.2973922902494332]]
+    },
+    "lat": "REPLACE_MEIron,Wisconsin"
   }]
 }

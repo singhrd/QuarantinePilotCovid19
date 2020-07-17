@@ -2639,5 +2639,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10144927536231885], ["weekly", 0.10757119229882019], ["biweekly", 0.10945507804827814], ["triweekly", 0.1115186078055594]]
     },
     "lat": "REPLACE_MEGeauga,Ohio"
+  }, {
+    "locale": "Geauga,Ohio",
+    "long": "REPLACE_MEGeauga,Ohio",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002234637801415751], ["weekly", 0.01095608868403643], ["biweekly", 0.009743703963562642], ["triweekly", 0.009131521455859149]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.0678170615810099], ["weekly", 5.033994718881904], ["biweekly", 4.3475408935798265], ["triweekly", 3.9661776573008947]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 478.38204358829245], ["weekly", 458.7037005962996], ["biweekly", 444.66953350123487], ["triweekly", 432.2625162142935]],
+      "Daily Growth Rate": [["daily", 0.09090909090909091], ["weekly", 2.225865127262643], ["biweekly", 2.0945869863941775], ["triweekly", 1.9082960861675473]],
+      "Confirmed Cumulative Cases": [["daily", 448.0], ["weekly", 429.57142857142856], ["biweekly", 416.42857142857144], ["triweekly", 404.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.714285714285714], ["biweekly", 4.071428571428571], ["triweekly", 3.7142857142857144]],
+      "Confirmed Fatality Rate": [["daily", 0.09375], ["weekly", 0.09982660784579578], ["biweekly", 0.10234974418340599], ["triweekly", 0.10430263767067054]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10120481927710843], ["weekly", 0.10631303017109284], ["biweekly", 0.10857137355905934], ["triweekly", 0.11081242711960115]]
+    },
+    "lat": "REPLACE_MEGeauga,Ohio"
   }]
 }

@@ -2639,5 +2639,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05063291139240506], ["weekly", 0.05427425993034452], ["biweekly", 0.05792149173596358], ["triweekly", 0.07227628822156025]]
     },
     "lat": "REPLACE_MEClay,Kentucky"
+  }, {
+    "locale": "Clay,Kentucky",
+    "long": "REPLACE_MEClay,Kentucky",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010256500167189486], ["weekly", 0.02932330371948019], ["biweekly", 0.03196975667559222], ["triweekly", 0.043388063446368405]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.024873121953671], ["weekly", 12.921102313595153], ["biweekly", 12.562182804884179], ["triweekly", 13.878221003491092]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 492.43756595145976], ["weekly", 427.114215366062], ["biweekly", 391.22226449496435], ["triweekly", 349.34832181201705]],
+      "Daily Growth Rate": [["daily", 0.1111111111111111], ["weekly", 1.1521977344146015], ["biweekly", 0.9630036291120626], ["triweekly", 1.0158078599600893]],
+      "Confirmed Cumulative Cases": [["daily", 98.0], ["weekly", 85.0], ["biweekly", 77.85714285714286], ["triweekly", 69.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.5714285714285716], ["biweekly", 2.5], ["triweekly", 2.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.04081632653061224], ["weekly", 0.0454563105778797], ["biweekly", 0.04403836783165179], ["triweekly", 0.048522963537396206]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05], ["weekly", 0.05459509059008901], ["biweekly", 0.05604362276948703], ["triweekly", 0.0684761991160226]]
+    },
+    "lat": "REPLACE_MEClay,Kentucky"
   }]
 }

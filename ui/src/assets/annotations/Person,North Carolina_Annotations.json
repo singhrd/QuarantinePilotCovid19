@@ -2639,5 +2639,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008064516129032258], ["weekly", 0.008771787602762064], ["biweekly", 0.009302309812332368], ["triweekly", 0.009946180005966806]]
     },
     "lat": "REPLACE_MEPerson,North Carolina"
+  }, {
+    "locale": "Person,North Carolina",
+    "long": "REPLACE_MEPerson,North Carolina",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007380107297622729], ["weekly", 0.012141887547627508], ["biweekly", 0.016603281712608848], ["triweekly", 0.015741133330240326]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.532286654849329], ["weekly", 3.9793076004775174], ["biweekly", 5.064573309698658], ["triweekly", 4.582232994489262]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 344.39098505950875], ["weekly", 329.19726513041275], ["biweekly", 312.3756466374851], ["triweekly", 295.43344306575506]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.3333333333333335], ["biweekly", 1.1287667602976041], ["triweekly", 1.017040258937587]],
+      "Confirmed Cumulative Cases": [["daily", 136.0], ["weekly", 130.0], ["biweekly", 123.35714285714286], ["triweekly", 116.66666666666667]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 2.0], ["triweekly", 1.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.007352941176470588], ["weekly", 0.007697500743024331], ["biweekly", 0.008143124296929547], ["triweekly", 0.00866048001677811]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008], ["weekly", 0.008588747850834763], ["biweekly", 0.009141969653654996], ["triweekly", 0.00975648111825004]]
+    },
+    "lat": "REPLACE_MEPerson,North Carolina"
   }]
 }

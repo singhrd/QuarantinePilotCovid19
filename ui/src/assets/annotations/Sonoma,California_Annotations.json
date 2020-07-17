@@ -2629,14 +2629,29 @@
     "long": "REPLACE_MESonoma,California",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.028745119975607025], ["weekly", 0.03395678810474972], ["biweekly", 0.03319395783029799], ["triweekly", 0.03235502619723819]],
-      "Confirmed Daily Cases per 100k": [["daily", 11.126035732780942], ["weekly", 11.530618850336612], ["biweekly", 10.129027335947326], ["triweekly", 8.958626174446993]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 392.64791558777836], ["weekly", 345.5428811866538], ["biweekly", 309.24599578308795], ["triweekly", 278.57474229982]],
-      "Daily Growth Rate": [["daily", 0.8208955223880597], ["weekly", 1.214218990236193], ["biweekly", 1.4916206881470155], ["triweekly", 1.3749440664752197]],
-      "Confirmed Cumulative Cases": [["daily", 1941.0], ["weekly", 1708.142857142857], ["biweekly", 1528.7142857142858], ["triweekly", 1377.095238095238]],
-      "Confirmed Daily Cases": [["daily", 55.0], ["weekly", 57.0], ["biweekly", 50.07142857142857], ["triweekly", 44.285714285714285]],
-      "Confirmed Fatality Rate": [["daily", 0.00824317362184441], ["weekly", 0.008877268548381712], ["biweekly", 0.008554453184063908], ["triweekly", 0.007426492570252552]],
+      "Spread Rate": [["daily", 0.048133482409162376], ["weekly", 0.03395678810474972], ["biweekly", 0.03319395783029799], ["triweekly", 0.03235502619723819]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.813114966338684], ["weekly", 11.530618850336612], ["biweekly", 10.129027335947326], ["triweekly", 8.958626174446993]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 400.33499482133607], ["weekly", 345.5428811866538], ["biweekly", 309.24599578308795], ["triweekly", 278.57474229982]],
+      "Daily Growth Rate": [["daily", 1.3880597014925373], ["weekly", 1.214218990236193], ["biweekly", 1.4916206881470155], ["triweekly", 1.3749440664752197]],
+      "Confirmed Cumulative Cases": [["daily", 1979.0], ["weekly", 1708.142857142857], ["biweekly", 1528.7142857142858], ["triweekly", 1377.095238095238]],
+      "Confirmed Daily Cases": [["daily", 93.0], ["weekly", 57.0], ["biweekly", 50.07142857142857], ["triweekly", 44.285714285714285]],
+      "Confirmed Fatality Rate": [["daily", 0.00808489135927236], ["weekly", 0.008877268548381712], ["biweekly", 0.008554453184063908], ["triweekly", 0.007426492570252552]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01053324555628703], ["weekly", 0.011230998377342987], ["biweekly", 0.010787283649759147], ["triweekly", 0.009322186589823719]]
+    },
+    "lat": "REPLACE_MESonoma,California"
+  }, {
+    "locale": "Sonoma,California",
+    "long": "REPLACE_MESonoma,California",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.037791349000970316], ["biweekly", 0.03402791685975221], ["triweekly", 0.033758840093334776]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 13.293445291114892], ["biweekly", 10.837047791669749], ["triweekly", 9.681096027224978]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 400.33499482133607], ["weekly", 358.83632647776864], ["biweekly", 320.0830435747577], ["triweekly", 288.25583832704496]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1948261584766235], ["biweekly", 1.5266278679912344], ["triweekly", 1.4002258209680618]],
+      "Confirmed Cumulative Cases": [["daily", 1979.0], ["weekly", 1773.857142857143], ["biweekly", 1582.2857142857142], ["triweekly", 1424.952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 65.71428571428571], ["biweekly", 53.57142857142857], ["triweekly", 47.857142857142854]],
+      "Confirmed Fatality Rate": [["daily", 0.00808489135927236], ["weekly", 0.008715597333741885], ["biweekly", 0.008608872077504904], ["triweekly", 0.007567036433747775]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010249839846252402], ["weekly", 0.01110840844228275], ["biweekly", 0.010879640731881733], ["triweekly", 0.00952726256572946]]
     },
     "lat": "REPLACE_MESonoma,California"
   }]

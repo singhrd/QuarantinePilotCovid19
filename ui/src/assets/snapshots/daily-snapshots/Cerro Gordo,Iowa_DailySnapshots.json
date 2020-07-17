@@ -2802,18 +2802,34 @@
   }, {
     "epidemiccontrolThreshold": 0.21225,
     "source": "NYGithub",
-    "confirmedPer100kN": 23.557126030624264,
+    "confirmedPer100kN": 25.91283863368669,
     "deaths": 8,
-    "confirmed": 10,
+    "confirmed": 11,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 23.557126030624264,
+    "confirmedPer100k": 25.91283863368669,
     "locale": "Cerro Gordo,Iowa",
-    "activePer100k": 4.7114252061248525,
+    "activePer100k": 7.06713780918728,
     "long": "REPLACE_MECerro Gordo,Iowa",
     "date": "07/15/2020",
     "deathsPer100k": 18.84570082449941,
     "lat": "REPLACE_MECerro Gordo,Iowa",
-    "active": 2
+    "active": 3
+  }, {
+    "epidemiccontrolThreshold": 0.21225,
+    "source": "NYGithub",
+    "confirmedPer100kN": 47.11425206124853,
+    "deaths": 2,
+    "confirmed": 20,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 47.11425206124853,
+    "locale": "Cerro Gordo,Iowa",
+    "activePer100k": 42.40282685512368,
+    "long": "REPLACE_MECerro Gordo,Iowa",
+    "date": "07/16/2020",
+    "deathsPer100k": 4.7114252061248525,
+    "lat": "REPLACE_MECerro Gordo,Iowa",
+    "active": 18
   }]
 }

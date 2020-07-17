@@ -2639,5 +2639,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.06045598009883725], ["biweekly", 0.06523854599593516], ["triweekly", 0.06933437031548689]]
     },
     "lat": "REPLACE_MELincoln,Oklahoma"
+  }, {
+    "locale": "Lincoln,Oklahoma",
+    "long": "REPLACE_MELincoln,Oklahoma",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0784716154414955], ["weekly", 0.036319162626320116], ["biweekly", 0.03504449403203364], ["triweekly", 0.026648370854067745]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.468876336840896], ["weekly", 4.505629989473209], ["biweekly", 3.89122589999959], ["triweekly", 2.867219084210224]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 151.96261146314188], ["weekly", 126.97684515788137], ["biweekly", 112.84555109998813], ["triweekly", 102.81028430525232]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.3571428571428572], ["biweekly", 1.1367295401695068], ["triweekly", 0.9006768363034807]],
+      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 44.285714285714285], ["biweekly", 39.357142857142854], ["triweekly", 35.857142857142854]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 1.5714285714285714], ["biweekly", 1.3571428571428572], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.03773584905660377], ["weekly", 0.04537063429370563], ["biweekly", 0.05191080093060727], ["triweekly", 0.05772081388180138]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05], ["weekly", 0.058450967567508914], ["biweekly", 0.06389590367584923], ["triweekly", 0.06787238201139334]]
+    },
+    "lat": "REPLACE_MELincoln,Oklahoma"
   }]
 }

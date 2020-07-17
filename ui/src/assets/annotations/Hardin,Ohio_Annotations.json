@@ -2639,5 +2639,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0975609756097561], ["weekly", 0.10072461533717737], ["biweekly", 0.10513403533751266], ["triweekly", 0.10728701956339752]]
     },
     "lat": "REPLACE_MEHardin,Ohio"
+  }, {
+    "locale": "Hardin,Ohio",
+    "long": "REPLACE_MEHardin,Ohio",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.023530497410193973], ["weekly", 0.003442507368437272], ["biweekly", 0.007778149159938368], ["triweekly", 0.007783479642360581]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.564801530368245], ["weekly", 1.3664002186240352], ["biweekly", 2.960533807018743], ["triweekly", 2.884622683761852]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 411.28646580583455], ["weekly", 395.34512992188746], ["biweekly", 390.10726241716196], ["triweekly", 377.43010483326117]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 0.10101525445522108], ["biweekly", 0.23089922466296395], ["triweekly", 0.23641142632620823]],
+      "Confirmed Cumulative Cases": [["daily", 129.0], ["weekly", 124.0], ["biweekly", 122.35714285714286], ["triweekly", 118.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 0.42857142857142855], ["biweekly", 0.9285714285714286], ["triweekly", 0.9047619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.09302325581395349], ["weekly", 0.0967831425253028], ["biweekly", 0.09813718502725934], ["triweekly", 0.10121479409726256]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0975609756097561], ["weekly", 0.09949122752921587], ["biweekly", 0.10409199554461805], ["triweekly", 0.10647643110037003]]
+    },
+    "lat": "REPLACE_MEHardin,Ohio"
   }]
 }

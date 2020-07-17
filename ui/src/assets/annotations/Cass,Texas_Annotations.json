@@ -2639,5 +2639,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.06354692653114462], ["biweekly", 0.05870452967032293], ["triweekly", 0.05773045742193864]]
     },
     "lat": "REPLACE_MECass,Texas"
+  }, {
+    "locale": "Cass,Texas",
+    "long": "REPLACE_MECass,Texas",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04082199452025481], ["weekly", 0.03337355016878644], ["biweekly", 0.040221003736553386], ["triweekly", 0.033007008598092635]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.99134083794045], ["weekly", 7.136672027100322], ["biweekly", 7.374561094670334], ["triweekly", 5.709337621680257]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 249.78352094851127], ["weekly", 206.0119325156293], ["biweekly", 186.02925083974836], ["triweekly", 166.0465691638675]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 0.8928571428571429], ["biweekly", 0.626966087975139], ["triweekly", 0.5004560018676584]],
+      "Confirmed Cumulative Cases": [["daily", 75.0], ["weekly", 61.857142857142854], ["biweekly", 55.857142857142854], ["triweekly", 49.857142857142854]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.142857142857143], ["biweekly", 2.2142857142857144], ["triweekly", 1.7142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.04], ["weekly", 0.04893282586730612], ["biweekly", 0.04592379971611723], ["triweekly", 0.048247288473403434]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.06061276185115195], ["biweekly", 0.058495674198309554], ["triweekly", 0.05751563465072489]]
+    },
+    "lat": "REPLACE_MECass,Texas"
   }]
 }

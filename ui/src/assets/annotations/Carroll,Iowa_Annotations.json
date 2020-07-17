@@ -2629,14 +2629,29 @@
     "long": "REPLACE_MECarroll,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.016949558313773316], ["weekly", 0.023864869237595215], ["biweekly", 0.024523809071511287], ["triweekly", 0.025146068104785552]],
-      "Confirmed Daily Cases per 100k": [["daily", 9.918175055789735], ["weekly", 12.751939357443945], ["biweekly", 12.04349828203039], ["triweekly", 11.335057206616838]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 590.1314158194892], ["weekly", 554.0009209733981], ["biweekly", 512.2028975239983], ["triweekly", 468.2795508483582]],
-      "Daily Growth Rate": [["daily", 0.7937005259840998], ["weekly", 0.5877727928343361], ["biweekly", 0.8653149678457395], ["triweekly", 0.8355270580619796]],
-      "Confirmed Cumulative Cases": [["daily", 119.0], ["weekly", 111.71428571428571], ["biweekly", 103.28571428571429], ["triweekly", 94.42857142857143]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.5714285714285716], ["biweekly", 2.4285714285714284], ["triweekly", 2.2857142857142856]],
-      "Confirmed Fatality Rate": [["daily", 0.008403361344537815], ["weekly", 0.008973180212118265], ["biweekly", 0.009769136463510146], ["triweekly", 0.010871862624410257]],
+      "Spread Rate": [["daily", 0.033616610798985036], ["weekly", 0.023864869237595215], ["biweekly", 0.024523809071511287], ["triweekly", 0.025146068104785552]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.83635011157947], ["weekly", 12.751939357443945], ["biweekly", 12.04349828203039], ["triweekly", 11.335057206616838]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 600.0495908752789], ["weekly", 554.0009209733981], ["biweekly", 512.2028975239983], ["triweekly", 468.2795508483582]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.5877727928343361], ["biweekly", 0.8653149678457395], ["triweekly", 0.8355270580619796]],
+      "Confirmed Cumulative Cases": [["daily", 121.0], ["weekly", 111.71428571428571], ["biweekly", 103.28571428571429], ["triweekly", 94.42857142857143]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.5714285714285716], ["biweekly", 2.4285714285714284], ["triweekly", 2.2857142857142856]],
+      "Confirmed Fatality Rate": [["daily", 0.008264462809917356], ["weekly", 0.008973180212118265], ["biweekly", 0.009769136463510146], ["triweekly", 0.010871862624410257]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009615384615384616], ["weekly", 0.010565092714902026], ["biweekly", 0.011821203830556255], ["triweekly", 0.012885285485321614]]
+    },
+    "lat": "REPLACE_MECarroll,Iowa"
+  }, {
+    "locale": "Carroll,Iowa",
+    "long": "REPLACE_MECarroll,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.016393809775675727], ["weekly", 0.02162852092219555], ["biweekly", 0.023563030495868404], ["triweekly", 0.025386222312163136]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.918175055789735], ["weekly", 12.043498282030393], ["biweekly", 12.043498282030393], ["triweekly", 11.80735125689254]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 609.9677659310687], ["weekly", 566.0444192554285], ["biweekly", 524.2463958060288], ["triweekly", 480.0869021052508]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.5612540640490951], ["biweekly", 0.6510292535600252], ["triweekly", 0.8415470359316798]],
+      "Confirmed Cumulative Cases": [["daily", 123.0], ["weekly", 114.14285714285714], ["biweekly", 105.71428571428571], ["triweekly", 96.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.4285714285714284], ["biweekly", 2.4285714285714284], ["triweekly", 2.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.008130081300813009], ["weekly", 0.0087801913827658], ["biweekly", 0.009538437173249729], ["triweekly", 0.010594717660965678]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009615384615384616], ["weekly", 0.010296682963733655], ["biweekly", 0.011501980800065618], ["triweekly", 0.012587303044482032]]
     },
     "lat": "REPLACE_MECarroll,Iowa"
   }]

@@ -2629,12 +2629,27 @@
     "long": "REPLACE_MEMills,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.019048194970694432], ["weekly", 0.041097438921683035], ["biweekly", 0.03034879956894757], ["triweekly", 0.024631262576013394]],
-      "Confirmed Daily Cases per 100k": [["daily", 6.618571712224502], ["weekly", 12.291633179845503], ["biweekly", 8.509592201431502], ["triweekly", 6.618571712224503]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 350.7843007478986], ["weekly", 322.4189934097936], ["biweekly", 281.7620528918431], ["triweekly", 258.75463693982465]],
-      "Daily Growth Rate": [["daily", 0.5503212081491045], ["weekly", 0.790403296588073], ["biweekly", 0.624338368890979], ["triweekly", 0.41622557926065273]],
-      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 48.714285714285715], ["biweekly", 42.57142857142857], ["triweekly", 39.095238095238095]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 1.2857142857142858], ["triweekly", 1.0]],
+      "Spread Rate": [["daily", 0.03774032798284699], ["weekly", 0.041097438921683035], ["biweekly", 0.03034879956894757], ["triweekly", 0.024631262576013394]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.237143424449004], ["weekly", 12.291633179845503], ["biweekly", 8.509592201431502], ["triweekly", 6.618571712224503]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 357.4028724601231], ["weekly", 322.4189934097936], ["biweekly", 281.7620528918431], ["triweekly", 258.75463693982465]],
+      "Daily Growth Rate": [["daily", 0.6933612743506347], ["weekly", 0.790403296588073], ["biweekly", 0.624338368890979], ["triweekly", 0.41622557926065273]],
+      "Confirmed Cumulative Cases": [["daily", 54.0], ["weekly", 48.714285714285715], ["biweekly", 42.57142857142857], ["triweekly", 39.095238095238095]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.8571428571428572], ["biweekly", 1.2857142857142858], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMills,Iowa"
+  }, {
+    "locale": "Mills,Iowa",
+    "long": "REPLACE_MEMills,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018349138668196652], ["weekly", 0.032540561552958876], ["biweekly", 0.03304453728200807], ["triweekly", 0.02642842105138706]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.618571712224502], ["weekly", 10.400612690638505], ["biweekly", 9.455102446035003], ["triweekly", 7.248911875293503]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 364.0214441723476], ["weekly", 332.81960610043205], ["biweekly", 291.21715533787807], ["triweekly", 266.0035488151181]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.6037406214953066], ["biweekly", 0.6738641742017386], ["triweekly", 0.4492427828011591]],
+      "Confirmed Cumulative Cases": [["daily", 55.0], ["weekly", 50.285714285714285], ["biweekly", 44.0], ["triweekly", 40.19047619047619]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 1.4285714285714286], ["triweekly", 1.0952380952380953]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },

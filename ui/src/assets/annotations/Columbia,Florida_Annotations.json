@@ -2639,5 +2639,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01020408163265306], ["weekly", 0.011775715622110456], ["biweekly", 0.012127831230255995], ["triweekly", 0.012696689294585445]]
     },
     "lat": "REPLACE_MEColumbia,Florida"
+  }, {
+    "locale": "Columbia,Florida",
+    "long": "REPLACE_MEColumbia,Florida",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.15706814830737148], ["weekly", 0.12326384271762514], ["biweekly", 0.08169637746355558], ["triweekly", 0.06385939502253761]],
+      "Confirmed Daily Cases per 100k": [["daily", 220.40565800853722], ["weekly", 107.0143203893169], ["biweekly", 63.072686039513584], ["triweekly", 45.5691022886849]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1516.3351281979744], ["weekly", 783.7752739128181], ["biweekly", 639.893822663122], ["triweekly", 552.1434084891384]],
+      "Daily Growth Rate": [["daily", 0.5180327868852459], ["weekly", 3.2860861418419103], ["biweekly", 2.399343796339328], ["triweekly", 2.009591390921745]],
+      "Confirmed Cumulative Cases": [["daily", 1087.0], ["weekly", 561.8571428571429], ["biweekly", 458.7142857142857], ["triweekly", 395.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 158.0], ["weekly", 76.71428571428571], ["biweekly", 45.214285714285715], ["triweekly", 32.666666666666664]],
+      "Confirmed Fatality Rate": [["daily", 0.0036798528058877645], ["weekly", 0.0076178938818952735], ["biweekly", 0.008615463094858337], ["triweekly", 0.009462977519091224]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009501187648456057], ["weekly", 0.011302939639130394], ["biweekly", 0.01197485998884938], ["triweekly", 0.01247538436525869]]
+    },
+    "lat": "REPLACE_MEColumbia,Florida"
   }]
 }

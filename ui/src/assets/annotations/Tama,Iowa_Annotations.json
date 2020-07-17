@@ -2629,14 +2629,29 @@
     "long": "REPLACE_METama,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.00407332538763594], ["weekly", 0.006562442169574975], ["biweekly", 0.00688079349560227], ["triweekly", 0.005999038231455296]],
-      "Confirmed Daily Cases per 100k": [["daily", 11.866619200189866], ["weekly", 18.64754445744122], ["biweekly", 19.07135228601943], ["triweekly", 16.38723603835744]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2919.188323246707], ["weekly", 2867.4837681601653], ["biweekly", 2802.6411703876993], ["triweekly", 2733.2779557770655]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.3142857142857143], ["biweekly", 1.0745566064599434], ["triweekly", 1.2159693486667584]],
-      "Confirmed Cumulative Cases": [["daily", 492.0], ["weekly", 483.2857142857143], ["biweekly", 472.35714285714283], ["triweekly", 460.6666666666667]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.142857142857143], ["biweekly", 3.2142857142857144], ["triweekly", 2.761904761904762]],
-      "Confirmed Fatality Rate": [["daily", 0.05894308943089431], ["weekly", 0.06001387987786624], ["biweekly", 0.06143521076909392], ["triweekly", 0.06306460310868885]],
+      "Spread Rate": [["daily", 0.006103782938017943], ["weekly", 0.006562442169574975], ["biweekly", 0.00688079349560227], ["triweekly", 0.005999038231455296]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.7999288002848], ["weekly", 18.64754445744122], ["biweekly", 19.07135228601943], ["triweekly", 16.38723603835744]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2925.121632846802], ["weekly", 2867.4837681601653], ["biweekly", 2802.6411703876993], ["triweekly", 2733.2779557770655]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.3142857142857143], ["biweekly", 1.0745566064599434], ["triweekly", 1.2159693486667584]],
+      "Confirmed Cumulative Cases": [["daily", 493.0], ["weekly", 483.2857142857143], ["biweekly", 472.35714285714283], ["triweekly", 460.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.142857142857143], ["biweekly", 3.2142857142857144], ["triweekly", 2.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.06001387987786624], ["biweekly", 0.06143521076909392], ["triweekly", 0.06306460310868885]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0613107822410148], ["weekly", 0.06285654166032158], ["biweekly", 0.06458996472410014], ["triweekly", 0.06551838115979311]]
+    },
+    "lat": "REPLACE_METama,Iowa"
+  }, {
+    "locale": "Tama,Iowa",
+    "long": "REPLACE_METama,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014098924379501554], ["weekly", 0.005916255078679608], ["biweekly", 0.006360131038572232], ["triweekly", 0.006179592668580962]],
+      "Confirmed Daily Cases per 100k": [["daily", 41.53316720066453], ["weekly", 16.952313143128382], ["biweekly", 17.7999288002848], ["triweekly", 16.952313143128386]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2966.654800047467], ["weekly", 2884.436081303294], ["biweekly", 2820.441099187984], ["triweekly", 2750.2302689201942]],
+      "Daily Growth Rate": [["daily", 2.3333333333333335], ["weekly", 1.2904761904761906], ["biweekly", 1.110270892174229], ["triweekly", 1.2397788724762822]],
+      "Confirmed Cumulative Cases": [["daily", 500.0], ["weekly", 486.14285714285717], ["biweekly", 475.35714285714283], ["triweekly", 463.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 2.857142857142857], ["biweekly", 3.0], ["triweekly", 2.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.058], ["weekly", 0.05965855804511623], ["biweekly", 0.06104392343376067], ["triweekly", 0.06267645708815592]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.060669456066945605], ["weekly", 0.062429288822405095], ["biweekly", 0.06418540660967577], ["triweekly", 0.06521893899988583]]
     },
     "lat": "REPLACE_METama,Iowa"
   }]

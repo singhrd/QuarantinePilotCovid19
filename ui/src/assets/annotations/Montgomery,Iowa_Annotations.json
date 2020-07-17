@@ -2629,14 +2629,29 @@
     "long": "REPLACE_MEMontgomery,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.06453852113757108], ["weekly", 0.05792358687259488], ["biweekly", 0.02896179343629744], ["triweekly", 0.01930786229086496]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.083694665725522], ["weekly", 7.202639046946802], ["biweekly", 3.601319523473401], ["triweekly", 2.4008796823156007]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 161.33911465160836], ["weekly", 128.20697503565307], ["biweekly", 114.52196084645414], ["triweekly", 109.96028945005453]],
-      "Daily Growth Rate": [["daily", 0.6933612743506347], ["weekly", 0.5714285714285714], ["biweekly", 0.2857142857142857], ["triweekly", 0.19047619047619047]],
-      "Confirmed Cumulative Cases": [["daily", 16.0], ["weekly", 12.714285714285714], ["biweekly", 11.357142857142858], ["triweekly", 10.904761904761905]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.7142857142857143], ["biweekly", 0.35714285714285715], ["triweekly", 0.23809523809523808]],
-      "Confirmed Fatality Rate": [["daily", 0.125], ["weekly", 0.1614718614718615], ["biweekly", 0.18073593073593072], ["triweekly", 0.18715728715728716]],
+      "Spread Rate": [["daily", 0.1251631429540061], ["weekly", 0.05792358687259488], ["biweekly", 0.02896179343629744], ["triweekly", 0.01930786229086496]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.167389331451044], ["weekly", 7.202639046946802], ["biweekly", 3.601319523473401], ["triweekly", 2.4008796823156007]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 171.42280931733387], ["weekly", 128.20697503565307], ["biweekly", 114.52196084645414], ["triweekly", 109.96028945005453]],
+      "Daily Growth Rate": [["daily", 0.8735804647362989], ["weekly", 0.5714285714285714], ["biweekly", 0.2857142857142857], ["triweekly", 0.19047619047619047]],
+      "Confirmed Cumulative Cases": [["daily", 17.0], ["weekly", 12.714285714285714], ["biweekly", 11.357142857142858], ["triweekly", 10.904761904761905]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.7142857142857143], ["biweekly", 0.35714285714285715], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.11764705882352941], ["weekly", 0.1614718614718615], ["biweekly", 0.18073593073593072], ["triweekly", 0.18715728715728716]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.2], ["weekly", 0.19999999999999998], ["biweekly", 0.2], ["triweekly", 0.2021164021164022]]
+    },
+    "lat": "REPLACE_MEMontgomery,Iowa"
+  }, {
+    "locale": "Montgomery,Iowa",
+    "long": "REPLACE_MEMontgomery,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.07580403586602433], ["biweekly", 0.037902017933012164], ["triweekly", 0.02526801195534144]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 10.083694665725522], ["biweekly", 5.041847332862761], ["triweekly", 3.361231555241841]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 171.42280931733387], ["weekly", 138.2906697013786], ["biweekly", 119.5638081793169], ["triweekly", 113.32152100529636]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6962257806766141], ["biweekly", 0.34811289033830706], ["triweekly", 0.23207526022553804]],
+      "Confirmed Cumulative Cases": [["daily", 17.0], ["weekly", 13.714285714285714], ["biweekly", 11.857142857142858], ["triweekly", 11.238095238095237]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.0], ["biweekly", 0.5], ["triweekly", 0.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.11764705882352941], ["weekly", 0.1497071555895085], ["biweekly", 0.17485357779475427], ["triweekly", 0.18323571852983617]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.18181818181818182], ["weekly", 0.19999999999999998], ["biweekly", 0.2], ["triweekly", 0.20105820105820116]]
     },
     "lat": "REPLACE_MEMontgomery,Iowa"
   }]

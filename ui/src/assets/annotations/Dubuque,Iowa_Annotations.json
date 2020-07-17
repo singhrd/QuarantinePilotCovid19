@@ -2629,14 +2629,29 @@
     "long": "REPLACE_MEDubuque,Iowa",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02893162253400572], ["weekly", 0.04573821822803849], ["biweekly", 0.0478525219070519], ["triweekly", 0.03863902727249054]],
-      "Confirmed Daily Cases per 100k": [["daily", 30.828991583685298], ["weekly", 41.10532211158039], ["biweekly", 36.62777809585467], ["triweekly", 27.795027332592458]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1081.0699715345645], ["weekly", 949.6797454993341], ["biweekly", 813.2981589219835], ["triweekly", 711.7092914176491]],
-      "Daily Growth Rate": [["daily", 1.3636363636363635], ["weekly", 1.107075131709179], ["biweekly", 2.5310001023661726], ["triweekly", 2.9058141272010314]],
-      "Confirmed Cumulative Cases": [["daily", 1052.0], ["weekly", 924.1428571428571], ["biweekly", 791.4285714285714], ["triweekly", 692.5714285714286]],
-      "Confirmed Daily Cases": [["daily", 30.0], ["weekly", 40.0], ["biweekly", 35.642857142857146], ["triweekly", 27.047619047619047]],
-      "Confirmed Fatality Rate": [["daily", 0.021863117870722433], ["weekly", 0.02475317234262901], ["biweekly", 0.02923655339366254], ["triweekly", 0.03432466730488206]],
+      "Spread Rate": [["daily", 0.030830958337658032], ["weekly", 0.04573821822803849], ["biweekly", 0.0478525219070519], ["triweekly", 0.03863902727249054]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.88425768926432], ["weekly", 41.10532211158039], ["biweekly", 36.62777809585467], ["triweekly", 27.795027332592458]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1083.1252376401435], ["weekly", 949.6797454993341], ["biweekly", 813.2981589219835], ["triweekly", 711.7092914176491]],
+      "Daily Growth Rate": [["daily", 1.4545454545454546], ["weekly", 1.107075131709179], ["biweekly", 2.5310001023661726], ["triweekly", 2.9058141272010314]],
+      "Confirmed Cumulative Cases": [["daily", 1054.0], ["weekly", 924.1428571428571], ["biweekly", 791.4285714285714], ["triweekly", 692.5714285714286]],
+      "Confirmed Daily Cases": [["daily", 32.0], ["weekly", 40.0], ["biweekly", 35.642857142857146], ["triweekly", 27.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.021821631878557873], ["weekly", 0.02475317234262901], ["biweekly", 0.02923655339366254], ["triweekly", 0.03432466730488206]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.029754204398447608], ["weekly", 0.03475643902959443], ["biweekly", 0.03962866707845776], ["triweekly", 0.044085842777374415]]
+    },
+    "lat": "REPLACE_MEDubuque,Iowa"
+  }, {
+    "locale": "Dubuque,Iowa",
+    "long": "REPLACE_MEDubuque,Iowa",
+    "date": "07/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05086625824905955], ["weekly", 0.04429552578769792], ["biweekly", 0.04698062523974305], ["triweekly", 0.03855928384071565]],
+      "Confirmed Daily Cases per 100k": [["daily", 56.519817903423046], ["weekly", 41.25212683340747], ["biweekly", 37.2883993440765], ["triweekly", 28.6269207562792]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1139.6450555435665], ["weekly", 990.9318723327418], ["biweekly", 850.58655826606], ["triweekly", 740.3362121739282]],
+      "Daily Growth Rate": [["daily", 1.71875], ["weekly", 1.204153053787101], ["biweekly", 2.5602208815869516], ["triweekly", 2.951268672655577]],
+      "Confirmed Cumulative Cases": [["daily", 1109.0], ["weekly", 964.2857142857143], ["biweekly", 827.7142857142857], ["triweekly", 720.4285714285714]],
+      "Confirmed Daily Cases": [["daily", 55.0], ["weekly", 40.142857142857146], ["biweekly", 36.285714285714285], ["triweekly", 27.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.020739404869251576], ["weekly", 0.0238047564199022], ["biweekly", 0.02791716707834237], ["triweekly", 0.033130063319811866]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.027544910179640718], ["weekly", 0.03325089104465262], ["biweekly", 0.03840337342370174], ["triweekly", 0.04285050953293642]]
     },
     "lat": "REPLACE_MEDubuque,Iowa"
   }]
