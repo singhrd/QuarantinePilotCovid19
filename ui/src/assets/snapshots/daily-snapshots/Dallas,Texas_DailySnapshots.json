@@ -2802,22 +2802,6 @@
   }, {
     "epidemiccontrolThreshold": 13.17758,
     "source": "NYGithub",
-    "confirmedPer100kN": 0.0,
-    "deaths": 0,
-    "confirmed": 0,
-    "recovered": 0,
-    "recoveredPer100k": 0.0,
-    "confirmedPer100k": 0.0,
-    "locale": "Dallas,Texas",
-    "activePer100k": 0.0,
-    "long": "REPLACE_MEDallas,Texas",
-    "date": "07/15/2020",
-    "deathsPer100k": 0.0,
-    "lat": "REPLACE_MEDallas,Texas",
-    "active": 0
-  }, {
-    "epidemiccontrolThreshold": 13.17758,
-    "source": "NYGithub",
     "confirmedPer100kN": 40.03011175041244,
     "deaths": 8,
     "confirmed": 1055,
@@ -2827,9 +2811,25 @@
     "locale": "Dallas,Texas",
     "activePer100k": 39.72656587931927,
     "long": "REPLACE_MEDallas,Texas",
-    "date": "07/16/2020",
+    "date": "07/15/2020",
     "deathsPer100k": 0.3035458710931749,
     "lat": "REPLACE_MEDallas,Texas",
     "active": 1047
+  }, {
+    "epidemiccontrolThreshold": 13.17758,
+    "source": "NYGithub",
+    "confirmedPer100kN": 38.96770120158633,
+    "deaths": 16,
+    "confirmed": 1027,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 38.96770120158633,
+    "locale": "Dallas,Texas",
+    "activePer100k": 38.36060945939998,
+    "long": "REPLACE_MEDallas,Texas",
+    "date": "07/16/2020",
+    "deathsPer100k": 0.6070917421863498,
+    "lat": "REPLACE_MEDallas,Texas",
+    "active": 1011
   }]
 }
