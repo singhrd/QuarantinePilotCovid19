@@ -2802,19 +2802,19 @@
   }, {
     "epidemiccontrolThreshold": 3.65,
     "source": "NYGithub",
-    "confirmedPer100kN": 7.808219178082192,
+    "confirmedPer100kN": 8.356164383561644,
     "deaths": 0,
-    "confirmed": 57,
+    "confirmed": 61,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 7.808219178082192,
+    "confirmedPer100k": 8.356164383561644,
     "locale": "Alaska",
-    "activePer100k": 7.808219178082192,
+    "activePer100k": 8.356164383561644,
     "long": "REPLACE_MEAlaska",
     "date": "07/15/2020",
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEAlaska",
-    "active": 57
+    "active": 61
   }, {
     "epidemiccontrolThreshold": 3.65,
     "source": "NYGithub",
@@ -2831,5 +2831,37 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEAlaska",
     "active": 76
+  }, {
+    "epidemiccontrolThreshold": 3.65,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.712328767123288,
+    "deaths": 0,
+    "confirmed": 49,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.712328767123288,
+    "locale": "Alaska",
+    "activePer100k": 6.712328767123288,
+    "long": "REPLACE_MEAlaska",
+    "date": "07/17/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEAlaska",
+    "active": 49
+  }, {
+    "epidemiccontrolThreshold": 3.65,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.136986301369863,
+    "deaths": 1,
+    "confirmed": 74,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.136986301369863,
+    "locale": "Alaska",
+    "activePer100k": 10.0,
+    "long": "REPLACE_MEAlaska",
+    "date": "07/18/2020",
+    "deathsPer100k": 0.136986301369863,
+    "lat": "REPLACE_MEAlaska",
+    "active": 73
   }]
 }

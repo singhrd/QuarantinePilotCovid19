@@ -2629,13 +2629,13 @@
     "long": "REPLACE_MEAlaska",
     "date": "07/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.029604862667713228], ["weekly", 0.04107233883502318], ["biweekly", 0.03687769365513471], ["triweekly", 0.03524257267786137]],
-      "Confirmed Daily Cases per 100k": [["daily", 7.808219178082192], ["weekly", 9.275929549902154], ["biweekly", 7.485322896281802], ["triweekly", 6.470971950424004]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 267.67123287671234], ["weekly", 229.74559686888455], ["biweekly", 205.0489236790607], ["triweekly", 183.67906066536207]],
-      "Daily Growth Rate": [["daily", 1.0555555555555556], ["weekly", 1.2310940365499246], ["biweekly", 1.0765049749586029], ["triweekly", 1.1065428564643227]],
-      "Confirmed Cumulative Cases": [["daily", 1954.0], ["weekly", 1677.142857142857], ["biweekly", 1496.857142857143], ["triweekly", 1340.857142857143]],
-      "Confirmed Daily Cases": [["daily", 57.0], ["weekly", 67.71428571428571], ["biweekly", 54.642857142857146], ["triweekly", 47.23809523809524]],
-      "Confirmed Fatality Rate": [["daily", 0.007676560900716479], ["weekly", 0.009017277409359826], ["biweekly", 0.009605142854470944], ["triweekly", 0.010105890308202973]],
+      "Spread Rate": [["daily", 0.03164985315544122], ["weekly", 0.04107233883502318], ["biweekly", 0.03687769365513471], ["triweekly", 0.03524257267786137]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.356164383561644], ["weekly", 9.275929549902154], ["biweekly", 7.485322896281802], ["triweekly", 6.470971950424004]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 268.2191780821918], ["weekly", 229.74559686888455], ["biweekly", 205.0489236790607], ["triweekly", 183.67906066536207]],
+      "Daily Growth Rate": [["daily", 1.1296296296296295], ["weekly", 1.2310940365499246], ["biweekly", 1.0765049749586029], ["triweekly", 1.1065428564643227]],
+      "Confirmed Cumulative Cases": [["daily", 1958.0], ["weekly", 1677.142857142857], ["biweekly", 1496.857142857143], ["triweekly", 1340.857142857143]],
+      "Confirmed Daily Cases": [["daily", 61.0], ["weekly", 67.71428571428571], ["biweekly", 54.642857142857146], ["triweekly", 47.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.007660878447395302], ["weekly", 0.009017277409359826], ["biweekly", 0.009605142854470944], ["triweekly", 0.010105890308202973]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010190217391304348], ["weekly", 0.011443576231935749], ["biweekly", 0.012243071239529793], ["triweekly", 0.012701147296388948]]
     },
     "lat": "REPLACE_MEAlaska"
@@ -2644,14 +2644,44 @@
     "long": "REPLACE_MEAlaska",
     "date": "07/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.03815723943310534], ["weekly", 0.04046521904484379], ["biweekly", 0.03639013087247754], ["triweekly", 0.035559980855073725]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.41095890410959], ["weekly", 9.432485322896282], ["biweekly", 7.632093933463798], ["triweekly", 6.705805609915198]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 278.0821917808219], ["weekly", 239.17808219178082], ["biweekly", 212.6810176125245], ["triweekly", 190.38486627527726]],
-      "Daily Growth Rate": [["daily", 1.3333333333333333], ["weekly", 1.0637058691617571], ["biweekly", 1.0880720131213857], ["triweekly", 1.1290296289510953]],
-      "Confirmed Cumulative Cases": [["daily", 2030.0], ["weekly", 1746.0], ["biweekly", 1552.5714285714287], ["triweekly", 1389.8095238095239]],
-      "Confirmed Daily Cases": [["daily", 76.0], ["weekly", 68.85714285714286], ["biweekly", 55.714285714285715], ["triweekly", 48.95238095238095]],
-      "Confirmed Fatality Rate": [["daily", 0.007389162561576354], ["weekly", 0.00865818362499013], ["biweekly", 0.00942336398476062], ["triweekly", 0.009957196252564974]],
+      "Spread Rate": [["daily", 0.038080753518049626], ["weekly", 0.04075736054309065], ["biweekly", 0.03653620162160097], ["triweekly", 0.035657361354489346]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.41095890410959], ["weekly", 9.510763209393346], ["biweekly", 7.67123287671233], ["triweekly", 6.731898238747552]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 278.63013698630135], ["weekly", 239.25636007827788], ["biweekly", 212.720156555773], ["triweekly", 190.4109589041096]],
+      "Daily Growth Rate": [["daily", 1.2459016393442623], ["weekly", 1.0742878797437678], ["biweekly", 1.093363018412391], ["triweekly", 1.1325569658117653]],
+      "Confirmed Cumulative Cases": [["daily", 2034.0], ["weekly", 1746.5714285714287], ["biweekly", 1552.857142857143], ["triweekly", 1390.0]],
+      "Confirmed Daily Cases": [["daily", 76.0], ["weekly", 69.42857142857143], ["biweekly", 56.0], ["triweekly", 49.142857142857146]],
+      "Confirmed Fatality Rate": [["daily", 0.007374631268436578], ["weekly", 0.008655943274515677], ["biweekly", 0.009422243809523393], ["triweekly", 0.00995644946907349]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009861932938856016], ["weekly", 0.011074059952718335], ["biweekly", 0.012045303675841721], ["triweekly", 0.012572748222729899]]
+    },
+    "lat": "REPLACE_MEAlaska"
+  }, {
+    "locale": "Alaska",
+    "long": "REPLACE_MEAlaska",
+    "date": "07/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02380486465246623], ["weekly", 0.04151946919274468], ["biweekly", 0.036277150966873846], ["triweekly", 0.0352111003960562]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.712328767123288], ["weekly", 10.039138943248533], ["biweekly", 7.92563600782779], ["triweekly", 6.9341161121983035]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 285.3424657534247], ["weekly", 249.2954990215264], ["biweekly", 220.64579256360076], ["triweekly", 197.34507501630793]],
+      "Daily Growth Rate": [["daily", 0.6447368421052632], ["weekly", 1.1094166853643765], ["biweekly", 1.0973219790458246], ["triweekly", 1.0898447989778186]],
+      "Confirmed Cumulative Cases": [["daily", 2083.0], ["weekly", 1819.857142857143], ["biweekly", 1610.7142857142858], ["triweekly", 1440.6190476190477]],
+      "Confirmed Daily Cases": [["daily", 49.0], ["weekly", 73.28571428571429], ["biweekly", 57.857142857142854], ["triweekly", 50.61904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.007201152184349496], ["weekly", 0.008300614464455756], ["biweekly", 0.009248723073795474], ["triweekly", 0.009817209949758689]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009499683343888538], ["weekly", 0.010732207235300006], ["biweekly", 0.011866985070841662], ["triweekly", 0.012443382345903935]]
+    },
+    "lat": "REPLACE_MEAlaska"
+  }, {
+    "locale": "Alaska",
+    "long": "REPLACE_MEAlaska",
+    "date": "07/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03490920512818452], ["weekly", 0.03957391814361851], ["biweekly", 0.03455921121507607], ["triweekly", 0.03489569818789291]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.136986301369863], ["weekly", 9.863013698630137], ["biweekly", 7.818003913894326], ["triweekly", 7.058056099151989]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 295.47945205479454], ["weekly", 259.1585127201566], ["biweekly", 228.46379647749512], ["triweekly", 204.4031311154599]],
+      "Daily Growth Rate": [["daily", 1.510204081632653], ["weekly", 1.0324257386097349], ["biweekly", 1.0576603249104866], ["triweekly", 1.0888005216177516]],
+      "Confirmed Cumulative Cases": [["daily", 2157.0], ["weekly", 1891.857142857143], ["biweekly", 1667.7857142857142], ["triweekly", 1492.142857142857]],
+      "Confirmed Daily Cases": [["daily", 74.0], ["weekly", 72.0], ["biweekly", 57.07142857142857], ["triweekly", 51.523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.007417709782104775], ["weekly", 0.007972252870235895], ["biweekly", 0.009039904616113273], ["triweekly", 0.00958926424482238]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00966183574879227], ["weekly", 0.010420413000047769], ["biweekly", 0.011617890096332772], ["triweekly", 0.012199732907085566]]
     },
     "lat": "REPLACE_MEAlaska"
   }]
