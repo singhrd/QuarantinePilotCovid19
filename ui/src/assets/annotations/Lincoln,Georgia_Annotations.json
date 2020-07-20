@@ -2684,5 +2684,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.03753304967653835], ["biweekly", 0.03223735671410747], ["triweekly", 0.0344752343049729]]
     },
     "lat": "REPLACE_MELincoln,Georgia"
+  }, {
+    "locale": "Lincoln,Georgia",
+    "long": "REPLACE_MELincoln,Georgia",
+    "date": "07/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.04674470160120224], ["biweekly", 0.03732297596637012], ["triweekly", 0.045611415942239386]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 43.28457806554007], ["biweekly", 31.561671506122966], ["triweekly", 31.86225885380032]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1085.72149981063], ["weekly", 943.2430970115607], ["biweekly", 818.799935073133], ["triweekly", 713.5943633860564]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.3884353741496598], ["biweekly", 0.9663282884344131], ["triweekly", 1.457426014631972]],
+      "Confirmed Cumulative Cases": [["daily", 86.0], ["weekly", 74.71428571428571], ["biweekly", 64.85714285714286], ["triweekly", 56.523809523809526]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.4285714285714284], ["biweekly", 2.5], ["triweekly", 2.5238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.023255813953488372], ["weekly", 0.0270564668750572], ["biweekly", 0.023815083098011343], ["triweekly", 0.024347982022291402]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.03653910371105538], ["biweekly", 0.03237700201504309], ["triweekly", 0.03374375891911964]]
+    },
+    "lat": "REPLACE_MELincoln,Georgia"
   }]
 }

@@ -2684,5 +2684,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05017973890558978], ["weekly", 0.05081471819162979], ["biweekly", 0.05109336189824835], ["triweekly", 0.05140584858235231]]
     },
     "lat": "REPLACE_MECook,Illinois"
+  }, {
+    "locale": "Cook,Illinois",
+    "long": "REPLACE_MECook,Illinois",
+    "date": "07/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0038383085476105805], ["weekly", 0.0046591673129413435], ["biweekly", 0.004539197454332923], ["triweekly", 0.0045116029252846145]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.339473767497509], ["weekly", 8.748563969269517], ["biweekly", 8.393517619216729], ["triweekly", 8.215069844320405]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1915.8356524840722], ["weekly", 1879.485008597808], ["biweekly", 1849.0078853852688], ["triweekly", 1821.3822281715911]],
+      "Daily Growth Rate": [["daily", 0.7529880478087649], ["weekly", 1.020131737453757], ["biweekly", 1.039815481149029], ["triweekly", 1.0451276089799264]],
+      "Confirmed Cumulative Cases": [["daily", 98670.0], ["weekly", 96797.85714285714], ["biweekly", 95228.21428571429], ["triweekly", 93805.42857142857]],
+      "Confirmed Daily Cases": [["daily", 378.0], ["weekly", 450.57142857142856], ["biweekly", 432.2857142857143], ["triweekly", 423.0952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.04840377014290058], ["weekly", 0.049043305689302194], ["biweekly", 0.04942446513366001], ["triweekly", 0.0497502460072197]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04998063982753749], ["weekly", 0.05068706845282977], ["biweekly", 0.05098504496903065], ["triweekly", 0.05130931518698414]]
+    },
+    "lat": "REPLACE_MECook,Illinois"
   }]
 }

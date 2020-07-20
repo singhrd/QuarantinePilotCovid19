@@ -2684,5 +2684,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.0332993761064288], ["biweekly", 0.05195323254793536], ["triweekly", 0.06823337196317383]]
     },
     "lat": "REPLACE_MEMarquette,Wisconsin"
+  }, {
+    "locale": "Marquette,Wisconsin",
+    "long": "REPLACE_MEMarquette,Wisconsin",
+    "date": "07/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01769957709940062], ["weekly", 0.01907591323207474], ["biweekly", 0.06356124820042856], ["triweekly", 0.07335452575938806]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.420958006934635], ["weekly", 6.420958006934635], ["biweekly", 15.13511530206021], ["triweekly", 13.453435824053521]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 365.9946063952742], ["weekly", 345.814452659194], ["biweekly", 288.0258305967822], ["triweekly", 226.26232976817278]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.3298058219104302], ["biweekly", 0.6205602353594836], ["triweekly", 0.648572510602059]],
+      "Confirmed Cumulative Cases": [["daily", 57.0], ["weekly", 53.857142857142854], ["biweekly", 44.857142857142854], ["triweekly", 35.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.0], ["biweekly", 2.357142857142857], ["triweekly", 2.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.01860313348569028], ["biweekly", 0.024303390681469608], ["triweekly", 0.03784009619061429]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.03000364787724893], ["biweekly", 0.04745857754307629], ["triweekly", 0.06391418397051646]]
+    },
+    "lat": "REPLACE_MEMarquette,Wisconsin"
   }]
 }

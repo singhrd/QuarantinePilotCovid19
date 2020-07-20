@@ -2684,5 +2684,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1], ["weekly", 0.11322751322751322], ["biweekly", 0.12164960930488884], ["triweekly", 0.12840957256071128]]
     },
     "lat": "REPLACE_MEDelta,Michigan"
+  }, {
+    "locale": "Delta,Michigan",
+    "long": "REPLACE_MEDelta,Michigan",
+    "date": "07/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02150620522096336], ["weekly", 0.061063430689562805], ["biweekly", 0.03805746646319757], ["triweekly", 0.037338998036460576]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.794545048066175], ["weekly", 6.387531538436972], ["biweekly", 3.792596850946952], ["triweekly", 3.326839342935923]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 131.34361725911023], ["weekly", 106.99115326881928], ["biweekly", 93.01842802848839], ["triweekly", 84.50171931057245]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 1.137856000399222], ["biweekly", 0.568928000199611], ["triweekly", 0.5221424763235503]],
+      "Confirmed Cumulative Cases": [["daily", 47.0], ["weekly", 38.285714285714285], ["biweekly", 33.285714285714285], ["triweekly", 30.238095238095237]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.2857142857142856], ["biweekly", 1.3571428571428572], ["triweekly", 1.1904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.06382978723404255], ["weekly", 0.0838752626593774], ["biweekly", 0.09511223450429188], ["triweekly", 0.105253675666186]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09375], ["weekly", 0.11164021164021164], ["biweekly", 0.11858838481509293], ["triweekly", 0.12636875623418067]]
+    },
+    "lat": "REPLACE_MEDelta,Michigan"
   }]
 }

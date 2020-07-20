@@ -2684,5 +2684,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.021120093058868566], ["biweekly", 0.022800796487954283], ["triweekly", 0.023726914518353046]]
     },
     "lat": "REPLACE_MEMono,California"
+  }, {
+    "locale": "Mono,California",
+    "long": "REPLACE_MEMono,California",
+    "date": "07/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03871451218069044], ["weekly", 0.05981576212259787], ["biweekly", 0.037433632179715105], ["triweekly", 0.03056447077011404]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.76986984214899], ["weekly", 25.715076947422556], ["biweekly", 15.330142026348062], ["triweekly", 11.868497052656565]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 546.9399058432566], ["weekly", 417.37547968508926], ["biweekly", 375.3412192902639], ["triweekly", 346.16449736914973]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.3311791380590712], ["biweekly", 0.8552110360566251], ["triweekly", 0.7129978335615595]],
+      "Confirmed Cumulative Cases": [["daily", 79.0], ["weekly", 60.285714285714285], ["biweekly", 54.214285714285715], ["triweekly", 50.0]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.7142857142857144], ["biweekly", 2.2142857142857144], ["triweekly", 1.7142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.012658227848101266], ["weekly", 0.017018903462954767], ["biweekly", 0.018910768102181504], ["triweekly", 0.020635403574859205]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0196078431372549], ["weekly", 0.02080263274140825], ["biweekly", 0.02244365363081143], ["triweekly", 0.02339229418373271]]
+    },
+    "lat": "REPLACE_MEMono,California"
   }]
 }

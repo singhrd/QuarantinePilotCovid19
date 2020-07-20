@@ -2850,18 +2850,34 @@
   }, {
     "epidemiccontrolThreshold": 89.23124,
     "source": "JHU",
-    "confirmedPer100kN": 0.0,
-    "deaths": 0,
-    "confirmed": 0,
-    "recovered": 0,
-    "recoveredPer100k": 0.0,
-    "confirmedPer100k": 0.0,
+    "confirmedPer100kN": 5.5661519254431395,
+    "deaths": 6,
+    "confirmed": 4233,
+    "recovered": 18376,
+    "recoveredPer100k": 102.96842227004802,
+    "confirmedPer100k": 23.71927141211979,
     "locale": "Guatemala",
-    "activePer100k": 0.0,
+    "activePer100k": -79.28277137020622,
     "long": "-90.516667",
     "date": "7/18/20",
-    "deathsPer100k": 0.0,
+    "deathsPer100k": 0.033620512277986944,
     "lat": "14.6166666667",
-    "active": 0
+    "active": -14149
+  }, {
+    "epidemiccontrolThreshold": 89.23124,
+    "source": "JHU",
+    "confirmedPer100kN": 0.8349885359452854,
+    "deaths": 36,
+    "confirmed": 635,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.5581708827536187,
+    "locale": "Guatemala",
+    "activePer100k": 3.356447809085697,
+    "long": "-90.516667",
+    "date": "7/19/20",
+    "deathsPer100k": 0.2017230736679217,
+    "lat": "14.6166666667",
+    "active": 599
   }]
 }
