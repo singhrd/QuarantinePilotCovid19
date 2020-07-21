@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10526315789473684], ["weekly", 0.11491228070175438], ["biweekly", 0.133411137734446], ["triweekly", 0.14810381765268982]]
     },
     "lat": "REPLACE_MECass,Minnesota"
+  }, {
+    "locale": "Cass,Minnesota",
+    "long": "REPLACE_MECass,Minnesota",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.030771658666753687], ["weekly", 0.07886694032857713], ["biweekly", 0.056318382883162155], ["triweekly", 0.04817147198468952]],
+      "Confirmed Daily Cases per 100k": [["daily", -3.3580711239464054], ["weekly", 6.716142247892811], ["biweekly", 4.317520016502521], ["triweekly", 3.358071123946405]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 107.45827596628497], ["weekly", 85.87067588377236], ["biweekly", 73.39784028054285], ["triweekly", 64.28307580125976]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.5714285714285714], ["biweekly", 0.9808607719692055], ["triweekly", 0.7926792557115225]],
+      "Confirmed Cumulative Cases": [["daily", 32.0], ["weekly", 25.571428571428573], ["biweekly", 21.857142857142858], ["triweekly", 19.142857142857142]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 2.0], ["biweekly", 1.2857142857142858], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.08058148747803921], ["biweekly", 0.09574187155856846], ["triweekly", 0.11287727770745659]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1], ["weekly", 0.11090225563909774], ["biweekly", 0.12902517282216525], ["triweekly", 0.1451798410445027]]
+    },
+    "lat": "REPLACE_MECass,Minnesota"
   }]
 }

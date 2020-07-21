@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05806451612903226], ["weekly", 0.0619771842284425], ["biweekly", 0.06315535397791723], ["triweekly", 0.06518872753256065]]
     },
     "lat": "REPLACE_MEPlaquemines,Louisiana"
+  }, {
+    "locale": "Plaquemines,Louisiana",
+    "long": "REPLACE_MEPlaquemines,Louisiana",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008759180089881191], ["weekly", 0.013615739972046395], ["biweekly", 0.014590097399491433], ["triweekly", 0.013466971066109374]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.932706815536491], ["weekly", 19.09113863245863], ["biweekly", 19.399060223304737], ["triweekly", 17.243609087381994]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1482.950381514851], ["weekly", 1424.4452792540908], ["biweekly", 1348.6965679059483], ["triweekly", 1286.4964065550346]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.8959132136388945], ["biweekly", 1.1342661306289712], ["triweekly", 1.3700642553267113]],
+      "Confirmed Cumulative Cases": [["daily", 344.0], ["weekly", 330.42857142857144], ["biweekly", 312.85714285714283], ["triweekly", 298.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 4.428571428571429], ["biweekly", 4.5], ["triweekly", 4.0]],
+      "Confirmed Fatality Rate": [["daily", 0.05232558139534884], ["weekly", 0.05451443096909897], ["biweekly", 0.056537177065734294], ["triweekly", 0.058723588598263425]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05714285714285714], ["weekly", 0.06102237204132583], ["biweekly", 0.06257797227840675], ["triweekly", 0.06456657558094454]]
+    },
+    "lat": "REPLACE_MEPlaquemines,Louisiana"
   }]
 }

@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10189022541190741], ["weekly", 0.10185870176068224], ["biweekly", 0.10176777697050363], ["triweekly", 0.10137892303469342]]
     },
     "lat": "REPLACE_MEOcean,New Jersey"
+  }, {
+    "locale": "Ocean,New Jersey",
+    "long": "REPLACE_MEOcean,New Jersey",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0008978004493531699], ["weekly", 0.0018222370450904992], ["biweekly", 0.001775521200625439], ["triweekly", 0.001850927497075124]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.4822476144048118], ["weekly", 2.9880229687208106], ["biweekly", 2.8939120090760606], ["triweekly", 2.9958655486912065]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1651.7179249850951], ["weekly", 1642.283301280709], ["biweekly", 1631.4487770516073], ["triweekly", 1620.747576682002]],
+      "Daily Growth Rate": [["daily", 1.2857142857142858], ["weekly", 1.3677376970855233], ["biweekly", 1.3164262549045158], ["triweekly", 1.79895886032532]],
+      "Confirmed Cumulative Cases": [["daily", 10029.0], ["weekly", 9971.714285714286], ["biweekly", 9905.92857142857], ["triweekly", 9840.952380952382]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 18.142857142857142], ["biweekly", 17.571428571428573], ["triweekly", 18.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.10070794695383388], ["weekly", 0.10049862255088497], ["biweekly", 0.10050187353424926], ["triweekly", 0.09999710058367763]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10200989799010202], ["weekly", 0.10184225964275981], ["biweekly", 0.1018420217198586], ["triweekly", 0.10146135514032549]]
+    },
+    "lat": "REPLACE_MEOcean,New Jersey"
   }]
 }

@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05172413793103448], ["weekly", 0.06466961635790726], ["biweekly", 0.07503736815574127], ["triweekly", 0.08156414769779789]]
     },
     "lat": "REPLACE_MELawrence,Pennsylvania"
+  }, {
+    "locale": "Lawrence,Pennsylvania",
+    "long": "REPLACE_MELawrence,Pennsylvania",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03905051487187272], ["weekly", 0.03735424286539387], ["biweekly", 0.045815107582911185], ["triweekly", 0.03788391361847693]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.524838619141173], ["weekly", 8.687168384053033], ["biweekly", 8.93775977974687], ["triweekly", 6.905185125785744]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 274.81523061090843], ["weekly", 248.08548173689906], ["biweekly", 211.24854656990493], ["triweekly", 182.93171885650133]],
+      "Daily Growth Rate": [["daily", 9.0], ["weekly", 2.428497485950902], ["biweekly", 1.8278018565285645], ["triweekly", 1.6629790154634874]],
+      "Confirmed Cumulative Cases": [["daily", 235.0], ["weekly", 212.14285714285714], ["biweekly", 180.64285714285714], ["triweekly", 156.42857142857142]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 7.428571428571429], ["biweekly", 7.642857142857143], ["triweekly", 5.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.03829787234042553], ["weekly", 0.04253896168061861], ["biweekly", 0.05189670943570536], ["triweekly", 0.062465939512290264]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04568527918781726], ["weekly", 0.06125445719079212], ["biweekly", 0.07242942842812608], ["triweekly", 0.07926529712308525]]
+    },
+    "lat": "REPLACE_MELawrence,Pennsylvania"
   }]
 }

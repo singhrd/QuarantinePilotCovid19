@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09395973154362416], ["weekly", 0.09416009200879975], ["biweekly", 0.09471211327273553], ["triweekly", 0.09490279419742043]]
     },
     "lat": "REPLACE_MECarbon,Pennsylvania"
+  }, {
+    "locale": "Carbon,Pennsylvania",
+    "long": "REPLACE_MECarbon,Pennsylvania",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009302392662313252], ["weekly", 0.010621090946373027], ["biweekly", 0.007997064812171027], ["triweekly", 0.007538715082949777]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.674207721791157], ["weekly", 5.119370361961743], ["biweekly", 3.783882441449984], ["triweekly", 3.487107348002926]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 504.81443395344496], ["weekly", 483.0014645850862], ["biweekly", 469.64658537996866], ["triweekly", 459.7046197494922]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.3238095238095238], ["biweekly", 1.1976190476190476], ["triweekly", 1.2289098467231692]],
+      "Confirmed Cumulative Cases": [["daily", 324.0], ["weekly", 310.0], ["biweekly", 301.42857142857144], ["triweekly", 295.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.2857142857142856], ["biweekly", 2.4285714285714284], ["triweekly", 2.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.08641975308641975], ["weekly", 0.08896325410874494], ["biweekly", 0.09033915164500257], ["triweekly", 0.0907610483807237]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09364548494983277], ["weekly", 0.09414338865042252], ["biweekly", 0.09464562902950116], ["triweekly", 0.09491835480418834]]
+    },
+    "lat": "REPLACE_MECarbon,Pennsylvania"
   }]
 }

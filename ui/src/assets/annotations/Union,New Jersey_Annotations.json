@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0805513934671861], ["weekly", 0.08072155148147855], ["biweekly", 0.08062406122201736], ["triweekly", 0.08067723202572981]]
     },
     "lat": "REPLACE_MEUnion,New Jersey"
+  }, {
+    "locale": "Union,New Jersey",
+    "long": "REPLACE_MEUnion,New Jersey",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0005391966101324641], ["weekly", 0.00001712299448998676], ["biweekly", 0.0002444057114235422], ["triweekly", 0.0003983202174095556]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.6177128775337428], ["weekly", 0.05135596436615053], ["biweekly", 0.7318224922176455], ["triweekly", 1.1897465078158214]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3001.0371337003744], ["weekly", 3005.42806865368], ["biweekly", 2998.1997166691444], ["triweekly", 2992.4778063060157]],
+      "Daily Growth Rate": [["daily", 1.224744871391589], ["weekly", 0.597412532647778], ["biweekly", 0.7083611553062507], ["triweekly", 0.8742274191976703]],
+      "Confirmed Cumulative Cases": [["daily", 16696.0], ["weekly", 16720.428571428572], ["biweekly", 16680.214285714286], ["triweekly", 16648.380952380954]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 0.2857142857142857], ["biweekly", 4.071428571428571], ["triweekly", 6.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.08049832295160518], ["weekly", 0.08030399883141164], ["biweekly", 0.08031753526227657], ["triweekly", 0.08020760500828736]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08046458719990421], ["weekly", 0.08069208385291834], ["biweekly", 0.08064549004852638], ["triweekly", 0.0806473566141364]]
+    },
+    "lat": "REPLACE_MEUnion,New Jersey"
   }]
 }

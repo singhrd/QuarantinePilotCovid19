@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016129032258064516], ["weekly", 0.02098161206802767], ["biweekly", 0.033313513251010035], ["triweekly", 0.045715432785369464]]
     },
     "lat": "REPLACE_MEGibson,Indiana"
+  }, {
+    "locale": "Gibson,Indiana",
+    "long": "REPLACE_MEGibson,Indiana",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006269613013595077], ["weekly", 0.035517519516456354], ["biweekly", 0.04906268339616788], ["triweekly", 0.07634134759145261]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.9709735880448025], ["weekly", 14.854867940224011], ["biweekly", 16.764779532538526], ["triweekly", 17.96731646103285]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 475.35577408716836], ["weekly", 424.8492230904067], ["biweekly", 366.49081332524094], ["triweekly", 297.09735880448017]],
+      "Daily Growth Rate": [["daily", 0.2], ["weekly", 1.1297619047619047], ["biweekly", 1.3960402692545546], ["triweekly", 1.6572197643626214]],
+      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 143.0], ["biweekly", 123.35714285714286], ["triweekly", 100.0]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 5.0], ["biweekly", 5.642857142857143], ["triweekly", 6.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.0125], ["weekly", 0.014057121387435654], ["biweekly", 0.01688572617473627], ["triweekly", 0.02468657464210736]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015625], ["weekly", 0.01971433096203689], ["biweekly", 0.030001301269443215], ["triweekly", 0.042956145079845194]]
+    },
+    "lat": "REPLACE_MEGibson,Indiana"
   }]
 }

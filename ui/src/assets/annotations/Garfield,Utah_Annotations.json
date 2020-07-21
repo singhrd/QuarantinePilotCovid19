@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1111111111111111], ["weekly", 0.06507936507936508], ["biweekly", 0.03253968253968254], ["triweekly", 0.02169312169312169]]
     },
     "lat": "REPLACE_MEGarfield,Utah"
+  }, {
+    "locale": "Garfield,Utah",
+    "long": "REPLACE_MEGarfield,Utah",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.09531017980432521], ["weekly", 0.015051502236832335], ["biweekly", 0.020548719460841487], ["triweekly", 0.020513472194878767]],
+      "Confirmed Daily Cases per 100k": [["daily", 39.59611958028113], ["weekly", 5.656588511468733], ["biweekly", 7.070735639335917], ["triweekly", 6.599353263380189]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 435.5573153830925], ["weekly", 390.30460729134256], ["biweekly", 369.0924003733349], ["triweekly", 343.16636969576984]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.07142857142857142], ["triweekly", 0.14285714285714285]],
+      "Confirmed Cumulative Cases": [["daily", 22.0], ["weekly", 19.714285714285715], ["biweekly", 18.642857142857142], ["triweekly", 17.333333333333332]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.2857142857142857], ["biweekly", 0.35714285714285715], ["triweekly", 0.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.09090909090909091], ["weekly", 0.07218045112781954], ["biweekly", 0.03609022556390977], ["triweekly", 0.024060150375939844]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10526315789473684], ["weekly", 0.08095238095238096], ["biweekly", 0.04047619047619048], ["triweekly", 0.026984126984126982]]
+    },
+    "lat": "REPLACE_MEGarfield,Utah"
   }]
 }

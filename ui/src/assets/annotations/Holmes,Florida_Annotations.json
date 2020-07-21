@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004405286343612335], ["weekly", 0.004786003431148905], ["biweekly", 0.0023930017155744526], ["triweekly", 0.0015953344770496352]]
     },
     "lat": "REPLACE_MEHolmes,Florida"
+  }, {
+    "locale": "Holmes,Florida",
+    "long": "REPLACE_MEHolmes,Florida",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.032470385030784144], ["weekly", 0.041254684003995123], ["biweekly", 0.03003057005606261], ["triweekly", 0.0301108781202336]],
+      "Confirmed Daily Cases per 100k": [["daily", 50.9761941173472], ["weekly", 55.34558218454839], ["biweekly", 37.868029915743634], ["triweekly", 34.469616974587154]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1595.5548758729672], ["weekly", 1347.2279873870332], ["biweekly", 1217.6028080600645], ["triweekly", 1127.3021213379066]],
+      "Daily Growth Rate": [["daily", 0.5882352941176471], ["weekly", 1.8093846629560915], ["biweekly", 1.4705679240736218], ["triweekly", 1.231686228472192]],
+      "Confirmed Cumulative Cases": [["daily", 313.0], ["weekly", 264.2857142857143], ["biweekly", 238.85714285714286], ["triweekly", 221.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 10.857142857142858], ["biweekly", 7.428571428571429], ["triweekly", 6.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.003194888178913738], ["weekly", 0.0038175810806224835], ["biweekly", 0.0022234538505692654], ["triweekly", 0.001482302567046177]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004366812227074236], ["weekly", 0.004697454961930567], ["biweekly", 0.0027076650258324765], ["triweekly", 0.001805110017221651]]
+    },
+    "lat": "REPLACE_MEHolmes,Florida"
   }]
 }

@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009389671361502348], ["weekly", 0.010476172453990896], ["biweekly", 0.011537981089587816], ["triweekly", 0.01016219341788732]]
     },
     "lat": "REPLACE_MELawrence,Mississippi"
+  }, {
+    "locale": "Lawrence,Mississippi",
+    "long": "REPLACE_MELawrence,Mississippi",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004819286435949088], ["weekly", -0.004081910349150952], ["biweekly", 0.011183504335109997], ["triweekly", 0.01629934316603013]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.945336087716511], ["weekly", -6.810288075185577], ["biweekly", 17.025720187963955], ["triweekly", 22.70096025061859]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1652.6299062450341], ["weekly", 1721.8678350094212], ["biweekly", 1642.4144741322557], ["triweekly", 1528.152974204142]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 0.7738095238095237], ["biweekly", 1.6554988662131522], ["triweekly", 1.5155288726516414]],
+      "Confirmed Cumulative Cases": [["daily", 208.0], ["weekly", 216.71428571428572], ["biweekly", 206.71428571428572], ["triweekly", 192.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", -0.8571428571428571], ["biweekly", 2.142857142857143], ["triweekly", 2.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.009615384615384616], ["weekly", 0.009242154157635327], ["biweekly", 0.009722751615331237], ["triweekly", 0.00879592859964748]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009259259259259259], ["weekly", 0.010203349073027149], ["biweekly", 0.011236854602775787], ["triweekly", 0.010215774777486607]]
+    },
+    "lat": "REPLACE_MELawrence,Mississippi"
   }]
 }

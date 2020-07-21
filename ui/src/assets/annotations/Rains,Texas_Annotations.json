@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.03413865546218487], ["biweekly", 0.017069327731092435], ["triweekly", 0.01137955182072829]]
     },
     "lat": "REPLACE_MERains,Texas"
+  }, {
+    "locale": "Rains,Texas",
+    "long": "REPLACE_MERains,Texas",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.06375530037548849], ["biweekly", 0.041415606803781584], ["triweekly", 0.05425877538992213]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 10.274207173679766], ["biweekly", 6.278682161693189], ["triweekly", 6.468945257502074]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 199.77625059932876], ["weekly", 171.23678622799608], ["biweekly", 150.1175825932099], ["triweekly", 132.42311468298362]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.38095238095238093], ["biweekly", 0.34199907215902214], ["triweekly", 0.29942795286791946]],
+      "Confirmed Cumulative Cases": [["daily", 25.0], ["weekly", 21.428571428571427], ["biweekly", 18.785714285714285], ["triweekly", 16.571428571428573]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.2857142857142858], ["biweekly", 0.7857142857142857], ["triweekly", 0.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.04], ["weekly", 0.03124519372966578], ["biweekly", 0.01562259686483289], ["triweekly", 0.01041506457655526]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.0430672268907563], ["biweekly", 0.02153361344537815], ["triweekly", 0.014355742296918767]]
+    },
+    "lat": "REPLACE_MERains,Texas"
   }]
 }

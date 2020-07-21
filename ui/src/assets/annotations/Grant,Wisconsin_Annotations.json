@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06862745098039216], ["weekly", 0.07340554336369289], ["biweekly", 0.07755777855353176], ["triweekly", 0.08404957181853444]]
     },
     "lat": "REPLACE_MEGrant,Wisconsin"
+  }, {
+    "locale": "Grant,Wisconsin",
+    "long": "REPLACE_MEGrant,Wisconsin",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008032171697263557], ["weekly", 0.027901250331538056], ["biweekly", 0.024903055160104857], ["triweekly", 0.023942545336606044]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.8881004685161065], ["weekly", 12.21974432962205], ["biweekly", 10.136833364345563], ["triweekly", 9.072234426537582]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 486.0125585645133], ["weekly", 446.85383241731546], ["biweekly", 405.3344738428041], ["triweekly", 375.849711956557]],
+      "Daily Growth Rate": [["daily", 0.4], ["weekly", 1.0425170068027212], ["biweekly", 1.249829931972789], ["triweekly", 1.347732426303855]],
+      "Confirmed Cumulative Cases": [["daily", 250.0], ["weekly", 229.85714285714286], ["biweekly", 208.5], ["triweekly", 193.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 6.285714285714286], ["biweekly", 5.214285714285714], ["triweekly", 4.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.056], ["weekly", 0.05911808995501851], ["biweekly", 0.06438072498209021], ["triweekly", 0.06956758540818596]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06666666666666667], ["weekly", 0.07259722003436117], ["biweekly", 0.07626926314736929], ["triweekly", 0.08236516472236263]]
+    },
+    "lat": "REPLACE_MEGrant,Wisconsin"
   }]
 }

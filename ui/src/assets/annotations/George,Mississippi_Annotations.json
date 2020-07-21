@@ -2699,5 +2699,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.024390243902439025], ["weekly", 0.030677178400088073], ["biweekly", 0.035488796518935654], ["triweekly", 0.041652419321085175]]
     },
     "lat": "REPLACE_MEGeorge,Mississippi"
+  }, {
+    "locale": "George,Mississippi",
+    "long": "REPLACE_MEGeorge,Mississippi",
+    "date": "07/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0936356050339926], ["weekly", 0.040223692204906465], ["biweekly", 0.04402952759489682], ["triweekly", 0.04305216470382558]],
+      "Confirmed Daily Cases per 100k": [["daily", 65.3061224489796], ["weekly", 23.323615160349853], ["biweekly", 21.865889212827987], ["triweekly", 18.853255587949466]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 730.6122448979592], ["weekly", 579.5918367346939], ["biweekly", 501.74927113702626], ["triweekly", 440.6219630709427]],
+      "Daily Growth Rate": [["daily", 1.3333333333333333], ["weekly", 1.0299774307276361], ["biweekly", 1.2340363344114371], ["triweekly", 1.2597755776239896]],
+      "Confirmed Cumulative Cases": [["daily", 179.0], ["weekly", 142.0], ["biweekly", 122.92857142857143], ["triweekly", 107.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 16.0], ["weekly", 5.714285714285714], ["biweekly", 5.357142857142857], ["triweekly", 4.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.01675977653631285], ["weekly", 0.021305319665051524], ["biweekly", 0.025298344376250503], ["triweekly", 0.02975790892230254]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.024], ["weekly", 0.029291369087449493], ["biweekly", 0.03398420355092805], ["triweekly", 0.039329538949424314]]
+    },
+    "lat": "REPLACE_MEGeorge,Mississippi"
   }]
 }
