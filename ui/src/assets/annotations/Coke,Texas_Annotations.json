@@ -2714,5 +2714,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.16666666666666666], ["weekly", 0.18571428571428572], ["biweekly", 0.1928571428571428], ["triweekly", 0.19761904761904767]]
     },
     "lat": "REPLACE_MECoke,Texas"
+  }, {
+    "locale": "Coke,Texas",
+    "long": "REPLACE_MECoke,Texas",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.10536051565782634], ["weekly", 0.05792358687259495], ["biweekly", 0.041984761778722804], ["triweekly", 0.027989841185815205]],
+      "Confirmed Daily Cases per 100k": [["daily", 29.52465308532625], ["weekly", 12.653422750854107], ["biweekly", 8.43561516723607], ["triweekly", 5.623743444824048]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 295.24653085326247], ["weekly", 219.32599434813787], ["biweekly", 191.91024505462062], ["triweekly", 177.1479185119575]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.42857142857142855], ["biweekly", 0.21428571428571427], ["triweekly", 0.14285714285714285]],
+      "Confirmed Cumulative Cases": [["daily", 10.0], ["weekly", 7.428571428571429], ["biweekly", 6.5], ["triweekly", 6.0]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.42857142857142855], ["biweekly", 0.2857142857142857], ["triweekly", 0.19047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.1], ["weekly", 0.14444444444444446], ["biweekly", 0.16269841269841273], ["triweekly", 0.1751322751322751]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.2], ["weekly", 0.18095238095238098], ["biweekly", 0.19047619047619044], ["triweekly", 0.19365079365079368]]
+    },
+    "lat": "REPLACE_MECoke,Texas"
   }]
 }

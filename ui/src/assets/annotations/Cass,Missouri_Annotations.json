@@ -2714,5 +2714,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.033707865168539325], ["weekly", 0.042209228355832976], ["biweekly", 0.050386849396132694], ["triweekly", 0.05780574567213727]]
     },
     "lat": "REPLACE_MECass,Missouri"
+  }, {
+    "locale": "Cass,Missouri",
+    "long": "REPLACE_MECass,Missouri",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.024097551579060017], ["weekly", 0.06127264304258632], ["biweekly", 0.05684295247285925], ["triweekly", 0.0521988682795347]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.453582907922101], ["weekly", 19.312319369040864], ["biweekly", 15.193258244874803], ["triweekly", 12.28965778029873]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 397.0504821327283], ["weekly", 340.0588823163979], ["biweekly", 277.46265834751375], ["triweekly", 235.8443850219233]],
+      "Daily Growth Rate": [["daily", 1.1111111111111112], ["weekly", 1.0209806966264765], ["biweekly", 1.075651377759982], ["triweekly", 1.2075771089828453]],
+      "Confirmed Cumulative Cases": [["daily", 420.0], ["weekly", 359.7142857142857], ["biweekly", 293.5], ["triweekly", 249.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 20.428571428571427], ["biweekly", 16.071428571428573], ["triweekly", 13.0]],
+      "Confirmed Fatality Rate": [["daily", 0.02142857142857143], ["weekly", 0.02533006017471579], ["biweekly", 0.032702445445266584], ["triweekly", 0.04051146415621302]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03], ["weekly", 0.04007483071581736], ["biweekly", 0.04810216614696162], ["triweekly", 0.05571630082794621]]
+    },
+    "lat": "REPLACE_MECass,Missouri"
   }]
 }

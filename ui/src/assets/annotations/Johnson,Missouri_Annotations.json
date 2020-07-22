@@ -2704,14 +2704,29 @@
     "long": "REPLACE_MEJohnson,Missouri",
     "date": "07/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.060292230256120405], ["weekly", 0.051995053885915965], ["biweekly", 0.05583575556438504], ["triweekly", 0.05437662354387778]],
-      "Confirmed Daily Cases per 100k": [["daily", 40.694017979357035], ["weekly", 28.538661959549092], ["biweekly", 25.367699519599192], ["triweekly", 21.2278318896646]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 695.4977618290111], ["weekly", 597.7264199305558], ["biweekly", 501.54055925207564], ["triweekly", 420.9452639033491]],
-      "Daily Growth Rate": [["daily", 5.5], ["weekly", 1.4531004709576136], ["biweekly", 2.636685613019896], ["triweekly", 2.296895964792076]],
-      "Confirmed Cumulative Cases": [["daily", 376.0], ["weekly", 323.14285714285717], ["biweekly", 271.14285714285717], ["triweekly", 227.57142857142858]],
-      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 15.428571428571429], ["biweekly", 13.714285714285714], ["triweekly", 11.476190476190476]],
-      "Confirmed Fatality Rate": [["daily", 0.005319148936170213], ["weekly", 0.00620930728431058], ["biweekly", 0.005250185706370653], ["triweekly", 0.003500123804247102]],
+      "Spread Rate": [["daily", 0.049596941139371964], ["weekly", 0.051995053885915965], ["biweekly", 0.05583575556438504], ["triweekly", 0.05437662354387778]],
+      "Confirmed Daily Cases per 100k": [["daily", 33.29510561947394], ["weekly", 28.538661959549092], ["biweekly", 25.367699519599192], ["triweekly", 21.2278318896646]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 688.098849469128], ["weekly", 597.7264199305558], ["biweekly", 501.54055925207564], ["triweekly", 420.9452639033491]],
+      "Daily Growth Rate": [["daily", 4.5], ["weekly", 1.4531004709576136], ["biweekly", 2.636685613019896], ["triweekly", 2.296895964792076]],
+      "Confirmed Cumulative Cases": [["daily", 372.0], ["weekly", 323.14285714285717], ["biweekly", 271.14285714285717], ["triweekly", 227.57142857142858]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 15.428571428571429], ["biweekly", 13.714285714285714], ["triweekly", 11.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.005376344086021506], ["weekly", 0.00620930728431058], ["biweekly", 0.005250185706370653], ["triweekly", 0.003500123804247102]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006472491909385114], ["weekly", 0.009214935746778506], ["biweekly", 0.007932272911080453], ["triweekly", 0.005288181940720302]]
+    },
+    "lat": "REPLACE_MEJohnson,Missouri"
+  }, {
+    "locale": "Johnson,Missouri",
+    "long": "REPLACE_MEJohnson,Missouri",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.023905520853555018], ["weekly", 0.026507511053628616], ["biweekly", 0.04989557351391584], ["triweekly", 0.05387629102338573]],
+      "Confirmed Daily Cases per 100k": [["daily", 16.64755280973697], ["weekly", 16.64755280973697], ["biweekly", 24.707082344609628], ["triweekly", 22.19673707964929]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 704.746402278865], ["weekly", 614.3739727402929], ["biweekly", 526.2476415966853], ["triweekly", 443.14200098299835]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.9709576138147566], ["biweekly", 1.3152570415913247], ["triweekly", 2.177848345744457]],
+      "Confirmed Cumulative Cases": [["daily", 381.0], ["weekly", 332.14285714285717], ["biweekly", 284.5], ["triweekly", 239.57142857142858]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 9.0], ["biweekly", 13.357142857142858], ["triweekly", 12.0]],
+      "Confirmed Fatality Rate": [["daily", 0.005249343832020997], ["weekly", 0.00605271473811578], ["biweekly", 0.0056342102839436175], ["triweekly", 0.0037561401892957447]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006472491909385114], ["weekly", 0.008595175903717691], ["biweekly", 0.00839459376175082], ["triweekly", 0.005596395841167213]]
     },
     "lat": "REPLACE_MEJohnson,Missouri"
   }]

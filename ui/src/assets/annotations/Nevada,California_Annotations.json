@@ -2714,5 +2714,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005555555555555556], ["weekly", 0.006380699619316554], ["biweekly", 0.007290574879558725], ["triweekly", 0.00827621496896341]]
     },
     "lat": "REPLACE_MENevada,California"
+  }, {
+    "locale": "Nevada,California",
+    "long": "REPLACE_MENevada,California",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013072081567352178], ["weekly", 0.03376982543774724], ["biweekly", 0.03232942046670478], ["triweekly", 0.033426562392480964]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.0073680517267305], ["weekly", 6.873984118232527], ["biweekly", 5.943132102221872], ["triweekly", 5.48964009442181]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 231.56733998295823], ["weekly", 201.2072434607646], ["biweekly", 181.802559127004], ["triweekly", 163.59127481376993]],
+      "Daily Growth Rate": [["daily", 0.125], ["weekly", 1.2763379243562287], ["biweekly", 0.971131288414215], ["triweekly", 1.0912330438016007]],
+      "Confirmed Cumulative Cases": [["daily", 231.0], ["weekly", 200.71428571428572], ["biweekly", 181.35714285714286], ["triweekly", 163.1904761904762]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 6.857142857142857], ["biweekly", 5.928571428571429], ["triweekly", 5.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.004329004329004329], ["weekly", 0.005005410810989131], ["biweekly", 0.005597269774539815], ["triweekly", 0.006371996286865604]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00546448087431694], ["weekly", 0.0061891287380905005], ["biweekly", 0.0070552890248038415], ["triweekly", 0.007960045140598457]]
+    },
+    "lat": "REPLACE_MENevada,California"
   }]
 }

@@ -2714,5 +2714,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01639344262295082], ["weekly", 0.01669125205984653], ["biweekly", 0.017627555102492733], ["triweekly", 0.020404772952615613]]
     },
     "lat": "REPLACE_MEGiles,Tennessee"
+  }, {
+    "locale": "Giles,Tennessee",
+    "long": "REPLACE_MEGiles,Tennessee",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.028573372444056666], ["weekly", 0.07552824979030172], ["biweekly", 0.08611317201573408], ["triweekly", 0.06765218037320109]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.363833831115937], ["weekly", 41.21252084868702], ["biweekly", 35.15185601799775], ["triweekly", 25.373983424485726]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 722.9161010046158], ["weekly", 575.0358791357977], ["biweekly", 444.1255187929095], ["triweekly", 359.27621116325975]],
+      "Daily Growth Rate": [["daily", 0.6], ["weekly", 1.1859477124183007], ["biweekly", 1.9145441509937309], ["triweekly", 1.5239818149482016]],
+      "Confirmed Cumulative Cases": [["daily", 213.0], ["weekly", 169.42857142857142], ["biweekly", 130.85714285714286], ["triweekly", 105.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 12.142857142857142], ["biweekly", 10.357142857142858], ["triweekly", 7.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.009389671361502348], ["weekly", 0.009111411578597437], ["biweekly", 0.010158416577032264], ["triweekly", 0.012775898635832799]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015267175572519083], ["weekly", 0.016729024969116008], ["biweekly", 0.017369943861274932], ["triweekly", 0.01920128609339105]]
+    },
+    "lat": "REPLACE_MEGiles,Tennessee"
   }]
 }

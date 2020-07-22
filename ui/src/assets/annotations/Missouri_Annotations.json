@@ -2704,14 +2704,29 @@
     "long": "REPLACE_MEMissouri",
     "date": "07/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.025112973899181767], ["weekly", 0.02664211225860034], ["biweekly", 0.026275990030389273], ["triweekly", 0.023961585563819214]],
-      "Confirmed Daily Cases per 100k": [["daily", 14.560260586319218], ["weekly", 13.915774778966965], ["biweekly", 12.587249883666823], ["triweekly", 10.780207848611758]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 587.1009771986971], ["weekly", 530.4420660772453], ["biweekly", 486.1865984178688], ["triweekly", 449.54552505041113]],
-      "Daily Growth Rate": [["daily", 1.1302149178255374], ["weekly", 1.0880759063578223], ["biweekly", 1.119308643963717], ["triweekly", 1.0877452732497268]],
-      "Confirmed Cumulative Cases": [["daily", 36048.0], ["weekly", 32569.14285714286], ["biweekly", 29851.85714285714], ["triweekly", 27602.095238095237]],
-      "Confirmed Daily Cases": [["daily", 894.0], ["weekly", 854.4285714285714], ["biweekly", 772.8571428571429], ["triweekly", 661.9047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.032290279627163784], ["weekly", 0.03524456967966989], ["biweekly", 0.03785114208802081], ["triweekly", 0.04040357349679809]],
+      "Spread Rate": [["daily", 0.025002004582082904], ["weekly", 0.02664211225860034], ["biweekly", 0.026275990030389273], ["triweekly", 0.023961585563819214]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.495114006514658], ["weekly", 13.915774778966965], ["biweekly", 12.587249883666823], ["triweekly", 10.780207848611758]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 587.0358306188925], ["weekly", 530.4420660772453], ["biweekly", 486.1865984178688], ["triweekly", 449.54552505041113]],
+      "Daily Growth Rate": [["daily", 1.125158027812895], ["weekly", 1.0880759063578223], ["biweekly", 1.119308643963717], ["triweekly", 1.0877452732497268]],
+      "Confirmed Cumulative Cases": [["daily", 36044.0], ["weekly", 32569.14285714286], ["biweekly", 29851.85714285714], ["triweekly", 27602.095238095237]],
+      "Confirmed Daily Cases": [["daily", 890.0], ["weekly", 854.4285714285714], ["biweekly", 772.8571428571429], ["triweekly", 661.9047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.03229386305626457], ["weekly", 0.03524456967966989], ["biweekly", 0.03785114208802081], ["triweekly", 0.04040357349679809]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.039085322856855044], ["weekly", 0.04230467089531759], ["biweekly", 0.044879392395145476], ["triweekly", 0.04742816467504027]]
+    },
+    "lat": "REPLACE_MEMissouri"
+  }, {
+    "locale": "Missouri",
+    "long": "REPLACE_MEMissouri",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03285783773618256], ["weekly", 0.027267115442442296], ["biweekly", 0.026563047273582337], ["triweekly", 0.024058029289957938]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.60912052117264], ["weekly", 14.571893904141461], ["biweekly", 13.022335970218707], ["triweekly", 11.08732743911897]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 606.6449511400651], ["weekly", 545.0139599813867], ["biweekly", 499.2089343880875], ["triweekly", 460.63285248953]],
+      "Daily Growth Rate": [["daily", 1.3528089887640449], ["weekly", 1.0830548612580286], ["biweekly", 1.0646692252282173], ["triweekly", 1.073139271813626]],
+      "Confirmed Cumulative Cases": [["daily", 37248.0], ["weekly", 33463.857142857145], ["biweekly", 30651.428571428572], ["triweekly", 28282.85714285714]],
+      "Confirmed Daily Cases": [["daily", 1204.0], ["weekly", 894.7142857142857], ["biweekly", 799.5714285714286], ["triweekly", 680.7619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.031545317869415807], ["weekly", 0.03445664418392531], ["biweekly", 0.037087998934666896], ["triweekly", 0.03969486450494255]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03812830580523737], ["weekly", 0.04141516398524487], ["biweekly", 0.04416348945987025], ["triweekly", 0.04668129158140989]]
     },
     "lat": "REPLACE_MEMissouri"
   }]

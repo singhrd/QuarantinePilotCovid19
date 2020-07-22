@@ -2714,5 +2714,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.014267190091955834], ["biweekly", 0.015199909884975386], ["triweekly", 0.01648683133363282]]
     },
     "lat": "REPLACE_MESomerset,Pennsylvania"
+  }, {
+    "locale": "Somerset,Pennsylvania",
+    "long": "REPLACE_MESomerset,Pennsylvania",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03141619623337899], ["weekly", 0.021263661085366387], ["biweekly", 0.027457978493595166], ["triweekly", 0.02059147229031869]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.084577995016815], ["weekly", 2.528548282629457], ["biweekly", 2.9175557107262966], ["triweekly", 2.1395408545326173]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 132.06802183887703], ["weekly", 122.34283613645603], ["biweekly", 110.86711700759926], ["triweekly", 102.24411901811932]],
+      "Daily Growth Rate": [["daily", 1.224744871391589], ["weekly", 0.8963709527487833], ["biweekly", 0.9349986292959782], ["triweekly", 0.7185705147687473]],
+      "Confirmed Cumulative Cases": [["daily", 97.0], ["weekly", 89.85714285714286], ["biweekly", 81.42857142857143], ["triweekly", 75.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.8571428571428572], ["biweekly", 2.142857142857143], ["triweekly", 1.5714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.010309278350515464], ["weekly", 0.011147353885175085], ["biweekly", 0.012473034775161578], ["triweekly", 0.0136563072369179]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011904761904761904], ["weekly", 0.013798715665148077], ["biweekly", 0.014910783912789308], ["triweekly", 0.016082657318347696]]
+    },
+    "lat": "REPLACE_MESomerset,Pennsylvania"
   }]
 }

@@ -2714,5 +2714,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.012252370663046224], ["biweekly", 0.012136772133095644], ["triweekly", 0.01246807439156737]]
     },
     "lat": "REPLACE_MEPike,Alabama"
+  }, {
+    "locale": "Pike,Alabama",
+    "long": "REPLACE_MEPike,Alabama",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010772096981910728], ["weekly", 0.018708008978112898], ["biweekly", 0.015810008879647088], ["triweekly", 0.01539063140193879]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.11922449719152], ["weekly", 29.335887281167224], ["biweekly", 23.727555889179374], ["triweekly", 22.001915460875416]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1691.1276197378752], ["weekly", 1595.785986074082], ["biweekly", 1510.5824899265738], ["triweekly", 1432.2815554922822]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 2.6885167464114836], ["biweekly", 1.7634615401184743], ["triweekly", 1.6286833547879775]],
+      "Confirmed Cumulative Cases": [["daily", 560.0], ["weekly", 528.4285714285714], ["biweekly", 500.2142857142857], ["triweekly", 474.2857142857143]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 9.714285714285714], ["biweekly", 7.857142857142857], ["triweekly", 7.285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.010714285714285714], ["weekly", 0.01108184155084221], ["biweekly", 0.010840305396247338], ["triweekly", 0.011176424957169754]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012072434607645875], ["weekly", 0.012407287484629713], ["biweekly", 0.012127975781822151], ["triweekly", 0.012396420272514055]]
+    },
+    "lat": "REPLACE_MEPike,Alabama"
   }]
 }

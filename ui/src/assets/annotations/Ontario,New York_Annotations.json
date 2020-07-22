@@ -2714,5 +2714,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08609271523178808], ["weekly", 0.08868538201098868], ["biweekly", 0.09088179304809149], ["triweekly", 0.09412747318338206]]
     },
     "lat": "REPLACE_MEOntario,New York"
+  }, {
+    "locale": "Ontario,New York",
+    "long": "REPLACE_MEOntario,New York",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009160369398664159], ["weekly", 0.01092433771311972], ["biweekly", 0.010356450744899564], ["triweekly", 0.011324823641499412]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.7328128843018122], ["weekly", 3.123214724916356], ["biweekly", 2.862946831173327], ["triweekly", 2.9930807780448414]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 299.6984796450987], ["weekly", 290.06856757660665], ["biweekly", 278.42157933160604], ["triweekly", 268.3361984490636]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.1474936474333823], ["biweekly", 1.1749372999071672], ["triweekly", 1.2560806489177032]],
+      "Confirmed Cumulative Cases": [["daily", 329.0], ["weekly", 318.42857142857144], ["biweekly", 305.64285714285717], ["triweekly", 294.57142857142856]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.4285714285714284], ["biweekly", 3.142857142857143], ["triweekly", 3.2857142857142856]],
+      "Confirmed Fatality Rate": [["daily", 0.0790273556231003], ["weekly", 0.0812198023022391], ["biweekly", 0.08331398603736948], ["triweekly", 0.08615806908559982]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08469055374592833], ["weekly", 0.08831970100560074], ["biweekly", 0.09008296809383065], ["triweekly", 0.0933078031885164]]
+    },
+    "lat": "REPLACE_MEOntario,New York"
   }]
 }

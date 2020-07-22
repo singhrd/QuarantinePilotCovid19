@@ -2714,5 +2714,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008620689655172414], ["weekly", 0.009412252964846417], ["biweekly", 0.010397105376297715], ["triweekly", 0.011518517455446561]]
     },
     "lat": "REPLACE_MEDallam,Texas"
+  }, {
+    "locale": "Dallam,Texas",
+    "long": "REPLACE_MEDallam,Texas",
+    "date": "07/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006688988150796327], ["weekly", 0.035765159262727816], ["biweekly", 0.0352204856734721], ["triweekly", 0.027291881290578374]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.723068478111704], ["weekly", 64.69446568252661], ["biweekly", 56.85271226646278], ["triweekly", 42.47616433701243]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2058.460271716756], ["weekly", 1891.8230116253997], ["biweekly", 1704.6011488168754], ["triweekly", 1543.5184640618972]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 1.9555570906476802], ["biweekly", 1.1657291113667942], ["triweekly", 0.920009883768339]],
+      "Confirmed Cumulative Cases": [["daily", 150.0], ["weekly", 137.85714285714286], ["biweekly", 124.21428571428571], ["triweekly", 112.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.714285714285714], ["biweekly", 4.142857142857143], ["triweekly", 3.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.006666666666666667], ["weekly", 0.007281225632647872], ["biweekly", 0.008177573489187245], ["triweekly", 0.009202094402243507]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007936507936507936], ["weekly", 0.009073921345726621], ["biweekly", 0.010162528787041325], ["triweekly", 0.011108008424247875]]
+    },
+    "lat": "REPLACE_MEDallam,Texas"
   }]
 }
