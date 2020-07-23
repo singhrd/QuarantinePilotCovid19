@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016129032258064516], ["weekly", 0.016600263116541208], ["biweekly", 0.01749608028464918], ["triweekly", 0.01833420968460093]]
     },
     "lat": "REPLACE_MEBrown,Ohio"
+  }, {
+    "locale": "Brown,Ohio",
+    "long": "REPLACE_MEBrown,Ohio",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.040273899137940106], ["weekly", 0.0233321508718999], ["biweekly", 0.01642974504299799], ["triweekly", 0.01615312964604588]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.907349419782649], ["weekly", 3.6181354103623398], ["biweekly", 2.4669105070652324], ["triweekly", 2.302449806594217]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 174.98618530116045], ["weekly", 154.92197984369656], ["biweekly", 147.52124832250087], ["triweekly", 140.77835960318922]],
+      "Daily Growth Rate": [["daily", 0.6], ["weekly", 0.9622954253571129], ["biweekly", 0.8382905698214136], ["triweekly", 0.8306273694612543]],
+      "Confirmed Cumulative Cases": [["daily", 76.0], ["weekly", 67.28571428571429], ["biweekly", 64.07142857142857], ["triweekly", 61.142857142857146]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.5714285714285714], ["biweekly", 1.0714285714285714], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.013157894736842105], ["weekly", 0.014885271216189652], ["biweekly", 0.015663313805488265], ["triweekly", 0.01647810883455768]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015625], ["weekly", 0.01644135639478688], ["biweekly", 0.0172745276437417], ["triweekly", 0.0180440577815458]]
+    },
+    "lat": "REPLACE_MEBrown,Ohio"
   }]
 }

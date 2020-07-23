@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007246376811594203], ["weekly", 0.0048591702763524655], ["biweekly", 0.004569364977603288], ["triweekly", 0.004557486006115468]]
     },
     "lat": "REPLACE_MELiberty,Florida"
+  }, {
+    "locale": "Liberty,Florida",
+    "long": "REPLACE_MELiberty,Florida",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012578782206859707], ["weekly", 0.01933447826710896], ["biweekly", 0.018177428788727492], ["triweekly", 0.01681261103403014]],
+      "Confirmed Daily Cases per 100k": [["daily", 47.881254488867604], ["weekly", 68.40179212695372], ["biweekly", 60.70659051267144], ["triweekly", 53.58140383278041]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3830.5003591094087], ["weekly", 3551.763056192072], ["biweekly", 3372.2083518588183], ["triweekly", 3194.93370726313]],
+      "Daily Growth Rate": [["daily", 0.8], ["weekly", 1.2246864995358366], ["biweekly", 1.3920510419757104], ["triweekly", 1.1315708705670597]],
+      "Confirmed Cumulative Cases": [["daily", 320.0], ["weekly", 296.7142857142857], ["biweekly", 281.7142857142857], ["triweekly", 266.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 5.714285714285714], ["biweekly", 5.071428571428571], ["triweekly", 4.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.00625], ["weekly", 0.00475909495353805], ["biweekly", 0.004256899208548287], ["triweekly", 0.0042443159438195965]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0071174377224199285], ["weekly", 0.0053112765847143206], ["biweekly", 0.004765212999538265], ["triweekly", 0.004686101352122119]]
+    },
+    "lat": "REPLACE_MELiberty,Florida"
   }]
 }

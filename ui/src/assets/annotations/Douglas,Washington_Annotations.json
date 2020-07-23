@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01], ["weekly", 0.010187081885179748], ["biweekly", 0.010780565992685608], ["triweekly", 0.01181828475418332]]
     },
     "lat": "REPLACE_MEDouglas,Washington"
+  }, {
+    "locale": "Douglas,Washington",
+    "long": "REPLACE_MEDouglas,Washington",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05715841383994924], ["weekly", 0.043926385678280076], ["biweekly", 0.04016978209833929], ["triweekly", 0.039165985472591966]],
+      "Confirmed Daily Cases per 100k": [["daily", 73.68348338667711], ["weekly", 47.367953605720984], ["biweekly", 38.486462304648306], ["triweekly", 33.44265242996505]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1326.3027009601878], ["weekly", 1080.2524975082483], ["biweekly", 957.3918678434094], ["triweekly", 849.6626678026204]],
+      "Daily Growth Rate": [["daily", 2.2857142857142856], ["weekly", 1.4043312709699265], ["biweekly", 1.1835630984920413], ["triweekly", 1.2434071450264403]],
+      "Confirmed Cumulative Cases": [["daily", 576.0], ["weekly", 469.14285714285717], ["biweekly", 415.7857142857143], ["triweekly", 369.0]],
+      "Confirmed Daily Cases": [["daily", 32.0], ["weekly", 20.571428571428573], ["biweekly", 16.714285714285715], ["triweekly", 14.523809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.006944444444444444], ["weekly", 0.007931527271974086], ["biweekly", 0.00812842911247225], ["triweekly", 0.009073403636931444]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00980392156862745], ["weekly", 0.010233164834488504], ["biweekly", 0.010598258760169172], ["triweekly", 0.011576600140639411]]
+    },
+    "lat": "REPLACE_MEDouglas,Washington"
   }]
 }

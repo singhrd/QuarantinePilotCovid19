@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08032128514056225], ["weekly", 0.08492493005129388], ["biweekly", 0.09286099894592477], ["triweekly", 0.09924225181794032]]
     },
     "lat": "REPLACE_MELycoming,Pennsylvania"
+  }, {
+    "locale": "Lycoming,Pennsylvania",
+    "long": "REPLACE_MELycoming,Pennsylvania",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010810916104215806], ["weekly", 0.014706852750348887], ["biweekly", 0.01717882229833499], ["triweekly", 0.01982829422096926]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.647860969646687], ["weekly", 3.404392675260026], ["biweekly", 3.7196142192655834], ["triweekly", 3.9507766848696595]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 246.2510701771419], ["weekly", 234.02047426972626], ["biweekly", 223.11380884713392], ["triweekly", 208.80275074928164]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.4982993197278913], ["biweekly", 1.6586734693877552], ["triweekly", 1.5140572390134182]],
+      "Confirmed Cumulative Cases": [["daily", 279.0], ["weekly", 265.14285714285717], ["biweekly", 252.78571428571428], ["triweekly", 236.57142857142858]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.857142857142857], ["biweekly", 4.214285714285714], ["triweekly", 4.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.07168458781362007], ["weekly", 0.07549595631952413], ["biweekly", 0.07936439936562692], ["triweekly", 0.08540996481653239]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07936507936507936], ["weekly", 0.0832328424117297], ["biweekly", 0.09074894003524278], ["triweekly", 0.09783723732009204]]
+    },
+    "lat": "REPLACE_MELycoming,Pennsylvania"
   }]
 }

@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08333333333333333], ["weekly", 0.09815636807665244], ["biweekly", 0.10706756173947306], ["triweekly", 0.11120956007032651]]
     },
     "lat": "REPLACE_MESandusky,Ohio"
+  }, {
+    "locale": "Sandusky,Ohio",
+    "long": "REPLACE_MESandusky,Ohio",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02531780798428951], ["weekly", 0.037480609209641615], ["biweekly", 0.03823858496639833], ["triweekly", 0.031014289077354523]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.253255408592228], ["weekly", 13.182756953904292], ["biweekly", 11.84006874563626], ["triweekly", 9.114004807637533]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 410.1302163436891], ["weekly", 360.57281520216003], ["biweekly", 317.24060484441907], ["triweekly", 285.05677536744895]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 2.818940781440781], ["biweekly", 2.3594137013779872], ["triweekly", 2.0155917692809986]],
+      "Confirmed Cumulative Cases": [["daily", 240.0], ["weekly", 211.0], ["biweekly", 185.64285714285714], ["triweekly", 166.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 7.714285714285714], ["biweekly", 6.928571428571429], ["triweekly", 5.333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.07156451485851349], ["biweekly", 0.08247457756950075], ["triweekly", 0.09041498767084322]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08064516129032258], ["weekly", 0.09441983696785858], ["biweekly", 0.1048232213803786], ["triweekly", 0.10955010841087486]]
+    },
+    "lat": "REPLACE_MESandusky,Ohio"
   }]
 }

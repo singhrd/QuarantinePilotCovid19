@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09016393442622951], ["weekly", 0.09146477075762989], ["biweekly", 0.09298562130400337], ["triweekly", 0.09426195113602633]]
     },
     "lat": "REPLACE_MEIosco,Michigan"
+  }, {
+    "locale": "Iosco,Michigan",
+    "long": "REPLACE_MEIosco,Michigan",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00809721023262], ["weekly", 0.0011661872341657592], ["biweekly", 0.002964266493339426], ["triweekly", 0.004037930317146488]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.979782703864369], ["weekly", 0.5685403862663384], ["biweekly", 1.421350965665846], ["triweekly", 1.8951346208877946]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 493.49305527918176], ["weekly", 486.6705706439857], ["biweekly", 483.827868712654], ["triweekly", 477.9529513879018]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.0], ["biweekly", 0.10714285714285714], ["triweekly", 0.2619047619047619]],
+      "Confirmed Cumulative Cases": [["daily", 124.0], ["weekly", 122.28571428571429], ["biweekly", 121.57142857142857], ["triweekly", 120.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.14285714285714285], ["biweekly", 0.35714285714285715], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.08870967741935484], ["weekly", 0.0899544943927191], ["biweekly", 0.09049131796397296], ["triweekly", 0.09163328384228321]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09016393442622951], ["weekly", 0.09102814153522684], ["biweekly", 0.09247267856706529], ["triweekly", 0.09430377114271751]]
+    },
+    "lat": "REPLACE_MEIosco,Michigan"
   }]
 }

@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011415033383588197], ["weekly", 0.011941497233250525], ["biweekly", 0.012620539104757087], ["triweekly", 0.013337354682781712]]
     },
     "lat": "REPLACE_MESan Francisco,California"
+  }, {
+    "locale": "San Francisco,California",
+    "long": "REPLACE_MESan Francisco,California",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.017732271048080506], ["weekly", 0.020674577566520976], ["biweekly", 0.02057534707398442], ["triweekly", 0.01892779177249082]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.889922171087482], ["weekly", 11.716389478714659], ["biweekly", 10.88181955042447], ["triweekly", 9.50707491126685]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 619.5911968591649], ["weekly", 575.9018662442069], ["biweekly", 536.9525687171105], ["triweekly", 502.52453351997445]],
+      "Daily Growth Rate": [["daily", 1.6551724137931034], ["weekly", 1.192369741431947], ["biweekly", 1.2063883958520507], ["triweekly", 1.1245085591395527]],
+      "Confirmed Cumulative Cases": [["daily", 5462.0], ["weekly", 5076.857142857143], ["biweekly", 4733.5], ["triweekly", 4430.0]],
+      "Confirmed Daily Cases": [["daily", 96.0], ["weekly", 103.28571428571429], ["biweekly", 95.92857142857143], ["triweekly", 83.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.009703405346027096], ["weekly", 0.010199434615983853], ["biweekly", 0.01080669520392376], ["triweekly", 0.011569216969069176]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011278995530964035], ["weekly", 0.01179671115683901], ["biweekly", 0.012445485828099512], ["triweekly", 0.01314196048163367]]
+    },
+    "lat": "REPLACE_MESan Francisco,California"
   }]
 }

@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.034482758620689655], ["weekly", 0.03448275862068966], ["biweekly", 0.037776098214628955], ["triweekly", 0.040335580627934436]]
     },
     "lat": "REPLACE_MECarbon,Wyoming"
+  }, {
+    "locale": "Carbon,Wyoming",
+    "long": "REPLACE_MECarbon,Wyoming",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.15415067982725805], ["weekly", 0.05291054118527061], ["biweekly", 0.026455270592635305], ["triweekly", 0.0286750191597247]],
+      "Confirmed Daily Cases per 100k": [["daily", 47.2972972972973], ["weekly", 12.548262548262548], ["biweekly", 6.274131274131274], ["triweekly", 6.113256113256114]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 331.0810810810811], ["weekly", 225.86872586872587], ["biweekly", 210.90733590733595], ["triweekly", 197.55469755469758]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7857142857142857], ["biweekly", 0.39285714285714285], ["triweekly", 0.45927210678825386]],
+      "Confirmed Cumulative Cases": [["daily", 49.0], ["weekly", 33.42857142857143], ["biweekly", 31.214285714285715], ["triweekly", 29.238095238095237]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 1.8571428571428572], ["biweekly", 0.9285714285714286], ["triweekly", 0.9047619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.030283700091422956], ["biweekly", 0.03238322935605631], ["triweekly", 0.034850274923613825]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.034482758620689655], ["weekly", 0.03448275862068966], ["biweekly", 0.03713356233970927], ["triweekly", 0.03981311458822702]]
+    },
+    "lat": "REPLACE_MECarbon,Wyoming"
   }]
 }

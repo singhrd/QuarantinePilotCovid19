@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.031746031746031744], ["weekly", 0.03405156635220542], ["biweekly", 0.03479341654523983], ["triweekly", 0.03501086344691607]]
     },
     "lat": "REPLACE_MEClay,Georgia"
+  }, {
+    "locale": "Clay,Georgia",
+    "long": "REPLACE_MEClay,Georgia",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014815085785141235], ["weekly", 0.008793984714204736], ["biweekly", 0.012810066332558292], ["triweekly", 0.007697207216972164]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.28581510232886], ["weekly", 20.163322915616494], ["biweekly", 27.724569008972676], ["triweekly", 16.802769096347077]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2399.4354269583628], ["weekly", 2298.61881238028], ["biweekly", 2205.3634438955537], ["triweekly", 2130.591121416809]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.24387239731236393], ["biweekly", 0.240983817703801], ["triweekly", 0.16065587846920065]],
+      "Confirmed Cumulative Cases": [["daily", 68.0], ["weekly", 65.14285714285714], ["biweekly", 62.5], ["triweekly", 60.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.7857142857142857], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.029411764705882353], ["weekly", 0.030706700016401512], ["biweekly", 0.03209568647228532], ["triweekly", 0.03327204972361687]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.03348467292816914], ["biweekly", 0.034554724577224555], ["triweekly", 0.03482189897223731]]
+    },
+    "lat": "REPLACE_MEClay,Georgia"
   }]
 }

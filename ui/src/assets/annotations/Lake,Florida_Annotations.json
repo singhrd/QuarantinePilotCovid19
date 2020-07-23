@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012935680919870643], ["weekly", 0.014331541190326449], ["biweekly", 0.015397996337288885], ["triweekly", 0.01799082924964505]]
     },
     "lat": "REPLACE_MELake,Florida"
+  }, {
+    "locale": "Lake,Florida",
+    "long": "REPLACE_MELake,Florida",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.034247014599429804], ["weekly", 0.031641327316883405], ["biweekly", 0.03949086382396975], ["triweekly", 0.046719868094074316]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.959429938058065], ["weekly", 26.850066891688385], ["biweekly", 28.698441061768385], ["triweekly", 28.160142619253854]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 978.9767867552122], ["weekly", 873.3276105074818], ["biweekly", 765.5771246769236], ["triweekly", 665.3628170415689]],
+      "Daily Growth Rate": [["daily", 1.475609756097561], ["weekly", 1.0918143808635408], ["biweekly", 1.0705838281057483], ["triweekly", 1.1590579712955145]],
+      "Confirmed Cumulative Cases": [["daily", 3594.0], ["weekly", 3206.1428571428573], ["biweekly", 2810.5714285714284], ["triweekly", 2442.6666666666665]],
+      "Confirmed Daily Cases": [["daily", 121.0], ["weekly", 98.57142857142857], ["biweekly", 105.35714285714286], ["triweekly", 103.38095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.01001669449081803], ["weekly", 0.010693173577348685], ["biweekly", 0.010855814799680345], ["triweekly", 0.01180521961355375]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012491325468424705], ["weekly", 0.014248993676948896], ["biweekly", 0.014950457197376199], ["triweekly", 0.01728905424702733]]
+    },
+    "lat": "REPLACE_MELake,Florida"
   }]
 }

@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.03304860305985587], ["biweekly", 0.0342070833538494], ["triweekly", 0.035305838481741576]]
     },
     "lat": "REPLACE_MEHenry,Iowa"
+  }, {
+    "locale": "Henry,Iowa",
+    "long": "REPLACE_MEHenry,Iowa",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.010367241833547933], ["biweekly", 0.010773063552470319], ["triweekly", 0.009450044701135165]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 5.011526510975243], ["biweekly", 5.011526510975243], ["triweekly", 4.295594152264495]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 501.1526510975243], ["weekly", 493.99332751041686], ["biweekly", 477.1689170807143], ["triweekly", 460.82179489015203]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6724438258837926], ["biweekly", 0.5147933415133249], ["triweekly", 0.5098622276755499]],
+      "Confirmed Cumulative Cases": [["daily", 100.0], ["weekly", 98.57142857142857], ["biweekly", 95.21428571428571], ["triweekly", 91.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.0], ["biweekly", 1.0], ["triweekly", 0.8571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.03], ["weekly", 0.03044848334470566], ["biweekly", 0.03156099631555909], ["triweekly", 0.032748154715681044]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.031914893617021274], ["weekly", 0.03267350928641251], ["biweekly", 0.03389799040116872], ["triweekly", 0.03503361852801897]]
+    },
+    "lat": "REPLACE_MEHenry,Iowa"
   }]
 }

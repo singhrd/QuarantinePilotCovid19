@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08204518430439953], ["weekly", 0.08621224684271296], ["biweekly", 0.08580994939962205], ["triweekly", 0.08701186080806549]]
     },
     "lat": "REPLACE_MEBroome,New York"
+  }, {
+    "locale": "Broome,New York",
+    "long": "REPLACE_MEBroome,New York",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014077113890836657], ["weekly", 0.012359401754788049], ["biweekly", 0.013225779754987002], ["triweekly", 0.011782252633134234]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.824576876233674], ["weekly", 5.699646621909442], ["biweekly", 5.8121396473418665], ["triweekly", 5.024688469314904]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 488.21973037671665], ["weekly", 462.1213484763945], ["biweekly", 441.6101201725493], ["triweekly", 424.6736702324456]],
+      "Daily Growth Rate": [["daily", 0.8666666666666667], ["weekly", 1.1707081556705616], ["biweekly", 1.3029637973083545], ["triweekly", 1.3812559102237103]],
+      "Confirmed Cumulative Cases": [["daily", 930.0], ["weekly", 880.2857142857143], ["biweekly", 841.2142857142857], ["triweekly", 808.952380952381]],
+      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 10.857142857142858], ["biweekly", 11.071428571428571], ["triweekly", 9.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.07419354838709677], ["weekly", 0.07792697412295836], ["biweekly", 0.07861942210385132], ["triweekly", 0.08011894221425983]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08098591549295775], ["weekly", 0.08555953413929197], ["biweekly", 0.08548516408058274], ["triweekly", 0.0865897700173659]]
+    },
+    "lat": "REPLACE_MEBroome,New York"
   }]
 }

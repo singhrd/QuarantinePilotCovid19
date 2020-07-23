@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.046511627906976744], ["weekly", 0.058775847327872555], ["biweekly", 0.0633780714471875], ["triweekly", 0.06971236509177578]]
     },
     "lat": "REPLACE_MEBureau,Illinois"
+  }, {
+    "locale": "Bureau,Illinois",
+    "long": "REPLACE_MEBureau,Illinois",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0840831172105414], ["weekly", 0.04026445030585541], ["biweekly", 0.04350457595352886], ["triweekly", 0.03217883037371791]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.324261370601937], ["weekly", 6.129704548240774], ["biweekly", 5.69186850908072], ["triweekly", 4.086469698827183]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 190.020840995464], ["weekly", 154.11828578433946], ["biweekly", 132.22648382633673], ["triweekly", 118.50762126598829]],
+      "Daily Growth Rate": [["daily", 1.25], ["weekly", 1.169719124530369], ["biweekly", 1.1416101217762378], ["triweekly", 0.8086924621365396]],
+      "Confirmed Cumulative Cases": [["daily", 62.0], ["weekly", 50.285714285714285], ["biweekly", 43.142857142857146], ["triweekly", 38.666666666666664]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 2.0], ["biweekly", 1.8571428571428572], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.040033403003146714], ["biweekly", 0.04811858937084668], ["triweekly", 0.054527282473726145]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.045454545454545456], ["weekly", 0.05620377573854666], ["biweekly", 0.06177422220901589], ["triweekly", 0.06795895054766359]]
+    },
+    "lat": "REPLACE_MEBureau,Illinois"
   }]
 }

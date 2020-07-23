@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06376258161846168], ["weekly", 0.06403348143457326], ["biweekly", 0.06420469865839724], ["triweekly", 0.06436624997741999]]
     },
     "lat": "REPLACE_MENassau,New York"
+  }, {
+    "locale": "Nassau,New York",
+    "long": "REPLACE_MENassau,New York",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0008421644121856531], ["weekly", 0.0010267398038299141], ["biweekly", 0.0010796558708609436], ["triweekly", 0.0010387646188364148]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.6530594196874695], ["weekly", 3.2215721524776413], ["biweekly", 3.374228349245373], ["triweekly", 3.2356095039045596]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3151.61350230374], ["weekly", 3138.8851338973814], ["biweekly", 3126.8989904477235], ["triweekly", 3115.888442922233]],
+      "Daily Growth Rate": [["daily", 0.7058823529411765], ["weekly", 1.0330914648793974], ["biweekly", 1.0970041924194351], ["triweekly", 1.1052114872940366]],
+      "Confirmed Cumulative Cases": [["daily", 42765.0], ["weekly", 42592.28571428572], ["biweekly", 42429.642857142855], ["triweekly", 42280.23809523809]],
+      "Confirmed Daily Cases": [["daily", 36.0], ["weekly", 43.714285714285715], ["biweekly", 45.785714285714285], ["triweekly", 43.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.06325265988542032], ["weekly", 0.06348590035377767], ["biweekly", 0.06368798083915239], ["triweekly", 0.06386953522184276]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06370401770995243], ["weekly", 0.06397455569787806], ["biweekly", 0.064149551109154], ["triweekly", 0.06431576155752025]]
+    },
+    "lat": "REPLACE_MENassau,New York"
   }]
 }

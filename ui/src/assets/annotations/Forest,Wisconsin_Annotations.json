@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08333333333333333], ["weekly", 0.06659531222971804], ["biweekly", 0.07175919457639747], ["triweekly", 0.0747997208382571]]
     },
     "lat": "REPLACE_MEForest,Wisconsin"
+  }, {
+    "locale": "Forest,Wisconsin",
+    "long": "REPLACE_MEForest,Wisconsin",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019802627296179764], ["weekly", 0.005831713502893544], ["biweekly", 0.015938825093872122], ["triweekly", 0.011831493299928556]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.106175033318525], ["weekly", 3.173192866662436], ["biweekly", 7.932982166656089], ["triweekly", 5.817520255547798]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 566.4149266992448], ["weekly", 550.5489623659325], ["biweekly", 533.0964015992893], ["triweekly", 500.30674197711096]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.5], ["triweekly", 0.3333333333333333]],
+      "Confirmed Cumulative Cases": [["daily", 51.0], ["weekly", 49.57142857142857], ["biweekly", 48.0], ["triweekly", 45.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.2857142857142857], ["biweekly", 0.7142857142857143], ["triweekly", 0.5238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.0784313725490196], ["weekly", 0.06338192419825073], ["biweekly", 0.06409576107112723], ["triweekly", 0.06827995793020206]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08163265306122448], ["weekly", 0.06778578842019423], ["biweekly", 0.07221707003427293], ["triweekly", 0.07468634215344984]]
+    },
+    "lat": "REPLACE_MEForest,Wisconsin"
   }]
 }

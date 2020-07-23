@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08163265306122448], ["weekly", 0.08633713225549959], ["biweekly", 0.08692915336659791], ["triweekly", 0.08703029364076388]]
     },
     "lat": "REPLACE_MEHoward,Nebraska"
+  }, {
+    "locale": "Howard,Nebraska",
+    "long": "REPLACE_MEHoward,Nebraska",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.005715047801957037], ["biweekly", 0.010545428486147479], ["triweekly", 0.004913535058820508]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 4.433115371827553], ["biweekly", 7.757951900698217], ["triweekly", 3.6942628098562937]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 791.3110938712181], ["weekly", 780.2283054416492], ["biweekly", 755.8461708965976], ["triweekly", 738.8525619712585]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.11642575178195977], ["triweekly", 0.07761716785463985]],
+      "Confirmed Cumulative Cases": [["daily", 51.0], ["weekly", 50.285714285714285], ["biweekly", 48.714285714285715], ["triweekly", 47.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.5], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.0784313725490196], ["weekly", 0.07955182072829133], ["biweekly", 0.0822818737884764], ["triweekly", 0.08421652493107164]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08], ["weekly", 0.08501192684866153], ["biweekly", 0.0865488770324618], ["triweekly", 0.0866847586013513]]
+    },
+    "lat": "REPLACE_MEHoward,Nebraska"
   }]
 }

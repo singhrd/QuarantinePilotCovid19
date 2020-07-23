@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.0859616573902288], ["biweekly", 0.11134817563388988], ["triweekly", 0.12638631210059778]]
     },
     "lat": "REPLACE_MEGogebic,Michigan"
+  }, {
+    "locale": "Gogebic,Michigan",
+    "long": "REPLACE_MEGogebic,Michigan",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.14772482393293407], ["biweekly", 0.10062622978371064], ["triweekly", 0.08860725431976221]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 29.644773830820334], ["biweekly", 17.377970866342956], ["triweekly", 12.948292018059457]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 322.00357781753127], ["weekly", 211.60235113723485], ["biweekly", 150.26833631484791], ["triweekly", 119.26058437686342]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.8786929006732278], ["biweekly", 1.1117902762204064], ["triweekly", 0.7570665333532868]],
+      "Confirmed Cumulative Cases": [["daily", 45.0], ["weekly", 29.571428571428573], ["biweekly", 21.0], ["triweekly", 16.666666666666668]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.142857142857143], ["biweekly", 2.4285714285714284], ["triweekly", 1.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.022222222222222223], ["weekly", 0.03747191949162392], ["biweekly", 0.05968756766170558], ["triweekly", 0.08289622630755634]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.08190321583178725], ["biweekly", 0.10560837971552255], ["triweekly", 0.12142599464028034]]
+    },
+    "lat": "REPLACE_MEGogebic,Michigan"
   }]
 }

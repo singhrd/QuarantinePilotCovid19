@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1168904593639576], ["weekly", 0.11739440738088733], ["biweekly", 0.11749979920545035], ["triweekly", 0.11757912200174747]]
     },
     "lat": "REPLACE_MEMorris,New Jersey"
+  }, {
+    "locale": "Morris,New Jersey",
+    "long": "REPLACE_MEMorris,New Jersey",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0022361993944723935], ["weekly", 0.0014464635297914339], ["biweekly", 0.0017195473771958497], ["triweekly", 0.0017853718994547342]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.2530573656334822], ["weekly", 2.091251163621524], ["biweekly", 2.46883817927541], ["triweekly", 2.546291926076207]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1456.3531193770395], ["weekly", 1445.3159604579262], ["biweekly", 1438.3741684009044], ["triweekly", 1429.5541229839637]],
+      "Daily Growth Rate": [["daily", 0.6956521739130435], ["weekly", 1.3865079365079365], ["biweekly", 1.2844863703056981], ["triweekly", 1.420999866433303]],
+      "Confirmed Cumulative Cases": [["daily", 7163.0], ["weekly", 7108.714285714285], ["biweekly", 7074.571428571428], ["triweekly", 7031.190476190476]],
+      "Confirmed Daily Cases": [["daily", 16.0], ["weekly", 10.285714285714286], ["biweekly", 12.142857142857142], ["triweekly", 12.523809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.11517520591930755], ["weekly", 0.1161760502119145], ["biweekly", 0.11612027835444752], ["triweekly", 0.11601251517321201]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11647606946209234], ["weekly", 0.11730318387062569], ["biweekly", 0.1174860397867308], ["triweekly", 0.11749645669520978]]
+    },
+    "lat": "REPLACE_MEMorris,New Jersey"
   }]
 }

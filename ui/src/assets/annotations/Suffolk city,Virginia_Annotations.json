@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07352941176470588], ["weekly", 0.08357285476845636], ["biweekly", 0.08831911342131793], ["triweekly", 0.08983391029571523]]
     },
     "lat": "REPLACE_MESuffolk city,Virginia"
+  }, {
+    "locale": "Suffolk city,Virginia",
+    "long": "REPLACE_MESuffolk city,Virginia",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02156075910657762], ["weekly", 0.034651662453044504], ["biweekly", 0.03618294464139523], ["triweekly", 0.03016323551706302]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.456594432622573], ["weekly", 26.056368610761286], ["biweekly", 24.040101992071417], ["triweekly", 18.92188672924331]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 865.2885742823642], ["weekly", 762.9242690258021], ["biweekly", 675.4493172611035], ["triweekly", 610.9287854630278]],
+      "Daily Growth Rate": [["daily", 0.7391304347826086], ["weekly", 1.0215298679153357], ["biweekly", 1.1660966163791338], ["triweekly", 1.3307527226077345]],
+      "Confirmed Cumulative Cases": [["daily", 797.0], ["weekly", 702.7142857142857], ["biweekly", 622.1428571428571], ["triweekly", 562.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 17.0], ["weekly", 24.0], ["biweekly", 22.142857142857142], ["triweekly", 17.428571428571427]],
+      "Confirmed Fatality Rate": [["daily", 0.056461731493099125], ["weekly", 0.06267418042143542], ["biweekly", 0.06944313043277361], ["triweekly", 0.07409161751993622]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07109004739336493], ["weekly", 0.08131109900232013], ["biweekly", 0.08701496857497358], ["triweekly", 0.08907465922686665]]
+    },
+    "lat": "REPLACE_MESuffolk city,Virginia"
   }]
 }

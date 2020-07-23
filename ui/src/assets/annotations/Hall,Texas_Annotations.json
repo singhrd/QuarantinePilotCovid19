@@ -2729,5 +2729,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.5], ["weekly", 0.5], ["biweekly", 0.5], ["triweekly", 0.5]]
     },
     "lat": "REPLACE_MEHall,Texas"
+  }, {
+    "locale": "Hall,Texas",
+    "long": "REPLACE_MEHall,Texas",
+    "date": "07/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.6931471805599453], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Daily Cases per 100k": [["daily", 67.47638326585695], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 134.9527665317139], ["weekly", 67.47638326585695], ["biweekly", 67.47638326585695], ["triweekly", 67.47638326585692]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Cumulative Cases": [["daily", 4.0], ["weekly", 2.0], ["biweekly", 2.0], ["triweekly", 2.0]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Fatality Rate": [["daily", 0.25], ["weekly", 0.5], ["biweekly", 0.5], ["triweekly", 0.5]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.5], ["weekly", 0.5], ["biweekly", 0.5], ["triweekly", 0.5]]
+    },
+    "lat": "REPLACE_MEHall,Texas"
   }]
 }
