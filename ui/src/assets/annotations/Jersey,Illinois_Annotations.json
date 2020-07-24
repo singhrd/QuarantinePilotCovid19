@@ -2744,5 +2744,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020833333333333332], ["weekly", 0.024506875057670654], ["biweekly", 0.02648246247214598], ["triweekly", 0.02730125773695712]]
     },
     "lat": "REPLACE_MEJersey,Illinois"
+  }, {
+    "locale": "Jersey,Illinois",
+    "long": "REPLACE_MEJersey,Illinois",
+    "date": "07/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01769957709940062], ["weekly", 0.022021525689608357], ["biweekly", 0.029602412720780378], ["triweekly", 0.02238112520217791]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.592844348505029], ["weekly", 5.248964969720033], ["biweekly", 6.233145901542538], ["triweekly", 4.592844348505028]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 261.79212786478666], ["weekly", 241.45238860712152], ["biweekly", 218.48816686459637], ["triweekly", 199.89808259683792]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.738095238095238], ["biweekly", 0.9803389193851134], ["triweekly", 0.7011783272091232]],
+      "Confirmed Cumulative Cases": [["daily", 57.0], ["weekly", 52.57142857142857], ["biweekly", 47.57142857142857], ["triweekly", 43.523809523809526]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.1428571428571428], ["biweekly", 1.3571428571428572], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.019048662199922704], ["biweekly", 0.021335361936389984], ["triweekly", 0.023636048322447967]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.02362206167285727], ["biweekly", 0.025929741383710604], ["triweekly", 0.026850319786019167]]
+    },
+    "lat": "REPLACE_MEJersey,Illinois"
   }]
 }

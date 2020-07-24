@@ -2744,5 +2744,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013333333333333334], ["weekly", 0.001904761904761905], ["biweekly", 0.0009523809523809525], ["triweekly", 0.0006349206349206349]]
     },
     "lat": "REPLACE_MECalaveras,California"
+  }, {
+    "locale": "Calaveras,California",
+    "long": "REPLACE_MECalaveras,California",
+    "date": "07/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.020619287202736203], ["weekly", 0.035265725418789425], ["biweekly", 0.03239102337818034], ["triweekly", 0.04168898749304285]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.356823875394837], ["weekly", 6.535235813092256], ["biweekly", 5.446029844243546], ["triweekly", 5.80909850052645]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 213.48436989434703], ["weekly", 192.01145222275818], ["biweekly", 170.53853455116933], ["triweekly", 153.83737636215577]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.5048716233001979], ["biweekly", 0.3173329756798182], ["triweekly", 0.2889362695008312]],
+      "Confirmed Cumulative Cases": [["daily", 98.0], ["weekly", 88.14285714285714], ["biweekly", 78.28571428571429], ["triweekly", 70.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.0], ["biweekly", 2.5], ["triweekly", 2.6666666666666665]],
+      "Confirmed Fatality Rate": [["daily", 0.01020408163265306], ["weekly", 0.003007852077001013], ["biweekly", 0.0015039260385005064], ["triweekly", 0.0010026173590003376]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013333333333333334], ["weekly", 0.00380952380952381], ["biweekly", 0.001904761904761905], ["triweekly", 0.0012698412698412698]]
+    },
+    "lat": "REPLACE_MECalaveras,California"
   }]
 }

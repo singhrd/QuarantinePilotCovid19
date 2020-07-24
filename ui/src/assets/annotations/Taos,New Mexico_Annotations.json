@@ -2744,5 +2744,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01639344262295082], ["weekly", 0.018773605051761646], ["biweekly", 0.020153499064383552], ["triweekly", 0.021998541899031304]]
     },
     "lat": "REPLACE_METaos,New Mexico"
+  }, {
+    "locale": "Taos,New Mexico",
+    "long": "REPLACE_METaos,New Mexico",
+    "date": "07/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.09038406146826894], ["weekly", 0.027598747004408404], ["biweekly", 0.026588532891417462], ["triweekly", 0.02585071321479085]],
+      "Confirmed Daily Cases per 100k": [["daily", 21.391681691776427], ["weekly", 5.675344122308031], ["biweekly", 5.020496723580182], ["triweekly", 4.511170969014076]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 247.5323167191272], ["weekly", 213.04368705279376], ["biweekly", 190.3423105635617], ["triweekly", 175.49910285906373]],
+      "Daily Growth Rate": [["daily", 2.3333333333333335], ["weekly", 0.7169207710536698], ["biweekly", 0.8794389945256993], ["triweekly", 0.8015325591026178]],
+      "Confirmed Cumulative Cases": [["daily", 81.0], ["weekly", 69.71428571428571], ["biweekly", 62.285714285714285], ["triweekly", 57.42857142857143]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 1.8571428571428572], ["biweekly", 1.6428571428571428], ["triweekly", 1.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.014363629121743023], ["biweekly", 0.01633901705001633], ["triweekly", 0.017896762829668254]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015384615384615385], ["weekly", 0.01831440497828963], ["biweekly", 0.01966332968363087], ["triweekly", 0.021492180736932442]]
+    },
+    "lat": "REPLACE_METaos,New Mexico"
   }]
 }

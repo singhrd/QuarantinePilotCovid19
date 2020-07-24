@@ -2744,5 +2744,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009615384615384616], ["weekly", 0.00788164858116463], ["biweekly", 0.006442304873391529], ["triweekly", 0.00657293435407114]]
     },
     "lat": "REPLACE_MEMarathon,Wisconsin"
+  }, {
+    "locale": "Marathon,Wisconsin",
+    "long": "REPLACE_MEMarathon,Wisconsin",
+    "date": "07/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05226842854575686], ["weekly", 0.03902199598412448], ["biweekly", 0.04036562186661812], ["triweekly", 0.04081437430875356]],
+      "Confirmed Daily Cases per 100k": [["daily", 16.21318869203785], ["weekly", 10.317483713114997], ["biweekly", 9.317319475619156], ["triweekly", 8.282061756105914]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 318.36806886183416], ["weekly", 272.46579438307765], ["biweekly", 238.98661253848005], ["triweekly", 210.9118269245617]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.4903461384553824], ["biweekly", 1.3126964422132488], ["triweekly", 1.6243373106818486]],
+      "Confirmed Cumulative Cases": [["daily", 432.0], ["weekly", 369.7142857142857], ["biweekly", 324.2857142857143], ["triweekly", 286.1904761904762]],
+      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 14.0], ["biweekly", 12.642857142857142], ["triweekly", 11.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.006944444444444444], ["weekly", 0.006527254061113497], ["biweekly", 0.005070323745462449], ["triweekly", 0.0049785704596468534]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009202453987730062], ["weekly", 0.008642154169996398], ["biweekly", 0.00671860902900603], ["triweekly", 0.006664509445646232]]
+    },
+    "lat": "REPLACE_MEMarathon,Wisconsin"
   }]
 }
