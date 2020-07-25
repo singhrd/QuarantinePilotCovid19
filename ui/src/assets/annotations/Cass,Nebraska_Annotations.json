@@ -2759,5 +2759,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009433962264150943], ["weekly", 0.011503375876518035], ["biweekly", 0.012745725510814135], ["triweekly", 0.013615990820523964]]
     },
     "lat": "REPLACE_MECass,Nebraska"
+  }, {
+    "locale": "Cass,Nebraska",
+    "long": "REPLACE_MECass,Nebraska",
+    "date": "07/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.015384918839479234], ["weekly", 0.02805333003565786], ["biweekly", 0.034127554977699336], ["triweekly", 0.03049069996121738]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.619628162145688], ["weekly", 12.517960552096486], ["biweekly", 13.334349283754955], ["triweekly", 11.066602806925877]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 499.08564462054255], ["weekly", 439.21713763225495], ["biweekly", 393.22723908216136], ["triweekly", 355.21980813050607]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.8059985250372634], ["biweekly", 0.9973870176206726], ["triweekly", 0.9796349754125471]],
+      "Confirmed Cumulative Cases": [["daily", 131.0], ["weekly", 115.28571428571429], ["biweekly", 103.21428571428571], ["triweekly", 93.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.2857142857142856], ["biweekly", 3.5], ["triweekly", 2.9047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.007633587786259542], ["weekly", 0.00871114745620548], ["biweekly", 0.009888258970943966], ["triweekly", 0.011149822345526002]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009174311926605505], ["weekly", 0.011065370485682456], ["biweekly", 0.01236915979018626], ["triweekly", 0.013309369220101825]]
+    },
+    "lat": "REPLACE_MECass,Nebraska"
   }]
 }

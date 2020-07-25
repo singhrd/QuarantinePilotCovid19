@@ -2759,5 +2759,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06040268456375839], ["weekly", 0.06836487056286923], ["biweekly", 0.07155351482532248], ["triweekly", 0.07503176951943245]]
     },
     "lat": "REPLACE_MELaSalle,Illinois"
+  }, {
+    "locale": "LaSalle,Illinois",
+    "long": "REPLACE_MELaSalle,Illinois",
+    "date": "07/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.023469134540847314], ["weekly", 0.034348959796717385], ["biweekly", 0.03293376093935109], ["triweekly", 0.025900412320479255]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.282030753940866], ["weekly", 10.648325255066828], ["biweekly", 9.202256393267628], ["triweekly", 6.967422697759776]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 357.04754805878406], ["weekly", 313.00817817671754], ["biweekly", 280.93174160589894], ["triweekly", 257.92610062272985]],
+      "Daily Growth Rate": [["daily", 0.5294117647058824], ["weekly", 1.1831632653061224], ["biweekly", 1.3756493506493506], ["triweekly", 1.4432900432900435]],
+      "Confirmed Cumulative Cases": [["daily", 388.0], ["weekly", 340.14285714285717], ["biweekly", 305.2857142857143], ["triweekly", 280.2857142857143]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 11.571428571428571], ["biweekly", 10.0], ["triweekly", 7.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.04639175257731959], ["weekly", 0.053190490221723875], ["biweekly", 0.05815500786342078], ["triweekly", 0.06339153350202689]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.06683243877012461], ["biweekly", 0.07034851177468185], ["triweekly", 0.07384012899016419]]
+    },
+    "lat": "REPLACE_MELaSalle,Illinois"
   }]
 }

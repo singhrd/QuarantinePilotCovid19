@@ -2759,5 +2759,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.046511627906976744], ["weekly", 0.032984859439053944], ["biweekly", 0.0392197024467997], ["triweekly", 0.04298817574107766]]
     },
     "lat": "REPLACE_MELake,South Dakota"
+  }, {
+    "locale": "Lake,South Dakota",
+    "long": "REPLACE_MELake,South Dakota",
+    "date": "07/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01769957709940062], ["weekly", 0.03773593929165532], ["biweekly", 0.06356124820042856], ["triweekly", 0.044490916065563504]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.814331483941549], ["weekly", 14.512329898748591], ["biweekly", 18.419495640719365], ["triweekly", 12.651774783524413]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 445.4168945846683], ["weekly", 390.7165741970775], ["biweekly", 329.3182553946795], ["triweekly", 277.2227121684025]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.40476190476190477], ["biweekly", 0.7914914449314115], ["triweekly", 0.5276609632876077]],
+      "Confirmed Cumulative Cases": [["daily", 57.0], ["weekly", 50.0], ["biweekly", 42.142857142857146], ["triweekly", 35.476190476190474]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 2.357142857142857], ["triweekly", 1.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.03508771929824561], ["weekly", 0.022631080463255883], ["biweekly", 0.02636350945714942], ["triweekly", 0.03263307933318715]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0425531914893617], ["weekly", 0.033418197587255595], ["biweekly", 0.03929520833625908], ["triweekly", 0.04255751251971677]]
+    },
+    "lat": "REPLACE_MELake,South Dakota"
   }]
 }
