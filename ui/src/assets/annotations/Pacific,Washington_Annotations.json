@@ -2774,5 +2774,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.055555555555555566], ["biweekly", 0.05555555555555557], ["triweekly", 0.06054729584141351]]
     },
     "lat": "REPLACE_MEPacific,Washington"
+  }, {
+    "locale": "Pacific,Washington",
+    "long": "REPLACE_MEPacific,Washington",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03774032798284699], ["weekly", 0.05253211144647395], ["biweekly", 0.026266055723236974], ["triweekly", 0.017510703815491316]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.450180232299409], ["weekly", 5.085920265485038], ["biweekly", 2.542960132742519], ["triweekly", 1.6953067551616794]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 120.15486627208402], ["weekly", 102.35414534288641], ["biweekly", 91.22869476213785], ["triweekly", 87.5202112352217]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.4262553227855438], ["biweekly", 0.2131276613927719], ["triweekly", 0.14208510759518125]],
+      "Confirmed Cumulative Cases": [["daily", 27.0], ["weekly", 23.0], ["biweekly", 20.5], ["triweekly", 19.666666666666668]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.1428571428571428], ["biweekly", 0.5714285714285714], ["triweekly", 0.38095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.037037037037037035], ["weekly", 0.0445506929717456], ["biweekly", 0.050053124263650585], ["triweekly", 0.05188726802761892]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.055555555555555566], ["biweekly", 0.05555555555555557], ["triweekly", 0.05922454451866218]]
+    },
+    "lat": "REPLACE_MEPacific,Washington"
   }]
 }

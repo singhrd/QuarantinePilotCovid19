@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MESonoma,California",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.04380883381922729], ["weekly", 0.018050322209320235], ["biweekly", 0.027684462957272084], ["triweekly", 0.02839320102838585]],
-      "Confirmed Daily Cases per 100k": [["daily", 20.836030554117038], ["weekly", 7.889370792335577], ["biweekly", 10.67810442405859], ["triweekly", 9.950818105595422]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 486.10661574313826], ["weekly", 443.65428719390394], ["biweekly", 407.9787258637271], ["triweekly", 368.5944859559567]],
-      "Daily Growth Rate": [["daily", 1.7457627118644068], ["weekly", 0.8641592665823724], ["biweekly", 0.9726090719765025], ["triweekly", 1.2892570326940758]],
-      "Confirmed Cumulative Cases": [["daily", 2403.0], ["weekly", 2193.1428571428573], ["biweekly", 2016.7857142857142], ["triweekly", 1822.095238095238]],
-      "Confirmed Daily Cases": [["daily", 103.0], ["weekly", 39.0], ["biweekly", 52.785714285714285], ["triweekly", 49.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.009987515605493134], ["weekly", 0.009372485611677214], ["biweekly", 0.009072959218945739], ["triweekly", 0.008933924135867865]],
+      "Spread Rate": [["daily", 0.06968828180704811], ["weekly", 0.018050322209320235], ["biweekly", 0.027684462957272084], ["triweekly", 0.02839320102838585]],
+      "Confirmed Daily Cases per 100k": [["daily", 33.58039875712066], ["weekly", 7.889370792335577], ["biweekly", 10.67810442405859], ["triweekly", 9.950818105595422]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 498.85098394614187], ["weekly", 443.65428719390394], ["biweekly", 407.9787258637271], ["triweekly", 368.5944859559567]],
+      "Daily Growth Rate": [["daily", 2.8135593220338984], ["weekly", 0.8641592665823724], ["biweekly", 0.9726090719765025], ["triweekly", 1.2892570326940758]],
+      "Confirmed Cumulative Cases": [["daily", 2466.0], ["weekly", 2193.1428571428573], ["biweekly", 2016.7857142857142], ["triweekly", 1822.095238095238]],
+      "Confirmed Daily Cases": [["daily", 166.0], ["weekly", 39.0], ["biweekly", 52.785714285714285], ["triweekly", 49.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.009732360097323601], ["weekly", 0.009372485611677214], ["biweekly", 0.009072959218945739], ["triweekly", 0.008933924135867865]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01160541586073501], ["weekly", 0.01118530586290827], ["biweekly", 0.011226997228346844], ["triweekly", 0.011087782773868772]]
+    },
+    "lat": "REPLACE_MESonoma,California"
+  }, {
+    "locale": "Sonoma,California",
+    "long": "REPLACE_MESonoma,California",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0370191524354988], ["weekly", 0.025145064013709955], ["biweekly", 0.028701579773547387], ["triweekly", 0.031711690638245284]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.813114966338684], ["weekly", 11.501720056225492], ["biweekly", 11.790707997336687], ["triweekly", 11.54988471307736]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 517.6640989124805], ["weekly", 455.1560072501294], ["biweekly", 419.76943386106376], ["triweekly", 380.1443706690341]],
+      "Daily Growth Rate": [["daily", 0.5602409638554217], ["weekly", 1.1440725030634056], ["biweekly", 1.022217050761237], ["triweekly", 1.4232360480290234]],
+      "Confirmed Cumulative Cases": [["daily", 2559.0], ["weekly", 2250.0], ["biweekly", 2075.0714285714284], ["triweekly", 1879.1904761904761]],
+      "Confirmed Daily Cases": [["daily", 93.0], ["weekly", 56.857142857142854], ["biweekly", 58.285714285714285], ["triweekly", 57.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.009378663540445486], ["weekly", 0.009450305498473652], ["biweekly", 0.00916206719126539], ["triweekly", 0.008983944816264338]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011315417256011316], ["weekly", 0.011198200769420198], ["biweekly", 0.011266689521477483], ["triweekly", 0.011119736213038486]]
     },
     "lat": "REPLACE_MESonoma,California"
   }]

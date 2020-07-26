@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEStory,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.017875351826963204], ["weekly", 0.012873326605304745], ["biweekly", 0.013424898663412359], ["triweekly", 0.013858460767033513]],
-      "Confirmed Daily Cases per 100k": [["daily", 18.53434517128824], ["weekly", 12.650426069291973], ["biweekly", 12.57687708051702], ["triweekly", 12.356230114192162]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1046.1608163349363], ["weekly", 983.6441758762257], ["biweekly", 944.3690158704009], ["triweekly", 900.582851219712]],
-      "Daily Growth Rate": [["daily", 1.2], ["weekly", 1.2717971469524265], ["biweekly", 1.6366166384799925], ["triweekly", 1.94360831350997]],
-      "Confirmed Cumulative Cases": [["daily", 1016.0], ["weekly", 955.2857142857143], ["biweekly", 917.1428571428571], ["triweekly", 874.6190476190476]],
-      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 12.285714285714286], ["biweekly", 12.214285714285714], ["triweekly", 12.0]],
-      "Confirmed Fatality Rate": [["daily", 0.010826771653543307], ["weekly", 0.009403140536895073], ["biweekly", 0.008589828671277612], ["triweekly", 0.007110037307681801]],
+      "Spread Rate": [["daily", 0.0276697494192506], ["weekly", 0.012873326605304745], ["biweekly", 0.013424898663412359], ["triweekly", 0.013858460767033513]],
+      "Confirmed Daily Cases per 100k": [["daily", 28.831203599781706], ["weekly", 12.650426069291973], ["biweekly", 12.57687708051702], ["triweekly", 12.356230114192162]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1056.4576747634296], ["weekly", 983.6441758762257], ["biweekly", 944.3690158704009], ["triweekly", 900.582851219712]],
+      "Daily Growth Rate": [["daily", 1.8666666666666667], ["weekly", 1.2717971469524265], ["biweekly", 1.6366166384799925], ["triweekly", 1.94360831350997]],
+      "Confirmed Cumulative Cases": [["daily", 1026.0], ["weekly", 955.2857142857143], ["biweekly", 917.1428571428571], ["triweekly", 874.6190476190476]],
+      "Confirmed Daily Cases": [["daily", 28.0], ["weekly", 12.285714285714286], ["biweekly", 12.214285714285714], ["triweekly", 12.0]],
+      "Confirmed Fatality Rate": [["daily", 0.010721247563352826], ["weekly", 0.009403140536895073], ["biweekly", 0.008589828671277612], ["triweekly", 0.007110037307681801]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011879049676025918], ["weekly", 0.010223781865320988], ["biweekly", 0.009434495221404573], ["triweekly", 0.00787965027107828]]
+    },
+    "lat": "REPLACE_MEStory,Iowa"
+  }, {
+    "locale": "Story,Iowa",
+    "long": "REPLACE_MEStory,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008733679968754515], ["weekly", 0.014649827297790756], ["biweekly", 0.0131065594244389], ["triweekly", 0.014794604846708323]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.26717258564412], ["weekly", 14.709797754990666], ["biweekly", 12.650426069291973], ["triweekly", 13.43494861622481]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1065.7248473490738], ["weekly", 998.3539736312165], ["biweekly", 957.0194419396928], ["triweekly", 914.0177998359368]],
+      "Daily Growth Rate": [["daily", 0.32142857142857145], ["weekly", 1.4051304802857598], ["biweekly", 1.38423568609904], ["triweekly", 2.0200748421504113]],
+      "Confirmed Cumulative Cases": [["daily", 1035.0], ["weekly", 969.5714285714286], ["biweekly", 929.4285714285714], ["triweekly", 887.6666666666666]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 14.285714285714286], ["biweekly", 12.285714285714286], ["triweekly", 13.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.010628019323671498], ["weekly", 0.009700560352332395], ["biweekly", 0.008937432001747946], ["triweekly", 0.007430603301073475]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011840688912809472], ["weekly", 0.010582548747777686], ["biweekly", 0.009808074757534082], ["triweekly", 0.00821892129557246]]
     },
     "lat": "REPLACE_MEStory,Iowa"
   }]

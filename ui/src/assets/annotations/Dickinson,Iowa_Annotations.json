@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEDickinson,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0085106896679088], ["weekly", 0.014104977240812642], ["biweekly", 0.014628172331858076], ["triweekly", 0.014474198179348955]],
-      "Confirmed Daily Cases per 100k": [["daily", 17.383242554177773], ["weekly", 27.316524013707927], ["biweekly", 26.90263728622751], ["triweekly", 25.385052618799293]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2051.222621392977], ["weekly", 1965.9619555320096], ["biweekly", 1871.5957816664736], ["triweekly", 1770.8833446462372]],
-      "Daily Growth Rate": [["daily", 3.0], ["weekly", 1.534415584415584], ["biweekly", 1.5116522366522367], ["triweekly", 1.169610672551849]],
-      "Confirmed Cumulative Cases": [["daily", 354.0], ["weekly", 339.2857142857143], ["biweekly", 323.0], ["triweekly", 305.6190476190476]],
-      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 4.714285714285714], ["biweekly", 4.642857142857143], ["triweekly", 4.380952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.011299435028248588], ["weekly", 0.010079313099247112], ["biweekly", 0.00993276260736273], ["triweekly", 0.009778542540052147]],
+      "Spread Rate": [["daily", 0.011331566009550542], ["weekly", 0.014104977240812642], ["biweekly", 0.014628172331858076], ["triweekly", 0.014474198179348955]],
+      "Confirmed Daily Cases per 100k": [["daily", 23.177656738903696], ["weekly", 27.316524013707927], ["biweekly", 26.90263728622751], ["triweekly", 25.385052618799293]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2057.017035577703], ["weekly", 1965.9619555320096], ["biweekly", 1871.5957816664736], ["triweekly", 1770.8833446462372]],
+      "Daily Growth Rate": [["daily", 4.0], ["weekly", 1.534415584415584], ["biweekly", 1.5116522366522367], ["triweekly", 1.169610672551849]],
+      "Confirmed Cumulative Cases": [["daily", 355.0], ["weekly", 339.2857142857143], ["biweekly", 323.0], ["triweekly", 305.6190476190476]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 4.714285714285714], ["biweekly", 4.642857142857143], ["triweekly", 4.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.011267605633802818], ["weekly", 0.010079313099247112], ["biweekly", 0.00993276260736273], ["triweekly", 0.009778542540052147]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01238390092879257], ["weekly", 0.011155644722317073], ["biweekly", 0.011121591730205525], ["triweekly", 0.010936069605734835]]
+    },
+    "lat": "REPLACE_MEDickinson,Iowa"
+  }, {
+    "locale": "Dickinson,Iowa",
+    "long": "REPLACE_MEDickinson,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.013495066607537076], ["biweekly", 0.013224459509685411], ["triweekly", 0.01464749438822487]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 26.488750558747082], ["biweekly", 24.833203648825393], ["triweekly", 25.93690158877319]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2057.017035577703], ["weekly", 1992.450706090757], ["biweekly", 1896.428985315299], ["triweekly", 1796.8202462350105]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.9867965367965366], ["biweekly", 1.583080808080808], ["triweekly", 1.349504852446029]],
+      "Confirmed Cumulative Cases": [["daily", 355.0], ["weekly", 343.85714285714283], ["biweekly", 327.2857142857143], ["triweekly", 310.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.571428571428571], ["biweekly", 4.285714285714286], ["triweekly", 4.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.011267605633802818], ["weekly", 0.01036212451884831], ["biweekly", 0.010011199329389809], ["triweekly", 0.009950198272659796]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0121580547112462], ["weekly", 0.011471988922798338], ["biweekly", 0.011185138019864762], ["triweekly", 0.011120510683397703]]
     },
     "lat": "REPLACE_MEDickinson,Iowa"
   }]

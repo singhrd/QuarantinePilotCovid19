@@ -2774,5 +2774,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.020608334580014702], ["biweekly", 0.020271173072363497], ["triweekly", 0.020729383350528905]]
     },
     "lat": "REPLACE_MEYork,Maine"
+  }, {
+    "locale": "York,Maine",
+    "long": "REPLACE_MEYork,Maine",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008176660437245076], ["weekly", 0.005013045687324334], ["biweekly", 0.005609902826443326], ["triweekly", 0.0052872606212692]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.4080022731541457], ["weekly", 1.4448013638924875], ["biweekly", 1.5824014937870101], ["triweekly", 1.467734718874908]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 295.7026791433291], ["weekly", 288.89147271355023], ["biweekly", 283.83466793992653], ["triweekly", 278.22746264672475]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.3071428571428572], ["biweekly", 1.1678519891490988], ["triweekly", 1.0141411660274757]],
+      "Confirmed Cumulative Cases": [["daily", 614.0], ["weekly", 599.8571428571429], ["biweekly", 589.3571428571429], ["triweekly", 577.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 3.0], ["biweekly", 3.2857142857142856], ["triweekly", 3.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.019543973941368076], ["weekly", 0.020006664621139182], ["biweekly", 0.019505781641114477], ["triweekly", 0.019617796474625894]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020338983050847456], ["weekly", 0.020732616721188857], ["biweekly", 0.02028722143141878], ["triweekly", 0.02061894956662573]]
+    },
+    "lat": "REPLACE_MEYork,Maine"
   }]
 }

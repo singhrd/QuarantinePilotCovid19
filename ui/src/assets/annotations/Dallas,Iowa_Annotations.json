@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEDallas,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.010445563485056653], ["weekly", 0.012534515934243373], ["biweekly", 0.013776955917377518], ["triweekly", 0.013357229428117286]],
-      "Confirmed Daily Cases per 100k": [["daily", 18.19096230190577], ["weekly", 20.789671202178027], ["biweekly", 21.7068625787447], ["triweekly", 20.178210284466907]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1750.6126074069318], ["weekly", 1673.415666545903], ["biweekly", 1596.753753987872], ["triweekly", 1523.4039214007757]],
-      "Daily Growth Rate": [["daily", 0.8947368421052632], ["weekly", 1.0605205971277398], ["biweekly", 1.1489215656122338], ["triweekly", 1.1539583061397125]],
-      "Confirmed Cumulative Cases": [["daily", 1636.0], ["weekly", 1563.857142857143], ["biweekly", 1492.2142857142858], ["triweekly", 1423.6666666666667]],
-      "Confirmed Daily Cases": [["daily", 17.0], ["weekly", 19.428571428571427], ["biweekly", 20.285714285714285], ["triweekly", 18.857142857142858]],
-      "Confirmed Fatality Rate": [["daily", 0.02078239608801956], ["weekly", 0.021565333352989047], ["biweekly", 0.02189566707424063], ["triweekly", 0.022258041982046825]],
+      "Spread Rate": [["daily", 0.011056623693499468], ["weekly", 0.012534515934243373], ["biweekly", 0.013776955917377518], ["triweekly", 0.013357229428117286]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.26101890790023], ["weekly", 20.789671202178027], ["biweekly", 21.7068625787447], ["triweekly", 20.178210284466907]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1751.6826640129264], ["weekly", 1673.415666545903], ["biweekly", 1596.753753987872], ["triweekly", 1523.4039214007757]],
+      "Daily Growth Rate": [["daily", 0.9473684210526315], ["weekly", 1.0605205971277398], ["biweekly", 1.1489215656122338], ["triweekly", 1.1539583061397125]],
+      "Confirmed Cumulative Cases": [["daily", 1637.0], ["weekly", 1563.857142857143], ["biweekly", 1492.2142857142858], ["triweekly", 1423.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 19.428571428571427], ["biweekly", 20.285714285714285], ["triweekly", 18.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.020769700671960906], ["weekly", 0.021565333352989047], ["biweekly", 0.02189566707424063], ["triweekly", 0.022258041982046825]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022606382978723406], ["weekly", 0.023742057896209066], ["biweekly", 0.024139976343014576], ["triweekly", 0.024489640195306972]]
+    },
+    "lat": "REPLACE_MEDallas,Iowa"
+  }, {
+    "locale": "Dallas,Iowa",
+    "long": "REPLACE_MEDallas,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007909989523491312], ["weekly", 0.012105296123049922], ["biweekly", 0.01292703837431424], ["triweekly", 0.012882003202169394]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.910735877927943], ["weekly", 20.33107551389469], ["biweekly", 20.713238587464133], ["triweekly", 19.77056967265949]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1765.5933998908542], ["weekly", 1693.746742059798], ["biweekly", 1617.4669925753358], ["triweekly", 1543.174491073435]],
+      "Daily Growth Rate": [["daily", 0.7222222222222222], ["weekly", 1.1021089429924016], ["biweekly", 1.1533254324221154], ["triweekly", 1.151452040475552]],
+      "Confirmed Cumulative Cases": [["daily", 1650.0], ["weekly", 1582.857142857143], ["biweekly", 1511.5714285714287], ["triweekly", 1442.142857142857]],
+      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 19.0], ["biweekly", 19.357142857142858], ["triweekly", 18.476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.020606060606060607], ["weekly", 0.0213979349687403], ["biweekly", 0.021758217331399106], ["triweekly", 0.022141428925478872]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02225130890052356], ["weekly", 0.023520380333872333], ["biweekly", 0.023981871135444265], ["triweekly", 0.024339711549195262]]
     },
     "lat": "REPLACE_MEDallas,Iowa"
   }]

@@ -2946,18 +2946,34 @@
   }, {
     "epidemiccontrolThreshold": 14.55,
     "source": "NYGithub",
-    "confirmedPer100kN": 30.06872852233677,
-    "deaths": 3,
-    "confirmed": 875,
+    "confirmedPer100kN": 30.412371134020617,
+    "deaths": 4,
+    "confirmed": 885,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 30.06872852233677,
+    "confirmedPer100k": 30.412371134020617,
     "locale": "Kansas",
-    "activePer100k": 29.965635738831615,
+    "activePer100k": 30.274914089347078,
     "long": "REPLACE_MEKansas",
     "date": "07/24/2020",
+    "deathsPer100k": 0.1374570446735395,
+    "lat": "REPLACE_MEKansas",
+    "active": 881
+  }, {
+    "epidemiccontrolThreshold": 14.55,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.0962199312714778,
+    "deaths": 3,
+    "confirmed": 61,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.0962199312714778,
+    "locale": "Kansas",
+    "activePer100k": 1.9931271477663228,
+    "long": "REPLACE_MEKansas",
+    "date": "07/25/2020",
     "deathsPer100k": 0.10309278350515463,
     "lat": "REPLACE_MEKansas",
-    "active": 872
+    "active": 58
   }]
 }

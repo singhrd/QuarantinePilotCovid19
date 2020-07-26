@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEMontgomery,Kansas",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.027908788117076533], ["weekly", 0.06133322707354389], ["biweekly", 0.049510512897138925], ["triweekly", 0.051424769316950336]],
-      "Confirmed Daily Cases per 100k": [["daily", 9.425366803858116], ["weekly", 16.60659865441668], ["biweekly", 11.893915252487622], ["triweekly", 10.472629782064573]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 342.45499387351157], ["weekly", 286.3516200410228], ["biweekly", 243.2642289376714], ["triweekly", 211.0982946070445]],
-      "Daily Growth Rate": [["daily", 0.8660254037844386], ["weekly", 0.5335587580826597], ["biweekly", 0.4671993010881589], ["triweekly", 0.40083352817647233]],
-      "Confirmed Cumulative Cases": [["daily", 109.0], ["weekly", 91.14285714285714], ["biweekly", 77.42857142857143], ["triweekly", 67.19047619047619]],
-      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 5.285714285714286], ["biweekly", 3.7857142857142856], ["triweekly", 3.3333333333333335]],
-      "Confirmed Fatality Rate": [["daily", 0.027522935779816515], ["weekly", 0.03386413208832743], ["biweekly", 0.040623578496892576], ["triweekly", 0.04875708670667121]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04054054054054054], ["weekly", 0.04738302490545771], ["biweekly", 0.05620356401584309], ["triweekly", 0.06812038367339729]]
+      "Spread Rate": [["daily", 0.1156843989994627], ["weekly", 0.06133322707354389], ["biweekly", 0.049510512897138925], ["triweekly", 0.051424769316950336]],
+      "Confirmed Daily Cases per 100k": [["daily", 40.843256150051836], ["weekly", 16.60659865441668], ["biweekly", 11.893915252487622], ["triweekly", 10.472629782064573]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 373.8728832197053], ["weekly", 286.3516200410228], ["biweekly", 243.2642289376714], ["triweekly", 211.0982946070445]],
+      "Daily Growth Rate": [["daily", 1.8027756377319946], ["weekly", 0.5335587580826597], ["biweekly", 0.4671993010881589], ["triweekly", 0.40083352817647233]],
+      "Confirmed Cumulative Cases": [["daily", 119.0], ["weekly", 91.14285714285714], ["biweekly", 77.42857142857143], ["triweekly", 67.19047619047619]],
+      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 5.285714285714286], ["biweekly", 3.7857142857142856], ["triweekly", 3.3333333333333335]],
+      "Confirmed Fatality Rate": [["daily", 0.03361344537815126], ["weekly", 0.03386413208832743], ["biweekly", 0.040623578496892576], ["triweekly", 0.04875708670667121]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05405405405405406], ["weekly", 0.04738302490545771], ["biweekly", 0.05620356401584309], ["triweekly", 0.06812038367339729]]
+    },
+    "lat": "REPLACE_MEMontgomery,Kansas"
+  }, {
+    "locale": "Montgomery,Kansas",
+    "long": "REPLACE_MEMontgomery,Kansas",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008368249670516192], ["weekly", 0.06786548570105135], ["biweekly", 0.05133432018322218], ["triweekly", 0.0507405441146296]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.141788934619372], ["weekly", 20.197214579695963], ["biweekly", 13.689223215127262], ["triweekly", 11.669501757157667]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 377.01467215432467], ["weekly", 306.54883462071876], ["biweekly", 256.95345215279866], ["triweekly", 222.76779636420213]],
+      "Daily Growth Rate": [["daily", 0.07692307692307693], ["weekly", 0.5652211591752032], ["biweekly", 0.5161094188725946], ["triweekly", 0.48667998711609106]],
+      "Confirmed Cumulative Cases": [["daily", 120.0], ["weekly", 97.57142857142857], ["biweekly", 81.78571428571429], ["triweekly", 70.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 6.428571428571429], ["biweekly", 4.357142857142857], ["triweekly", 3.7142857142857144]],
+      "Confirmed Fatality Rate": [["daily", 0.03333333333333333], ["weekly", 0.032874547065128955], ["biweekly", 0.03932995760025806], ["triweekly", 0.046873406405282356]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05405405405405406], ["weekly", 0.04771587006588908], ["biweekly", 0.054838087040610016], ["triweekly", 0.06576827787301562]]
     },
     "lat": "REPLACE_MEMontgomery,Kansas"
   }]

@@ -2774,5 +2774,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.023809523809523808], ["weekly", 0.04814114456971601], ["biweekly", 0.07917518988947558], ["triweekly", 0.097001147001147]]
     },
     "lat": "REPLACE_MELincoln,Montana"
+  }, {
+    "locale": "Lincoln,Montana",
+    "long": "REPLACE_MELincoln,Montana",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019048194970694432], ["weekly", 0.030510585756865587], ["biweekly", 0.10473836205667338], ["triweekly", 0.0891334369953139]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.005005005005005], ["weekly", 7.150007150007149], ["biweekly", 14.3000143000143], ["triweekly", 10.48667715334382]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 265.26526526526527], ["weekly", 239.52523952523956], ["biweekly", 199.1276991276991], ["triweekly", 148.9584822918156]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.9105114949623284], ["biweekly", 2.028616805241159], ["triweekly", 1.37622072730363]],
+      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 47.857142857142854], ["biweekly", 39.785714285714285], ["triweekly", 29.761904761904763]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.4285714285714286], ["biweekly", 2.857142857142857], ["triweekly", 2.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.018867924528301886], ["weekly", 0.020954323454323447], ["biweekly", 0.03029603333174761], ["triweekly", 0.05494964030678315]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022727272727272728], ["weekly", 0.03963774320917178], ["biweekly", 0.07194729873301302], ["triweekly", 0.09133221276078417]]
+    },
+    "lat": "REPLACE_MELincoln,Montana"
   }]
 }

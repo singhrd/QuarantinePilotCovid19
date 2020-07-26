@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEWill,Illinois",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.006540081165647749], ["weekly", 0.008332061452861186], ["biweekly", 0.007480699983886753], ["triweekly", 0.007283459979516341]],
-      "Confirmed Daily Cases per 100k": [["daily", 7.52812551122487], ["weekly", 9.286066908076831], ["biweekly", 8.14857541599615], ["triweekly", 7.748729921810213]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1154.8434077507843], ["weekly", 1117.3889151660912], ["biweekly", 1089.6237819275768], ["triweekly", 1062.9203074150037]],
-      "Daily Growth Rate": [["daily", 0.65], ["weekly", 1.2607496943807706], ["biweekly", 1.093651269476239], ["triweekly", 1.0885472726885839]],
-      "Confirmed Cumulative Cases": [["daily", 7977.0], ["weekly", 7718.285714285715], ["biweekly", 7526.5], ["triweekly", 7342.047619047619]],
-      "Confirmed Daily Cases": [["daily", 52.0], ["weekly", 64.14285714285714], ["biweekly", 56.285714285714285], ["triweekly", 53.523809523809526]],
-      "Confirmed Fatality Rate": [["daily", 0.04237181897956625], ["weekly", 0.04331696865188959], ["biweekly", 0.043913802903486586], ["triweekly", 0.04462946933127089]],
+      "Spread Rate": [["daily", 0.009044151586408589], ["weekly", 0.008332061452861186], ["biweekly", 0.007480699983886753], ["triweekly", 0.007283459979516341]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.423558400157512], ["weekly", 9.286066908076831], ["biweekly", 8.14857541599615], ["triweekly", 7.748729921810213]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1157.738840639717], ["weekly", 1117.3889151660912], ["biweekly", 1089.6237819275768], ["triweekly", 1062.9203074150037]],
+      "Daily Growth Rate": [["daily", 0.9], ["weekly", 1.2607496943807706], ["biweekly", 1.093651269476239], ["triweekly", 1.0885472726885839]],
+      "Confirmed Cumulative Cases": [["daily", 7997.0], ["weekly", 7718.285714285715], ["biweekly", 7526.5], ["triweekly", 7342.047619047619]],
+      "Confirmed Daily Cases": [["daily", 72.0], ["weekly", 64.14285714285714], ["biweekly", 56.285714285714285], ["triweekly", 53.523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.042265849693635116], ["weekly", 0.04331696865188959], ["biweekly", 0.043913802903486586], ["triweekly", 0.04462946933127089]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04481569875364625], ["weekly", 0.045580098593164024], ["biweekly", 0.046198986023708484], ["triweekly", 0.04688371070205038]]
+    },
+    "lat": "REPLACE_MEWill,Illinois"
+  }, {
+    "locale": "Will,Illinois",
+    "long": "REPLACE_MEWill,Illinois",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00337057930988216], ["weekly", 0.008368438930512565], ["biweekly", 0.007737453328089902], ["triweekly", 0.007448807106371106]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.908834400059067], ["weekly", 9.410156889031088], ["biweekly", 8.489822863620356], ["triweekly", 7.983122108057142]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1161.647675039776], ["weekly", 1126.7990720551225], ["biweekly", 1098.113604791197], ["triweekly", 1070.903429523061]],
+      "Daily Growth Rate": [["daily", 0.375], ["weekly", 1.0401147737458498], ["biweekly", 1.111508412333382], ["triweekly", 1.0996583837996947]],
+      "Confirmed Cumulative Cases": [["daily", 8024.0], ["weekly", 7783.285714285715], ["biweekly", 7585.142857142857], ["triweekly", 7397.190476190476]],
+      "Confirmed Daily Cases": [["daily", 27.0], ["weekly", 65.0], ["biweekly", 58.642857142857146], ["triweekly", 55.142857142857146]],
+      "Confirmed Fatality Rate": [["daily", 0.042123629112662014], ["weekly", 0.04310423687156221], ["biweekly", 0.04370775633358619], ["triweekly", 0.04441401139085054]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04452054794520548], ["weekly", 0.045412823833173695], ["biweekly", 0.04601615398661229], ["triweekly", 0.046688519929215175]]
     },
     "lat": "REPLACE_MEWill,Illinois"
   }]

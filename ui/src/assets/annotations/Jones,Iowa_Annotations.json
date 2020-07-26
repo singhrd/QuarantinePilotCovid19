@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEJones,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.018868484304382704], ["weekly", 0.030187013381029488], ["biweekly", 0.031032331784386864], ["triweekly", 0.029933745686779686]],
-      "Confirmed Daily Cases per 100k": [["daily", 9.670712247957063], ["weekly", 13.815303211367235], ["biweekly", 12.779155470514686], ["triweekly", 11.282497622616571]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 517.3831052657029], ["weekly", 462.12189242023396], ["biweekly", 413.07756601988024], ["triweekly", 374.3947170280519]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.4907584047993137], ["biweekly", 1.394188726209181], ["triweekly", 1.3185417405823838]],
-      "Confirmed Cumulative Cases": [["daily", 107.0], ["weekly", 95.57142857142857], ["biweekly", 85.42857142857143], ["triweekly", 77.42857142857143]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.857142857142857], ["biweekly", 2.642857142857143], ["triweekly", 2.3333333333333335]],
-      "Confirmed Fatality Rate": [["daily", 0.009345794392523364], ["weekly", 0.010526732395648969], ["biweekly", 0.009893723556510017], ["triweekly", 0.006595815704340012]],
+      "Spread Rate": [["daily", 0.009478743954543845], ["weekly", 0.030187013381029488], ["biweekly", 0.031032331784386864], ["triweekly", 0.029933745686779686]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.835356123978531], ["weekly", 13.815303211367235], ["biweekly", 12.779155470514686], ["triweekly", 11.282497622616571]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 512.5477491417244], ["weekly", 462.12189242023396], ["biweekly", 413.07756601988024], ["triweekly", 374.3947170280519]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.4907584047993137], ["biweekly", 1.394188726209181], ["triweekly", 1.3185417405823838]],
+      "Confirmed Cumulative Cases": [["daily", 106.0], ["weekly", 95.57142857142857], ["biweekly", 85.42857142857143], ["triweekly", 77.42857142857143]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.857142857142857], ["biweekly", 2.642857142857143], ["triweekly", 2.3333333333333335]],
+      "Confirmed Fatality Rate": [["daily", 0.009433962264150943], ["weekly", 0.010526732395648969], ["biweekly", 0.009893723556510017], ["triweekly", 0.006595815704340012]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011764705882352941], ["weekly", 0.01334318052671991], ["biweekly", 0.01229841933672953], ["triweekly", 0.008198946224486353]]
+    },
+    "lat": "REPLACE_MEJones,Iowa"
+  }, {
+    "locale": "Jones,Iowa",
+    "long": "REPLACE_MEJones,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.031541119660250035], ["biweekly", 0.030666613536771945], ["triweekly", 0.03038511444651987]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 14.506068371935596], ["biweekly", 12.77915547051469], ["triweekly", 11.512752676139359]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 512.5477491417244], ["weekly", 476.6279607921696], ["biweekly", 425.85672149039493], ["triweekly", 385.9074697041912]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.562186976227885], ["biweekly", 1.4060934881139429], ["triweekly", 1.3423512643919078]],
+      "Confirmed Cumulative Cases": [["daily", 106.0], ["weekly", 98.57142857142857], ["biweekly", 88.07142857142857], ["triweekly", 79.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.0], ["biweekly", 2.642857142857143], ["triweekly", 2.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.009433962264150943], ["weekly", 0.010193769021620116], ["biweekly", 0.010567578003949371], ["triweekly", 0.007045052002632913]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011627906976744186], ["weekly", 0.012953459420886273], ["biweekly", 0.013138755471183313], ["triweekly", 0.008759170314122208]]
     },
     "lat": "REPLACE_MEJones,Iowa"
   }]

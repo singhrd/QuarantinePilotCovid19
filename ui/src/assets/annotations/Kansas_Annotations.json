@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEKansas",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.03506600381845182], ["weekly", 0.020281268383261924], ["biweekly", 0.021951074491326623], ["triweekly", 0.02268585946613249]],
-      "Confirmed Daily Cases per 100k": [["daily", 30.06872852233677], ["weekly", 15.930289641629846], ["biweekly", 15.92292587137948], ["triweekly", 15.20536737031582]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 872.6116838487972], ["weekly", 799.9018163966617], ["biweekly", 743.885616102111], ["triweekly", 689.9116347569957]],
-      "Daily Growth Rate": [["daily", 6.161971830985915], ["weekly", 4.4659939229624905], ["biweekly", 3.5600381067882023], ["triweekly", 3.6071996318189656]],
-      "Confirmed Cumulative Cases": [["daily", 25393.0], ["weekly", 23277.14285714286], ["biweekly", 21647.071428571428], ["triweekly", 20076.428571428572]],
-      "Confirmed Daily Cases": [["daily", 875.0], ["weekly", 463.57142857142856], ["biweekly", 463.35714285714283], ["triweekly", 442.4761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.012956326546686095], ["weekly", 0.013648484812749054], ["biweekly", 0.014360160293169097], ["triweekly", 0.01525290313681673]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014820487409342763], ["weekly", 0.01587950763516598], ["biweekly", 0.016845297210819718], ["triweekly", 0.017889201947587512]]
+      "Spread Rate": [["daily", 0.0354597356134434], ["weekly", 0.020281268383261924], ["biweekly", 0.021951074491326623], ["triweekly", 0.02268585946613249]],
+      "Confirmed Daily Cases per 100k": [["daily", 30.412371134020617], ["weekly", 15.930289641629846], ["biweekly", 15.92292587137948], ["triweekly", 15.20536737031582]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 872.955326460481], ["weekly", 799.9018163966617], ["biweekly", 743.885616102111], ["triweekly", 689.9116347569957]],
+      "Daily Growth Rate": [["daily", 6.232394366197183], ["weekly", 4.4659939229624905], ["biweekly", 3.5600381067882023], ["triweekly", 3.6071996318189656]],
+      "Confirmed Cumulative Cases": [["daily", 25403.0], ["weekly", 23277.14285714286], ["biweekly", 21647.071428571428], ["triweekly", 20076.428571428572]],
+      "Confirmed Daily Cases": [["daily", 885.0], ["weekly", 463.57142857142856], ["biweekly", 463.35714285714283], ["triweekly", 442.4761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.012990591662402079], ["weekly", 0.013648484812749054], ["biweekly", 0.014360160293169097], ["triweekly", 0.01525290313681673]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014865534483535295], ["weekly", 0.01587950763516598], ["biweekly", 0.016845297210819718], ["triweekly", 0.017889201947587512]]
+    },
+    "lat": "REPLACE_MEKansas"
+  }, {
+    "locale": "Kansas",
+    "long": "REPLACE_MEKansas",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0023984126935445715], ["weekly", 0.019260004923945116], ["biweekly", 0.02150454288245867], ["triweekly", 0.021968642582148843]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.0962199312714778], ["weekly", 15.72901325478645], ["biweekly", 16.21011291114384], ["triweekly", 15.362461135657012]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 875.0515463917525], ["weekly", 815.6308296514482], ["biweekly", 760.0957290132548], ["triweekly", 705.2740958926528]],
+      "Daily Growth Rate": [["daily", 0.06892655367231638], ["weekly", 4.215941886606422], ["biweekly", 3.7603111737614703], ["triweekly", 3.4567014043589674]],
+      "Confirmed Cumulative Cases": [["daily", 25464.0], ["weekly", 23734.85714285714], ["biweekly", 22118.785714285714], ["triweekly", 20523.47619047619]],
+      "Confirmed Daily Cases": [["daily", 61.0], ["weekly", 457.7142857142857], ["biweekly", 471.7142857142857], ["triweekly", 447.04761904761904]],
+      "Confirmed Fatality Rate": [["daily", 0.013077285579641848], ["weekly", 0.013509341764565827], ["biweekly", 0.014170979001844696], ["triweekly", 0.015030029715986165]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01497436819857901], ["weekly", 0.015647407012457933], ["biweekly", 0.01659585041876681], ["triweekly", 0.01761549881284131]]
     },
     "lat": "REPLACE_MEKansas"
   }]

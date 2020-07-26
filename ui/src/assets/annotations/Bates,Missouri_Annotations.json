@@ -2774,5 +2774,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.06943161880136671], ["biweekly", 0.07638247606735], ["triweekly", 0.07869942848934444]]
     },
     "lat": "REPLACE_MEBates,Missouri"
+  }, {
+    "locale": "Bates,Missouri",
+    "long": "REPLACE_MEBates,Missouri",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03509131981127034], ["weekly", 0.07128445230271252], ["biweekly", 0.05480393947954765], ["triweekly", 0.0403475171612954]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.183527083848627], ["weekly", 9.716971131762127], ["biweekly", 6.625207589837815], ["triweekly", 4.711258730551335]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 179.3222854316102], ["weekly", 132.5041517967563], ["biweekly", 113.07020953323203], ["triweekly", 100.40870169487532]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 1.1428571428571428], ["biweekly", 0.8362219129418963], ["triweekly", 0.5574812752945976]],
+      "Confirmed Cumulative Cases": [["daily", 29.0], ["weekly", 21.428571428571427], ["biweekly", 18.285714285714285], ["triweekly", 16.238095238095237]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 1.0714285714285714], ["triweekly", 0.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.034482758620689655], ["weekly", 0.04800832613747253], ["biweekly", 0.057427147647183034], ["triweekly", 0.0657572925706495]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.06684596915689353], ["biweekly", 0.07463177578723797], ["triweekly", 0.07753229496926975]]
+    },
+    "lat": "REPLACE_MEBates,Missouri"
   }]
 }

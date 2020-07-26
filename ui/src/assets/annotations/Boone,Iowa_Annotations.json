@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEBoone,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.024214258120594856], ["weekly", 0.020281465895769606], ["biweekly", 0.017353298472170677], ["triweekly", 0.017252044582997866]],
-      "Confirmed Daily Cases per 100k": [["daily", 19.05923610581688], ["weekly", 14.702839281630162], ["biweekly", 11.980091266513465], ["triweekly", 11.254025129149012]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 796.6760692231455], ["weekly", 718.2609263877847], ["biweekly", 686.9493242139426], ["triweekly", 649.8291929411849]],
-      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.8214285714285714], ["biweekly", 1.273809523809524], ["triweekly", 1.139455782312925]],
-      "Confirmed Cumulative Cases": [["daily", 209.0], ["weekly", 188.42857142857142], ["biweekly", 180.21428571428572], ["triweekly", 170.47619047619048]],
-      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 3.857142857142857], ["biweekly", 3.142857142857143], ["triweekly", 2.9523809523809526]],
-      "Confirmed Fatality Rate": [["daily", 0.004784688995215311], ["weekly", 0.005316428428385042], ["biweekly", 0.005566939322645093], ["triweekly", 0.005921087108288274]],
+      "Spread Rate": [["daily", 0.028987536873252395], ["weekly", 0.020281465895769606], ["biweekly", 0.017353298472170677], ["triweekly", 0.017252044582997866]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.87108332698025], ["weekly", 14.702839281630162], ["biweekly", 11.980091266513465], ["triweekly", 11.254025129149012]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 800.4879164443089], ["weekly", 718.2609263877847], ["biweekly", 686.9493242139426], ["triweekly", 649.8291929411849]],
+      "Daily Growth Rate": [["daily", 0.6], ["weekly", 1.8214285714285714], ["biweekly", 1.273809523809524], ["triweekly", 1.139455782312925]],
+      "Confirmed Cumulative Cases": [["daily", 210.0], ["weekly", 188.42857142857142], ["biweekly", 180.21428571428572], ["triweekly", 170.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 3.857142857142857], ["biweekly", 3.142857142857143], ["triweekly", 2.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.004761904761904762], ["weekly", 0.005316428428385042], ["biweekly", 0.005566939322645093], ["triweekly", 0.005921087108288274]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0056179775280898875], ["weekly", 0.005817450216905147], ["biweekly", 0.006223416448239891], ["triweekly", 0.006619677890310337]]
+    },
+    "lat": "REPLACE_MEBoone,Iowa"
+  }, {
+    "locale": "Boone,Iowa",
+    "long": "REPLACE_MEBoone,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009478743954543845], ["weekly", 0.02361771148934049], ["biweekly", 0.017660078778090695], ["triweekly", 0.017309567095672957]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.623694442326751], ["weekly", 17.425587296746862], ["biweekly", 12.524640869536807], ["triweekly", 11.617058197831238]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 808.1116108866356], ["weekly", 735.6865136845315], ["biweekly", 699.4739650834794], ["triweekly", 661.4462511390161]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 1.8595238095238094], ["biweekly", 1.2214285714285715], ["triweekly", 1.136281179138322]],
+      "Confirmed Cumulative Cases": [["daily", 212.0], ["weekly", 193.0], ["biweekly", 183.5], ["triweekly", 173.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.571428571428571], ["biweekly", 3.2857142857142856], ["triweekly", 3.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.0047169811320754715], ["weekly", 0.005194132318930024], ["biweekly", 0.005471535307380451], ["triweekly", 0.005821686617498351]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0055248618784530384], ["weekly", 0.00574893829583088], ["biweekly", 0.006135463766782515], ["triweekly", 0.0065236964494451155]]
     },
     "lat": "REPLACE_MEBoone,Iowa"
   }]

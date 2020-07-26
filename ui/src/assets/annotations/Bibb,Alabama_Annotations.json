@@ -2774,5 +2774,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00784313725490196], ["weekly", 0.008624146701536233], ["biweekly", 0.007904275169786918], ["triweekly", 0.007278880825579365]]
     },
     "lat": "REPLACE_MEBibb,Alabama"
+  }, {
+    "locale": "Bibb,Alabama",
+    "long": "REPLACE_MEBibb,Alabama",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04831857727080813], ["weekly", 0.02463846576442043], ["biweekly", 0.023516981622877138], ["triweekly", 0.022475513830939344]],
+      "Confirmed Daily Cases per 100k": [["daily", 66.98222738233456], ["weekly", 30.62044680335294], ["biweekly", 27.11185394046875], ["triweekly", 24.24118705265441]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1420.0232205054926], ["weekly", 1259.2658747878897], ["biweekly", 1160.0683856645276], ["triweekly", 1072.9914900674926]],
+      "Daily Growth Rate": [["daily", 1.0714285714285714], ["weekly", 1.7972222222222223], ["biweekly", 1.439597505668934], ["triweekly", 1.51369992441421]],
+      "Confirmed Cumulative Cases": [["daily", 318.0], ["weekly", 282.0], ["biweekly", 259.7857142857143], ["triweekly", 240.28571428571428]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 6.857142857142857], ["biweekly", 6.071428571428571], ["triweekly", 5.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.006289308176100629], ["weekly", 0.007105144972875393], ["biweekly", 0.006828186578114791], ["triweekly", 0.006211523892048885]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007575757575757576], ["weekly", 0.00843397889129287], ["biweekly", 0.00808657031006525], ["triweekly", 0.007341127946650014]]
+    },
+    "lat": "REPLACE_MEBibb,Alabama"
   }]
 }

@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEMarshall,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.015014110564382399], ["weekly", 0.012347500824615285], ["biweekly", 0.011581737679143103], ["triweekly", 0.00921574482517498]],
-      "Confirmed Daily Cases per 100k": [["daily", 48.261322360232676], ["weekly", 37.73817688318945], ["biweekly", 34.10950602903663], ["triweekly", 26.731208625592537]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3238.588737331403], ["weekly", 3045.1805808050567], ["biweekly", 2929.6074141002896], ["triweekly", 2845.1198610460974]],
-      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.759732097967392], ["biweekly", 1.6096481294496525], ["triweekly", 1.364847975514051]],
-      "Confirmed Cumulative Cases": [["daily", 1275.0], ["weekly", 1198.857142857143], ["biweekly", 1153.357142857143], ["triweekly", 1120.095238095238]],
-      "Confirmed Daily Cases": [["daily", 19.0], ["weekly", 14.857142857142858], ["biweekly", 13.428571428571429], ["triweekly", 10.523809523809524]],
-      "Confirmed Fatality Rate": [["daily", 0.017254901960784313], ["weekly", 0.01716141465207938], ["biweekly", 0.01722113345858815], ["triweekly", 0.017492535311447753]],
+      "Spread Rate": [["daily", 0.016581509004395478], ["weekly", 0.012347500824615285], ["biweekly", 0.011581737679143103], ["triweekly", 0.00921574482517498]],
+      "Confirmed Daily Cases per 100k": [["daily", 53.34146155604664], ["weekly", 37.73817688318945], ["biweekly", 34.10950602903663], ["triweekly", 26.731208625592537]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3243.668876527217], ["weekly", 3045.1805808050567], ["biweekly", 2929.6074141002896], ["triweekly", 2845.1198610460974]],
+      "Daily Growth Rate": [["daily", 0.5526315789473685], ["weekly", 1.759732097967392], ["biweekly", 1.6096481294496525], ["triweekly", 1.364847975514051]],
+      "Confirmed Cumulative Cases": [["daily", 1277.0], ["weekly", 1198.857142857143], ["biweekly", 1153.357142857143], ["triweekly", 1120.095238095238]],
+      "Confirmed Daily Cases": [["daily", 21.0], ["weekly", 14.857142857142858], ["biweekly", 13.428571428571429], ["triweekly", 10.523809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.017227877838684416], ["weekly", 0.01716141465207938], ["biweekly", 0.01722113345858815], ["triweekly", 0.017492535311447753]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018900343642611683], ["weekly", 0.01856998081094268], ["biweekly", 0.01836954059891303], ["triweekly", 0.01849187551511405]]
+    },
+    "lat": "REPLACE_MEMarshall,Iowa"
+  }, {
+    "locale": "Marshall,Iowa",
+    "long": "REPLACE_MEMarshall,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00624514129678122], ["weekly", 0.01323588967730809], ["biweekly", 0.011968038279590967], ["triweekly", 0.009730085115122385]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.320556783255864], ["weekly", 41.00398065192701], ["biweekly", 35.7424079134054], ["triweekly", 28.54554405266895]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3263.989433310473], ["weekly", 3086.1845614569834], ["biweekly", 2965.3498220136958], ["triweekly", 2873.6654050987663]],
+      "Daily Growth Rate": [["daily", 0.38095238095238093], ["weekly", 1.7751874028963812], ["biweekly", 1.4776932422316076], ["triweekly", 1.3752907491147193]],
+      "Confirmed Cumulative Cases": [["daily", 1285.0], ["weekly", 1215.0], ["biweekly", 1167.4285714285713], ["triweekly", 1131.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 16.142857142857142], ["biweekly", 14.071428571428571], ["triweekly", 11.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.017120622568093387], ["weekly", 0.01716794997414966], ["biweekly", 0.017195082404737567], ["triweekly", 0.017443782776342794]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018851756640959727], ["weekly", 0.018624527257241705], ["biweekly", 0.018415873639393256], ["triweekly", 0.018491631277294803]]
     },
     "lat": "REPLACE_MEMarshall,Iowa"
   }]

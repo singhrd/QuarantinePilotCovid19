@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MECerro Gordo,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.040166041725334445], ["weekly", 0.03349686234118808], ["biweekly", 0.05561923957129343], ["triweekly", 0.06014579622361631]],
-      "Confirmed Daily Cases per 100k": [["daily", 47.11425206124853], ["weekly", 34.32609793033821], ["biweekly", 44.422009086320045], ["triweekly", 39.26187671770712]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1196.7020023557127], ["weekly", 1048.965169106512], ["biweekly", 909.6415951539627], ["triweekly", 750.9114364238039]],
-      "Daily Growth Rate": [["daily", 1.3333333333333333], ["weekly", 1.205907029478458], ["biweekly", 1.3399395003004426], ["triweekly", 1.3703338165268253]],
-      "Confirmed Cumulative Cases": [["daily", 508.0], ["weekly", 445.2857142857143], ["biweekly", 386.14285714285717], ["triweekly", 318.76190476190476]],
-      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 14.571428571428571], ["biweekly", 18.857142857142858], ["triweekly", 16.666666666666668]],
-      "Confirmed Fatality Rate": [["daily", 0.031496062992125984], ["weekly", 0.03039113298698206], ["biweekly", 0.020200549034059906], ["triweekly", 0.015309842386163595]],
+      "Spread Rate": [["daily", 0.04213261069737495], ["weekly", 0.03349686234118808], ["biweekly", 0.05561923957129343], ["triweekly", 0.06014579622361631]],
+      "Confirmed Daily Cases per 100k": [["daily", 49.46996466431096], ["weekly", 34.32609793033821], ["biweekly", 44.422009086320045], ["triweekly", 39.26187671770712]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1199.057714958775], ["weekly", 1048.965169106512], ["biweekly", 909.6415951539627], ["triweekly", 750.9114364238039]],
+      "Daily Growth Rate": [["daily", 1.4], ["weekly", 1.205907029478458], ["biweekly", 1.3399395003004426], ["triweekly", 1.3703338165268253]],
+      "Confirmed Cumulative Cases": [["daily", 509.0], ["weekly", 445.2857142857143], ["biweekly", 386.14285714285717], ["triweekly", 318.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 21.0], ["weekly", 14.571428571428571], ["biweekly", 18.857142857142858], ["triweekly", 16.666666666666668]],
+      "Confirmed Fatality Rate": [["daily", 0.03143418467583497], ["weekly", 0.03039113298698206], ["biweekly", 0.020200549034059906], ["triweekly", 0.015309842386163595]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04050632911392405], ["weekly", 0.04153265441935678], ["biweekly", 0.02949324236909015], ["triweekly", 0.023076374945991376]]
+    },
+    "lat": "REPLACE_MECerro Gordo,Iowa"
+  }, {
+    "locale": "Cerro Gordo,Iowa",
+    "long": "REPLACE_MECerro Gordo,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02713344751440072], ["weekly", 0.036223178807057214], ["biweekly", 0.045023513976487246], ["triweekly", 0.05818155821210795]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.97997644287397], ["weekly", 38.36446239273094], ["biweekly", 40.04711425206125], ["triweekly", 40.271467833305294]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1232.037691401649], ["weekly", 1087.3296314992429], ["biweekly", 949.6887094060239], ["triweekly", 791.1829042571093]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.3630498866213152], ["biweekly", 1.2534315637925062], ["triweekly", 1.4196844658774748]],
+      "Confirmed Cumulative Cases": [["daily", 523.0], ["weekly", 461.57142857142856], ["biweekly", 403.14285714285717], ["triweekly", 335.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 16.285714285714285], ["biweekly", 17.0], ["triweekly", 17.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.030592734225621414], ["weekly", 0.030541766964180907], ["biweekly", 0.022182273875164617], ["triweekly", 0.016489248005647803]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0380952380952381], ["weekly", 0.040993495320713357], ["biweekly", 0.03191036111532282], ["triweekly", 0.024417358284161778]]
     },
     "lat": "REPLACE_MECerro Gordo,Iowa"
   }]

@@ -2774,5 +2774,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007142857142857143], ["weekly", 0.008412668399470611], ["biweekly", 0.0095175688336157], ["triweekly", 0.01133692165447551]]
     },
     "lat": "REPLACE_MELake,California"
+  }, {
+    "locale": "Lake,California",
+    "long": "REPLACE_MELake,California",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0260459366848507], ["biweekly", 0.031559482305645634], ["triweekly", 0.030791769758335804]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 6.212530674370205], ["biweekly", 6.656282865396648], ["triweekly", 5.916695880352576]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 260.9262883235486], ["weekly", 239.62618315427932], ["biweekly", 216.44013117314762], ["triweekly", 194.65929446359974]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.1848963369579293], ["biweekly", 2.3952387355054148], ["triweekly", 2.1888003758978423]],
+      "Confirmed Cumulative Cases": [["daily", 168.0], ["weekly", 154.28571428571428], ["biweekly", 139.35714285714286], ["triweekly", 125.33333333333333]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.0], ["biweekly", 4.285714285714286], ["triweekly", 3.8095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.005952380952380952], ["weekly", 0.006509112531435311], ["biweekly", 0.007309718885709955], ["triweekly", 0.008313760579518466]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007142857142857143], ["weekly", 0.008110325239984595], ["biweekly", 0.009216084603560043], ["triweekly", 0.011677057708897279]]
+    },
+    "lat": "REPLACE_MELake,California"
   }]
 }

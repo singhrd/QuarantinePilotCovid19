@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MEPolk,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.013453371188036911], ["weekly", 0.013370430240800044], ["biweekly", 0.016211694501508184], ["triweekly", 0.01602790764455907]],
-      "Confirmed Daily Cases per 100k": [["daily", 24.277737314882256], ["weekly", 22.878780062644143], ["biweekly", 25.997288937424933], ["triweekly", 24.394317085902095]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1816.7500066304744], ["weekly", 1724.535407753779], ["biweekly", 1637.202586788539], ["triweekly", 1545.1482850969956]],
-      "Daily Growth Rate": [["daily", 0.8380281690140845], ["weekly", 0.9915893384326849], ["biweekly", 1.0892868811113623], ["triweekly", 1.199471932779635]],
-      "Confirmed Cumulative Cases": [["daily", 8905.0], ["weekly", 8453.0], ["biweekly", 8024.928571428572], ["triweekly", 7573.714285714285]],
-      "Confirmed Daily Cases": [["daily", 119.0], ["weekly", 112.14285714285714], ["biweekly", 127.42857142857143], ["triweekly", 119.57142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.0214486243683324], ["weekly", 0.022421329622308892], ["biweekly", 0.023443748343708347], ["triweekly", 0.024643378091976]],
+      "Spread Rate": [["daily", 0.013565661345921853], ["weekly", 0.013370430240800044], ["biweekly", 0.016211694501508184], ["triweekly", 0.01602790764455907]],
+      "Confirmed Daily Cases per 100k": [["daily", 24.481751914166978], ["weekly", 22.878780062644143], ["biweekly", 25.997288937424933], ["triweekly", 24.394317085902095]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1816.9540212297593], ["weekly", 1724.535407753779], ["biweekly", 1637.202586788539], ["triweekly", 1545.1482850969956]],
+      "Daily Growth Rate": [["daily", 0.8450704225352113], ["weekly", 0.9915893384326849], ["biweekly", 1.0892868811113623], ["triweekly", 1.199471932779635]],
+      "Confirmed Cumulative Cases": [["daily", 8906.0], ["weekly", 8453.0], ["biweekly", 8024.928571428572], ["triweekly", 7573.714285714285]],
+      "Confirmed Daily Cases": [["daily", 120.0], ["weekly", 112.14285714285714], ["biweekly", 127.42857142857143], ["triweekly", 119.57142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.021446216034134293], ["weekly", 0.022421329622308892], ["biweekly", 0.023443748343708347], ["triweekly", 0.024643378091976]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.023519271025735748], ["weekly", 0.02495797902765135], ["biweekly", 0.026406811282943605], ["triweekly", 0.0276022063207019]]
+    },
+    "lat": "REPLACE_MEPolk,Iowa"
+  }, {
+    "locale": "Polk,Iowa",
+    "long": "REPLACE_MEPolk,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008831313336012059], ["weekly", 0.013181701085605013], ["biweekly", 0.015069921539888525], ["triweekly", 0.015988279906648067]],
+      "Confirmed Daily Cases per 100k": [["daily", 16.11715334349326], ["weekly", 22.878780062644143], ["biweekly", 24.685766513451707], ["triweekly", 24.676051532533382]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1833.0711745732526], ["weekly", 1747.4141878164232], ["biweekly", 1661.8883533019907], ["triweekly", 1569.824336629529]],
+      "Daily Growth Rate": [["daily", 0.6583333333333333], ["weekly", 1.0257335979290572], ["biweekly", 1.0534952079957454], ["triweekly", 1.2078506363737487]],
+      "Confirmed Cumulative Cases": [["daily", 8985.0], ["weekly", 8565.142857142857], ["biweekly", 8145.928571428572], ["triweekly", 7694.666666666667]],
+      "Confirmed Daily Cases": [["daily", 79.0], ["weekly", 112.14285714285714], ["biweekly", 121.0], ["triweekly", 120.95238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.02125765164162493], ["weekly", 0.022177952142638988], ["biweekly", 0.023153261358110695], ["triweekly", 0.024325668019667]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02316836487142164], ["weekly", 0.024593922745217437], ["biweekly", 0.02602221991978479], ["triweekly", 0.027252549275950395]]
     },
     "lat": "REPLACE_MEPolk,Iowa"
   }]

@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MESioux,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.005429877594369081], ["weekly", 0.007723888752896535], ["biweekly", 0.007799949426070858], ["triweekly", 0.008492226959822203]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.607086501219337], ["weekly", 11.885976596921939], ["biweekly", 11.68104596594053], ["triweekly", 12.295837858884765]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1589.4419738918375], ["weekly", 1539.4388999323728], ["biweekly", 1500.9119413078672], ["triweekly", 1456.646925015882]],
-      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.943022827571307], ["biweekly", 0.8849100915170786], ["triweekly", 0.957400378471703]],
-      "Confirmed Cumulative Cases": [["daily", 554.0], ["weekly", 536.5714285714286], ["biweekly", 523.1428571428571], ["triweekly", 507.7142857142857]],
-      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 4.142857142857143], ["biweekly", 4.071428571428571], ["triweekly", 4.285714285714286]],
-      "Confirmed Fatality Rate": [["daily", 0.0018050541516245488], ["weekly", 0.00025926886180969663], ["biweekly", 0.00012963443090484831], ["triweekly", 0.00008642295393656554]],
+      "Spread Rate": [["daily", 0.007233304593519563], ["weekly", 0.007723888752896535], ["biweekly", 0.007799949426070858], ["triweekly", 0.008492226959822203]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.476115334959115], ["weekly", 11.885976596921939], ["biweekly", 11.68104596594053], ["triweekly", 12.295837858884765]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1592.3110027255773], ["weekly", 1539.4388999323728], ["biweekly", 1500.9119413078672], ["triweekly", 1456.646925015882]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 0.943022827571307], ["biweekly", 0.8849100915170786], ["triweekly", 0.957400378471703]],
+      "Confirmed Cumulative Cases": [["daily", 555.0], ["weekly", 536.5714285714286], ["biweekly", 523.1428571428571], ["triweekly", 507.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 4.142857142857143], ["biweekly", 4.071428571428571], ["triweekly", 4.285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.0018018018018018018], ["weekly", 0.00025926886180969663], ["biweekly", 0.00012963443090484831], ["triweekly", 0.00008642295393656554]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0019011406844106464], ["weekly", 0.0002736726874657909], ["biweekly", 0.00013683634373289546], ["triweekly", 0.00009122422915526363]]
+    },
+    "lat": "REPLACE_MESioux,Iowa"
+  }, {
+    "locale": "Sioux,Iowa",
+    "long": "REPLACE_MESioux,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003597126180849841], ["weekly", 0.00766670014410347], ["biweekly", 0.007597286999636831], ["triweekly", 0.008836670035704087]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.738057667479557], ["weekly", 11.88597659692194], ["biweekly", 11.476115334959117], ["triweekly", 12.842319541501865]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1598.0490603930568], ["weekly", 1551.324876529295], ["biweekly", 1512.3880566428263], ["triweekly", 1469.4892445573842]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.8477847323332118], ["biweekly", 0.8611005677075546], ["triweekly", 0.9891464102177349]],
+      "Confirmed Cumulative Cases": [["daily", 557.0], ["weekly", 540.7142857142857], ["biweekly", 527.1428571428571], ["triweekly", 512.1904761904761]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.142857142857143], ["biweekly", 4.0], ["triweekly", 4.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.0017953321364452424], ["weekly", 0.0005166691192099541], ["biweekly", 0.00025833455960497703], ["triweekly", 0.00017222303973665133]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0019011406844106464], ["weekly", 0.000545264213810169], ["biweekly", 0.0002726321069050845], ["triweekly", 0.000181754737936723]]
     },
     "lat": "REPLACE_MESioux,Iowa"
   }]

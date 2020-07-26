@@ -2899,18 +2899,18 @@
     "epidemiccontrolThreshold": 1653.05285,
     "source": "JHU",
     "confirmedPer100kN": 21.340335501312847,
-    "deaths": 1082,
+    "deaths": 1096,
     "confirmed": 64534,
     "recovered": 21931,
     "recoveredPer100k": 6.633484222842603,
     "confirmedPer100k": 19.51964209734734,
     "locale": "US",
-    "activePer100k": 12.558884611583954,
+    "activePer100k": 12.554650022230081,
     "long": "-77",
     "date": "7/21/20",
-    "deathsPer100k": 0.3272732629207832,
+    "deathsPer100k": 0.33150785227465657,
     "lat": "38.883333",
-    "active": 41521
+    "active": 41507
   }, {
     "epidemiccontrolThreshold": 1653.05285,
     "source": "JHU",
@@ -2959,5 +2959,21 @@
     "deathsPer100k": 0.3417918549912061,
     "lat": "38.883333",
     "active": 44230
+  }, {
+    "epidemiccontrolThreshold": 1653.05285,
+    "source": "JHU",
+    "confirmedPer100kN": 21.656469023785576,
+    "deaths": 900,
+    "confirmed": 65490,
+    "recovered": 17790,
+    "recoveredPer100k": 5.380953186100493,
+    "confirmedPer100k": 19.808804056083265,
+    "locale": "US",
+    "activePer100k": 14.155627268662341,
+    "long": "-77",
+    "date": "7/25/20",
+    "deathsPer100k": 0.27222360132042966,
+    "lat": "38.883333",
+    "active": 46800
   }]
 }

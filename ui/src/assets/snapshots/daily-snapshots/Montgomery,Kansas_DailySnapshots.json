@@ -2946,18 +2946,34 @@
   }, {
     "epidemiccontrolThreshold": 0.159145,
     "source": "NYGithub",
-    "confirmedPer100kN": 9.425366803858116,
-    "deaths": 0,
-    "confirmed": 3,
+    "confirmedPer100kN": 40.843256150051836,
+    "deaths": 1,
+    "confirmed": 13,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 9.425366803858116,
+    "confirmedPer100k": 40.843256150051836,
     "locale": "Montgomery,Kansas",
-    "activePer100k": 9.425366803858116,
+    "activePer100k": 37.701467215432466,
     "long": "REPLACE_MEMontgomery,Kansas",
     "date": "07/24/2020",
+    "deathsPer100k": 3.141788934619372,
+    "lat": "REPLACE_MEMontgomery,Kansas",
+    "active": 12
+  }, {
+    "epidemiccontrolThreshold": 0.159145,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.141788934619372,
+    "deaths": 0,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.141788934619372,
+    "locale": "Montgomery,Kansas",
+    "activePer100k": 3.141788934619372,
+    "long": "REPLACE_MEMontgomery,Kansas",
+    "date": "07/25/2020",
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEMontgomery,Kansas",
-    "active": 3
+    "active": 1
   }]
 }

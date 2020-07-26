@@ -2774,5 +2774,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07693891204775874], ["weekly", 0.07741880429114723], ["biweekly", 0.07751763872201003], ["triweekly", 0.07728524361295108]]
     },
     "lat": "REPLACE_MEHudson,New Jersey"
+  }, {
+    "locale": "Hudson,New Jersey",
+    "long": "REPLACE_MEHudson,New Jersey",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.000820681211427754], ["weekly", 0.00041845180837109453], ["biweekly", 0.0009333825230877224], ["triweekly", 0.0010075345479688533]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.3795678407355245], ["weekly", 1.2110300618029008], ["biweekly", 2.6876368915450337], ["triweekly", 2.8894752351788506]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2900.6931978566045], ["weekly", 2893.4482636272223], ["biweekly", 2886.2989370342975], ["triweekly", 2874.872053965765]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.3952380952380952], ["biweekly", 1.3248036648663757], ["triweekly", 1.2779981998430021]],
+      "Confirmed Cumulative Cases": [["daily", 19504.0], ["weekly", 19455.285714285714], ["biweekly", 19407.214285714286], ["triweekly", 19330.380952380954]],
+      "Confirmed Daily Cases": [["daily", 16.0], ["weekly", 8.142857142857142], ["biweekly", 18.071428571428573], ["triweekly", 19.428571428571427]],
+      "Confirmed Fatality Rate": [["daily", 0.07680475799835931], ["weekly", 0.07690906264727095], ["biweekly", 0.07691169542458128], ["triweekly", 0.07671681196387688]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07703383729301656], ["weekly", 0.07729195199985263], ["biweekly", 0.07746895064875173], ["triweekly", 0.07729701044190646]]
+    },
+    "lat": "REPLACE_MEHudson,New Jersey"
   }]
 }

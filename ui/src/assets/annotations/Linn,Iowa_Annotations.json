@@ -2764,14 +2764,29 @@
     "long": "REPLACE_MELinn,Iowa",
     "date": "07/24/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.01901526611348814], ["weekly", 0.02004080567001232], ["biweekly", 0.01773765157865505], ["triweekly", 0.01563074057801464]],
-      "Confirmed Daily Cases per 100k": [["daily", 14.556297583654603], ["weekly", 14.178211932131106], ["biweekly", 11.90969802299013], ["triweekly", 10.103288799044538]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 772.8070717140262], ["weekly", 710.8010248641729], ["biweekly", 668.4239247559143], ["triweekly", 636.0450896546105]],
-      "Daily Growth Rate": [["daily", 0.6346153846153846], ["weekly", 1.106186067893582], ["biweekly", 1.1648294962084633], ["triweekly", 1.1935031108509935]],
-      "Confirmed Cumulative Cases": [["daily", 1752.0], ["weekly", 1611.4285714285713], ["biweekly", 1515.357142857143], ["triweekly", 1441.952380952381]],
-      "Confirmed Daily Cases": [["daily", 33.0], ["weekly", 32.142857142857146], ["biweekly", 27.0], ["triweekly", 22.904761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.04965753424657534], ["weekly", 0.05397723650395545], ["biweekly", 0.05644692708411721], ["triweekly", 0.058782603050754716]],
+      "Spread Rate": [["daily", 0.020156167549279402], ["weekly", 0.02004080567001232], ["biweekly", 0.01773765157865505], ["triweekly", 0.01563074057801464]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.438497437209426], ["weekly", 14.178211932131106], ["biweekly", 11.90969802299013], ["triweekly", 10.103288799044538]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 773.6892715675809], ["weekly", 710.8010248641729], ["biweekly", 668.4239247559143], ["triweekly", 636.0450896546105]],
+      "Daily Growth Rate": [["daily", 0.6730769230769231], ["weekly", 1.106186067893582], ["biweekly", 1.1648294962084633], ["triweekly", 1.1935031108509935]],
+      "Confirmed Cumulative Cases": [["daily", 1754.0], ["weekly", 1611.4285714285713], ["biweekly", 1515.357142857143], ["triweekly", 1441.952380952381]],
+      "Confirmed Daily Cases": [["daily", 35.0], ["weekly", 32.142857142857146], ["biweekly", 27.0], ["triweekly", 22.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.049600912200684154], ["weekly", 0.05397723650395545], ["biweekly", 0.05644692708411721], ["triweekly", 0.058782603050754716]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05693717277486911], ["weekly", 0.061243234448446864], ["biweekly", 0.06289685023869303], ["triweekly", 0.06484440470736749]]
+    },
+    "lat": "REPLACE_MELinn,Iowa"
+  }, {
+    "locale": "Linn,Iowa",
+    "long": "REPLACE_MELinn,Iowa",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02588777095212791], ["weekly", 0.01970560045795176], ["biweekly", 0.017753505339259488], ["triweekly", 0.016283832075463328]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.29059663176096], ["weekly", 14.241226207385022], ["biweekly", 12.161755124005794], ["triweekly", 10.670417276329783]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 793.9798681993419], ["weekly", 725.0422510715579], ["biweekly", 680.5856798799199], ["triweekly", 646.7155069309401]],
+      "Daily Growth Rate": [["daily", 1.3142857142857143], ["weekly", 1.0745203651752477], ["biweekly", 1.099461041134126], ["triweekly", 1.2065067738546567]],
+      "Confirmed Cumulative Cases": [["daily", 1800.0], ["weekly", 1643.7142857142858], ["biweekly", 1542.9285714285713], ["triweekly", 1466.142857142857]],
+      "Confirmed Daily Cases": [["daily", 46.0], ["weekly", 32.285714285714285], ["biweekly", 27.571428571428573], ["triweekly", 24.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.04833333333333333], ["weekly", 0.0530226921736119], ["biweekly", 0.055656098339888715], ["triweekly", 0.05801071344600247]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0562015503875969], ["weekly", 0.06039633097685339], ["biweekly", 0.06220570814269937], ["triweekly", 0.0641924239679238]]
     },
     "lat": "REPLACE_MELinn,Iowa"
   }]

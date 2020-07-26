@@ -2774,5 +2774,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012903225806451613], ["weekly", 0.01379121778865299], ["biweekly", 0.014555590465663928], ["triweekly", 0.01558787945133047]]
     },
     "lat": "REPLACE_MELyon,Nevada"
+  }, {
+    "locale": "Lyon,Nevada",
+    "long": "REPLACE_MELyon,Nevada",
+    "date": "07/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.030032287098874733], ["weekly", 0.008063044414993139], ["biweekly", 0.011301714658206776], ["triweekly", 0.013699146307227699]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.694140149539212], ["weekly", 2.23563603845294], ["biweekly", 2.9808480512705873], ["triweekly", 3.394854725058169]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 293.86193705442537], ["weekly", 277.71567677670964], ["biweekly", 266.91010259085374], ["triweekly", 255.11091238790772]],
+      "Daily Growth Rate": [["daily", 2.5], ["weekly", 1.0581581115980783], ["biweekly", 0.95954391951473], ["triweekly", 1.0762038828510896]],
+      "Confirmed Cumulative Cases": [["daily", 169.0], ["weekly", 159.71428571428572], ["biweekly", 153.5], ["triweekly", 146.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 1.2857142857142858], ["biweekly", 1.7142857142857142], ["triweekly", 1.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.01775147928994083], ["weekly", 0.012525535154418429], ["biweekly", 0.013059627294445519], ["triweekly", 0.013719051228811887]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019230769230769232], ["weekly", 0.01359371943447261], ["biweekly", 0.014315809266008613], ["triweekly", 0.015312243119016416]]
+    },
+    "lat": "REPLACE_MELyon,Nevada"
   }]
 }
