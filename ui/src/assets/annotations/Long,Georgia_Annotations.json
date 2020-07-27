@@ -2789,5 +2789,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013670632435902], ["biweekly", 0.015511720616284514], ["triweekly", 0.01824793100583789]]
     },
     "lat": "REPLACE_MELong,Georgia"
+  }, {
+    "locale": "Long,Georgia",
+    "long": "REPLACE_MELong,Georgia",
+    "date": "07/26/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.022775390989728805], ["biweekly", 0.023883513316030985], ["triweekly", 0.02689965928744125]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 10.225471649879852], ["biweekly", 9.860276233812714], ["triweekly", 9.982008039168424]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 485.7099033692929], ["weekly", 455.7638792517876], ["biweekly", 420.3399238932753], ["triweekly", 381.99440520622585]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9258124637032638], ["biweekly", 0.8110329066982901], ["triweekly", 0.9070391413393664]],
+      "Confirmed Cumulative Cases": [["daily", 95.0], ["weekly", 89.14285714285714], ["biweekly", 82.21428571428571], ["triweekly", 74.71428571428571]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.0], ["biweekly", 1.9285714285714286], ["triweekly", 1.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.010526315789473684], ["weekly", 0.011255131584576375], ["biweekly", 0.012294296057339506], ["triweekly", 0.01379891286732595]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013333460530102644], ["biweekly", 0.01507080350870074], ["triweekly", 0.017513069159864936]]
+    },
+    "lat": "REPLACE_MELong,Georgia"
   }]
 }

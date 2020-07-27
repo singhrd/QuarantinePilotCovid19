@@ -2789,5 +2789,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0016129032258064516], ["weekly", 0.0016837585911891047], ["biweekly", 0.0017729920282951166], ["triweekly", 0.001861092390331911]]
     },
     "lat": "REPLACE_MESummit,Utah"
+  }, {
+    "locale": "Summit,Utah",
+    "long": "REPLACE_MESummit,Utah",
+    "date": "07/26/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009009069942366388], ["weekly", 0.009579358878103557], ["biweekly", 0.010296113847592547], ["triweekly", 0.012028956643910767]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.236564242496145], ["weekly", 14.57553005779367], ["biweekly", 15.083978780739963], ["triweekly", 16.722313554678014]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1587.37691303832], ["weekly", 1536.1930749283933], ["biweekly", 1480.7721641272478], ["triweekly", 1418.9109028354487]],
+      "Daily Growth Rate": [["daily", 1.2], ["weekly", 1.4603741496598635], ["biweekly", 1.612074829931973], ["triweekly", 1.5765306122448979]],
+      "Confirmed Cumulative Cases": [["daily", 669.0], ["weekly", 647.4285714285714], ["biweekly", 624.0714285714286], ["triweekly", 598.0]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 6.142857142857143], ["biweekly", 6.357142857142857], ["triweekly", 7.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.0014947683109118087], ["weekly", 0.0015449157411007712], ["biweekly", 0.0016051045195064242], ["triweekly", 0.001681307344610855]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0015748031496062992], ["weekly", 0.0016652932979120772], ["biweekly", 0.0017495031463658965], ["triweekly", 0.0018391026012426702]]
+    },
+    "lat": "REPLACE_MESummit,Utah"
   }]
 }

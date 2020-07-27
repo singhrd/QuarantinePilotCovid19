@@ -2789,5 +2789,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEPershing,Nevada"
+  }, {
+    "locale": "Pershing,Nevada",
+    "long": "REPLACE_MEPershing,Nevada",
+    "date": "07/26/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.005717336262395456], ["triweekly", 0.017510703815491295]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 1.0621348911311737], ["triweekly", 2.83235970968313]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 193.3085501858736], ["weekly", 193.3085501858736], ["biweekly", 190.12214551248007], ["triweekly", 174.89821207293326]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.06734350297014739]],
+      "Confirmed Cumulative Cases": [["daily", 13.0], ["weekly", 13.0], ["biweekly", 12.785714285714286], ["triweekly", 11.761904761904763]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.07142857142857142], ["triweekly", 0.19047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEPershing,Nevada"
   }]
 }

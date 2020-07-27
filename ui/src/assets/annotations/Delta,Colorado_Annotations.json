@@ -2789,5 +2789,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011627906976744186], ["weekly", 0.011806599916514659], ["biweekly", 0.011876171034398628], ["triweekly", 0.01194767145491687]]
     },
     "lat": "REPLACE_MEDelta,Colorado"
+  }, {
+    "locale": "Delta,Colorado",
+    "long": "REPLACE_MEDelta,Colorado",
+    "date": "07/26/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.010256500167189486], ["weekly", 0.018660026059580708], ["biweekly", 0.011866205062426718], ["triweekly", 0.007340508563202806]],
+      "Confirmed Daily Cases per 100k": [["daily", -3.209036647198511], ["weekly", 5.501205680911733], ["biweekly", 3.438253550569833], ["triweekly", 2.139357764799007]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 311.27655477825556], ["weekly", 294.7729377355204], ["biweekly", 283.9997432770682], ["triweekly", 278.7277544995278]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0714285714285714], ["biweekly", 0.6971372178496339], ["triweekly", 0.5599962404711845]],
+      "Confirmed Cumulative Cases": [["daily", 97.0], ["weekly", 91.85714285714286], ["biweekly", 88.5], ["triweekly", 86.85714285714286]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 1.7142857142857142], ["biweekly", 1.0714285714285714], ["triweekly", 0.6666666666666666]],
+      "Confirmed Fatality Rate": [["daily", 0.010309278350515464], ["weekly", 0.010900430961830234], ["biweekly", 0.011323495025291007], ["triweekly", 0.01153774077554165]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011363636363636364], ["weekly", 0.011746559088751777], ["biweekly", 0.011856395682397361], ["triweekly", 0.011920661218037093]]
+    },
+    "lat": "REPLACE_MEDelta,Colorado"
   }]
 }
