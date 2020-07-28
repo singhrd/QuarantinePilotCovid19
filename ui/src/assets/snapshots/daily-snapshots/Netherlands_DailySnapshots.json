@@ -2978,18 +2978,34 @@
   }, {
     "epidemiccontrolThreshold": 85.63645,
     "source": "JHU",
-    "confirmedPer100kN": 0.01156233330025199,
-    "deaths": 0,
-    "confirmed": 21,
+    "confirmedPer100kN": 0.16187266620352786,
+    "deaths": 19,
+    "confirmed": 294,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 0.12261134131552628,
+    "confirmedPer100k": 1.716558778417368,
     "locale": "Netherlands",
-    "activePer100k": 0.12261134131552628,
+    "activePer100k": 1.6056247077033203,
     "long": "4.916667",
     "date": "7/26/20",
-    "deathsPer100k": 0.0,
+    "deathsPer100k": 0.11093407071404758,
     "lat": "52.35",
-    "active": 21
+    "active": 275
+  }, {
+    "epidemiccontrolThreshold": 85.63645,
+    "source": "JHU",
+    "confirmedPer100kN": 0.08038574580175192,
+    "deaths": -18,
+    "confirmed": 146,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.8524407539079446,
+    "locale": "Netherlands",
+    "activePer100k": 0.9575361893212528,
+    "long": "4.916667",
+    "date": "7/27/20",
+    "deathsPer100k": -0.10509543541330824,
+    "lat": "52.35",
+    "active": 164
   }]
 }

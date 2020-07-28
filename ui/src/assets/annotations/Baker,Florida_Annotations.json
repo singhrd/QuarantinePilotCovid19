@@ -2804,5 +2804,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.021107078139747992], ["biweekly", 0.027286700775231452], ["triweekly", 0.037257119779727774]]
     },
     "lat": "REPLACE_MEBaker,Florida"
+  }, {
+    "locale": "Baker,Florida",
+    "long": "REPLACE_MEBaker,Florida",
+    "date": "07/27/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.032789822822991255], ["weekly", 0.036720728998555864], ["biweekly", 0.0440132956731298], ["triweekly", 0.05137188863675858]],
+      "Confirmed Daily Cases per 100k": [["daily", 34.2348510783978], ["weekly", 33.256712476157865], ["biweekly", 33.745781777277834], ["triweekly", 32.27857387391792]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1061.280383430332], ["weekly", 898.4203061573824], ["biweekly", 794.248545018829], ["triweekly", 678.0130744526499]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.214162028447743], ["biweekly", 1.23283621140764], ["triweekly", 1.2519078144078146]],
+      "Confirmed Cumulative Cases": [["daily", 310.0], ["weekly", 262.42857142857144], ["biweekly", 232.0], ["triweekly", 198.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 9.714285714285714], ["biweekly", 9.857142857142858], ["triweekly", 9.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.012903225806451613], ["weekly", 0.015334863638950943], ["biweekly", 0.017688829552610426], ["triweekly", 0.022256359493415805]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01680672268907563], ["weekly", 0.020042795466269914], ["biweekly", 0.025717107420648238], ["triweekly", 0.03461493437892169]]
+    },
+    "lat": "REPLACE_MEBaker,Florida"
   }]
 }

@@ -2804,5 +2804,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEStark,Illinois"
+  }, {
+    "locale": "Stark,Illinois",
+    "long": "REPLACE_MEStark,Illinois",
+    "date": "07/27/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", -0.022021525689608325], ["biweekly", 0.0], ["triweekly", 0.01930786229086497]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", -2.6742258116275335], ["biweekly", 0.0], ["triweekly", 1.782817207751689]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 112.31748408835642], ["weekly", 114.99170989998395], ["biweekly", 116.32882280579771], ["triweekly", 114.10030129610814]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.03779526314209999]],
+      "Confirmed Cumulative Cases": [["daily", 6.0], ["weekly", 6.142857142857143], ["biweekly", 6.214285714285714], ["triweekly", 6.095238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", -0.14285714285714285], ["biweekly", 0.0], ["triweekly", 0.09523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEStark,Illinois"
   }]
 }

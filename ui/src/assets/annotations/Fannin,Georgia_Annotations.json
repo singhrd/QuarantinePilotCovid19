@@ -2804,5 +2804,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010526315789473684], ["weekly", 0.013786148166496473], ["biweekly", 0.013105564419641844], ["triweekly", 0.012086996913148093]]
     },
     "lat": "REPLACE_MEFannin,Georgia"
+  }, {
+    "locale": "Fannin,Georgia",
+    "long": "REPLACE_MEFannin,Georgia",
+    "date": "07/27/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012685159527316081], ["weekly", 0.030365920283381826], ["biweekly", 0.04339680358746729], ["triweekly", 0.03746460379439301]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.455628532152131], ["weekly", 24.547775426040282], ["biweekly", 29.184577450958994], ["triweekly", 23.274927811356708]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 908.813196884069], ["weekly", 817.7136747474307], ["biweekly", 706.4304261493814], ["triweekly", 619.1494468567938]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.0396658663465386], ["biweekly", 1.3269024078550813], ["triweekly", 1.2754070241924178]],
+      "Confirmed Cumulative Cases": [["daily", 238.0], ["weekly", 214.14285714285714], ["biweekly", 185.0], ["triweekly", 162.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 6.428571428571429], ["biweekly", 7.642857142857143], ["triweekly", 6.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.008403361344537815], ["weekly", 0.009382907204413177], ["biweekly", 0.009624845666277582], ["triweekly", 0.009290438731439516]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010362694300518135], ["weekly", 0.013057764707849858], ["biweekly", 0.013189887376566867], ["triweekly", 0.012081664433011579]]
+    },
+    "lat": "REPLACE_MEFannin,Georgia"
   }]
 }

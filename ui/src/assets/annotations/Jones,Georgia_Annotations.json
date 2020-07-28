@@ -2804,5 +2804,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005434782608695652], ["weekly", 0.006687171979868006], ["biweekly", 0.005556069830781249], ["triweekly", 0.003704046553854166]]
     },
     "lat": "REPLACE_MEJones,Georgia"
+  }, {
+    "locale": "Jones,Georgia",
+    "long": "REPLACE_MEJones,Georgia",
+    "date": "07/27/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013423020332140823], ["weekly", 0.02682023203761335], ["biweekly", 0.03659487526075183], ["triweekly", 0.03656897112584016]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.44022968505307], ["weekly", 18.891844192000796], ["biweekly", 22.123343856421986], ["triweekly", 19.720433849544687]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 783.0172263789804], ["weekly", 714.4100027343458], ["biweekly", 632.1310497402372], ["triweekly", 565.2638643764449]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.032312925170068], ["biweekly", 1.2913517943112096], ["triweekly", 1.5428361924281837]],
+      "Confirmed Cumulative Cases": [["daily", 225.0], ["weekly", 205.28571428571428], ["biweekly", 181.64285714285714], ["triweekly", 162.42857142857142]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 5.428571428571429], ["biweekly", 6.357142857142857], ["triweekly", 5.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.0044444444444444444], ["weekly", 0.00488960684305386], ["biweekly", 0.0046245220629160515], ["triweekly", 0.0030830147086107007]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0053475935828877], ["weekly", 0.006389455639327212], ["biweekly", 0.005944268588545224], ["triweekly", 0.0039628457256968164]]
+    },
+    "lat": "REPLACE_MEJones,Georgia"
   }]
 }

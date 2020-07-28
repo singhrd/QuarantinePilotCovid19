@@ -2804,5 +2804,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010752688172043012], ["weekly", 0.005278345685322429], ["biweekly", 0.0026391728426612146], ["triweekly", 0.001759448561774143]]
     },
     "lat": "REPLACE_MEEvans,Georgia"
+  }, {
+    "locale": "Evans,Georgia",
+    "long": "REPLACE_MEEvans,Georgia",
+    "date": "07/27/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.06453852113757108], ["weekly", 0.08190656867818914], ["biweekly", 0.08819603307090637], ["triweekly", 0.08117848058278214]],
+      "Confirmed Daily Cases per 100k": [["daily", 103.24760653275766], ["weekly", 96.54321649816299], ["biweekly", 78.44136340475744], ["triweekly", 60.33951031135187]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1651.9617045241225], ["weekly", 1245.6756684276863], ["biweekly", 976.1591890369813], ["triweekly", 772.7926913209436]],
+      "Daily Growth Rate": [["daily", 0.7333333333333333], ["weekly", 1.2502551020408161], ["biweekly", 1.3528871053261564], ["triweekly", 1.22732156228093]],
+      "Confirmed Cumulative Cases": [["daily", 176.0], ["weekly", 132.71428571428572], ["biweekly", 104.0], ["triweekly", 82.33333333333333]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 10.285714285714286], ["biweekly", 8.357142857142858], ["triweekly", 6.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.005681818181818182], ["weekly", 0.003905466900187745], ["biweekly", 0.0019527334500938724], ["triweekly", 0.0013018223000625818]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01], ["weekly", 0.006814443995614289], ["biweekly", 0.0034072219978071444], ["triweekly", 0.0022714813318714298]]
+    },
+    "lat": "REPLACE_MEEvans,Georgia"
   }]
 }

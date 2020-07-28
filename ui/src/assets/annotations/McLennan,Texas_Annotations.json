@@ -2804,5 +2804,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010635065329687025], ["weekly", 0.009698030261824647], ["biweekly", 0.009509645378382276], ["triweekly", 0.010569128631432778]]
     },
     "lat": "REPLACE_MEMcLennan,Texas"
+  }, {
+    "locale": "McLennan,Texas",
+    "long": "REPLACE_MEMcLennan,Texas",
+    "date": "07/27/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013951397190826498], ["weekly", 0.027370964547057293], ["biweekly", 0.03171096610582528], ["triweekly", 0.04240638017190705]],
+      "Confirmed Daily Cases per 100k": [["daily", 21.821894374237694], ["weekly", 38.68932803595713], ["biweekly", 39.774855944879675], ["triweekly", 43.60667668321307]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1575.0731617976564], ["weekly", 1466.576039003296], ["biweekly", 1333.3066126463448], ["triweekly", 1187.6046444265194]],
+      "Daily Growth Rate": [["daily", 1.9310344827586208], ["weekly", 0.8843436086264347], ["biweekly", 1.428457005732762], ["triweekly", 2.3149057259983117]],
+      "Confirmed Cumulative Cases": [["daily", 4042.0], ["weekly", 3763.5714285714284], ["biweekly", 3421.5714285714284], ["triweekly", 3047.6666666666665]],
+      "Confirmed Daily Cases": [["daily", 56.0], ["weekly", 99.28571428571429], ["biweekly", 102.07142857142857], ["triweekly", 111.9047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.008906481939633844], ["weekly", 0.008084799741161707], ["biweekly", 0.007446157458721446], ["triweekly", 0.007105666113159722]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010368663594470046], ["weekly", 0.009876468277803738], ["biweekly", 0.009527064470216366], ["triweekly", 0.010371515254915059]]
+    },
+    "lat": "REPLACE_MEMcLennan,Texas"
   }]
 }
