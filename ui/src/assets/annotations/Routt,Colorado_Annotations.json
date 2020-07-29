@@ -2819,5 +2819,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06896551724137931], ["weekly", 0.0701301851935642], ["biweekly", 0.07271250458812739], ["triweekly", 0.0751023881020394]]
     },
     "lat": "REPLACE_MERoutt,Colorado"
+  }, {
+    "locale": "Routt,Colorado",
+    "long": "REPLACE_MERoutt,Colorado",
+    "date": "07/28/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010471299867295336], ["weekly", 0.012566967563708151], ["biweekly", 0.008790006625516242], ["triweekly", 0.009388955471949956]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.9004602543100084], ["weekly", 4.457668862068581], ["biweekly", 3.0646473426721488], ["triweekly", 3.1575154439652446]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 374.4441844137608], ["weekly", 364.9716380818651], ["biweekly", 350.20560997626296], ["triweekly", 338.22562490945364]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.3228458642706962], ["biweekly", 0.30428007499249093], ["triweekly", 0.4467257806406912]],
+      "Confirmed Cumulative Cases": [["daily", 96.0], ["weekly", 93.57142857142857], ["biweekly", 89.78571428571429], ["triweekly", 86.71428571428571]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.1428571428571428], ["biweekly", 0.7857142857142857], ["triweekly", 0.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.06413246266276232], ["biweekly", 0.06695539148622097], ["triweekly", 0.06947355919959153]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06593406593406594], ["weekly", 0.0697783203096796], ["biweekly", 0.07214410746800615], ["triweekly", 0.07447256602677566]]
+    },
+    "lat": "REPLACE_MERoutt,Colorado"
   }]
 }

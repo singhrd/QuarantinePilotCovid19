@@ -2819,5 +2819,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.036793572537204416], ["weekly", 0.03695874685094699], ["biweekly", 0.03709128385608566], ["triweekly", 0.037199108286917325]]
     },
     "lat": "REPLACE_MEOrange,New York"
+  }, {
+    "locale": "Orange,New York",
+    "long": "REPLACE_MEOrange,New York",
+    "date": "07/28/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.001269035703305832], ["weekly", 0.0009360042844713336], ["biweekly", 0.0011033927714529618], ["triweekly", 0.0009995107703405029]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.636930430716475], ["weekly", 2.6720305205263903], ["biweekly", 3.135924708117777], ["triweekly", 2.8328471722247377]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2867.7196446199405], ["weekly", 2856.252180302682], ["biweekly", 2846.2691773857146], ["triweekly", 2835.754242466977]],
+      "Daily Growth Rate": [["daily", 1.1666666666666667], ["weekly", 1.4606575963718822], ["biweekly", 1.334056699602918], ["triweekly", 1.3181293030032524]],
+      "Confirmed Cumulative Cases": [["daily", 11039.0], ["weekly", 10994.857142857143], ["biweekly", 10956.42857142857], ["triweekly", 10915.952380952382]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 10.285714285714286], ["biweekly", 12.071428571428571], ["triweekly", 10.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.03650692997554126], ["weekly", 0.03665361764393331], ["biweekly", 0.03678269966679936], ["triweekly", 0.0369111112199728]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03674325309992706], ["weekly", 0.03691178168966542], ["biweekly", 0.037053064734662786], ["triweekly", 0.03716729936171505]]
+    },
+    "lat": "REPLACE_MEOrange,New York"
   }]
 }
