@@ -2834,5 +2834,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011235955056179775], ["weekly", 0.010494755395327298], ["biweekly", 0.010522053459746277], ["triweekly", 0.011196092454498593]]
     },
     "lat": "REPLACE_MEMcNairy,Tennessee"
+  }, {
+    "locale": "McNairy,Tennessee",
+    "long": "REPLACE_MEMcNairy,Tennessee",
+    "date": "07/29/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03415891881131916], ["weekly", 0.05357778734392176], ["biweekly", 0.05146758248200424], ["triweekly", 0.05838546292443839]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.0276329104071], ["weekly", 45.03552802766627], ["biweekly", 36.973612516540825], ["triweekly", 33.915644564044975]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1043.045068887678], ["weekly", 854.007050006116], ["biweekly", 728.6303639537857], ["triweekly", 620.3041658790082]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 0.8740721551990225], ["biweekly", 1.468158526579103], ["triweekly", 1.5726525998788072]],
+      "Confirmed Cumulative Cases": [["daily", 268.0], ["weekly", 219.42857142857142], ["biweekly", 187.21428571428572], ["triweekly", 159.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 11.571428571428571], ["biweekly", 9.5], ["triweekly", 8.714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.014925373134328358], ["weekly", 0.007720570255916405], ["biweekly", 0.007105228941067141], ["triweekly", 0.00800463233541727]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02247191011235955], ["weekly", 0.010966104983851846], ["biweekly", 0.010384772053984682], ["triweekly", 0.011731137933364296]]
+    },
+    "lat": "REPLACE_MEMcNairy,Tennessee"
   }]
 }

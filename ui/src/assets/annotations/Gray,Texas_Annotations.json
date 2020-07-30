@@ -2834,5 +2834,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02142857142857143], ["weekly", 0.028124276200143693], ["biweekly", 0.029581691201284014], ["triweekly", 0.030971164932830947]]
     },
     "lat": "REPLACE_MEGray,Texas"
+  }, {
+    "locale": "Gray,Texas",
+    "long": "REPLACE_MEGray,Texas",
+    "date": "07/29/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018928009885518904], ["weekly", 0.01637191181985769], ["biweekly", 0.011849762651896713], ["triweekly", 0.012010702886430998]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.707392853879192], ["weekly", 11.096460881711726], ["biweekly", 7.832795916502396], ["triweekly", 7.615218252155107]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 731.0609522068903], ["weekly", 677.5368467774572], ["biweekly", 654.6911920209919], ["triweekly", 635.3267798940833]],
+      "Daily Growth Rate": [["daily", 0.42857142857142855], ["weekly", 0.8380511867883685], ["biweekly", 0.6690255933941842], ["triweekly", 0.7198265860723133]],
+      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 148.28571428571428], ["biweekly", 143.28571428571428], ["triweekly", 139.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.4285714285714284], ["biweekly", 1.7142857142857142], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.01875], ["weekly", 0.02514640568921218], ["biweekly", 0.02703813364070372], ["triweekly", 0.028242662719564066]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02127659574468085], ["weekly", 0.02688904526566464], ["biweekly", 0.028770383071474708], ["triweekly", 0.03032072931998932]]
+    },
+    "lat": "REPLACE_MEGray,Texas"
   }]
 }

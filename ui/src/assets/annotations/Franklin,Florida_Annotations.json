@@ -2834,5 +2834,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0125], ["weekly", 0.01602640773613418], ["biweekly", 0.00801320386806709], ["triweekly", 0.0053421359120447275]]
     },
     "lat": "REPLACE_MEFranklin,Florida"
+  }, {
+    "locale": "Franklin,Florida",
+    "long": "REPLACE_MEFranklin,Florida",
+    "date": "07/29/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0808520966290951], ["weekly", 0.02455003670380851], ["biweekly", 0.05337245727358723], ["triweekly", 0.08789650907134908]],
+      "Confirmed Daily Cases per 100k": [["daily", 65.97938144329898], ["weekly", 17.673048600883654], ["biweekly", 29.455081001472763], ["triweekly", 31.418753068237606]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 849.4845360824743], ["weekly", 708.1001472754051], ["biweekly", 595.5817378497792], ["triweekly", 483.8487972508591]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.066618070741255], ["biweekly", 1.4542274027175661], ["triweekly", 1.6539726696327786]],
+      "Confirmed Cumulative Cases": [["daily", 103.0], ["weekly", 85.85714285714286], ["biweekly", 72.21428571428571], ["triweekly", 58.666666666666664]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 2.142857142857143], ["biweekly", 3.5714285714285716], ["triweekly", 3.8095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.009708737864077669], ["weekly", 0.011676843520525105], ["biweekly", 0.0058384217602625525], ["triweekly", 0.0038922811735083683]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.017812122021848467], ["biweekly", 0.008906061010924234], ["triweekly", 0.005937374007282822]]
+    },
+    "lat": "REPLACE_MEFranklin,Florida"
   }]
 }

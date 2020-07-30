@@ -2834,5 +2834,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0125], ["weekly", 0.013629206062586148], ["biweekly", 0.015060833858169063], ["triweekly", 0.016561781334234495]]
     },
     "lat": "REPLACE_MEPitkin,Colorado"
+  }, {
+    "locale": "Pitkin,Colorado",
+    "long": "REPLACE_MEPitkin,Colorado",
+    "date": "07/29/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012578782206859707], ["weekly", -0.0017969688866942438], ["biweekly", 0.009667239133554415], ["triweekly", 0.018117324090606998]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.256824449822705], ["weekly", -1.6081177785461012], ["biweekly", 8.040588892730506], ["triweekly", 13.400981487884176]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 900.5459559858165], ["weekly", 864.3633059685292], ["biweekly", 854.7145992972524], ["triweekly", 806.7390855706273]],
+      "Daily Growth Rate": [["daily", 0.2857142857142857], ["weekly", 0.40131872624459763], ["biweekly", 0.7312863951468463], ["triweekly", 0.8251049141317898]],
+      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 153.57142857142858], ["biweekly", 151.85714285714286], ["triweekly", 143.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", -0.2857142857142857], ["biweekly", 1.4285714285714286], ["triweekly", 2.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.0125], ["weekly", 0.013034225381364254], ["biweekly", 0.013189376177461746], ["triweekly", 0.014098701579304675]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013344526973559232], ["biweekly", 0.014630939678274885], ["triweekly", 0.01619501846747163]]
+    },
+    "lat": "REPLACE_MEPitkin,Colorado"
   }]
 }
