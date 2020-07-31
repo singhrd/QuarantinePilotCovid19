@@ -2849,5 +2849,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.02156870675834598], ["biweekly", 0.02340657586981653], ["triweekly", 0.024613392922220027]]
     },
     "lat": "REPLACE_MEPike,Missouri"
+  }, {
+    "locale": "Pike,Missouri",
+    "long": "REPLACE_MEPike,Missouri",
+    "date": "07/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.030305349495328926], ["weekly", 0.04036671025500148], ["biweekly", 0.0278712597126697], ["triweekly", 0.026831874154829165]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.927767457108514], ["weekly", 12.488877093838301], ["biweekly", 8.195825592831385], ["triweekly", 7.28517830473901]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 366.0802098131352], ["weekly", 313.00248216432243], ["biweekly", 285.2927861123687], ["triweekly", 264.347898486244]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.7737134926765437], ["biweekly", 0.6891460897360487], ["triweekly", 0.6302593480129944]],
+      "Confirmed Cumulative Cases": [["daily", 67.0], ["weekly", 57.285714285714285], ["biweekly", 52.214285714285715], ["triweekly", 48.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.2857142857142856], ["biweekly", 1.5], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.014925373134328358], ["weekly", 0.0175629760451189], ["biweekly", 0.019400190725877682], ["triweekly", 0.02114352527293061]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018518518518518517], ["weekly", 0.021237405406636465], ["biweekly", 0.02293379988683647], ["triweekly", 0.024298208933566653]]
+    },
+    "lat": "REPLACE_MEPike,Missouri"
   }]
 }

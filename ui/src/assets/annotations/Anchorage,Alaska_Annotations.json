@@ -2849,5 +2849,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007653061224489796], ["weekly", 0.00922640513730302], ["biweekly", 0.010423250688950312], ["triweekly", 0.011654854162425267]]
     },
     "lat": "REPLACE_MEAnchorage,Alaska"
+  }, {
+    "locale": "Anchorage,Alaska",
+    "long": "REPLACE_MEAnchorage,Alaska",
+    "date": "07/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.025680718530824542], ["weekly", 0.04863899562320739], ["biweekly", 0.045355786206045155], ["triweekly", 0.04415427363637262]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.930555555555555], ["weekly", 23.660714285714285], ["biweekly", 19.270833333333336], ["triweekly", 16.517857142857142]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 588.8888888888889], ["weekly", 493.55158730158735], ["biweekly", 424.8015873015873], ["triweekly", 372.51984126984127]],
+      "Daily Growth Rate": [["daily", 0.8269230769230769], ["weekly", 1.2561369679538463], ["biweekly", 1.1619721261210878], ["triweekly", 1.1458956081232803]],
+      "Confirmed Cumulative Cases": [["daily", 1696.0], ["weekly", 1421.4285714285713], ["biweekly", 1223.4285714285713], ["triweekly", 1072.857142857143]],
+      "Confirmed Daily Cases": [["daily", 43.0], ["weekly", 68.14285714285714], ["biweekly", 55.5], ["triweekly", 47.57142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.00589622641509434], ["weekly", 0.006419012424963984], ["biweekly", 0.007479506806450279], ["triweekly", 0.00846978238409747]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008285004142502071], ["weekly", 0.008851989226124459], ["biweekly", 0.010096153926260964], ["triweekly", 0.011263427750590695]]
+    },
+    "lat": "REPLACE_MEAnchorage,Alaska"
   }]
 }

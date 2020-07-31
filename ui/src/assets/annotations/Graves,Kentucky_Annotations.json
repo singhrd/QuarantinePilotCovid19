@@ -2849,5 +2849,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.055415617128463476], ["weekly", 0.057321930071887794], ["biweekly", 0.06582409819030932], ["triweekly", 0.07570602715708356]]
     },
     "lat": "REPLACE_MEGraves,Kentucky"
+  }, {
+    "locale": "Graves,Kentucky",
+    "long": "REPLACE_MEGraves,Kentucky",
+    "date": "07/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.032365284502031244], ["weekly", 0.01979378983245653], ["biweekly", 0.022239415466977545], ["triweekly", 0.029388632075334476]],
+      "Confirmed Daily Cases per 100k": [["daily", 40.25116728385123], ["weekly", 22.617322569021173], ["biweekly", 23.384011469665953], ["triweekly", 26.83411152256749]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1263.8866527129287], ["weekly", 1158.4669288742707], ["biweekly", 1084.2897777368876], ["triweekly", 989.5398077655362]],
+      "Daily Growth Rate": [["daily", 2.142857142857143], ["weekly", 3.0039167182024324], ["biweekly", 2.1508670892599464], ["triweekly", 1.9070523586279888]],
+      "Confirmed Cumulative Cases": [["daily", 471.0], ["weekly", 431.7142857142857], ["biweekly", 404.07142857142856], ["triweekly", 368.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 8.428571428571429], ["biweekly", 8.714285714285714], ["triweekly", 10.0]],
+      "Confirmed Fatality Rate": [["daily", 0.04670912951167728], ["weekly", 0.04902058463965429], ["biweekly", 0.05245857692318533], ["triweekly", 0.05867677804400858]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0535279805352798], ["weekly", 0.056256410876381724], ["biweekly", 0.06368479558101839], ["triweekly", 0.07351394819356664]]
+    },
+    "lat": "REPLACE_MEGraves,Kentucky"
   }]
 }

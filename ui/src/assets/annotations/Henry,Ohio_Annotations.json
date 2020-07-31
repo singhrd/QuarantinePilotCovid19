@@ -2849,5 +2849,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01282051282051282], ["weekly", 0.0019569471624266144], ["biweekly", 0.0009784735812133072], ["triweekly", 0.0006523157208088715]]
     },
     "lat": "REPLACE_MEHenry,Ohio"
+  }, {
+    "locale": "Henry,Ohio",
+    "long": "REPLACE_MEHenry,Ohio",
+    "date": "07/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010152371464017484], ["weekly", 0.0326083788544258], ["biweekly", 0.06767009421029904], ["triweekly", 0.05329674170813551]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.702880841294527], ["weekly", 10.579659546555792], ["biweekly", 15.869489319833686], ["triweekly", 11.637625501211371]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 366.58520328815814], ["weekly", 338.5491054897853], ["biweekly", 278.2450460744173], ["triweekly", 228.8733015238236]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.2658415902295768], ["biweekly", 1.5339360495700094], ["triweekly", 1.1950678589304653]],
+      "Confirmed Cumulative Cases": [["daily", 99.0], ["weekly", 91.42857142857143], ["biweekly", 75.14285714285714], ["triweekly", 61.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.857142857142857], ["biweekly", 4.285714285714286], ["triweekly", 3.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.010101010101010102], ["weekly", 0.0029458211856171037], ["biweekly", 0.0014729105928085518], ["triweekly", 0.0009819403952057012]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011764705882352941], ["weekly", 0.003788448993928446], ["biweekly", 0.001894224496964223], ["triweekly", 0.001262816331309482]]
+    },
+    "lat": "REPLACE_MEHenry,Ohio"
   }]
 }

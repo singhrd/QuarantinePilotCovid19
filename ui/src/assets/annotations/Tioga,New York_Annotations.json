@@ -2849,5 +2849,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10857142857142857], ["weekly", 0.11277668653294345], ["biweekly", 0.11672967209953318], ["triweekly", 0.12138253914761418]]
     },
     "lat": "REPLACE_METioga,New York"
+  }, {
+    "locale": "Tioga,New York",
+    "long": "REPLACE_METioga,New York",
+    "date": "07/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005449604767564509], ["weekly", 0.006385739845415271], ["biweekly", 0.00826685371676136], ["triweekly", 0.009469088511674564]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.074559674709043], ["weekly", 2.370925342524621], ["biweekly", 2.963656678155776], ["triweekly", 3.260022345971353]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 381.7189801464639], ["weekly", 370.75345043728754], ["biweekly", 362.0106632367279], ["triweekly", 351.5884705852135]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 0.8902929725098395], ["biweekly", 0.9533230693561715], ["triweekly", 1.163740514384182]],
+      "Confirmed Cumulative Cases": [["daily", 184.0], ["weekly", 178.71428571428572], ["biweekly", 174.5], ["triweekly", 169.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.1428571428571428], ["biweekly", 1.4285714285714286], ["triweekly", 1.5714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.10326086956521739], ["weekly", 0.10633557802563755], ["biweekly", 0.10898520452168439], ["triweekly", 0.11240329607036616]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10857142857142857], ["weekly", 0.11163483101773122], ["biweekly", 0.11543715509273046], ["triweekly", 0.12022560084781876]]
+    },
+    "lat": "REPLACE_METioga,New York"
   }]
 }

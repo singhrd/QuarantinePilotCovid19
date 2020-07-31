@@ -2849,5 +2849,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08651911468812877], ["weekly", 0.08755229032525672], ["biweekly", 0.08813344966645478], ["triweekly", 0.08900584232061735]]
     },
     "lat": "REPLACE_MEColumbia,New York"
+  }, {
+    "locale": "Columbia,New York",
+    "long": "REPLACE_MEColumbia,New York",
+    "date": "07/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005865119452398204], ["weekly", 0.00368867137453461], ["biweekly", 0.0030034454459642035], ["triweekly", 0.0026888862698938574]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.04532382570088], ["weekly", 3.1232957016243543], ["biweekly", 2.5226619128504404], ["triweekly", 2.242366144755947]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 862.7503741948505], ["weekly", 843.7703464695949], ["biweekly", 835.8419804577791], ["triweekly", 829.5153045493607]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.4664549979873527], ["biweekly", 1.1041144990093652], ["triweekly", 0.9424255390221167]],
+      "Confirmed Cumulative Cases": [["daily", 513.0], ["weekly", 501.7142857142857], ["biweekly", 497.0], ["triweekly", 493.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.8571428571428572], ["biweekly", 1.5], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.08382066276803118], ["weekly", 0.08571182279381155], ["biweekly", 0.08653095329960059], ["triweekly", 0.08719802625323406]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08651911468812877], ["weekly", 0.08735008380538965], ["biweekly", 0.0879411279829453], ["triweekly", 0.0887317678718812]]
+    },
+    "lat": "REPLACE_MEColumbia,New York"
   }]
 }

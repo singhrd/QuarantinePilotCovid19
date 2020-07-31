@@ -2849,5 +2849,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007792207792207792], ["weekly", 0.008023397443804016], ["biweekly", 0.00799942317557841], ["triweekly", 0.007476977632290112]]
     },
     "lat": "REPLACE_MELyon,Minnesota"
+  }, {
+    "locale": "Lyon,Minnesota",
+    "long": "REPLACE_MELyon,Minnesota",
+    "date": "07/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004842624475787538], ["weekly", 0.009682859294534576], ["biweekly", 0.008847820122341865], ["triweekly", 0.011003008497727295]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.851142341210646], ["weekly", 15.141488800906245], ["biweekly", 13.459101156361106], ["triweekly", 15.889216642926302]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1625.1864646306037], ["weekly", 1575.8364270572797], ["biweekly", 1527.888379187743], ["triweekly", 1469.846005450936]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.4607142857142856], ["biweekly", 1.4803571428571427], ["triweekly", 1.7134401651607765]],
+      "Confirmed Cumulative Cases": [["daily", 414.0], ["weekly", 401.42857142857144], ["biweekly", 389.2142857142857], ["triweekly", 374.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.857142857142857], ["biweekly", 3.4285714285714284], ["triweekly", 4.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.007246376811594203], ["weekly", 0.0074765312627865805], ["biweekly", 0.0075242802425937675], ["triweekly", 0.006951896056281918]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007692307692307693], ["weekly", 0.007959175951011095], ["biweekly", 0.008119137449945371], ["triweekly", 0.0075305748287444515]]
+    },
+    "lat": "REPLACE_MELyon,Minnesota"
   }]
 }

@@ -2849,5 +2849,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021739130434782608], ["weekly", 0.025011513701225785], ["biweekly", 0.028550788600799067], ["triweekly", 0.03203965397775619]]
     },
     "lat": "REPLACE_MEMorgan,Tennessee"
+  }, {
+    "locale": "Morgan,Tennessee",
+    "long": "REPLACE_MEMorgan,Tennessee",
+    "date": "07/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.015504186535965303], ["weekly", 0.047177383838653775], ["biweekly", 0.03914036933681765], ["triweekly", 0.0376946311130094]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.672242209036116], ["weekly", 12.014337108950015], ["biweekly", 9.01075283171251], ["triweekly", 7.787070348393526]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 303.6957435873476], ["weekly", 260.9781005333031], ["biweekly", 227.27121031097107], ["triweekly", 202.01885360975203]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.5595238095238095], ["biweekly", 1.249824778264745], ["triweekly", 1.1296329412903818]],
+      "Confirmed Cumulative Cases": [["daily", 65.0], ["weekly", 55.857142857142854], ["biweekly", 48.642857142857146], ["triweekly", 43.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.5714285714285716], ["biweekly", 1.9285714285714286], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.015384615384615385], ["weekly", 0.018070406588501498], ["biweekly", 0.021163253245417606], ["triweekly", 0.02445048849260907]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.02425609990233372], ["biweekly", 0.027640529444662852], ["triweekly", 0.031090723680999813]]
+    },
+    "lat": "REPLACE_MEMorgan,Tennessee"
   }]
 }
