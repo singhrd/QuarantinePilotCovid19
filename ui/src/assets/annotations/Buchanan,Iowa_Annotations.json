@@ -2864,5 +2864,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011904761904761904], ["weekly", 0.013612463324013915], ["biweekly", 0.014625356792456409], ["triweekly", 0.015923643250729265]]
     },
     "lat": "REPLACE_MEBuchanan,Iowa"
+  }, {
+    "locale": "Buchanan,Iowa",
+    "long": "REPLACE_MEBuchanan,Iowa",
+    "date": "07/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019231361927887214], ["weekly", 0.029130312769474642], ["biweekly", 0.029658663075252063], ["triweekly", 0.024945482097920215]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.445100354191263], ["weekly", 12.818350480688142], ["biweekly", 11.806375442739078], ["triweekly", 9.445100354191261]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 495.86776859504135], ["weekly", 437.17321639399563], ["biweekly", 398.04351492663176], ["triweekly", 367.6842637881598]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 2.1666666666666665], ["biweekly", 1.7916666666666665], ["triweekly", 1.4859358893758559]],
+      "Confirmed Cumulative Cases": [["daily", 105.0], ["weekly", 92.57142857142857], ["biweekly", 84.28571428571429], ["triweekly", 77.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.7142857142857144], ["biweekly", 2.5], ["triweekly", 2.0]],
+      "Confirmed Fatality Rate": [["daily", 0.009523809523809525], ["weekly", 0.010833051837601923], ["biweekly", 0.012022677548795112], ["triweekly", 0.013147508439972104]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011494252873563218], ["weekly", 0.013212303259988303], ["biweekly", 0.0143047367411572], ["triweekly", 0.015556829858705792]]
+    },
+    "lat": "REPLACE_MEBuchanan,Iowa"
   }]
 }

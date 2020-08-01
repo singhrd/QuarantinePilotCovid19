@@ -2864,5 +2864,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013713515455715435], ["biweekly", 0.01553192532646082], ["triweekly", 0.01791647925928044]]
     },
     "lat": "REPLACE_MEMontgomery,Mississippi"
+  }, {
+    "locale": "Montgomery,Mississippi",
+    "long": "REPLACE_MEMontgomery,Mississippi",
+    "date": "07/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03690455693545047], ["weekly", 0.012919266491592982], ["biweekly", 0.018955451066963076], ["triweekly", 0.02759761918267809]],
+      "Confirmed Daily Cases per 100k": [["daily", 102.30179028132991], ["weekly", 33.61344537815126], ["biweekly", 45.30507855316039], ["triweekly", 56.99671172816953]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2823.529411764706], ["weekly", 2585.3123858238946], ["biweekly", 2442.8206065034706], ["triweekly", 2251.1265375715507]],
+      "Daily Growth Rate": [["daily", 1.25], ["weekly", 1.587744794624728], ["biweekly", 1.3079880435708673], ["triweekly", 1.5829330721311452]],
+      "Confirmed Cumulative Cases": [["daily", 276.0], ["weekly", 252.71428571428572], ["biweekly", 238.78571428571428], ["triweekly", 220.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 3.2857142857142856], ["biweekly", 4.428571428571429], ["triweekly", 5.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.010869565217391304], ["weekly", 0.011879162729789335], ["biweekly", 0.012627753139852708], ["triweekly", 0.013943454500162053]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012295081967213115], ["weekly", 0.013376343549916079], ["biweekly", 0.01497560038534841], ["triweekly", 0.01735229500333991]]
+    },
+    "lat": "REPLACE_MEMontgomery,Mississippi"
   }]
 }

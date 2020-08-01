@@ -2864,5 +2864,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07038733860891296], ["weekly", 0.07158713914124414], ["biweekly", 0.07260786057670145], ["triweekly", 0.07336634743046877]]
     },
     "lat": "REPLACE_MEAlbany,New York"
+  }, {
+    "locale": "Albany,New York",
+    "long": "REPLACE_MEAlbany,New York",
+    "date": "07/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004003207908216844], ["weekly", 0.005371641043186389], ["biweekly", 0.006066784783948049], ["triweekly", 0.006323177474934002]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.273258135683096], ["weekly", 4.301996406897784], ["biweekly", 4.746224296740489], ["triweekly", 4.8319524860083805]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 819.2965113614789], ["weekly", 804.7071322424343], ["biweekly", 785.4650504876688], ["triweekly", 767.7193153092154]],
+      "Daily Growth Rate": [["daily", 0.7692307692307693], ["weekly", 1.697394688644689], ["biweekly", 1.836683113342596], ["triweekly", 1.7041073706898828]],
+      "Confirmed Cumulative Cases": [["daily", 2503.0], ["weekly", 2458.4285714285716], ["biweekly", 2399.6428571428573], ["triweekly", 2345.4285714285716]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 13.142857142857142], ["biweekly", 14.5], ["triweekly", 14.761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.0675189772273272], ["weekly", 0.0678730797760329], ["biweekly", 0.06903026653574552], ["triweekly", 0.07001628275227019]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06966199505358615], ["weekly", 0.07128688994688422], ["biweekly", 0.0723675477759442], ["triweekly", 0.07311028232220973]]
+    },
+    "lat": "REPLACE_MEAlbany,New York"
   }]
 }

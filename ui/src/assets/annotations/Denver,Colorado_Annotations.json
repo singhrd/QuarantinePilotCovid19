@@ -2864,5 +2864,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04665682824384153], ["weekly", 0.04835895597782952], ["biweekly", 0.049465011895172876], ["triweekly", 0.05076777515784941]]
     },
     "lat": "REPLACE_MEDenver,Colorado"
+  }, {
+    "locale": "Denver,Colorado",
+    "long": "REPLACE_MEDenver,Colorado",
+    "date": "07/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009816286008213382], ["weekly", 0.011223693462627336], ["biweekly", 0.011043252529889485], ["triweekly", 0.01045254391030172]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.926097102491575], ["weekly", 14.144057619747622], ["biweekly", 13.40738795205243], ["triweekly", 12.297472319391684]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1323.2748129497493], ["weekly", 1274.909993700001], ["biweekly", 1220.553594486332], ["triweekly", 1178.5536011654701]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.9978112808362616], ["biweekly", 1.0900415429683505], ["triweekly", 1.0595317637843777]],
+      "Confirmed Cumulative Cases": [["daily", 9623.0], ["weekly", 9271.285714285714], ["biweekly", 8876.0], ["triweekly", 8570.57142857143]],
+      "Confirmed Daily Cases": [["daily", 94.0], ["weekly", 102.85714285714286], ["biweekly", 97.5], ["triweekly", 89.42857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.04281409123973813], ["weekly", 0.0438816843713128], ["biweekly", 0.045498441623893715], ["triweekly", 0.0468835572138197]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04609016668531156], ["weekly", 0.04797235182340106], ["biweekly", 0.04908197506426031], ["triweekly", 0.050446508355114585]]
+    },
+    "lat": "REPLACE_MEDenver,Colorado"
   }]
 }
