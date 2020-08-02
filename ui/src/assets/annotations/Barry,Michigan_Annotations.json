@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011976047904191617], ["weekly", 0.012944600704564737], ["biweekly", 0.013781599303696683], ["triweekly", 0.014911081367300913]]
     },
     "lat": "REPLACE_MEBarry,Michigan"
+  }, {
+    "locale": "Barry,Michigan",
+    "long": "REPLACE_MEBarry,Michigan",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005865119452398204], ["weekly", 0.002543517804786661], ["biweekly", 0.010870843952994693], ["triweekly", 0.012774475552127613]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.6246953696181965], ["weekly", 0.6962980155506556], ["biweekly", 2.7851920622026225], ["triweekly", 3.0946578468918027]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 277.8229082047116], ["weekly", 274.57351746547516], ["biweekly", 265.4055935940582], ["triweekly", 252.3693474140266]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.4761904761904762], ["biweekly", 1.0297619047619047], ["triweekly", 1.041059926366203]],
+      "Confirmed Cumulative Cases": [["daily", 171.0], ["weekly", 169.0], ["biweekly", 163.35714285714286], ["triweekly", 155.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.42857142857142855], ["biweekly", 1.7142857142857142], ["triweekly", 1.9047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.011695906432748537], ["weekly", 0.01183467469828168], ["biweekly", 0.012266596113366446], ["triweekly", 0.012970311698061983]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011904761904761904], ["weekly", 0.01269851752845121], ["biweekly", 0.013538130197952128], ["triweekly", 0.01459953514757106]]
+    },
+    "lat": "REPLACE_MEBarry,Michigan"
   }]
 }

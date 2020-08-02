@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01639344262295082], ["weekly", 0.017786681527601624], ["biweekly", 0.020451958991813016], ["triweekly", 0.01624439193762795]]
     },
     "lat": "REPLACE_MEUnion,Iowa"
+  }, {
+    "locale": "Union,Iowa",
+    "long": "REPLACE_MEUnion,Iowa",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05884050002293417], ["weekly", 0.011254411121873404], ["biweekly", 0.014333621104439333], ["triweekly", 0.02628898010952569]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.67706886692264], ["weekly", 5.835190869093329], ["biweekly", 7.002229042911994], ["triweekly", 10.892356288974213]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 571.8487051711461], ["weekly", 533.3364454351301], ["biweekly", 500.6593765682075], ["triweekly", 459.42402775994805]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.44009817798897805], ["biweekly", 0.4611508308412143], ["triweekly", 0.5033390494235843]],
+      "Confirmed Cumulative Cases": [["daily", 70.0], ["weekly", 65.28571428571429], ["biweekly", 61.285714285714285], ["triweekly", 56.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 0.7142857142857143], ["biweekly", 0.8571428571428571], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.014285714285714285], ["weekly", 0.015322131226981974], ["biweekly", 0.0164026152418941], ["triweekly", 0.013667764592063708]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015625], ["weekly", 0.017483099256806238], ["biweekly", 0.019743219931046347], ["triweekly", 0.017025032062530372]]
+    },
+    "lat": "REPLACE_MEUnion,Iowa"
   }]
 }

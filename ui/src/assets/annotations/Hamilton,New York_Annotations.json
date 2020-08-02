@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEHamilton,New York"
+  }, {
+    "locale": "Hamilton,New York",
+    "long": "REPLACE_MEHamilton,New York",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.011010762844804163], ["triweekly", 0.007340508563202775]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 1.6174948240165634], ["triweekly", 1.0783298826777088]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 158.5144927536232], ["weekly", 158.51449275362322], ["biweekly", 148.80952380952382], ["triweekly", 144.4962042788129]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Cumulative Cases": [["daily", 7.0], ["weekly", 7.0], ["biweekly", 6.571428571428571], ["triweekly", 6.380952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.07142857142857142], ["triweekly", 0.047619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEHamilton,New York"
   }]
 }

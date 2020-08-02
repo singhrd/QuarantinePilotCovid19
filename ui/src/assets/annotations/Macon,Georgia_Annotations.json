@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0641025641025641], ["weekly", 0.0661694820412612], ["biweekly", 0.06864271359226155], ["triweekly", 0.07131556325302511]]
     },
     "lat": "REPLACE_MEMacon,Georgia"
+  }, {
+    "locale": "Macon,Georgia",
+    "long": "REPLACE_MEMacon,Georgia",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01739174271186883], ["weekly", 0.013115364179017597], ["biweekly", 0.009359161600457482], ["triweekly", 0.010556315746406439]],
+      "Confirmed Daily Cases per 100k": [["daily", 23.171391055843053], ["weekly", 16.550993611316464], ["biweekly", 11.585695527921526], ["triweekly", 12.50519517299466]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1343.940681238897], ["weekly", 1270.0129097750166], ["biweekly", 1222.015028302199], ["triweekly", 1181.7409438479951]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 1.5714285714285714], ["biweekly", 1.1071428571428572], ["triweekly", 1.2793650793650795]],
+      "Confirmed Cumulative Cases": [["daily", 174.0], ["weekly", 164.42857142857142], ["biweekly", 158.21428571428572], ["triweekly", 153.0]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.142857142857143], ["biweekly", 1.5], ["triweekly", 1.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.05747126436781609], ["weekly", 0.06086471807424744], ["biweekly", 0.06333394987460414], ["triweekly", 0.06459399437888218]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06329113924050633], ["weekly", 0.06580318167496084], ["biweekly", 0.06800770383316421], ["triweekly", 0.07076662572929766]]
+    },
+    "lat": "REPLACE_MEMacon,Georgia"
   }]
 }

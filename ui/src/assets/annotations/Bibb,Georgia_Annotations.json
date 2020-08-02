@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0225707727620505], ["weekly", 0.023976096804376595], ["biweekly", 0.024565444867353892], ["triweekly", 0.027614314215737408]]
     },
     "lat": "REPLACE_MEBibb,Georgia"
+  }, {
+    "locale": "Bibb,Georgia",
+    "long": "REPLACE_MEBibb,Georgia",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.017860516988699615], ["weekly", 0.0221307854600258], ["biweekly", 0.027490897752016834], ["triweekly", 0.03010176941566615]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.91039377379064], ["weekly", 40.85390252706571], ["biweekly", 45.47095315512451], ["triweekly", 44.460487529455065]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2028.6107900939546], ["weekly", 1848.778999974816], ["biweekly", 1691.0997254953538], ["triweekly", 1532.3322572651703]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.0205126217226133], ["biweekly", 1.0888955090366987], ["triweekly", 1.2245894470542185]],
+      "Confirmed Cumulative Cases": [["daily", 3107.0], ["weekly", 2831.5714285714284], ["biweekly", 2590.0714285714284], ["triweekly", 2346.904761904762]],
+      "Confirmed Daily Cases": [["daily", 55.0], ["weekly", 62.57142857142857], ["biweekly", 69.64285714285714], ["triweekly", 68.0952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.019633086578693275], ["weekly", 0.01962937787211951], ["biweekly", 0.019645487611343947], ["triweekly", 0.0208285906989894]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02293233082706767], ["weekly", 0.023692686324067007], ["biweekly", 0.02428403714408658], ["triweekly", 0.026804575319868885]]
+    },
+    "lat": "REPLACE_MEBibb,Georgia"
   }]
 }

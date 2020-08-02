@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004651162790697674], ["weekly", 0.004701668195549462], ["biweekly", 0.004800779139494475], ["triweekly", 0.004960487006927139]]
     },
     "lat": "REPLACE_MEHamilton,Iowa"
+  }, {
+    "locale": "Hamilton,Iowa",
+    "long": "REPLACE_MEHamilton,Iowa",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004210532536343514], ["weekly", 0.013917444715352723], ["biweekly", 0.008980420655022898], ["triweekly", 0.008321681733839964]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.769105801123672], ["weekly", 21.274332517817253], ["biweekly", 13.538211602247342], ["triweekly", 12.248858116319028]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1611.0471806674338], ["weekly", 1544.3231377706434], ["biweekly", 1495.0053669338852], ["triweekly", 1460.5151611853025]],
+      "Daily Growth Rate": [["daily", 0.7071067811865476], ["weekly", 1.0776386305527494], ["biweekly", 0.85412028401731], ["triweekly", 0.8178181217700032]],
+      "Confirmed Cumulative Cases": [["daily", 238.0], ["weekly", 228.14285714285714], ["biweekly", 220.85714285714286], ["triweekly", 215.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.142857142857143], ["biweekly", 2.0], ["triweekly", 1.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.004201680672268907], ["weekly", 0.004388781607061546], ["biweekly", 0.004535687315268529], ["triweekly", 0.004645638874519544]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004608294930875576], ["weekly", 0.004682593023475514], ["biweekly", 0.004774067508248545], ["triweekly", 0.00492732363587047]]
+    },
+    "lat": "REPLACE_MEHamilton,Iowa"
   }]
 }

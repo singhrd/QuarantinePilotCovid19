@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06521739130434782], ["weekly", 0.06978901497173923], ["biweekly", 0.07236278800576669], ["triweekly", 0.07518942509176174]]
     },
     "lat": "REPLACE_MEJones,North Carolina"
+  }, {
+    "locale": "Jones,North Carolina",
+    "long": "REPLACE_MEJones,North Carolina",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.01739174271186883], ["weekly", 0.03311451629390343], ["biweekly", 0.02305524230450362], ["triweekly", 0.021405957042961655]],
+      "Confirmed Daily Cases per 100k": [["daily", -10.616838305552607], ["weekly", 18.200294238090184], ["biweekly", 12.133529492060124], ["triweekly", 10.616838305552607]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 605.1597834164986], ["weekly", 536.9086800236604], ["biweekly", 499.7497459542264], ["triweekly", 477.75772374986724]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.993872397312364], ["biweekly", 0.7408085959685459], ["triweekly", 0.6802635193301304]],
+      "Confirmed Cumulative Cases": [["daily", 57.0], ["weekly", 50.57142857142857], ["biweekly", 47.07142857142857], ["triweekly", 45.0]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 1.7142857142857142], ["biweekly", 1.1428571428571428], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.059846656758200986], ["biweekly", 0.06437418014181127], ["triweekly", 0.06743533045768607]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06666666666666667], ["weekly", 0.06890170352542156], ["biweekly", 0.07122966730742859], ["triweekly", 0.07432676118561957]]
+    },
+    "lat": "REPLACE_MEJones,North Carolina"
   }]
 }

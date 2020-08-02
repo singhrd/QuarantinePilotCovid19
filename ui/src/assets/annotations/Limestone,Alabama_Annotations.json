@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012170385395537525], ["weekly", 0.012303371710015646], ["biweekly", 0.011103122045825019], ["triweekly", 0.01027150661675782]]
     },
     "lat": "REPLACE_MELimestone,Alabama"
+  }, {
+    "locale": "Limestone,Alabama",
+    "long": "REPLACE_MELimestone,Alabama",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00853247497372056], ["weekly", 0.02407646824056009], ["biweekly", 0.02732803188872663], ["triweekly", 0.03152067557036834]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.109690137997271], ["weekly", 26.140770213964373], ["biweekly", 26.790678865692765], ["triweekly", 27.199880609373604]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1189.9105292422787], ["weekly", 1090.4022934554198], ["biweekly", 1004.7587755721003], ["triweekly", 906.9354881415742]],
+      "Daily Growth Rate": [["daily", 0.30303030303030304], ["weekly", 1.570718313641246], ["biweekly", 1.2833332325827171], ["triweekly", 1.2310836260649534]],
+      "Confirmed Cumulative Cases": [["daily", 1177.0], ["weekly", 1078.5714285714287], ["biweekly", 993.8571428571429], ["triweekly", 897.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 25.857142857142858], ["biweekly", 26.5], ["triweekly", 26.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.011045029736618521], ["weekly", 0.010320939269796376], ["biweekly", 0.009140992391619076], ["triweekly", 0.00831725605572533]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012770137524557957], ["weekly", 0.01224731047075647], ["biweekly", 0.011260522616317851], ["triweekly", 0.010446640730729933]]
+    },
+    "lat": "REPLACE_MELimestone,Alabama"
   }]
 }

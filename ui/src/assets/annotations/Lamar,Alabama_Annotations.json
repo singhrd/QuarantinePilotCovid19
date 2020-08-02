@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.009398299589108348], ["biweekly", 0.010090532761361641], ["triweekly", 0.010949927084632006]]
     },
     "lat": "REPLACE_MELamar,Alabama"
+  }, {
+    "locale": "Lamar,Alabama",
+    "long": "REPLACE_MELamar,Alabama",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.02721690342830474], ["biweekly", 0.038084466490519046], ["triweekly", 0.03813227832153857]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 35.18393956640968], ["biweekly", 41.91028095410566], ["triweekly", 37.25358307031614]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1419.7754436798261], ["weekly", 1294.5620116934858], ["biweekly", 1159.0003621876133], ["triweekly", 1006.5366240665046]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9741393524478571], ["biweekly", 1.1309341450883974], ["triweekly", 1.2337688464125112]],
+      "Confirmed Cumulative Cases": [["daily", 196.0], ["weekly", 178.71428571428572], ["biweekly", 160.0], ["triweekly", 138.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.857142857142857], ["biweekly", 5.785714285714286], ["triweekly", 5.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.01020408163265306], ["weekly", 0.007869930548265113], ["biweekly", 0.007510130056798731], ["triweekly", 0.00847396181622683]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012121212121212121], ["weekly", 0.009919731994598724], ["biweekly", 0.010160678664840878], ["triweekly", 0.010911250145370274]]
+    },
+    "lat": "REPLACE_MELamar,Alabama"
   }]
 }

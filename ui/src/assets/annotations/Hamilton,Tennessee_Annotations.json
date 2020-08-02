@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01016733742851091], ["weekly", 0.01036026155094913], ["biweekly", 0.010852219745878255], ["triweekly", 0.01155716172761681]]
     },
     "lat": "REPLACE_MEHamilton,Tennessee"
+  }, {
+    "locale": "Hamilton,Tennessee",
+    "long": "REPLACE_MEHamilton,Tennessee",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01196533492185381], ["weekly", 0.021375964979680213], ["biweekly", 0.021761814697376942], ["triweekly", 0.024831434321970425]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.944339920174876], ["weekly", 29.596508699509208], ["biweekly", 27.9652050704024], ["triweekly", 28.84559115595211]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1508.6839729856117], ["weekly", 1421.0985043276155], ["biweekly", 1314.4617397154072], ["triweekly", 1210.5567613392432]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.044172159971692], ["biweekly", 1.0421675579839935], ["triweekly", 1.0653155886481198]],
+      "Confirmed Cumulative Cases": [["daily", 5549.0], ["weekly", 5226.857142857143], ["biweekly", 4834.642857142857], ["triweekly", 4452.476190476191]],
+      "Confirmed Daily Cases": [["daily", 66.0], ["weekly", 108.85714285714286], ["biweekly", 102.85714285714286], ["triweekly", 106.0952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.008650207244548567], ["weekly", 0.008776681102055562], ["biweekly", 0.008975528813105768], ["triweekly", 0.009480165208954183]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009795918367346938], ["weekly", 0.010328691826327016], ["biweekly", 0.010700687670605115], ["triweekly", 0.011407997589554391]]
+    },
+    "lat": "REPLACE_MEHamilton,Tennessee"
   }]
 }

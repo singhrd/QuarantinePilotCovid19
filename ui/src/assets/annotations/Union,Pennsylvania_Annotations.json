@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.017840264876927383], ["biweekly", 0.018728232170821788], ["triweekly", 0.019451894960604683]]
     },
     "lat": "REPLACE_MEUnion,Pennsylvania"
+  }, {
+    "locale": "Union,Pennsylvania",
+    "long": "REPLACE_MEUnion,Pennsylvania",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.2231435513142097], ["weekly", 0.018458818782858013], ["biweekly", 0.013675288596944795], ["triweekly", 0.014670997337285132]],
+      "Confirmed Daily Cases per 100k": [["daily", 73.45902989559913], ["weekly", 5.088071334760114], ["biweekly", 3.657051271858831], ["triweekly", 3.71005201492925]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 367.29514947799566], ["weekly", 283.0239679960313], ["biweekly", 267.44174953332845], ["triweekly", 255.3575801132732]],
+      "Daily Growth Rate": [["daily", 2.345207879911715], ["weekly", 2.119047619047619], ["biweekly", 1.514779557004974], ["triweekly", 1.4370459330115883]],
+      "Confirmed Cumulative Cases": [["daily", 165.0], ["weekly", 127.14285714285714], ["biweekly", 120.14285714285714], ["triweekly", 114.71428571428571]],
+      "Confirmed Daily Cases": [["daily", 33.0], ["weekly", 2.2857142857142856], ["biweekly", 1.6428571428571428], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.012121212121212121], ["weekly", 0.015755874783441197], ["biweekly", 0.016718980934265274], ["triweekly", 0.017576628404043202]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01680672268907563], ["weekly", 0.01768208708508936], ["biweekly", 0.01848700521434421], ["triweekly", 0.019259741797064873]]
+    },
+    "lat": "REPLACE_MEUnion,Pennsylvania"
   }]
 }

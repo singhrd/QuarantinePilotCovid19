@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00975609756097561], ["weekly", 0.009479154477425441], ["biweekly", 0.009515445021398287], ["triweekly", 0.011197039807624726]]
     },
     "lat": "REPLACE_MESutter,California"
+  }, {
+    "locale": "Sutter,California",
+    "long": "REPLACE_MESutter,California",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.023167059281534286], ["weekly", 0.03173820933445067], ["biweekly", 0.03195325752522514], ["triweekly", 0.034518851374977434]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.56225056975797], ["weekly", 22.539875691848966], ["biweekly", 20.403743681837135], ["triweekly", 19.446167263555967]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 810.5516082127647], ["weekly", 723.1911749757292], ["biweekly", 648.6475337987646], ["triweekly", 583.1394854917352]],
+      "Daily Growth Rate": [["daily", 1.3846153846153846], ["weekly", 1.1404583878687264], ["biweekly", 1.128736153336944], ["triweekly", 1.0782010957570853]],
+      "Confirmed Cumulative Cases": [["daily", 786.0], ["weekly", 701.2857142857143], ["biweekly", 629.0], ["triweekly", 565.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 21.857142857142858], ["biweekly", 19.785714285714285], ["triweekly", 18.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.007633587786259542], ["weekly", 0.007706242041877935], ["biweekly", 0.007462347543935435], ["triweekly", 0.008034712662469174]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009419152276295133], ["weekly", 0.00970907705596458], ["biweekly", 0.009444259977750615], ["triweekly", 0.010826193993903431]]
+    },
+    "lat": "REPLACE_MESutter,California"
   }]
 }

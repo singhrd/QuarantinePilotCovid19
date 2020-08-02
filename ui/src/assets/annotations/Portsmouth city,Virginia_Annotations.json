@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01888412017167382], ["weekly", 0.02121419286023631], ["biweekly", 0.02480079280377836], ["triweekly", 0.027741003200256076]]
     },
     "lat": "REPLACE_MEPortsmouth city,Virginia"
+  }, {
+    "locale": "Portsmouth city,Virginia",
+    "long": "REPLACE_MEPortsmouth city,Virginia",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02031214045398233], ["weekly", 0.03244061061570326], ["biweekly", 0.03691222974291027], ["triweekly", 0.040314957127466786]],
+      "Confirmed Daily Cases per 100k": [["daily", 31.780334329117142], ["weekly", 44.946472836894245], ["biweekly", 44.64380298614075], ["triweekly", 42.1215542298616]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1580.541960634759], ["weekly", 1425.4236621235923], ["biweekly", 1265.9166507764992], ["triweekly", 1112.1099216185971]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.2544723610267905], ["biweekly", 1.152276164618652], ["triweekly", 1.1580710380825447]],
+      "Confirmed Cumulative Cases": [["daily", 1492.0], ["weekly", 1345.5714285714287], ["biweekly", 1195.0], ["triweekly", 1049.8095238095239]],
+      "Confirmed Daily Cases": [["daily", 30.0], ["weekly", 42.42857142857143], ["biweekly", 42.142857142857146], ["triweekly", 39.76190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.0160857908847185], ["weekly", 0.01586108023156151], ["biweekly", 0.017818991062550388], ["triweekly", 0.020346724992005988]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019591836734693877], ["weekly", 0.0204715573408555], ["biweekly", 0.023871235199271573], ["triweekly", 0.02701069785988856]]
+    },
+    "lat": "REPLACE_MEPortsmouth city,Virginia"
   }]
 }

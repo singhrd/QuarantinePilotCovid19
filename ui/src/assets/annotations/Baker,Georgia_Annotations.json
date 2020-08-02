@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06382978723404255], ["weekly", 0.06605435883881768], ["biweekly", 0.06701489712805676], ["triweekly", 0.06770589437048141]]
     },
     "lat": "REPLACE_MEBaker,Georgia"
+  }, {
+    "locale": "Baker,Georgia",
+    "long": "REPLACE_MEBaker,Georgia",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05310982531394792], ["weekly", 0.02245508336034468], ["biweekly", 0.014333621104439396], ["triweekly", 0.011720622358995656]],
+      "Confirmed Daily Cases per 100k": [["daily", 98.74917709019091], ["weekly", 37.61873412959654], ["biweekly", 23.511708830997836], ["triweekly", 18.80936706479827]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1909.1507570770243], ["weekly", 1739.86645349384], ["biweekly", 1622.3079093388503], ["triweekly", 1569.0147026552552]],
+      "Daily Growth Rate": [["daily", 1.224744871391589], ["weekly", 0.6457196882564552], ["biweekly", 0.39428841555679905], ["triweekly", 0.26285894370453267]],
+      "Confirmed Cumulative Cases": [["daily", 58.0], ["weekly", 52.857142857142854], ["biweekly", 49.285714285714285], ["triweekly", 47.666666666666664]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.1428571428571428], ["biweekly", 0.7142857142857143], ["triweekly", 0.5714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.05172413793103448], ["weekly", 0.05681186737790512], ["biweekly", 0.06123047886317396], ["triweekly", 0.06333114175293846]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06], ["weekly", 0.0656490903484428], ["biweekly", 0.06659077894045515], ["triweekly", 0.06742314891208034]]
+    },
+    "lat": "REPLACE_MEBaker,Georgia"
   }]
 }

@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04054054054054054], ["weekly", 0.05019290724001466], ["biweekly", 0.05486437022060984], ["triweekly", 0.05935529800156417]]
     },
     "lat": "REPLACE_MEClayton,Iowa"
+  }, {
+    "locale": "Clayton,Iowa",
+    "long": "REPLACE_MEClayton,Iowa",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010582109330536937], ["weekly", 0.034175669866547666], ["biweekly", 0.03959362397898066], ["triweekly", 0.032004465302957745]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.698330389195966], ["weekly", 16.280943969131332], ["biweekly", 16.28094396913133], ["triweekly", 12.482057043000685]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 541.3413869736167], ["weekly", 480.2878470893742], ["biweekly", 419.6413308043601], ["triweekly", 377.1752019515425]],
+      "Daily Growth Rate": [["daily", 0.2], ["weekly", 1.0098905811684897], ["biweekly", 1.5347071953461497], ["triweekly", 1.247324515390633]],
+      "Confirmed Cumulative Cases": [["daily", 95.0], ["weekly", 84.28571428571429], ["biweekly", 73.64285714285714], ["triweekly", 66.19047619047619]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.857142857142857], ["biweekly", 2.857142857142857], ["triweekly", 2.1904761904761907]],
+      "Confirmed Fatality Rate": [["daily", 0.031578947368421054], ["weekly", 0.03572470258194755], ["biweekly", 0.04188630383848003], ["triweekly", 0.047438792462033856]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.038461538461538464], ["weekly", 0.04804790509501252], ["biweekly", 0.053295837402077016], ["triweekly", 0.05771437136063754]]
+    },
+    "lat": "REPLACE_MEClayton,Iowa"
   }]
 }

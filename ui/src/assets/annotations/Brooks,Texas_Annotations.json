@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.015262995150213194], ["biweekly", 0.007631497575106597], ["triweekly", 0.005087665050071065]]
     },
     "lat": "REPLACE_MEBrooks,Texas"
+  }, {
+    "locale": "Brooks,Texas",
+    "long": "REPLACE_MEBrooks,Texas",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.011834457647003305], ["weekly", 0.05291054118527061], ["biweekly", 0.03289463466365653], ["triweekly", 0.04168898749304285]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.098406880022557], ["weekly", 52.365511268655204], ["biweekly", 31.21790094862137], ["triweekly", 32.89628272005263]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1198.3645848019173], ["weekly", 1091.6195041388894], ["biweekly", 943.5862318986523], ["triweekly", 837.8481802984834]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 2.166048237476809], ["biweekly", 1.2973098330241188], ["triweekly", 1.118841475984333]],
+      "Confirmed Cumulative Cases": [["daily", 85.0], ["weekly", 77.42857142857143], ["biweekly", 66.92857142857143], ["triweekly", 59.42857142857143]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.7142857142857144], ["biweekly", 2.2142857142857144], ["triweekly", 2.3333333333333335]],
+      "Confirmed Fatality Rate": [["daily", 0.011764705882352941], ["weekly", 0.012991170267668476], ["biweekly", 0.006495585133834238], ["triweekly", 0.004330390089222825]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015384615384615385], ["weekly", 0.017726049337405313], ["biweekly", 0.008863024668702656], ["triweekly", 0.005908683112468437]]
+    },
+    "lat": "REPLACE_MEBrooks,Texas"
   }]
 }

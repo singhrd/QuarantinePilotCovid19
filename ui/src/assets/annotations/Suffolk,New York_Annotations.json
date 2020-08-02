@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04778715544853061], ["weekly", 0.04803603204386336], ["biweekly", 0.04824737300608579], ["triweekly", 0.04846685183737779]]
     },
     "lat": "REPLACE_MESuffolk,New York"
+  }, {
+    "locale": "Suffolk,New York",
+    "long": "REPLACE_MESuffolk,New York",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.001756738466680119], ["weekly", 0.001498404877070314], ["biweekly", 0.0014051537673849574], ["triweekly", 0.0014689321064601472]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.146955744984597], ["weekly", 4.363302708624159], ["biweekly", 4.073060843305479], ["triweekly", 4.23430632403808]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2932.4103126030664], ["weekly", 2913.7767848496073], ["biweekly", 2898.8390035145385], ["triweekly", 2884.9493178042326]],
+      "Daily Growth Rate": [["daily", 1.4074074074074074], ["weekly", 1.037031149044965], ["biweekly", 1.1372232057449236], ["triweekly", 1.1169898248939225]],
+      "Confirmed Cumulative Cases": [["daily", 43300.0], ["weekly", 43024.857142857145], ["biweekly", 42804.28571428572], ["triweekly", 42599.19047619047]],
+      "Confirmed Daily Cases": [["daily", 76.0], ["weekly", 64.42857142857143], ["biweekly", 60.142857142857146], ["triweekly", 62.523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.04720554272517321], ["weekly", 0.04748795580048106], ["biweekly", 0.0477137336475965], ["triweekly", 0.047920501477542066]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04773247396198216], ["weekly", 0.04797979261007281], ["biweekly", 0.04818398608755326], ["triweekly", 0.048406073139067196]]
+    },
+    "lat": "REPLACE_MESuffolk,New York"
   }]
 }

@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0058823529411764705], ["weekly", 0.0070211370718072244], ["biweekly", 0.004077461959939894], ["triweekly", 0.0027183079732932625]]
     },
     "lat": "REPLACE_MELincoln,Tennessee"
+  }, {
+    "locale": "Lincoln,Tennessee",
+    "long": "REPLACE_MELincoln,Tennessee",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.06613980250454432], ["weekly", 0.045646096901062805], ["biweekly", 0.044217086314730265], ["triweekly", 0.04878591983401849]],
+      "Confirmed Daily Cases per 100k": [["daily", 46.557644183204324], ["weekly", 26.604368104688184], ["biweekly", 22.447435588330656], ["triweekly", 20.784662581787643]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 727.4631903625676], ["weekly", 602.7552148718418], ["biweekly", 519.2008712930555], ["triweekly", 448.25588968055354]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.2233766233766235], ["biweekly", 1.1760029009727684], ["triweekly", 1.4425517175316291]],
+      "Confirmed Cumulative Cases": [["daily", 250.0], ["weekly", 207.14285714285714], ["biweekly", 178.42857142857142], ["triweekly", 154.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 16.0], ["weekly", 9.142857142857142], ["biweekly", 7.714285714285714], ["triweekly", 7.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.004], ["weekly", 0.004867211343145074], ["biweekly", 0.0032866741716998603], ["triweekly", 0.0021911161144665737]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0055248618784530384], ["weekly", 0.006727686358188445], ["biweekly", 0.004497630027166785], ["triweekly", 0.00299842001811119]]
+    },
+    "lat": "REPLACE_MELincoln,Tennessee"
   }]
 }

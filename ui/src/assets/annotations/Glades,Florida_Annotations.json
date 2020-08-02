@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010238907849829351], ["weekly", 0.011012825049652408], ["biweekly", 0.008940284890487232], ["triweekly", 0.007787236620242711]]
     },
     "lat": "REPLACE_MEGlades,Florida"
+  }, {
+    "locale": "Glades,Florida",
+    "long": "REPLACE_MEGlades,Florida",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005128216366919958], ["weekly", 0.04048667637162546], ["biweekly", 0.03974339801130907], ["triweekly", 0.03264117544704424]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.4812106292086], ["weekly", 99.29973002885897], ["biweekly", 85.852891587451], ["triweekly", 66.54461074850619]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2831.0766780102813], ["weekly", 2802.114256751865], ["biweekly", 2431.2918274253448], ["triweekly", 2128.3931717643973]],
+      "Daily Growth Rate": [["daily", 1.2599210498948732], ["weekly", 13.375306488634122], ["biweekly", 7.392445039083748], ["triweekly", 5.339626461882323]],
+      "Confirmed Cumulative Cases": [["daily", 391.0], ["weekly", 387.0], ["biweekly", 335.7857142857143], ["triweekly", 293.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 13.714285714285714], ["biweekly", 11.857142857142858], ["triweekly", 9.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0076726342710997444], ["weekly", 0.007752308634781662], ["biweekly", 0.00686332434623446], ["triweekly", 0.006162491934108646]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0078125], ["weekly", 0.010553681199884275], ["biweekly", 0.009307203964308864], ["triweekly", 0.007997948732693055]]
+    },
+    "lat": "REPLACE_MEGlades,Florida"
   }]
 }

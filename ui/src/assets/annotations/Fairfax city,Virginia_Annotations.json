@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0958904109589041], ["weekly", 0.09552017771195853], ["biweekly", 0.095713007528076], ["triweekly", 0.09654397237843115]]
     },
     "lat": "REPLACE_MEFairfax city,Virginia"
+  }, {
+    "locale": "Fairfax city,Virginia",
+    "long": "REPLACE_MEFairfax city,Virginia",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012578782206859707], ["weekly", 0.011284058759804363], ["biweekly", 0.0056420293799021816], ["triweekly", 0.004418177783379342]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.163370664890295], ["weekly", 3.5686034270488247], ["biweekly", 1.7843017135244124], ["triweekly", 1.3877902216300986]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 333.0696531912236], ["weekly", 321.1743084343942], ["biweekly", 313.14495072353435], ["triweekly", 310.2702424073006]],
+      "Daily Growth Rate": [["daily", 0.7071067811865476], ["weekly", 0.844887651767585], ["biweekly", 0.4224438258837925], ["triweekly", 0.32924826487490927]],
+      "Confirmed Cumulative Cases": [["daily", 80.0], ["weekly", 77.14285714285714], ["biweekly", 75.21428571428571], ["triweekly", 74.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.8571428571428571], ["biweekly", 0.42857142857142855], ["triweekly", 0.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.0875], ["weekly", 0.09083406945943036], ["biweekly", 0.09317712358569442], ["triweekly", 0.09402327525455989]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0945945945945946], ["weekly", 0.09552017771195853], ["biweekly", 0.0956178781521247], ["triweekly", 0.09634827766218848]]
+    },
+    "lat": "REPLACE_MEFairfax city,Virginia"
   }]
 }

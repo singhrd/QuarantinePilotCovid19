@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05278592375366569], ["weekly", 0.05484647815332211], ["biweekly", 0.05663861665817184], ["triweekly", 0.05942327344867345]]
     },
     "lat": "REPLACE_MEHenry,Indiana"
+  }, {
+    "locale": "Henry,Indiana",
+    "long": "REPLACE_MEHenry,Indiana",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005509655810969072], ["weekly", 0.008537390648893504], ["biweekly", 0.009032364931494794], ["triweekly", 0.008629390211947705]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.169098640873843], ["weekly", 6.253647961310763], ["biweekly", 6.402544341341973], ["triweekly", 5.955855201248346]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 758.7759526390395], ["weekly", 735.8459101142333], ["biweekly", 713.3625567295209], ["triweekly", 691.3755246115792]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.0785714285714285], ["biweekly", 1.319047619047619], ["triweekly", 1.2170472934216883]],
+      "Confirmed Cumulative Cases": [["daily", 364.0], ["weekly", 353.0], ["biweekly", 342.2142857142857], ["triweekly", 331.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.0], ["biweekly", 3.0714285714285716], ["triweekly", 2.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.04945054945054945], ["weekly", 0.05100488579609197], ["biweekly", 0.0526656527936545], ["triweekly", 0.05443610040638537]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05217391304347826], ["weekly", 0.05432641979121703], ["biweekly", 0.05615170771153206], ["triweekly", 0.058672679956144475]]
+    },
+    "lat": "REPLACE_MEHenry,Indiana"
   }]
 }

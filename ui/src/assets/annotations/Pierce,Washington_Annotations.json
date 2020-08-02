@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028541001064962726], ["weekly", 0.03091889502018402], ["biweekly", 0.03186850680475096], ["triweekly", 0.033031843637321465]]
     },
     "lat": "REPLACE_MEPierce,Washington"
+  }, {
+    "locale": "Pierce,Washington",
+    "long": "REPLACE_MEPierce,Washington",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.020008077599941387], ["weekly", 0.01849661765344557], ["biweekly", 0.021085375414468897], ["triweekly", 0.021212241746966464]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.933965391500365], ["weekly", 10.244898861221873], ["biweekly", 10.781611590469245], ["triweekly", 10.10808973415882]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 602.4442529116666], ["weekly", 555.2608897434199], ["biweekly", 519.8615281158542], ["triweekly", 483.6465736154129]],
+      "Daily Growth Rate": [["daily", 1.173913043478261], ["weekly", 0.6689890632306756], ["biweekly", 0.8569455477413943], ["triweekly", 0.9375293112595415]],
+      "Confirmed Cumulative Cases": [["daily", 5452.0], ["weekly", 5025.0], ["biweekly", 4704.642857142857], ["triweekly", 4376.9047619047615]],
+      "Confirmed Daily Cases": [["daily", 108.0], ["weekly", 92.71428571428571], ["biweekly", 97.57142857142857], ["triweekly", 91.47619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.024761555392516506], ["weekly", 0.02642580891883802], ["biweekly", 0.0270857974362671], ["triweekly", 0.028256694269436354]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028183716075156576], ["weekly", 0.0302917350056908], ["biweekly", 0.03148654959606533], ["triweekly", 0.03264115764878889]]
+    },
+    "lat": "REPLACE_MEPierce,Washington"
   }]
 }

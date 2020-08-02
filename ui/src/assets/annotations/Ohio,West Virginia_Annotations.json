@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018433179723502304], ["weekly", 0.01681002389872146], ["biweekly", 0.018520888089351522], ["triweekly", 0.01961499520908041]]
     },
     "lat": "REPLACE_MEOhio,West Virginia"
+  }, {
+    "locale": "Ohio,West Virginia",
+    "long": "REPLACE_MEOhio,West Virginia",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004024150299724916], ["weekly", 0.019075913232074675], ["biweekly", 0.025724082261943084], ["triweekly", 0.027913098143227493]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.4148173190698126], ["weekly", 10.694190984452026], ["biweekly", 12.936521352159707], ["triweekly", 12.649043099889493]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 601.2895124483833], ["weekly", 573.6916002304425], ["biweekly", 520.3931322595446], ["triweekly", 470.6593946167973]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 2.613996370181146], ["biweekly", 2.7092223976596133], ["triweekly", 2.645603188467993]],
+      "Confirmed Cumulative Cases": [["daily", 249.0], ["weekly", 237.57142857142858], ["biweekly", 215.5], ["triweekly", 194.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.428571428571429], ["biweekly", 5.357142857142857], ["triweekly", 5.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.01606425702811245], ["weekly", 0.01380258519319691], ["biweekly", 0.014724462738856997], ["triweekly", 0.015688906687233346]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.016966043793160683], ["biweekly", 0.018284748752831505], ["triweekly", 0.020030444821433964]]
+    },
+    "lat": "REPLACE_MEOhio,West Virginia"
   }]
 }

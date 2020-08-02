@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01020408163265306], ["weekly", 0.011677505007557128], ["biweekly", 0.012765779642138158], ["triweekly", 0.013886803269661121]]
     },
     "lat": "REPLACE_MELogan,Ohio"
+  }, {
+    "locale": "Logan,Ohio",
+    "long": "REPLACE_MELogan,Ohio",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01739174271186883], ["weekly", 0.021604424246274765], ["biweekly", 0.027106401550350285], ["triweekly", 0.024604321105637556]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.379050621825188], ["weekly", 5.004629282085929], ["biweekly", 5.63020794234667], ["triweekly", 4.796103061999015]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 253.98493606586092], ["weekly", 230.52573630608313], ["biweekly", 212.5403498235868], ["triweekly", 195.49333133148164]],
+      "Daily Growth Rate": [["daily", 0.4], ["weekly", 1.2380952380952384], ["biweekly", 1.4047619047619049], ["triweekly", 1.1685831967334745]],
+      "Confirmed Cumulative Cases": [["daily", 116.0], ["weekly", 105.28571428571429], ["biweekly", 97.07142857142857], ["triweekly", 89.28571428571429]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.2857142857142856], ["biweekly", 2.5714285714285716], ["triweekly", 2.1904761904761907]],
+      "Confirmed Fatality Rate": [["daily", 0.008620689655172414], ["weekly", 0.00951604748953032], ["biweekly", 0.010409888306553738], ["triweekly", 0.011468164128398017]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01], ["weekly", 0.01130372912357716], ["biweekly", 0.012444222447831865], ["triweekly", 0.013551693856437704]]
+    },
+    "lat": "REPLACE_MELogan,Ohio"
   }]
 }

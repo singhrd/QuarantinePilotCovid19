@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022598870056497175], ["weekly", 0.01855380896733952], ["biweekly", 0.016439083816526423], ["triweekly", 0.016295415957944287]]
     },
     "lat": "REPLACE_MECamp,Texas"
+  }, {
+    "locale": "Camp,Texas",
+    "long": "REPLACE_MECamp,Texas",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014117881545784527], ["weekly", 0.025101200128891117], ["biweekly", 0.018875842731691645], ["triweekly", 0.023063032524784973]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.911257064304262], ["weekly", 37.09441619934976], ["biweekly", 26.729799908354973], ["triweekly", 29.45733051124834]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1634.336337253704], ["weekly", 1482.685635732833], ["biweekly", 1391.5861135961948], ["triweekly", 1295.7588717478745]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 2.7363945578231292], ["biweekly", 1.9372448979591836], ["triweekly", 1.8243746993308787]],
+      "Confirmed Cumulative Cases": [["daily", 214.0], ["weekly", 194.14285714285714], ["biweekly", 182.21428571428572], ["triweekly", 169.66666666666666]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 4.857142857142857], ["biweekly", 3.5], ["triweekly", 3.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.018691588785046728], ["weekly", 0.017568101377537403], ["biweekly", 0.014662440489377789], ["triweekly", 0.01440503529233393]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021739130434782608], ["weekly", 0.020018550545075446], ["biweekly", 0.016954387721660837], ["triweekly", 0.016590912502398875]]
+    },
+    "lat": "REPLACE_MECamp,Texas"
   }]
 }

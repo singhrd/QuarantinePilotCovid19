@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0392156862745098], ["weekly", 0.032331509221673695], ["biweekly", 0.031177047589566798], ["triweekly", 0.035242462850808995]]
     },
     "lat": "REPLACE_MEHamilton,Texas"
+  }, {
+    "locale": "Hamilton,Texas",
+    "long": "REPLACE_MEHamilton,Texas",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.01078679321544935], ["biweekly", 0.020982937037725944], ["triweekly", 0.03214898452653654]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 6.7536765326624675], ["biweekly", 11.81893393215932], ["triweekly", 15.195772198490554]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 650.0413662687625], ["weekly", 636.5340132034377], ["biweekly", 594.3235348742973], ["triweekly", 536.3544779689443]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.24387239731236393], ["biweekly", 0.41631622319615647], ["triweekly", 0.5318474640541458]],
+      "Confirmed Cumulative Cases": [["daily", 55.0], ["weekly", 53.857142857142854], ["biweekly", 50.285714285714285], ["triweekly", 45.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.5714285714285714], ["biweekly", 1.0], ["triweekly", 1.2857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.03636363636363636], ["weekly", 0.026558486935845425], ["biweekly", 0.025432336103400306], ["triweekly", 0.026423179301808424]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03773584905660377], ["weekly", 0.03096510900304966], ["biweekly", 0.031427147629582805], ["triweekly", 0.03484230278678339]]
+    },
+    "lat": "REPLACE_MEHamilton,Texas"
   }]
 }

@@ -2879,5 +2879,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02899751449875725], ["weekly", 0.02954066736534814], ["biweekly", 0.03146999764010878], ["triweekly", 0.033256654225476745]]
     },
     "lat": "REPLACE_MELarimer,Colorado"
+  }, {
+    "locale": "Larimer,Colorado",
+    "long": "REPLACE_MELarimer,Colorado",
+    "date": "08/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012431604342145519], ["weekly", 0.016944456150515968], ["biweekly", 0.019040524681155295], ["triweekly", 0.020478445310166675]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.763252348703695], ["weekly", 6.084154260529089], ["biweekly", 6.364345575158718], ["triweekly", 6.337660688051135]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 385.54324893036966], ["weekly", 362.6876431227242], ["biweekly", 339.95211930706284], ["triweekly", 316.736267523465]],
+      "Daily Growth Rate": [["daily", 0.7083333333333334], ["weekly", 1.637703179743884], ["biweekly", 1.3481031504110965], ["triweekly", 1.2981504798490304]],
+      "Confirmed Cumulative Cases": [["daily", 1376.0], ["weekly", 1294.4285714285713], ["biweekly", 1213.2857142857142], ["triweekly", 1130.4285714285713]],
+      "Confirmed Daily Cases": [["daily", 17.0], ["weekly", 21.714285714285715], ["biweekly", 22.714285714285715], ["triweekly", 22.61904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.025436046511627907], ["weekly", 0.025603511207470373], ["biweekly", 0.026764696560813008], ["triweekly", 0.028278474492202436]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02827140549273021], ["weekly", 0.02929178752360343], ["biweekly", 0.03103640058265092], ["triweekly", 0.0327989149820824]]
+    },
+    "lat": "REPLACE_MELarimer,Colorado"
   }]
 }
