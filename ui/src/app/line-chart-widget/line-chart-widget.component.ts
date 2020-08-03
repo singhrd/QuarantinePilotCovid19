@@ -264,6 +264,26 @@ export class LineChartWidgetComponent implements OnInit {
   selectAlert(alert: string) {
 
     const localeAlert = this.setAlertLocaleFromLocale(this.selectedLocale);
+    
+
+    if (this.selectedLocale === 'Countries') {
+      this.updateMultiselectLabels(this.locationsCountries);
+    }
+    if (this.selectedLocale === 'US Counties') {
+      this.updateMultiselectLabels(this.locationsCounties);
+    }
+    if (this.selectedLocale === 'US States') {
+      this.updateMultiselectLabels(this.locationsStates);
+    }
+    if (this.selectedLocale === 'San Diego Zip-Codes') {
+      this.updateMultiselectLabels(this.locationsZipCodesSanDiego);
+    }
+    if (this.selectedLocale === 'All') {
+      this.updateMultiselectLabels(this.locations);
+    }
+    
+    
+    
     const requestArray = [];
 
     this.selectedAlert = alert;
@@ -291,7 +311,7 @@ export class LineChartWidgetComponent implements OnInit {
           const res: any = allResponses[i];
           this.chartDescriptionText = res.description;
           this.selectedLocations = res.locales;
-          this.availableLocations = [];
+//          this.availableLocations = [];
           this.getData(this.selectedLocations, this.selectedWindow, this.selectedMetric, this.selectedScale);
         }
       });
