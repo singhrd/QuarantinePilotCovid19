@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013055385365627666], ["biweekly", 0.013966942625382724], ["triweekly", 0.014793502465122167]]
     },
     "lat": "REPLACE_MEWashington,Idaho"
+  }, {
+    "locale": "Washington,Idaho",
+    "long": "REPLACE_MEWashington,Idaho",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005277057100843585], ["weekly", 0.02202152568960842], ["biweekly", 0.018438599525093302], ["triweekly", 0.017454747231356732]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.809691975671964], ["weekly", 37.837383334734724], ["biweekly", 30.129768210992466], ["triweekly", 27.093434980427332]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1863.841475377673], ["weekly", 1729.3085568541717], ["biweekly", 1628.4088679615456], ["triweekly", 1532.6475891514146]],
+      "Daily Growth Rate": [["daily", 0.16666666666666666], ["weekly", 1.5816238864351313], ["biweekly", 1.289953872077659], ["triweekly", 1.2091755972581222]],
+      "Confirmed Cumulative Cases": [["daily", 190.0], ["weekly", 176.28571428571428], ["biweekly", 166.0], ["triweekly", 156.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.857142857142857], ["biweekly", 3.0714285714285716], ["triweekly", 2.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.010526315789473684], ["weekly", 0.011368611174831945], ["biweekly", 0.012115358904184048], ["triweekly", 0.012961713258048022]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012048192771084338], ["weekly", 0.012862106633536147], ["biweekly", 0.013758264299656054], ["triweekly", 0.014545970053847068]]
+    },
+    "lat": "REPLACE_MEWashington,Idaho"
   }]
 }

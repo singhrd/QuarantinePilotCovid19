@@ -2899,14 +2899,29 @@
     "long": "REPLACE_MEWashington",
     "date": "08/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.015561294978363449], ["weekly", 0.01390575737650579], ["biweekly", 0.015566997895314318], ["triweekly", 0.017005608382259566]],
-      "Confirmed Daily Cases per 100k": [["daily", 12.102496714848881], ["weekly", 10.225267505162378], ["biweekly", 10.794067955697388], ["triweekly", 11.035604780677053]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 783.7976346911958], ["weekly", 740.6720480570676], ["biweekly", 702.7567110944245], ["triweekly", 662.3596771165759]],
-      "Daily Growth Rate": [["daily", 1.4712460063897763], ["weekly", 1.0111045853391378], ["biweekly", 1.0449372093347544], ["triweekly", 1.1516791098924322]],
-      "Confirmed Cumulative Cases": [["daily", 59647.0], ["weekly", 56365.142857142855], ["biweekly", 53479.78571428572], ["triweekly", 50405.57142857143]],
-      "Confirmed Daily Cases": [["daily", 921.0], ["weekly", 778.1428571428571], ["biweekly", 821.4285714285714], ["triweekly", 839.8095238095239]],
-      "Confirmed Fatality Rate": [["daily", 0.02809864704008584], ["weekly", 0.028860912628778664], ["biweekly", 0.029612412517539304], ["triweekly", 0.030776703947329738]],
+      "Spread Rate": [["daily", 0.015594825021285175], ["weekly", 0.01390575737650579], ["biweekly", 0.015566997895314318], ["triweekly", 0.017005608382259566]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.128777923784492], ["weekly", 10.225267505162378], ["biweekly", 10.794067955697388], ["triweekly", 11.035604780677053]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 783.8239159001313], ["weekly", 740.6720480570676], ["biweekly", 702.7567110944245], ["triweekly", 662.3596771165759]],
+      "Daily Growth Rate": [["daily", 1.47444089456869], ["weekly", 1.0111045853391378], ["biweekly", 1.0449372093347544], ["triweekly", 1.1516791098924322]],
+      "Confirmed Cumulative Cases": [["daily", 59649.0], ["weekly", 56365.142857142855], ["biweekly", 53479.78571428572], ["triweekly", 50405.57142857143]],
+      "Confirmed Daily Cases": [["daily", 923.0], ["weekly", 778.1428571428571], ["biweekly", 821.4285714285714], ["triweekly", 839.8095238095239]],
+      "Confirmed Fatality Rate": [["daily", 0.028097704907039514], ["weekly", 0.028860912628778664], ["biweekly", 0.029612412517539304], ["triweekly", 0.030776703947329738]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.031103852720659193], ["weekly", 0.03216164176984447], ["biweekly", 0.03344658091490607], ["triweekly", 0.0348156856415463]]
+    },
+    "lat": "REPLACE_MEWashington"
+  }, {
+    "locale": "Washington",
+    "long": "REPLACE_MEWashington",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008546917899806772], ["weekly", 0.014520542301104555], ["biweekly", 0.0156851107852573], ["triweekly", 0.017475502004887695]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.727989487516425], ["weekly", 10.822226393842687], ["biweekly", 11.038107752956634], ["triweekly", 11.465490269695263]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 790.5519053876477], ["weekly", 751.4942744509104], ["biweekly", 713.7948188473811], ["triweekly", 673.8251673862711]],
+      "Daily Growth Rate": [["daily", 0.5547128927410617], ["weekly", 1.1373360970632362], ["biweekly", 1.1008210728149816], ["triweekly", 1.2063037638111975]],
+      "Confirmed Cumulative Cases": [["daily", 60161.0], ["weekly", 57188.71428571428], ["biweekly", 54319.78571428572], ["triweekly", 51278.09523809524]],
+      "Confirmed Daily Cases": [["daily", 512.0], ["weekly", 823.5714285714286], ["biweekly", 840.0], ["triweekly", 872.5238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.02792506773491132], ["weekly", 0.028654163557257084], ["biweekly", 0.029368650887658915], ["triweekly", 0.030471541226050065]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.030869868803057587], ["weekly", 0.03185597182160001], ["biweekly", 0.03306010304475508], ["triweekly", 0.03445153324644697]]
     },
     "lat": "REPLACE_MEWashington"
   }]

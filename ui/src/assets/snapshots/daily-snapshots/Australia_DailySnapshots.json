@@ -3074,18 +3074,34 @@
   }, {
     "epidemiccontrolThreshold": 127.19582,
     "source": "JHU",
-    "confirmedPer100kN": -0.5036094928014487,
-    "deaths": 0,
-    "confirmed": -11,
+    "confirmedPer100kN": 28.156348915717363,
+    "deaths": 7,
+    "confirmed": 615,
     "recovered": 221,
     "recoveredPer100k": 0.8687392400159062,
-    "confirmedPer100k": -0.0432404146614252,
+    "confirmedPer100k": 2.417532274252409,
     "locale": "Australia",
-    "activePer100k": 0.0,
+    "activePer100k": 1.5212764067246864,
     "long": "149.133333",
     "date": "8/1/20",
+    "deathsPer100k": 0.027516627511816032,
+    "lat": "-35.2666666667",
+    "active": 387
+  }, {
+    "epidemiccontrolThreshold": 127.19582,
+    "source": "JHU",
+    "confirmedPer100kN": 1.968655290042027,
+    "deaths": 0,
+    "confirmed": 43,
+    "recovered": 222,
+    "recoveredPer100k": 0.8726701868033084,
+    "confirmedPer100k": 0.1690307118582985,
+    "locale": "Australia",
+    "activePer100k": -0.70363947494501,
+    "long": "149.133333",
+    "date": "8/2/20",
     "deathsPer100k": 0.0,
     "lat": "-35.2666666667",
-    "active": 0
+    "active": -179
   }]
 }

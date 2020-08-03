@@ -2890,8 +2890,23 @@
       "Daily Growth Rate": [["daily", 0.59375], ["weekly", 1.106353851462547], ["biweekly", 1.1531269474526353], ["triweekly", 1.1206077738977285]],
       "Confirmed Cumulative Cases": [["daily", 1503.0], ["weekly", 1399.857142857143], ["biweekly", 1321.4285714285713], ["triweekly", 1226.3333333333333]],
       "Confirmed Daily Cases": [["daily", 19.0], ["weekly", 22.857142857142858], ["biweekly", 24.857142857142858], ["triweekly", 26.857142857142858]],
-      "Confirmed Fatality Rate": [["daily", 0.018629407850964737], ["weekly", 0.01918697635165755], ["biweekly", 0.019302655840925727], ["triweekly", 0.020298512330033155]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020895522388059702], ["weekly", 0.021615919657489317], ["biweekly", 0.02247034977190404], ["triweekly", 0.02509898256778082]]
+      "Confirmed Fatality Rate": [["daily", 0.01929474384564205], ["weekly", 0.01918697635165755], ["biweekly", 0.019302655840925727], ["triweekly", 0.020298512330033155]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02164179104477612], ["weekly", 0.021615919657489317], ["biweekly", 0.02247034977190404], ["triweekly", 0.02509898256778082]]
+    },
+    "lat": "REPLACE_MEDubuque,Iowa"
+  }, {
+    "locale": "Dubuque,Iowa",
+    "long": "REPLACE_MEDubuque,Iowa",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01584191546565794], ["weekly", 0.016399070972573933], ["biweekly", 0.017889954425798025], ["triweekly", 0.02229882143655216]],
+      "Confirmed Daily Cases per 100k": [["daily", 24.663193266948237], ["weekly", 23.929169657812878], ["biweekly", 24.442986184207623], ["triweekly", 27.501417888938313]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1569.1956716095815], ["weekly", 1462.4686388412997], ["biweekly", 1382.3866630846314], ["triweekly", 1287.7220849598073]],
+      "Daily Growth Rate": [["daily", 1.263157894736842], ["weekly", 1.091796398046398], ["biweekly", 1.0220682739832476], ["triweekly", 1.137116877539185]],
+      "Confirmed Cumulative Cases": [["daily", 1527.0], ["weekly", 1423.142857142857], ["biweekly", 1345.2142857142858], ["triweekly", 1253.095238095238]],
+      "Confirmed Daily Cases": [["daily", 24.0], ["weekly", 23.285714285714285], ["biweekly", 23.785714285714285], ["triweekly", 26.761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.01899148657498363], ["weekly", 0.019171513318945434], ["biweekly", 0.019276700425748756], ["triweekly", 0.020053400946942683]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021402214022140223], ["weekly", 0.021533000917854157], ["biweekly", 0.02227032892577791], ["triweekly", 0.0245306563158289]]
     },
     "lat": "REPLACE_MEDubuque,Iowa"
   }]

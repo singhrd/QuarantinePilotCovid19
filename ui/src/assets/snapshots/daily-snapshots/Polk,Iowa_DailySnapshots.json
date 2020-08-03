@@ -3075,17 +3075,33 @@
     "epidemiccontrolThreshold": 2.450805,
     "source": "NYGithub",
     "confirmedPer100kN": 26.52189790701423,
-    "deaths": -1,
+    "deaths": 1,
     "confirmed": 130,
     "recovered": 0,
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 26.52189790701423,
     "locale": "Polk,Iowa",
-    "activePer100k": 26.72591250629895,
+    "activePer100k": 26.317883307729502,
     "long": "REPLACE_MEPolk,Iowa",
     "date": "08/01/2020",
-    "deathsPer100k": -0.20401459928472482,
+    "deathsPer100k": 0.20401459928472482,
     "lat": "REPLACE_MEPolk,Iowa",
-    "active": 131
+    "active": 129
+  }, {
+    "epidemiccontrolThreshold": 2.450805,
+    "source": "NYGithub",
+    "confirmedPer100kN": 20.401459928472484,
+    "deaths": 0,
+    "confirmed": 100,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 20.401459928472484,
+    "locale": "Polk,Iowa",
+    "activePer100k": 20.401459928472484,
+    "long": "REPLACE_MEPolk,Iowa",
+    "date": "08/02/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEPolk,Iowa",
+    "active": 100
   }]
 }

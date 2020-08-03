@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012048192771084338], ["weekly", 0.013826223452266154], ["biweekly", 0.015496803745088763], ["triweekly", 0.018145750870191314]]
     },
     "lat": "REPLACE_MEChampaign,Ohio"
+  }, {
+    "locale": "Champaign,Ohio",
+    "long": "REPLACE_MEChampaign,Ohio",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.028987536873252395], ["weekly", 0.029447457926810344], ["biweekly", 0.028961793436297407], ["triweekly", 0.033007008598092615]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.715057220007716], ["weekly", 6.980289865721266], ["biweekly", 6.245522511434818], ["triweekly", 6.245522511434818]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 270.02700270027003], ["weekly", 237.32985543452307], ["biweekly", 214.73575929021473], ["triweekly", 195.44811624019545]],
+      "Daily Growth Rate": [["daily", 0.6546536707079771], ["weekly", 1.5761904761904761], ["biweekly", 1.5727808494990587], ["triweekly", 1.3331758293961937]],
+      "Confirmed Cumulative Cases": [["daily", 105.0], ["weekly", 92.28571428571429], ["biweekly", 83.5], ["triweekly", 76.0]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.7142857142857144], ["biweekly", 2.4285714285714284], ["triweekly", 2.4285714285714284]],
+      "Confirmed Fatality Rate": [["daily", 0.009523809523809525], ["weekly", 0.010900156986854133], ["biweekly", 0.012173355249427508], ["triweekly", 0.01360460480824053]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011904761904761904], ["weekly", 0.01344655351200089], ["biweekly", 0.014956828718933725], ["triweekly", 0.017498473114479822]]
+    },
+    "lat": "REPLACE_MEChampaign,Ohio"
   }]
 }

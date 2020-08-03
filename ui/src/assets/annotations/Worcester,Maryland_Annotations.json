@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03861788617886179], ["weekly", 0.04235400690882001], ["biweekly", 0.04797533723309566], ["triweekly", 0.05178756464927385]]
     },
     "lat": "REPLACE_MEWorcester,Maryland"
+  }, {
+    "locale": "Worcester,Maryland",
+    "long": "REPLACE_MEWorcester,Maryland",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008525200823359391], ["weekly", 0.02448889519084561], ["biweekly", 0.029947030731464302], ["triweekly", 0.029095200426235562]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.564618563011708], ["weekly", 25.141283079916487], ["biweekly", 27.327481608604874], ["triweekly", 24.32145863165834]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1126.7120667227791], ["weekly", 1005.1047735644873], ["biweekly", 925.1718898593181], ["triweekly", 837.5873113037395]],
+      "Daily Growth Rate": [["daily", 0.15151515151515152], ["weekly", 1.55236732624034], ["biweekly", 1.6550198140904848], ["triweekly", 1.9043867062671533]],
+      "Confirmed Cumulative Cases": [["daily", 589.0], ["weekly", 525.4285714285714], ["biweekly", 483.64285714285717], ["triweekly", 437.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 13.142857142857142], ["biweekly", 14.285714285714286], ["triweekly", 12.714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.034597388960124605], ["biweekly", 0.037740724066876494], ["triweekly", 0.04255426073585771]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03792415169660679], ["weekly", 0.041174419220085974], ["biweekly", 0.046677876646953075], ["triweekly", 0.050701109367363634]]
+    },
+    "lat": "REPLACE_MEWorcester,Maryland"
   }]
 }

@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.025885584363279316], ["biweekly", 0.02866853220824758], ["triweekly", 0.03283102693813442]]
     },
     "lat": "REPLACE_METeller,Colorado"
+  }, {
+    "locale": "Teller,Colorado",
+    "long": "REPLACE_METeller,Colorado",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008888947417246662], ["weekly", 0.022021525689608294], ["biweekly", 0.032558499589555624], ["triweekly", 0.029721633765380655]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.9388687568930205], ["weekly", 9.003128587184047], ["biweekly", 11.53525850232956], ["triweekly", 9.753389302782718]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 445.0921695289113], ["weekly", 410.2050462535731], ["biweekly", 375.31792297823495], ["triweekly", 335.9292354093047]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.6709941584438326], ["biweekly", 0.8687875641237068], ["triweekly", 0.9125250427491377]],
+      "Confirmed Cumulative Cases": [["daily", 113.0], ["weekly", 104.14285714285714], ["biweekly", 95.28571428571429], ["triweekly", 85.28571428571429]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.2857142857142856], ["biweekly", 2.9285714285714284], ["triweekly", 2.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.02654867256637168], ["weekly", 0.021831277381954176], ["biweekly", 0.022531885457805788], ["triweekly", 0.025259163692045977]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.030927835051546393], ["weekly", 0.02632572520834974], ["biweekly", 0.028519722684438056], ["triweekly", 0.032104282752087904]]
+    },
+    "lat": "REPLACE_METeller,Colorado"
   }]
 }

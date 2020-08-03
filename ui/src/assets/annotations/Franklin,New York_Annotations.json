@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.023809523809523808], ["weekly", 0.024319727891156464], ["biweekly", 0.02579476423461386], ["triweekly", 0.01855705370742965]]
     },
     "lat": "REPLACE_MEFranklin,New York"
+  }, {
+    "locale": "Franklin,New York",
+    "long": "REPLACE_MEFranklin,New York",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.02490762673496822], ["biweekly", 0.015938825093872122], ["triweekly", 0.01698452113993964]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.2847090137482367], ["biweekly", 1.4279431335926478], ["triweekly", 1.4279431335926478]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 99.95601935148535], ["weekly", 94.52983544383328], ["biweekly", 88.67526859610344], ["triweekly", 84.05825246415387]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.424613109585431], ["biweekly", 0.3023009154994922], ["triweekly", 0.4396291817615662]],
+      "Confirmed Cumulative Cases": [["daily", 50.0], ["weekly", 47.285714285714285], ["biweekly", 44.357142857142854], ["triweekly", 42.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.1428571428571428], ["biweekly", 0.7142857142857143], ["triweekly", 0.7142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.021199686837984708], ["biweekly", 0.022674673350965145], ["triweekly", 0.01752792631212084]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022727272727272728], ["weekly", 0.024149659863945575], ["biweekly", 0.025454628180192094], ["triweekly", 0.019690840555502215]]
+    },
+    "lat": "REPLACE_MEFranklin,New York"
   }]
 }

@@ -3075,17 +3075,33 @@
     "epidemiccontrolThreshold": 0.486555,
     "source": "NYGithub",
     "confirmedPer100kN": 19.52502800300069,
-    "deaths": 0,
+    "deaths": 1,
     "confirmed": 19,
     "recovered": 0,
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 19.52502800300069,
     "locale": "Dubuque,Iowa",
-    "activePer100k": 19.52502800300069,
+    "activePer100k": 18.497394950211177,
     "long": "REPLACE_MEDubuque,Iowa",
     "date": "08/01/2020",
+    "deathsPer100k": 1.02763305278951,
+    "lat": "REPLACE_MEDubuque,Iowa",
+    "active": 18
+  }, {
+    "epidemiccontrolThreshold": 0.486555,
+    "source": "NYGithub",
+    "confirmedPer100kN": 24.663193266948237,
+    "deaths": 0,
+    "confirmed": 24,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 24.663193266948237,
+    "locale": "Dubuque,Iowa",
+    "activePer100k": 24.663193266948237,
+    "long": "REPLACE_MEDubuque,Iowa",
+    "date": "08/02/2020",
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEDubuque,Iowa",
-    "active": 19
+    "active": 24
   }]
 }

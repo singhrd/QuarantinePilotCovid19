@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0255741127348643], ["weekly", 0.025712301111591496], ["biweekly", 0.025920833818176416], ["triweekly", 0.026150005456140588]]
     },
     "lat": "REPLACE_MEUlster,New York"
+  }, {
+    "locale": "Ulster,New York",
+    "long": "REPLACE_MEUlster,New York",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0009866799024447204], ["weekly", 0.007974818039688993], ["biweekly", 0.0045863942610069], ["triweekly", 0.00419898617938539]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.1262973537643672], ["weekly", 8.849479208148601], ["biweekly", 5.068338091939653], ["triweekly", 4.585639226040639]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1142.0655167170685], ["weekly", 1112.0577372203463], ["biweekly", 1093.2727063557766], ["triweekly", 1082.1035909309462]],
+      "Daily Growth Rate": [["daily", 0.4], ["weekly", 3.177714607150091], ["biweekly", 2.1961954924440783], ["triweekly", 1.903416042581766]],
+      "Confirmed Cumulative Cases": [["daily", 2028.0], ["weekly", 1974.7142857142858], ["biweekly", 1941.357142857143], ["triweekly", 1921.5238095238096]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 15.714285714285714], ["biweekly", 9.0], ["triweekly", 8.142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.024161735700197237], ["weekly", 0.024824570087799175], ["biweekly", 0.025253052674742038], ["triweekly", 0.0255153658316336]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.025454545454545455], ["weekly", 0.025681535261684894], ["biweekly", 0.025860763703550817], ["triweekly", 0.026089281535491594]]
+    },
+    "lat": "REPLACE_MEUlster,New York"
   }]
 }

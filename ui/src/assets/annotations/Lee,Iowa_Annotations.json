@@ -2884,14 +2884,29 @@
     "long": "REPLACE_MELee,Iowa",
     "date": "08/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.034305875383254324], ["biweekly", 0.03309176278549929], ["triweekly", 0.023792967769898338]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 8.064550358872491], ["biweekly", 7.0034253116524265], ["triweekly", 4.951916887026968]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 264.43236176724014], ["weekly", 239.3898106528466], ["biweekly", 213.07390948178903], ["triweekly", 195.81294204700927]],
+      "Spread Rate": [["daily", -0.01129955525393278], ["weekly", 0.034305875383254324], ["biweekly", 0.03309176278549929], ["triweekly", 0.023792967769898338]],
+      "Confirmed Daily Cases per 100k": [["daily", -2.971150132216181], ["weekly", 8.064550358872491], ["biweekly", 7.0034253116524265], ["triweekly", 4.951916887026968]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 261.4612116350239], ["weekly", 239.3898106528466], ["biweekly", 213.07390948178903], ["triweekly", 195.81294204700927]],
       "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.25], ["biweekly", 1.2142857142857142], ["triweekly", 0.8095238095238095]],
-      "Confirmed Cumulative Cases": [["daily", 89.0], ["weekly", 80.57142857142857], ["biweekly", 71.71428571428571], ["triweekly", 65.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.7142857142857144], ["biweekly", 2.357142857142857], ["triweekly", 1.6666666666666667]],
-      "Confirmed Fatality Rate": [["daily", 0.033707865168539325], ["weekly", 0.026551478526188912], ["biweekly", 0.029266690365753134], ["triweekly", 0.03179381776462151]],
+      "Confirmed Cumulative Cases": [["daily", 88.0], ["weekly", 80.57142857142857], ["biweekly", 71.71428571428571], ["triweekly", 65.9047619047619]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 2.7142857142857144], ["biweekly", 2.357142857142857], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.03409090909090909], ["weekly", 0.026551478526188912], ["biweekly", 0.029266690365753134], ["triweekly", 0.03179381776462151]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.041666666666666664], ["weekly", 0.03402271853184796], ["biweekly", 0.035435395547103114], ["triweekly", 0.03596927604374775]]
+    },
+    "lat": "REPLACE_MELee,Iowa"
+  }, {
+    "locale": "Lee,Iowa",
+    "long": "REPLACE_MELee,Iowa",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04445176257083361], ["weekly", 0.028667242208878792], ["biweekly", 0.032284651695932656], ["triweekly", 0.023254893710187255]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.884600528864723], ["weekly", 6.791200302208414], ["biweekly", 6.791200302208414], ["triweekly", 4.8104335473976265]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 273.34581216388864], ["weekly", 246.18101095505497], ["biweekly", 219.8651097839974], ["triweekly", 200.6233755944069]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 1.1547619047619047], ["biweekly", 1.2142857142857142], ["triweekly", 0.8095238095238095]],
+      "Confirmed Cumulative Cases": [["daily", 92.0], ["weekly", 82.85714285714286], ["biweekly", 74.0], ["triweekly", 67.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.2857142857142856], ["biweekly", 2.2857142857142856], ["triweekly", 1.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.03260869565217391], ["weekly", 0.027453354428064815], ["biweekly", 0.029150734892654795], ["triweekly", 0.031653525957663034]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.039473684210526314], ["weekly", 0.03487305866790238], ["biweekly", 0.03576608337779095], ["triweekly", 0.03618973459753964]]
     },
     "lat": "REPLACE_MELee,Iowa"
   }]

@@ -3074,18 +3074,34 @@
   }, {
     "epidemiccontrolThreshold": 15.8,
     "source": "NYGithub",
-    "confirmedPer100kN": 17.151898734177216,
-    "deaths": -1,
-    "confirmed": 542,
+    "confirmedPer100kN": 17.088607594936708,
+    "deaths": 2,
+    "confirmed": 540,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 17.151898734177216,
+    "confirmedPer100k": 17.088607594936708,
     "locale": "Iowa",
-    "activePer100k": 17.18354430379747,
+    "activePer100k": 17.025316455696203,
     "long": "REPLACE_MEIowa",
     "date": "08/01/2020",
-    "deathsPer100k": -0.03164556962025316,
+    "deathsPer100k": 0.06329113924050632,
     "lat": "REPLACE_MEIowa",
-    "active": 543
+    "active": 538
+  }, {
+    "epidemiccontrolThreshold": 15.8,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.60759493670886,
+    "deaths": 4,
+    "confirmed": 430,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.60759493670886,
+    "locale": "Iowa",
+    "activePer100k": 13.481012658227847,
+    "long": "REPLACE_MEIowa",
+    "date": "08/02/2020",
+    "deathsPer100k": 0.12658227848101264,
+    "lat": "REPLACE_MEIowa",
+    "active": 426
   }]
 }

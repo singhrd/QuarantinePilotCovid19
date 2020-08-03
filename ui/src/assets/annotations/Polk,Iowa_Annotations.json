@@ -2890,8 +2890,23 @@
       "Daily Growth Rate": [["daily", 1.4285714285714286], ["weekly", 1.7715754062581328], ["biweekly", 1.398654502093595], ["triweekly", 1.2928552740832078]],
       "Confirmed Cumulative Cases": [["daily", 9609.0], ["weekly", 9204.142857142857], ["biweekly", 8884.642857142857], ["triweekly", 8498.666666666666]],
       "Confirmed Daily Cases": [["daily", 130.0], ["weekly", 81.85714285714286], ["biweekly", 97.0], ["triweekly", 107.95238095238095]],
-      "Confirmed Fatality Rate": [["daily", 0.020813820376730147], ["weekly", 0.021154572701874035], ["biweekly", 0.021666262422256506], ["triweekly", 0.022487031806031805]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022259321090706732], ["weekly", 0.022737149532604833], ["biweekly", 0.023665536138911137], ["triweekly", 0.024927196457391467]]
+      "Confirmed Fatality Rate": [["daily", 0.02102195858049745], ["weekly", 0.021154572701874035], ["biweekly", 0.021666262422256506], ["triweekly", 0.022487031806031805]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022481914301613802], ["weekly", 0.022737149532604833], ["biweekly", 0.023665536138911137], ["triweekly", 0.024927196457391467]]
+    },
+    "lat": "REPLACE_MEPolk,Iowa"
+  }, {
+    "locale": "Polk,Iowa",
+    "long": "REPLACE_MEPolk,Iowa",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010353131092877277], ["weekly", 0.00959194843708693], ["biweekly", 0.010943892590494109], ["triweekly", 0.012865670935523625]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.401459928472484], ["weekly", 18.18644427909547], ["biweekly", 19.89142343026067], ["triweekly", 22.10158158917853]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1980.7777444553933], ["weekly", 1895.9659610384576], ["biweekly", 1832.4882757181533], ["triweekly", 1755.9536560436266]],
+      "Daily Growth Rate": [["daily", 0.7692307692307693], ["weekly", 1.8816094198635749], ["biweekly", 1.4274810327058398], ["triweekly", 1.333218085874591]],
+      "Confirmed Cumulative Cases": [["daily", 9709.0], ["weekly", 9293.285714285714], ["biweekly", 8982.142857142857], ["triweekly", 8607.0]],
+      "Confirmed Daily Cases": [["daily", 100.0], ["weekly", 89.14285714285714], ["biweekly", 97.5], ["triweekly", 108.33333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.020805438253167163], ["weekly", 0.021120902264570102], ["biweekly", 0.0215302763071392], ["triweekly", 0.022293380866697514]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02224669603524229], ["weekly", 0.022639085165489427], ["biweekly", 0.023430645409705044], ["triweekly", 0.02464853301329421]]
     },
     "lat": "REPLACE_MEPolk,Iowa"
   }]

@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0125], ["weekly", 0.01270547093500436], ["biweekly", 0.012795515129482201], ["triweekly", 0.014075939051276711]]
     },
     "lat": "REPLACE_MERichmond,Virginia"
+  }, {
+    "locale": "Richmond,Virginia",
+    "long": "REPLACE_MERichmond,Virginia",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.0031496089028966168], ["weekly", -0.0008956590019421538], ["biweekly", 0.0015898907572102136], ["triweekly", 0.0010599271714734758]],
+      "Confirmed Daily Cases per 100k": [["daily", -11.082788429568879], ["weekly", -3.1665109798768225], ["biweekly", 5.5413942147844395], ["triweekly", 3.694262809856293]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3513.2439321733345], ["weekly", 3514.827187663274], ["biweekly", 3509.285793448489], ["triweekly", 3486.3285888443816]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.6597718785520055], ["triweekly", 0.4673407889960811]],
+      "Confirmed Cumulative Cases": [["daily", 317.0], ["weekly", 317.14285714285717], ["biweekly", 316.64285714285717], ["triweekly", 314.57142857142856]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", -0.2857142857142857], ["biweekly", 0.5], ["triweekly", 0.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.012618296529968454], ["weekly", 0.012613195624761916], ["biweekly", 0.012633494970282771], ["triweekly", 0.013482608375273859]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012422360248447204], ["weekly", 0.012653794315803626], ["biweekly", 0.012769676819881837], ["triweekly", 0.013712404375661494]]
+    },
+    "lat": "REPLACE_MERichmond,Virginia"
   }]
 }

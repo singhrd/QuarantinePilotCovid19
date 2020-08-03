@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.001984126984126984], ["biweekly", 0.000992063492063492], ["triweekly", 0.0006613756613756613]]
     },
     "lat": "REPLACE_MELlano,Texas"
+  }, {
+    "locale": "Llano,Texas",
+    "long": "REPLACE_MELlano,Texas",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.00855687736872403], ["biweekly", 0.02937828774421122], ["triweekly", 0.044189846268445035]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.2772916461835933], ["biweekly", 9.504145773932422], ["triweekly", 11.361277706769792]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 394.5859142005047], ["weekly", 385.4094975911907], ["biweekly", 348.376101989316], ["triweekly", 311.1242202776958]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.2895278010977097], ["biweekly", 1.213923634150744], ["triweekly", 1.2558424477354129]],
+      "Confirmed Cumulative Cases": [["daily", 86.0], ["weekly", 84.0], ["biweekly", 75.92857142857143], ["triweekly", 67.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.7142857142857143], ["biweekly", 2.0714285714285716], ["triweekly", 2.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.011627906976744186], ["weekly", 0.0033222591362126247], ["biweekly", 0.0016611295681063123], ["triweekly", 0.0011074197120708748]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.003747795414462081], ["biweekly", 0.0018738977072310405], ["triweekly", 0.001249265138154027]]
+    },
+    "lat": "REPLACE_MELlano,Texas"
   }]
 }

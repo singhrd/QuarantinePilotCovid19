@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02099236641221374], ["weekly", 0.021975558132021393], ["biweekly", 0.023005059612169247], ["triweekly", 0.024990237247078363]]
     },
     "lat": "REPLACE_MEFairfield,Ohio"
+  }, {
+    "locale": "Fairfield,Ohio",
+    "long": "REPLACE_MEFairfield,Ohio",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008110344537453962], ["weekly", 0.02264332054658575], ["biweekly", 0.024290123789396594], ["triweekly", 0.02906438394245068]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.346224630967038], ["weekly", 16.318863336772385], ["biweekly", 16.04688228115951], ["triweekly", 16.95348579986909]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 785.6626093137193], ["weekly", 726.3707391901129], ["biweekly", 670.1159908541837], ["triweekly", 610.8392307892225]],
+      "Daily Growth Rate": [["daily", 0.8333333333333334], ["weekly", 1.4658377570142278], ["biweekly", 1.2697133102386162], ["triweekly", 1.267376596118391]],
+      "Confirmed Cumulative Cases": [["daily", 1238.0], ["weekly", 1144.5714285714287], ["biweekly", 1055.9285714285713], ["triweekly", 962.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 25.714285714285715], ["biweekly", 25.285714285714285], ["triweekly", 26.714285714285715]],
+      "Confirmed Fatality Rate": [["daily", 0.020193861066235864], ["weekly", 0.01861857780786465], ["biweekly", 0.018639440273505788], ["triweekly", 0.019772705759429434]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.023651844843897825], ["weekly", 0.022032329665900904], ["biweekly", 0.022683996043626364], ["triweekly", 0.024499037997918676]]
+    },
+    "lat": "REPLACE_MEFairfield,Ohio"
   }]
 }

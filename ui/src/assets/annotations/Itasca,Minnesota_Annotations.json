@@ -2894,5 +2894,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10344827586206896], ["weekly", 0.11593182760458622], ["biweekly", 0.13490301326404827], ["triweekly", 0.1511257715250293]]
     },
     "lat": "REPLACE_MEItasca,Minnesota"
+  }, {
+    "locale": "Itasca,Minnesota",
+    "long": "REPLACE_MEItasca,Minnesota",
+    "date": "08/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03149866705937043], ["weekly", 0.010674792313705288], ["biweekly", 0.01885468184531896], ["triweekly", 0.02693494572671362]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.86328384666519], ["weekly", 2.848912664999525], ["biweekly", 4.589914849165901], ["triweekly", 5.69782532999905]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 285.8409040549524], ["weekly", 270.6467031749549], ["biweekly", 253.7115001107911], ["triweekly", 229.81228830996176]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.9761904761904762], ["biweekly", 0.9298891243575728], ["triweekly", 0.9248477279976542]],
+      "Confirmed Cumulative Cases": [["daily", 129.0], ["weekly", 122.14285714285714], ["biweekly", 114.5], ["triweekly", 103.71428571428571]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 1.2857142857142858], ["biweekly", 2.0714285714285716], ["triweekly", 2.5714285714285716]],
+      "Confirmed Fatality Rate": [["daily", 0.09302325581395349], ["weekly", 0.09827650302870329], ["biweekly", 0.1055647564496497], ["triweekly", 0.11957199515488695]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10084033613445378], ["weekly", 0.11285300987059606], ["biweekly", 0.13021974121797872], ["triweekly", 0.1471233084708421]]
+    },
+    "lat": "REPLACE_MEItasca,Minnesota"
   }]
 }
