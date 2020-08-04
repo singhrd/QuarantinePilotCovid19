@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.041176470588235294], ["weekly", 0.04258630620075531], ["biweekly", 0.04447824850167883], ["triweekly", 0.0447127161751257]]
     },
     "lat": "REPLACE_MEClay,Mississippi"
+  }, {
+    "locale": "Clay,Mississippi",
+    "long": "REPLACE_MEClay,Mississippi",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005420067469338541], ["weekly", 0.011305331508389114], ["biweekly", 0.016035940773589274], ["triweekly", 0.016360120516487504]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.354110581901015], ["weekly", 20.708221163802026], ["biweekly", 27.36443510930983], ["triweekly", 26.378329339604967]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1915.5104576516878], ["weekly", 1852.6462148330031], ["biweekly", 1751.3238469958287], ["triweekly", 1649.0153733889497]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.2761904761904763], ["biweekly", 1.4547619047619047], ["triweekly", 1.5089569160997731]],
+      "Confirmed Cumulative Cases": [["daily", 370.0], ["weekly", 357.85714285714283], ["biweekly", 338.2857142857143], ["triweekly", 318.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.0], ["biweekly", 5.285714285714286], ["triweekly", 5.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.03513513513513514], ["weekly", 0.03751819368849613], ["biweekly", 0.03895304478274553], ["triweekly", 0.03979365850839214]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03768115942028986], ["weekly", 0.042151846702670366], ["biweekly", 0.044135352722677566], ["triweekly", 0.0445782623936131]]
+    },
+    "lat": "REPLACE_MEClay,Mississippi"
   }]
 }

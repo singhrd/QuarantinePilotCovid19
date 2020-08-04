@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MENome Census Area,Alaska"
+  }, {
+    "locale": "Nome Census Area,Alaska",
+    "long": "REPLACE_MENome Census Area,Alaska",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0036638067419678994], ["triweekly", 0.005017167412277444]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.7140001142400182], ["triweekly", 0.9520001523200243]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 199.9200319872051], ["weekly", 199.92003198720508], ["biweekly", 197.0640315302451], ["triweekly", 191.82803069248496]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Cumulative Cases": [["daily", 20.0], ["weekly", 20.0], ["biweekly", 19.714285714285715], ["triweekly", 19.19047619047619]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.07142857142857142], ["triweekly", 0.09523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MENome Census Area,Alaska"
   }]
 }

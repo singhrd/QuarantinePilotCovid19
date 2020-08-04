@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03333333333333333], ["weekly", 0.07079349222206366], ["biweekly", 0.08085129156557729], ["triweekly", 0.08550259264544977]]
     },
     "lat": "REPLACE_MELanglade,Wisconsin"
+  }, {
+    "locale": "Langlade,Wisconsin",
+    "long": "REPLACE_MELanglade,Wisconsin",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.020619287202735315], ["weekly", 0.06714337560653368], ["biweekly", 0.10523612415068004], ["triweekly", 0.07015741610045335]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.211318984835062], ["weekly", 13.400534532433015], ["biweekly", 13.772771602778375], ["triweekly", 9.181847735185583]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 255.35463025691803], ["weekly", 210.68618181547464], ["biweekly", 152.61719884159825], ["triweekly", 120.85296883879404]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.464285714285714], ["biweekly", 1.3302695319895153], ["triweekly", 0.8868463546596769]],
+      "Confirmed Cumulative Cases": [["daily", 49.0], ["weekly", 40.42857142857143], ["biweekly", 29.285714285714285], ["triweekly", 23.19047619047619]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.5714285714285716], ["biweekly", 2.642857142857143], ["triweekly", 1.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.025254726298909992], ["biweekly", 0.04391155514793271], ["triweekly", 0.059577400401652124]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.06256838399695543], ["biweekly", 0.07673873745302319], ["triweekly", 0.08276088990374704]]
+    },
+    "lat": "REPLACE_MELanglade,Wisconsin"
   }]
 }

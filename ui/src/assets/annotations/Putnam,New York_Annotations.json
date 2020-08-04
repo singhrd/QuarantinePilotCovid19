@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04344729344729345], ["weekly", 0.04371005143307738], ["biweekly", 0.04399207656140987], ["triweekly", 0.04443677337430072]]
     },
     "lat": "REPLACE_MEPutnam,New York"
+  }, {
+    "locale": "Putnam,New York",
+    "long": "REPLACE_MEPutnam,New York",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0034952849286424836], ["weekly", 0.002421365473396188], ["biweekly", 0.0018751393554347548], ["triweekly", 0.0022883400118125508]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.085435313262815], ["weekly", 3.487155643380216], ["biweekly", 2.6880158084389163], ["triweekly", 3.2449920570343687]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1457.485760781123], ["weekly", 1442.5200511449495], ["biweekly", 1431.9132860630011], ["triweekly", 1423.1953969545514]],
+      "Daily Growth Rate": [["daily", 1.6666666666666667], ["weekly", 1.4404761904761905], ["biweekly", 1.3571428571428572], ["triweekly", 1.3426325933197907]],
+      "Confirmed Cumulative Cases": [["daily", 1433.0], ["weekly", 1418.2857142857142], ["biweekly", 1407.857142857143], ["triweekly", 1399.2857142857142]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 3.4285714285714284], ["biweekly", 2.642857142857143], ["triweekly", 3.1904761904761907]],
+      "Confirmed Fatality Rate": [["daily", 0.04256803907885555], ["weekly", 0.04301057838894467], ["biweekly", 0.04333131137733459], ["triweekly", 0.04359954422498674]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04332386363636364], ["weekly", 0.04365204436572453], ["biweekly", 0.043894027143007774], ["triweekly", 0.0443314691272799]]
+    },
+    "lat": "REPLACE_MEPutnam,New York"
   }]
 }

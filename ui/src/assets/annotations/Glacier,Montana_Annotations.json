@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0196078431372549], ["weekly", 0.026623982926503937], ["biweekly", 0.017513672135520877], ["triweekly", 0.011675781423680583]]
     },
     "lat": "REPLACE_MEGlacier,Montana"
+  }, {
+    "locale": "Glacier,Montana",
+    "long": "REPLACE_MEGlacier,Montana",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03509131981126945], ["weekly", 0.013360865430117703], ["biweekly", 0.035642226151356295], ["triweekly", 0.033007008598092656]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.542281683996217], ["weekly", 5.193672029998649], ["biweekly", 11.426078465997028], ["triweekly", 9.69485445599748]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 421.7261688358903], ["weekly", 383.2929958139003], ["biweekly", 340.18551796491147], ["triweekly", 300.88673293792175]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.4824596207165631], ["triweekly", 0.32163974714437543]],
+      "Confirmed Cumulative Cases": [["daily", 58.0], ["weekly", 52.714285714285715], ["biweekly", 46.785714285714285], ["triweekly", 41.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.7142857142857143], ["biweekly", 1.5714285714285714], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.01898868723428736], ["biweekly", 0.01388276565262454], ["triweekly", 0.009255177101749692]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0196078431372549], ["weekly", 0.025223422702414296], ["biweekly", 0.01891423235961051], ["triweekly", 0.01260948823974034]]
+    },
+    "lat": "REPLACE_MEGlacier,Montana"
   }]
 }

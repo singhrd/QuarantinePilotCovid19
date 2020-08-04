@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.030405405405405407], ["weekly", 0.03383242127405982], ["biweekly", 0.03875134875909712], ["triweekly", 0.03893199691586938]]
     },
     "lat": "REPLACE_MEMercer,Pennsylvania"
+  }, {
+    "locale": "Mercer,Pennsylvania",
+    "long": "REPLACE_MEMercer,Pennsylvania",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02272825107755594], ["weekly", 0.023120432207202057], ["biweekly", 0.029270340660905805], ["triweekly", 0.03439541737387624]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.311010381634741], ["weekly", 6.788795354375117], ["biweekly", 7.637394773672007], ["triweekly", 7.789707489956064]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 325.339961982746], ["weekly", 293.6153990767238], ["biweekly", 273.44484364882084], ["triweekly", 245.04940154157876]],
+      "Daily Growth Rate": [["daily", 1.1428571428571428], ["weekly", 1.217032967032967], ["biweekly", 1.0946109212915935], ["triweekly", 1.172157884132674]],
+      "Confirmed Cumulative Cases": [["daily", 356.0], ["weekly", 321.2857142857143], ["biweekly", 299.2142857142857], ["triweekly", 268.14285714285717]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 7.428571428571429], ["biweekly", 8.357142857142858], ["triweekly", 8.523809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.025280898876404494], ["weekly", 0.02809585706841369], ["biweekly", 0.029785691309115413], ["triweekly", 0.03049408751383374]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03], ["weekly", 0.03261018790896931], ["biweekly", 0.03754192928044687], ["triweekly", 0.03852458579417254]]
+    },
+    "lat": "REPLACE_MEMercer,Pennsylvania"
   }]
 }

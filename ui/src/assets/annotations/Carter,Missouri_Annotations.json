@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1], ["weekly", 0.10833333333333332], ["biweekly", 0.11921768707482995], ["triweekly", 0.13163265306122449]]
     },
     "lat": "REPLACE_MECarter,Missouri"
+  }, {
+    "locale": "Carter,Missouri",
+    "long": "REPLACE_MECarter,Missouri",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.05129329438755059], ["weekly", 0.09902102579427785], ["biweekly", 0.06544933799101108], ["triweekly", 0.04999152973803227]],
+      "Confirmed Daily Cases per 100k": [["daily", -16.716817118020728], ["weekly", 23.88116731145819], ["biweekly", 14.32870038687491], ["triweekly", 10.348505834965213]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 317.6195252423939], ["weekly", 241.19978984572762], ["biweekly", 200.60180541624877], ["triweekly", 177.5166770151725]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.32142857142857145], ["biweekly", 0.23214285714285715], ["triweekly", 0.15476190476190477]],
+      "Confirmed Cumulative Cases": [["daily", 19.0], ["weekly", 14.428571428571429], ["biweekly", 12.0], ["triweekly", 10.619047619047619]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 1.4285714285714286], ["biweekly", 0.8571428571428571], ["triweekly", 0.6190476190476191]],
+      "Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.0756593865616422], ["biweekly", 0.09021064566177348], ["triweekly", 0.10265743724390344]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1], ["weekly", 0.10476190476190475], ["biweekly", 0.11615646258503405], ["triweekly", 0.12845804988662132]]
+    },
+    "lat": "REPLACE_MECarter,Missouri"
   }]
 }

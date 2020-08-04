@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.030876161197620797], ["weekly", 0.031229686147325218], ["biweekly", 0.03155779451605267], ["triweekly", 0.03213501873313825]]
     },
     "lat": "REPLACE_MEPima,Arizona"
+  }, {
+    "locale": "Pima,Arizona",
+    "long": "REPLACE_MEPima,Arizona",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005150328788005254], ["weekly", 0.015304283492051343], ["biweekly", 0.015271836986016498], ["triweekly", 0.01654340324589762]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.211756370556461], ["weekly", 23.080218901962674], ["biweekly", 21.866188475086386], ["triweekly", 22.225395979667766]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1598.523411621927], ["weekly", 1516.6241005773738], ["biweekly", 1438.7556433658763], ["triweekly", 1363.1651983036859]],
+      "Daily Growth Rate": [["daily", 0.4777777777777778], ["weekly", 1.0608953116255704], ["biweekly", 1.0879105279299395], ["triweekly", 1.1049914528709117]],
+      "Confirmed Cumulative Cases": [["daily", 16741.0], ["weekly", 15883.285714285714], ["biweekly", 15067.785714285714], ["triweekly", 14276.142857142857]],
+      "Confirmed Daily Cases": [["daily", 86.0], ["weekly", 241.71428571428572], ["biweekly", 229.0], ["triweekly", 232.76190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.027596917746849053], ["weekly", 0.027997172064868743], ["biweekly", 0.028102211242595238], ["triweekly", 0.02812778330608744]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.030577801310477198], ["weekly", 0.031200512357949507], ["biweekly", 0.03144440105985195], ["triweekly", 0.03198682874636483]]
+    },
+    "lat": "REPLACE_MEPima,Arizona"
   }]
 }

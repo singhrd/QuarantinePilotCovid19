@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06082289803220036], ["weekly", 0.06447485537506524], ["biweekly", 0.06789832861952726], ["triweekly", 0.07069012496900548]]
     },
     "lat": "REPLACE_MEPueblo,Colorado"
+  }, {
+    "locale": "Pueblo,Colorado",
+    "long": "REPLACE_MEPueblo,Colorado",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0032573318703059684], ["weekly", 0.013173637540158925], ["biweekly", 0.01702487730597424], ["triweekly", 0.016663778461528615]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.1874792191136656], ["weekly", 4.580276988009852], ["biweekly", 5.513296374456305], ["triweekly", 5.117469968085083]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 365.1498598774522], ["weekly", 349.96708986164174], ["biweekly", 334.3602201247193], ["triweekly", 315.2191860451966]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.845630559916274], ["biweekly", 2.8095263758797597], ["triweekly", 2.384958420860676]],
+      "Confirmed Cumulative Cases": [["daily", 615.0], ["weekly", 589.4285714285714], ["biweekly", 563.1428571428571], ["triweekly", 530.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 7.714285714285714], ["biweekly", 9.285714285714286], ["triweekly", 8.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.055284552845528454], ["weekly", 0.05773380362140956], ["biweekly", 0.05949391810890683], ["triweekly", 0.062447311060537705]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06039076376554174], ["weekly", 0.06340341489874249], ["biweekly", 0.06695181604510772], ["triweekly", 0.06995944981972568]]
+    },
+    "lat": "REPLACE_MEPueblo,Colorado"
   }]
 }

@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015384615384615385], ["weekly", 0.015498819733488132], ["biweekly", 0.015707319479347347], ["triweekly", 0.0159089367521694]]
     },
     "lat": "REPLACE_MEMadison,New York"
+  }, {
+    "locale": "Madison,New York",
+    "long": "REPLACE_MEMadison,New York",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0024968801985876254], ["weekly", 0.0036168297120413584], ["biweekly", 0.0031021112805240036], ["triweekly", 0.0032004166520690227]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.4096220803202661], ["weekly", 2.013745829028952], ["biweekly", 1.7116839546746088], ["triweekly", 1.7452463851584248]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 565.2584542084268], ["weekly", 557.203470892311], ["biweekly", 552.1691063197385], ["triweekly", 545.8593693887813]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.8095238095238095], ["biweekly", 0.8153009687409353], ["triweekly", 0.8488046268998121]],
+      "Confirmed Cumulative Cases": [["daily", 401.0], ["weekly", 395.2857142857143], ["biweekly", 391.7142857142857], ["triweekly", 387.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.4285714285714286], ["biweekly", 1.2142857142857142], ["triweekly", 1.2380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.014962593516209476], ["weekly", 0.015180220788604802], ["biweekly", 0.015319435906758463], ["triweekly", 0.015500278707954705]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015384615384615385], ["weekly", 0.015458651024912114], ["biweekly", 0.01566030766762965], ["triweekly", 0.015854445788587527]]
+    },
+    "lat": "REPLACE_MEMadison,New York"
   }]
 }

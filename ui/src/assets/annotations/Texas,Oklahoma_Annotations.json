@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0068762278978389], ["weekly", 0.006931734359229635], ["biweekly", 0.006943512721482652], ["triweekly", 0.00672643524445238]]
     },
     "lat": "REPLACE_METexas,Oklahoma"
+  }, {
+    "locale": "Texas,Oklahoma",
+    "long": "REPLACE_METexas,Oklahoma",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0009657171199588532], ["weekly", 0.0023659297984287724], ["biweekly", 0.0019589866414933305], ["triweekly", 0.0014006612002996697]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.004253615573237], ["weekly", 12.153187352106432], ["biweekly", 10.008507231146476], ["triweekly", 7.148933736533197]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5184.406745733873], ["weekly", 5150.091863798514], ["biweekly", 5105.768474632008], ["triweekly", 5083.13018446632]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.380952380952381], ["biweekly", 1.1547619047619047], ["triweekly", 0.865079365079365]],
+      "Confirmed Cumulative Cases": [["daily", 1036.0], ["weekly", 1029.142857142857], ["biweekly", 1020.2857142857143], ["triweekly", 1015.7619047619048]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.4285714285714284], ["biweekly", 2.0], ["triweekly", 1.4285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.006756756756756757], ["weekly", 0.0068018820918676615], ["biweekly", 0.006861443031416414], ["triweekly", 0.00670282083918911]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0068359375], ["weekly", 0.006921003970965169], ["biweekly", 0.0069371594192316295], ["triweekly", 0.006766146283753872]]
+    },
+    "lat": "REPLACE_METexas,Oklahoma"
   }]
 }

@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07062146892655367], ["weekly", 0.07161141145277239], ["biweekly", 0.07179960823193288], ["triweekly", 0.07208651652689746]]
     },
     "lat": "REPLACE_MECamden,New Jersey"
+  }, {
+    "locale": "Camden,New Jersey",
+    "long": "REPLACE_MECamden,New Jersey",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0021375141733113168], ["weekly", 0.0046604868228093165], ["biweekly", 0.0046212169589608465], ["triweekly", 0.00394004323172268]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.5540040792069045], ["weekly", 7.6157230268719385], ["biweekly", 7.4323815465953915], ["triweekly", 6.2806209653709315]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1664.4585770952335], ["weekly", 1639.8908187381764], ["biweekly", 1609.1881723872498], ["triweekly", 1588.4517808616133]],
+      "Daily Growth Rate": [["daily", 0.782608695652174], ["weekly", 1.242313053783205], ["biweekly", 1.287867695388485], ["triweekly", 1.336492524839718]],
+      "Confirmed Cumulative Cases": [["daily", 8430.0], ["weekly", 8305.57142857143], ["biweekly", 8150.071428571428], ["triweekly", 8045.047619047619]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 38.57142857142857], ["biweekly", 37.642857142857146], ["triweekly", 31.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.06820877817319099], ["weekly", 0.06876934323576239], ["biweekly", 0.06963412082015831], ["triweekly", 0.07005903994359423]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07025045815516189], ["weekly", 0.07144564068523684], ["biweekly", 0.07168793334416015], ["triweekly", 0.07199658837295417]]
+    },
+    "lat": "REPLACE_MECamden,New Jersey"
   }]
 }

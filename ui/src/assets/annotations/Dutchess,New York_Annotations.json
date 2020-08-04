@@ -2909,5 +2909,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03661016949152542], ["weekly", 0.03689162722759166], ["biweekly", 0.0370911362764722], ["triweekly", 0.03728912883618574]]
     },
     "lat": "REPLACE_MEDutchess,New York"
+  }, {
+    "locale": "Dutchess,New York",
+    "long": "REPLACE_MEDutchess,New York",
+    "date": "08/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005075592933126316], ["weekly", 0.0030345307691779866], ["biweekly", 0.0023126377660328706], ["triweekly", 0.0026425714610162237]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.817332726073864], ["weekly", 4.6127118570001056], ["biweekly", 3.4959500389895544], ["triweekly", 3.9491287477474604]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1544.0931554153722], ["weekly", 1520.8353766837613], ["biweekly", 1507.871228622508], ["triweekly", 1497.3348236438867]],
+      "Daily Growth Rate": [["daily", 1.4375], ["weekly", 1.1747918747918749], ["biweekly", 1.2393407953178461], ["triweekly", 1.4876903786424978]],
+      "Confirmed Cumulative Cases": [["daily", 4543.0], ["weekly", 4474.571428571428], ["biweekly", 4436.428571428572], ["triweekly", 4405.428571428572]],
+      "Confirmed Daily Cases": [["daily", 23.0], ["weekly", 13.571428571428571], ["biweekly", 10.285714285714286], ["triweekly", 11.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.03565925599823905], ["weekly", 0.03620603662591569], ["biweekly", 0.03647063791959084], ["triweekly", 0.03662620534431147]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03648648648648649], ["weekly", 0.03683306434220759], ["biweekly", 0.037016719009763714], ["triweekly", 0.03723679557190219]]
+    },
+    "lat": "REPLACE_MEDutchess,New York"
   }]
 }
