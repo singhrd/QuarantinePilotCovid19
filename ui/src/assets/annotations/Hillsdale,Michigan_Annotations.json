@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10869565217391304], ["weekly", 0.11264169232378549], ["biweekly", 0.11482333225963778], ["triweekly", 0.11743012992964055]]
     },
     "lat": "REPLACE_MEHillsdale,Michigan"
+  }, {
+    "locale": "Hillsdale,Michigan",
+    "long": "REPLACE_MEHillsdale,Michigan",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007936549595736864], ["weekly", 0.012481947172655414], ["biweekly", 0.010068419738763903], ["triweekly", 0.008948326639545982]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.385484047801776], ["weekly", 6.578226071702664], ["biweekly", 5.16860619919495], ["triweekly", 4.4899003346542]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 554.7637320469247], ["weekly", 536.2820492740458], ["biweekly", 513.4148824533651], ["triweekly", 499.5275163019927]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 1.226190476190476], ["biweekly", 1.2641104925504594], ["triweekly", 1.162126365566332]],
+      "Confirmed Cumulative Cases": [["daily", 253.0], ["weekly", 244.57142857142858], ["biweekly", 234.14285714285714], ["triweekly", 227.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.0], ["biweekly", 2.357142857142857], ["triweekly", 2.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.09881422924901186], ["weekly", 0.10229840820013988], ["biweekly", 0.10704267548277295], ["triweekly", 0.11010089778654826]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10775862068965517], ["weekly", 0.11178694276540609], ["biweekly", 0.11400214257975246], ["triweekly", 0.11668334624969659]]
+    },
+    "lat": "REPLACE_MEHillsdale,Michigan"
   }]
 }

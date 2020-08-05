@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MELamar,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.020531626218610377], ["biweekly", 0.022101575649156237], ["triweekly", 0.02183131610707978]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 23.781349118800733], ["biweekly", 23.638087979530855], ["triweekly", 21.775693169022357]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1243.5066888625925], ["weekly", 1164.999584542696], ["biweekly", 1082.6244294625128], ["triweekly", 1005.5021828222253]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.5726445952916894], ["biweekly", 0.7541073893261372], ["triweekly", 0.7510634440527069]],
-      "Confirmed Cumulative Cases": [["daily", 620.0], ["weekly", 580.8571428571429], ["biweekly", 539.7857142857143], ["triweekly", 501.3333333333333]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 11.857142857142858], ["biweekly", 11.785714285714286], ["triweekly", 10.857142857142858]],
-      "Confirmed Fatality Rate": [["daily", 0.025806451612903226], ["weekly", 0.027094591121386763], ["biweekly", 0.02863303094628009], ["triweekly", 0.030318371103434636]],
+      "Spread Rate": [["daily", 0.008032171697263557], ["weekly", 0.020531626218610377], ["biweekly", 0.022101575649156237], ["triweekly", 0.02183131610707978]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.028279748891876], ["weekly", 23.781349118800733], ["biweekly", 23.638087979530855], ["triweekly", 21.775693169022357]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1253.5349686114844], ["weekly", 1164.999584542696], ["biweekly", 1082.6244294625128], ["triweekly", 1005.5021828222253]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 0.5726445952916894], ["biweekly", 0.7541073893261372], ["triweekly", 0.7510634440527069]],
+      "Confirmed Cumulative Cases": [["daily", 625.0], ["weekly", 580.8571428571429], ["biweekly", 539.7857142857143], ["triweekly", 501.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 11.857142857142858], ["biweekly", 11.785714285714286], ["triweekly", 10.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.0256], ["weekly", 0.027094591121386763], ["biweekly", 0.02863303094628009], ["triweekly", 0.030318371103434636]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0297951582867784], ["weekly", 0.03157173112607879], ["biweekly", 0.033497173384105856], ["triweekly", 0.035920078490830995]]
     },
     "lat": "REPLACE_MELamar,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MELamar,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.008032171697263557], ["weekly", 0.020531626218610377], ["biweekly", 0.02054871946084155], ["triweekly", 0.021227771302473657]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.028279748891876], ["weekly", 23.781349118800733], ["biweekly", 22.205476586832013], ["triweekly", 21.298156038122745]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1253.5349686114844], ["weekly", 1188.7809336614969], ["biweekly", 1104.8299060493448], ["triweekly", 1026.800338860348]],
-      "Daily Growth Rate": [["daily", 0.5773502691896257], ["weekly", 0.5726445952916894], ["biweekly", 0.7169734432611347], ["triweekly", 0.735190428179691]],
-      "Confirmed Cumulative Cases": [["daily", 625.0], ["weekly", 592.7142857142857], ["biweekly", 550.8571428571429], ["triweekly", 511.95238095238096]],
-      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 11.857142857142858], ["biweekly", 11.071428571428571], ["triweekly", 10.619047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.0256], ["weekly", 0.026790804081250834], ["biweekly", 0.02817220145319253], ["triweekly", 0.029867988626563167]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.021679079318219458], ["biweekly", 0.021122446010646088], ["triweekly", 0.02161025566901002]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 25.21396051149957], ["biweekly", 22.921782283181432], ["triweekly", 21.775693169022354]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1253.5349686114844], ["weekly", 1190.2135450541957], ["biweekly", 1105.5462117456943], ["triweekly", 1027.2778759912476]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.620263642910737], ["biweekly", 0.7407829670706585], ["triweekly", 0.751063444052707]],
+      "Confirmed Cumulative Cases": [["daily", 625.0], ["weekly", 593.4285714285714], ["biweekly", 551.2142857142857], ["triweekly", 512.1904761904761]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 12.571428571428571], ["biweekly", 11.428571428571429], ["triweekly", 10.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.0256], ["weekly", 0.02676131099369323], ["biweekly", 0.02815745490941373], ["triweekly", 0.0298581575973773]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0297951582867784], ["weekly", 0.031219887379028703], ["biweekly", 0.03292658645352849], ["triweekly", 0.03528761350082411]]
+    },
+    "lat": "REPLACE_MELamar,Texas"
+  }, {
+    "locale": "Lamar,Texas",
+    "long": "REPLACE_MELamar,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02371652661731627], ["weekly", 0.021679079318219458], ["biweekly", 0.0203584967880212], ["triweekly", 0.02007592809704987]],
+      "Confirmed Daily Cases per 100k": [["daily", 30.084839246675628], ["weekly", 25.21396051149957], ["biweekly", 22.20547658683201], ["triweekly", 20.534096628683365]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1283.6198078581601], ["weekly", 1215.4275055656951], ["biweekly", 1127.7516883325263], ["triweekly", 1047.811972619931]],
+      "Daily Growth Rate": [["daily", 1.7320508075688772], ["weekly", 0.620263642910737], ["biweekly", 0.7050686813563728], ["triweekly", 0.6272539202431832]],
+      "Confirmed Cumulative Cases": [["daily", 640.0], ["weekly", 606.0], ["biweekly", 562.2857142857143], ["triweekly", 522.4285714285714]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 12.571428571428571], ["biweekly", 11.071428571428571], ["triweekly", 10.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.025], ["weekly", 0.026428030865999697], ["biweekly", 0.027706391079626497], ["triweekly", 0.02945118895626232]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028070175438596492], ["weekly", 0.030917068046136864], ["biweekly", 0.03244157162732277], ["triweekly", 0.03469839843358521]]
     },
     "lat": "REPLACE_MELamar,Texas"
   }]

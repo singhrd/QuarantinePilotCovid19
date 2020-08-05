@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEAransas,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.031179080860002602], ["biweekly", 0.041984761778722755], ["triweekly", 0.053257853141156636]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 18.229324907334266], ["biweekly", 20.659901561645494], ["triweekly", 20.86244961617144]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 650.7868991918333], ["weekly", 597.314212796986], ["biweekly", 527.4351339855381], ["triweekly", 447.6312005023192]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.3504186289900573], ["biweekly", 2.6602433281004707], ["triweekly", 2.437911487503478]],
-      "Confirmed Cumulative Cases": [["daily", 153.0], ["weekly", 140.42857142857142], ["biweekly", 124.0], ["triweekly", 105.23809523809524]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.285714285714286], ["biweekly", 4.857142857142857], ["triweekly", 4.904761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.0784313725490196], ["weekly", 0.05836892116911886], ["biweekly", 0.02918446058455943], ["triweekly", 0.019456307056372954]],
+      "Spread Rate": [["daily", 0.025807883955872413], ["weekly", 0.031179080860002602], ["biweekly", 0.041984761778722755], ["triweekly", 0.053257853141156636]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.014036580178647], ["weekly", 18.229324907334266], ["biweekly", 20.659901561645494], ["triweekly", 20.86244961617144]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 667.8009357720119], ["weekly", 597.314212796986], ["biweekly", 527.4351339855381], ["triweekly", 447.6312005023192]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 2.3504186289900573], ["biweekly", 2.6602433281004707], ["triweekly", 2.437911487503478]],
+      "Confirmed Cumulative Cases": [["daily", 157.0], ["weekly", 140.42857142857142], ["biweekly", 124.0], ["triweekly", 105.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 4.285714285714286], ["biweekly", 4.857142857142857], ["triweekly", 4.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.07643312101910828], ["weekly", 0.05836892116911886], ["biweekly", 0.02918446058455943], ["triweekly", 0.019456307056372954]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09523809523809523], ["weekly", 0.07537394665857948], ["biweekly", 0.03768697332928974], ["triweekly", 0.025124648886193163]]
     },
     "lat": "REPLACE_MEAransas,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEAransas,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.03215711163453161], ["weekly", 0.02773657349156533], ["biweekly", 0.03711274391968468], ["triweekly", 0.04871927315047448]],
-      "Confirmed Daily Cases per 100k": [["daily", 21.267545725223307], ["weekly", 16.406392416600834], ["biweekly", 18.83696907091207], ["triweekly", 19.849709343541758]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 672.0544449170566], ["weekly", 613.7206052135869], ["biweekly", 546.2721030564501], ["triweekly", 467.480909845861]],
-      "Daily Growth Rate": [["daily", 1.077217345015942], ["weekly", 2.2891941391941395], ["biweekly", 2.5531004709576135], ["triweekly", 2.3314320600034883]],
-      "Confirmed Cumulative Cases": [["daily", 158.0], ["weekly", 144.28571428571428], ["biweekly", 128.42857142857142], ["triweekly", 109.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 3.857142857142857], ["biweekly", 4.428571428571429], ["triweekly", 4.666666666666667]],
-      "Confirmed Fatality Rate": [["daily", 0.0759493670886076], ["weekly", 0.06957340296183595], ["biweekly", 0.034786701480917975], ["triweekly", 0.023191134320611984]],
+      "Spread Rate": [["daily", 0.006349227678659197], ["weekly", 0.03142341405668996], ["biweekly", 0.038956164202247], ["triweekly", 0.04994822000551603]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.253509145044662], ["weekly", 18.83696907091207], ["biweekly", 20.052257398067688], ["triweekly", 20.6599015616455]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 672.0544449170566], ["weekly", 616.1511818678981], ["biweekly", 547.4873913836058], ["triweekly", 468.2911020639647]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 2.4320512820512823], ["biweekly", 2.624529042386185], ["triweekly", 2.3790511076225362]],
+      "Confirmed Cumulative Cases": [["daily", 158.0], ["weekly", 144.85714285714286], ["biweekly", 128.71428571428572], ["triweekly", 110.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.428571428571429], ["biweekly", 4.714285714285714], ["triweekly", 4.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.0759493670886076], ["weekly", 0.0692879384575629], ["biweekly", 0.03464396922878145], ["triweekly", 0.0230959794858543]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0916030534351145], ["weekly", 0.08897938883545023], ["biweekly", 0.044489694417725115], ["triweekly", 0.029659796278483412]]
+    },
+    "lat": "REPLACE_MEAransas,Texas"
+  }, {
+    "locale": "Aransas,Texas",
+    "long": "REPLACE_MEAransas,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.02677110140368796], ["biweekly", 0.03862903256985189], ["triweekly", 0.04939254010913415]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 16.406392416600834], ["biweekly", 20.05225739806769], ["triweekly", 20.6599015616455]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 672.0544449170566], ["weekly", 632.5575742844991], ["biweekly", 567.5396487816735], ["triweekly", 488.9510036256101]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.2296703296703297], ["biweekly", 2.630481423338566], ["triweekly", 2.381432060003488]],
+      "Confirmed Cumulative Cases": [["daily", 158.0], ["weekly", 148.71428571428572], ["biweekly", 133.42857142857142], ["triweekly", 114.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.857142857142857], ["biweekly", 4.714285714285714], ["triweekly", 4.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.0759493670886076], ["weekly", 0.07359477279628437], ["biweekly", 0.04006892402082485], ["triweekly", 0.026712616013883233]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08888888888888889], ["weekly", 0.09274876913984549], ["biweekly", 0.05103276966309044], ["triweekly", 0.03402184644206029]]
     },
     "lat": "REPLACE_MEAransas,Texas"
   }]

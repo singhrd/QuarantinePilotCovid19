@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010089020771513354], ["weekly", 0.009958455012739915], ["biweekly", 0.010202399878635873], ["triweekly", 0.010498424624271915]]
     },
     "lat": "REPLACE_MEPlacer,California"
+  }, {
+    "locale": "Placer,California",
+    "long": "REPLACE_MEPlacer,California",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007710138425967017], ["weekly", 0.019984421380607107], ["biweekly", 0.023074550882017913], ["triweekly", 0.026366636760165818]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.7657313426840626], ["weekly", 9.073619330467311], ["biweekly", 9.593648896837971], ["triweekly", 9.8506750043545]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 490.29822081746494], ["weekly", 466.8072300607215], ["biweekly", 429.7416744163026], ["triweekly", 391.7197425578687]],
+      "Daily Growth Rate": [["daily", 1.1538461538461537], ["weekly", 0.9945854467913291], ["biweekly", 1.0191277062825759], ["triweekly", 1.074844350693581]],
+      "Confirmed Cumulative Cases": [["daily", 1953.0], ["weekly", 1859.4285714285713], ["biweekly", 1711.7857142857142], ["triweekly", 1560.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 36.142857142857146], ["biweekly", 38.214285714285715], ["triweekly", 39.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.009216589861751152], ["weekly", 0.00829912877759022], ["biweekly", 0.00839136372202164], ["triweekly", 0.008524623438034352]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01026811180832858], ["weekly", 0.009872404319575598], ["biweekly", 0.01021773516585477], ["triweekly", 0.010403871172954613]]
+    },
+    "lat": "REPLACE_MEPlacer,California"
   }]
 }

@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEGrayson,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.01293506141038365], ["biweekly", 0.012470737564087056], ["triweekly", 0.015158540987780864]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 9.124432082761746], ["biweekly", 8.442721639796787], ["triweekly", 9.578905711405051]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 737.8204563474584], ["weekly", 703.9446912585843], ["biweekly", 675.5226097134299], ["triweekly", 641.4021280552864]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1710268164761664], ["biweekly", 1.7966227237591637], ["triweekly", 1.5826363047776926]],
-      "Confirmed Cumulative Cases": [["daily", 1005.0], ["weekly", 958.8571428571429], ["biweekly", 920.1428571428571], ["triweekly", 873.6666666666666]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 12.428571428571429], ["biweekly", 11.5], ["triweekly", 13.047619047619047]],
-      "Confirmed Fatality Rate": [["daily", 0.010945273631840797], ["weekly", 0.010563213990757101], ["biweekly", 0.009824101034258858], ["triweekly", 0.009601597323601283]],
+      "Spread Rate": [["daily", 0.009901070982711424], ["weekly", 0.01293506141038365], ["biweekly", 0.012470737564087056], ["triweekly", 0.015158540987780864]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.341497078084163], ["weekly", 9.124432082761746], ["biweekly", 8.442721639796787], ["triweekly", 9.578905711405051]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 745.1619534255425], ["weekly", 703.9446912585843], ["biweekly", 675.5226097134299], ["triweekly", 641.4021280552864]],
+      "Daily Growth Rate": [["daily", 0.5555555555555556], ["weekly", 1.1710268164761664], ["biweekly", 1.7966227237591637], ["triweekly", 1.5826363047776926]],
+      "Confirmed Cumulative Cases": [["daily", 1015.0], ["weekly", 958.8571428571429], ["biweekly", 920.1428571428571], ["triweekly", 873.6666666666666]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 12.428571428571429], ["biweekly", 11.5], ["triweekly", 13.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.01083743842364532], ["weekly", 0.010563213990757101], ["biweekly", 0.009824101034258858], ["triweekly", 0.009601597323601283]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011917659804983749], ["weekly", 0.01149013737915283], ["biweekly", 0.010880684623680923], ["triweekly", 0.010777439840473283]]
     },
     "lat": "REPLACE_MEGrayson,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEGrayson,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.019705071079332726], ["weekly", 0.012159083712903498], ["biweekly", 0.012133013192948081], ["triweekly", 0.01483393817925236]],
-      "Confirmed Daily Cases per 100k": [["daily", 14.682994156168325], ["weekly", 8.600039434327163], ["biweekly", 8.232964580422953], ["triweekly", 9.404108161926857]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 752.5034505036267], ["weekly", 712.5447306929116], ["biweekly", 683.7555742938529], ["triweekly", 650.8062362172134]],
-      "Daily Growth Rate": [["daily", 1.0540925533894598], ["weekly", 0.9329315783809283], ["biweekly", 1.7823370094734494], ["triweekly", 1.5722843379039866]],
-      "Confirmed Cumulative Cases": [["daily", 1025.0], ["weekly", 970.5714285714286], ["biweekly", 931.3571428571429], ["triweekly", 886.4761904761905]],
-      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 11.714285714285714], ["biweekly", 11.214285714285714], ["triweekly", 12.80952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.010731707317073172], ["weekly", 0.010888626088294492], ["biweekly", 0.009932051846236705], ["triweekly", 0.009669902279154778]],
+      "Spread Rate": [["daily", 0.009804000096621301], ["weekly", 0.013573522424719415], ["biweekly", 0.012840232548856039], ["triweekly", 0.015305417749857667]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.341497078084163], ["weekly", 9.64882473119633], ["biweekly", 8.757357228857536], ["triweekly", 9.753703260883245]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 752.5034505036267], ["weekly", 713.5935159897807], ["biweekly", 684.2799669422874], ["triweekly", 651.1558313161697]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.0122966577460077], ["biweekly", 1.8220195491559892], ["triweekly", 1.598739364359013]],
+      "Confirmed Cumulative Cases": [["daily", 1025.0], ["weekly", 972.0], ["biweekly", 932.0714285714286], ["triweekly", 886.952380952381]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 13.142857142857142], ["biweekly", 11.928571428571429], ["triweekly", 13.285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.010731707317073172], ["weekly", 0.01087322105855228], ["biweekly", 0.009924349331365599], ["triweekly", 0.009664767269240707]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011917659804983749], ["weekly", 0.011844951313557516], ["biweekly", 0.010955548522794668], ["triweekly", 0.010818354506579858]]
+    },
+    "lat": "REPLACE_MEGrayson,Texas"
+  }, {
+    "locale": "Grayson,Texas",
+    "long": "REPLACE_MEGrayson,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009708814126960341], ["weekly", 0.014974093867093887], ["biweekly", 0.013456336090082946], ["triweekly", 0.015321516516892847]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.341497078084163], ["weekly", 10.697610028065496], ["biweekly", 9.22931061244866], ["triweekly", 9.858581790570161]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 759.8449475817108], ["weekly", 724.2911260178462], ["biweekly", 693.5092775547362], ["triweekly", 661.0144131067399]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.1551538006031505], ["biweekly", 1.8755909777274178], ["triweekly", 1.5796917453113941]],
+      "Confirmed Cumulative Cases": [["daily", 1035.0], ["weekly", 986.5714285714286], ["biweekly", 944.6428571428571], ["triweekly", 900.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 14.571428571428571], ["biweekly", 12.571428571428571], ["triweekly", 13.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.010628019323671498], ["weekly", 0.01085857407722718], ["biweekly", 0.01001783911028156], ["triweekly", 0.009727169277609957]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011714589989350373], ["weekly", 0.011864822283510604], ["biweekly", 0.011037727068757264], ["triweekly", 0.010859269172686434]]
     },
     "lat": "REPLACE_MEGrayson,Texas"
   }]

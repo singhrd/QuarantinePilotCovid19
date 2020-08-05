@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEBosque,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.02765496415323795], ["biweekly", 0.057354431897653706], ["triweekly", 0.05308293669514255]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 16.820214840016824], ["biweekly", 26.377155090026378], ["triweekly", 21.40754616002141]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 668.985817500669], ["weekly", 598.6467372605986], ["biweekly", 525.6317137505257], ["triweekly", 432.9931062604329]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.610240187553478], ["biweekly", 2.1021169030287425], ["triweekly", 1.6315699988445584]],
-      "Confirmed Cumulative Cases": [["daily", 125.0], ["weekly", 111.85714285714286], ["biweekly", 98.21428571428571], ["triweekly", 80.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.142857142857143], ["biweekly", 4.928571428571429], ["triweekly", 4.0]],
-      "Confirmed Fatality Rate": [["daily", 0.016], ["weekly", 0.013804477553941681], ["biweekly", 0.006902238776970841], ["triweekly", 0.004601492517980561]],
+      "Spread Rate": [["daily", 0.02371652661731538], ["weekly", 0.02765496415323795], ["biweekly", 0.057354431897653706], ["triweekly", 0.05308293669514255]],
+      "Confirmed Daily Cases per 100k": [["daily", 16.05565962001606], ["weekly", 16.820214840016824], ["biweekly", 26.377155090026378], ["triweekly", 21.40754616002141]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 685.041477120685], ["weekly", 598.6467372605986], ["biweekly", 525.6317137505257], ["triweekly", 432.9931062604329]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.610240187553478], ["biweekly", 2.1021169030287425], ["triweekly", 1.6315699988445584]],
+      "Confirmed Cumulative Cases": [["daily", 128.0], ["weekly", 111.85714285714286], ["biweekly", 98.21428571428571], ["triweekly", 80.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.142857142857143], ["biweekly", 4.928571428571429], ["triweekly", 4.0]],
+      "Confirmed Fatality Rate": [["daily", 0.015625], ["weekly", 0.013804477553941681], ["biweekly", 0.006902238776970841], ["triweekly", 0.004601492517980561]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019417475728155338], ["weekly", 0.017864135569946035], ["biweekly", 0.008932067784973017], ["triweekly", 0.005954711856648678]]
     },
     "lat": "REPLACE_MEBosque,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEBosque,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02371652661731538], ["weekly", 0.02765496415323795], ["biweekly", 0.04781647528161643], ["triweekly", 0.05308293669514255]],
-      "Confirmed Daily Cases per 100k": [["daily", 16.05565962001606], ["weekly", 16.820214840016824], ["biweekly", 23.31893421002332], ["triweekly", 21.40754616002141]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 685.041477120685], ["weekly", 615.4669521006155], ["biweekly", 548.950647960549], ["triweekly", 454.4006524204543]],
-      "Daily Growth Rate": [["daily", 0.8660254037844386], ["weekly", 1.610240187553478], ["biweekly", 2.0382292465287484], ["triweekly", 1.6315699988445584]],
-      "Confirmed Cumulative Cases": [["daily", 128.0], ["weekly", 115.0], ["biweekly", 102.57142857142857], ["triweekly", 84.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.142857142857143], ["biweekly", 4.357142857142857], ["triweekly", 4.0]],
-      "Confirmed Fatality Rate": [["daily", 0.015625], ["weekly", 0.016090191839655966], ["biweekly", 0.008045095919827983], ["triweekly", 0.005363397279885322]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.031043039384283006], ["biweekly", 0.04951051289713896], ["triweekly", 0.0542122951054909]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 19.113880500019118], ["biweekly", 24.465767040024467], ["triweekly", 22.172101380022177]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 685.041477120685], ["weekly", 617.7606177606177], ["biweekly", 550.0974807905501], ["triweekly", 455.1652076404551]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.7173830446963352], ["biweekly", 2.091800675100177], ["triweekly", 1.6672842845588443]],
+      "Confirmed Cumulative Cases": [["daily", 128.0], ["weekly", 115.42857142857143], ["biweekly", 102.78571428571429], ["triweekly", 85.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.5714285714285716], ["biweekly", 4.571428571428571], ["triweekly", 4.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.015625], ["weekly", 0.01603662041108454], ["biweekly", 0.00801831020554227], ["triweekly", 0.00534554013702818]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019417475728155338], ["weekly", 0.020638060673968225], ["biweekly", 0.010319030336984112], ["triweekly", 0.006879353557989408]]
+    },
+    "lat": "REPLACE_MEBosque,Texas"
+  }, {
+    "locale": "Bosque,Texas",
+    "long": "REPLACE_MEBosque,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.053244514518812736], ["weekly", 0.031043039384283006], ["biweekly", 0.0381815821702362], ["triweekly", 0.0542122951054909]],
+      "Confirmed Daily Cases per 100k": [["daily", 37.46320578003746], ["weekly", 19.113880500019118], ["biweekly", 20.260713330020263], ["triweekly", 22.172101380022177]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 722.5046829007225], ["weekly", 636.8744982606369], ["biweekly", 570.3581941205704], ["triweekly", 477.33730902047733]],
+      "Daily Growth Rate": [["daily", 1.5275252316519468], ["weekly", 1.7173830446963352], ["biweekly", 1.9935863893858916], ["triweekly", 1.6672842845588443]],
+      "Confirmed Cumulative Cases": [["daily", 135.0], ["weekly", 119.0], ["biweekly", 106.57142857142857], ["triweekly", 89.19047619047619]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 3.5714285714285716], ["biweekly", 3.7857142857142856], ["triweekly", 4.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.014814814814814815], ["weekly", 0.0168818007162163], ["biweekly", 0.0091343816341137], ["triweekly", 0.0060895877560758]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018518518518518517], ["weekly", 0.021507223873228513], ["biweekly", 0.011705992888995207], ["triweekly", 0.007803995259330138]]
     },
     "lat": "REPLACE_MEBosque,Texas"
   }]

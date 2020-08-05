@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEBrooks,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.03832342665638284], ["biweekly", 0.031094147946988965], ["triweekly", 0.03960634970695678]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 40.281162514350164], ["biweekly", 30.210871885762618], ["triweekly", 32.224930011480126]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1198.3645848019173], ["weekly", 1131.9006666532393], ["biweekly", 973.7971037844151], ["triweekly", 870.0731103099636]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2136672850958568], ["biweekly", 1.2854050711193568], ["triweekly", 1.118841475984333]],
-      "Confirmed Cumulative Cases": [["daily", 85.0], ["weekly", 80.28571428571429], ["biweekly", 69.07142857142857], ["triweekly", 61.714285714285715]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.857142857142857], ["biweekly", 2.142857142857143], ["triweekly", 2.2857142857142856]],
-      "Confirmed Fatality Rate": [["daily", 0.011764705882352941], ["weekly", 0.01247404033877384], ["biweekly", 0.007335921268288019], ["triweekly", 0.004890614178858679]],
+      "Spread Rate": [["daily", 0.011696039763190669], ["weekly", 0.03832342665638284], ["biweekly", 0.031094147946988965], ["triweekly", 0.03960634970695678]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.098406880022557], ["weekly", 40.281162514350164], ["biweekly", 30.210871885762618], ["triweekly", 32.224930011480126]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1212.46299168194], ["weekly", 1131.9006666532393], ["biweekly", 973.7971037844151], ["triweekly", 870.0731103099636]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.2136672850958568], ["biweekly", 1.2854050711193568], ["triweekly", 1.118841475984333]],
+      "Confirmed Cumulative Cases": [["daily", 86.0], ["weekly", 80.28571428571429], ["biweekly", 69.07142857142857], ["triweekly", 61.714285714285715]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.857142857142857], ["biweekly", 2.142857142857143], ["triweekly", 2.2857142857142856]],
+      "Confirmed Fatality Rate": [["daily", 0.011627906976744186], ["weekly", 0.01247404033877384], ["biweekly", 0.007335921268288019], ["triweekly", 0.004890614178858679]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013157894736842105], ["weekly", 0.017326448937804915], ["biweekly", 0.009961925767603755], ["triweekly", 0.00664128384506917]]
     },
     "lat": "REPLACE_MEBrooks,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEBrooks,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.023256862164267034], ["weekly", 0.015988273743426516], ["biweekly", 0.029807111839654787], ["triweekly", 0.034718056656476606]],
-      "Confirmed Daily Cases per 100k": [["daily", 28.196813760045114], ["weekly", 18.12652313145757], ["biweekly", 29.20384282290386], ["triweekly", 29.539519177190122]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1226.5613985619623], ["weekly", 1150.0271897846967], ["biweekly", 1003.0009466073188], ["triweekly", 899.6126294871538]],
-      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.9891774891774892], ["biweekly", 1.2496907854050712], ["triweekly", 1.023603380746238]],
-      "Confirmed Cumulative Cases": [["daily", 87.0], ["weekly", 81.57142857142857], ["biweekly", 71.14285714285714], ["triweekly", 63.80952380952381]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.2857142857142858], ["biweekly", 2.0714285714285716], ["triweekly", 2.0952380952380953]],
-      "Confirmed Fatality Rate": [["daily", 0.011494252873563218], ["weekly", 0.012275013359561103], ["biweekly", 0.008176257402741801], ["triweekly", 0.005450838268494533]],
+      "Spread Rate": [["daily", 0.011560822401076365], ["weekly", 0.01765913656673947], ["biweekly", 0.030642543251311265], ["triweekly", 0.03527501093091426]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.098406880022557], ["weekly", 20.140581257175082], ["biweekly", 30.21087188576261], ["triweekly", 30.210871885762625]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1226.5613985619623], ["weekly", 1152.0412479104143], ["biweekly", 1004.0079756701776], ["triweekly", 900.2839821957261]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.132034632034632], ["biweekly", 1.3211193568336426], ["triweekly", 1.0712224283652856]],
+      "Confirmed Cumulative Cases": [["daily", 87.0], ["weekly", 81.71428571428571], ["biweekly", 71.21428571428571], ["triweekly", 63.857142857142854]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.4285714285714286], ["biweekly", 2.142857142857143], ["triweekly", 2.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.011494252873563218], ["weekly", 0.012255470658759851], ["biweekly", 0.008166486052341175], ["triweekly", 0.0054443240348941175]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012987012987012988], ["weekly", 0.016655127777761947], ["biweekly", 0.010901775391663907], ["triweekly", 0.007267850261109271]]
+    },
+    "lat": "REPLACE_MEBrooks,Texas"
+  }, {
+    "locale": "Brooks,Texas",
+    "long": "REPLACE_MEBrooks,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.044951387862266046], ["weekly", 0.01744324240012851], ["biweekly", 0.03146831627995957], ["triweekly", 0.03582552628334647]],
+      "Confirmed Daily Cases per 100k": [["daily", 56.39362752009023], ["weekly", 20.140581257175082], ["biweekly", 31.217900948621367], ["triweekly", 30.88222459433513]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1282.9550260820527], ["weekly", 1172.1818291675895], ["biweekly", 1035.225876618799], ["triweekly", 931.1662067900612]],
+      "Daily Growth Rate": [["daily", 4.0], ["weekly", 1.2619047619047616], ["biweekly", 1.392547928262214], ["triweekly", 1.118841475984333]],
+      "Confirmed Cumulative Cases": [["daily", 91.0], ["weekly", 83.14285714285714], ["biweekly", 73.42857142857143], ["triweekly", 66.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 1.4285714285714286], ["biweekly", 2.2142857142857144], ["triweekly", 2.1904761904761907]],
+      "Confirmed Fatality Rate": [["daily", 0.01098901098901099], ["weekly", 0.012042219213981313], ["biweekly", 0.008987504114738547], ["triweekly", 0.005991669409825698]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012658227848101266], ["weekly", 0.015959394939171968], ["biweekly", 0.011829419176450548], ["triweekly", 0.007886279450967032]]
     },
     "lat": "REPLACE_MEBrooks,Texas"
   }]

@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEDuval,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.03307311442638942], ["biweekly", 0.03113745111377662], ["triweekly", 0.033007008598092635]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 39.69320990025481], ["biweekly", 33.93129233408878], ["triweekly", 32.01065314536678]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1344.4474321054047], ["weekly", 1272.743569059783], ["biweekly", 1128.055416842725], ["triweekly", 1020.4996222742927]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.541723356009071], ["biweekly", 2.0258530984175396], ["triweekly", 1.7845149670009919]],
-      "Confirmed Cumulative Cases": [["daily", 150.0], ["weekly", 142.0], ["biweekly", 125.85714285714286], ["triweekly", 113.85714285714286]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.428571428571429], ["biweekly", 3.7857142857142856], ["triweekly", 3.5714285714285716]],
-      "Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.010729681937072827], ["biweekly", 0.0053648409685364135], ["triweekly", 0.0035765606456909424]],
+      "Spread Rate": [["daily", 0.006644542718668767], ["weekly", 0.03307311442638942], ["biweekly", 0.03113745111377662], ["triweekly", 0.033007008598092635]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.962982880702697], ["weekly", 39.69320990025481], ["biweekly", 33.93129233408878], ["triweekly", 32.01065314536678]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1353.4104149861073], ["weekly", 1272.743569059783], ["biweekly", 1128.055416842725], ["triweekly", 1020.4996222742927]],
+      "Daily Growth Rate": [["daily", 0.7071067811865476], ["weekly", 2.541723356009071], ["biweekly", 2.0258530984175396], ["triweekly", 1.7845149670009919]],
+      "Confirmed Cumulative Cases": [["daily", 151.0], ["weekly", 142.0], ["biweekly", 125.85714285714286], ["triweekly", 113.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.428571428571429], ["biweekly", 3.7857142857142856], ["triweekly", 3.5714285714285716]],
+      "Confirmed Fatality Rate": [["daily", 0.019867549668874173], ["weekly", 0.010729681937072827], ["biweekly", 0.0053648409685364135], ["triweekly", 0.0035765606456909424]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0234375], ["weekly", 0.013977110771954543], ["biweekly", 0.0069885553859772714], ["triweekly", 0.004659036923984848]]
     },
     "lat": "REPLACE_MEDuval,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEDuval,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.013245226750020933], ["weekly", 0.02265786145380552], ["biweekly", 0.02547678170990946], ["triweekly", 0.029933745686779728]],
-      "Confirmed Daily Cases per 100k": [["daily", 17.925965761405394], ["weekly", 28.169374767922765], ["biweekly", 28.809587830830104], ["triweekly", 29.87660960234233]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1362.3733978668101], ["weekly", 1300.9129438277057], ["biweekly", 1156.8650046735552], ["triweekly", 1050.376231876635]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 2.284580498866213], ["biweekly", 1.9092107297135785], ["triweekly", 1.5464197289057537]],
-      "Confirmed Cumulative Cases": [["daily", 152.0], ["weekly", 145.14285714285714], ["biweekly", 129.07142857142858], ["triweekly", 117.19047619047619]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.142857142857143], ["biweekly", 3.2142857142857144], ["triweekly", 3.3333333333333335]],
-      "Confirmed Fatality Rate": [["daily", 0.019736842105263157], ["weekly", 0.013586824794215685], ["biweekly", 0.006793412397107843], ["triweekly", 0.004528941598071895]],
+      "Spread Rate": [["daily", 0.006600684031352166], ["weekly", 0.02360708184218677], ["biweekly", 0.025951391904100087], ["triweekly", 0.030250152482906814]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.962982880702697], ["weekly", 29.449800893737436], ["biweekly", 29.449800893737436], ["triweekly", 30.303418310947222]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1362.3733978668101], ["weekly", 1302.1933699535205], ["biweekly", 1157.5052177364626], ["triweekly", 1050.80304058524]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 2.3855957533214336], ["biweekly", 1.959718356941189], ["triweekly", 1.5800914803908275]],
+      "Confirmed Cumulative Cases": [["daily", 152.0], ["weekly", 145.28571428571428], ["biweekly", 129.14285714285714], ["triweekly", 117.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.2857142857142856], ["biweekly", 3.2857142857142856], ["triweekly", 3.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.019736842105263157], ["weekly", 0.013567903318340567], ["biweekly", 0.006783951659170283], ["triweekly", 0.004522634439446856]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.023255813953488372], ["weekly", 0.017325325057668827], ["biweekly", 0.008662662528834414], ["triweekly", 0.005775108352556276]]
+    },
+    "lat": "REPLACE_MEDuval,Texas"
+  }, {
+    "locale": "Duval,Texas",
+    "long": "REPLACE_MEDuval,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.023438302354943503], ["biweekly", 0.026422869334910955], ["triweekly", 0.028811424430937056]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 29.449800893737436], ["biweekly", 30.090013956644775], ["triweekly", 29.449800893737443]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1362.3733978668101], ["weekly", 1331.6431708472578], ["biweekly", 1187.5952316931075], ["triweekly", 1080.2528414789776]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.512579880305561], ["biweekly", 2.0311469283697603], ["triweekly", 1.5991390994384467]],
+      "Confirmed Cumulative Cases": [["daily", 152.0], ["weekly", 148.57142857142858], ["biweekly", 132.5], ["triweekly", 120.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.2857142857142856], ["biweekly", 3.357142857142857], ["triweekly", 3.2857142857142856]],
+      "Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.015280032478450143], ["biweekly", 0.008193726095260508], ["triweekly", 0.005462484063507005]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.027972027972027972], ["weekly", 0.019287039976194378], ["biweekly", 0.010323792096940728], ["triweekly", 0.0068825280646271515]]
     },
     "lat": "REPLACE_MEDuval,Texas"
   }]

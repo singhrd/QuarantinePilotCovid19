@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.032679738562091505], ["weekly", 0.033724714676707256], ["biweekly", 0.034456903299429194], ["triweekly", 0.035568015454124184]]
     },
     "lat": "REPLACE_MECattaraugus,New York"
+  }, {
+    "locale": "Cattaraugus,New York",
+    "long": "REPLACE_MECattaraugus,New York",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012270092591815107], ["weekly", 0.008165487691421194], ["biweekly", 0.00791875662941496], ["triweekly", 0.0076353642892942174]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.6275339280318457], ["weekly", 1.6891289537347578], ["biweekly", 1.5952884563050491], ["triweekly", 1.50144795887534]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 215.45778209861135], ["weekly", 207.19981832479698], ["biweekly", 201.75706947387386], ["triweekly", 197.190165265628]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 0.844887651767585], ["biweekly", 0.8091733660532993], ["triweekly", 0.8313517928425537]],
+      "Confirmed Cumulative Cases": [["daily", 164.0], ["weekly", 157.71428571428572], ["biweekly", 153.57142857142858], ["triweekly", 150.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.2857142857142858], ["biweekly", 1.2142857142857142], ["triweekly", 1.1428571428571428]],
+      "Confirmed Fatality Rate": [["daily", 0.03048780487804878], ["weekly", 0.03171084053284125], ["biweekly", 0.032588990457731525], ["triweekly", 0.03337239925838181]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.032679738562091505], ["weekly", 0.03346714038262181], ["biweekly", 0.03420317862115209], ["triweekly", 0.0352640744332714]]
+    },
+    "lat": "REPLACE_MECattaraugus,New York"
   }]
 }

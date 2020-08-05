@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01098901098901099], ["weekly", 0.011723202499577036], ["biweekly", 0.012365031331943891], ["triweekly", 0.013081031327880603]]
     },
     "lat": "REPLACE_MEMifflin,Pennsylvania"
+  }, {
+    "locale": "Mifflin,Pennsylvania",
+    "long": "REPLACE_MEMifflin,Pennsylvania",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018182319083190457], ["weekly", 0.025784053673184815], ["biweekly", 0.020330616783206436], ["triweekly", 0.018442037572617774]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.334821622090251], ["weekly", 5.573342085544608], ["biweekly", 4.1800065641584565], ["triweekly", 3.6123513517418764]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 240.58260002600892], ["weekly", 217.9796015679669], ["biweekly", 202.96254094858287], ["triweekly", 191.76425175818304]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.2401626900120273], ["biweekly", 1.0187156470802823], ["triweekly", 0.8636091669989125]],
+      "Confirmed Cumulative Cases": [["daily", 111.0], ["weekly", 100.57142857142857], ["biweekly", 93.64285714285714], ["triweekly", 88.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.5714285714285716], ["biweekly", 1.9285714285714286], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.009009009009009009], ["weekly", 0.009977363098757864], ["biweekly", 0.010764132016152556], ["triweekly", 0.011448927514953192]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010752688172043012], ["weekly", 0.011550900933547246], ["biweekly", 0.012184709723050855], ["triweekly", 0.01287171683285182]]
+    },
+    "lat": "REPLACE_MEMifflin,Pennsylvania"
   }]
 }

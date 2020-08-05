@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEBee,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.04651042088045391], ["biweekly", 0.060848180529615395], ["triweekly", 0.06338546722691785]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 62.292996424732955], ["biweekly", 64.2670702550942], ["triweekly", 54.98161186783942]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1569.1693536004914], ["weekly", 1389.747976574324], ["biweekly", 1135.9698186045491], ["triweekly", 932.6402140773398]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8379450845595761], ["biweekly", 1.4686173571505865], ["triweekly", 1.7591451947067307]],
-      "Confirmed Cumulative Cases": [["daily", 511.0], ["weekly", 452.57142857142856], ["biweekly", 369.92857142857144], ["triweekly", 303.7142857142857]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 20.285714285714285], ["biweekly", 20.928571428571427], ["triweekly", 17.904761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.01761252446183953], ["weekly", 0.014245168814619865], ["biweekly", 0.008925963840922185], ["triweekly", 0.006422371365351597]],
+      "Spread Rate": [["daily", 0.02893162253400572], ["weekly", 0.04651042088045391], ["biweekly", 0.060848180529615395], ["triweekly", 0.06338546722691785]],
+      "Confirmed Daily Cases per 100k": [["daily", 46.06172270842929], ["weekly", 62.292996424732955], ["biweekly", 64.2670702550942], ["triweekly", 54.98161186783942]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1615.2310763089206], ["weekly", 1389.747976574324], ["biweekly", 1135.9698186045491], ["triweekly", 932.6402140773398]],
+      "Daily Growth Rate": [["daily", 1.1538461538461537], ["weekly", 0.8379450845595761], ["biweekly", 1.4686173571505865], ["triweekly", 1.7591451947067307]],
+      "Confirmed Cumulative Cases": [["daily", 526.0], ["weekly", 452.57142857142856], ["biweekly", 369.92857142857144], ["triweekly", 303.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 20.285714285714285], ["biweekly", 20.928571428571427], ["triweekly", 17.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.017110266159695818], ["weekly", 0.014245168814619865], ["biweekly", 0.008925963840922185], ["triweekly", 0.006422371365351597]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0225], ["weekly", 0.022284031542110144], ["biweekly", 0.01411673344301991], ["triweekly", 0.010121927266769873]]
     },
     "lat": "REPLACE_MEBee,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEBee,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.20298078089639393], ["weekly", 0.03498643472796038], ["biweekly", 0.06019586027509589], ["triweekly", 0.05965537945216039]],
-      "Confirmed Daily Cases per 100k": [["daily", 353.13987409795794], ["weekly", 48.69382114891097], ["biweekly", 63.828387181680604], ["triweekly", 53.37310726532284]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1922.3092276984494], ["weekly", 1438.441797723235], ["biweekly", 1199.7982057862298], ["triweekly", 986.0133213426625]],
-      "Daily Growth Rate": [["daily", 2.9742484506432625], ["weekly", 0.751160385089011], ["biweekly", 1.4638554523886818], ["triweekly", 1.4972404328019693]],
-      "Confirmed Cumulative Cases": [["daily", 626.0], ["weekly", 468.42857142857144], ["biweekly", 390.7142857142857], ["triweekly", 321.0952380952381]],
-      "Confirmed Daily Cases": [["daily", 115.0], ["weekly", 15.857142857142858], ["biweekly", 20.785714285714285], ["triweekly", 17.38095238095238]],
-      "Confirmed Fatality Rate": [["daily", 0.01437699680511182], ["weekly", 0.016404100880596944], ["biweekly", 0.009859325977806825], ["triweekly", 0.007261063006391574]],
+      "Spread Rate": [["daily", 0.1740491583623882], ["weekly", 0.03911952366138977], ["biweekly", 0.062262404741810586], ["triweekly", 0.06103307576330351]],
+      "Confirmed Daily Cases per 100k": [["daily", 307.0781513895286], ["weekly", 55.27406725011515], ["biweekly", 67.1185102322827], ["triweekly", 55.5665226323909]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1922.3092276984494], ["weekly", 1445.0220438244392], ["biweekly", 1203.0883288368318], ["triweekly", 988.2067367097306]],
+      "Daily Growth Rate": [["daily", 6.666666666666667], ["weekly", 0.9159955499241759], ["biweekly", 1.546273034806264], ["triweekly", 1.5521854877470243]],
+      "Confirmed Cumulative Cases": [["daily", 626.0], ["weekly", 470.57142857142856], ["biweekly", 391.7857142857143], ["triweekly", 321.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 100.0], ["weekly", 18.0], ["biweekly", 21.857142857142858], ["triweekly", 18.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.01437699680511182], ["weekly", 0.016332349694576413], ["biweekly", 0.009823450384796562], ["triweekly", 0.0072371459443847305]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022556390977443608], ["weekly", 0.02484896660704521], ["biweekly", 0.015234639509556114], ["triweekly", 0.011193355838198445]]
+    },
+    "lat": "REPLACE_MEBee,Texas"
+  }, {
+    "locale": "Bee,Texas",
+    "long": "REPLACE_MEBee,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.06643368902813052], ["weekly", 0.06434127917289066], ["biweekly", 0.07090092853098488], ["triweekly", 0.06932113092341724]],
+      "Confirmed Daily Cases per 100k": [["daily", 132.0436050974973], ["weekly", 99.58105766489], ["biweekly", 86.42056546248163], ["triweekly", 70.18929174617797]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2054.3528327959466], ["weekly", 1544.603101489329], ["biweekly", 1289.5088942993134], ["triweekly", 1058.3960284559087]],
+      "Daily Growth Rate": [["daily", 0.43], ["weekly", 1.8683765023051282], ["biweekly", 1.5938920824253118], ["triweekly", 1.8696458052073417]],
+      "Confirmed Cumulative Cases": [["daily", 669.0], ["weekly", 503.0], ["biweekly", 419.92857142857144], ["triweekly", 344.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 43.0], ["weekly", 32.42857142857143], ["biweekly", 28.142857142857142], ["triweekly", 22.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.013452914798206279], ["weekly", 0.01623797866888347], ["biweekly", 0.010542496954619817], ["triweekly", 0.007921764839866246]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02158273381294964], ["weekly", 0.024376726894463262], ["biweekly", 0.016356573503052575], ["triweekly", 0.012267469694267188]]
     },
     "lat": "REPLACE_MEBee,Texas"
   }]

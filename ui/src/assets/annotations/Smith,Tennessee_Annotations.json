@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01020408163265306], ["weekly", 0.009178076776425114], ["biweekly", 0.009544524428026627], ["triweekly", 0.011170811203895679]]
     },
     "lat": "REPLACE_MESmith,Tennessee"
+  }, {
+    "locale": "Smith,Tennessee",
+    "long": "REPLACE_MESmith,Tennessee",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05623971832287644], ["weekly", 0.03011758098945272], ["biweekly", 0.03609507888916782], ["triweekly", 0.03209747662792981]],
+      "Confirmed Daily Cases per 100k": [["daily", 104.18216996576872], ["weekly", 48.90183488189144], ["biweekly", 51.02800161588671], ["triweekly", 42.050853183462195]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1905.0453936597708], ["weekly", 1692.4287202602427], ["biweekly", 1526.2333538862783], ["triweekly", 1360.274228260536]],
+      "Daily Growth Rate": [["daily", 10.5], ["weekly", 1.2444444444444447], ["biweekly", 1.7729024943310658], ["triweekly", 1.808023368466338]],
+      "Confirmed Cumulative Cases": [["daily", 384.0], ["weekly", 341.14285714285717], ["biweekly", 307.64285714285717], ["triweekly", 274.1904761904762]],
+      "Confirmed Daily Cases": [["daily", 21.0], ["weekly", 9.857142857142858], ["biweekly", 10.285714285714286], ["triweekly", 8.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.0078125], ["weekly", 0.007488352039355171], ["biweekly", 0.007398555245649571], ["triweekly", 0.008156104156047825]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00967741935483871], ["weekly", 0.009331171282329239], ["biweekly", 0.009501186629586789], ["triweekly", 0.010876079728167214]]
+    },
+    "lat": "REPLACE_MESmith,Tennessee"
   }]
 }

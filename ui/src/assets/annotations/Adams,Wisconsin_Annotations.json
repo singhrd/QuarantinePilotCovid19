@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.035915307695167174], ["biweekly", 0.03956211956940475], ["triweekly", 0.04505981454202324]]
     },
     "lat": "REPLACE_MEAdams,Wisconsin"
+  }, {
+    "locale": "Adams,Wisconsin",
+    "long": "REPLACE_MEAdams,Wisconsin",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.040273899137940106], ["weekly", 0.0233321508718999], ["biweekly", 0.024229694469068815], ["triweekly", 0.027470827354480143]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.836795252225519], ["weekly", 7.771654655927653], ["biweekly", 7.418397626112758], ["triweekly", 7.53614996938439]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 375.8654797230465], ["weekly", 338.42023456266776], ["biweekly", 310.8661862371061], ["triweekly", 286.60920352315003]],
+      "Daily Growth Rate": [["daily", 0.8660254037844386], ["weekly", 1.0935286483398932], ["biweekly", 0.993192895598518], ["triweekly", 0.9755038460675722]],
+      "Confirmed Cumulative Cases": [["daily", 76.0], ["weekly", 68.42857142857143], ["biweekly", 62.857142857142854], ["triweekly", 57.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.5714285714285714], ["biweekly", 1.5], ["triweekly", 1.5238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.029298256587565703], ["biweekly", 0.03216367685955148], ["triweekly", 0.03535404984742273]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.035029097131537255], ["biweekly", 0.03838194647735125], ["triweekly", 0.043709909966312216]]
+    },
+    "lat": "REPLACE_MEAdams,Wisconsin"
   }]
 }

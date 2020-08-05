@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEShelby,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.012190532186850258], ["biweekly", 0.01186393442517218], ["triweekly", 0.01209316370208309]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 17.52224194259487], ["biweekly", 16.39177472049198], ["triweekly", 16.01495231312435]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1499.5647701194903], ["weekly", 1441.3457081811914], ["biweekly", 1378.6047773544803], ["triweekly", 1328.2989859709019]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.507936507936508], ["biweekly", 1.5110235002434838], ["triweekly", 1.3254585443026627]],
-      "Confirmed Cumulative Cases": [["daily", 379.0], ["weekly", 364.2857142857143], ["biweekly", 348.42857142857144], ["triweekly", 335.7142857142857]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.428571428571429], ["biweekly", 4.142857142857143], ["triweekly", 4.0476190476190474]],
-      "Confirmed Fatality Rate": [["daily", 0.04221635883905013], ["weekly", 0.04434234549261721], ["biweekly", 0.04323626951453465], ["triweekly", 0.04387579754727817]],
+      "Spread Rate": [["daily", 0.005263170044274901], ["weekly", 0.012190532186850258], ["biweekly", 0.01186393442517218], ["triweekly", 0.01209316370208309]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.913270554720265], ["weekly", 17.52224194259487], ["biweekly", 16.39177472049198], ["triweekly", 16.01495231312435]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1507.4780406742104], ["weekly", 1441.3457081811914], ["biweekly", 1378.6047773544803], ["triweekly", 1328.2989859709019]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.507936507936508], ["biweekly", 1.5110235002434838], ["triweekly", 1.3254585443026627]],
+      "Confirmed Cumulative Cases": [["daily", 381.0], ["weekly", 364.2857142857143], ["biweekly", 348.42857142857144], ["triweekly", 335.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.428571428571429], ["biweekly", 4.142857142857143], ["triweekly", 4.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.04199475065616798], ["weekly", 0.04434234549261721], ["biweekly", 0.04323626951453465], ["triweekly", 0.04387579754727817]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.045714285714285714], ["weekly", 0.04856953727528846], ["biweekly", 0.046862195444026825], ["triweekly", 0.04735063774410979]]
     },
     "lat": "REPLACE_MEShelby,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEShelby,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.005263170044274901], ["weekly", 0.011371864371281046], ["biweekly", 0.01186393442517218], ["triweekly", 0.011609717441891739]],
-      "Confirmed Daily Cases per 100k": [["daily", 7.913270554720265], ["weekly", 16.391774720491977], ["biweekly", 16.39177472049198], ["triweekly", 15.449718702072904]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1507.4780406742104], ["weekly", 1457.737482901683], ["biweekly", 1394.9965520749722], ["triweekly", 1343.7487046729748]],
-      "Daily Growth Rate": [["daily", 0.816496580927726], ["weekly", 1.4507936507936507], ["biweekly", 1.5110235002434838], ["triweekly", 1.2540299728740913]],
-      "Confirmed Cumulative Cases": [["daily", 381.0], ["weekly", 368.42857142857144], ["biweekly", 352.57142857142856], ["triweekly", 339.6190476190476]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.142857142857143], ["biweekly", 4.142857142857143], ["triweekly", 3.9047619047619047]],
-      "Confirmed Fatality Rate": [["daily", 0.04199475065616798], ["weekly", 0.04465896818391008], ["biweekly", 0.043136458919816156], ["triweekly", 0.04364143143780212]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.012123745806177462], ["biweekly", 0.012239875142620387], ["triweekly", 0.01186034458685721]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 17.52224194259487], ["biweekly", 16.957008331543427], ["triweekly", 15.826541109440535]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1507.4780406742104], ["weekly", 1458.867950123786], ["biweekly", 1395.5617856860238], ["triweekly", 1344.1255270803424]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.5460317460317459], ["biweekly", 1.5586425478625314], ["triweekly", 1.2857760046201232]],
+      "Confirmed Cumulative Cases": [["daily", 381.0], ["weekly", 368.7142857142857], ["biweekly", 352.7142857142857], ["triweekly", 339.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.428571428571429], ["biweekly", 4.285714285714286], ["triweekly", 4.0]],
+      "Confirmed Fatality Rate": [["daily", 0.04199475065616798], ["weekly", 0.044627309872069774], ["biweekly", 0.043120629763896], ["triweekly", 0.043630878667188684]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.045584045584045586], ["weekly", 0.04886961992517085], ["biweekly", 0.046760498199472436], ["triweekly", 0.04720462812074826]]
+    },
+    "lat": "REPLACE_MEShelby,Texas"
+  }, {
+    "locale": "Shelby,Texas",
+    "long": "REPLACE_MEShelby,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0052356140539444596], ["weekly", 0.01171616452297654], ["biweekly", 0.012017702113020905], ["triweekly", 0.010907931886539638]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.913270554720265], ["weekly", 16.957008331543424], ["biweekly", 16.674391526017704], ["triweekly", 14.696073887337636]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1515.3913112289308], ["weekly", 1475.8249584553294], ["biweekly", 1412.2361772120416], ["triweekly", 1358.8216009676798]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.4746031746031745], ["biweekly", 1.5081349206349208], ["triweekly", 1.1905379093820279]],
+      "Confirmed Cumulative Cases": [["daily", 383.0], ["weekly", 373.0], ["biweekly", 356.92857142857144], ["triweekly", 343.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.285714285714286], ["biweekly", 4.214285714285714], ["triweekly", 3.7142857142857144]],
+      "Confirmed Fatality Rate": [["daily", 0.044386422976501305], ["weekly", 0.04370755304680114], ["biweekly", 0.04301466474865335], ["triweekly", 0.04343040867643257]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.047619047619047616], ["weekly", 0.04783947914347728], ["biweekly", 0.046716171422472384], ["triweekly", 0.0470524165864229]]
     },
     "lat": "REPLACE_MEShelby,Texas"
   }]

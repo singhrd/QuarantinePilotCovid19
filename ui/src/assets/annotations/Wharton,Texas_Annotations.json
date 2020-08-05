@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEWharton,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.03193489608827273], ["biweekly", 0.03266175739059328], ["triweekly", 0.030625559999299227]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 42.971274562380536], ["biweekly", 39.36168749914058], ["triweekly", 33.9186593879057]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1501.5882183078256], ["weekly", 1363.7363695117087], ["biweekly", 1220.2123124733578], ["triweekly", 1108.8880638404173]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 5.843777149349905], ["biweekly", 3.62826454611616], ["triweekly", 2.722252121653198]],
-      "Confirmed Cumulative Cases": [["daily", 624.0], ["weekly", 566.7142857142857], ["biweekly", 507.07142857142856], ["triweekly", 460.8095238095238]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 17.857142857142858], ["biweekly", 16.357142857142858], ["triweekly", 14.095238095238095]],
-      "Confirmed Fatality Rate": [["daily", 0.03365384615384615], ["weekly", 0.03143727191871167], ["biweekly", 0.016840961413362592], ["triweekly", 0.012134861549364025]],
+      "Spread Rate": [["daily", 0.017474630523263812], ["weekly", 0.03193489608827273], ["biweekly", 0.03266175739059328], ["triweekly", 0.030625559999299227]],
+      "Confirmed Daily Cases per 100k": [["daily", 26.470305130426414], ["weekly", 42.971274562380536], ["biweekly", 39.36168749914058], ["triweekly", 33.9186593879057]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1528.058523438252], ["weekly", 1363.7363695117087], ["biweekly", 1220.2123124733578], ["triweekly", 1108.8880638404173]],
+      "Daily Growth Rate": [["daily", 0.7857142857142857], ["weekly", 5.843777149349905], ["biweekly", 3.62826454611616], ["triweekly", 2.722252121653198]],
+      "Confirmed Cumulative Cases": [["daily", 635.0], ["weekly", 566.7142857142857], ["biweekly", 507.07142857142856], ["triweekly", 460.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 17.857142857142858], ["biweekly", 16.357142857142858], ["triweekly", 14.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.03307086614173228], ["weekly", 0.03143727191871167], ["biweekly", 0.016840961413362592], ["triweekly", 0.012134861549364025]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.042], ["weekly", 0.03977946637488027], ["biweekly", 0.02125106409812358], ["triweekly", 0.015440625646814301]]
     },
     "lat": "REPLACE_MEWharton,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEWharton,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.017474630523263812], ["weekly", 0.031648895706748066], ["biweekly", 0.031229557601624665], ["triweekly", 0.029054774332808474]],
-      "Confirmed Daily Cases per 100k": [["daily", 26.470305130426414], ["weekly", 42.6275043658815], ["biweekly", 37.9866067131444], ["triweekly", 32.65816866740921]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1528.058523438252], ["weekly", 1406.36387387759], ["biweekly", 1258.198919186502], ["triweekly", 1141.5462325078265]],
-      "Daily Growth Rate": [["daily", 0.8864052604279183], ["weekly", 5.8384861440588995], ["biweekly", 3.546631893054936], ["triweekly", 2.6895140264151025]],
-      "Confirmed Cumulative Cases": [["daily", 635.0], ["weekly", 584.4285714285714], ["biweekly", 522.8571428571429], ["triweekly", 474.3809523809524]],
-      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 17.714285714285715], ["biweekly", 15.785714285714286], ["triweekly", 13.571428571428571]],
-      "Confirmed Fatality Rate": [["daily", 0.03307086614173228], ["weekly", 0.03224496422640398], ["biweekly", 0.019067565454482762], ["triweekly", 0.013596956484910288]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.03414527149578576], ["biweekly", 0.03247774549614351], ["triweekly", 0.029886899595821036]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 46.40897652737099], ["biweekly", 39.877342793889134], ["triweekly", 33.9186593879057]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1528.058523438252], ["weekly", 1410.1453460390799], ["biweekly", 1260.089655267247], ["triweekly", 1142.8067232283229]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 5.9507310420180834], ["biweekly", 3.6027543420345274], ["triweekly", 2.726928992401497]],
+      "Confirmed Cumulative Cases": [["daily", 635.0], ["weekly", 586.0], ["biweekly", 523.6428571428571], ["triweekly", 474.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 19.285714285714285], ["biweekly", 16.571428571428573], ["triweekly", 14.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.03307086614173228], ["weekly", 0.03216168136753057], ["biweekly", 0.019025924025046055], ["triweekly", 0.013569195531952485]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04061895551257253], ["weekly", 0.04081668721855273], ["biweekly", 0.02404036034759682], ["triweekly", 0.01723358630934018]]
+    },
+    "lat": "REPLACE_MEWharton,Texas"
+  }, {
+    "locale": "Wharton,Texas",
+    "long": "REPLACE_MEWharton,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00940445802797818], ["weekly", 0.029368874912037515], ["biweekly", 0.02952644911537699], ["triweekly", 0.028502527461441177]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.438348252959862], ["weekly", 40.564883186887236], ["biweekly", 36.95529612364726], ["triweekly", 32.77275873290888]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1542.496871691212], ["weekly", 1450.7102292259672], ["biweekly", 1297.0449513908945], ["triweekly", 1175.579481961232]],
+      "Daily Growth Rate": [["daily", 0.7385489458759964], ["weekly", 3.522159613446654], ["biweekly", 3.4509686277488134], ["triweekly", 2.6836389491114536]],
+      "Confirmed Cumulative Cases": [["daily", 641.0], ["weekly", 602.8571428571429], ["biweekly", 539.0], ["triweekly", 488.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 16.857142857142858], ["biweekly", 15.357142857142858], ["triweekly", 13.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0358814352574103], ["weekly", 0.03218866058700435], ["biweekly", 0.02121806072224462], ["triweekly", 0.015007554419040023]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04299065420560748], ["weekly", 0.04083708222375016], ["biweekly", 0.026737047919002433], ["triweekly", 0.01896604666062491]]
     },
     "lat": "REPLACE_MEWharton,Texas"
   }]

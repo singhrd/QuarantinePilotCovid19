@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013234211781496068], ["biweekly", 0.013394822141055081], ["triweekly", 0.013752913643038187]]
     },
     "lat": "REPLACE_MELamar,Mississippi"
+  }, {
+    "locale": "Lamar,Mississippi",
+    "long": "REPLACE_MELamar,Mississippi",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.022056474202525322], ["weekly", 0.020374374087388705], ["biweekly", 0.023475196771586493], ["triweekly", 0.031051211440187278]],
+      "Confirmed Daily Cases per 100k": [["daily", 39.467660199232746], ["weekly", 33.60389354106102], ["biweekly", 35.40812943588309], ["triweekly", 40.369778146643775]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1809.197543532829], ["weekly", 1688.3137385797506], ["biweekly", 1553.6726349286535], ["triweekly", 1407.529527448066]],
+      "Daily Growth Rate": [["daily", 4.166666666666667], ["weekly", 1.0722426352457313], ["biweekly", 1.0413827308514432], ["triweekly", 2.4637563040142108]],
+      "Confirmed Cumulative Cases": [["daily", 1146.0], ["weekly", 1069.4285714285713], ["biweekly", 984.1428571428571], ["triweekly", 891.5714285714286]],
+      "Confirmed Daily Cases": [["daily", 25.0], ["weekly", 21.285714285714285], ["biweekly", 22.428571428571427], ["triweekly", 25.571428571428573]],
+      "Confirmed Fatality Rate": [["daily", 0.011343804537521814], ["weekly", 0.010958131465170915], ["biweekly", 0.010789093505892721], ["triweekly", 0.010779828982335534]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013118062563067608], ["weekly", 0.013050632911424014], ["biweekly", 0.013298182775009321], ["triweekly", 0.013623957241680354]]
+    },
+    "lat": "REPLACE_MELamar,Mississippi"
   }]
 }

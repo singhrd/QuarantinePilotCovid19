@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MELiberty,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.019804901765096465], ["biweekly", 0.021059533829243256], ["triweekly", 0.02406183650780212]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 17.65087857652951], ["biweekly", 17.407976577769933], ["triweekly", 18.028726130155526]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 954.4429204593115], ["weekly", 913.9592539993815], ["biweekly", 844.4083150212215], ["triweekly", 779.3915466865737]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.2869784976927834], ["biweekly", 1.693550716201092], ["triweekly", 1.5044036558447584]],
-      "Confirmed Cumulative Cases": [["daily", 842.0], ["weekly", 806.2857142857143], ["biweekly", 744.9285714285714], ["triweekly", 687.5714285714286]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 15.571428571428571], ["biweekly", 15.357142857142858], ["triweekly", 15.904761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.029691211401425176], ["weekly", 0.028791999011463638], ["biweekly", 0.016594950868644667], ["triweekly", 0.0128161014117863]],
+      "Spread Rate": [["daily", 0.008279172069021179], ["weekly", 0.019804901765096465], ["biweekly", 0.021059533829243256], ["triweekly", 0.02406183650780212]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.934798626146295], ["weekly", 17.65087857652951], ["biweekly", 17.407976577769933], ["triweekly", 18.028726130155526]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 962.3777190854578], ["weekly", 913.9592539993815], ["biweekly", 844.4083150212215], ["triweekly", 779.3915466865737]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 2.2869784976927834], ["biweekly", 1.693550716201092], ["triweekly", 1.5044036558447584]],
+      "Confirmed Cumulative Cases": [["daily", 849.0], ["weekly", 806.2857142857143], ["biweekly", 744.9285714285714], ["triweekly", 687.5714285714286]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 15.571428571428571], ["biweekly", 15.357142857142858], ["triweekly", 15.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.02944640753828033], ["weekly", 0.028791999011463638], ["biweekly", 0.016594950868644667], ["triweekly", 0.0128161014117863]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.033738191632928474], ["weekly", 0.03398694599074798], ["biweekly", 0.01962267424440876], ["triweekly", 0.015336801645490804]]
     },
     "lat": "REPLACE_MELiberty,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MELiberty,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.010632114331047937], ["weekly", 0.018254198420891425], ["biweekly", 0.019705397133199427], ["triweekly", 0.022767258398080352]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.20188394790238], ["weekly", 16.35540124981175], ["biweekly", 16.43636858273161], ["triweekly", 17.2730310229035]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 964.6448044072139], ["weekly", 930.3146552491933], ["biweekly", 860.844683603953], ["triweekly", 796.6645777094773]],
-      "Daily Growth Rate": [["daily", 0.8017837257372732], ["weekly", 2.2325567289853003], ["biweekly", 1.65273438967048], ["triweekly", 1.4787626302037329]],
-      "Confirmed Cumulative Cases": [["daily", 851.0], ["weekly", 820.7142857142857], ["biweekly", 759.4285714285714], ["triweekly", 702.8095238095239]],
-      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 14.428571428571429], ["biweekly", 14.5], ["triweekly", 15.238095238095237]],
-      "Confirmed Fatality Rate": [["daily", 0.02937720329024677], ["weekly", 0.029756176310182753], ["biweekly", 0.018380406277264238], ["triweekly", 0.013956295933912182]],
+      "Spread Rate": [["daily", 0.002352942262026758], ["weekly", 0.01943693728789445], ["biweekly", 0.020296766566700937], ["triweekly", 0.023161504687081363]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.2670853217560842], ["weekly", 17.48894391068979], ["biweekly", 17.00313991317063], ["triweekly", 17.650878576529514]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 964.6448044072139], ["weekly", 931.4481979100713], ["biweekly", 861.411454934392], ["triweekly", 797.0424252631033]],
+      "Daily Growth Rate": [["daily", 0.2857142857142857], ["weekly", 2.3039853004138715], ["biweekly", 1.6884486753847658], ["triweekly", 1.5025721540132566]],
+      "Confirmed Cumulative Cases": [["daily", 851.0], ["weekly", 821.7142857142857], ["biweekly", 759.9285714285714], ["triweekly", 703.1428571428571]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 15.428571428571429], ["biweekly", 15.0], ["triweekly", 15.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.02937720329024677], ["weekly", 0.029721204329733488], ["biweekly", 0.01836292028703961], ["triweekly", 0.013944638607095761]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03136762860727729], ["weekly", 0.0350061063872249], ["biweekly", 0.02162203604413354], ["triweekly", 0.016577081833139412]]
+    },
+    "lat": "REPLACE_MELiberty,Texas"
+  }, {
+    "locale": "Liberty,Texas",
+    "long": "REPLACE_MELiberty,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004689340363385419], ["weekly", 0.00936534996902275], ["biweekly", 0.019245697548835126], ["triweekly", 0.02236993520151095]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.5341706435121685], ["weekly", 8.744471955344897], ["biweekly", 16.274433916891887], ["triweekly", 17.219052800956927]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 969.178975050726], ["weekly", 940.1926698654161], ["biweekly", 877.6858888512841], ["triweekly", 814.2614780640602]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.3448016269444842], ["biweekly", 1.643380648173881], ["triweekly", 1.4821639907479505]],
+      "Confirmed Cumulative Cases": [["daily", 855.0], ["weekly", 829.4285714285714], ["biweekly", 774.2857142857143], ["triweekly", 718.3333333333334]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 7.714285714285714], ["biweekly", 14.357142857142858], ["triweekly", 15.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.03274853801169591], ["weekly", 0.030153832224038325], ["biweekly", 0.020131621620958336], ["triweekly", 0.01507502458547128]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.034653465346534656], ["weekly", 0.034871811572879906], ["biweekly", 0.02345978824862757], ["triweekly", 0.01772234637773682]]
     },
     "lat": "REPLACE_MELiberty,Texas"
   }]

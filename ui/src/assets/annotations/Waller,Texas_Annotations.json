@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEWaller,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.019536991016484175], ["biweekly", 0.0237835432907151], ["triweekly", 0.025208376321224038]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 13.187767957344036], ["biweekly", 14.609978227253686], ["triweekly", 14.135908137283804]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 722.2242334286645], ["weekly", 692.487109603281], ["biweekly", 634.0471966942662], ["triweekly", 583.5371834720203]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 4.866431187859759], ["biweekly", 3.378092938807225], ["triweekly", 2.6528556099984675]],
-      "Confirmed Cumulative Cases": [["daily", 399.0], ["weekly", 382.57142857142856], ["biweekly", 350.2857142857143], ["triweekly", 322.3809523809524]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 7.285714285714286], ["biweekly", 8.071428571428571], ["triweekly", 7.809523809523809]],
-      "Confirmed Fatality Rate": [["daily", 0.007518796992481203], ["weekly", 0.009476138242605556], ["biweekly", 0.004738069121302778], ["triweekly", 0.0031587127475351854]],
+      "Spread Rate": [["daily", 0.019851768552730853], ["weekly", 0.019536991016484175], ["biweekly", 0.0237835432907151], ["triweekly", 0.025208376321224038]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.480686384534629], ["weekly", 13.187767957344036], ["biweekly", 14.609978227253686], ["triweekly", 14.135908137283804]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 736.7049198131992], ["weekly", 692.487109603281], ["biweekly", 634.0471966942662], ["triweekly", 583.5371834720203]],
+      "Daily Growth Rate": [["daily", 1.3333333333333333], ["weekly", 4.866431187859759], ["biweekly", 3.378092938807225], ["triweekly", 2.6528556099984675]],
+      "Confirmed Cumulative Cases": [["daily", 407.0], ["weekly", 382.57142857142856], ["biweekly", 350.2857142857143], ["triweekly", 322.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 7.285714285714286], ["biweekly", 8.071428571428571], ["triweekly", 7.809523809523809]],
+      "Confirmed Fatality Rate": [["daily", 0.007371007371007371], ["weekly", 0.009476138242605556], ["biweekly", 0.004738069121302778], ["triweekly", 0.0031587127475351854]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008595988538681949], ["weekly", 0.011497002818976984], ["biweekly", 0.005748501409488492], ["triweekly", 0.0038323342729923277]]
     },
     "lat": "REPLACE_MEWaller,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEWaller,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.022305757514297753], ["weekly", 0.019127070669633817], ["biweekly", 0.0232857811967084], ["triweekly", 0.02283681334580411]],
-      "Confirmed Daily Cases per 100k": [["daily", 16.290772182601458], ["weekly", 12.92918427190592], ["biweekly", 14.351394541815566], ["triweekly", 13.101573395531332]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 738.515005611266], ["weekly", 705.416293875187], ["biweekly", 648.3985912360816], ["triweekly", 596.6387568675517]],
-      "Daily Growth Rate": [["daily", 1.224744871391589], ["weekly", 4.855442176870748], ["biweekly", 3.3576847755419186], ["triweekly", 2.5893635465064038]],
-      "Confirmed Cumulative Cases": [["daily", 408.0], ["weekly", 389.7142857142857], ["biweekly", 358.2142857142857], ["triweekly", 329.6190476190476]],
-      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 7.142857142857143], ["biweekly", 7.928571428571429], ["triweekly", 7.238095238095238]],
-      "Confirmed Fatality Rate": [["daily", 0.007352941176470588], ["weekly", 0.008094255373336601], ["biweekly", 0.00527512604933715], ["triweekly", 0.0035167506995580997]],
+      "Spread Rate": [["daily", 0.0024539889615668997], ["weekly", 0.021963037605738225], ["biweekly", 0.024703764664760604], ["triweekly", 0.02378213565783891]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.8100857980668286], ["weekly", 14.997853755410867], ["biweekly", 15.38572928356804], ["triweekly", 13.79112989003298]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 738.515005611266], ["weekly", 707.4849633586919], ["biweekly", 649.4329259778342], ["triweekly", 597.3283133620533]],
+      "Daily Growth Rate": [["daily", 0.125], ["weekly", 5.04591836734694], ["biweekly", 3.452922870780014], ["triweekly", 2.6528556099984675]],
+      "Confirmed Cumulative Cases": [["daily", 408.0], ["weekly", 390.85714285714283], ["biweekly", 358.7857142857143], ["triweekly", 330.0]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 8.285714285714286], ["biweekly", 8.5], ["triweekly", 7.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.007352941176470588], ["weekly", 0.00807314257026891], ["biweekly", 0.005264569647803305], ["triweekly", 0.0035097130985355363]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007957559681697613], ["weekly", 0.009748810705455356], ["biweekly", 0.006362500590822917], ["triweekly", 0.004241667060548611]]
+    },
+    "lat": "REPLACE_MEWaller,Texas"
+  }, {
+    "locale": "Waller,Texas",
+    "long": "REPLACE_MEWaller,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012180418556871686], ["weekly", 0.011288855279450085], ["biweekly", 0.022440977707054062], ["triweekly", 0.022756080270316243]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.050428990334142], ["weekly", 8.01609424858167], ["biweekly", 14.22210269909651], ["triweekly", 13.360157080969449]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 747.5654346016001], ["weekly", 715.5010576072735], ["biweekly", 663.6550286769308], ["triweekly", 610.6884704430228]],
+      "Daily Growth Rate": [["daily", 5.0], ["weekly", 1.0637755102040816], ["biweekly", 3.1047085850657283], ["triweekly", 2.6349984671413247]],
+      "Confirmed Cumulative Cases": [["daily", 413.0], ["weekly", 395.2857142857143], ["biweekly", 366.64285714285717], ["triweekly", 337.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 4.428571428571429], ["biweekly", 7.857142857142857], ["triweekly", 7.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.009685230024213076], ["weekly", 0.007607837084679449], ["biweekly", 0.005789779731836918], ["triweekly", 0.0038598531545579453]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010498687664041995], ["weekly", 0.008968059403991258], ["biweekly", 0.006930897710944175], ["triweekly", 0.004620598473962783]]
     },
     "lat": "REPLACE_MEWaller,Texas"
   }]

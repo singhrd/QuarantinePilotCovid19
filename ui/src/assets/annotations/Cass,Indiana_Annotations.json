@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005807200929152149], ["weekly", 0.005903243554529041], ["biweekly", 0.005963450572132477], ["triweekly", 0.0060018047954761315]]
     },
     "lat": "REPLACE_MECass,Indiana"
+  }, {
+    "locale": "Cass,Indiana",
+    "long": "REPLACE_MECass,Indiana",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0017089152549685238], ["weekly", 0.0026303554206360707], ["biweekly", 0.0033344944201934013], ["triweekly", 0.002881796619619049]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.959882193743533], ["weekly", 12.12934429522824], ["biweekly", 15.1616803690353], ["triweekly", 13.013775650088636]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4661.8376714691285], ["weekly", 4626.207722601896], ["biweekly", 4569.730463227238], ["triweekly", 4517.675360626886]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 1.1118581937615308], ["biweekly", 1.2625462892122434], ["triweekly", 1.3726499070938762]],
+      "Confirmed Cumulative Cases": [["daily", 1757.0], ["weekly", 1743.5714285714287], ["biweekly", 1722.2857142857142], ["triweekly", 1702.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 4.571428571428571], ["biweekly", 5.714285714285714], ["triweekly", 4.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.005691519635742743], ["weekly", 0.00573547189631886], ["biweekly", 0.005807463816710888], ["triweekly", 0.0058755655724973994]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005777007510109763], ["weekly", 0.005879455737102918], ["biweekly", 0.00594561241058667], ["triweekly", 0.005988155067515211]]
+    },
+    "lat": "REPLACE_MECass,Indiana"
   }]
 }

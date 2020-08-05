@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEMorris,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.03150610994487885], ["biweekly", 0.030086676076878822], ["triweekly", 0.033007008598092615]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 21.910604732690622], ["biweekly", 19.027630425757643], ["triweekly", 18.451035564371047]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 774.9434937035841], ["weekly", 686.1478850500483], ["biweekly", 618.1096914064301], ["triweekly", 561.218998416286]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.4217687074829932], ["biweekly", 1.2283559352586528], ["triweekly", 1.3819942980246283]],
-      "Confirmed Cumulative Cases": [["daily", 96.0], ["weekly", 85.0], ["biweekly", 76.57142857142857], ["triweekly", 69.52380952380952]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.7142857142857144], ["biweekly", 2.357142857142857], ["triweekly", 2.2857142857142856]],
-      "Confirmed Fatality Rate": [["daily", 0.010416666666666666], ["weekly", 0.010011293186177064], ["biweekly", 0.005005646593088532], ["triweekly", 0.003337097728725688]],
+      "Spread Rate": [["daily", 0.010362787035546717], ["weekly", 0.03150610994487885], ["biweekly", 0.030086676076878822], ["triweekly", 0.033007008598092615]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.072328059412333], ["weekly", 21.910604732690622], ["biweekly", 19.027630425757643], ["triweekly", 18.451035564371047]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 783.0158217629964], ["weekly", 686.1478850500483], ["biweekly", 618.1096914064301], ["triweekly", 561.218998416286]],
+      "Daily Growth Rate": [["daily", 0.2], ["weekly", 1.4217687074829932], ["biweekly", 1.2283559352586528], ["triweekly", 1.3819942980246283]],
+      "Confirmed Cumulative Cases": [["daily", 97.0], ["weekly", 85.0], ["biweekly", 76.57142857142857], ["triweekly", 69.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.7142857142857144], ["biweekly", 2.357142857142857], ["triweekly", 2.2857142857142856]],
+      "Confirmed Fatality Rate": [["daily", 0.010309278350515464], ["weekly", 0.010011293186177064], ["biweekly", 0.005005646593088532], ["triweekly", 0.003337097728725688]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012658227848101266], ["weekly", 0.012467705613714018], ["biweekly", 0.006233852806857009], ["triweekly", 0.004155901871238006]]
     },
     "lat": "REPLACE_MEMorris,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEMorris,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.010362787035546717], ["weekly", 0.027842905571544944], ["biweekly", 0.030086676076878822], ["triweekly", 0.031063104097128102]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.072328059412333], ["weekly", 19.60422528714424], ["biweekly", 19.027630425757643], ["triweekly", 17.682242415855587]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 783.0158217629964], ["weekly", 705.7521103371927], ["biweekly", 637.1373218321877], ["triweekly", 578.9012408321416]],
-      "Daily Growth Rate": [["daily", 0.4472135954999579], ["weekly", 1.3809523809523812], ["biweekly", 1.2283559352586528], ["triweekly", 1.3146507950544806]],
-      "Confirmed Cumulative Cases": [["daily", 97.0], ["weekly", 87.42857142857143], ["biweekly", 78.92857142857143], ["triweekly", 71.71428571428571]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.4285714285714284], ["biweekly", 2.357142857142857], ["triweekly", 2.1904761904761907]],
-      "Confirmed Fatality Rate": [["daily", 0.010309278350515464], ["weekly", 0.011499388424272302], ["biweekly", 0.005749694212136151], ["triweekly", 0.0038331294747574345]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.02932330371948019], ["biweekly", 0.030826875150846447], ["triweekly", 0.03155657014643985]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 20.75741500991743], ["biweekly", 19.604225287144235], ["triweekly", 18.06663899011332]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 783.0158217629964], ["weekly", 706.905300059966], ["biweekly", 637.7139166935742], ["triweekly", 579.2856374063994]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.4095238095238096], ["biweekly", 1.242641649544367], ["triweekly", 1.32417460457829]],
+      "Confirmed Cumulative Cases": [["daily", 97.0], ["weekly", 87.57142857142857], ["biweekly", 79.0], ["triweekly", 71.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.5714285714285716], ["biweekly", 2.4285714285714284], ["triweekly", 2.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.010309278350515464], ["weekly", 0.011484047236250702], ["biweekly", 0.005742023618125351], ["triweekly", 0.003828015745416901]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012658227848101266], ["weekly", 0.014276023877728484], ["biweekly", 0.007138011938864242], ["triweekly", 0.0047586746259094944]]
+    },
+    "lat": "REPLACE_MEMorris,Texas"
+  }, {
+    "locale": "Morris,Texas",
+    "long": "REPLACE_MEMorris,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.02932330371948019], ["biweekly", 0.029701992510265094], ["triweekly", 0.030613587894240814]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 20.75741500991743], ["biweekly", 19.027630425757643], ["triweekly", 17.682242415855587]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 783.0158217629964], ["weekly", 727.6627150698831], ["biweekly", 656.7415471193319], ["triweekly", 596.9678798222549]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.4095238095238096], ["biweekly", 1.1921340223167562], ["triweekly", 1.3003650807687663]],
+      "Confirmed Cumulative Cases": [["daily", 97.0], ["weekly", 90.14285714285714], ["biweekly", 81.35714285714286], ["triweekly", 73.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.5714285714285716], ["biweekly", 2.357142857142857], ["triweekly", 2.1904761904761907]],
+      "Confirmed Fatality Rate": [["daily", 0.010309278350515464], ["weekly", 0.011148483022309873], ["biweekly", 0.006478400643162171], ["triweekly", 0.004318933762108114]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013852199284600093], ["biweekly", 0.008042171070871474], ["triweekly", 0.0053614473805809835]]
     },
     "lat": "REPLACE_MEMorris,Texas"
   }]

@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MECoryell,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.021904859988671786], ["biweekly", 0.025878066874496803], ["triweekly", 0.02048953701085183]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 16.363933889707084], ["biweekly", 17.49248105451447], ["triweekly", 13.417171848265578]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 805.782675672473], ["weekly", 768.5406192338293], ["biweekly", 696.6897830744258], ["triweekly", 647.0964048876125]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.5937074829931974], ["biweekly", 1.3684283379506648], ["triweekly", 1.3071268284750464]],
-      "Confirmed Cumulative Cases": [["daily", 612.0], ["weekly", 583.7142857142857], ["biweekly", 529.1428571428571], ["triweekly", 491.4761904761905]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 12.428571428571429], ["biweekly", 13.285714285714286], ["triweekly", 10.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.008169934640522876], ["weekly", 0.008057962097827786], ["biweekly", 0.007206639164084557], ["triweekly", 0.006972050393081429]],
+      "Spread Rate": [["daily", 0.0032626456348161526], ["weekly", 0.021904859988671786], ["biweekly", 0.025878066874496803], ["triweekly", 0.02048953701085183]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.633276717883899], ["weekly", 16.363933889707084], ["biweekly", 17.49248105451447], ["triweekly", 13.417171848265578]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 808.4159523903569], ["weekly", 768.5406192338293], ["biweekly", 696.6897830744258], ["triweekly", 647.0964048876125]],
+      "Daily Growth Rate": [["daily", 0.2222222222222222], ["weekly", 1.5937074829931974], ["biweekly", 1.3684283379506648], ["triweekly", 1.3071268284750464]],
+      "Confirmed Cumulative Cases": [["daily", 614.0], ["weekly", 583.7142857142857], ["biweekly", 529.1428571428571], ["triweekly", 491.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 12.428571428571429], ["biweekly", 13.285714285714286], ["triweekly", 10.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.008143322475570033], ["weekly", 0.008057962097827786], ["biweekly", 0.007206639164084557], ["triweekly", 0.006972050393081429]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009041591320072333], ["weekly", 0.009936885722478011], ["biweekly", 0.008574808794689975], ["triweekly", 0.00825548976843217]]
     },
     "lat": "REPLACE_MECoryell,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MECoryell,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0032626456348161526], ["weekly", 0.014482040141427304], ["biweekly", 0.024220717083092275], ["triweekly", 0.020131945485988418]],
-      "Confirmed Daily Cases per 100k": [["daily", 2.633276717883899], ["weekly", 11.097380453939289], ["biweekly", 16.552025083841652], ["triweekly", 13.229080654131016]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 808.4159523903569], ["weekly", 779.6379996877687], ["biweekly", 713.2418081582674], ["triweekly", 660.3254855417434]],
-      "Daily Growth Rate": [["daily", 0.4714045207910317], ["weekly", 1.0222789115646258], ["biweekly", 1.2554898500875082], ["triweekly", 1.3011744475226652]],
-      "Confirmed Cumulative Cases": [["daily", 614.0], ["weekly", 592.1428571428571], ["biweekly", 541.7142857142857], ["triweekly", 501.5238095238095]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 8.428571428571429], ["biweekly", 12.571428571428571], ["triweekly", 10.047619047619047]],
-      "Confirmed Fatality Rate": [["daily", 0.008143322475570033], ["weekly", 0.008450102076181996], ["biweekly", 0.007298724928053752], ["triweekly", 0.007123593415388717]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.01494813237497247], ["biweekly", 0.024453763199864857], ["triweekly", 0.020287309563836804]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 11.473562842208418], ["biweekly", 16.740116277976217], ["triweekly", 13.354474783554059]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 808.4159523903569], ["weekly", 780.0141820760379], ["biweekly", 713.4298993524019], ["triweekly", 660.4508796711665]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0540249433106577], ["biweekly", 1.271362865960524], ["triweekly", 1.311756458104676]],
+      "Confirmed Cumulative Cases": [["daily", 614.0], ["weekly", 592.4285714285714], ["biweekly", 541.8571428571429], ["triweekly", 501.6190476190476]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 8.714285714285714], ["biweekly", 12.714285714285714], ["triweekly", 10.142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.008143322475570033], ["weekly", 0.00844630033833159], ["biweekly", 0.00729682405912855], ["triweekly", 0.007122326169438581]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008787346221441126], ["weekly", 0.010245579633209182], ["biweekly", 0.00868625840625909], ["triweekly", 0.008402595024036522]]
+    },
+    "lat": "REPLACE_MECoryell,Texas"
+  }, {
+    "locale": "Coryell,Texas",
+    "long": "REPLACE_MECoryell,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009724549891995338], ["weekly", 0.010873499145830199], ["biweekly", 0.024453763199864857], ["triweekly", 0.019932383342190083]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.899830153651696], ["weekly", 8.464103736055389], ["biweekly", 16.740116277976217], ["triweekly", 13.166383589419494]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 816.3157825440086], ["weekly", 788.4782858120932], ["biweekly", 730.1700156303781], ["triweekly", 673.6172632605859]],
+      "Daily Growth Rate": [["daily", 1.7320508075688772], ["weekly", 0.9723922902494332], ["biweekly", 1.271362865960524], ["triweekly", 1.2641374104856282]],
+      "Confirmed Cumulative Cases": [["daily", 620.0], ["weekly", 598.8571428571429], ["biweekly", 554.5714285714286], ["triweekly", 511.6190476190476]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 6.428571428571429], ["biweekly", 12.714285714285714], ["triweekly", 10.0]],
+      "Confirmed Fatality Rate": [["daily", 0.008064516129032258], ["weekly", 0.008354296946064292], ["biweekly", 0.007387008954172543], ["triweekly", 0.0072743655706797765]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008695652173913044], ["weekly", 0.009862644820806931], ["biweekly", 0.008783515809629355], ["triweekly", 0.008537593370182244]]
     },
     "lat": "REPLACE_MECoryell,Texas"
   }]

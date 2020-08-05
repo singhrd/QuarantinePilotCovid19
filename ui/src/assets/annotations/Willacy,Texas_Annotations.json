@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEWillacy,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.007250649949961131], ["biweekly", 0.015604406825756747], ["triweekly", 0.03743195862746488]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 19.397214827498562], ["biweekly", 38.45999491659198], ["triweekly", 71.1231210341614]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2743.702593875831], ["weekly", 2688.8552967773867], ["biweekly", 2547.723837170415], ["triweekly", 2324.9903013925864]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2666666666666668], ["biweekly", 2.6321847579611553], ["triweekly", 2.3837882439938554]],
-      "Confirmed Cumulative Cases": [["daily", 586.0], ["weekly", 574.2857142857143], ["biweekly", 544.1428571428571], ["triweekly", 496.57142857142856]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.142857142857143], ["biweekly", 8.214285714285714], ["triweekly", 15.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.030716723549488054], ["weekly", 0.02706626107722702], ["biweekly", 0.016992999931135417], ["triweekly", 0.013868021096382199]],
+      "Spread Rate": [["daily", 0.005106394074574361], ["weekly", 0.007250649949961131], ["biweekly", 0.015604406825756747], ["triweekly", 0.03743195862746488]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.0462590130162], ["weekly", 19.397214827498562], ["biweekly", 38.45999491659198], ["triweekly", 71.1231210341614]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2757.7488528888475], ["weekly", 2688.8552967773867], ["biweekly", 2547.723837170415], ["triweekly", 2324.9903013925864]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.2666666666666668], ["biweekly", 2.6321847579611553], ["triweekly", 2.3837882439938554]],
+      "Confirmed Cumulative Cases": [["daily", 589.0], ["weekly", 574.2857142857143], ["biweekly", 544.1428571428571], ["triweekly", 496.57142857142856]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 4.142857142857143], ["biweekly", 8.214285714285714], ["triweekly", 15.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.030560271646859084], ["weekly", 0.02706626107722702], ["biweekly", 0.016992999931135417], ["triweekly", 0.013868021096382199]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.031746031746031744], ["weekly", 0.03002910289388397], ["biweekly", 0.01946639716595159], ["triweekly", 0.01705499061922347]]
     },
     "lat": "REPLACE_MEWillacy,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEWillacy,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.013559529785633018], ["weekly", 0.00470864083560864], ["biweekly", 0.015301742934648541], ["triweekly", 0.028071171773679755]],
-      "Confirmed Daily Cases per 100k": [["daily", 37.45669070137654], ["weekly", 12.708520059395608], ["biweekly", 37.79112543978169], ["triweekly", 58.1916444824957]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2781.159284577208], ["weekly", 2701.5638168367827], ["biweekly", 2585.5149626101966], ["triweekly", 2383.181945875082]],
-      "Daily Growth Rate": [["daily", 1.1547005383792515], ["weekly", 1.1714285714285713], ["biweekly", 2.61631174208814], ["triweekly", 2.1327059929116046]],
-      "Confirmed Cumulative Cases": [["daily", 594.0], ["weekly", 577.0], ["biweekly", 552.2142857142857], ["triweekly", 509.0]],
-      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 2.7142857142857144], ["biweekly", 8.071428571428571], ["triweekly", 12.428571428571429]],
-      "Confirmed Fatality Rate": [["daily", 0.03367003367003367], ["weekly", 0.030446553909819547], ["biweekly", 0.01873401627648544], ["triweekly", 0.01489116177822595]],
+      "Spread Rate": [["daily", 0.008453135711058657], ["weekly", 0.005438125703404977], ["biweekly", 0.015666485368546708], ["triweekly", 0.028314333396278535]],
+      "Confirmed Daily Cases per 100k": [["daily", 23.410431688360333], ["weekly", 14.715128489826494], ["biweekly", 38.79442965499713], ["triweekly", 58.86051395930599]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2781.159284577208], ["weekly", 2703.5704252672135], ["biweekly", 2586.5182668254124], ["triweekly", 2383.8508153518924]],
+      "Daily Growth Rate": [["daily", 1.6666666666666667], ["weekly", 1.2428571428571427], ["biweekly", 2.6520260278024255], ["triweekly", 2.1565155167211283]],
+      "Confirmed Cumulative Cases": [["daily", 594.0], ["weekly", 577.4285714285714], ["biweekly", 552.4285714285714], ["triweekly", 509.14285714285717]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 3.142857142857143], ["biweekly", 8.285714285714286], ["triweekly", 12.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.03367003367003367], ["weekly", 0.030424203638015408], ["biweekly", 0.018722841140583372], ["triweekly", 0.014883711687624571]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.035211267605633804], ["weekly", 0.03335615605482418], ["biweekly", 0.021074630202756052], ["triweekly", 0.017942876098500093]]
+    },
+    "lat": "REPLACE_MEWillacy,Texas"
+  }, {
+    "locale": "Willacy,Texas",
+    "long": "REPLACE_MEWillacy,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03311560878449704], ["weekly", 0.006393985805927649], ["biweekly", 0.016119428404826306], ["triweekly", 0.025735264014520025]],
+      "Confirmed Daily Cases per 100k": [["daily", 93.64172675344133], ["weekly", 17.39060639706768], ["biweekly", 40.13216860861771], ["triweekly", 55.29321008298442]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2874.801011330649], ["weekly", 2720.9610316642816], ["biweekly", 2626.65043543403], ["triweekly", 2439.144025434877]],
+      "Daily Growth Rate": [["daily", 4.0], ["weekly", 1.4666666666666666], ["biweekly", 2.735359361135759], ["triweekly", 2.218639216775863]],
+      "Confirmed Cumulative Cases": [["daily", 614.0], ["weekly", 581.1428571428571], ["biweekly", 561.0], ["triweekly", 520.952380952381]],
+      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 3.7142857142857144], ["biweekly", 8.571428571428571], ["triweekly", 11.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.03420195439739414], ["weekly", 0.031210063578804927], ["biweekly", 0.020675763979582158], ["triweekly", 0.016074164708520754]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03684210526315789], ["weekly", 0.03356415510397138], ["biweekly", 0.022970397872357478], ["triweekly", 0.019006482342545192]]
     },
     "lat": "REPLACE_MEWillacy,Texas"
   }]

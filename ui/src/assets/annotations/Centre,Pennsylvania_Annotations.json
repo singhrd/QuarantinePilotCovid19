@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028011204481792718], ["weekly", 0.032045952332781735], ["biweekly", 0.033038287515666835], ["triweekly", 0.034153586824634534]]
     },
     "lat": "REPLACE_MECentre,Pennsylvania"
+  }, {
+    "locale": "Centre,Pennsylvania",
+    "long": "REPLACE_MECentre,Pennsylvania",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0027894020875782743], ["weekly", 0.0003996006601516555], ["biweekly", 0.0155408933046253], ["triweekly", 0.01690857367947223]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.6158204267635558], ["weekly", 0.0879743466805079], ["biweekly", 3.079102133817778], ["triweekly", 3.1377516982714506]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 221.07953320811652], ["weekly", 221.16750755479706], ["biweekly", 208.63116315282468], ["triweekly", 194.54060529282998]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.5312551325882413], ["biweekly", 1.6632070632091658], ["triweekly", 1.6494486767726033]],
+      "Confirmed Cumulative Cases": [["daily", 359.0], ["weekly", 359.14285714285717], ["biweekly", 338.7857142857143], ["triweekly", 315.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.14285714285714285], ["biweekly", 5.0], ["triweekly", 5.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.027855153203342618], ["weekly", 0.027850979518154042], ["biweekly", 0.02813796002551548], ["triweekly", 0.029512850594229086]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0273972602739726], ["weekly", 0.03158326725875212], ["biweekly", 0.03247790399971066], ["triweekly", 0.03381660992861297]]
+    },
+    "lat": "REPLACE_MECentre,Pennsylvania"
   }]
 }

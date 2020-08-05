@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEBrazoria,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.02992874138117913], ["biweekly", 0.02592797039638839], ["triweekly", 0.031698750215406184]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 47.14013942793627], ["biweekly", 37.96021753933816], ["triweekly", 40.409469048077085]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1745.8264754291088], ["weekly", 1606.2000543542983], ["biweekly", 1474.1122385726194], ["triweekly", 1338.0292800701923]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.9310907106230115], ["biweekly", 1.3879222416075785], ["triweekly", 1.351991705432257]],
-      "Confirmed Cumulative Cases": [["daily", 6534.0], ["weekly", 6011.428571428572], ["biweekly", 5517.071428571428], ["triweekly", 5007.761904761905]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 176.42857142857142], ["biweekly", 142.07142857142858], ["triweekly", 151.23809523809524]],
-      "Confirmed Fatality Rate": [["daily", 0.011019283746556474], ["weekly", 0.009457869112571621], ["biweekly", 0.008171482639074785], ["triweekly", 0.007809428379726331]],
+      "Spread Rate": [["daily", 0.018349138668195764], ["weekly", 0.02992874138117913], ["biweekly", 0.02592797039638839], ["triweekly", 0.031698750215406184]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.33011991535387], ["weekly", 47.14013942793627], ["biweekly", 37.96021753933816], ["triweekly", 40.409469048077085]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1778.1565953444626], ["weekly", 1606.2000543542983], ["biweekly", 1474.1122385726194], ["triweekly", 1338.0292800701923]],
+      "Daily Growth Rate": [["daily", 0.8066666666666666], ["weekly", 1.9310907106230115], ["biweekly", 1.3879222416075785], ["triweekly", 1.351991705432257]],
+      "Confirmed Cumulative Cases": [["daily", 6655.0], ["weekly", 6011.428571428572], ["biweekly", 5517.071428571428], ["triweekly", 5007.761904761905]],
+      "Confirmed Daily Cases": [["daily", 121.0], ["weekly", 176.42857142857142], ["biweekly", 142.07142857142858], ["triweekly", 151.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.01081893313298272], ["weekly", 0.009457869112571621], ["biweekly", 0.008171482639074785], ["triweekly", 0.007809428379726331]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013227999265111152], ["weekly", 0.011333878455143942], ["biweekly", 0.010022494902502715], ["triweekly", 0.009771942378301725]]
     },
     "lat": "REPLACE_MEBrazoria,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEBrazoria,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02985296314968089], ["weekly", 0.0260984191038308], ["biweekly", 0.023913582174159207], ["triweekly", 0.03030137742465621]],
-      "Confirmed Daily Cases per 100k": [["daily", 52.90383258876087], ["weekly", 41.64363734079229], ["biweekly", 35.47915756944678], ["triweekly", 39.13713060197894]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1798.7303080178697], ["weekly", 1647.8436916950905], ["biweekly", 1509.591396142066], ["triweekly", 1377.1664106721712]],
-      "Daily Growth Rate": [["daily", 1.1489125293076057], ["weekly", 0.9960257755580763], ["biweekly", 1.3379990465230933], ["triweekly", 1.2966207198287132]],
-      "Confirmed Cumulative Cases": [["daily", 6732.0], ["weekly", 6167.285714285715], ["biweekly", 5649.857142857143], ["triweekly", 5154.238095238095]],
-      "Confirmed Daily Cases": [["daily", 198.0], ["weekly", 155.85714285714286], ["biweekly", 132.78571428571428], ["triweekly", 146.47619047619048]],
-      "Confirmed Fatality Rate": [["daily", 0.010843731431966727], ["weekly", 0.01003470335399591], ["biweekly", 0.008469651493393373], ["triweekly", 0.007989888915620908]],
+      "Spread Rate": [["daily", 0.011503824481485125], ["weekly", 0.028719724627858767], ["biweekly", 0.02522423493617319], ["triweekly", 0.031175145932665533]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.573712673407005], ["weekly", 46.262225900128556], ["biweekly", 37.78845184911491], ["triweekly", 40.6766601217577]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1798.7303080178697], ["weekly", 1652.4622802544268], ["biweekly", 1511.9006904217342], ["triweekly", 1378.70594019195]],
+      "Daily Growth Rate": [["daily", 0.6363636363636364], ["weekly", 1.1112638707961715], ["biweekly", 1.3956180941421412], ["triweekly", 1.3350334182414114]],
+      "Confirmed Cumulative Cases": [["daily", 6732.0], ["weekly", 6184.571428571428], ["biweekly", 5658.5], ["triweekly", 5160.0]],
+      "Confirmed Daily Cases": [["daily", 77.0], ["weekly", 173.14285714285714], ["biweekly", 141.42857142857142], ["triweekly", 152.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.010843731431966727], ["weekly", 0.010006081837771089], ["biweekly", 0.008455340735280962], ["triweekly", 0.007980348410212633]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013098869549614211], ["weekly", 0.012062400886447059], ["biweekly", 0.010306358850671648], ["triweekly", 0.009963366003747256]]
+    },
+    "lat": "REPLACE_MEBrazoria,Texas"
+  }, {
+    "locale": "Brazoria,Texas",
+    "long": "REPLACE_MEBrazoria,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0269912525344514], ["biweekly", 0.024653935721847882], ["triweekly", 0.030472603468630274]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 44.2392077708325], ["biweekly", 37.502175698742825], ["triweekly", 40.48580935484298]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1798.7303080178697], ["weekly", 1696.7014880252593], ["biweekly", 1549.402866120477], ["triweekly", 1419.1917495467928]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0732047077370086], ["biweekly", 1.3905231890472358], ["triweekly", 1.321526924734918]],
+      "Confirmed Cumulative Cases": [["daily", 6732.0], ["weekly", 6350.142857142857], ["biweekly", 5798.857142857143], ["triweekly", 5311.523809523809]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 165.57142857142858], ["biweekly", 140.35714285714286], ["triweekly", 151.52380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.011586452762923352], ["weekly", 0.010273496548246353], ["biweekly", 0.008720438097146547], ["triweekly", 0.008121129719179528]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013229308005427409], ["weekly", 0.012435271249448978], ["biweekly", 0.010557887762163206], ["triweekly", 0.010115812635669331]]
     },
     "lat": "REPLACE_MEBrazoria,Texas"
   }]

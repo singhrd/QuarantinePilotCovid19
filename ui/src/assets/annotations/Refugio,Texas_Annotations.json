@@ -2899,12 +2899,12 @@
     "long": "REPLACE_MERefugio,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.04939226762950596], ["biweekly", 0.06730472987695826], ["triweekly", 0.07199044966048497]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 117.19713792252654], ["biweekly", 122.33736327000575], ["triweekly", 104.17523370891247]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2806.5630397236614], ["weekly", 2489.9251583189402], ["biweekly", 2044.781643227239], ["triweekly", 1651.0403816103299]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.7281782822259792], ["biweekly", 2.3234378806087883], ["triweekly", 2.4606679710843085]],
-      "Confirmed Cumulative Cases": [["daily", 195.0], ["weekly", 173.0], ["biweekly", 142.07142857142858], ["triweekly", 114.71428571428571]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 8.142857142857142], ["biweekly", 8.5], ["triweekly", 7.238095238095238]],
+      "Spread Rate": [["daily", 0.06933469340106413], ["weekly", 0.04939226762950596], ["biweekly", 0.06730472987695826], ["triweekly", 0.07199044966048497]],
+      "Confirmed Daily Cases per 100k": [["daily", 201.49683362118594], ["weekly", 117.19713792252654], ["biweekly", 122.33736327000575], ["triweekly", 104.17523370891247]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3008.0598733448473], ["weekly", 2489.9251583189402], ["biweekly", 2044.781643227239], ["triweekly", 1651.0403816103299]],
+      "Daily Growth Rate": [["daily", 1.1666666666666667], ["weekly", 2.7281782822259792], ["biweekly", 2.3234378806087883], ["triweekly", 2.4606679710843085]],
+      "Confirmed Cumulative Cases": [["daily", 209.0], ["weekly", 173.0], ["biweekly", 142.07142857142858], ["triweekly", 114.71428571428571]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 8.142857142857142], ["biweekly", 8.5], ["triweekly", 7.238095238095238]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
@@ -2914,12 +2914,27 @@
     "long": "REPLACE_MERefugio,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.06933469340106413], ["weekly", 0.031877650187744244], ["biweekly", 0.06453940757833752], ["triweekly", 0.06386542503997243]],
-      "Confirmed Daily Cases per 100k": [["daily", 201.49683362118594], ["weekly", 80.18751542067604], ["biweekly", 119.25322806151819], ["triweekly", 98.6923266716013]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3008.0598733448473], ["weekly", 2570.1126737396166], ["biweekly", 2164.0348712887576], ["triweekly", 1749.7327082819309]],
-      "Daily Growth Rate": [["daily", 1.0801234497346435], ["weekly", 2.5303760844237817], ["biweekly", 2.296652166323074], ["triweekly", 2.079715590131927]],
-      "Confirmed Cumulative Cases": [["daily", 209.0], ["weekly", 178.57142857142858], ["biweekly", 150.35714285714286], ["triweekly", 121.57142857142857]],
-      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 5.571428571428571], ["biweekly", 8.285714285714286], ["triweekly", 6.857142857142857]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.041782606387896264], ["biweekly", 0.06949188567841354], ["triweekly", 0.06716707710668977]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 108.97277736655974], ["biweekly", 133.64585903446005], ["triweekly", 108.28741398689586]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3008.0598733448473], ["weekly", 2598.8979356855007], ["biweekly", 2178.4275022616994], ["triweekly", 1759.3277955972258]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.6970427510904487], ["biweekly", 2.379985499656407], ["triweekly", 2.1352711456874824]],
+      "Confirmed Cumulative Cases": [["daily", 209.0], ["weekly", 180.57142857142858], ["biweekly", 151.35714285714286], ["triweekly", 122.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 7.571428571428571], ["biweekly", 9.285714285714286], ["triweekly", 7.523809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MERefugio,Texas"
+  }, {
+    "locale": "Refugio,Texas",
+    "long": "REPLACE_MERefugio,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.023641763057040244], ["weekly", 0.041782606387896264], ["biweekly", 0.06097842015947652], ["triweekly", 0.06716707710668977]],
+      "Confirmed Daily Cases per 100k": [["daily", 71.96315486470927], ["weekly", 108.97277736655974], ["biweekly", 123.3654083395016], ["triweekly", 108.28741398689586]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3080.0230282095567], ["weekly", 2707.87071305206], ["biweekly", 2301.7929106012007], ["triweekly", 1867.6152095841217]],
+      "Daily Growth Rate": [["daily", 0.5976143046671968], ["weekly", 2.6970427510904487], ["biweekly", 2.141890261561169], ["triweekly", 2.1352711456874824]],
+      "Confirmed Cumulative Cases": [["daily", 214.0], ["weekly", 188.14285714285714], ["biweekly", 159.92857142857142], ["triweekly", 129.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 7.571428571428571], ["biweekly", 8.571428571428571], ["triweekly", 7.523809523809524]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },

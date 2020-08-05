@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEAndrews,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.01788044899342938], ["biweekly", 0.02215392345027421], ["triweekly", 0.023706591820913288]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 22.91213197388017], ["biweekly", 25.96708290373086], ["triweekly", 25.45792441542241]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1363.27185244587], ["weekly", 1287.6618169320657], ["biweekly", 1196.3951579027762], ["triweekly", 1109.7109252682628]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8819676354076021], ["biweekly", 0.9451144091371996], ["triweekly", 1.0622646962860536]],
-      "Confirmed Cumulative Cases": [["daily", 255.0], ["weekly", 240.85714285714286], ["biweekly", 223.78571428571428], ["triweekly", 207.57142857142858]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.285714285714286], ["biweekly", 4.857142857142857], ["triweekly", 4.761904761904762]],
-      "Confirmed Fatality Rate": [["daily", 0.023529411764705882], ["weekly", 0.022463378437128624], ["biweekly", 0.018081430361322873], ["triweekly", 0.01586553191209565]],
+      "Spread Rate": [["daily", 0.04223276362327333], ["weekly", 0.01788044899342938], ["biweekly", 0.02215392345027421], ["triweekly", 0.023706591820913288]],
+      "Confirmed Daily Cases per 100k": [["daily", 58.80780539962577], ["weekly", 22.91213197388017], ["biweekly", 25.96708290373086], ["triweekly", 25.45792441542241]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1422.0796578454958], ["weekly", 1287.6618169320657], ["biweekly", 1196.3951579027762], ["triweekly", 1109.7109252682628]],
+      "Daily Growth Rate": [["daily", 2.345207879911715], ["weekly", 0.8819676354076021], ["biweekly", 0.9451144091371996], ["triweekly", 1.0622646962860536]],
+      "Confirmed Cumulative Cases": [["daily", 266.0], ["weekly", 240.85714285714286], ["biweekly", 223.78571428571428], ["triweekly", 207.57142857142858]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 4.285714285714286], ["biweekly", 4.857142857142857], ["triweekly", 4.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.022556390977443608], ["weekly", 0.022463378437128624], ["biweekly", 0.018081430361322873], ["triweekly", 0.01586553191209565]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02666666666666667], ["weekly", 0.026163480478407285], ["biweekly", 0.02119370393202458], ["triweekly", 0.019754152619474226]]
     },
     "lat": "REPLACE_MEAndrews,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEAndrews,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.04598511324182386], ["weekly", 0.01788044899342938], ["biweekly", 0.0213940378641988], ["triweekly", 0.01958880143977868]],
-      "Confirmed Daily Cases per 100k": [["daily", 64.15396952686447], ["weekly", 22.91213197388017], ["biweekly", 25.203345171268186], ["triweekly", 21.89381499726327]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1427.4258219727346], ["weekly", 1310.5739489059458], ["biweekly", 1221.5985030740444], ["triweekly", 1131.6047402655258]],
-      "Daily Growth Rate": [["daily", 1.8171205928321397], ["weekly", 0.8819676354076021], ["biweekly", 0.9213048853276756], ["triweekly", 1.0332791890396769]],
-      "Confirmed Cumulative Cases": [["daily", 267.0], ["weekly", 245.14285714285714], ["biweekly", 228.5], ["triweekly", 211.66666666666666]],
-      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 4.285714285714286], ["biweekly", 4.714285714285714], ["triweekly", 4.095238095238095]],
-      "Confirmed Fatality Rate": [["daily", 0.02247191011235955], ["weekly", 0.023285040435261212], ["biweekly", 0.019006244731515392], ["triweekly", 0.01642244106628988]],
+      "Spread Rate": [["daily", 0.0037523496185505323], ["weekly", 0.023913700939611284], ["biweekly", 0.024410663837289754], ["triweekly", 0.021599885421839316]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.346164127238707], ["weekly", 31.313247030969567], ["biweekly", 29.403902699812882], ["triweekly", 24.694186682959735]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1427.4258219727346], ["weekly", 1318.9750639630352], ["biweekly", 1225.7990606025892], ["triweekly", 1134.4051119512224]],
+      "Daily Growth Rate": [["daily", 0.09090909090909091], ["weekly", 1.2169973325378471], ["biweekly", 1.0888197338927983], ["triweekly", 1.1449557547497586]],
+      "Confirmed Cumulative Cases": [["daily", 267.0], ["weekly", 246.71428571428572], ["biweekly", 229.28571428571428], ["triweekly", 212.1904761904762]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 5.857142857142857], ["biweekly", 5.5], ["triweekly", 4.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.02247191011235955], ["weekly", 0.023146037465652313], ["biweekly", 0.018936743246710946], ["triweekly", 0.01637610674308691]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.026949572693070932], ["biweekly", 0.02225315729917026], ["triweekly", 0.02009935218797477]]
+    },
+    "lat": "REPLACE_MEAndrews,Texas"
+  }, {
+    "locale": "Andrews,Texas",
+    "long": "REPLACE_MEAndrews,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003738322110606873], ["weekly", 0.022557575635115512], ["biweekly", 0.024678688810043363], ["triweekly", 0.02177856873700839]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.346164127238707], ["weekly", 29.78577156604422], ["biweekly", 29.785771566044218], ["triweekly", 24.94876592711396]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1432.7719860999732], ["weekly", 1348.7608355290793], ["biweekly", 1255.5848321686335], ["triweekly", 1159.3538778783363]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.128969091069639], ["biweekly", 1.0953132403863048], ["triweekly", 1.149284759078763]],
+      "Confirmed Cumulative Cases": [["daily", 268.0], ["weekly", 252.28571428571428], ["biweekly", 234.85714285714286], ["triweekly", 216.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 5.571428571428571], ["biweekly", 5.571428571428571], ["triweekly", 4.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.022388059701492536], ["weekly", 0.023223478258646037], ["biweekly", 0.019786021784593016], ["triweekly", 0.01688265867574083]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02586206896551724], ["weekly", 0.026929681695736323], ["biweekly", 0.023287548009674326], ["triweekly", 0.020427843318714237]]
     },
     "lat": "REPLACE_MEAndrews,Texas"
   }]

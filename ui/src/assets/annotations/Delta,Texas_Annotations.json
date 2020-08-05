@@ -2899,12 +2899,12 @@
     "long": "REPLACE_MEDelta,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.022021525689608294], ["biweekly", 0.031559482305645634], ["triweekly", 0.03300700859809263]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 5.359487632982287], ["biweekly", 6.699359541227858], ["triweekly", 6.252735571812668]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 262.61489401613204], ["weekly", 241.17694348420287], ["biweekly", 227.77822440174717], ["triweekly", 206.34027386981796]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.21428571428571427], ["triweekly", 0.19047619047619047]],
-      "Confirmed Cumulative Cases": [["daily", 14.0], ["weekly", 12.857142857142858], ["biweekly", 12.142857142857142], ["triweekly", 11.0]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.35714285714285715], ["triweekly", 0.3333333333333333]],
+      "Spread Rate": [["daily", 0.13353139262452274], ["weekly", 0.022021525689608294], ["biweekly", 0.031559482305645634], ["triweekly", 0.03300700859809263]],
+      "Confirmed Daily Cases per 100k": [["daily", 37.51641343087601], ["weekly", 5.359487632982287], ["biweekly", 6.699359541227858], ["triweekly", 6.252735571812668]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 300.13130744700806], ["weekly", 241.17694348420287], ["biweekly", 227.77822440174717], ["triweekly", 206.34027386981796]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.14285714285714285], ["biweekly", 0.21428571428571427], ["triweekly", 0.19047619047619047]],
+      "Confirmed Cumulative Cases": [["daily", 16.0], ["weekly", 12.857142857142858], ["biweekly", 12.142857142857142], ["triweekly", 11.0]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.2857142857142857], ["biweekly", 0.35714285714285715], ["triweekly", 0.3333333333333333]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
@@ -2914,12 +2914,27 @@
     "long": "REPLACE_MEDelta,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.13353139262452274], ["weekly", 0.022021525689608294], ["biweekly", 0.024033731187229464], ["triweekly", 0.026648370854067745]],
-      "Confirmed Daily Cases per 100k": [["daily", 37.51641343087601], ["weekly", 5.359487632982287], ["biweekly", 5.359487632982287], ["triweekly", 5.359487632982287]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 300.13130744700806], ["weekly", 246.53643111718517], ["biweekly", 233.13771203472947], ["triweekly", 211.69976150280027]],
-      "Daily Growth Rate": [["daily", 1.2599210498948732], ["weekly", 0.14285714285714285], ["biweekly", 0.21428571428571427], ["triweekly", 0.19047619047619047]],
-      "Confirmed Cumulative Cases": [["daily", 16.0], ["weekly", 13.142857142857142], ["biweekly", 12.428571428571429], ["triweekly", 11.285714285714286]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.2857142857142857], ["biweekly", 0.2857142857142857], ["triweekly", 0.2857142857142857]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.04109743892168297], ["biweekly", 0.0335716878032668], ["triweekly", 0.033007008598092635]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 10.718975265964573], ["biweekly", 8.03923144947343], ["triweekly", 7.145983510643049]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 300.13130744700806], ["weekly", 251.89591875016748], ["biweekly", 235.81745585122061], ["triweekly", 213.48625738046104]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.344887651767585], ["biweekly", 0.31530096874093533], ["triweekly", 0.25781969344633787]],
+      "Confirmed Cumulative Cases": [["daily", 16.0], ["weekly", 13.428571428571429], ["biweekly", 12.571428571428571], ["triweekly", 11.380952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.5714285714285714], ["biweekly", 0.42857142857142855], ["triweekly", 0.38095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEDelta,Texas"
+  }, {
+    "locale": "Delta,Texas",
+    "long": "REPLACE_MEDelta,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.04109743892168297], ["biweekly", 0.026763817817243605], ["triweekly", 0.033007008598092635]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 10.718975265964573], ["biweekly", 6.6993595412278575], ["triweekly", 7.145983510643049]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 300.13130744700806], ["weekly", 262.61489401613204], ["biweekly", 242.51681539244848], ["triweekly", 220.63224089110406]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.344887651767585], ["biweekly", 0.24387239731236393], ["triweekly", 0.25781969344633787]],
+      "Confirmed Cumulative Cases": [["daily", 16.0], ["weekly", 14.0], ["biweekly", 12.928571428571429], ["triweekly", 11.761904761904763]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.5714285714285714], ["biweekly", 0.35714285714285715], ["triweekly", 0.38095238095238093]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },

@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEJefferson,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.016852166918811307], ["biweekly", 0.0182154018765284], ["triweekly", 0.02101171931214391]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 34.697081981084125], ["biweekly", 35.09459355860882], ["triweekly", 37.08215144623231]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2182.7360721881028], ["weekly", 2089.2640641015814], ["biweekly", 1952.775624590066], ["triweekly", 1814.1292650862747]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.244389214710199], ["biweekly", 1.868494011342225], ["triweekly", 1.5811243860469912]],
-      "Confirmed Cumulative Cases": [["daily", 5491.0], ["weekly", 5255.857142857143], ["biweekly", 4912.5], ["triweekly", 4563.714285714285]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 87.28571428571429], ["biweekly", 88.28571428571429], ["triweekly", 93.28571428571429]],
-      "Confirmed Fatality Rate": [["daily", 0.012201784738663268], ["weekly", 0.011652282692734741], ["biweekly", 0.01132532480805987], ["triweekly", 0.011257493824748398]],
+      "Spread Rate": [["daily", 0.0027280184236797567], ["weekly", 0.016852166918811307], ["biweekly", 0.0182154018765284], ["triweekly", 0.02101171931214391]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.962673662870431], ["weekly", 34.697081981084125], ["biweekly", 35.09459355860882], ["triweekly", 37.08215144623231]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2188.698745850973], ["weekly", 2089.2640641015814], ["biweekly", 1952.775624590066], ["triweekly", 1814.1292650862747]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 2.244389214710199], ["biweekly", 1.868494011342225], ["triweekly", 1.5811243860469912]],
+      "Confirmed Cumulative Cases": [["daily", 5506.0], ["weekly", 5255.857142857143], ["biweekly", 4912.5], ["triweekly", 4563.714285714285]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 87.28571428571429], ["biweekly", 88.28571428571429], ["triweekly", 93.28571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.012168543407192154], ["weekly", 0.011652282692734741], ["biweekly", 0.01132532480805987], ["triweekly", 0.011257493824748398]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013687436159346271], ["weekly", 0.01340623324849657], ["biweekly", 0.013208109943131114], ["triweekly", 0.013437482587050369]]
     },
     "lat": "REPLACE_MEJefferson,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEJefferson,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0027280184236797567], ["weekly", 0.01641373033060895], ["biweekly", 0.018131516286818337], ["triweekly", 0.020796491611876314]],
-      "Confirmed Daily Cases per 100k": [["daily", 5.962673662870431], ["weekly", 33.84527145781692], ["biweekly", 34.952625138064285], ["triweekly", 36.779285482403964]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2188.698745850973], ["weekly", 2123.1093355593985], ["biweekly", 1987.7282497281303], ["triweekly", 1850.9085505686785]],
-      "Daily Growth Rate": [["daily", 0.5], ["weekly", 2.2245479448689287], ["biweekly", 1.8651562276306097], ["triweekly", 1.573019016239494]],
-      "Confirmed Cumulative Cases": [["daily", 5506.0], ["weekly", 5341.0], ["biweekly", 5000.428571428572], ["triweekly", 4656.238095238095]],
-      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 85.14285714285714], ["biweekly", 87.92857142857143], ["triweekly", 92.52380952380952]],
-      "Confirmed Fatality Rate": [["daily", 0.01325826371231384], ["weekly", 0.011731889763966512], ["biweekly", 0.01140881915726687], ["triweekly", 0.011315097468018615]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.016803447248277488], ["biweekly", 0.018326374745652605], ["triweekly", 0.020926397251099158]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 34.697081981084125], ["biweekly", 35.37853039969789], ["triweekly", 37.06322232349304]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2188.698745850973], ["weekly", 2123.961146082666], ["biweekly", 1988.154154989764], ["triweekly", 1851.1924874097676]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.2602622305832147], ["biweekly", 1.8830133704877525], ["triweekly", 1.5849237781442558]],
+      "Confirmed Cumulative Cases": [["daily", 5506.0], ["weekly", 5343.142857142857], ["biweekly", 5001.5], ["triweekly", 4656.952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 87.28571428571429], ["biweekly", 89.0], ["triweekly", 93.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.01325826371231384], ["weekly", 0.011727141002327784], ["biweekly", 0.011406444776447505], ["triweekly", 0.011313514547472371]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014415481832543445], ["weekly", 0.013450112458383059], ["biweekly", 0.013239576835814329], ["triweekly", 0.013408244778304273]]
+    },
+    "lat": "REPLACE_MEJefferson,Texas"
+  }, {
+    "locale": "Jefferson,Texas",
+    "long": "REPLACE_MEJefferson,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018534043805784606], ["weekly", 0.011954531696934214], ["biweekly", 0.018326374745652605], ["triweekly", 0.020926397251099158]],
+      "Confirmed Daily Cases per 100k": [["daily", 40.94369248504363], ["weekly", 25.100016752273625], ["biweekly", 35.37853039969789], ["triweekly", 37.06322232349304]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2229.6424383360168], ["weekly", 2149.0611628349393], ["biweekly", 2023.532685389462], ["triweekly", 1888.2557097332606]],
+      "Daily Growth Rate": [["daily", 2.6204325342711394], ["weekly", 0.6507384210594048], ["biweekly", 1.8830133704877525], ["triweekly", 1.5849237781442558]],
+      "Confirmed Cumulative Cases": [["daily", 5609.0], ["weekly", 5406.285714285715], ["biweekly", 5090.5], ["triweekly", 4750.190476190476]],
+      "Confirmed Daily Cases": [["daily", 103.0], ["weekly", 63.142857142857146], ["biweekly", 89.0], ["triweekly", 93.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.01301479764663933], ["weekly", 0.012013189508284602], ["biweekly", 0.011565401909486692], ["triweekly", 0.011421426713297376]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013984674329501916], ["weekly", 0.013597998193012], ["biweekly", 0.013323046990868765], ["triweekly", 0.013413675811138998]]
     },
     "lat": "REPLACE_MEJefferson,Texas"
   }]

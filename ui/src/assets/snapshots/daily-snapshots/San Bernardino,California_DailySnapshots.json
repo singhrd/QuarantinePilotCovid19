@@ -3026,35 +3026,35 @@
   }, {
     "epidemiccontrolThreshold": 10.900425,
     "source": "NYGithub",
-    "confirmedPer100kN": 107.65635284862746,
-    "deaths": 24,
-    "confirmed": 2347,
+    "confirmedPer100kN": 24.356848471504552,
+    "deaths": 0,
+    "confirmed": 531,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 107.65635284862746,
+    "confirmedPer100k": 24.356848471504552,
     "locale": "San Bernardino,California",
-    "activePer100k": 106.55547834144082,
+    "activePer100k": 24.356848471504552,
     "long": "REPLACE_MESan Bernardino,California",
     "date": "07/29/2020",
-    "deathsPer100k": 1.1008745071866464,
+    "deathsPer100k": 0.0,
     "lat": "REPLACE_MESan Bernardino,California",
-    "active": 2323
+    "active": 531
   }, {
     "epidemiccontrolThreshold": 10.900425,
     "source": "NYGithub",
-    "confirmedPer100kN": -28.485127873454474,
-    "deaths": -16,
-    "confirmed": -621,
+    "confirmedPer100kN": 54.814376503668434,
+    "deaths": 8,
+    "confirmed": 1195,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -28.485127873454474,
+    "confirmedPer100k": 54.814376503668434,
     "locale": "San Bernardino,California",
-    "activePer100k": 0.0,
+    "activePer100k": 54.44741833460622,
     "long": "REPLACE_MESan Bernardino,California",
     "date": "07/30/2020",
-    "deathsPer100k": -0.7339163381244309,
+    "deathsPer100k": 0.36695816906221546,
     "lat": "REPLACE_MESan Bernardino,California",
-    "active": 0
+    "active": 1187
   }, {
     "epidemiccontrolThreshold": 10.900425,
     "source": "NYGithub",
@@ -3119,5 +3119,21 @@
     "deathsPer100k": 0.04586977113277693,
     "lat": "REPLACE_MESan Bernardino,California",
     "active": 662
+  }, {
+    "epidemiccontrolThreshold": 10.900425,
+    "source": "NYGithub",
+    "confirmedPer100kN": 17.155294403658573,
+    "deaths": 59,
+    "confirmed": 374,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 17.155294403658573,
+    "locale": "San Bernardino,California",
+    "activePer100k": 14.448977906824734,
+    "long": "REPLACE_MESan Bernardino,California",
+    "date": "08/04/2020",
+    "deathsPer100k": 2.706316496833839,
+    "lat": "REPLACE_MESan Bernardino,California",
+    "active": 315
   }]
 }

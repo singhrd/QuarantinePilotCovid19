@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEJim Wells,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.021900716259273572], ["biweekly", 0.028061042894016768], ["triweekly", 0.038918838575400225]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 29.642804209278204], ["biweekly", 33.877490524889375], ["triweekly", 38.81795789310239]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1459.9081073069513], ["weekly", 1377.6846146788341], ["biweekly", 1240.9395357372234], ["triweekly", 1106.429430128852]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8444174872746302], ["biweekly", 2.2327970918798377], ["triweekly", 2.5281134395257463]],
-      "Confirmed Cumulative Cases": [["daily", 591.0], ["weekly", 557.7142857142857], ["biweekly", 502.35714285714283], ["triweekly", 447.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 12.0], ["biweekly", 13.714285714285714], ["triweekly", 15.714285714285714]],
-      "Confirmed Fatality Rate": [["daily", 0.01015228426395939], ["weekly", 0.007044074567764362], ["biweekly", 0.003522037283882181], ["triweekly", 0.002348024855921454]],
+      "Spread Rate": [["daily", 0.05753435369399984], ["weekly", 0.021900716259273572], ["biweekly", 0.028061042894016768], ["triweekly", 0.038918838575400225]],
+      "Confirmed Daily Cases per 100k": [["daily", 86.45817894372807], ["weekly", 29.642804209278204], ["biweekly", 33.877490524889375], ["triweekly", 38.81795789310239]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1546.3662862506792], ["weekly", 1377.6846146788341], ["biweekly", 1240.9395357372234], ["triweekly", 1106.429430128852]],
+      "Daily Growth Rate": [["daily", 5.0], ["weekly", 0.8444174872746302], ["biweekly", 2.2327970918798377], ["triweekly", 2.5281134395257463]],
+      "Confirmed Cumulative Cases": [["daily", 626.0], ["weekly", 557.7142857142857], ["biweekly", 502.35714285714283], ["triweekly", 447.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 35.0], ["weekly", 12.0], ["biweekly", 13.714285714285714], ["triweekly", 15.714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.009584664536741214], ["weekly", 0.007044074567764362], ["biweekly", 0.003522037283882181], ["triweekly", 0.002348024855921454]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011538461538461539], ["weekly", 0.008701610798060304], ["biweekly", 0.004350805399030152], ["triweekly", 0.002900536932686768]]
     },
     "lat": "REPLACE_MEJim Wells,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEJim Wells,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.06390380197947998], ["weekly", 0.018283886547232214], ["biweekly", 0.027882247878436912], ["triweekly", 0.03712843792982845]],
-      "Confirmed Daily Cases per 100k": [["daily", 96.33911368015414], ["weekly", 25.055227367366097], ["biweekly", 33.70104526173891], ["triweekly", 37.64165613876595]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1556.2472209871053], ["weekly", 1402.7398420462007], ["biweekly", 1274.6405809989624], ["triweekly", 1144.071086267618]],
-      "Daily Growth Rate": [["daily", 2.3603873774083293], ["weekly", 0.7913562627848342], ["biweekly", 2.2268447109274567], ["triweekly", 2.05192296333527]],
-      "Confirmed Cumulative Cases": [["daily", 630.0], ["weekly", 567.8571428571429], ["biweekly", 516.0], ["triweekly", 463.14285714285717]],
-      "Confirmed Daily Cases": [["daily", 39.0], ["weekly", 10.142857142857142], ["biweekly", 13.642857142857142], ["triweekly", 15.238095238095237]],
-      "Confirmed Fatality Rate": [["daily", 0.012698412698412698], ["weekly", 0.008494400891187134], ["biweekly", 0.004247200445593567], ["triweekly", 0.0028314669637290444]],
+      "Spread Rate": [["daily", 0.006369448285480139], ["weekly", 0.026503079932089335], ["biweekly", 0.03199184457086547], ["triweekly", 0.039868169058114154]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.880934736426065], ["weekly", 37.40639578789868], ["biweekly", 39.876629472005206], ["triweekly", 41.758712278943484]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1556.2472209871053], ["weekly", 1415.091010466733], ["biweekly", 1280.8161652092288], ["triweekly", 1148.1881424077956]],
+      "Daily Growth Rate": [["daily", 0.11428571428571428], ["weekly", 1.5056419770705485], ["biweekly", 2.583987568070314], ["triweekly", 2.290018201430508]],
+      "Confirmed Cumulative Cases": [["daily", 630.0], ["weekly", 572.8571428571429], ["biweekly", 518.5], ["triweekly", 464.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 15.142857142857142], ["biweekly", 16.142857142857142], ["triweekly", 16.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.012698412698412698], ["weekly", 0.008413312358727392], ["biweekly", 0.004206656179363696], ["triweekly", 0.002804437452909131]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015065913370998116], ["weekly", 0.010349962446411953], ["biweekly", 0.005174981223205977], ["triweekly", 0.0034499874821373178]]
+    },
+    "lat": "REPLACE_MEJim Wells,Texas"
+  }, {
+    "locale": "Jim Wells,Texas",
+    "long": "REPLACE_MEJim Wells,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.011049836186584727], ["weekly", 0.02442254259194852], ["biweekly", 0.03209055219761124], ["triweekly", 0.03930090255563947]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.291635788745616], ["weekly", 34.936162103792164], ["biweekly", 40.22951999830614], ["triweekly", 41.64108210350984]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1573.538856775851], ["weekly", 1450.027172570525], ["biweekly", 1321.045685207535], ["triweekly", 1189.8292245113053]],
+      "Daily Growth Rate": [["daily", 1.75], ["weekly", 1.4010893868036725], ["biweekly", 2.4492936905192937], ["triweekly", 2.2716508544917327]],
+      "Confirmed Cumulative Cases": [["daily", 637.0], ["weekly", 587.0], ["biweekly", 534.7857142857143], ["triweekly", 481.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 14.142857142857142], ["biweekly", 16.285714285714285], ["triweekly", 16.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.01726844583987441], ["weekly", 0.009420268813625735], ["biweekly", 0.0051136856578217465], ["triweekly", 0.003409123771881164]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02018348623853211], ["weekly", 0.011436137704102515], ["biweekly", 0.006251117892562985], ["triweekly", 0.004167411928375324]]
     },
     "lat": "REPLACE_MEJim Wells,Texas"
   }]

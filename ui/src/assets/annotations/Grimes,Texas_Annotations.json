@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MEGrimes,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.0066213941998351745], ["biweekly", 0.012734093031528218], ["triweekly", 0.012743923941773557]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 18.79699248120301], ["biweekly", 33.884052235852785], ["triweekly", 32.48252209471046]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2905.1246537396123], ["weekly", 2851.7016224772456], ["biweekly", 2746.092204194697], ["triweekly", 2612.4521830893023]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2515848368095117], ["biweekly", 1.270126901606991], ["triweekly", 1.6533088249827483]],
-      "Confirmed Cumulative Cases": [["daily", 839.0], ["weekly", 823.5714285714286], ["biweekly", 793.0714285714286], ["triweekly", 754.4761904761905]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 5.428571428571429], ["biweekly", 9.785714285714286], ["triweekly", 9.380952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.023837902264600714], ["weekly", 0.02003354014572002], ["biweekly", 0.011330323131708562], ["triweekly", 0.00853910773369725]],
+      "Spread Rate": [["daily", 0.0011911853701533914], ["weekly", 0.0066213941998351745], ["biweekly", 0.012734093031528218], ["triweekly", 0.012743923941773557]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.4626038781163433], ["weekly", 18.79699248120301], ["biweekly", 33.884052235852785], ["triweekly", 32.48252209471046]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2908.5872576177285], ["weekly", 2851.7016224772456], ["biweekly", 2746.092204194697], ["triweekly", 2612.4521830893023]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.2515848368095117], ["biweekly", 1.270126901606991], ["triweekly", 1.6533088249827483]],
+      "Confirmed Cumulative Cases": [["daily", 840.0], ["weekly", 823.5714285714286], ["biweekly", 793.0714285714286], ["triweekly", 754.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 5.428571428571429], ["biweekly", 9.785714285714286], ["triweekly", 9.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.023809523809523808], ["weekly", 0.02003354014572002], ["biweekly", 0.011330323131708562], ["triweekly", 0.00853910773369725]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.025], ["weekly", 0.021568597499116802], ["biweekly", 0.012262637218395715], ["triweekly", 0.009282248465449538]]
     },
     "lat": "REPLACE_MEGrimes,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MEGrimes,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.011848479844141835], ["weekly", 0.006799854114182681], ["biweekly", 0.010727540541027139], ["triweekly", 0.01244815250879067]],
-      "Confirmed Daily Cases per 100k": [["daily", 34.62603878116344], ["weekly", 19.29165017807677], ["biweekly", 28.93747526711515], ["triweekly", 31.822978498878776]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2939.750692520776], ["weekly", 2870.9932726553225], ["biweekly", 2775.0296794618125], ["triweekly", 2644.275161588181]],
-      "Daily Growth Rate": [["daily", 3.1622776601683795], ["weekly", 1.2515848368095117], ["biweekly", 1.1493905795029171], ["triweekly", 1.6144280354147615]],
-      "Confirmed Cumulative Cases": [["daily", 849.0], ["weekly", 829.1428571428571], ["biweekly", 801.4285714285714], ["triweekly", 763.6666666666666]],
-      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 5.571428571428571], ["biweekly", 8.357142857142858], ["triweekly", 9.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.023557126030624265], ["weekly", 0.023081811897805837], ["biweekly", 0.012835167357573394], ["triweekly", 0.00952681854476404]],
+      "Spread Rate": [["daily", 0.010657294473988443], ["weekly", 0.006970023452776023], ["biweekly", 0.01081262521032381], ["triweekly", 0.012504875621655117]],
+      "Confirmed Daily Cases per 100k": [["daily", 31.16343490304709], ["weekly", 19.786307874950534], ["biweekly", 29.18480411555203], ["triweekly", 31.9878643978367]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2939.750692520776], ["weekly", 2871.487930352196], ["biweekly", 2775.277008310249], ["triweekly", 2644.440047487139]],
+      "Daily Growth Rate": [["daily", 9.0], ["weekly", 1.3944419796666545], ["biweekly", 1.2208191509314885], ["triweekly", 1.662047083033809]],
+      "Confirmed Cumulative Cases": [["daily", 849.0], ["weekly", 829.2857142857143], ["biweekly", 801.5], ["triweekly", 763.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 5.714285714285714], ["biweekly", 8.428571428571429], ["triweekly", 9.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.023557126030624265], ["weekly", 0.023077757832794848], ["biweekly", 0.0128331403250679], ["triweekly", 0.009525467189760377]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.024875621890547265], ["weekly", 0.02474429991304636], ["biweekly", 0.013827210416095847], ["triweekly", 0.010301740642930943]]
+    },
+    "lat": "REPLACE_MEGrimes,Texas"
+  }, {
+    "locale": "Grimes,Texas",
+    "long": "REPLACE_MEGrimes,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005872007477222496], ["weekly", 0.007779988161768741], ["biweekly", 0.011179226534753704], ["triweekly", 0.012938709133830799]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.31301939058172], ["weekly", 22.25959635931935], ["biweekly", 30.421448357736438], ["triweekly", 33.30695158950007]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2957.063711911357], ["weekly", 2893.7475267115155], ["biweekly", 2805.6984566679857], ["triweekly", 2677.7469990766394]],
+      "Daily Growth Rate": [["daily", 0.5555555555555556], ["weekly", 2.5523809523809526], ["biweekly", 1.8493905795029169], ["triweekly", 2.0787137497004755]],
+      "Confirmed Cumulative Cases": [["daily", 854.0], ["weekly", 835.7142857142857], ["biweekly", 810.2857142857143], ["triweekly", 773.3333333333334]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 6.428571428571429], ["biweekly", 8.785714285714286], ["triweekly", 9.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0234192037470726], ["weekly", 0.023244767308385095], ["biweekly", 0.014319019260352553], ["triweekly", 0.010500035567019072]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.024271844660194174], ["weekly", 0.024756047550302817], ["biweekly", 0.015383241257692675], ["triweekly", 0.011315616476257909]]
     },
     "lat": "REPLACE_MEGrimes,Texas"
   }]

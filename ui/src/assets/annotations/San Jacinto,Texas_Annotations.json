@@ -2899,13 +2899,13 @@
     "long": "REPLACE_MESan Jacinto,Texas",
     "date": "08/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.010208423426020654], ["biweekly", 0.008907391321496951], ["triweekly", 0.03969519123947817]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 4.95017647379129], ["biweekly", 4.2076500027225965], ["triweekly", 13.530482361696196]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 502.442912089816], ["weekly", 483.1372238420299], ["biweekly", 465.8116061837604], ["triweekly", 437.76060616560983]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7330675202927635], ["biweekly", 0.6744895393763816], ["triweekly", 0.9019665011163296]],
-      "Confirmed Cumulative Cases": [["daily", 145.0], ["weekly", 139.42857142857142], ["biweekly", 134.42857142857142], ["triweekly", 126.33333333333333]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.4285714285714286], ["biweekly", 1.2142857142857142], ["triweekly", 3.9047619047619047]],
-      "Confirmed Fatality Rate": [["daily", 0.05517241379310345], ["weekly", 0.04174999147439399], ["biweekly", 0.02860899031955327], ["triweekly", 0.02523417272382529]],
+      "Spread Rate": [["daily", 0.020478531343540496], ["weekly", 0.010208423426020654], ["biweekly", 0.008907391321496951], ["triweekly", 0.03969519123947817]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.39537059496171], ["weekly", 4.95017647379129], ["biweekly", 4.2076500027225965], ["triweekly", 13.530482361696196]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 512.8382826847777], ["weekly", 483.1372238420299], ["biweekly", 465.8116061837604], ["triweekly", 437.76060616560983]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 0.7330675202927635], ["biweekly", 0.6744895393763816], ["triweekly", 0.9019665011163296]],
+      "Confirmed Cumulative Cases": [["daily", 148.0], ["weekly", 139.42857142857142], ["biweekly", 134.42857142857142], ["triweekly", 126.33333333333333]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.4285714285714286], ["biweekly", 1.2142857142857142], ["triweekly", 3.9047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.05405405405405406], ["weekly", 0.04174999147439399], ["biweekly", 0.02860899031955327], ["triweekly", 0.02523417272382529]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05925925925925926], ["weekly", 0.04513901022918042], ["biweekly", 0.03181177388077488], ["triweekly", 0.03181580372890041]]
     },
     "lat": "REPLACE_MESan Jacinto,Texas"
@@ -2914,14 +2914,29 @@
     "long": "REPLACE_MESan Jacinto,Texas",
     "date": "08/03/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.020478531343540496], ["weekly", 0.010208423426020654], ["biweekly", 0.007799949426070858], ["triweekly", 0.025432499330012265]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.39537059496171], ["weekly", 4.95017647379129], ["biweekly", 3.712632355343468], ["triweekly", 9.900352947582583]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 512.8382826847777], ["weekly", 488.0874003158212], ["biweekly", 469.52423853910386], ["triweekly", 447.66095911319235]],
-      "Daily Growth Rate": [["daily", 1.224744871391589], ["weekly", 0.7330675202927635], ["biweekly", 0.6387752536620959], ["triweekly", 0.7440319872898821]],
-      "Confirmed Cumulative Cases": [["daily", 148.0], ["weekly", 140.85714285714286], ["biweekly", 135.5], ["triweekly", 129.1904761904762]],
-      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.4285714285714286], ["biweekly", 1.0714285714285714], ["triweekly", 2.857142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.05405405405405406], ["weekly", 0.04751536275700664], ["biweekly", 0.03145097592015956], ["triweekly", 0.026740982344225173]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.013133927903669296], ["biweekly", 0.009262701664895179], ["triweekly", 0.026407667489228476]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 6.435229415928677], ["biweekly", 4.455158826412162], ["triweekly", 10.395370594961712]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 512.8382826847777], ["weekly", 489.57245325795867], ["biweekly", 470.26676501017255], ["triweekly", 448.15597676057143]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9473532345784778], ["biweekly", 0.7459181108049531], ["triweekly", 0.8154605587184536]],
+      "Confirmed Cumulative Cases": [["daily", 148.0], ["weekly", 141.28571428571428], ["biweekly", 135.71428571428572], ["triweekly", 129.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.8571428571428572], ["biweekly", 1.2857142857142858], ["triweekly", 3.0]],
+      "Confirmed Fatality Rate": [["daily", 0.05405405405405406], ["weekly", 0.04735559707999959], ["biweekly", 0.03137109308165603], ["triweekly", 0.026687727118556152]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.051406816496986675], ["biweekly", 0.03436390584467154], ["triweekly", 0.03312595742000648]]
+    },
+    "lat": "REPLACE_MESan Jacinto,Texas"
+  }, {
+    "locale": "San Jacinto,Texas",
+    "long": "REPLACE_MESan Jacinto,Texas",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013423020332140823], ["weekly", 0.012079626861151762], ["biweekly", 0.0120641811758438], ["triweekly", 0.018668670846477282]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.930247063307807], ["weekly", 5.940211768549548], ["biweekly", 5.692702944859983], ["triweekly", 7.920282358066065]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 519.7685297480855], ["weekly", 495.5126650265082], ["biweekly", 475.9594679550325], ["triweekly", 456.0762591186375]],
+      "Daily Growth Rate": [["daily", 0.816496580927726], ["weekly", 0.8638098706295387], ["biweekly", 0.7459181108049531], ["triweekly", 0.7829930262509212]],
+      "Confirmed Cumulative Cases": [["daily", 150.0], ["weekly", 143.0], ["biweekly", 137.35714285714286], ["triweekly", 131.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.7142857142857142], ["biweekly", 1.6428571428571428], ["triweekly", 2.2857142857142856]],
+      "Confirmed Fatality Rate": [["daily", 0.05333333333333334], ["weekly", 0.04982550396167118], ["biweekly", 0.03408923979980275], ["triweekly", 0.02830934874017778]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.05409589212723879], ["biweekly", 0.03713701508836902], ["triweekly", 0.03441536207075567]]
     },
     "lat": "REPLACE_MESan Jacinto,Texas"
   }]

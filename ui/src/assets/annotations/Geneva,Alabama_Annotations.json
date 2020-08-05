@@ -2924,5 +2924,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005050505050505051], ["weekly", 0.005934110926912252], ["biweekly", 0.007260044541972704], ["triweekly", 0.004840029694648469]]
     },
     "lat": "REPLACE_MEGeneva,Alabama"
+  }, {
+    "locale": "Geneva,Alabama",
+    "long": "REPLACE_MEGeneva,Alabama",
+    "date": "08/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03593200922606332], ["weekly", 0.031009215033975326], ["biweekly", 0.036294233012017695], ["triweekly", 0.042391000909100134]],
+      "Confirmed Daily Cases per 100k": [["daily", 34.258307639602606], ["weekly", 26.10156772541151], ["biweekly", 26.64535038635758], ["triweekly", 26.282828612393537]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 970.6520497887404], ["weekly", 838.5128631788448], ["biweekly", 756.4016813759878], ["triweekly", 662.6898028062811]],
+      "Daily Growth Rate": [["daily", 0.9], ["weekly", 1.2523809523809522], ["biweekly", 1.2066738816738816], ["triweekly", 1.2452678040913336]],
+      "Confirmed Cumulative Cases": [["daily", 255.0], ["weekly", 220.28571428571428], ["biweekly", 198.71428571428572], ["triweekly", 174.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 6.857142857142857], ["biweekly", 7.0], ["triweekly", 6.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.00392156862745098], ["weekly", 0.004562346805533529], ["biweekly", 0.005126353744347767], ["triweekly", 0.0037393194846488337]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005], ["weekly", 0.005690360683162007], ["biweekly", 0.006913581324222359], ["triweekly", 0.0050805299351487105]]
+    },
+    "lat": "REPLACE_MEGeneva,Alabama"
   }]
 }
