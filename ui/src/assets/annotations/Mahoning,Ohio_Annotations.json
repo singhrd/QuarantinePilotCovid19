@@ -2939,5 +2939,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10971379011274934], ["weekly", 0.11326556621785593], ["biweekly", 0.11634627674621908], ["triweekly", 0.11958053434206031]]
     },
     "lat": "REPLACE_MEMahoning,Ohio"
+  }, {
+    "locale": "Mahoning,Ohio",
+    "long": "REPLACE_MEMahoning,Ohio",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013450375996816533], ["weekly", 0.007893336113743083], ["biweekly", 0.009016471285460728], ["triweekly", 0.009505837940656969]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.430456133599785], ["weekly", 8.183505426413733], ["biweekly", 9.026843771883849], ["triweekly", 9.1830175395635]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1080.0977772724689], ["weekly", 1041.0543353525559], ["biweekly", 1009.8195818166257], ["triweekly", 975.5238224341743]],
+      "Daily Growth Rate": [["daily", 1.2692307692307692], ["weekly", 1.1217909075051933], ["biweekly", 2.813409223507746], ["triweekly", 2.25806303074776]],
+      "Confirmed Cumulative Cases": [["daily", 2470.0], ["weekly", 2380.714285714286], ["biweekly", 2309.285714285714], ["triweekly", 2230.8571428571427]],
+      "Confirmed Daily Cases": [["daily", 33.0], ["weekly", 18.714285714285715], ["biweekly", 20.642857142857142], ["triweekly", 21.0]],
+      "Confirmed Fatality Rate": [["daily", 0.10242914979757085], ["weekly", 0.10562432083360719], ["biweekly", 0.10762819348052263], ["triweekly", 0.1105655088014651]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10900473933649289], ["weekly", 0.11237870941832052], ["biweekly", 0.11534386925498832], ["triweekly", 0.11864980725453485]]
+    },
+    "lat": "REPLACE_MEMahoning,Ohio"
   }]
 }

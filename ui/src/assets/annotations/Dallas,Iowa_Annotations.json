@@ -2929,14 +2929,29 @@
     "long": "REPLACE_MEDallas,Iowa",
     "date": "08/04/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0022333900964142117], ["weekly", 0.009491547494185428], ["biweekly", 0.009281746089506968], ["triweekly", 0.011167965401494314]],
-      "Confirmed Daily Cases per 100k": [["daily", 4.280226423977829], ["weekly", 17.579501384194653], ["biweekly", 16.662310007627976], ["triweekly", 19.05719860199652]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1918.6114945480617], ["weekly", 1862.96855103635], ["biweekly", 1805.1854943126496], ["triweekly", 1739.1986702763243]],
-      "Daily Growth Rate": [["daily", 2.0], ["weekly", 2.0703193346304034], ["biweekly", 1.5121898496085424], ["triweekly", 1.4810337848486275]],
-      "Confirmed Cumulative Cases": [["daily", 1793.0], ["weekly", 1741.0], ["biweekly", 1687.0], ["triweekly", 1625.3333333333333]],
-      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 16.428571428571427], ["biweekly", 15.571428571428571], ["triweekly", 17.80952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.019520356943669825], ["weekly", 0.01994473656739846], ["biweekly", 0.020386773279293356], ["triweekly", 0.0209163919368682]],
+      "Spread Rate": [["daily", 0.003905165353426554], ["weekly", 0.009491547494185428], ["biweekly", 0.009281746089506968], ["triweekly", 0.011167965401494314]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.4903962419612], ["weekly", 17.579501384194653], ["biweekly", 16.662310007627976], ["triweekly", 19.05719860199652]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1921.821664366045], ["weekly", 1862.96855103635], ["biweekly", 1805.1854943126496], ["triweekly", 1739.1986702763243]],
+      "Daily Growth Rate": [["daily", 3.5], ["weekly", 2.0703193346304034], ["biweekly", 1.5121898496085424], ["triweekly", 1.4810337848486275]],
+      "Confirmed Cumulative Cases": [["daily", 1796.0], ["weekly", 1741.0], ["biweekly", 1687.0], ["triweekly", 1625.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 16.428571428571427], ["biweekly", 15.571428571428571], ["triweekly", 17.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.019487750556792874], ["weekly", 0.01994473656739846], ["biweekly", 0.020386773279293356], ["triweekly", 0.0209163919368682]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020870602265951103], ["weekly", 0.021261777611332078], ["biweekly", 0.021959870767876914], ["triweekly", 0.02274588770927753]]
+    },
+    "lat": "REPLACE_MEDallas,Iowa"
+  }, {
+    "locale": "Dallas,Iowa",
+    "long": "REPLACE_MEDallas,Iowa",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006106041730083334], ["weekly", 0.009793641005562317], ["biweekly", 0.009107457975190922], ["triweekly", 0.010751991477808254]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.770622665939028], ["weekly", 18.190962301905774], ["biweekly", 16.433012163486307], ["triweekly", 18.49669276076133]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1933.5922870319841], ["weekly", 1881.1595133382557], ["biweekly", 1821.6185064761357], ["triweekly", 1757.6953630370856]],
+      "Daily Growth Rate": [["daily", 1.5714285714285714], ["weekly", 2.4631764774875466], ["biweekly", 1.735734823153516], ["triweekly", 1.5048433086581514]],
+      "Confirmed Cumulative Cases": [["daily", 1807.0], ["weekly", 1758.0], ["biweekly", 1702.357142857143], ["triweekly", 1642.6190476190477]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 17.0], ["biweekly", 15.357142857142858], ["triweekly", 17.285714285714285]],
+      "Confirmed Fatality Rate": [["daily", 0.01936912008854455], ["weekly", 0.019832372454930757], ["biweekly", 0.020242657151629557], ["triweekly", 0.020814240158975802]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020515826494724502], ["weekly", 0.02117109560016995], ["biweekly", 0.021755881786075897], ["triweekly", 0.022596278603207776]]
     },
     "lat": "REPLACE_MEDallas,Iowa"
   }]

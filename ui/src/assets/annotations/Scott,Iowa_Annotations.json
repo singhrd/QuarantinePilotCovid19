@@ -2929,14 +2929,29 @@
     "long": "REPLACE_MEScott,Iowa",
     "date": "08/04/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.008750055827463576], ["weekly", 0.009453142163615829], ["biweekly", 0.01353597106054259], ["triweekly", 0.01772041370669395]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.095152738185414], ["weekly", 8.42556713566237], ["biweekly", 11.357994913270351], ["triweekly", 13.629593895924419]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 929.2078893045685], ["weekly", 898.9749719354273], ["biweekly", 861.018618025262], ["triweekly", 812.5991415283263]],
-      "Daily Growth Rate": [["daily", 4.666666666666667], ["weekly", 1.0975607435956838], ["biweekly", 1.0195725977791434], ["triweekly", 1.1024090034079843]],
-      "Confirmed Cumulative Cases": [["daily", 1607.0], ["weekly", 1554.7142857142858], ["biweekly", 1489.0714285714287], ["triweekly", 1405.3333333333333]],
-      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 14.571428571428571], ["biweekly", 19.642857142857142], ["triweekly", 23.571428571428573]],
-      "Confirmed Fatality Rate": [["daily", 0.0074673304293715], ["weekly", 0.007440215659048423], ["biweekly", 0.007589902137991522], ["triweekly", 0.007796065284792168]],
+      "Spread Rate": [["daily", 0.013715925746708102], ["weekly", 0.009453142163615829], ["biweekly", 0.01353597106054259], ["triweekly", 0.01772041370669395]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.720954302862793], ["weekly", 8.42556713566237], ["biweekly", 11.357994913270351], ["triweekly", 13.629593895924419]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 933.833690869246], ["weekly", 898.9749719354273], ["biweekly", 861.018618025262], ["triweekly", 812.5991415283263]],
+      "Daily Growth Rate": [["daily", 7.333333333333333], ["weekly", 1.0975607435956838], ["biweekly", 1.0195725977791434], ["triweekly", 1.1024090034079843]],
+      "Confirmed Cumulative Cases": [["daily", 1615.0], ["weekly", 1554.7142857142858], ["biweekly", 1489.0714285714287], ["triweekly", 1405.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 14.571428571428571], ["biweekly", 19.642857142857142], ["triweekly", 23.571428571428573]],
+      "Confirmed Fatality Rate": [["daily", 0.007430340557275541], ["weekly", 0.007440215659048423], ["biweekly", 0.007589902137991522], ["triweekly", 0.007796065284792168]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008], ["weekly", 0.0081293344413572], ["biweekly", 0.008519668454825786], ["triweekly", 0.009133916544681436]]
+    },
+    "lat": "REPLACE_MEScott,Iowa"
+  }, {
+    "locale": "Scott,Iowa",
+    "long": "REPLACE_MEScott,Iowa",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0110838573137082], ["weekly", 0.010552835509493643], ["biweekly", 0.013600261773029056], ["triweekly", 0.017174448902720046]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.408053520524103], ["weekly", 9.499413927462475], ["biweekly", 11.56450391169345], ["triweekly", 13.46438669718594]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 944.24174438977], ["weekly", 908.4743858628897], ["biweekly", 872.5831219369553], ["triweekly", 826.0635282255122]],
+      "Daily Growth Rate": [["daily", 0.8181818181818182], ["weekly", 1.9844655055004456], ["biweekly", 1.5000147746498917], ["triweekly", 1.356377257376238]],
+      "Confirmed Cumulative Cases": [["daily", 1633.0], ["weekly", 1571.142857142857], ["biweekly", 1509.0714285714287], ["triweekly", 1428.6190476190477]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 16.428571428571427], ["biweekly", 20.0], ["triweekly", 23.285714285714285]],
+      "Confirmed Fatality Rate": [["daily", 0.007960808328230252], ["weekly", 0.007454073833897309], ["biweekly", 0.007532090722473214], ["triweekly", 0.007726986517452756]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008524590163934427], ["weekly", 0.008095091530709793], ["biweekly", 0.008393304587786962], ["triweekly", 0.00895132990055633]]
     },
     "lat": "REPLACE_MEScott,Iowa"
   }]

@@ -2939,5 +2939,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MELincoln,Colorado"
+  }, {
+    "locale": "Lincoln,Colorado",
+    "long": "REPLACE_MELincoln,Colorado",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.15415067982725827], ["weekly", 0.0], ["biweekly", -0.011010762844804163], ["triweekly", 0.01930786229086497]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.540782318891424], ["weekly", 0.0], ["biweekly", -1.2529130227779588], ["triweekly", 1.6705506970372785]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 122.78547623223996], ["weekly", 105.24469391334854], ["biweekly", 105.24469391334854], ["triweekly", 102.73886786779262]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Cumulative Cases": [["daily", 7.0], ["weekly", 6.0], ["biweekly", 6.0], ["triweekly", 5.857142857142857]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.0], ["biweekly", -0.07142857142857142], ["triweekly", 0.09523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MELincoln,Colorado"
   }]
 }

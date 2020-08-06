@@ -2939,5 +2939,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.05525059408359207], ["biweekly", 0.05655694757352074], ["triweekly", 0.05948826611840717]]
     },
     "lat": "REPLACE_MEGage,Nebraska"
+  }, {
+    "locale": "Gage,Nebraska",
+    "long": "REPLACE_MEGage,Nebraska",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012121360532344916], ["weekly", 0.010855129568274613], ["biweekly", 0.011301714658206714], ["triweekly", 0.009620315613013696]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.648352159159578], ["weekly", 3.98430185070821], ["biweekly", 3.98430185070821], ["triweekly", 3.320251542256841]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 385.81322921024497], ["weekly", 373.86032365812036], ["biweekly", 357.25906594683613], ["triweekly", 345.97021070316293]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7253357527413752], ["biweekly", 0.6065402736830514], ["triweekly", 0.48977449321651534]],
+      "Confirmed Cumulative Cases": [["daily", 83.0], ["weekly", 80.42857142857143], ["biweekly", 76.85714285714286], ["triweekly", 74.42857142857143]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.8571428571428571], ["biweekly", 0.8571428571428571], ["triweekly", 0.7142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.04819277108433735], ["weekly", 0.049762428391928966], ["biweekly", 0.05218427708093991], ["triweekly", 0.053955445294421346]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05194805194805195], ["weekly", 0.054606125769950824], ["biweekly", 0.056051953745667515], ["triweekly", 0.05871045953297809]]
+    },
+    "lat": "REPLACE_MEGage,Nebraska"
   }]
 }

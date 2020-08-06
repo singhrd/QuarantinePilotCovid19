@@ -2929,14 +2929,29 @@
     "long": "REPLACE_MEPottawattamie,Iowa",
     "date": "08/04/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0032813811231777734], ["weekly", 0.021221640655889957], ["biweekly", 0.01959645396250728], ["triweekly", 0.01759773490545612]],
-      "Confirmed Daily Cases per 100k": [["daily", 4.291569212282471], ["weekly", 25.74941527369483], ["biweekly", 22.377468035472884], ["triweekly", 19.20988123593106]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1310.0015020492242], ["weekly", 1236.7382847824022], ["biweekly", 1156.0414565585907], ["triweekly", 1089.4454986037072]],
-      "Daily Growth Rate": [["daily", 0.8], ["weekly", 1.9520977689321342], ["biweekly", 1.6437064391205258], ["triweekly", 2.141021460073718]],
-      "Confirmed Cumulative Cases": [["daily", 1221.0], ["weekly", 1152.7142857142858], ["biweekly", 1077.5], ["triweekly", 1015.4285714285714]],
-      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 24.0], ["biweekly", 20.857142857142858], ["triweekly", 17.904761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.018837018837018837], ["weekly", 0.018465434014792368], ["biweekly", 0.017993293956142613], ["triweekly", 0.01722698085660484]],
+      "Spread Rate": [["daily", 0.008183351723384469], ["weekly", 0.021221640655889957], ["biweekly", 0.01959645396250728], ["triweekly", 0.01759773490545612]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.728923030706177], ["weekly", 25.74941527369483], ["biweekly", 22.377468035472884], ["triweekly", 19.20988123593106]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1316.438855867648], ["weekly", 1236.7382847824022], ["biweekly", 1156.0414565585907], ["triweekly", 1089.4454986037072]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.9520977689321342], ["biweekly", 1.6437064391205258], ["triweekly", 2.141021460073718]],
+      "Confirmed Cumulative Cases": [["daily", 1227.0], ["weekly", 1152.7142857142858], ["biweekly", 1077.5], ["triweekly", 1015.4285714285714]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 24.0], ["biweekly", 20.857142857142858], ["triweekly", 17.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.018744906275468622], ["weekly", 0.018465434014792368], ["biweekly", 0.017993293956142613], ["triweekly", 0.01722698085660484]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021821631878557873], ["weekly", 0.021226863071061548], ["biweekly", 0.020463065297898857], ["triweekly", 0.019478037817674335]]
+    },
+    "lat": "REPLACE_MEPottawattamie,Iowa"
+  }, {
+    "locale": "Pottawattamie,Iowa",
+    "long": "REPLACE_MEPottawattamie,Iowa",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019371065756000228], ["weekly", 0.02171138794422906], ["biweekly", 0.018728662754672203], ["triweekly", 0.01793083002231356]],
+      "Confirmed Daily Cases per 100k": [["daily", 25.749415273694826], ["weekly", 26.51576691874527], ["biweekly", 21.687751554927484], ["triweekly", 19.669692222961327]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1342.1882711413427], ["weekly", 1263.2540517011473], ["biweekly", 1177.729208113518], ["triweekly", 1109.1151908266686]],
+      "Daily Growth Rate": [["daily", 2.4], ["weekly", 2.1584469752813407], ["biweekly", 1.5603731057871926], ["triweekly", 2.2283230473753055]],
+      "Confirmed Cumulative Cases": [["daily", 1251.0], ["weekly", 1177.4285714285713], ["biweekly", 1097.7142857142858], ["triweekly", 1033.7619047619048]],
+      "Confirmed Daily Cases": [["daily", 24.0], ["weekly", 24.714285714285715], ["biweekly", 20.214285714285715], ["triweekly", 18.333333333333332]],
+      "Confirmed Fatality Rate": [["daily", 0.019184652278177457], ["weekly", 0.018568054130588506], ["biweekly", 0.018121562079935167], ["triweekly", 0.017384384492163295]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02197802197802198], ["weekly", 0.021468936390274414], ["biweekly", 0.02066444076801641], ["triweekly", 0.019686226743818508]]
     },
     "lat": "REPLACE_MEPottawattamie,Iowa"
   }]

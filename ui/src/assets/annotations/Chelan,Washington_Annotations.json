@@ -2939,5 +2939,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012422360248447204], ["weekly", 0.012854621727905299], ["biweekly", 0.013070569366989384], ["triweekly", 0.013590848110932217]]
     },
     "lat": "REPLACE_MEChelan,Washington"
+  }, {
+    "locale": "Chelan,Washington",
+    "long": "REPLACE_MEChelan,Washington",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006672251609067814], ["weekly", 0.030391090021870428], ["biweekly", 0.0305636013210616], ["triweekly", 0.03320666946761812]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.362694300518134], ["weekly", 42.376017764618794], ["biweekly", 38.4900074019245], ["triweekly", 37.00962250185048]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1558.2901554404145], ["weekly", 1424.685418208734], ["biweekly", 1290.895632864545], ["triweekly", 1163.3358006415006]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.2583771505985129], ["biweekly", 1.2613093219361318], ["triweekly", 1.379745102505217]],
+      "Confirmed Cumulative Cases": [["daily", 1203.0], ["weekly", 1099.857142857143], ["biweekly", 996.5714285714286], ["triweekly", 898.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 32.714285714285715], ["biweekly", 29.714285714285715], ["triweekly", 28.571428571428573]],
+      "Confirmed Fatality Rate": [["daily", 0.00997506234413965], ["weekly", 0.010394791152979924], ["biweekly", 0.010467594126672636], ["triweekly", 0.010480075257643627]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012], ["weekly", 0.0127953916955452], ["biweekly", 0.01311754467885326], ["triweekly", 0.013324388217143133]]
+    },
+    "lat": "REPLACE_MEChelan,Washington"
   }]
 }

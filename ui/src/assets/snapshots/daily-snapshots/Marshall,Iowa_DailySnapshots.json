@@ -3122,18 +3122,34 @@
   }, {
     "epidemiccontrolThreshold": 0.196845,
     "source": "NYGithub",
-    "confirmedPer100kN": 7.620208793720948,
+    "confirmedPer100kN": 12.700347989534913,
     "deaths": 0,
-    "confirmed": 3,
+    "confirmed": 5,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 7.620208793720948,
+    "confirmedPer100k": 12.700347989534913,
     "locale": "Marshall,Iowa",
-    "activePer100k": 7.620208793720948,
+    "activePer100k": 12.700347989534913,
     "long": "REPLACE_MEMarshall,Iowa",
     "date": "08/04/2020",
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEMarshall,Iowa",
-    "active": 3
+    "active": 5
+  }, {
+    "epidemiccontrolThreshold": 0.196845,
+    "source": "NYGithub",
+    "confirmedPer100kN": 33.02090477279078,
+    "deaths": 1,
+    "confirmed": 13,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 33.02090477279078,
+    "locale": "Marshall,Iowa",
+    "activePer100k": 30.480835174883794,
+    "long": "REPLACE_MEMarshall,Iowa",
+    "date": "08/05/2020",
+    "deathsPer100k": 2.540069597906983,
+    "lat": "REPLACE_MEMarshall,Iowa",
+    "active": 12
   }]
 }

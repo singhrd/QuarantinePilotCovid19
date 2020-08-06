@@ -2939,5 +2939,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005309734513274336], ["weekly", 0.00556625290655708], ["biweekly", 0.004862155585992415], ["triweekly", 0.004855484545746706]]
     },
     "lat": "REPLACE_MEHamilton,Florida"
+  }, {
+    "locale": "Hamilton,Florida",
+    "long": "REPLACE_MEHamilton,Florida",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00505477066162463], ["weekly", 0.006668700533937739], ["biweekly", 0.009400196551294078], ["triweekly", 0.014238439133754]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.792902689215417], ["weekly", 26.73373202899125], ["biweekly", 36.14004515030298], ["triweekly", 50.497049388094595]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4123.925700027724], ["weekly", 4000.1584221157273], ["biweekly", 3892.2333557764673], ["triweekly", 3736.7816547189987]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.0053280318659392], ["biweekly", 1.1526640159329697], ["triweekly", 1.2518416920669715]],
+      "Confirmed Cumulative Cases": [["daily", 595.0], ["weekly", 577.1428571428571], ["biweekly", 561.5714285714286], ["triweekly", 539.1428571428571]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.857142857142857], ["biweekly", 5.214285714285714], ["triweekly", 7.285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.0067226890756302525], ["weekly", 0.005199649569851718], ["biweekly", 0.004559254560878326], ["triweekly", 0.004392082266736218]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0070921985815602835], ["weekly", 0.005499022576909235], ["biweekly", 0.00491600743293798], ["triweekly", 0.004865374721791839]]
+    },
+    "lat": "REPLACE_MEHamilton,Florida"
   }]
 }

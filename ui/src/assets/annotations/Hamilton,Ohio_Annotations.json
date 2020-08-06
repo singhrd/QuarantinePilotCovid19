@@ -2939,5 +2939,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028726977875593654], ["weekly", 0.029242089754356753], ["biweekly", 0.029456565800006707], ["triweekly", 0.030407793256249396]]
     },
     "lat": "REPLACE_MEHamilton,Ohio"
+  }, {
+    "locale": "Hamilton,Ohio",
+    "long": "REPLACE_MEHamilton,Ohio",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005284455543698385], ["weekly", 0.009830748953805266], ["biweekly", 0.010176349289399969], ["triweekly", 0.012059391158841729]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.994081761721794], ["weekly", 10.747406074224207], ["biweekly", 10.729930617192949], ["triweekly", 12.052240199224869]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1137.2852681372963], ["weekly", 1102.9984214419662], ["biweekly", 1064.8931873853064], ["triweekly", 1023.0540306763006]],
+      "Daily Growth Rate": [["daily", 0.5568181818181818], ["weekly", 1.2628791204765888], ["biweekly", 1.1661130349922484], ["triweekly", 1.1061168741231844]],
+      "Confirmed Cumulative Cases": [["daily", 9297.0], ["weekly", 9016.714285714286], ["biweekly", 8705.214285714286], ["triweekly", 8363.190476190477]],
+      "Confirmed Daily Cases": [["daily", 49.0], ["weekly", 87.85714285714286], ["biweekly", 87.71428571428571], ["triweekly", 98.52380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.026782833171990966], ["weekly", 0.027175454736974754], ["biweekly", 0.027060280376290324], ["triweekly", 0.02735270479311761]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028614111698460124], ["weekly", 0.029195605296969167], ["biweekly", 0.02932951840153186], ["triweekly", 0.030167306469861616]]
+    },
+    "lat": "REPLACE_MEHamilton,Ohio"
   }]
 }

@@ -2929,14 +2929,29 @@
     "long": "REPLACE_MEFloyd,Iowa",
     "date": "08/04/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.007722046093910251], ["weekly", 0.04370507325159017], ["biweekly", 0.021852536625795085], ["triweekly", 0.0215758646236866]],
-      "Confirmed Daily Cases per 100k": [["daily", 6.393044367727912], ["weekly", 31.051929786107], ["biweekly", 15.5259648930535], ["triweekly", 14.308242156343422]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 831.0957678046285], ["weekly", 712.3678009753959], ["biweekly", 660.7668000073063], ["triweekly", 631.3892389841758]],
-      "Daily Growth Rate": [["daily", 0.2], ["weekly", 1.4739795918367347], ["biweekly", 0.8084183673469388], ["triweekly", 0.872104628807608]],
-      "Confirmed Cumulative Cases": [["daily", 130.0], ["weekly", 111.42857142857143], ["biweekly", 103.35714285714286], ["triweekly", 98.76190476190476]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.857142857142857], ["biweekly", 2.4285714285714284], ["triweekly", 2.238095238095238]],
-      "Confirmed Fatality Rate": [["daily", 0.015384615384615385], ["weekly", 0.01812940628136925], ["biweekly", 0.019559690609356306], ["triweekly", 0.020499679601370262]],
+      "Spread Rate": [["daily", 0.015384918839479234], ["weekly", 0.04370507325159017], ["biweekly", 0.021852536625795085], ["triweekly", 0.0215758646236866]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.786088735455824], ["weekly", 31.051929786107], ["biweekly", 15.5259648930535], ["triweekly", 14.308242156343422]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 837.4888121723565], ["weekly", 712.3678009753959], ["biweekly", 660.7668000073063], ["triweekly", 631.3892389841758]],
+      "Daily Growth Rate": [["daily", 0.4], ["weekly", 1.4739795918367347], ["biweekly", 0.8084183673469388], ["triweekly", 0.872104628807608]],
+      "Confirmed Cumulative Cases": [["daily", 131.0], ["weekly", 111.42857142857143], ["biweekly", 103.35714285714286], ["triweekly", 98.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.857142857142857], ["biweekly", 2.4285714285714284], ["triweekly", 2.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.015267175572519083], ["weekly", 0.01812940628136925], ["biweekly", 0.019559690609356306], ["triweekly", 0.020499679601370262]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020833333333333332], ["weekly", 0.02098997493734336], ["biweekly", 0.021684816261370764], ["triweekly", 0.023052650312845244]]
+    },
+    "lat": "REPLACE_MEFloyd,Iowa"
+  }, {
+    "locale": "Floyd,Iowa",
+    "long": "REPLACE_MEFloyd,Iowa",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007604599385219402], ["weekly", 0.04440701881904501], ["biweekly", 0.0229514594000436], ["triweekly", 0.021160977350373228]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.393044367727912], ["weekly", 31.96522183863956], ["biweekly", 16.43925694558606], ["triweekly", 14.308242156343422]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 843.8818565400844], ["weekly", 744.3330228140354], ["biweekly", 677.2060569528923], ["triweekly", 645.6974811405191]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.5311224489795918], ["biweekly", 0.8369897959183674], ["triweekly", 0.8238087448850796]],
+      "Confirmed Cumulative Cases": [["daily", 132.0], ["weekly", 116.42857142857143], ["biweekly", 105.92857142857143], ["triweekly", 101.0]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 5.0], ["biweekly", 2.5714285714285716], ["triweekly", 2.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.015151515151515152], ["weekly", 0.01733424088696722], ["biweekly", 0.01914644375175429], ["triweekly", 0.020092901113893846]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019801980198019802], ["weekly", 0.020958646616541354], ["biweekly", 0.02147223122735716], ["triweekly", 0.022740082363290996]]
     },
     "lat": "REPLACE_MEFloyd,Iowa"
   }]

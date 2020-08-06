@@ -2939,5 +2939,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015022860875244938], ["weekly", 0.015032638565841569], ["biweekly", 0.015193948913646695], ["triweekly", 0.015613368622057049]]
     },
     "lat": "REPLACE_MEOlmsted,Minnesota"
+  }, {
+    "locale": "Olmsted,Minnesota",
+    "long": "REPLACE_MEOlmsted,Minnesota",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008526239228245025], ["weekly", 0.009388812524809989], ["biweekly", 0.009270095265941755], ["triweekly", 0.010227091934001878]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.844358247048195], ["weekly", 9.385849568296043], ["biweekly", 8.979731077360158], ["triweekly", 9.506180973017791]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1041.7390535273196], ["weekly", 1010.2423083414031], ["biweekly", 977.5272076826789], ["triweekly", 943.3380473161134]],
+      "Daily Growth Rate": [["daily", 2.3333333333333335], ["weekly", 1.133673469387755], ["biweekly", 1.0284116676973818], ["triweekly", 1.4693648710455438]],
+      "Confirmed Cumulative Cases": [["daily", 1649.0], ["weekly", 1599.142857142857], ["biweekly", 1547.357142857143], ["triweekly", 1493.2380952380952]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 14.857142857142858], ["biweekly", 14.214285714285714], ["triweekly", 15.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.013947847180109158], ["weekly", 0.014112176727596114], ["biweekly", 0.01407939613210915], ["triweekly", 0.014269221545623286]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014867485455720749], ["weekly", 0.015089625057768721], ["biweekly", 0.015129785234151842], ["triweekly", 0.015498419538481094]]
+    },
+    "lat": "REPLACE_MEOlmsted,Minnesota"
   }]
 }

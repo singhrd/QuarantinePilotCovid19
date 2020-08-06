@@ -2929,14 +2929,29 @@
     "long": "REPLACE_MEJasper,Iowa",
     "date": "08/04/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.002195390563436206], ["weekly", 0.005114000839396964], ["biweekly", 0.006917844713565506], ["triweekly", 0.011550554151014834]],
-      "Confirmed Daily Cases per 100k": [["daily", 2.6892564205997043], ["weekly", 6.14687181851361], ["biweekly", 8.067769261799112], ["triweekly", 12.54986329613195]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1226.300927793465], ["weekly", 1205.939414894639], ["biweekly", 1174.2446070804278], ["triweekly", 1126.7984402312761]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.9904761904761904], ["biweekly", 1.0797077922077922], ["triweekly", 1.5341570466570464]],
-      "Confirmed Cumulative Cases": [["daily", 456.0], ["weekly", 448.42857142857144], ["biweekly", 436.64285714285717], ["triweekly", 419.0]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.2857142857142856], ["biweekly", 3.0], ["triweekly", 4.666666666666667]],
-      "Confirmed Fatality Rate": [["daily", 0.05482456140350877], ["weekly", 0.053528930718732645], ["biweekly", 0.05128285190312757], ["triweekly", 0.048979835177181984]],
+      "Spread Rate": [["daily", 0.006571765163235099], ["weekly", 0.005114000839396964], ["biweekly", 0.006917844713565506], ["triweekly", 0.011550554151014834]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.067769261799112], ["weekly", 6.14687181851361], ["biweekly", 8.067769261799112], ["triweekly", 12.54986329613195]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1231.6794406346644], ["weekly", 1205.939414894639], ["biweekly", 1174.2446070804278], ["triweekly", 1126.7984402312761]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 0.9904761904761904], ["biweekly", 1.0797077922077922], ["triweekly", 1.5341570466570464]],
+      "Confirmed Cumulative Cases": [["daily", 458.0], ["weekly", 448.42857142857144], ["biweekly", 436.64285714285717], ["triweekly", 419.0]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.2857142857142856], ["biweekly", 3.0], ["triweekly", 4.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.05458515283842795], ["weekly", 0.053528930718732645], ["biweekly", 0.05128285190312757], ["triweekly", 0.048979835177181984]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05694760820045558], ["weekly", 0.05651853098223307], ["biweekly", 0.05540144602600911], ["triweekly", 0.05361952476807578]]
+    },
+    "lat": "REPLACE_MEJasper,Iowa"
+  }, {
+    "locale": "Jasper,Iowa",
+    "long": "REPLACE_MEJasper,Iowa",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.006052824434144836], ["biweekly", 0.007214515020633654], ["triweekly", 0.011597466458376513]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 7.299410284484912], ["biweekly", 8.451948750456214], ["triweekly", 12.677923125684318]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1231.6794406346644], ["weekly", 1213.2388251791235], ["biweekly", 1182.696555830884], ["triweekly", 1139.4763633569603]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.4190476190476191], ["biweekly", 1.2904220779220779], ["triweekly", 1.645268157768158]],
+      "Confirmed Cumulative Cases": [["daily", 458.0], ["weekly", 451.14285714285717], ["biweekly", 439.7857142857143], ["triweekly", 423.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.7142857142857144], ["biweekly", 3.142857142857143], ["triweekly", 4.714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.05458515283842795], ["weekly", 0.05351685199958844], ["biweekly", 0.052076201329474894], ["triweekly", 0.049324187195884155]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.056433408577878104], ["weekly", 0.05637233008333335], ["biweekly", 0.05588775548561188], ["triweekly", 0.053840473143921645]]
     },
     "lat": "REPLACE_MEJasper,Iowa"
   }]

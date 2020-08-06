@@ -2929,14 +2929,29 @@
     "long": "REPLACE_MEButler,Iowa",
     "date": "08/04/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.020154085465700838], ["biweekly", 0.021812974967941594], ["triweekly", 0.023223962206911253]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 14.840758659582677], ["biweekly", 14.840758659582677], ["triweekly", 14.510964022703067]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 789.5283606897985], ["weekly", 746.9848525323281], ["biweekly", 689.1058937599556], ["triweekly", 639.4718009095739]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7574421629401736], ["biweekly", 1.0453877481367535], ["triweekly", 1.0106047520475738]],
-      "Confirmed Cumulative Cases": [["daily", 114.0], ["weekly", 107.85714285714286], ["biweekly", 99.5], ["triweekly", 92.33333333333333]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.142857142857143], ["biweekly", 2.142857142857143], ["triweekly", 2.0952380952380953]],
-      "Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.018590927588042965], ["biweekly", 0.02029853905106447], ["triweekly", 0.022107281434361865]],
+      "Spread Rate": [["daily", 0.008733679968754515], ["weekly", 0.020154085465700838], ["biweekly", 0.021812974967941594], ["triweekly", 0.023223962206911253]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.9256873744719165], ["weekly", 14.840758659582677], ["biweekly", 14.840758659582677], ["triweekly", 14.510964022703067]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 796.4540480642704], ["weekly", 746.9848525323281], ["biweekly", 689.1058937599556], ["triweekly", 639.4718009095739]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7574421629401736], ["biweekly", 1.0453877481367535], ["triweekly", 1.0106047520475738]],
+      "Confirmed Cumulative Cases": [["daily", 115.0], ["weekly", 107.85714285714286], ["biweekly", 99.5], ["triweekly", 92.33333333333333]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.142857142857143], ["biweekly", 2.142857142857143], ["triweekly", 2.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.017391304347826087], ["weekly", 0.018590927588042965], ["biweekly", 0.02029853905106447], ["triweekly", 0.022107281434361865]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020202020202020204], ["weekly", 0.022006150514085967], ["biweekly", 0.023865458357521317], ["triweekly", 0.026308857647878596]]
+    },
+    "lat": "REPLACE_MEButler,Iowa"
+  }, {
+    "locale": "Butler,Iowa",
+    "long": "REPLACE_MEButler,Iowa",
+    "date": "08/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.025752496102414923], ["weekly", 0.02140175403266577], ["biweekly", 0.02159149084806668], ["triweekly", 0.023639851729232896]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.77706212341575], ["weekly", 15.830142570221524], ["biweekly", 14.840758659582677], ["triweekly", 14.840758659582683]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 817.2311101876862], ["weekly", 762.8149951025496], ["biweekly", 703.9466524195383], ["triweekly", 654.3125595691565]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 0.9002993057973165], ["biweekly", 1.0930067957558012], ["triweekly", 1.0582237996666213]],
+      "Confirmed Cumulative Cases": [["daily", 118.0], ["weekly", 110.14285714285714], ["biweekly", 101.64285714285714], ["triweekly", 94.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.2857142857142856], ["biweekly", 2.142857142857143], ["triweekly", 2.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.01694915254237288], ["weekly", 0.018189396751729526], ["biweekly", 0.019860102807001623], ["triweekly", 0.021574894566571273]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0196078431372549], ["weekly", 0.021530808862273727], ["biweekly", 0.023267643473992152], ["triweekly", 0.025656653605844043]]
     },
     "lat": "REPLACE_MEButler,Iowa"
   }]
