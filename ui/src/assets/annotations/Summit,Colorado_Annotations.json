@@ -2954,5 +2954,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0125], ["weekly", 0.012710810731641342], ["biweekly", 0.012960752100048347], ["triweekly", 0.013209199973746985]]
     },
     "lat": "REPLACE_MESummit,Colorado"
+  }, {
+    "locale": "Summit,Colorado",
+    "long": "REPLACE_MESummit,Colorado",
+    "date": "08/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0030913107290687796], ["biweekly", 0.0035833756227156804], ["triweekly", 0.005065733502789145]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.224662216632808], ["biweekly", 3.6853282475803515], ["triweekly", 5.0673263404229845]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1054.464544838928], ["weekly", 1058.1498730865085], ["biweekly", 1038.571566771238], ["triweekly", 1020.5288138924589]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.9821080252549022], ["biweekly", 1.479149250722689], ["triweekly", 1.3945447513955844]],
+      "Confirmed Cumulative Cases": [["daily", 327.0], ["weekly", 328.14285714285717], ["biweekly", 322.07142857142856], ["triweekly", 316.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.0], ["biweekly", 1.1428571428571428], ["triweekly", 1.5714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.012232415902140673], ["weekly", 0.012195296725645108], ["biweekly", 0.012427215419042856], ["triweekly", 0.01265296020492009]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011799410029498525], ["weekly", 0.012659134112440606], ["biweekly", 0.01288179194455758], ["triweekly", 0.013143062407609424]]
+    },
+    "lat": "REPLACE_MESummit,Colorado"
+  }, {
+    "locale": "Summit,Colorado",
+    "long": "REPLACE_MESummit,Colorado",
+    "date": "08/07/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", -0.005148562354742354], ["biweekly", 0.003354070220555069], ["triweekly", 0.004422223066278518]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", -5.5279923713705275], ["biweekly", 3.4549952321065796], ["triweekly", 4.453104965826259]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1054.464544838928], ["weekly", 1052.621880715138], ["biweekly", 1042.0265620033445], ["triweekly", 1024.9819188582853]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.624965168112045], ["biweekly", 1.4553397269131654], ["triweekly", 1.204068560919394]],
+      "Confirmed Cumulative Cases": [["daily", 327.0], ["weekly", 326.42857142857144], ["biweekly", 323.14285714285717], ["triweekly", 317.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", -1.7142857142857142], ["biweekly", 1.0714285714285714], ["triweekly", 1.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.012232415902140673], ["weekly", 0.01225715470745113], ["biweekly", 0.012385208496301989], ["triweekly", 0.012596274353024583]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011799410029498525], ["weekly", 0.012513262285152852], ["biweekly", 0.01276583417581131], ["triweekly", 0.013045851911403304]]
+    },
+    "lat": "REPLACE_MESummit,Colorado"
   }]
 }

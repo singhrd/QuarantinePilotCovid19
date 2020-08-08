@@ -2954,5 +2954,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.034482758620689655], ["weekly", 0.039029132104737164], ["biweekly", 0.04472043787478175], ["triweekly", 0.0415433171266052]]
     },
     "lat": "REPLACE_MEDeKalb,Missouri"
+  }, {
+    "locale": "DeKalb,Missouri",
+    "long": "REPLACE_MEDeKalb,Missouri",
+    "date": "08/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0281708769666964], ["weekly", 0.02686460450041991], ["biweekly", 0.03316468629507839], ["triweekly", 0.029090908682046345]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.970032677133976], ["weekly", 6.831456580400551], ["biweekly", 7.400744628767264], ["triweekly", 6.072405849244935]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 286.92117637682315], ["weekly", 260.73392615195434], ["biweekly", 237.39311616891914], ["triweekly", 212.15467935799484]],
+      "Daily Growth Rate": [["daily", 0.5773502691896257], ["weekly", 0.2734590803390136], ["biweekly", 0.5443800245399745], ["triweekly", 0.44421081546410435]],
+      "Confirmed Cumulative Cases": [["daily", 36.0], ["weekly", 32.714285714285715], ["biweekly", 29.785714285714285], ["triweekly", 26.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.8571428571428571], ["biweekly", 0.9285714285714286], ["triweekly", 0.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.027777777777777776], ["weekly", 0.030628703094140886], ["biweekly", 0.034045218539877894], ["triweekly", 0.03427174536342302]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.037461733985614906], ["biweekly", 0.04342409356573327], ["triweekly", 0.043185353251399945]]
+    },
+    "lat": "REPLACE_MEDeKalb,Missouri"
+  }, {
+    "locale": "DeKalb,Missouri",
+    "long": "REPLACE_MEDeKalb,Missouri",
+    "date": "08/07/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.0281708769666964], ["weekly", 0.021361676281566235], ["biweekly", 0.032001765894782874], ["triweekly", 0.03043237901379379]],
+      "Confirmed Daily Cases per 100k": [["daily", -7.970032677133976], ["weekly", 5.692880483667126], ["biweekly", 7.400744628767264], ["triweekly", 6.451931214822743]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 278.95114369968917], ["weekly", 266.4268066356215], ["biweekly", 244.7938607976864], ["triweekly", 218.6066105728176]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.15390718131280368], ["biweekly", 0.5141907580535191], ["triweekly", 0.4717036854255151]],
+      "Confirmed Cumulative Cases": [["daily", 35.0], ["weekly", 33.42857142857143], ["biweekly", 30.714285714285715], ["triweekly", 27.428571428571427]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 0.7142857142857143], ["biweekly", 0.9285714285714286], ["triweekly", 0.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.02857142857142857], ["weekly", 0.029988662131519277], ["biweekly", 0.03292375546189308], ["triweekly", 0.03559449668617435]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.035858848792266876], ["biweekly", 0.04196884253493045], ["triweekly", 0.0447214515616918]]
+    },
+    "lat": "REPLACE_MEDeKalb,Missouri"
   }]
 }

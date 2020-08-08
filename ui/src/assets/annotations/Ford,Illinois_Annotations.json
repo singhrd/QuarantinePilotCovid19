@@ -2954,5 +2954,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.027828551136821814], ["biweekly", 0.028872531598095514], ["triweekly", 0.027212515672996134]]
     },
     "lat": "REPLACE_MEFord,Illinois"
+  }, {
+    "locale": "Ford,Illinois",
+    "long": "REPLACE_MEFord,Illinois",
+    "date": "08/06/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.1251631429540061], ["weekly", 0.02415376143484771], ["biweekly", 0.022153923450274244], ["triweekly", 0.0032853748327119625]],
+      "Confirmed Daily Cases per 100k": [["daily", 46.29272432682663], ["weekly", 7.715454054471105], ["biweekly", 6.613246332403804], ["triweekly", 1.1022077220673008]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 393.4881567780264], ["weekly", 313.02699306711344], ["biweekly", 298.14718881920487], ["triweekly", 282.16517684922894]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.8153009687409354], ["biweekly", 0.6762162736486729], ["triweekly", 0.4508108490991153]],
+      "Confirmed Cumulative Cases": [["daily", 51.0], ["weekly", 40.57142857142857], ["biweekly", 38.642857142857146], ["triweekly", 36.57142857142857]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 1.0], ["biweekly", 0.8571428571428571], ["triweekly", 0.14285714285714285]],
+      "Confirmed Fatality Rate": [["daily", 0.0196078431372549], ["weekly", 0.024726405489288304], ["biweekly", 0.025992675396673194], ["triweekly", 0.027609835545834082]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.027258945304058084], ["biweekly", 0.029051550574106966], ["triweekly", 0.027304208319245907]]
+    },
+    "lat": "REPLACE_MEFord,Illinois"
+  }, {
+    "locale": "Ford,Illinois",
+    "long": "REPLACE_MEFord,Illinois",
+    "date": "08/07/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.04000533461369926], ["weekly", 0.04203421042827715], ["biweekly", 0.026891255088208017], ["triweekly", 0.022194749044028534]],
+      "Confirmed Daily Cases per 100k": [["daily", -15.43090810894221], ["weekly", 14.32870038687491], ["biweekly", 8.817661776538404], ["triweekly", 6.980648906426238]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 378.0572486690842], ["weekly", 327.3556934539883], ["biweekly", 306.96485059574326], ["triweekly", 289.1458257556552]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1010152544552212], ["biweekly", 0.7290790557990391], ["triweekly", 0.5460489443372105]],
+      "Confirmed Cumulative Cases": [["daily", 49.0], ["weekly", 42.42857142857143], ["biweekly", 39.785714285714285], ["triweekly", 37.476190476190474]],
+      "Confirmed Daily Cases": [["daily", -2.0], ["weekly", 1.8571428571428572], ["biweekly", 1.1428571428571428], ["triweekly", 0.9047619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.04081632653061224], ["weekly", 0.02376812744122698], ["biweekly", 0.025352419294232216], ["triweekly", 0.027055447123798603]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.026936711147237464], ["biweekly", 0.028699106965084407], ["triweekly", 0.027423554303253547]]
+    },
+    "lat": "REPLACE_MEFord,Illinois"
   }]
 }
