@@ -2984,5 +2984,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.022561255364084997], ["biweekly", 0.02749038484007552], ["triweekly", 0.033859803045311124]]
     },
     "lat": "REPLACE_MEGallia,Ohio"
+  }, {
+    "locale": "Gallia,Ohio",
+    "long": "REPLACE_MEGallia,Ohio",
+    "date": "08/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04725288485054513], ["weekly", 0.03361629813349503], ["biweekly", 0.03130392363793967], ["triweekly", 0.04519431212843552]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.034115994380894], ["weekly", 6.2115956155691245], ["biweekly", 5.255965520866183], ["triweekly", 6.052323933118633]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 217.40584654491937], ["weekly", 199.24887474556348], ["biweekly", 176.31375247269284], ["triweekly", 155.28989038922808]],
+      "Daily Growth Rate": [["daily", 0.9085602964160698], ["weekly", 0.5393689862343917], ["biweekly", 0.7696844931171959], ["triweekly", 0.8448457587605105]],
+      "Confirmed Cumulative Cases": [["daily", 65.0], ["weekly", 59.57142857142857], ["biweekly", 52.714285714285715], ["triweekly", 46.42857142857143]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.8571428571428572], ["biweekly", 1.5714285714285714], ["triweekly", 1.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.015384615384615385], ["weekly", 0.01680787062205012], ["biweekly", 0.019356574654875138], ["triweekly", 0.022917237081621307]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.021905278687700154], ["biweekly", 0.02597192031140691], ["triweekly", 0.032450667962706646]]
+    },
+    "lat": "REPLACE_MEGallia,Ohio"
   }]
 }

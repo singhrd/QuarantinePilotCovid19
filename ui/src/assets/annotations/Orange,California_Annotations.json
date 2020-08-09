@@ -2984,5 +2984,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0194496629461819], ["weekly", 0.018921656935212354], ["biweekly", 0.018927994526652947], ["triweekly", 0.01925118049457621]]
     },
     "lat": "REPLACE_MEOrange,California"
+  }, {
+    "locale": "Orange,California",
+    "long": "REPLACE_MEOrange,California",
+    "date": "08/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008274491512304749], ["weekly", 0.009755051541357775], ["biweekly", 0.010709739473100706], ["triweekly", 0.01459300383477391]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.139522346625554], ["weekly", 11.507053310855442], ["biweekly", 12.136837307540262], ["triweekly", 15.33823929068808]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1230.4719727227955], ["weekly", 1195.23555810828], ["biweekly", 1148.793486809894], ["triweekly", 1091.7380556816622]],
+      "Daily Growth Rate": [["daily", 7.488372093023256], ["weekly", 1.8585478463735376], ["biweekly", 1.443930518638455], ["triweekly", 1.3422265925443586]],
+      "Confirmed Cumulative Cases": [["daily", 39076.0], ["weekly", 37957.0], ["biweekly", 36482.142857142855], ["triweekly", 34670.23809523809]],
+      "Confirmed Daily Cases": [["daily", 322.0], ["weekly", 365.42857142857144], ["biweekly", 385.42857142857144], ["triweekly", 487.0952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.018425632101545707], ["weekly", 0.017573193756468392], ["biweekly", 0.017113343749054027], ["triweekly", 0.016953201668417232]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019547688214372982], ["weekly", 0.019053567278238814], ["biweekly", 0.01892499373922297], ["triweekly", 0.019204648764951888]]
+    },
+    "lat": "REPLACE_MEOrange,California"
   }]
 }

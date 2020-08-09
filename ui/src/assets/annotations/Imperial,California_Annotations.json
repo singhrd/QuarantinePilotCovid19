@@ -2984,5 +2984,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.025731368780696134], ["weekly", 0.0245418612899722], ["biweekly", 0.02290604098420927], ["triweekly", 0.022013289163186598]]
     },
     "lat": "REPLACE_MEImperial,California"
+  }, {
+    "locale": "Imperial,California",
+    "long": "REPLACE_MEImperial,California",
+    "date": "08/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006624597252324449], ["weekly", 0.00395618107097105], ["biweekly", 0.0050877290205882785], ["triweekly", 0.006519279955081915]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.31716469387192], ["weekly", 20.73306766626856], ["biweekly", 26.09370873587412], ["triweekly", 32.37406763604926]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5348.894959026571], ["weekly", 5246.727446876443], ["biweekly", 5161.3907710257345], ["triweekly", 5042.7865873607125]],
+      "Daily Growth Rate": [["daily", 2.2857142857142856], ["weekly", 0.847831822539822], ["biweekly", 0.9637220200092068], ["triweekly", 0.8764949086047766]],
+      "Confirmed Cumulative Cases": [["daily", 9693.0], ["weekly", 9507.857142857143], ["biweekly", 9353.214285714286], ["triweekly", 9138.285714285714]],
+      "Confirmed Daily Cases": [["daily", 64.0], ["weekly", 37.57142857142857], ["biweekly", 47.285714285714285], ["triweekly", 58.666666666666664]],
+      "Confirmed Fatality Rate": [["daily", 0.025069637883008356], ["weekly", 0.024079265417683], ["biweekly", 0.022300655557202478], ["triweekly", 0.021149324965200098]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.025826336486342864], ["weekly", 0.024888102011610302], ["biweekly", 0.02328088832468381], ["triweekly", 0.022287316193973714]]
+    },
+    "lat": "REPLACE_MEImperial,California"
   }]
 }

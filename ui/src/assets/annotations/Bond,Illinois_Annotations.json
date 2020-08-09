@@ -2984,5 +2984,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.054551342457082416], ["biweekly", 0.0592268973423289], ["triweekly", 0.06225501004733981]]
     },
     "lat": "REPLACE_MEBond,Illinois"
+  }, {
+    "locale": "Bond,Illinois",
+    "long": "REPLACE_MEBond,Illinois",
+    "date": "08/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01680711831638071], ["weekly", 0.02947663328540408], ["biweekly", 0.041502134459945675], ["triweekly", 0.042832553026560666]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.087909411907951], ["weekly", 9.566714790141065], ["biweekly", 11.306117479257624], ["triweekly", 10.146515686513252]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 365.2745647144771], ["weekly", 342.6623297559618], ["biweekly", 297.43785983893133], ["triweekly", 254.82249395557568]],
+      "Daily Growth Rate": [["daily", 0.7937005259840998], ["weekly", 0.9642614163230084], ["biweekly", 1.0654640414948375], ["triweekly", 1.0423232546678927]],
+      "Confirmed Cumulative Cases": [["daily", 60.0], ["weekly", 56.285714285714285], ["biweekly", 48.857142857142854], ["triweekly", 41.857142857142854]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 1.8571428571428572], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.05], ["weekly", 0.040517431786160504], ["biweekly", 0.04261014469737904], ["triweekly", 0.04431580209481218]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.061224489795918366], ["weekly", 0.054821905227645185], ["biweekly", 0.060714992580424135], ["triweekly", 0.06021866919520949]]
+    },
+    "lat": "REPLACE_MEBond,Illinois"
   }]
 }

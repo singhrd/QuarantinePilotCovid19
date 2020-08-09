@@ -2984,5 +2984,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005988023952095809], ["weekly", 0.006577088847076133], ["biweekly", 0.007120482318903267], ["triweekly", 0.007988730819242089]]
     },
     "lat": "REPLACE_MELane,Oregon"
+  }, {
+    "locale": "Lane,Oregon",
+    "long": "REPLACE_MELane,Oregon",
+    "date": "08/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.024476746426554286], ["weekly", 0.017174232865939536], ["biweekly", 0.018677121432696935], ["triweekly", 0.023351759813748412]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.6642787783294555], ["weekly", 2.3929983858478074], ["biweekly", 2.43038898562668], ["triweekly", 2.7295137838576555]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 151.5441009037682], ["weekly", 139.99040557209676], ["biweekly", 130.99796632527804], ["triweekly", 122.70348494099827]],
+      "Daily Growth Rate": [["daily", 1.0769230769230769], ["weekly", 1.1860744297719088], ["biweekly", 1.1845043786745466], ["triweekly", 1.2918834537863728]],
+      "Confirmed Cumulative Cases": [["daily", 579.0], ["weekly", 534.8571428571429], ["biweekly", 500.5], ["triweekly", 468.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 9.142857142857142], ["biweekly", 9.285714285714286], ["triweekly", 10.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.0051813471502590676], ["weekly", 0.0056151477513041725], ["biweekly", 0.006031223458330001], ["triweekly", 0.006490966211650327]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005870841487279843], ["weekly", 0.00644729916535583], ["biweekly", 0.006928875441823405], ["triweekly", 0.007765486408216656]]
+    },
+    "lat": "REPLACE_MELane,Oregon"
   }]
 }
