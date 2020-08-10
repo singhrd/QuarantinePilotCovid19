@@ -2999,5 +2999,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02127659574468085], ["weekly", 0.016947488802133114], ["biweekly", 0.016647923022914356], ["triweekly", 0.017241675830471776]]
     },
     "lat": "REPLACE_MEPierce,Georgia"
+  }, {
+    "locale": "Pierce,Georgia",
+    "long": "REPLACE_MEPierce,Georgia",
+    "date": "08/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005012541823544048], ["weekly", 0.00812326598493472], ["biweekly", 0.009794801809827027], ["triweekly", 0.012052891827937704]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.274852298998203], ["weekly", 16.14619646985432], ["biweekly", 18.71490954460387], ["triweekly", 21.772901300258106]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2054.9704597996406], ["weekly", 1983.78041172801], ["biweekly", 1933.5070272650548], ["triweekly", 1851.1858892028429]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 1.588095238095238], ["biweekly", 1.2220055860517802], ["triweekly", 1.4372422632730593]],
+      "Confirmed Cumulative Cases": [["daily", 400.0], ["weekly", 386.14285714285717], ["biweekly", 376.35714285714283], ["triweekly", 360.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.142857142857143], ["biweekly", 3.642857142857143], ["triweekly", 4.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.016624979804203435], ["biweekly", 0.015709497507783717], ["triweekly", 0.01555752963260779]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021164021164021163], ["weekly", 0.017516850153884555], ["biweekly", 0.01701187773514422], ["triweekly", 0.017302466104028004]]
+    },
+    "lat": "REPLACE_MEPierce,Georgia"
   }]
 }

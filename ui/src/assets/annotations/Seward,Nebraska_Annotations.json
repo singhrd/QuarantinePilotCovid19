@@ -2999,5 +2999,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010526315789473684], ["weekly", 0.014076807631250687], ["biweekly", 0.015569582288323029], ["triweekly", 0.016861960720553838]]
     },
     "lat": "REPLACE_MESeward,Nebraska"
+  }, {
+    "locale": "Seward,Nebraska",
+    "long": "REPLACE_MESeward,Nebraska",
+    "date": "08/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008438868645864517], ["weekly", 0.030972533266446334], ["biweekly", 0.04259266818357345], ["triweekly", 0.03549204446335788]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.785697755149271], ["weekly", 19.01014976691903], ["biweekly", 21.902998644493668], ["triweekly", 17.081583848535942]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 688.4980328627632], ["weekly", 620.7227163024432], ["biweekly", 531.4576652229973], ["triweekly", 470.0190652516502]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.4404761904761905], ["biweekly", 1.4034341828932966], ["triweekly", 1.1984079167101285]],
+      "Confirmed Cumulative Cases": [["daily", 119.0], ["weekly", 107.28571428571429], ["biweekly", 91.85714285714286], ["triweekly", 81.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.2857142857142856], ["biweekly", 3.7857142857142856], ["triweekly", 2.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.008403361344537815], ["weekly", 0.009366288670263229], ["biweekly", 0.011374526751103979], ["triweekly", 0.01315273074574742]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010416666666666666], ["weekly", 0.013382764831944729], ["biweekly", 0.015045951783489516], ["triweekly", 0.016350042627448734]]
+    },
+    "lat": "REPLACE_MESeward,Nebraska"
   }]
 }

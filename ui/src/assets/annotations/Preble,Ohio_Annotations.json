@@ -2999,5 +2999,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.015277077116550705], ["biweekly", 0.016715240242146722], ["triweekly", 0.016019237518693552]]
     },
     "lat": "REPLACE_MEPreble,Ohio"
+  }, {
+    "locale": "Preble,Ohio",
+    "long": "REPLACE_MEPreble,Ohio",
+    "date": "08/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009901070982711424], ["weekly", 0.030815510403813157], ["biweekly", 0.03566313309470136], ["triweekly", 0.03092116942388346]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.892128565138692], ["weekly", 13.628072431457785], ["biweekly", 13.802791308784165], ["triweekly", 11.182008148888439]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 496.5510493615772], ["weekly", 431.20618924151034], ["biweekly", 383.68265460873454], ["triweekly", 347.69056587949984]],
+      "Daily Growth Rate": [["daily", 0.09523809523809523], ["weekly", 2.0476190476190474], ["biweekly", 1.6210120751364576], ["triweekly", 1.5905369444331885]],
+      "Confirmed Cumulative Cases": [["daily", 203.0], ["weekly", 176.28571428571428], ["biweekly", 156.85714285714286], ["triweekly", 142.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 5.571428571428571], ["biweekly", 5.642857142857143], ["triweekly", 4.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.009852216748768473], ["weekly", 0.011389255622655121], ["biweekly", 0.01304404039741683], ["triweekly", 0.013301916665270233]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012195121951219513], ["weekly", 0.014698825172178544], ["biweekly", 0.016236530239627196], ["triweekly", 0.01607802646637139]]
+    },
+    "lat": "REPLACE_MEPreble,Ohio"
   }]
 }

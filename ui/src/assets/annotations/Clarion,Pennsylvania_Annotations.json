@@ -2999,5 +2999,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.02756468797564688], ["biweekly", 0.02825157539262636], ["triweekly", 0.0291984303921732]]
     },
     "lat": "REPLACE_MEClarion,Pennsylvania"
+  }, {
+    "locale": "Clarion,Pennsylvania",
+    "long": "REPLACE_MEClarion,Pennsylvania",
+    "date": "08/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02531780798428951], ["weekly", 0.003710783771894377], ["biweekly", 0.005717336262395456], ["triweekly", 0.0065333867387373686]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.203184348821479], ["weekly", 0.7433120498316398], ["biweekly", 1.1149680747474597], ["triweekly", 1.2388534163860665]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 208.12737395285916], ["weekly", 200.32259742962697], ["biweekly", 195.30524109326333], ["triweekly", 190.65954078181565]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.2857142857142857], ["biweekly", 0.32142857142857145], ["triweekly", 0.4523809523809524]],
+      "Confirmed Cumulative Cases": [["daily", 80.0], ["weekly", 77.0], ["biweekly", 75.07142857142857], ["triweekly", 73.28571428571429]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.2857142857142857], ["biweekly", 0.42857142857142855], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.025], ["weekly", 0.025976529735928233], ["biweekly", 0.026666181119780873], ["triweekly", 0.027345799448384216]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.027355832503633513], ["biweekly", 0.02803043430461221], ["triweekly", 0.028864261636951813]]
+    },
+    "lat": "REPLACE_MEClarion,Pennsylvania"
   }]
 }
