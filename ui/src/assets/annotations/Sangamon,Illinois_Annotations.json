@@ -2989,13 +2989,13 @@
     "long": "REPLACE_MESangamon,Illinois",
     "date": "08/08/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02889181561348675], ["weekly", 0.02982852600882589], ["biweekly", 0.030137971282981773], ["triweekly", 0.030294042847889998]],
-      "Confirmed Daily Cases per 100k": [["daily", 17.978959480562175], ["weekly", 16.511289318883634], ["biweekly", 15.080310911247048], ["triweekly", 13.747177181055706]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 631.3183200460261], ["weekly", 561.2370698258757], ["biweekly", 505.7958294684685], ["triweekly", 459.3318382666619]],
-      "Daily Growth Rate": [["daily", 1.0606060606060606], ["weekly", 1.3520017424294954], ["biweekly", 1.2303599829107843], ["triweekly", 1.1933847977408842]],
-      "Confirmed Cumulative Cases": [["daily", 1229.0], ["weekly", 1092.5714285714287], ["biweekly", 984.6428571428571], ["triweekly", 894.1904761904761]],
-      "Confirmed Daily Cases": [["daily", 35.0], ["weekly", 32.142857142857146], ["biweekly", 29.357142857142858], ["triweekly", 26.761904761904763]],
-      "Confirmed Fatality Rate": [["daily", 0.027664768104149716], ["weekly", 0.031231431648138738], ["biweekly", 0.03510507679950746], ["triweekly", 0.03936419603047404]],
+      "Spread Rate": [["daily", 0.028077814754539965], ["weekly", 0.02982852600882589], ["biweekly", 0.030137971282981773], ["triweekly", 0.030294042847889998]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.465274923974686], ["weekly", 16.511289318883634], ["biweekly", 15.080310911247048], ["triweekly", 13.747177181055706]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 630.8046354894386], ["weekly", 561.2370698258757], ["biweekly", 505.7958294684685], ["triweekly", 459.3318382666619]],
+      "Daily Growth Rate": [["daily", 1.0303030303030303], ["weekly", 1.3520017424294954], ["biweekly", 1.2303599829107843], ["triweekly", 1.1933847977408842]],
+      "Confirmed Cumulative Cases": [["daily", 1228.0], ["weekly", 1092.5714285714287], ["biweekly", 984.6428571428571], ["triweekly", 894.1904761904761]],
+      "Confirmed Daily Cases": [["daily", 34.0], ["weekly", 32.142857142857146], ["biweekly", 29.357142857142858], ["triweekly", 26.761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.02768729641693811], ["weekly", 0.031231431648138738], ["biweekly", 0.03510507679950746], ["triweekly", 0.03936419603047404]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.034482758620689655], ["weekly", 0.038978721950876184], ["biweekly", 0.04343057822164169], ["triweekly", 0.04878671308689676]]
     },
     "lat": "REPLACE_MESangamon,Illinois"
@@ -3004,14 +3004,44 @@
     "long": "REPLACE_MESangamon,Illinois",
     "date": "08/09/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.01614240055954319], ["weekly", 0.03147139356619988], ["biweekly", 0.03220167239823083], ["triweekly", 0.030922276470289202]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.273691131749816], ["weekly", 17.83219246439432], ["biweekly", 16.364522302715773], ["triweekly", 14.358706415088434]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 641.5920111777759], ["weekly", 579.06926229027], ["biweekly", 522.1603517711843], ["triweekly", 473.6905446817504]],
-      "Daily Growth Rate": [["daily", 0.5714285714285714], ["weekly", 1.419773051580115], ["biweekly", 1.3061175586683602], ["triweekly", 1.2188271916043307]],
-      "Confirmed Cumulative Cases": [["daily", 1249.0], ["weekly", 1127.2857142857142], ["biweekly", 1016.5], ["triweekly", 922.1428571428571]],
-      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 34.714285714285715], ["biweekly", 31.857142857142858], ["triweekly", 27.952380952380953]],
-      "Confirmed Fatality Rate": [["daily", 0.02722177742193755], ["weekly", 0.030257433002918745], ["biweekly", 0.033979507872810615], ["triweekly", 0.03815968491364153]],
+      "Spread Rate": [["daily", 0.016956401418489975], ["weekly", 0.03135510772920748], ["biweekly", 0.03214352947973463], ["triweekly", 0.03088351452462507]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.787375688337306], ["weekly", 17.758808956310393], ["biweekly", 16.32783054867381], ["triweekly", 14.334245245727123]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 641.5920111777759], ["weekly", 578.9958787821861], ["biweekly", 522.1236600171424], ["triweekly", 473.6660835123891]],
+      "Daily Growth Rate": [["daily", 0.6176470588235294], ["weekly", 1.4154440472511105], ["biweekly", 1.303953056503858], ["triweekly", 1.2173841901613291]],
+      "Confirmed Cumulative Cases": [["daily", 1249.0], ["weekly", 1127.142857142857], ["biweekly", 1016.4285714285714], ["triweekly", 922.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 21.0], ["weekly", 34.57142857142857], ["biweekly", 31.785714285714285], ["triweekly", 27.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.02722177742193755], ["weekly", 0.030260651333317085], ["biweekly", 0.03398111703800979], ["triweekly", 0.03816075769044097]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03253588516746411], ["weekly", 0.0377015827427025], ["biweekly", 0.04211081086900292], ["triweekly", 0.04735071191312189]]
+    },
+    "lat": "REPLACE_MESangamon,Illinois"
+  }, {
+    "locale": "Sangamon,Illinois",
+    "long": "REPLACE_MESangamon,Illinois",
+    "date": "08/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019818326006530995], ["weekly", 0.025475192246666594], ["biweekly", 0.029622508842206914], ["triweekly", 0.030014831879510637]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.84211391468727], ["weekly", 14.97023564912116], ["biweekly", 15.557303713792574], ["triweekly", 14.285322907004504]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 654.4341250924632], ["weekly", 593.9661144313071], ["biweekly", 537.680963730935], ["triweekly", 487.9514064193937]],
+      "Daily Growth Rate": [["daily", 1.1904761904761905], ["weekly", 1.0078810220410266], ["biweekly", 1.2493779493187167], ["triweekly", 1.137272145343402]],
+      "Confirmed Cumulative Cases": [["daily", 1274.0], ["weekly", 1156.2857142857142], ["biweekly", 1046.7142857142858], ["triweekly", 949.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 25.0], ["weekly", 29.142857142857142], ["biweekly", 30.285714285714285], ["triweekly", 27.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.026687598116169546], ["weekly", 0.02950149308395614], ["biweekly", 0.032981806767282386], ["triweekly", 0.037022374732015514]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03189493433395872], ["weekly", 0.03646212045060863], ["biweekly", 0.040782815556045196], ["triweekly", 0.0458509858817277]]
+    },
+    "lat": "REPLACE_MESangamon,Illinois"
+  }, {
+    "locale": "Sangamon,Illinois",
+    "long": "REPLACE_MESangamon,Illinois",
+    "date": "08/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03622746839021662], ["weekly", 0.025464033058045565], ["biweekly", 0.030092015931957632], ["triweekly", 0.029408692567131405]],
+      "Confirmed Daily Cases per 100k": [["daily", 24.143174159612066], ["weekly", 15.26376968145687], ["biweekly", 16.070988270380067], ["triweekly", 14.358706415088431]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 678.5772992520752], ["weekly", 609.229884112764], ["biweekly", 553.751952001315], ["triweekly", 502.31011283448197]],
+      "Daily Growth Rate": [["daily", 1.88], ["weekly", 1.1271015916247924], ["biweekly", 1.3157044799309614], ["triweekly", 1.1484128335027237]],
+      "Confirmed Cumulative Cases": [["daily", 1321.0], ["weekly", 1186.0], ["biweekly", 1078.0], ["triweekly", 977.8571428571429]],
+      "Confirmed Daily Cases": [["daily", 47.0], ["weekly", 29.714285714285715], ["biweekly", 31.285714285714285], ["triweekly", 27.952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.025738077214231644], ["weekly", 0.028757587909986265], ["biweekly", 0.031983074028485194], ["triweekly", 0.03593652042452321]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03145235892691952], ["weekly", 0.03520856014698413], ["biweekly", 0.039525986681791685], ["triweekly", 0.04445258936137996]]
     },
     "lat": "REPLACE_MESangamon,Illinois"
   }]

@@ -2989,13 +2989,13 @@
     "long": "REPLACE_MECibola,New Mexico",
     "date": "08/08/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0014892035514675328], ["weekly", 0.01573917177663921], ["biweekly", 0.0596747049857278], ["triweekly", 0.04478212539098026]],
-      "Confirmed Daily Cases per 100k": [["daily", 3.7488284910965324], ["weekly", 37.488284910965326], ["biweekly", 101.75391618690591], ["triweekly", 73.01289775516581]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2519.21274601687], ["weekly", 2376.2217164279023], ["biweekly", 2075.2443432855807], ["triweekly", 1727.8529031106352]],
-      "Daily Growth Rate": [["daily", 0.041666666666666664], ["weekly", 2.1874258677830105], ["biweekly", 7.723770396308169], ["triweekly", 5.47922561567937]],
-      "Confirmed Cumulative Cases": [["daily", 672.0], ["weekly", 633.8571428571429], ["biweekly", 553.5714285714286], ["triweekly", 460.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 10.0], ["biweekly", 27.142857142857142], ["triweekly", 19.476190476190474]],
-      "Confirmed Fatality Rate": [["daily", 0.026785714285714284], ["weekly", 0.02684669589996059], ["biweekly", 0.032836503377691464], ["triweekly", 0.04158227658174348]],
+      "Spread Rate": [["daily", 0.01185199058701425], ["weekly", 0.01573917177663921], ["biweekly", 0.0596747049857278], ["triweekly", 0.04478212539098026]],
+      "Confirmed Daily Cases per 100k": [["daily", 29.99062792877226], ["weekly", 37.488284910965326], ["biweekly", 101.75391618690591], ["triweekly", 73.01289775516581]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2545.4545454545455], ["weekly", 2376.2217164279023], ["biweekly", 2075.2443432855807], ["triweekly", 1727.8529031106352]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 2.1874258677830105], ["biweekly", 7.723770396308169], ["triweekly", 5.47922561567937]],
+      "Confirmed Cumulative Cases": [["daily", 679.0], ["weekly", 633.8571428571429], ["biweekly", 553.5714285714286], ["triweekly", 460.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 10.0], ["biweekly", 27.142857142857142], ["triweekly", 19.476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.026509572901325478], ["weekly", 0.02684669589996059], ["biweekly", 0.032836503377691464], ["triweekly", 0.04158227658174348]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.029850746268656716], ["weekly", 0.03882631085542233], ["biweekly", 0.05029895701558378], ["triweekly", 0.0546912210347482]]
     },
     "lat": "REPLACE_MECibola,New Mexico"
@@ -3004,14 +3004,44 @@
     "long": "REPLACE_MECibola,New Mexico",
     "date": "08/09/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.016236519047640563], ["weekly", 0.015477306256566261], ["biweekly", 0.05784391193803305], ["triweekly", 0.04485303984581205]],
-      "Confirmed Daily Cases per 100k": [["daily", 41.23711340206186], ["weekly", 36.95273798366583], ["biweekly", 99.87950194135762], ["triweekly", 73.19141339759896]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2560.4498594189317], ["weekly", 2413.174454411568], ["biweekly", 2175.123845226938], ["triweekly", 1801.0443165082343]],
-      "Daily Growth Rate": [["daily", 11.0], ["weekly", 2.1714002267573695], ["biweekly", 7.612460872498646], ["triweekly", 5.481209742663497]],
-      "Confirmed Cumulative Cases": [["daily", 683.0], ["weekly", 643.7142857142857], ["biweekly", 580.2142857142857], ["triweekly", 480.42857142857144]],
-      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 9.857142857142858], ["biweekly", 26.642857142857142], ["triweekly", 19.523809523809526]],
-      "Confirmed Fatality Rate": [["daily", 0.02635431918008785], ["weekly", 0.02664574487278355], ["biweekly", 0.03068861244874464], ["triweekly", 0.04013150543358956]],
+      "Spread Rate": [["daily", 0.005873732012093846], ["weekly", 0.016957704404501506], ["biweekly", 0.05858411101200067], ["triweekly", 0.0453465058951238]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.99531396438613], ["weekly", 40.70156647476235], ["biweekly", 101.7539161869059], ["triweekly", 74.44102289463115]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2560.4498594189317], ["weekly", 2416.9232829026646], ["biweekly", 2176.9982594724866], ["triweekly", 1802.2939260052663]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 2.2130668934240365], ["biweekly", 7.633294205831979], ["triweekly", 5.495098631552385]],
+      "Confirmed Cumulative Cases": [["daily", 683.0], ["weekly", 644.7142857142857], ["biweekly", 580.7142857142857], ["triweekly", 480.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 10.857142857142858], ["biweekly", 27.142857142857142], ["triweekly", 19.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.02635431918008785], ["weekly", 0.02660629610358515], ["biweekly", 0.03066888806414544], ["triweekly", 0.04011835584385676]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.029079159935379646], ["weekly", 0.0349683907093776], ["biweekly", 0.04779647487883025], ["triweekly", 0.05325554228563663]]
+    },
+    "lat": "REPLACE_MECibola,New Mexico"
+  }, {
+    "locale": "Cibola,New Mexico",
+    "long": "REPLACE_MECibola,New Mexico",
+    "date": "08/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004382768155094752], ["weekly", 0.014055655269456275], ["biweekly", 0.058527471058708196], ["triweekly", 0.045084049218312765]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.246485473289598], ["weekly", 34.275003347168294], ["biweekly", 102.28946311420542], ["triweekly", 74.61953853706433]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2571.6963448922215], ["weekly", 2451.1982862498326], ["biweekly", 2279.2877225866914], ["triweekly", 1876.9134645423308]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.1416383219954647], ["biweekly", 7.651151348689122], ["triweekly", 5.471289107742861]],
+      "Confirmed Cumulative Cases": [["daily", 686.0], ["weekly", 653.8571428571429], ["biweekly", 608.0], ["triweekly", 500.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 9.142857142857142], ["biweekly", 27.285714285714285], ["triweekly", 19.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.026239067055393587], ["weekly", 0.02644782012215759], ["biweekly", 0.028517167625893524], ["triweekly", 0.038677905634103525]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02875399361022364], ["weekly", 0.03105421279791546], ["biweekly", 0.04529134748876976], ["triweekly", 0.05180579706713997]]
+    },
+    "lat": "REPLACE_MECibola,New Mexico"
+  }, {
+    "locale": "Cibola,New Mexico",
+    "long": "REPLACE_MECibola,New Mexico",
+    "date": "08/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004363643287773833], ["weekly", 0.013075322375112362], ["biweekly", 0.025655502165354997], ["triweekly", 0.04440265089178618]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.246485473289598], ["weekly", 32.132815637970275], ["biweekly", 55.429106975498726], ["triweekly", 74.26250725219799]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2582.942830365511], ["weekly", 2483.3311018878035], ["biweekly", 2334.7168295621905], ["triweekly", 1951.1759717945283]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.1862811791383219], ["biweekly", 1.347579920117695], ["triweekly", 5.427638314092068]],
+      "Confirmed Cumulative Cases": [["daily", 689.0], ["weekly", 662.4285714285714], ["biweekly", 622.7857142857143], ["triweekly", 520.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 8.571428571428571], ["biweekly", 14.785714285714286], ["triweekly", 19.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.026124818577648767], ["weekly", 0.02631675119853285], ["biweekly", 0.02785634345642343], ["triweekly", 0.03710551552915755]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028526148969889066], ["weekly", 0.03009183968109385], ["biweekly", 0.042847849677859824], ["triweekly", 0.05017540981123384]]
     },
     "lat": "REPLACE_MECibola,New Mexico"
   }]

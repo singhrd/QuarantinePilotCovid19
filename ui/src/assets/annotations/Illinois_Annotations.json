@@ -2989,13 +2989,13 @@
     "long": "REPLACE_MEIllinois",
     "date": "08/08/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.010594031085107147], ["weekly", 0.009022701606449754], ["biweekly", 0.008713920246938147], ["triweekly", 0.008492259158723653]],
-      "Confirmed Daily Cases per 100k": [["daily", 16.17995264404104], ["weekly", 13.283346487766378], ["biweekly", 12.462509865824783], ["triweekly", 11.816439282895482]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1535.374901341752], ["weekly", 1476.156274664562], ["biweekly", 1432.2251663096176], ["triweekly", 1391.5262900740406]],
-      "Daily Growth Rate": [["daily", 1.0163609320773426], ["weekly", 1.0230927291457743], ["biweekly", 1.0300422085383518], ["triweekly", 1.0392842555566506]],
-      "Confirmed Cumulative Cases": [["daily", 194532.0], ["weekly", 187029.0], ["biweekly", 181462.92857142858], ["triweekly", 176306.38095238095]],
-      "Confirmed Daily Cases": [["daily", 2050.0], ["weekly", 1683.0], ["biweekly", 1579.0], ["triweekly", 1497.142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.04033269590607201], ["weekly", 0.04148905050171291], ["biweekly", 0.04247134942794967], ["triweekly", 0.04343106993025436]],
+      "Spread Rate": [["daily", 0.010588890529465544], ["weekly", 0.009022701606449754], ["biweekly", 0.008713920246938147], ["triweekly", 0.008492259158723653]],
+      "Confirmed Daily Cases per 100k": [["daily", 16.17205998421468], ["weekly", 13.283346487766378], ["biweekly", 12.462509865824783], ["triweekly", 11.816439282895482]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1535.3670086819259], ["weekly", 1476.156274664562], ["biweekly", 1432.2251663096176], ["triweekly", 1391.5262900740406]],
+      "Daily Growth Rate": [["daily", 1.0158651462568171], ["weekly", 1.0230927291457743], ["biweekly", 1.0300422085383518], ["triweekly", 1.0392842555566506]],
+      "Confirmed Cumulative Cases": [["daily", 194531.0], ["weekly", 187029.0], ["biweekly", 181462.92857142858], ["triweekly", 176306.38095238095]],
+      "Confirmed Daily Cases": [["daily", 2049.0], ["weekly", 1683.0], ["biweekly", 1579.0], ["triweekly", 1497.142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.04033290323907244], ["weekly", 0.04148905050171291], ["biweekly", 0.04247134942794967], ["triweekly", 0.04343106993025436]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04305500680451293], ["weekly", 0.04411295831980661], ["biweekly", 0.0450792987933676], ["triweekly", 0.04598535821058728]]
     },
     "lat": "REPLACE_MEIllinois"
@@ -3004,14 +3004,44 @@
     "long": "REPLACE_MEIllinois",
     "date": "08/09/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.006992336950117917], ["weekly", 0.009330867624056185], ["biweekly", 0.008930604986512389], ["triweekly", 0.008626493375015426]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.773480662983426], ["weekly", 13.868530837749464], ["biweekly", 12.889277257864473], ["triweekly", 12.114481151576657]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1546.1483820047356], ["weekly", 1490.0248055023117], ["biweekly", 1445.1144435674819], ["triweekly", 1403.6407712256175]],
-      "Daily Growth Rate": [["daily", 0.6658536585365854], ["weekly", 1.0512650582791956], ["biweekly", 1.045274732968011], ["triweekly", 1.043863110510902]],
-      "Confirmed Cumulative Cases": [["daily", 195897.0], ["weekly", 188786.14285714287], ["biweekly", 183096.0], ["triweekly", 177841.2857142857]],
-      "Confirmed Daily Cases": [["daily", 1365.0], ["weekly", 1757.142857142857], ["biweekly", 1633.0714285714287], ["triweekly", 1534.904761904762]],
-      "Confirmed Fatality Rate": [["daily", 0.040082288141217066], ["weekly", 0.04120911522325728], ["biweekly", 0.042192937223358054], ["triweekly", 0.04315525806533942]],
+      "Spread Rate": [["daily", 0.0069974775057595195], ["weekly", 0.009330133258964526], ["biweekly", 0.008930237803966559], ["triweekly", 0.00862624858665154]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.781373322809786], ["weekly", 13.867403314917128], ["biweekly", 12.888713496448304], ["triweekly", 12.114105310632544]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1546.1483820047356], ["weekly", 1490.0236779794793], ["biweekly", 1445.1138798060658], ["triweekly", 1403.6403953846734]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.0511942317334062], ["biweekly", 1.0452393196951164], ["triweekly", 1.0438395016623054]],
+      "Confirmed Cumulative Cases": [["daily", 195897.0], ["weekly", 188786.0], ["biweekly", 183095.92857142858], ["triweekly", 177841.2380952381]],
+      "Confirmed Daily Cases": [["daily", 1366.0], ["weekly", 1757.0], ["biweekly", 1633.0], ["triweekly", 1534.857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.040082288141217066], ["weekly", 0.04120914484225734], ["biweekly", 0.04219295203285809], ["triweekly", 0.043155267938339445]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04274034640800375], ["weekly", 0.04385016851843963], ["biweekly", 0.04481294055921143], ["triweekly", 0.045728755301459256]]
+    },
+    "lat": "REPLACE_MEIllinois"
+  }, {
+    "locale": "Illinois",
+    "long": "REPLACE_MEIllinois",
+    "date": "08/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00726817246565048], ["weekly", 0.009172687195209204], ["biweekly", 0.008845776659473106], ["triweekly", 0.008671333090515836]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.27861089187056], ["weekly", 13.736610666365994], ["biweekly", 12.863907994136882], ["triweekly", 12.257300710339385]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1557.4269928966062], ["weekly", 1503.760288645845], ["biweekly", 1457.9777878002028], ["triweekly", 1415.8976960950126]],
+      "Daily Growth Rate": [["daily", 1.0461200585651538], ["weekly", 1.0081473591633463], ["biweekly", 1.0149664216727985], ["triweekly", 1.0382706870242784]],
+      "Confirmed Cumulative Cases": [["daily", 197326.0], ["weekly", 190526.42857142858], ["biweekly", 184725.7857142857], ["triweekly", 179394.2380952381]],
+      "Confirmed Daily Cases": [["daily", 1429.0], ["weekly", 1740.4285714285713], ["biweekly", 1629.857142857143], ["triweekly", 1553.0]],
+      "Confirmed Fatality Rate": [["daily", 0.03980215480980712], ["weekly", 0.04093362146164209], ["biweekly", 0.041921565782811136], ["triweekly", 0.04287932346556297]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.042399507660415246], ["weekly", 0.04358559603663394], ["biweekly", 0.04454339036397076], ["triweekly", 0.04546788626762291]]
+    },
+    "lat": "REPLACE_MEIllinois"
+  }, {
+    "locale": "Illinois",
+    "long": "REPLACE_MEIllinois",
+    "date": "08/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008040523324105209], ["weekly", 0.009030814087583596], ["biweekly", 0.008804633942435913], ["triweekly", 0.0086490739851115]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.573007103393843], ["weekly", 13.629495997293944], ["biweekly", 12.901116247604012], ["triweekly", 12.31781110234149]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1570.0], ["weekly", 1517.389784643139], ["biweekly", 1470.878904047807], ["triweekly", 1428.2155071973543]],
+      "Daily Growth Rate": [["daily", 1.1147655703289012], ["weekly", 1.010687355962417], ["biweekly", 1.0206416639512617], ["triweekly", 1.026785468638331]],
+      "Confirmed Cumulative Cases": [["daily", 198919.0], ["weekly", 192253.2857142857], ["biweekly", 186360.35714285713], ["triweekly", 180954.90476190476]],
+      "Confirmed Daily Cases": [["daily", 1593.0], ["weekly", 1726.857142857143], ["biweekly", 1634.5714285714287], ["triweekly", 1560.6666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.03960908711586123], ["weekly", 0.040659743340876256], ["biweekly", 0.04164483339747977], ["triweekly", 0.042604269054701785]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.042224461141062604], ["weekly", 0.04331391745603177], ["biweekly", 0.044264678547530904], ["triweekly", 0.04520175190676986]]
     },
     "lat": "REPLACE_MEIllinois"
   }]

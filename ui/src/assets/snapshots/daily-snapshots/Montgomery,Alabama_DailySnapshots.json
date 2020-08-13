@@ -3215,5 +3215,37 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEMontgomery,Alabama",
     "active": 228
+  }, {
+    "epidemiccontrolThreshold": 1.13243,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 1,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Montgomery,Alabama",
+    "activePer100k": 0.0,
+    "long": "REPLACE_MEMontgomery,Alabama",
+    "date": "08/10/2020",
+    "deathsPer100k": 0.4415283946910626,
+    "lat": "REPLACE_MEMontgomery,Alabama",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 1.13243,
+    "source": "NYGithub",
+    "confirmedPer100kN": -0.4415283946910626,
+    "deaths": 2,
+    "confirmed": -1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -0.4415283946910626,
+    "locale": "Montgomery,Alabama",
+    "activePer100k": 0.0,
+    "long": "REPLACE_MEMontgomery,Alabama",
+    "date": "08/11/2020",
+    "deathsPer100k": 0.8830567893821252,
+    "lat": "REPLACE_MEMontgomery,Alabama",
+    "active": 0
   }]
 }
