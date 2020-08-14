@@ -3247,5 +3247,37 @@
     "deathsPer100k": 1.231026799453424,
     "lat": "REPLACE_MEPortage,Ohio",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.81233,
+    "source": "NYGithub",
+    "confirmedPer100kN": 3.0775669986335603,
+    "deaths": 1,
+    "confirmed": 5,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 3.0775669986335603,
+    "locale": "Portage,Ohio",
+    "activePer100k": 2.462053598906848,
+    "long": "REPLACE_MEPortage,Ohio",
+    "date": "08/12/2020",
+    "deathsPer100k": 0.615513399726712,
+    "lat": "REPLACE_MEPortage,Ohio",
+    "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.81233,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2.462053598906848,
+    "deaths": -1,
+    "confirmed": 4,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2.462053598906848,
+    "locale": "Portage,Ohio",
+    "activePer100k": 3.0775669986335603,
+    "long": "REPLACE_MEPortage,Ohio",
+    "date": "08/13/2020",
+    "deathsPer100k": -0.615513399726712,
+    "lat": "REPLACE_MEPortage,Ohio",
+    "active": 5
   }]
 }
