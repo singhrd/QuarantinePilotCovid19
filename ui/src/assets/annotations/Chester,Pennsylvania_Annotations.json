@@ -3074,5 +3074,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06896551724137931], ["weekly", 0.07082360067688491], ["biweekly", 0.07284842698262493], ["triweekly", 0.07509099055578677]]
     },
     "lat": "REPLACE_MEChester,Pennsylvania"
+  }, {
+    "locale": "Chester,Pennsylvania",
+    "long": "REPLACE_MEChester,Pennsylvania",
+    "date": "08/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005493998852834636], ["weekly", 0.005223524156452187], ["biweekly", 0.006057375805033516], ["triweekly", 0.007287768445264237]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.523925263195991], ["weekly", 5.142964900216957], ["biweekly", 5.823251262679518], ["triweekly", 6.775652170127101]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1008.2116006240132], ["weekly", 983.8573488478536], ["biweekly", 964.7821192444035], ["triweekly", 941.5616780723481]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.646747406526926], ["biweekly", 1.6858406823266852], ["triweekly", 1.7366244148402346]],
+      "Confirmed Cumulative Cases": [["daily", 5293.0], ["weekly", 5165.142857142857], ["biweekly", 5065.0], ["triweekly", 4943.0952380952385]],
+      "Confirmed Daily Cases": [["daily", 29.0], ["weekly", 27.0], ["biweekly", 30.571428571428573], ["triweekly", 35.57142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.0661250708482902], ["weekly", 0.06763265882786339], ["biweekly", 0.06894256750549481], ["triweekly", 0.07036200658803901]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06860054880439044], ["weekly", 0.07036623453542534], ["biweekly", 0.0723031415747896], ["triweekly", 0.07447429291658245]]
+    },
+    "lat": "REPLACE_MEChester,Pennsylvania"
+  }, {
+    "locale": "Chester,Pennsylvania",
+    "long": "REPLACE_MEChester,Pennsylvania",
+    "date": "08/15/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.005250367593747133], ["biweekly", 0.005729707670078886], ["triweekly", 0.006889818797607427]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 5.1973878092139625], ["biweekly", 5.551136717694493], ["triweekly", 6.46725568581074]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1008.2116006240132], ["weekly", 989.0547366570675], ["biweekly", 970.3332559620977], ["triweekly", 948.0289337581588]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6794004677514156], ["biweekly", 1.6697692537552566], ["triweekly", 1.7325193245282478]],
+      "Confirmed Cumulative Cases": [["daily", 5293.0], ["weekly", 5192.428571428572], ["biweekly", 5094.142857142857], ["triweekly", 4977.047619047619]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 27.285714285714285], ["biweekly", 29.142857142857142], ["triweekly", 33.95238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.0661250708482902], ["weekly", 0.06730701934385086], ["biweekly", 0.0685627016054202], ["triweekly", 0.06994458950013269]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06860054880439044], ["weekly", 0.06996014244329044], ["biweekly", 0.07176026124921428], ["triweekly", 0.07389150814589042]]
+    },
+    "lat": "REPLACE_MEChester,Pennsylvania"
   }]
 }

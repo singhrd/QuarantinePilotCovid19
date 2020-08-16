@@ -3064,14 +3064,44 @@
     "long": "-0.083333",
     "date": "8/13/20",
     "metrics": {
-      "Spread Rate": [["daily", 0.00006020460059907862], ["weekly", 0.0030882778066277134], ["biweekly", 0.0028910485487288235], ["triweekly", 0.0027372849840476407]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.028017772941549706], ["weekly", 1.4217439818234507], ["biweekly", 1.3185206078282676], ["triweekly", 1.237908068136791]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 465.3899547554256], ["weekly", 460.93281159830303], ["biweekly", 456.35527628151056], ["triweekly", 452.158965248677]],
-      "Daily Growth Rate": [["daily", 0.01828681424446583], ["weekly", 1.0495466278387982], ["biweekly", 1.0433965768068816], ["triweekly", 1.0535754328385418]],
-      "Confirmed Cumulative Cases": [["daily", 315600.0], ["weekly", 312577.4285714286], ["biweekly", 309473.21428571426], ["triweekly", 306627.5238095238]],
-      "Confirmed Daily Cases": [["daily", 19.0], ["weekly", 964.1428571428571], ["biweekly", 894.1428571428571], ["triweekly", 839.4761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.14826045627376425], ["weekly", 0.14923347440603524], ["biweekly", 0.15013620963525448], ["triweekly", 0.15087160431573027]],
+      "Spread Rate": [["daily", 0.0036311342897548116], ["weekly", 0.0030882778066277134], ["biweekly", 0.0028910485487288235], ["triweekly", 0.0027372849840476407]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.6928633335210033], ["weekly", 1.4217439818234507], ["biweekly", 1.3185206078282676], ["triweekly", 1.237908068136791]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 467.05480031600507], ["weekly", 460.93281159830303], ["biweekly", 456.35527628151056], ["triweekly", 452.158965248677]],
+      "Daily Growth Rate": [["daily", 1.1049085659287776], ["weekly", 1.0495466278387982], ["biweekly", 1.0433965768068816], ["triweekly", 1.0535754328385418]],
+      "Confirmed Cumulative Cases": [["daily", 316729.0], ["weekly", 312577.4285714286], ["biweekly", 309473.21428571426], ["triweekly", 306627.5238095238]],
+      "Confirmed Daily Cases": [["daily", 1148.0], ["weekly", 964.1428571428571], ["biweekly", 894.1428571428571], ["triweekly", 839.4761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.14773197275904637], ["weekly", 0.14923347440603524], ["biweekly", 0.15013620963525448], ["triweekly", 0.15087160431573027]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1510381024932536], ["weekly", 0.15225632728967647], ["biweekly", 0.1530106571261051], ["triweekly", 0.15360487537849968]]
+    },
+    "lat": "51.5"
+  }, {
+    "locale": "United Kingdom",
+    "long": "-0.083333",
+    "date": "8/14/20",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004602169973367154], ["weekly", 0.0031617860453290497], ["biweekly", 0.0029510652656044656], ["triweekly", 0.002785857893522534]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.154419277242322], ["weekly", 1.4605054120583767], ["biweekly", 1.350224929841074], ["triweekly", 1.2638192416090515]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 469.2092195932474], ["weekly", 462.3933170103614], ["biweekly", 457.7055012113516], ["triweekly", 453.4227844902861]],
+      "Daily Growth Rate": [["daily", 1.2726480836236933], ["weekly", 1.0553881858223164], ["biweekly", 1.0468822082528098], ["triweekly", 1.0403016040825495]],
+      "Confirmed Cumulative Cases": [["daily", 318190.0], ["weekly", 313567.85714285716], ["biweekly", 310388.85714285716], ["triweekly", 307484.5714285714]],
+      "Confirmed Daily Cases": [["daily", 1461.0], ["weekly", 990.4285714285714], ["biweekly", 915.6428571428571], ["triweekly", 857.047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.14705364719192934], ["weekly", 0.1488962821121485], ["biweekly", 0.14985727927551493], ["triweekly", 0.15063140094663502]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.15060058706903212], ["weekly", 0.15197616433199854], ["biweekly", 0.15278010173296167], ["triweekly", 0.1534079531652534]]
+    },
+    "lat": "51.5"
+  }, {
+    "locale": "United Kingdom",
+    "long": "-0.083333",
+    "date": "8/15/20",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0032694225432212676], ["weekly", 0.0034048209247493793], ["biweekly", 0.0030725593546239794], ["triweekly", 0.0028825843370827086]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.536553652899726], ["weekly", 1.5786856422855151], ["biweekly", 1.411105654503539], ["triweekly", 1.3124114693673283]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 470.7457732461471], ["weekly", 463.9720026526469], ["biweekly", 459.1166068658551], ["triweekly", 454.7351959596535]],
+      "Daily Growth Rate": [["daily", 0.7132101300479123], ["weekly", 1.1038222036962406], ["biweekly", 1.0633211462549406], ["triweekly", 1.0538961304682002]],
+      "Confirmed Cumulative Cases": [["daily", 319232.0], ["weekly", 314638.4285714286], ["biweekly", 311345.78571428574], ["triweekly", 308374.5714285714]],
+      "Confirmed Daily Cases": [["daily", 1042.0], ["weekly", 1070.5714285714287], ["biweekly", 956.9285714285714], ["triweekly", 890.0]],
+      "Confirmed Fatality Rate": [["daily", 0.14657365176423418], ["weekly", 0.1484792368644023], ["biweekly", 0.14953315350785568], ["triweekly", 0.15035801949087269]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.15023068698809802], ["weekly", 0.1516508872397385], ["biweekly", 0.1525179686128031], ["triweekly", 0.1531875484930311]]
     },
     "lat": "51.5"
   }]
