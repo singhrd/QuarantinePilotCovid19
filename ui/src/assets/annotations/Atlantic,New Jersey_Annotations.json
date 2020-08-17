@@ -3104,5 +3104,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07288965715932008], ["weekly", 0.07340855700882712], ["biweekly", 0.07479805048047468], ["triweekly", 0.07561354197072553]]
     },
     "lat": "REPLACE_MEAtlantic,New Jersey"
+  }, {
+    "locale": "Atlantic,New Jersey",
+    "long": "REPLACE_MEAtlantic,New Jersey",
+    "date": "08/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005291754445767793], ["weekly", 0.004457050590949458], ["biweekly", 0.0037888444690853873], ["triweekly", 0.004809291241532827]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.205977168430235], ["weekly", 5.959830740806962], ["biweekly", 5.011675850224036], ["triweekly", 6.212672044962408]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1365.343042439413], ["weekly", 1336.3565929273063], ["biweekly", 1321.2132048177104], ["triweekly", 1301.9159952827035]],
+      "Daily Growth Rate": [["daily", 0.6129032258064516], ["weekly", 1.5761904761904764], ["biweekly", 1.333158263305322], ["triweekly", 1.3066411423188917]],
+      "Confirmed Cumulative Cases": [["daily", 3600.0], ["weekly", 3523.5714285714284], ["biweekly", 3483.6428571428573], ["triweekly", 3432.7619047619046]],
+      "Confirmed Daily Cases": [["daily", 19.0], ["weekly", 15.714285714285714], ["biweekly", 13.214285714285714], ["triweekly", 16.38095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.07027777777777777], ["weekly", 0.07156475187107054], ["biweekly", 0.07237212649360289], ["triweekly", 0.07284942763349214]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07274295572167913], ["weekly", 0.07322065846066336], ["biweekly", 0.07444375020739817], ["triweekly", 0.07542616450846279]]
+    },
+    "lat": "REPLACE_MEAtlantic,New Jersey"
   }]
 }

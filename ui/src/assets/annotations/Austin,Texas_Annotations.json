@@ -3104,5 +3104,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017391304347826087], ["weekly", 0.017691265562680032], ["biweekly", 0.016429679108390945], ["triweekly", 0.017889341013833323]]
     },
     "lat": "REPLACE_MEAustin,Texas"
+  }, {
+    "locale": "Austin,Texas",
+    "long": "REPLACE_MEAustin,Texas",
+    "date": "08/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009104766992918734], ["weekly", 0.05070489992299265], ["biweekly", 0.030837245905337048], ["triweekly", 0.028310313196110385]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.989344698987747], ["weekly", 46.616941928609485], ["biweekly", 27.35177715199026], ["triweekly", 23.308470964304746]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1102.1576984549815], ["weekly", 945.1822817566025], ["biweekly", 839.580637795875], ["triweekly", 785.1942055458305]],
+      "Daily Growth Rate": [["daily", 0.23076923076923078], ["weekly", 1.2467944728099891], ["biweekly", 1.0526055390459998], ["triweekly", 1.390907643772713]],
+      "Confirmed Cumulative Cases": [["daily", 331.0], ["weekly", 283.85714285714283], ["biweekly", 252.14285714285714], ["triweekly", 235.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 14.0], ["biweekly", 8.214285714285714], ["triweekly", 7.0]],
+      "Confirmed Fatality Rate": [["daily", 0.012084592145015106], ["weekly", 0.014251700210199201], ["biweekly", 0.013937224546760286], ["triweekly", 0.01566447306545031]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01652892561983471], ["weekly", 0.01816366517776183], ["biweekly", 0.01648801615928144], ["triweekly", 0.018717498363729806]]
+    },
+    "lat": "REPLACE_MEAustin,Texas"
   }]
 }

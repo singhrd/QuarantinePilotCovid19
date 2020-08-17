@@ -3104,5 +3104,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012048192771084338], ["weekly", 0.01331610645532342], ["biweekly", 0.014301444557942206], ["triweekly", 0.013023897048884424]]
     },
     "lat": "REPLACE_MEFulton,Indiana"
+  }, {
+    "locale": "Fulton,Indiana",
+    "long": "REPLACE_MEFulton,Indiana",
+    "date": "08/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005571045049455492], ["weekly", 0.010771145354887324], ["biweekly", 0.017553098802246505], ["triweekly", 0.024059741843644525]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.006508460999299], ["weekly", 9.297801427570127], ["biweekly", 13.94670214135519], ["triweekly", 16.92676670147382]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 901.1715229798739], ["weekly", 873.9933341915919], ["biweekly", 823.2130340871705], ["triweekly", 758.6052344237986]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.2738095238095237], ["biweekly", 1.2964285714285715], ["triweekly", 1.5928571428571427]],
+      "Confirmed Cumulative Cases": [["daily", 180.0], ["weekly", 174.57142857142858], ["biweekly", 164.42857142857142], ["triweekly", 151.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 2.7857142857142856], ["triweekly", 3.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.011111111111111112], ["weekly", 0.011459956052380425], ["biweekly", 0.012228208288521211], ["triweekly", 0.01081961346973752]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011764705882352941], ["weekly", 0.012996460524661997], ["biweekly", 0.014500654094501141], ["triweekly", 0.013043910658138716]]
+    },
+    "lat": "REPLACE_MEFulton,Indiana"
   }]
 }

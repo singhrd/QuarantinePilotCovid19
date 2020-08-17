@@ -3104,5 +3104,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01174089068825911], ["weekly", 0.011523106134594924], ["biweekly", 0.011304213395943988], ["triweekly", 0.011134936643751989]]
     },
     "lat": "REPLACE_MEFresno,California"
+  }, {
+    "locale": "Fresno,California",
+    "long": "REPLACE_MEFresno,California",
+    "date": "08/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03471696452987416], ["weekly", 0.02008449029074961], ["biweekly", 0.019796532138880885], ["triweekly", 0.021899245240668868]],
+      "Confirmed Daily Cases per 100k": [["daily", 70.36325656765433], ["weekly", 37.31926430432387], ["biweekly", 34.43810271148048], ["triweekly", 34.964766658559384]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2062.1538763348253], ["weekly", 1850.9926137883672], ["biweekly", 1740.3717370487498], ["triweekly", 1625.8139877273477]],
+      "Daily Growth Rate": [["daily", 0.946164199192463], ["weekly", 1.244490447328053], ["biweekly", 3.918970025253693], ["triweekly", 2.9477246240548354]],
+      "Confirmed Cumulative Cases": [["daily", 20603.0], ["weekly", 18493.285714285714], ["biweekly", 17388.071428571428], ["triweekly", 16243.52380952381]],
+      "Confirmed Daily Cases": [["daily", 703.0], ["weekly", 372.85714285714283], ["biweekly", 344.07142857142856], ["triweekly", 349.3333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.009852934038732223], ["weekly", 0.010197925447060793], ["biweekly", 0.00986999575665492], ["triweekly", 0.00951134415344786]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011574866005245751], ["weekly", 0.011580766644071176], ["biweekly", 0.011358293935622477], ["triweekly", 0.011158228672373798]]
+    },
+    "lat": "REPLACE_MEFresno,California"
   }]
 }

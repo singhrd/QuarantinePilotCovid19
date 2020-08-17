@@ -3104,5 +3104,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEJones,Texas"
+  }, {
+    "locale": "Jones,Texas",
+    "long": "REPLACE_MEJones,Texas",
+    "date": "08/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0009555697358280467], ["biweekly", -0.0025721741087880723], ["triweekly", -0.0016381631770158325]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.845334718062896], ["biweekly", -7.824670474672964], ["triweekly", -4.979335756610069]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2987.601453966041], ["weekly", 2981.1994508503994], ["biweekly", 3041.3071467694776], ["triweekly", 3059.209044370623]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.11338578942629997], ["biweekly", 0.11621670423695951], ["triweekly", 0.07747780282463967]],
+      "Confirmed Cumulative Cases": [["daily", 600.0], ["weekly", 598.7142857142857], ["biweekly", 610.7857142857143], ["triweekly", 614.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.5714285714285714], ["biweekly", -1.5714285714285714], ["triweekly", -1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEJones,Texas"
   }]
 }

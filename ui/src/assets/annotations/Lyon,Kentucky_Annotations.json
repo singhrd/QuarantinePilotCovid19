@@ -3104,5 +3104,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.12121212121212122], ["weekly", 0.12817035905271199], ["biweekly", 0.13597287949287368], ["triweekly", 0.1376815533615495]]
     },
     "lat": "REPLACE_MELyon,Kentucky"
+  }, {
+    "locale": "Lyon,Kentucky",
+    "long": "REPLACE_MELyon,Kentucky",
+    "date": "08/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", -0.004395951238107669], ["biweekly", 0.004609894366969363], ["triweekly", 0.00988758879896402]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", -1.7400382808421784], ["biweekly", 1.7400382808421786], ["triweekly", 3.480076561684357]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 389.76857490864796], ["weekly", 389.768574908648], ["biweekly", 388.02853662780575], ["triweekly", 374.10823038106827]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.10714285714285714], ["triweekly", 0.2619047619047619]],
+      "Confirmed Cumulative Cases": [["daily", 32.0], ["weekly", 32.0], ["biweekly", 31.857142857142858], ["triweekly", 30.714285714285715]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", -0.14285714285714285], ["biweekly", 0.14285714285714285], ["triweekly", 0.2857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.125], ["weekly", 0.125], ["biweekly", 0.12571937866055513], ["triweekly", 0.12729690273880362]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.125], ["weekly", 0.12643875732111026], ["biweekly", 0.13364187716187134], ["triweekly", 0.13773927341926956]]
+    },
+    "lat": "REPLACE_MELyon,Kentucky"
   }]
 }

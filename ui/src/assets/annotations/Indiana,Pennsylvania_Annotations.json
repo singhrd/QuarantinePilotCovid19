@@ -3104,5 +3104,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.025559105431309903], ["weekly", 0.02322369258576426], ["biweekly", 0.024578258447857392], ["triweekly", 0.0273135295697779]]
     },
     "lat": "REPLACE_MEIndiana,Pennsylvania"
+  }, {
+    "locale": "Indiana,Pennsylvania",
+    "long": "REPLACE_MEIndiana,Pennsylvania",
+    "date": "08/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005602255548669888], ["weekly", 0.0183896486159825], ["biweekly", 0.021085778918986314], ["triweekly", 0.02605021724106901]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.378885016592723], ["weekly", 7.30657540810622], ["biweekly", 7.731376303926349], ["triweekly", 8.496017916402584]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 425.8204179700974], ["weekly", 399.8226031459055], ["biweekly", 372.21054491759713], ["triweekly", 343.6922447782058]],
+      "Daily Growth Rate": [["daily", 0.4], ["weekly", 1.2570861678004535], ["biweekly", 1.2164115646258504], ["triweekly", 1.1742023849166707]],
+      "Confirmed Cumulative Cases": [["daily", 358.0], ["weekly", 336.14285714285717], ["biweekly", 312.92857142857144], ["triweekly", 288.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 6.142857142857143], ["biweekly", 6.5], ["triweekly", 7.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.0223463687150838], ["weekly", 0.020367792674207564], ["biweekly", 0.02056765491731088], ["triweekly", 0.0220472492787493]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.025], ["weekly", 0.023640492013956783], ["biweekly", 0.024323465007791457], ["triweekly", 0.026925493391814596]]
+    },
+    "lat": "REPLACE_MEIndiana,Pennsylvania"
   }]
 }
