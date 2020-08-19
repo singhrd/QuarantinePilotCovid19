@@ -3119,5 +3119,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.0565875472996216], ["biweekly", 0.06167424122145485], ["triweekly", 0.0733912930894355]]
     },
     "lat": "REPLACE_MEIron,Michigan"
+  }, {
+    "locale": "Iron,Michigan",
+    "long": "REPLACE_MEIron,Michigan",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04255961441879608], ["weekly", 0.02729360525181563], ["biweekly", 0.02159149084806668], ["triweekly", 0.027168802784172046]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.036688957166096], ["weekly", 5.163822261237769], ["biweekly", 3.8728666959283267], ["triweekly", 4.30318521769814]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 216.88053497198626], ["weekly", 185.89760140455968], ["biweekly", 174.2790013167747], ["triweekly", 163.52103827252935]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.42857142857142855], ["biweekly", 0.2857142857142857], ["triweekly", 0.33911049255045916]],
+      "Confirmed Cumulative Cases": [["daily", 24.0], ["weekly", 20.571428571428573], ["biweekly", 19.285714285714285], ["triweekly", 18.095238095238095]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.42857142857142855], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.041666666666666664], ["weekly", 0.048728186926944694], ["biweekly", 0.05221558493725485], ["triweekly", 0.0562021517911082]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05], ["weekly", 0.05570298294756499], ["biweekly", 0.05993913422318994], ["triweekly", 0.07060655346259061]]
+    },
+    "lat": "REPLACE_MEIron,Michigan"
+  }, {
+    "locale": "Iron,Michigan",
+    "long": "REPLACE_MEIron,Michigan",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.04255961441879608], ["weekly", 0.0260459366848507], ["biweekly", 0.024631463306552113], ["triweekly", 0.029195451089829]],
+      "Confirmed Daily Cases per 100k": [["daily", -9.036688957166096], ["weekly", 5.163822261237769], ["biweekly", 4.518344478583048], ["triweekly", 4.733503739467954]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 207.84384601482017], ["weekly", 191.06142366579743], ["biweekly", 178.79734579535776], ["triweekly", 168.2545420119973]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.35714285714285715], ["biweekly", 0.32142857142857145], ["triweekly", 0.362920016359983]],
+      "Confirmed Cumulative Cases": [["daily", 23.0], ["weekly", 21.142857142857142], ["biweekly", 19.785714285714285], ["triweekly", 18.61904761904762]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.5], ["triweekly", 0.5238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.043478260869565216], ["weekly", 0.0475377107364685], ["biweekly", 0.0509900947411764], ["triweekly", 0.054523275112231526]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05], ["weekly", 0.054442478745884315], ["biweekly", 0.05801605730011302], ["triweekly", 0.06822560108163823]]
+    },
+    "lat": "REPLACE_MEIron,Michigan"
   }]
 }

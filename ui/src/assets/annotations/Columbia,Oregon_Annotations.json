@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEColumbia,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.01769564024468373], ["biweekly", 0.024590681934374636], ["triweekly", 0.02047792232565096]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.274412106593029], ["biweekly", 4.093015133241286], ["triweekly", 3.274412106593029]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 196.73759407113116], ["weekly", 189.91590218239566], ["biweekly", 174.90818002717765], ["triweekly", 161.35575214155648]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.3452380952380951], ["biweekly", 1.3432053364930308], ["triweekly", 1.055301802075378]],
-      "Confirmed Cumulative Cases": [["daily", 103.0], ["weekly", 99.42857142857143], ["biweekly", 91.57142857142857], ["triweekly", 84.47619047619048]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.7142857142857142], ["biweekly", 2.142857142857143], ["triweekly", 1.7142857142857142]],
-      "Confirmed Fatality Rate": [["daily", 0.009708737864077669], ["weekly", 0.002773925104022191], ["biweekly", 0.0013869625520110955], ["triweekly", 0.0009246417013407304]],
+      "Spread Rate": [["daily", 0.02871010588243106], ["weekly", 0.01769564024468373], ["biweekly", 0.024590681934374636], ["triweekly", 0.02047792232565096]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.7302211865378005], ["weekly", 3.274412106593029], ["biweekly", 4.093015133241286], ["triweekly", 3.274412106593029]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 202.46781525766895], ["weekly", 189.91590218239566], ["biweekly", 174.90818002717765], ["triweekly", 161.35575214155648]],
+      "Daily Growth Rate": [["daily", 1.7320508075688772], ["weekly", 1.3452380952380951], ["biweekly", 1.3432053364930308], ["triweekly", 1.055301802075378]],
+      "Confirmed Cumulative Cases": [["daily", 106.0], ["weekly", 99.42857142857143], ["biweekly", 91.57142857142857], ["triweekly", 84.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.7142857142857142], ["biweekly", 2.142857142857143], ["triweekly", 1.7142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.009433962264150943], ["weekly", 0.002773925104022191], ["biweekly", 0.0013869625520110955], ["triweekly", 0.0009246417013407304]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010638297872340425], ["weekly", 0.003157160300017443], ["biweekly", 0.0015785801500087216], ["triweekly", 0.001052386766672481]]
     },
     "lat": "REPLACE_MEColumbia,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEColumbia,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02871010588243106], ["weekly", 0.013062029422804575], ["biweekly", 0.019858582967146012], ["triweekly", 0.02047792232565096]],
-      "Confirmed Daily Cases per 100k": [["daily", 5.7302211865378005], ["weekly", 2.4558090799447716], ["biweekly", 3.4108459443677384], ["triweekly", 3.274412106593029]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 202.46781525766895], ["weekly", 192.37171126234043], ["biweekly", 178.31902597154541], ["triweekly", 164.63016424814953]],
-      "Daily Growth Rate": [["daily", 1.4422495703074083], ["weekly", 0.9166666666666666], ["biweekly", 1.250991447297616], ["triweekly", 1.055301802075378]],
-      "Confirmed Cumulative Cases": [["daily", 106.0], ["weekly", 100.71428571428571], ["biweekly", 93.35714285714286], ["triweekly", 86.19047619047619]],
-      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.2857142857142858], ["biweekly", 1.7857142857142858], ["triweekly", 1.7142857142857142]],
-      "Confirmed Fatality Rate": [["daily", 0.009433962264150943], ["weekly", 0.004160887656033287], ["biweekly", 0.0020804438280166435], ["triweekly", 0.0013869625520110955]],
+      "Spread Rate": [["daily", 0.03704127168034965], ["weekly", 0.017163473120294728], ["biweekly", 0.02190930481589109], ["triweekly", 0.021845070224814342]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.640294915383734], ["weekly", 3.274412106593029], ["biweekly", 3.820147457691867], ["triweekly", 3.547279782142448]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 210.10811017305267], ["weekly", 193.1903142889887], ["biweekly", 178.72832748486954], ["triweekly", 164.90303192369893]],
+      "Daily Growth Rate": [["daily", 1.3333333333333333], ["weekly", 1.1641024963193634], ["biweekly", 1.3747093621239643], ["triweekly", 1.1377804119596102]],
+      "Confirmed Cumulative Cases": [["daily", 110.0], ["weekly", 101.14285714285714], ["biweekly", 93.57142857142857], ["triweekly", 86.33333333333333]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 1.7142857142857142], ["biweekly", 2.0], ["triweekly", 1.8571428571428572]],
+      "Confirmed Fatality Rate": [["daily", 0.00909090909090909], ["weekly", 0.004121633998900897], ["biweekly", 0.0020608169994504487], ["triweekly", 0.0013738779996336323]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010416666666666666], ["weekly", 0.004676917138923218], ["biweekly", 0.002338458569461609], ["triweekly", 0.0015589723796410725]]
+    },
+    "lat": "REPLACE_MEColumbia,Oregon"
+  }, {
+    "locale": "Columbia,Oregon",
+    "long": "REPLACE_MEColumbia,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.026907452919924246], ["weekly", 0.019447453474940066], ["biweekly", 0.024555109935916062], ["triweekly", 0.02220827910453128]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.7302211865378005], ["weekly", 3.820147457691867], ["biweekly", 4.365882808790706], ["triweekly", 3.7291915658420605]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 215.83833135959048], ["weekly", 197.0104617466806], ["biweekly", 183.09421029366018], ["triweekly", 168.632223489541]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.2593405915574587], ["biweekly", 1.4699474573620595], ["triweekly", 1.1339289724815262]],
+      "Confirmed Cumulative Cases": [["daily", 113.0], ["weekly", 103.14285714285714], ["biweekly", 95.85714285714286], ["triweekly", 88.28571428571429]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.0], ["biweekly", 2.2857142857142856], ["triweekly", 1.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.008849557522123894], ["weekly", 0.005420335297602196], ["biweekly", 0.002710167648801098], ["triweekly", 0.001806778432534065]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010309278350515464], ["weekly", 0.006165012377018456], ["biweekly", 0.003082506188509228], ["triweekly", 0.0020550041256728185]]
+    },
+    "lat": "REPLACE_MEColumbia,Oregon"
+  }, {
+    "locale": "Columbia,Oregon",
+    "long": "REPLACE_MEColumbia,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.017544309650909362], ["weekly", 0.021810977172708284], ["biweekly", 0.025567140446094237], ["triweekly", 0.022804408412522927]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.820147457691867], ["weekly", 4.365882808790706], ["biweekly", 4.6387504843401235], ["triweekly", 3.9111033495416736]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 219.65847881728234], ["weekly", 201.37634455547126], ["biweekly", 187.73296077800032], ["triweekly", 172.54332683908265]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.2950548772717443], ["biweekly", 1.4915750576834912], ["triweekly", 1.145833734386288]],
+      "Confirmed Cumulative Cases": [["daily", 115.0], ["weekly", 105.42857142857143], ["biweekly", 98.28571428571429], ["triweekly", 90.33333333333333]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.2857142857142856], ["biweekly", 2.4285714285714284], ["triweekly", 2.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.008695652173913044], ["weekly", 0.006684557800762751], ["biweekly", 0.0033422789003813755], ["triweekly", 0.0022281859335875837]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009900990099009901], ["weekly", 0.007637766427092093], ["biweekly", 0.0038188832135460466], ["triweekly", 0.002545922142364031]]
     },
     "lat": "REPLACE_MEColumbia,Oregon"
   }]

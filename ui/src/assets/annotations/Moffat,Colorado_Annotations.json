@@ -3119,5 +3119,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.0386975986975987], ["biweekly", 0.040451283820849025], ["triweekly", 0.04400390231653171]]
     },
     "lat": "REPLACE_MEMoffat,Colorado"
+  }, {
+    "locale": "Moffat,Colorado",
+    "long": "REPLACE_MEMoffat,Colorado",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.004535528330654325], ["biweekly", 0.017632862709394712], ["triweekly", 0.015725794612884612]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.075488540669599], ["biweekly", 3.764209892343597], ["triweekly", 3.2264656220087975]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 240.9094331099902], ["weekly", 240.9094331099902], ["biweekly", 221.0128951076026], ["triweekly", 207.56928834923258]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.03571428571428571], ["biweekly", 0.375], ["triweekly", 0.2976190476190476]],
+      "Confirmed Cumulative Cases": [["daily", 32.0], ["weekly", 32.0], ["biweekly", 29.357142857142858], ["triweekly", 27.571428571428573]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.5], ["triweekly", 0.42857142857142855]],
+      "Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.03125], ["biweekly", 0.03442080395709428], ["triweekly", 0.03684989414945001]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.037591607914188564], ["biweekly", 0.03964984122417502], ["triweekly", 0.04289449798132092]]
+    },
+    "lat": "REPLACE_MEMoffat,Colorado"
+  }, {
+    "locale": "Moffat,Colorado",
+    "long": "REPLACE_MEMoffat,Colorado",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.030771658666753687], ["weekly", 0.0], ["biweekly", 0.017632862709394712], ["triweekly", 0.015725794612884612]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.528419784687194], ["weekly", 0.0], ["biweekly", 3.764209892343597], ["triweekly", 3.2264656220087975]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 248.4378528946774], ["weekly", 240.9094331099902], ["biweekly", 224.77710499994618], ["triweekly", 210.7957539712414]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.375], ["triweekly", 0.2976190476190476]],
+      "Confirmed Cumulative Cases": [["daily", 33.0], ["weekly", 32.0], ["biweekly", 29.857142857142858], ["triweekly", 28.0]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.0], ["biweekly", 0.5], ["triweekly", 0.42857142857142855]],
+      "Confirmed Fatality Rate": [["daily", 0.030303030303030304], ["weekly", 0.03125], ["biweekly", 0.033795803957094285], ["triweekly", 0.03626759601280405]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.03634160791418856], ["biweekly", 0.03877639401920607], ["triweekly", 0.04173709057391352]]
+    },
+    "lat": "REPLACE_MEMoffat,Colorado"
   }]
 }

@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEUmatilla,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.009545828723893075], ["biweekly", 0.014370036385079514], ["triweekly", 0.018559181660277913]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 28.406487675249704], ["biweekly", 40.04398423898103], ["triweekly", 47.28305690460918]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3076.3309813983324], ["weekly", 2984.6971501878497], ["biweekly", 2844.8639237606517], ["triweekly", 2669.7211277070164]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.457751562163327], ["biweekly", 1.5286646134999526], ["triweekly", 1.4247171051830014]],
-      "Confirmed Cumulative Cases": [["daily", 2398.0], ["weekly", 2326.5714285714284], ["biweekly", 2217.5714285714284], ["triweekly", 2081.0476190476193]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 22.142857142857142], ["biweekly", 31.214285714285715], ["triweekly", 36.857142857142854]],
-      "Confirmed Fatality Rate": [["daily", 0.013344453711426188], ["weekly", 0.013009981936311405], ["biweekly", 0.012533536688282018], ["triweekly", 0.011815800839125765]],
+      "Spread Rate": [["daily", 0.015311699929230649], ["weekly", 0.009545828723893075], ["biweekly", 0.014370036385079514], ["triweekly", 0.018559181660277913]],
+      "Confirmed Daily Cases per 100k": [["daily", 47.46632456703015], ["weekly", 28.406487675249704], ["biweekly", 40.04398423898103], ["triweekly", 47.28305690460918]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3123.7973059653627], ["weekly", 2984.6971501878497], ["biweekly", 2844.8639237606517], ["triweekly", 2669.7211277070164]],
+      "Daily Growth Rate": [["daily", 1.7619047619047619], ["weekly", 1.457751562163327], ["biweekly", 1.5286646134999526], ["triweekly", 1.4247171051830014]],
+      "Confirmed Cumulative Cases": [["daily", 2435.0], ["weekly", 2326.5714285714284], ["biweekly", 2217.5714285714284], ["triweekly", 2081.0476190476193]],
+      "Confirmed Daily Cases": [["daily", 37.0], ["weekly", 22.142857142857142], ["biweekly", 31.214285714285715], ["triweekly", 36.857142857142854]],
+      "Confirmed Fatality Rate": [["daily", 0.013141683778234086], ["weekly", 0.013009981936311405], ["biweekly", 0.012533536688282018], ["triweekly", 0.011815800839125765]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014215904042647711], ["weekly", 0.014357869950713645], ["biweekly", 0.014216854738651547], ["triweekly", 0.013716664516788945]]
     },
     "lat": "REPLACE_MEUmatilla,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEUmatilla,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.015311699929230649], ["weekly", 0.009037213525818164], ["biweekly", 0.013789608029774454], ["triweekly", 0.018150431960687826]],
-      "Confirmed Daily Cases per 100k": [["daily", 47.46632456703015], ["weekly", 26.940346375881976], ["biweekly", 38.57784293961331], ["triweekly", 46.42780781331134]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3123.7973059653627], ["weekly", 3011.637496563732], ["biweekly", 2883.441766700266], ["triweekly", 2716.148935520328]],
-      "Daily Growth Rate": [["daily", 1.3273676061682242], ["weekly", 1.435342598577893], ["biweekly", 1.492950327785667], ["triweekly", 1.41594517535844]],
-      "Confirmed Cumulative Cases": [["daily", 2435.0], ["weekly", 2347.5714285714284], ["biweekly", 2247.6428571428573], ["triweekly", 2117.2380952380954]],
-      "Confirmed Daily Cases": [["daily", 37.0], ["weekly", 21.0], ["biweekly", 30.071428571428573], ["triweekly", 36.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.013141683778234086], ["weekly", 0.013139344461184184], ["biweekly", 0.012619597277468], ["triweekly", 0.011986107693574166]],
+      "Spread Rate": [["daily", 0.006141268022082258], ["weekly", 0.01122459922999397], ["biweekly", 0.014883300881862358], ["triweekly", 0.01887956052874643]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.243104554201413], ["weekly", 33.72124988545771], ["biweekly", 41.96829469440117], ["triweekly", 48.68810898316992]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3143.040410519564], ["weekly", 3018.4184000733076], ["biweekly", 2886.832218455053], ["triweekly", 2718.409236690186]],
+      "Daily Growth Rate": [["daily", 0.40540540540540543], ["weekly", 1.6870432788500018], ["biweekly", 1.6188006679217215], ["triweekly", 1.4998454021158096]],
+      "Confirmed Cumulative Cases": [["daily", 2450.0], ["weekly", 2352.8571428571427], ["biweekly", 2250.285714285714], ["triweekly", 2119.0]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 26.285714285714285], ["biweekly", 32.714285714285715], ["triweekly", 37.95238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.013061224489795919], ["weekly", 0.013110377327871027], ["biweekly", 0.012605113710811421], ["triweekly", 0.011976451982469782]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013973799126637555], ["weekly", 0.014365445808240526], ["biweekly", 0.014185703980839624], ["triweekly", 0.013824176781329578]]
+    },
+    "lat": "REPLACE_MEUmatilla,Oregon"
+  }, {
+    "locale": "Umatilla,Oregon",
+    "long": "REPLACE_MEUmatilla,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006103782938017943], ["weekly", 0.009648029570069636], ["biweekly", 0.01463877476195449], ["triweekly", 0.01802311507198196]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.243104554201413], ["weekly", 29.32282598735453], ["biweekly", 41.60175936955925], ["triweekly", 47.16087846299521]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3162.2835150737656], ["weekly", 3047.7412260606616], ["biweekly", 2928.4339778246117], ["triweekly", 2765.5701151531807]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.048529765336488], ["biweekly", 1.562936768307822], ["triweekly", 1.3830959996521215]],
+      "Confirmed Cumulative Cases": [["daily", 2465.0], ["weekly", 2375.714285714286], ["biweekly", 2282.714285714286], ["triweekly", 2155.7619047619046]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 22.857142857142858], ["biweekly", 32.42857142857143], ["triweekly", 36.76190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.012981744421906694], ["weekly", 0.01322954164986932], ["biweekly", 0.012679197738925953], ["triweekly", 0.012144359772181952]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013900955690703735], ["weekly", 0.014357694810299543], ["biweekly", 0.014162208107116561], ["triweekly", 0.013921010144147428]]
+    },
+    "lat": "REPLACE_MEUmatilla,Oregon"
+  }, {
+    "locale": "Umatilla,Oregon",
+    "long": "REPLACE_MEUmatilla,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0048563430125687645], ["weekly", 0.009773356742137449], ["biweekly", 0.011821880351444618], ["triweekly", 0.01612304753760445]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.394483643361129], ["weekly", 29.87262897461743], ["biweekly", 34.454320535141576], ["triweekly", 43.251168331347934]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3177.6779987171267], ["weekly", 3077.6138550352794], ["biweekly", 2962.888298359754], ["triweekly", 2808.821283484529]],
+      "Daily Growth Rate": [["daily", 0.8], ["weekly", 1.147430864237587], ["biweekly", 1.2847412795860174], ["triweekly", 1.3366674282235502]],
+      "Confirmed Cumulative Cases": [["daily", 2477.0], ["weekly", 2399.0], ["biweekly", 2309.5714285714284], ["triweekly", 2189.4761904761904]],
+      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 23.285714285714285], ["biweekly", 26.857142857142858], ["triweekly", 33.714285714285715]],
+      "Confirmed Fatality Rate": [["daily", 0.012918853451756156], ["weekly", 0.01322234143013674], ["biweekly", 0.012785840154892689], ["triweekly", 0.01232889848669235]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013799051315222079], ["weekly", 0.014291983016405], ["biweekly", 0.01417944443318236], ["triweekly", 0.0140516460762876]]
     },
     "lat": "REPLACE_MEUmatilla,Oregon"
   }]

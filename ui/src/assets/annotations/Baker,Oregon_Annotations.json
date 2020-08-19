@@ -3094,12 +3094,12 @@
     "long": "REPLACE_MEBaker,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.04480822269357741], ["biweekly", 0.044217086314730265], ["triweekly", 0.053239541644057684]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 12.403870007442322], ["biweekly", 10.631888577807704], ["triweekly", 10.336558339535268]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 322.50062019350037], ["weekly", 261.3672608711061], ["biweekly", 236.55952085622147], ["triweekly", 204.95918536107078]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8704649118897437], ["biweekly", 0.7965237562823664], ["triweekly", 0.7453015518072919]],
-      "Confirmed Cumulative Cases": [["daily", 52.0], ["weekly", 42.142857142857146], ["biweekly", 38.142857142857146], ["triweekly", 33.04761904761905]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.0], ["biweekly", 1.7142857142857142], ["triweekly", 1.6666666666666667]],
+      "Spread Rate": [["daily", 0.019048194970694432], ["weekly", 0.04480822269357741], ["biweekly", 0.044217086314730265], ["triweekly", 0.053239541644057684]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.201935003721161], ["weekly", 12.403870007442322], ["biweekly", 10.631888577807704], ["triweekly", 10.336558339535268]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 328.70255519722156], ["weekly", 261.3672608711061], ["biweekly", 236.55952085622147], ["triweekly", 204.95918536107078]],
+      "Daily Growth Rate": [["daily", 0.14285714285714285], ["weekly", 0.8704649118897437], ["biweekly", 0.7965237562823664], ["triweekly", 0.7453015518072919]],
+      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 42.142857142857146], ["biweekly", 38.142857142857146], ["triweekly", 33.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.0], ["biweekly", 1.7142857142857142], ["triweekly", 1.6666666666666667]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
@@ -3109,12 +3109,42 @@
     "long": "REPLACE_MEBaker,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.019048194970694432], ["weekly", 0.04480822269357741], ["biweekly", 0.039289024065662294], ["triweekly", 0.04794308282928511]],
-      "Confirmed Daily Cases per 100k": [["daily", 6.201935003721161], ["weekly", 12.403870007442322], ["biweekly", 9.745897862990395], ["triweekly", 9.745897862990395]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 328.70255519722156], ["weekly", 273.7711308785484], ["biweekly", 246.30541871921181], ["triweekly", 214.70508322406118]],
-      "Daily Growth Rate": [["daily", 0.3779644730092272], ["weekly", 0.8704649118897437], ["biweekly", 0.7489047086633187], ["triweekly", 0.6500634565691966]],
-      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 44.142857142857146], ["biweekly", 39.714285714285715], ["triweekly", 34.61904761904762]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.0], ["biweekly", 1.5714285714285714], ["triweekly", 1.5714285714285714]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.047529393403676616], ["biweekly", 0.04064960942071189], ["triweekly", 0.04885013973265151]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 13.28986072225963], ["biweekly", 10.18889322039905], ["triweekly", 10.041228101262831]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 328.70255519722156], ["weekly", 274.65712159336573], ["biweekly", 246.7484140766205], ["triweekly", 215.00041346233363]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.89087307515505], ["biweekly", 0.7591087902959718], ["triweekly", 0.656866177657632]],
+      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 44.285714285714285], ["biweekly", 39.785714285714285], ["triweekly", 34.666666666666664]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.142857142857143], ["biweekly", 1.6428571428571428], ["triweekly", 1.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEBaker,Oregon"
+  }, {
+    "locale": "Baker,Oregon",
+    "long": "REPLACE_MEBaker,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.047529393403676616], ["biweekly", 0.04064960942071189], ["triweekly", 0.04186902191399076]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 13.28986072225963], ["biweekly", 10.18889322039905], ["triweekly", 9.155237386445524]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 328.70255519722156], ["weekly", 287.94698231562535], ["biweekly", 256.9373072970195], ["triweekly", 224.15565084877912]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.89087307515505], ["biweekly", 0.7591087902959718], ["triweekly", 0.5854376062290606]],
+      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 46.42857142857143], ["biweekly", 41.42857142857143], ["triweekly", 36.142857142857146]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.142857142857143], ["biweekly", 1.6428571428571428], ["triweekly", 1.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEBaker,Oregon"
+  }, {
+    "locale": "Baker,Oregon",
+    "long": "REPLACE_MEBaker,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018692133012152556], ["weekly", 0.04020177991974082], ["biweekly", 0.0338417394346887], ["triweekly", 0.04186902191399076]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.201935003721161], ["weekly", 11.517879292625013], ["biweekly", 8.859907148173088], ["triweekly", 9.155237386445524]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 334.9044902009427], ["weekly", 299.4648616082504], ["biweekly", 265.79721444519265], ["triweekly", 233.31088823522467]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7108843537414967], ["biweekly", 0.671627013768001], ["triweekly", 0.5854376062290606]],
+      "Confirmed Cumulative Cases": [["daily", 54.0], ["weekly", 48.285714285714285], ["biweekly", 42.857142857142854], ["triweekly", 37.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 1.4285714285714286], ["triweekly", 1.4761904761904763]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },

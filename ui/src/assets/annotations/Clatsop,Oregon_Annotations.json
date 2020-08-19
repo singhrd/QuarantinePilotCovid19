@@ -3094,12 +3094,12 @@
     "long": "REPLACE_MEClatsop,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.006645716519270499], ["biweekly", 0.013348383809272566], ["triweekly", 0.012277576633433328]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.4206159790885329], ["biweekly", 2.6636549607909994], ["triweekly", 2.367693298480888]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 218.77486077963405], ["weekly", 215.933628821457], ["biweekly", 209.54085691555858], ["triweekly", 197.9391597530022]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.45962308241651945], ["biweekly", 0.564686227727598], ["triweekly", 0.41533827471971907]],
-      "Confirmed Cumulative Cases": [["daily", 88.0], ["weekly", 86.85714285714286], ["biweekly", 84.28571428571429], ["triweekly", 79.61904761904762]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.5714285714285714], ["biweekly", 1.0714285714285714], ["triweekly", 0.9523809523809523]],
+      "Spread Rate": [["daily", 0.02247285585205816], ["weekly", 0.006645716519270499], ["biweekly", 0.013348383809272566], ["triweekly", 0.012277576633433328]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.972155926809865], ["weekly", 1.4206159790885329], ["biweekly", 2.6636549607909994], ["triweekly", 2.367693298480888]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 223.74701670644393], ["weekly", 215.933628821457], ["biweekly", 209.54085691555858], ["triweekly", 197.9391597530022]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.45962308241651945], ["biweekly", 0.564686227727598], ["triweekly", 0.41533827471971907]],
+      "Confirmed Cumulative Cases": [["daily", 90.0], ["weekly", 86.85714285714286], ["biweekly", 84.28571428571429], ["triweekly", 79.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.5714285714285714], ["biweekly", 1.0714285714285714], ["triweekly", 0.9523809523809523]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
@@ -3109,12 +3109,42 @@
     "long": "REPLACE_MEClatsop,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02247285585205816], ["weekly", 0.004955079712555742], ["biweekly", 0.00861628484204394], ["triweekly", 0.012277576633433328]],
-      "Confirmed Daily Cases per 100k": [["daily", 4.972155926809865], ["weekly", 1.0654619843163997], ["biweekly", 1.7757699738606665], ["triweekly", 2.367693298480888]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 223.74701670644393], ["weekly", 216.99909080577342], ["biweekly", 211.31662688941924], ["triweekly", 200.30685305148307]],
-      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.3167659395593766], ["biweekly", 0.45174773986444167], ["triweekly", 0.41533827471971907]],
-      "Confirmed Cumulative Cases": [["daily", 90.0], ["weekly", 87.28571428571429], ["biweekly", 85.0], ["triweekly", 80.57142857142857]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.42857142857142855], ["biweekly", 0.7142857142857143], ["triweekly", 0.9523809523809523]],
+      "Spread Rate": [["daily", 0.011049836186584727], ["weekly", 0.008165487691421194], ["biweekly", 0.010221488831476666], ["triweekly", 0.013347712626388479]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.4860779634049326], ["weekly", 1.775769973860666], ["biweekly", 2.1309239686327994], ["triweekly", 2.604462628328977]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 226.23309466984887], ["weekly", 217.70939879531767], ["biweekly", 211.67178088419138], ["triweekly", 200.54362238133118]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.6024802252736622], ["biweekly", 0.5946048827215845], ["triweekly", 0.5105763699578143]],
+      "Confirmed Cumulative Cases": [["daily", 91.0], ["weekly", 87.57142857142857], ["biweekly", 85.14285714285714], ["triweekly", 80.66666666666667]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.7142857142857143], ["biweekly", 0.8571428571428571], ["triweekly", 1.0476190476190477]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEClatsop,Oregon"
+  }, {
+    "locale": "Clatsop,Oregon",
+    "long": "REPLACE_MEClatsop,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010929070532190721], ["weekly", 0.009744035718076154], ["biweekly", 0.009202347988783468], ["triweekly", 0.013873895301940133]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.4860779634049326], ["weekly", 2.1309239686327994], ["biweekly", 1.9533469712467328], ["triweekly", 2.7228472932530217]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 228.71917263325378], ["weekly", 219.84032276395047], ["biweekly", 213.62512785543814], ["triweekly", 203.2664696745842]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.6739087967022337], ["biweekly", 0.6017477398644415], ["triweekly", 0.5343858937673381]],
+      "Confirmed Cumulative Cases": [["daily", 92.0], ["weekly", 88.42857142857143], ["biweekly", 85.92857142857143], ["triweekly", 81.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.8571428571428571], ["biweekly", 0.7857142857142857], ["triweekly", 1.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEClatsop,Oregon"
+  }, {
+    "locale": "Clatsop,Oregon",
+    "long": "REPLACE_MEClatsop,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.010929070532190721], ["weekly", 0.011305331508389114], ["biweekly", 0.008219237841770508], ["triweekly", 0.014394327232044453]],
+      "Confirmed Daily Cases per 100k": [["daily", -2.4860779634049326], ["weekly", 2.486077963404933], ["biweekly", 1.7757699738606658], ["triweekly", 2.8412319581770658]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 226.23309466984887], ["weekly", 222.32640072735538], ["biweekly", 215.4008978292988], ["triweekly", 206.10770163276126]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8167659395593765], ["biweekly", 0.6017477398644415], ["triweekly", 0.5820049413863858]],
+      "Confirmed Cumulative Cases": [["daily", 91.0], ["weekly", 89.42857142857143], ["biweekly", 86.64285714285714], ["triweekly", 82.9047619047619]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 1.0], ["biweekly", 0.7142857142857143], ["triweekly", 1.1428571428571428]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },

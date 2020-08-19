@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEPolk,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.018261910215697848], ["biweekly", 0.015430434538953224], ["triweekly", 0.019786449712460272]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 6.969855375500957], ["biweekly", 5.642263875405537], ["triweekly", 6.582641187973126]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 406.57489690422256], ["weekly", 379.6911690272903], ["biweekly", 362.4324795260498], ["triweekly", 343.0717701496583]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0221384177905917], ["biweekly", 1.122670493018957], ["triweekly", 1.2655740481873101]],
-      "Confirmed Cumulative Cases": [["daily", 350.0], ["weekly", 326.85714285714283], ["biweekly", 312.0], ["triweekly", 295.3333333333333]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 6.0], ["biweekly", 4.857142857142857], ["triweekly", 5.666666666666667]],
-      "Confirmed Fatality Rate": [["daily", 0.03428571428571429], ["weekly", 0.03676604947978229], ["biweekly", 0.03858734669670479], ["triweekly", 0.04103587584678735]],
+      "Spread Rate": [["daily", 0.016997576368571465], ["weekly", 0.018261910215697848], ["biweekly", 0.015430434538953224], ["triweekly", 0.019786449712460272]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.969855375500958], ["weekly", 6.969855375500957], ["biweekly", 5.642263875405537], ["triweekly", 6.582641187973126]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 413.5447522797235], ["weekly", 379.6911690272903], ["biweekly", 362.4324795260498], ["triweekly", 343.0717701496583]],
+      "Daily Growth Rate": [["daily", 0.46153846153846156], ["weekly", 1.0221384177905917], ["biweekly", 1.122670493018957], ["triweekly", 1.2655740481873101]],
+      "Confirmed Cumulative Cases": [["daily", 356.0], ["weekly", 326.85714285714283], ["biweekly", 312.0], ["triweekly", 295.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 6.0], ["biweekly", 4.857142857142857], ["triweekly", 5.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.033707865168539325], ["weekly", 0.03676604947978229], ["biweekly", 0.03858734669670479], ["triweekly", 0.04103587584678735]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.038338658146964855], ["weekly", 0.0404086439136273], ["biweekly", 0.043170789030289876], ["triweekly", 0.04769558736003435]]
     },
     "lat": "REPLACE_MEPolk,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEPolk,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.016997576368571465], ["weekly", 0.01596142342047229], ["biweekly", 0.014424381690257615], ["triweekly", 0.017374843387757653]],
-      "Confirmed Daily Cases per 100k": [["daily", 6.969855375500958], ["weekly", 6.140110687941321], ["biweekly", 5.310366000381682], ["triweekly", 5.918845437925416]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 413.5447522797235], ["weekly", 385.8312797152316], ["biweekly", 367.74284552643155], ["triweekly", 348.9906155875837]],
-      "Daily Growth Rate": [["daily", 0.6793662204867574], ["weekly", 0.9200976014640609], ["biweekly", 1.0750514453999094], ["triweekly", 1.170335952949215]],
-      "Confirmed Cumulative Cases": [["daily", 356.0], ["weekly", 332.14285714285717], ["biweekly", 316.57142857142856], ["triweekly", 300.42857142857144]],
-      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 5.285714285714286], ["biweekly", 4.571428571428571], ["triweekly", 5.095238095238095]],
-      "Confirmed Fatality Rate": [["daily", 0.033707865168539325], ["weekly", 0.03618705749960364], ["biweekly", 0.038039323291538536], ["triweekly", 0.04031697100089838]],
+      "Spread Rate": [["daily", 0.022223136784710107], ["weekly", 0.0183896486159825], ["biweekly", 0.01563849428801272], ["triweekly", 0.018184251786261058]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.293140500667944], ["weekly", 7.135804313012885], ["biweekly", 5.808212812917465], ["triweekly", 6.250743312949272]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 422.8378927803915], ["weekly", 386.82697334030314], ["biweekly", 368.2406923389673], ["triweekly", 349.32251346260756]],
+      "Daily Growth Rate": [["daily", 1.3333333333333333], ["weekly", 0.9860316673981269], ["biweekly", 1.1080184783669424], ["triweekly", 1.192313974927237]],
+      "Confirmed Cumulative Cases": [["daily", 364.0], ["weekly", 333.0], ["biweekly", 317.0], ["triweekly", 300.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 6.142857142857143], ["biweekly", 5.0], ["triweekly", 5.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.03296703296703297], ["weekly", 0.036104507625721496], ["biweekly", 0.03799804835459747], ["triweekly", 0.040289454376270996]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.038338658146964855], ["weekly", 0.039891589083473435], ["biweekly", 0.04238192775154575], ["triweekly", 0.046664094890842195]]
+    },
+    "lat": "REPLACE_MEPolk,Oregon"
+  }, {
+    "locale": "Polk,Oregon",
+    "long": "REPLACE_MEPolk,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008207980417830107], ["weekly", 0.021564382442369658], ["biweekly", 0.016728099107199603], ["triweekly", 0.01885217414723872]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.484927687750479], ["weekly", 8.463395813108306], ["biweekly", 6.306059625453247], ["triweekly", 6.582641187973126]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 426.32282046814197], ["weekly", 395.2903691534115], ["biweekly", 374.5467519644205], ["triweekly", 355.90515465058064]],
+      "Daily Growth Rate": [["daily", 0.375], ["weekly", 1.1765078578743176], ["biweekly", 1.167542287890752], ["triweekly", 1.2478695304827923]],
+      "Confirmed Cumulative Cases": [["daily", 367.0], ["weekly", 340.2857142857143], ["biweekly", 322.42857142857144], ["triweekly", 306.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 7.285714285714286], ["biweekly", 5.428571428571429], ["triweekly", 5.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.0326975476839237], ["weekly", 0.03533713260001694], ["biweekly", 0.03737664594748078], ["triweekly", 0.039526951572951864]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03761755485893417], ["weekly", 0.039416159294944596], ["biweekly", 0.04162186105941933], ["triweekly", 0.04570228883279987]]
+    },
+    "lat": "REPLACE_MEPolk,Oregon"
+  }, {
+    "locale": "Polk,Oregon",
+    "long": "REPLACE_MEPolk,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008141157583699155], ["weekly", 0.020024392181389468], ["biweekly", 0.015357313837893611], ["triweekly", 0.017525122906477814]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.484927687750479], ["weekly", 7.965549000572524], ["biweekly", 5.89118728167343], ["triweekly", 6.250743312949272]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 429.80774815589245], ["weekly", 403.255918153984], ["biweekly", 380.4379392460939], ["triweekly", 362.15589796352987]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.0735871271585558], ["biweekly", 0.9086137164621805], ["triweekly", 1.0514409590542206]],
+      "Confirmed Cumulative Cases": [["daily", 370.0], ["weekly", 347.14285714285717], ["biweekly", 327.5], ["triweekly", 311.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 6.857142857142857], ["biweekly", 5.071428571428571], ["triweekly", 5.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.032432432432432434], ["weekly", 0.03463427443215831], ["biweekly", 0.03681643217200815], ["triweekly", 0.038834258867986846]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03680981595092025], ["weekly", 0.03899858991185797], ["biweekly", 0.04093425108590111], ["triweekly", 0.04469248052076032]]
     },
     "lat": "REPLACE_MEPolk,Oregon"
   }]

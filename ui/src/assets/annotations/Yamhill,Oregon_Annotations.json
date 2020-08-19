@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEYamhill,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.022449028680530274], ["biweekly", 0.028677782837751766], ["triweekly", 0.030602429359305378]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 9.737228224623182], ["biweekly", 11.071095104708549], ["triweekly", 10.58201058201058]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 468.7208216619982], ["weekly", 440.97639055622255], ["biweekly", 403.2279578498066], ["triweekly", 361.74469787915166]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2302437641723356], ["biweekly", 1.248301136693994], ["triweekly", 1.2187963051058286]],
-      "Confirmed Cumulative Cases": [["daily", 502.0], ["weekly", 472.2857142857143], ["biweekly", 431.85714285714283], ["triweekly", 387.42857142857144]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 10.428571428571429], ["biweekly", 11.857142857142858], ["triweekly", 11.333333333333334]],
-      "Confirmed Fatality Rate": [["daily", 0.025896414342629483], ["weekly", 0.02755489722495023], ["biweekly", 0.02894132014793416], ["triweekly", 0.030001350523886024]],
+      "Spread Rate": [["daily", 0.023623145763436604], ["weekly", 0.022449028680530274], ["biweekly", 0.028677782837751766], ["triweekly", 0.030602429359305378]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.204481792717088], ["weekly", 9.737228224623182], ["biweekly", 11.071095104708549], ["triweekly", 10.58201058201058]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 479.9253034547152], ["weekly", 440.97639055622255], ["biweekly", 403.2279578498066], ["triweekly", 361.74469787915166]],
+      "Daily Growth Rate": [["daily", 0.631578947368421], ["weekly", 1.2302437641723356], ["biweekly", 1.248301136693994], ["triweekly", 1.2187963051058286]],
+      "Confirmed Cumulative Cases": [["daily", 514.0], ["weekly", 472.2857142857143], ["biweekly", 431.85714285714283], ["triweekly", 387.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 10.428571428571429], ["biweekly", 11.857142857142858], ["triweekly", 11.333333333333334]],
+      "Confirmed Fatality Rate": [["daily", 0.02529182879377432], ["weekly", 0.02755489722495023], ["biweekly", 0.02894132014793416], ["triweekly", 0.030001350523886024]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028888888888888888], ["weekly", 0.03336757316021095], ["biweekly", 0.03657320646791634], ["triweekly", 0.03732927997531715]]
     },
     "lat": "REPLACE_MEYamhill,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEYamhill,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.023623145763436604], ["weekly", 0.015621790989623336], ["biweekly", 0.025761926086304992], ["triweekly", 0.029356252324382277]],
-      "Confirmed Daily Cases per 100k": [["daily", 11.204481792717088], ["weekly", 6.936107776443912], ["biweekly", 10.137388288648793], ["triweekly", 10.270774976657329]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 479.9253034547152], ["weekly", 447.9124983326665], ["biweekly", 413.36534613845544], ["triweekly", 372.015472855809]],
-      "Daily Growth Rate": [["daily", 0.7947194142390263], ["weekly", 1.0427437641723356], ["biweekly", 1.1927455811384384], ["triweekly", 1.177129638439162]],
-      "Confirmed Cumulative Cases": [["daily", 514.0], ["weekly", 479.7142857142857], ["biweekly", 442.7142857142857], ["triweekly", 398.42857142857144]],
-      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 7.428571428571429], ["biweekly", 10.857142857142858], ["triweekly", 11.0]],
-      "Confirmed Fatality Rate": [["daily", 0.02529182879377432], ["weekly", 0.02712740086119889], ["biweekly", 0.028546166070366884], ["triweekly", 0.029653068725757854]],
+      "Spread Rate": [["daily", 0.005819609053263619], ["weekly", 0.01899652609868571], ["biweekly", 0.02744929364083618], ["triweekly", 0.030481164027403067]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.801120448179272], ["weekly", 8.536748032546353], ["biweekly", 10.937708416700014], ["triweekly", 10.804321728691475]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 482.7264239028945], ["weekly", 449.51313858876887], ["biweekly", 414.16566626650666], ["triweekly", 372.54901960784315]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 1.13296932808211], ["biweekly", 1.2378583630933255], ["triweekly", 1.2072048264090869]],
+      "Confirmed Cumulative Cases": [["daily", 517.0], ["weekly", 481.42857142857144], ["biweekly", 443.57142857142856], ["triweekly", 399.0]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 9.142857142857142], ["biweekly", 11.714285714285714], ["triweekly", 11.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.025145067698259187], ["weekly", 0.027041031497076724], ["biweekly", 0.028502981388305804], ["triweekly", 0.029624278937717137]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02826086956521739], ["weekly", 0.032188434838215485], ["biweekly", 0.035737383823975614], ["triweekly", 0.03683345039651814]]
+    },
+    "lat": "REPLACE_MEYamhill,Oregon"
+  }, {
+    "locale": "Yamhill,Oregon",
+    "long": "REPLACE_MEYamhill,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.011538589556494117], ["weekly", 0.01668805500361259], ["biweekly", 0.026051463287153607], ["triweekly", 0.029715493729575743]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.602240896358544], ["weekly", 7.603041216486595], ["biweekly", 10.537548352674403], ["triweekly", 10.670935040682938]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 488.32866479925303], ["weekly", 457.11617980525546], ["biweekly", 424.70321461918104], ["triweekly", 383.21995464852614]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.100656402912042], ["biweekly", 1.2097971386035298], ["triweekly", 1.1782932617832365]],
+      "Confirmed Cumulative Cases": [["daily", 523.0], ["weekly", 489.57142857142856], ["biweekly", 454.85714285714283], ["triweekly", 410.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 8.142857142857142], ["biweekly", 11.285714285714286], ["triweekly", 11.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.0248565965583174], ["weekly", 0.026595916944654123], ["biweekly", 0.028110438472204537], ["triweekly", 0.02927447384100368]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.027837259100642397], ["weekly", 0.03105260203834006], ["biweekly", 0.034919503697509714], ["triweekly", 0.036355497883412996]]
+    },
+    "lat": "REPLACE_MEYamhill,Oregon"
+  }, {
+    "locale": "Yamhill,Oregon",
+    "long": "REPLACE_MEYamhill,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018939960100921027], ["weekly", 0.016178886628003677], ["biweekly", 0.021696006757149444], ["triweekly", 0.028742364440241468]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.337068160597573], ["weekly", 7.469654528478058], ["biweekly", 9.136988128584768], ["triweekly", 10.537548352674403]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 497.66573295985063], ["weekly", 464.58583433373354], ["biweekly", 433.84020274776583], ["triweekly", 393.7575030012006]],
+      "Daily Growth Rate": [["daily", 1.6666666666666667], ["weekly", 1.2863706886263278], ["biweekly", 1.1383685671749582], ["triweekly", 1.2021027855927604]],
+      "Confirmed Cumulative Cases": [["daily", 533.0], ["weekly", 497.57142857142856], ["biweekly", 464.64285714285717], ["triweekly", 421.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 8.0], ["biweekly", 9.785714285714286], ["triweekly", 11.285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.024390243902439025], ["weekly", 0.026170108010036268], ["biweekly", 0.027665332304830464], ["triweekly", 0.028959619797660152]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.027659574468085105], ["weekly", 0.030218102413191263], ["biweekly", 0.0339108763505526], ["triweekly", 0.03590277696724125]]
     },
     "lat": "REPLACE_MEYamhill,Oregon"
   }]

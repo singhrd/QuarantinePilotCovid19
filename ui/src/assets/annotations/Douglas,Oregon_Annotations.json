@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEDouglas,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.010241704065159547], ["biweekly", 0.017185033208423572], ["triweekly", 0.01711304766228084]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.415956543006462], ["biweekly", 2.188296475555441], ["triweekly", 2.059573153463945]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 143.26905748783565], ["weekly", 139.66480446927375], ["biweekly", 132.0057668048297], ["triweekly", 123.91765140008069]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.5718192348809223], ["biweekly", 1.116861998392842], ["triweekly", 1.043648328873004]],
-      "Confirmed Cumulative Cases": [["daily", 159.0], ["weekly", 155.0], ["biweekly", 146.5], ["triweekly", 137.52380952380952]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.5714285714285714], ["biweekly", 2.4285714285714284], ["triweekly", 2.2857142857142856]],
-      "Confirmed Fatality Rate": [["daily", 0.006289308176100629], ["weekly", 0.0064556972454011055], ["biweekly", 0.006859373934914135], ["triweekly", 0.00736273944768664]],
+      "Spread Rate": [["daily", 0.006269613013595077], ["weekly", 0.010241704065159547], ["biweekly", 0.017185033208423572], ["triweekly", 0.01711304766228084]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.9010632546404759], ["weekly", 1.415956543006462], ["biweekly", 2.188296475555441], ["triweekly", 2.059573153463945]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 144.17012074247614], ["weekly", 139.66480446927375], ["biweekly", 132.0057668048297], ["triweekly", 123.91765140008069]],
+      "Daily Growth Rate": [["daily", 0.6933612743506347], ["weekly", 0.5718192348809223], ["biweekly", 1.116861998392842], ["triweekly", 1.043648328873004]],
+      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 155.0], ["biweekly", 146.5], ["triweekly", 137.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 2.4285714285714284], ["triweekly", 2.2857142857142856]],
+      "Confirmed Fatality Rate": [["daily", 0.00625], ["weekly", 0.0064556972454011055], ["biweekly", 0.006859373934914135], ["triweekly", 0.00736273944768664]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006666666666666667], ["weekly", 0.007263050624427162], ["biweekly", 0.007816260548829406], ["triweekly", 0.008828343964384205]]
     },
     "lat": "REPLACE_MEDouglas,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEDouglas,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.006269613013595077], ["weekly", 0.008324129731996572], ["biweekly", 0.015490995592901045], ["triweekly", 0.015014952910184145]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.9010632546404759], ["weekly", 1.158509898823469], ["biweekly", 1.9952114924181963], ["triweekly", 1.8450342833114508]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 144.17012074247614], ["weekly", 140.82331436809721], ["biweekly", 134.00097829724788], ["triweekly", 125.76268568339212]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.4765811396428271], ["biweekly", 1.0097191412499849], ["triweekly", 1.0039657891904643]],
-      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 156.28571428571428], ["biweekly", 148.71428571428572], ["triweekly", 139.57142857142858]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.2857142857142858], ["biweekly", 2.2142857142857144], ["triweekly", 2.0476190476190474]],
-      "Confirmed Fatality Rate": [["daily", 0.00625], ["weekly", 0.006401788889605958], ["biweekly", 0.006750574518921322], ["triweekly", 0.007251721282016555]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.009219788733938725], ["biweekly", 0.015938825093872122], ["triweekly", 0.01531350591083153]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.2872332209149655], ["biweekly", 2.0595731534639445], ["triweekly", 1.8879420573419496]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 144.17012074247614], ["weekly", 140.95203769018872], ["biweekly", 134.06533995829366], ["triweekly", 125.80559345742263]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.5756327502643463], ["biweekly", 1.0592449465607445], ["triweekly", 1.0369829927309708]],
+      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 156.42857142857142], ["biweekly", 148.78571428571428], ["triweekly", 139.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.4285714285714286], ["biweekly", 2.2857142857142856], ["triweekly", 2.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.00625], ["weekly", 0.006396173435877297], ["biweekly", 0.006747766792056992], ["triweekly", 0.007249849464107001]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006622516556291391], ["weekly", 0.007099360148236686], ["biweekly", 0.0076766874782218525], ["triweekly", 0.008565084188929307]]
+    },
+    "lat": "REPLACE_MEDouglas,Oregon"
+  }, {
+    "locale": "Douglas,Oregon",
+    "long": "REPLACE_MEDouglas,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012422519998557036], ["weekly", 0.008270568345557474], ["biweekly", 0.013740849474818287], ["triweekly", 0.01531350591083153]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.8021265092809517], ["weekly", 1.158509898823469], ["biweekly", 1.8021265092809517], ["triweekly", 1.8879420573419496]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 145.9722472517571], ["weekly", 142.11054758901219], ["biweekly", 135.86746646757462], ["triweekly", 127.69353551476459]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.504204178835775], ["biweekly", 0.9640068513226492], ["triweekly", 1.0369829927309708]],
+      "Confirmed Cumulative Cases": [["daily", 162.0], ["weekly", 157.71428571428572], ["biweekly", 150.78571428571428], ["triweekly", 141.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.2857142857142858], ["biweekly", 2.0], ["triweekly", 2.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.006172839506172839], ["weekly", 0.006342956784978526], ["biweekly", 0.006653069822360022], ["triweekly", 0.007136959480527364]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006622516556291391], ["weekly", 0.006963182859741517], ["biweekly", 0.007533960828301781], ["triweekly", 0.008320218030545423]]
+    },
+    "lat": "REPLACE_MEDouglas,Oregon"
+  }, {
+    "locale": "Douglas,Oregon",
+    "long": "REPLACE_MEDouglas,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018349138668196652], ["weekly", 0.01004521405963705], ["biweekly", 0.013554038234390895], ["triweekly", 0.015496304782601302]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.7031897639214275], ["weekly", 1.415956543006462], ["biweekly", 1.8021265092809517], ["triweekly", 1.9308498313724485]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 148.6754370156785], ["weekly", 143.52650413201863], ["biweekly", 137.66959297685557], ["triweekly", 129.62438534613702]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 0.706234687746217], ["biweekly", 1.0293078200635848], ["triweekly", 1.0830306102011202]],
+      "Confirmed Cumulative Cases": [["daily", 165.0], ["weekly", 159.28571428571428], ["biweekly", 152.78571428571428], ["triweekly", 143.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.5714285714285714], ["biweekly", 2.0], ["triweekly", 2.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.006060606060606061], ["weekly", 0.006278717206390162], ["biweekly", 0.00656093788943207], ["triweekly", 0.007023903811916139]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00641025641025641], ["weekly", 0.006843158572473975], ["biweekly", 0.0073964971146791274], ["triweekly", 0.008088230586865813]]
     },
     "lat": "REPLACE_MEDouglas,Oregon"
   }]

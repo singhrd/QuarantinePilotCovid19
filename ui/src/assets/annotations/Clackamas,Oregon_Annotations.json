@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEClackamas,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.01161038858981949], ["biweekly", 0.012751293183397992], ["triweekly", 0.013436460119434598]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 4.338455557646972], ["biweekly", 4.543421961945254], ["triweekly", 4.55480898440627]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 389.0603964255226], ["weekly", 376.1133518873477], ["biweekly", 360.39926089114607], ["triweekly", 344.2183019740429]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1543690005646527], ["biweekly", 1.0677225336775025], ["triweekly", 1.0811576535955418]],
-      "Confirmed Cumulative Cases": [["daily", 1627.0], ["weekly", 1572.857142857143], ["biweekly", 1507.142857142857], ["triweekly", 1439.4761904761904]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 18.142857142857142], ["biweekly", 19.0], ["triweekly", 19.047619047619047]],
-      "Confirmed Fatality Rate": [["daily", 0.03073140749846343], ["weekly", 0.028661534611177885], ["biweekly", 0.0276130912753872], ["triweekly", 0.02742685139426538]],
+      "Spread Rate": [["daily", 0.022486514162116222], ["weekly", 0.01161038858981949], ["biweekly", 0.012751293183397992], ["triweekly", 0.013436460119434598]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.847716452209179], ["weekly", 4.338455557646972], ["biweekly", 4.543421961945254], ["triweekly", 4.55480898440627]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 397.90811287773175], ["weekly", 376.1133518873477], ["biweekly", 360.39926089114607], ["triweekly", 344.2183019740429]],
+      "Daily Growth Rate": [["daily", 1.85], ["weekly", 1.1543690005646527], ["biweekly", 1.0677225336775025], ["triweekly", 1.0811576535955418]],
+      "Confirmed Cumulative Cases": [["daily", 1664.0], ["weekly", 1572.857142857143], ["biweekly", 1507.142857142857], ["triweekly", 1439.4761904761904]],
+      "Confirmed Daily Cases": [["daily", 37.0], ["weekly", 18.142857142857142], ["biweekly", 19.0], ["triweekly", 19.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.030048076923076924], ["weekly", 0.028661534611177885], ["biweekly", 0.0276130912753872], ["triweekly", 0.02742685139426538]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03282994090610637], ["weekly", 0.031270082339470165], ["biweekly", 0.030314330298617513], ["triweekly", 0.030316427756246007]]
     },
     "lat": "REPLACE_MEClackamas,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEClackamas,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.022486514162116222], ["weekly", 0.009436536331982255], ["biweekly", 0.01191647203502739], ["triweekly", 0.012362012173959708]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.847716452209179], ["weekly", 3.55275100783689], ["biweekly", 4.270133422880878], ["triweekly", 4.2359723554978315]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 397.90811287773175], ["weekly", 379.66610289518457], ["biweekly", 364.669394314027], ["triweekly", 348.4542743295407]],
-      "Daily Growth Rate": [["daily", 1.3601470508735443], ["weekly", 0.94901185770751], ["biweekly", 1.0157744817294505], ["triweekly", 1.0298756023134907]],
-      "Confirmed Cumulative Cases": [["daily", 1664.0], ["weekly", 1587.7142857142858], ["biweekly", 1525.0], ["triweekly", 1457.1904761904761]],
-      "Confirmed Daily Cases": [["daily", 37.0], ["weekly", 14.857142857142858], ["biweekly", 17.857142857142858], ["triweekly", 17.714285714285715]],
-      "Confirmed Fatality Rate": [["daily", 0.030048076923076924], ["weekly", 0.029205942604814485], ["biweekly", 0.02788890557798001], ["triweekly", 0.027600173967233382]],
+      "Spread Rate": [["daily", 0.014912295426645628], ["weekly", 0.012648895497998858], ["biweekly", 0.01352265161803569], ["triweekly", 0.013432798562631909]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.978186792033229], ["weekly", 4.81671050100963], ["biweekly", 4.902113169467248], ["triweekly", 4.657292186555412]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 403.886299669765], ["weekly", 380.9300623883573], ["biweekly", 365.30137406061334], ["triweekly", 348.87559416059827]],
+      "Daily Growth Rate": [["daily", 0.6756756756756757], ["weekly", 1.2132975719932244], ["biweekly", 1.1479173388723076], ["triweekly", 1.117970840408729]],
+      "Confirmed Cumulative Cases": [["daily", 1689.0], ["weekly", 1593.0], ["biweekly", 1527.642857142857], ["triweekly", 1458.952380952381]],
+      "Confirmed Daily Cases": [["daily", 25.0], ["weekly", 20.142857142857142], ["biweekly", 20.5], ["triweekly", 19.476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.02960331557134399], ["weekly", 0.029108323951187842], ["biweekly", 0.027840096251166686], ["triweekly", 0.027567634416024493]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.032509752925877766], ["weekly", 0.03170652062432424], ["biweekly", 0.030553463812400292], ["triweekly", 0.030422469689582936]]
+    },
+    "lat": "REPLACE_MEClackamas,Oregon"
+  }, {
+    "locale": "Clackamas,Oregon",
+    "long": "REPLACE_MEClackamas,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005903204864132761], ["weekly", 0.013379109534601545], ["biweekly", 0.013353597890770936], ["triweekly", 0.013352688233479263]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.3912747168132915], ["weekly", 5.1583211748401], ["biweekly", 4.919193703158771], ["triweekly", 4.702840276399474]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 406.27757438657824], ["weekly", 386.08838356319745], ["biweekly", 370.2205677637721], ["triweekly", 353.5784344369978]],
+      "Daily Growth Rate": [["daily", 0.4], ["weekly", 1.2166549666549666], ["biweekly", 1.0890370299919987], ["triweekly", 1.1144315868694752]],
+      "Confirmed Cumulative Cases": [["daily", 1699.0], ["weekly", 1614.5714285714287], ["biweekly", 1548.2142857142858], ["triweekly", 1478.6190476190477]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 21.571428571428573], ["biweekly", 20.571428571428573], ["triweekly", 19.666666666666668]],
+      "Confirmed Fatality Rate": [["daily", 0.03001765744555621], ["weekly", 0.029529083690062734], ["biweekly", 0.02806821112398472], ["triweekly", 0.02770847001346571]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0329244673983215], ["weekly", 0.03217008377810775], ["biweekly", 0.030804384363980003], ["triweekly", 0.030537767658661823]]
+    },
+    "lat": "REPLACE_MEClackamas,Oregon"
+  }, {
+    "locale": "Clackamas,Oregon",
+    "long": "REPLACE_MEClackamas,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005868561443658216], ["weekly", 0.01320432589358056], ["biweekly", 0.012762785255345133], ["triweekly", 0.013373274145537906]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.3912747168132915], ["weekly", 5.124160107457053], ["biweekly", 4.748388366243536], ["triweekly", 4.73700134378252]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 408.66884910339155], ["weekly", 391.21254367065455], ["biweekly", 374.96895613001567], ["triweekly", 358.31543578078026]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.169035919035919], ["biweekly", 1.0580846490396179], ["triweekly", 1.1176061900440781]],
+      "Confirmed Cumulative Cases": [["daily", 1709.0], ["weekly", 1636.0], ["biweekly", 1568.0714285714287], ["triweekly", 1498.4285714285713]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 21.428571428571427], ["biweekly", 19.857142857142858], ["triweekly", 19.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.030427150380339378], ["weekly", 0.030036079114130476], ["biweekly", 0.028251939445596033], ["triweekly", 0.027875958953177276]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.033099936346276254], ["weekly", 0.032751733338077064], ["biweekly", 0.030984881617740524], ["triweekly", 0.030686626942560018]]
     },
     "lat": "REPLACE_MEClackamas,Oregon"
   }]

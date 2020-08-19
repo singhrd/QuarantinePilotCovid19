@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MECrook,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.02437507386153762], ["biweekly", 0.013868286745782665], ["triweekly", 0.02526801195534144]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 4.683073032523942], ["biweekly", 2.634228580794717], ["triweekly", 4.097688903458449]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 208.9821340763809], ["weekly", 201.95752452759498], ["biweekly", 188.7863816236214], ["triweekly", 175.02985459058235]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6010152544552211], ["biweekly", 0.3362219129418963], ["triweekly", 0.6646241324374547]],
-      "Confirmed Cumulative Cases": [["daily", 51.0], ["weekly", 49.285714285714285], ["biweekly", 46.07142857142857], ["triweekly", 42.714285714285715]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.1428571428571428], ["biweekly", 0.6428571428571429], ["triweekly", 1.0]],
-      "Confirmed Fatality Rate": [["daily", 0.0196078431372549], ["weekly", 0.020311005861311092], ["biweekly", 0.02182296061140226], ["triweekly", 0.023921643876227094]],
+      "Spread Rate": [["daily", 0.019418085857101808], ["weekly", 0.02437507386153762], ["biweekly", 0.013868286745782665], ["triweekly", 0.02526801195534144]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.097688903458449], ["weekly", 4.683073032523942], ["biweekly", 2.634228580794717], ["triweekly", 4.097688903458449]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 213.07982297983938], ["weekly", 201.95752452759498], ["biweekly", 188.7863816236214], ["triweekly", 175.02985459058235]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.6010152544552211], ["biweekly", 0.3362219129418963], ["triweekly", 0.6646241324374547]],
+      "Confirmed Cumulative Cases": [["daily", 52.0], ["weekly", 49.285714285714285], ["biweekly", 46.07142857142857], ["triweekly", 42.714285714285715]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.1428571428571428], ["biweekly", 0.6428571428571429], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.019230769230769232], ["weekly", 0.020311005861311092], ["biweekly", 0.02182296061140226], ["triweekly", 0.023921643876227094]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02127659574468085], ["weekly", 0.023334915361493434], ["biweekly", 0.025726962883685096], ["triweekly", 0.029184100342769023]]
     },
     "lat": "REPLACE_MECrook,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MECrook,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.019418085857101808], ["weekly", 0.011668290144895328], ["biweekly", 0.01218753693076881], ["triweekly", 0.02370659182091331]],
-      "Confirmed Daily Cases per 100k": [["daily", 4.097688903458449], ["weekly", 2.341536516261971], ["biweekly", 2.341536516261971], ["triweekly", 3.9025608604366178]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 213.07982297983938], ["weekly", 204.29906104385694], ["biweekly", 191.12791813988338], ["triweekly", 178.93241545101895]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.31530096874093533], ["biweekly", 0.30050762722761054], ["triweekly", 0.617005084818407]],
-      "Confirmed Cumulative Cases": [["daily", 52.0], ["weekly", 49.857142857142854], ["biweekly", 46.642857142857146], ["triweekly", 43.666666666666664]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.5714285714285714], ["triweekly", 0.9523809523809523]],
-      "Confirmed Fatality Rate": [["daily", 0.019230769230769232], ["weekly", 0.02007261263167881], ["biweekly", 0.021562391267385583], ["triweekly", 0.023319252381994986]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.014442302410195586], ["biweekly", 0.01357454306341894], ["triweekly", 0.024631262576013394]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.9269206453274634], ["biweekly", 2.634228580794717], ["triweekly", 4.097688903458449]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 213.07982297983938], ["weekly", 204.88444517292243], ["biweekly", 191.4206102044161], ["triweekly", 179.1275434940408]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.45815811159807823], ["biweekly", 0.371936198656182], ["triweekly", 0.6646241324374547]],
+      "Confirmed Cumulative Cases": [["daily", 52.0], ["weekly", 50.0], ["biweekly", 46.714285714285715], ["triweekly", 43.714285714285715]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.7142857142857143], ["biweekly", 0.6428571428571429], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.019230769230769232], ["weekly", 0.020018744930752286], ["biweekly", 0.02153545741692232], ["triweekly", 0.023301296481686145]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02127659574468085], ["weekly", 0.023052169903092362], ["biweekly", 0.024942572257153076], ["triweekly", 0.028032769404204034]]
+    },
+    "lat": "REPLACE_MECrook,Oregon"
+  }, {
+    "locale": "Crook,Oregon",
+    "long": "REPLACE_MECrook,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019048194970694432], ["weekly", 0.014442302410195586], ["biweekly", 0.01357454306341894], ["triweekly", 0.02311941979912862]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.097688903458449], ["weekly", 2.9269206453274634], ["biweekly", 2.634228580794717], ["triweekly", 3.9025608604366178]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 217.17751188329783], ["weekly", 207.81136581824993], ["biweekly", 194.05483878521082], ["triweekly", 183.0301043544774]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.45815811159807823], ["biweekly", 0.371936198656182], ["triweekly", 0.617005084818407]],
+      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 50.714285714285715], ["biweekly", 47.357142857142854], ["triweekly", 44.666666666666664]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.7142857142857143], ["biweekly", 0.6428571428571429], ["triweekly", 0.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.018867924528301886], ["weekly", 0.019726484000193483], ["biweekly", 0.02124795422244238], ["triweekly", 0.022728952159341825]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.022769424444691287], ["biweekly", 0.024230186238915992], ["triweekly", 0.027282272199806126]]
+    },
+    "lat": "REPLACE_MECrook,Oregon"
+  }, {
+    "locale": "Crook,Oregon",
+    "long": "REPLACE_MECrook,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0112102307773565], ["biweekly", 0.014935128418468542], ["triweekly", 0.022561159623125798]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.341536516261971], ["biweekly", 2.9269206453274634], ["triweekly", 3.9025608604366178]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 217.17751188329783], ["weekly", 210.1529023345119], ["biweekly", 196.98175943053826], ["triweekly", 186.932665214914]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.5], ["biweekly", 0.44336477008475345], ["triweekly", 0.617005084818407]],
+      "Confirmed Cumulative Cases": [["daily", 53.0], ["weekly", 51.285714285714285], ["biweekly", 48.07142857142857], ["triweekly", 45.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.5714285714285714], ["biweekly", 0.7142857142857143], ["triweekly", 0.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.018867924528301886], ["weekly", 0.019506449894907164], ["biweekly", 0.020934533549214773], ["triweekly", 0.022184423312926187]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.02236261720352239], ["biweekly", 0.0235234100219357], ["triweekly", 0.02655340922604519]]
     },
     "lat": "REPLACE_MECrook,Oregon"
   }]

@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEWasco,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.01354397049409517], ["biweekly", 0.018310873022204483], ["triweekly", 0.017087185313990512]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 9.6373156863375], ["biweekly", 12.046644607921873], ["triweekly", 10.708128540374997]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 745.8211528371187], ["weekly", 727.0819278914624], ["biweekly", 682.3754912353968], ["triweekly", 639.9891490964123]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0511661782277704], ["biweekly", 1.4799481684789646], ["triweekly", 1.3722853253781453]],
-      "Confirmed Cumulative Cases": [["daily", 199.0], ["weekly", 194.0], ["biweekly", 182.07142857142858], ["triweekly", 170.76190476190476]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.5714285714285716], ["biweekly", 3.2142857142857144], ["triweekly", 2.857142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.01507537688442211], ["weekly", 0.015467907437680808], ["biweekly", 0.016568395097570403], ["triweekly", 0.01780075049678766]],
+      "Spread Rate": [["daily", 0.010000083334583465], ["weekly", 0.01354397049409517], ["biweekly", 0.018310873022204483], ["triweekly", 0.017087185313990512]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.495689978262499], ["weekly", 9.6373156863375], ["biweekly", 12.046644607921873], ["triweekly", 10.708128540374997]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 753.3168428153812], ["weekly", 727.0819278914624], ["biweekly", 682.3754912353968], ["triweekly", 639.9891490964123]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.0511661782277704], ["biweekly", 1.4799481684789646], ["triweekly", 1.3722853253781453]],
+      "Confirmed Cumulative Cases": [["daily", 201.0], ["weekly", 194.0], ["biweekly", 182.07142857142858], ["triweekly", 170.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.5714285714285716], ["biweekly", 3.2142857142857144], ["triweekly", 2.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.014925373134328358], ["weekly", 0.015467907437680808], ["biweekly", 0.016568395097570403], ["triweekly", 0.01780075049678766]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015873015873015872], ["weekly", 0.017668882757459998], ["biweekly", 0.018967172026341083], ["triweekly", 0.020185712800471108]]
     },
     "lat": "REPLACE_MEWasco,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEWasco,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.010000083334583465], ["weekly", 0.007365401380692812], ["biweekly", 0.016479270835537525], ["triweekly", 0.01640690163553923]],
-      "Confirmed Daily Cases per 100k": [["daily", 7.495689978262499], ["weekly", 5.354064270187499], ["biweekly", 10.975831753884375], ["triweekly", 10.351190922362496]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 753.3168428153812], ["weekly", 732.4359921616499], ["biweekly", 693.3513229892812], ["triweekly", 650.340340018775]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.6702137972753894], ["biweekly", 1.3370910256218218], ["triweekly", 1.27704723014005]],
-      "Confirmed Cumulative Cases": [["daily", 201.0], ["weekly", 195.42857142857142], ["biweekly", 185.0], ["triweekly", 173.52380952380952]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.4285714285714286], ["biweekly", 2.9285714285714284], ["triweekly", 2.761904761904762]],
-      "Confirmed Fatality Rate": [["daily", 0.014925373134328358], ["weekly", 0.01535395901073884], ["biweekly", 0.016288969034161133], ["triweekly", 0.01750545436058486]],
+      "Spread Rate": [["daily", 0.004962789342129348], ["weekly", 0.008793984714204736], ["biweekly", 0.017193562502293487], ["triweekly", 0.016883096080043205]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.7478449891312495], ["weekly", 6.424877124224999], ["biweekly", 11.511238180903124], ["triweekly", 10.708128540374997]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 757.0646878045123], ["weekly", 733.5068050156875], ["biweekly", 693.8867294162999], ["triweekly", 650.6972776367874]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.8130709401325323], ["biweekly", 1.4085195970503932], ["triweekly", 1.3246662777590976]],
+      "Confirmed Cumulative Cases": [["daily", 202.0], ["weekly", 195.71428571428572], ["biweekly", 185.14285714285714], ["triweekly", 173.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.7142857142857142], ["biweekly", 3.0714285714285716], ["triweekly", 2.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.01485148514851485], ["weekly", 0.015332529903582592], ["biweekly", 0.016278254480583006], ["triweekly", 0.01749831132486611]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015625], ["weekly", 0.01722397905758342], ["biweekly", 0.01858120203550787], ["triweekly", 0.01983415098711527]]
+    },
+    "lat": "REPLACE_MEWasco,Oregon"
+  }, {
+    "locale": "Wasco,Oregon",
+    "long": "REPLACE_MEWasco,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004938281640582076], ["weekly", 0.007253189339060511], ["biweekly", 0.016204523744052995], ["triweekly", 0.01546005122346994]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.7478449891312495], ["weekly", 5.354064270187499], ["biweekly", 10.975831753884373], ["triweekly", 9.99425330435]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 760.8125327936436], ["weekly", 738.860869285875], ["biweekly", 704.8625611701842], ["triweekly", 660.6915309411373]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.8309280829896751], ["biweekly", 1.3906624541932504], ["triweekly", 1.2294281825210025]],
+      "Confirmed Cumulative Cases": [["daily", 203.0], ["weekly", 197.14285714285714], ["biweekly", 188.07142857142858], ["triweekly", 176.28571428571428]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.4285714285714286], ["biweekly", 2.9285714285714284], ["triweekly", 2.6666666666666665]],
+      "Confirmed Fatality Rate": [["daily", 0.014778325123152709], ["weekly", 0.015222027781941856], ["biweekly", 0.01600810767885758], ["triweekly", 0.017227051322153512]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015625], ["weekly", 0.016794187575773306], ["biweekly", 0.01822956309225934], ["triweekly", 0.01947929750726179]]
+    },
+    "lat": "REPLACE_MEWasco,Oregon"
+  }, {
+    "locale": "Wasco,Oregon",
+    "long": "REPLACE_MEWasco,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004914014802428923], ["weekly", 0.00795865814485795], ["biweekly", 0.012671967285108934], ["triweekly", 0.015370161536335768]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.7478449891312495], ["weekly", 5.889470697206249], ["biweekly", 8.834206045809376], ["triweekly", 9.994253304349998]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 764.5603777827749], ["weekly", 744.7503399830813], ["biweekly", 713.6967672159935], ["triweekly", 670.6857842454874]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.973785225846818], ["biweekly", 1.2478053113361074], ["triweekly", 1.2675234206162405]],
+      "Confirmed Cumulative Cases": [["daily", 204.0], ["weekly", 198.71428571428572], ["biweekly", 190.42857142857142], ["triweekly", 178.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 2.357142857142857], ["triweekly", 2.6666666666666665]],
+      "Confirmed Fatality Rate": [["daily", 0.014705882352941176], ["weekly", 0.015101074228106528], ["biweekly", 0.015803198128830673], ["triweekly", 0.016958963791574775]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015463917525773196], ["weekly", 0.01650532202955482], ["biweekly", 0.0178879085733089], ["triweekly", 0.019124444027408313]]
     },
     "lat": "REPLACE_MEWasco,Oregon"
   }]

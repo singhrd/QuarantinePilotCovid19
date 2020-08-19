@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEWashington,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.012211191391884821], ["biweekly", 0.012390177103960414], ["triweekly", 0.014410660590897604]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 6.340319875074327], ["biweekly", 6.16222100217898], ["triweekly", 6.736095148175097]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 541.7292783148712], ["weekly", 525.1067168446389], ["biweekly", 502.3694274049996], ["triweekly", 478.7139393317667]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9322220629368846], ["biweekly", 1.058800597580235], ["triweekly", 1.0533407496580203]],
-      "Confirmed Cumulative Cases": [["daily", 3259.0], ["weekly", 3159.0], ["biweekly", 3022.214285714286], ["triweekly", 2879.904761904762]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 38.142857142857146], ["biweekly", 37.07142857142857], ["triweekly", 40.523809523809526]],
-      "Confirmed Fatality Rate": [["daily", 0.008284749923289352], ["weekly", 0.00818327509161251], ["biweekly", 0.00815188446636841], ["triweekly", 0.008264096739105678]],
+      "Spread Rate": [["daily", 0.01552778953354661], ["weekly", 0.012211191391884821], ["biweekly", 0.012390177103960414], ["triweekly", 0.014410660590897604]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.477506349818482], ["weekly", 6.340319875074327], ["biweekly", 6.16222100217898], ["triweekly", 6.736095148175097]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 550.2067846646896], ["weekly", 525.1067168446389], ["biweekly", 502.3694274049996], ["triweekly", 478.7139393317667]],
+      "Daily Growth Rate": [["daily", 2.125], ["weekly", 0.9322220629368846], ["biweekly", 1.058800597580235], ["triweekly", 1.0533407496580203]],
+      "Confirmed Cumulative Cases": [["daily", 3310.0], ["weekly", 3159.0], ["biweekly", 3022.214285714286], ["triweekly", 2879.904761904762]],
+      "Confirmed Daily Cases": [["daily", 51.0], ["weekly", 38.142857142857146], ["biweekly", 37.07142857142857], ["triweekly", 40.523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.008157099697885197], ["weekly", 0.00818327509161251], ["biweekly", 0.00815188446636841], ["triweekly", 0.008264096739105678]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008858267716535433], ["weekly", 0.008959162417791489], ["biweekly", 0.00899636342739186], ["triweekly", 0.009216585711908629]]
     },
     "lat": "REPLACE_MEWashington,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEWashington,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.01552778953354661], ["weekly", 0.009562108861574967], ["biweekly", 0.011277922665119304], ["triweekly", 0.013451395538875352]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.477506349818482], ["weekly", 5.01051495745574], ["biweekly", 5.651670899878987], ["triweekly", 6.348235380536342]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 550.2067846646896], ["weekly", 530.1172318020947], ["biweekly", 508.02109830487865], ["triweekly", 485.062174712303]],
-      "Daily Growth Rate": [["daily", 1.4577379737113252], ["weekly", 0.7655553962702178], ["biweekly", 0.9820148832945207], ["triweekly", 1.0101308731148104]],
-      "Confirmed Cumulative Cases": [["daily", 3310.0], ["weekly", 3189.1428571428573], ["biweekly", 3056.214285714286], ["triweekly", 2918.095238095238]],
-      "Confirmed Daily Cases": [["daily", 51.0], ["weekly", 30.142857142857142], ["biweekly", 34.0], ["triweekly", 38.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.008157099697885197], ["weekly", 0.008195082261006303], ["biweekly", 0.008153333545894982], ["triweekly", 0.008232227261452365]],
+      "Spread Rate": [["daily", 0.008124010380266], ["weekly", 0.011780364509224484], ["biweekly", 0.012387050488944062], ["triweekly", 0.014190814088091858]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.488091596962725], ["weekly", 6.221587293144095], ["biweekly", 6.257207067723164], ["triweekly", 6.751926159099126]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 554.6948762616523], ["weekly", 531.328304137783], ["biweekly", 508.6266344727228], ["triweekly", 485.4658654908658]],
+      "Daily Growth Rate": [["daily", 0.5294117647058824], ["weekly", 1.0691268248416466], ["biweekly", 1.133800597580235], ["triweekly", 1.1113213493052865]],
+      "Confirmed Cumulative Cases": [["daily", 3337.0], ["weekly", 3196.4285714285716], ["biweekly", 3059.8571428571427], ["triweekly", 2920.5238095238096]],
+      "Confirmed Daily Cases": [["daily", 27.0], ["weekly", 37.42857142857143], ["biweekly", 37.642857142857146], ["triweekly", 40.61904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.008091099790230746], ["weekly", 0.008176846514519994], ["biweekly", 0.008144215672651828], ["triweekly", 0.008226148679290262]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008743523316062176], ["weekly", 0.008941327555880813], ["biweekly", 0.008960453309929436], ["triweekly", 0.009151596159022815]]
+    },
+    "lat": "REPLACE_MEWashington,Oregon"
+  }, {
+    "locale": "Washington,Oregon",
+    "long": "REPLACE_MEWashington,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00657111086091966], ["weekly", 0.0110783668009581], ["biweekly", 0.011771106293863591], ["triweekly", 0.013827749964859772]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.6569635234511093], ["weekly", 5.912882580125496], ["biweekly", 6.019741903862703], ["triweekly", 6.656940093554941]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 558.3518397851035], ["weekly", 537.2411867179084], ["biweekly", 514.6463763765855], ["triweekly", 492.1228055844207]],
+      "Daily Growth Rate": [["daily", 0.8148148148148148], ["weekly", 1.0427162606159561], ["biweekly", 1.0935426339296586], ["triweekly", 1.0986305587033316]],
+      "Confirmed Cumulative Cases": [["daily", 3359.0], ["weekly", 3232.0], ["biweekly", 3096.0714285714284], ["triweekly", 2960.5714285714284]],
+      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 35.57142857142857], ["biweekly", 36.214285714285715], ["triweekly", 40.04761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.008038106579339089], ["weekly", 0.008176167209941559], ["biweekly", 0.008141636480485069], ["triweekly", 0.008191719975772557]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008656620711766592], ["weekly", 0.008928413420820538], ["biweekly", 0.008926794718952191], ["triweekly", 0.009093918644015217]]
+    },
+    "lat": "REPLACE_MEWashington,Oregon"
+  }, {
+    "locale": "Washington,Oregon",
+    "long": "REPLACE_MEWashington,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006232398864771227], ["weekly", 0.010590124714927183], ["biweekly", 0.011762518222456109], ["triweekly", 0.01306543677956238]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.490737908748786], ["weekly", 5.69916393265108], ["biweekly", 6.055361678441772], ["triweekly", 6.379897402384403]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 561.8425776938523], ["weekly", 542.9403506505595], ["biweekly", 520.7017380550272], ["triweekly", 498.50270298680505]],
+      "Daily Growth Rate": [["daily", 0.9545454545454546], ["weekly", 1.0484040913037869], ["biweekly", 1.122868312191507], ["triweekly", 1.067834194573634]],
+      "Confirmed Cumulative Cases": [["daily", 3380.0], ["weekly", 3266.285714285714], ["biweekly", 3132.5], ["triweekly", 2998.9523809523807]],
+      "Confirmed Daily Cases": [["daily", 21.0], ["weekly", 34.285714285714285], ["biweekly", 36.42857142857143], ["triweekly", 38.38095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.008875739644970414], ["weekly", 0.008179412500142567], ["biweekly", 0.008139143516651572], ["triweekly", 0.008164138719305892]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009487666034155597], ["weekly", 0.00891150084035737], ["biweekly", 0.008901624126292019], ["triweekly", 0.009040115969893273]]
     },
     "lat": "REPLACE_MEWashington,Oregon"
   }]

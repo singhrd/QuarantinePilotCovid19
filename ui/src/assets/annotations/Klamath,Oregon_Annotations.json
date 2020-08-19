@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEKlamath,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.0035101801043579328], ["biweekly", 0.00428700069473236], ["triweekly", 0.007225068391226307]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.0467565202463647], ["biweekly", 1.2561078242956376], ["triweekly", 2.023729272476305]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 301.88458043905155], ["weekly", 297.90690566211543], ["biweekly", 293.71987958112993], ["triweekly", 285.55517872320826]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.11664236870396086], ["biweekly", 0.2949507304565467], ["triweekly", 0.8512789105760991]],
-      "Confirmed Cumulative Cases": [["daily", 206.0], ["weekly", 203.28571428571428], ["biweekly", 200.42857142857142], ["triweekly", 194.85714285714286]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.7142857142857143], ["biweekly", 0.8571428571428571], ["triweekly", 1.380952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.009708737864077669], ["weekly", 0.009839437876295279], ["biweekly", 0.007806295579116634], ["triweekly", 0.0070196877990981585]],
+      "Spread Rate": [["daily", 0.009661910911736626], ["weekly", 0.0035101801043579328], ["biweekly", 0.00428700069473236], ["triweekly", 0.007225068391226307]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.930918256689821], ["weekly", 1.0467565202463647], ["biweekly", 1.2561078242956376], ["triweekly", 2.023729272476305]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 304.8154986957414], ["weekly", 297.90690566211543], ["biweekly", 293.71987958112993], ["triweekly", 285.55517872320826]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.11664236870396086], ["biweekly", 0.2949507304565467], ["triweekly", 0.8512789105760991]],
+      "Confirmed Cumulative Cases": [["daily", 208.0], ["weekly", 203.28571428571428], ["biweekly", 200.42857142857142], ["triweekly", 194.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.7142857142857143], ["biweekly", 0.8571428571428571], ["triweekly", 1.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.009615384615384616], ["weekly", 0.009839437876295279], ["biweekly", 0.007806295579116634], ["triweekly", 0.0070196877990981585]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009950248756218905], ["weekly", 0.010124842455844715], ["biweekly", 0.008153845859971368], ["triweekly", 0.007518375591476076]]
     },
     "lat": "REPLACE_MEKlamath,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEKlamath,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.009661910911736626], ["weekly", 0.0035101801043579328], ["biweekly", 0.00428700069473236], ["triweekly", 0.006424729423779564]],
-      "Confirmed Daily Cases per 100k": [["daily", 2.930918256689821], ["weekly", 1.0467565202463647], ["biweekly", 1.2561078242956376], ["triweekly", 1.814377968427032]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 304.8154986957414], ["weekly", 298.95366218236177], ["biweekly", 294.9759874054256], ["triweekly", 287.3695566916353]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.11664236870396086], ["biweekly", 0.2949507304565467], ["triweekly", 0.7798503391475277]],
-      "Confirmed Cumulative Cases": [["daily", 208.0], ["weekly", 204.0], ["biweekly", 201.28571428571428], ["triweekly", 196.0952380952381]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.7142857142857143], ["biweekly", 0.8571428571428571], ["triweekly", 1.2380952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.009615384615384616], ["weekly", 0.009804936320275102], ["biweekly", 0.008131588342603772], ["triweekly", 0.007217458385218259]],
+      "Spread Rate": [["daily", 0.009569451016150587], ["weekly", 0.00489045309174888], ["biweekly", 0.004977137188427834], ["triweekly", 0.006884820419576546]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.930918256689821], ["weekly", 1.4654591283449105], ["biweekly", 1.4654591283449105], ["triweekly", 1.9539455044598806]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 307.7464169524312], ["weekly", 299.3723647904603], ["biweekly", 295.1853387094748], ["triweekly", 287.50912422766817]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.25949951156110374], ["biweekly", 0.3663793018851181], ["triweekly", 0.8274693867665752]],
+      "Confirmed Cumulative Cases": [["daily", 210.0], ["weekly", 204.28571428571428], ["biweekly", 201.42857142857142], ["triweekly", 196.1904761904762]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.0], ["biweekly", 1.0], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.009523809523809525], ["weekly", 0.00979160014189038], ["biweekly", 0.00812492025341141], ["triweekly", 0.007213012992423351]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009950248756218905], ["weekly", 0.010073552513802347], ["biweekly", 0.008467752517161605], ["triweekly", 0.0076747366433595155]]
+    },
+    "lat": "REPLACE_MEKlamath,Oregon"
+  }, {
+    "locale": "Klamath,Oregon",
+    "long": "REPLACE_MEKlamath,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.006257517522627535], ["biweekly", 0.005660669403867161], ["triweekly", 0.007076690450078209]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.8841617364434564], ["biweekly", 1.6748104323941835], ["triweekly", 2.023729272476305]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 307.7464169524312], ["weekly", 301.2565265269037], ["biweekly", 296.86014914186904], ["triweekly", 289.5328535001444]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.4023566544182466], ["biweekly", 0.43780787331368953], ["triweekly", 0.8592154185126071]],
+      "Confirmed Cumulative Cases": [["daily", 210.0], ["weekly", 205.57142857142858], ["biweekly", 202.57142857142858], ["triweekly", 197.57142857142858]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.2857142857142858], ["biweekly", 1.1428571428571428], ["triweekly", 1.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.009523809523809525], ["weekly", 0.009730680251546183], ["biweekly", 0.00843700384973654], ["triweekly", 0.007403439070773659]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009950248756218905], ["weekly", 0.010022262571759982], ["biweekly", 0.008783851579859168], ["triweekly", 0.007831097695242956]]
+    },
+    "lat": "REPLACE_MEKlamath,Oregon"
+  }, {
+    "locale": "Klamath,Oregon",
+    "long": "REPLACE_MEKlamath,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.028170876966696845], ["weekly", 0.006257517522627535], ["biweekly", 0.004928062249067976], ["triweekly", 0.007340508563202765]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.792754770069463], ["weekly", 1.8841617364434564], ["biweekly", 1.4654591283449105], ["triweekly", 2.0935130404927293]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 316.53917172250067], ["weekly", 303.1406882633472], ["biweekly", 298.3256082702139], ["triweekly", 291.6263665406372]],
+      "Daily Growth Rate": [["daily", 1.7320508075688772], ["weekly", 0.4023566544182466], ["biweekly", 0.39454309729387665], ["triweekly", 0.8592154185126071]],
+      "Confirmed Cumulative Cases": [["daily", 216.0], ["weekly", 206.85714285714286], ["biweekly", 203.57142857142858], ["triweekly", 199.0]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 1.2857142857142858], ["biweekly", 1.0], ["triweekly", 1.4285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.009259259259259259], ["weekly", 0.009669760361201986], ["biweekly", 0.00875284447169961], ["triweekly", 0.007592403545452419]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00980392156862745], ["weekly", 0.009986000732269388], ["biweekly", 0.009097758237049407], ["triweekly", 0.007997699402528343]]
     },
     "lat": "REPLACE_MEKlamath,Oregon"
   }]

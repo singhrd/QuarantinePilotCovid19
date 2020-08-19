@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEMalheur,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.020089339430909625], ["biweekly", 0.021181687248770738], ["triweekly", 0.021179899301814662]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 53.271774837965026], ["biweekly", 52.103534161693865], ["triweekly", 48.598812132880376]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2842.563213502993], ["weekly", 2680.4114076365554], ["biweekly", 2490.689121810119], ["triweekly", 2317.94526714549]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0257662039174644], ["biweekly", 1.7278736376466914], ["triweekly", 1.4921507413131694]],
-      "Confirmed Cumulative Cases": [["daily", 869.0], ["weekly", 819.4285714285714], ["biweekly", 761.4285714285714], ["triweekly", 708.6190476190476]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 16.285714285714285], ["biweekly", 15.928571428571429], ["triweekly", 14.857142857142858]],
-      "Confirmed Fatality Rate": [["daily", 0.01726121979286536], ["weekly", 0.017273029916409458], ["biweekly", 0.016531235477210336], ["triweekly", 0.01567405763622002]],
+      "Spread Rate": [["daily", 0.02836264990812154], ["weekly", 0.020089339430909625], ["biweekly", 0.021181687248770738], ["triweekly", 0.021179899301814662]],
+      "Confirmed Daily Cases per 100k": [["daily", 81.7768473389814], ["weekly", 53.271774837965026], ["biweekly", 52.103534161693865], ["triweekly", 48.598812132880376]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2924.3400608419747], ["weekly", 2680.4114076365554], ["biweekly", 2490.689121810119], ["triweekly", 2317.94526714549]],
+      "Daily Growth Rate": [["daily", 1.3888888888888888], ["weekly", 1.0257662039174644], ["biweekly", 1.7278736376466914], ["triweekly", 1.4921507413131694]],
+      "Confirmed Cumulative Cases": [["daily", 894.0], ["weekly", 819.4285714285714], ["biweekly", 761.4285714285714], ["triweekly", 708.6190476190476]],
+      "Confirmed Daily Cases": [["daily", 25.0], ["weekly", 16.285714285714285], ["biweekly", 15.928571428571429], ["triweekly", 14.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.016778523489932886], ["weekly", 0.017273029916409458], ["biweekly", 0.016531235477210336], ["triweekly", 0.01567405763622002]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01953125], ["weekly", 0.020124870546000987], ["biweekly", 0.019273196067244175], ["triweekly", 0.01829075771215524]]
     },
     "lat": "REPLACE_MEMalheur,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEMalheur,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02836264990812154], ["weekly", 0.017650484588245696], ["biweekly", 0.01932629536282355], ["triweekly", 0.020416621288676624]],
-      "Confirmed Daily Cases per 100k": [["daily", 81.7768473389814], ["weekly", 47.19692332135498], ["biweekly", 48.13151586237192], ["triweekly", 47.19692332135498]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2924.3400608419747], ["weekly", 2727.608330957911], ["biweekly", 2538.820637672491], ["triweekly", 2365.142190466845]],
-      "Daily Growth Rate": [["daily", 1.1785113019775793], ["weekly", 0.9373308297678046], ["biweekly", 1.6266831614562154], ["triweekly", 1.4683412175036454]],
-      "Confirmed Cumulative Cases": [["daily", 894.0], ["weekly", 833.8571428571429], ["biweekly", 776.1428571428571], ["triweekly", 723.047619047619]],
-      "Confirmed Daily Cases": [["daily", 25.0], ["weekly", 14.428571428571429], ["biweekly", 14.714285714285714], ["triweekly", 14.428571428571429]],
-      "Confirmed Fatality Rate": [["daily", 0.016778523489932886], ["weekly", 0.0171347517915807], ["biweekly", 0.01679456113145185], ["triweekly", 0.015907092332733717]],
+      "Spread Rate": [["daily", 0.012229168526411982], ["weekly", 0.021702291717977346], ["biweekly", 0.021352198927689376], ["triweekly", 0.021767223665253837]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.981812829151814], ["weekly", 58.87933008406661], ["biweekly", 53.97271924372773], ["triweekly", 51.091058908925525]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2960.3218736711265], ["weekly", 2739.2907377206225], ["biweekly", 2544.6618410538467], ["triweekly", 2369.0363260544154]],
+      "Daily Growth Rate": [["daily", 0.44], ["weekly", 1.135743528180503], ["biweekly", 1.7258895106625647], ["triweekly", 1.5344787836412117]],
+      "Confirmed Cumulative Cases": [["daily", 905.0], ["weekly", 837.4285714285714], ["biweekly", 777.9285714285714], ["triweekly", 724.2380952380952]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 18.0], ["biweekly", 16.5], ["triweekly", 15.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.016574585635359115], ["weekly", 0.01706579517687606], ["biweekly", 0.01676008282409953], ["triweekly", 0.015884106794498837]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019157088122605363], ["weekly", 0.01989845786554419], ["biweekly", 0.0195324953479105], ["triweekly", 0.018523467166229757]]
+    },
+    "lat": "REPLACE_MEMalheur,Oregon"
+  }, {
+    "locale": "Malheur,Oregon",
+    "long": "REPLACE_MEMalheur,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012081420974204171], ["weekly", 0.020686035387017552], ["biweekly", 0.021156401003942702], ["triweekly", 0.02151558490495401]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.981812829151814], ["weekly", 57.01014500203274], ["biweekly", 54.20636737898196], ["triweekly", 51.246824332428346]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2996.303686500278], ["weekly", 2796.3008827226554], ["biweekly", 2598.8682084328284], ["triweekly", 2420.283150386844]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.033765506202481], ["biweekly", 1.715301275368447], ["triweekly", 1.5025211116835397]],
+      "Confirmed Cumulative Cases": [["daily", 916.0], ["weekly", 854.8571428571429], ["biweekly", 794.5], ["triweekly", 739.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 17.428571428571427], ["biweekly", 16.571428571428573], ["triweekly", 15.666666666666666]],
+      "Confirmed Fatality Rate": [["daily", 0.016375545851528384], ["weekly", 0.016879314708437124], ["biweekly", 0.016882636011596525], ["triweekly", 0.016011997115759322]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018656716417910446], ["weekly", 0.019663416538121863], ["biweekly", 0.019660779420160094], ["triweekly", 0.018656665733953394]]
+    },
+    "lat": "REPLACE_MEMalheur,Oregon"
+  }, {
+    "locale": "Malheur,Oregon",
+    "long": "REPLACE_MEMalheur,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.033282728511948356], ["weekly", 0.01863101364216619], ["biweekly", 0.021701663473654684], ["triweekly", 0.021434065802185844]],
+      "Confirmed Daily Cases per 100k": [["daily", 101.40329070033692], ["weekly", 52.337182296948086], ["biweekly", 56.075552461015825], ["triweekly", 51.71412060293681]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3097.7069772006153], ["weekly", 2848.638065019604], ["biweekly", 2654.9437608938447], ["triweekly", 2471.997270989781]],
+      "Daily Growth Rate": [["daily", 2.8181818181818183], ["weekly", 0.9766226490596239], ["biweekly", 1.765301275368447], ["triweekly", 1.5120449212073492]],
+      "Confirmed Cumulative Cases": [["daily", 947.0], ["weekly", 870.8571428571429], ["biweekly", 811.6428571428571], ["triweekly", 755.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 31.0], ["weekly", 16.0], ["biweekly", 17.142857142857142], ["triweekly", 15.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.01689545934530095], ["weekly", 0.016731116212457882], ["biweekly", 0.01699568218611398], ["triweekly", 0.01613946929264228]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019464720194647202], ["weekly", 0.019370081859023693], ["biweekly", 0.019770310044922777], ["triweekly", 0.018781649176317868]]
     },
     "lat": "REPLACE_MEMalheur,Oregon"
   }]

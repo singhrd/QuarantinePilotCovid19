@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEDeschutes,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.01063944184306896], ["biweekly", 0.01377883329460656], ["triweekly", 0.019194077176703978]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.2518116203849567], ["biweekly", 3.974436424914947], ["triweekly", 5.010198644741266]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 317.1600267082128], ["weekly", 310.1505661042719], ["biweekly", 294.5057390861976], ["triweekly", 277.463837446032]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2562925170068027], ["biweekly", 1.2780023547880688], ["triweekly", 1.2041583416583417]],
-      "Confirmed Cumulative Cases": [["daily", 627.0], ["weekly", 613.1428571428571], ["biweekly", 582.2142857142857], ["triweekly", 548.5238095238095]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 6.428571428571429], ["biweekly", 7.857142857142857], ["triweekly", 9.904761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.016771410549113346], ["biweekly", 0.015770916210963767], ["triweekly", 0.013545821376390514]],
+      "Spread Rate": [["daily", 0.015823114939242267], ["weekly", 0.01063944184306896], ["biweekly", 0.01377883329460656], ["triweekly", 0.019194077176703978]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.058373631709933], ["weekly", 3.2518116203849567], ["biweekly", 3.974436424914947], ["triweekly", 5.010198644741266]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 322.2184003399227], ["weekly", 310.1505661042719], ["biweekly", 294.5057390861976], ["triweekly", 277.463837446032]],
+      "Daily Growth Rate": [["daily", 1.6666666666666667], ["weekly", 1.2562925170068027], ["biweekly", 1.2780023547880688], ["triweekly", 1.2041583416583417]],
+      "Confirmed Cumulative Cases": [["daily", 637.0], ["weekly", 613.1428571428571], ["biweekly", 582.2142857142857], ["triweekly", 548.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 6.428571428571429], ["biweekly", 7.857142857142857], ["triweekly", 9.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.01726844583987441], ["weekly", 0.016771410549113346], ["biweekly", 0.015770916210963767], ["triweekly", 0.013545821376390514]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018456375838926176], ["weekly", 0.018653615221836346], ["biweekly", 0.01780220952253846], ["triweekly", 0.015709000203544224]]
     },
     "lat": "REPLACE_MEDeschutes,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEDeschutes,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.015823114939242267], ["weekly", 0.007243696223938707], ["biweekly", 0.012004966720482393], ["triweekly", 0.01697367274084521]],
-      "Confirmed Daily Cases per 100k": [["daily", 5.058373631709933], ["weekly", 2.2401368940429705], ["biweekly", 3.504730301970453], ["triweekly", 4.528448775054605]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 322.2184003399227], ["weekly", 312.3907029983148], ["biweekly", 298.0104693881681], ["triweekly", 281.9922862210866]],
-      "Daily Growth Rate": [["daily", 1.2909944487358056], ["weekly", 1.1229591836734694], ["biweekly", 1.1619309262166404], ["triweekly", 1.1361311307739879]],
-      "Confirmed Cumulative Cases": [["daily", 637.0], ["weekly", 617.5714285714286], ["biweekly", 589.1428571428571], ["triweekly", 557.4761904761905]],
-      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 4.428571428571429], ["biweekly", 6.928571428571429], ["triweekly", 8.952380952380953]],
-      "Confirmed Fatality Rate": [["daily", 0.01726844583987441], ["weekly", 0.01688074428614048], ["biweekly", 0.015945881927141005], ["triweekly", 0.014055828360441378]],
+      "Spread Rate": [["daily", 0.003134798805371375], ["weekly", 0.00950414121525903], ["biweekly", 0.013135189216142555], ["triweekly", 0.017727154404618653]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.0116747263419865], ["weekly", 2.962761698572961], ["biweekly", 3.866042704235448], ["triweekly", 4.769323709897935]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 323.2300750662647], ["weekly", 313.11332780284476], ["biweekly", 298.37178179043303], ["triweekly", 282.2331611559299]],
+      "Daily Growth Rate": [["daily", 0.2], ["weekly", 1.3610544217687075], ["biweekly", 1.2809785452642595], ["triweekly", 1.2154962101390674]],
+      "Confirmed Cumulative Cases": [["daily", 639.0], ["weekly", 619.0], ["biweekly", 589.8571428571429], ["triweekly", 557.952380952381]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 5.857142857142857], ["biweekly", 7.642857142857143], ["triweekly", 9.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.017214397496087636], ["weekly", 0.01684139945624785], ["biweekly", 0.01592620951219469], ["triweekly", 0.014042713417143835]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018211920529801324], ["weekly", 0.018594822551925533], ["biweekly", 0.017818862466451344], ["triweekly", 0.016166467742439572]]
+    },
+    "lat": "REPLACE_MEDeschutes,Oregon"
+  }, {
+    "locale": "Deschutes,Oregon",
+    "long": "REPLACE_MEDeschutes,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009345862418237871], ["weekly", 0.008047179491817071], ["biweekly", 0.012421882847762118], ["triweekly", 0.01565133166163779]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.03502417902596], ["weekly", 2.5291868158549664], ["biweekly", 3.6853865031029507], ["triweekly", 4.311661333695608]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 326.2650992452906], ["weekly", 315.6425146186998], ["biweekly", 302.05716829353594], ["triweekly", 286.5448224896255]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 1.3079931972789114], ["biweekly", 1.2568027210884354], ["triweekly", 1.1750200196628768]],
+      "Confirmed Cumulative Cases": [["daily", 645.0], ["weekly", 624.0], ["biweekly", 597.1428571428571], ["triweekly", 566.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 5.0], ["biweekly", 7.285714285714286], ["triweekly", 8.523809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.017054263565891473], ["weekly", 0.0169354146141563], ["biweekly", 0.016091696537387432], ["triweekly", 0.01455188762503207]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01800327332242226], ["weekly", 0.018536243494863363], ["biweekly", 0.017877477908021], ["triweekly", 0.016627857897538335]]
+    },
+    "lat": "REPLACE_MEDeschutes,Oregon"
+  }, {
+    "locale": "Deschutes,Oregon",
+    "long": "REPLACE_MEDeschutes,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007722046093910251], ["weekly", 0.007736193946310976], ["biweekly", 0.012691512659818003], ["triweekly", 0.014971058227588322]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.5291868158549664], ["weekly", 2.4569243354019674], ["biweekly", 3.793780223782449], ["triweekly", 4.191223866273942]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 328.7942860611456], ["weekly", 318.0994389541017], ["biweekly", 305.85094851731844], ["triweekly", 290.7360463558994]],
+      "Daily Growth Rate": [["daily", 0.8333333333333334], ["weekly", 1.61156462585034], ["biweekly", 1.4404761904761902], ["triweekly", 1.2929338518624232]],
+      "Confirmed Cumulative Cases": [["daily", 650.0], ["weekly", 628.8571428571429], ["biweekly", 604.6428571428571], ["triweekly", 574.7619047619048]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 4.857142857142857], ["biweekly", 7.5], ["triweekly", 8.285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.016923076923076923], ["weekly", 0.017033650536241802], ["biweekly", 0.01625165716246434], ["triweekly", 0.015060689378093932]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017857142857142856], ["weekly", 0.018462637038278183], ["biweekly", 0.01795020185931929], ["triweekly", 0.01710009694292643]]
     },
     "lat": "REPLACE_MEDeschutes,Oregon"
   }]

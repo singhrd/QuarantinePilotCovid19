@@ -3119,5 +3119,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019230769230769232], ["weekly", 0.005714285714285714], ["biweekly", 0.002857142857142857], ["triweekly", 0.0019047619047619048]]
     },
     "lat": "REPLACE_METexas,Missouri"
+  }, {
+    "locale": "Texas,Missouri",
+    "long": "REPLACE_METexas,Missouri",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014815085785141235], ["weekly", 0.03620698582993403], ["biweekly", 0.044369548638203984], ["triweekly", 0.055246199127025844]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.9373178990471693], ["weekly", 8.437109783672506], ["biweekly", 8.71834677646159], ["triweekly", 8.624601112198564]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 267.73761713520753], ["weekly", 242.42628778418998], ["biweekly", 212.61516654854717], ["triweekly", 179.80418405648737]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.9581581115980783], ["biweekly", 1.065971668722448], ["triweekly", 1.1277868767623405]],
+      "Confirmed Cumulative Cases": [["daily", 68.0], ["weekly", 61.57142857142857], ["biweekly", 54.0], ["triweekly", 45.666666666666664]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.142857142857143], ["biweekly", 2.2142857142857144], ["triweekly", 2.1904761904761907]],
+      "Confirmed Fatality Rate": [["daily", 0.014705882352941176], ["weekly", 0.006597572055994231], ["biweekly", 0.0032987860279971156], ["triweekly", 0.0021991906853314103]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01818181818181818], ["weekly", 0.008461538461538461], ["biweekly", 0.004230769230769231], ["triweekly", 0.0028205128205128207]]
+    },
+    "lat": "REPLACE_METexas,Missouri"
+  }, {
+    "locale": "Texas,Missouri",
+    "long": "REPLACE_METexas,Missouri",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.014815085785141235], ["weekly", 0.030310645706233683], ["biweekly", 0.041565824674980094], ["triweekly", 0.05595167940250876]],
+      "Confirmed Daily Cases per 100k": [["daily", -3.9373178990471693], ["weekly", 7.312161812516172], ["biweekly", 8.437109783672508], ["triweekly", 8.81209244072462]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 263.80029923616036], ["weekly", 249.73844959670618], ["biweekly", 221.05227633221963], ["triweekly", 188.61627649721203]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8153009687409354], ["biweekly", 0.958828811579591], ["triweekly", 1.1515964005718642]],
+      "Confirmed Cumulative Cases": [["daily", 67.0], ["weekly", 63.42857142857143], ["biweekly", 56.142857142857146], ["triweekly", 47.904761904761905]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 1.8571428571428572], ["biweekly", 2.142857142857143], ["triweekly", 2.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.014925373134328358], ["weekly", 0.008698412392128685], ["biweekly", 0.004349206196064342], ["triweekly", 0.0028994707973762283]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.01105894105894106], ["biweekly", 0.00552947052947053], ["triweekly", 0.0036863136863136865]]
+    },
+    "lat": "REPLACE_METexas,Missouri"
   }]
 }

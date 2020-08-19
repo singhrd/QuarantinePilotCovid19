@@ -3094,13 +3094,13 @@
     "long": "REPLACE_MEJosephine,Oregon",
     "date": "08/15/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.02646672386053022], ["biweekly", 0.023406243361820005], ["triweekly", 0.025867001584239564]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.755660024591409], ["biweekly", 3.102501759445076], ["triweekly", 3.102501759445077]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 155.451667104827], ["weekly", 140.75560613903454], ["biweekly", 131.85632477641576], ["triweekly", 122.1950254377929]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1825396825396826], ["biweekly", 1.042455447496394], ["triweekly", 0.9330655364261675]],
-      "Confirmed Cumulative Cases": [["daily", 136.0], ["weekly", 123.14285714285714], ["biweekly", 115.35714285714286], ["triweekly", 106.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.2857142857142856], ["biweekly", 2.7142857142857144], ["triweekly", 2.7142857142857144]],
-      "Confirmed Fatality Rate": [["daily", 0.014705882352941176], ["weekly", 0.01631014262005658], ["biweekly", 0.01474961330413675], ["triweekly", 0.013558375179758156]],
+      "Spread Rate": [["daily", 0.01459879942115272], ["weekly", 0.02646672386053022], ["biweekly", 0.023406243361820005], ["triweekly", 0.025867001584239564]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.2860539280121617], ["weekly", 3.755660024591409], ["biweekly", 3.102501759445076], ["triweekly", 3.102501759445077]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 157.73772103283915], ["weekly", 140.75560613903454], ["biweekly", 131.85632477641576], ["triweekly", 122.1950254377929]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 1.1825396825396826], ["biweekly", 1.042455447496394], ["triweekly", 0.9330655364261675]],
+      "Confirmed Cumulative Cases": [["daily", 138.0], ["weekly", 123.14285714285714], ["biweekly", 115.35714285714286], ["triweekly", 106.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.2857142857142856], ["biweekly", 2.7142857142857144], ["triweekly", 2.7142857142857144]],
+      "Confirmed Fatality Rate": [["daily", 0.014492753623188406], ["weekly", 0.01631014262005658], ["biweekly", 0.01474961330413675], ["triweekly", 0.013558375179758156]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.018606817727207476], ["biweekly", 0.017077947250387023], ["triweekly", 0.015940141302237983]]
     },
     "lat": "REPLACE_MEJosephine,Oregon"
@@ -3109,14 +3109,44 @@
     "long": "REPLACE_MEJosephine,Oregon",
     "date": "08/16/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.01459879942115272], ["weekly", 0.02520806247736524], ["biweekly", 0.019851849821886893], ["triweekly", 0.02294467080441614]],
-      "Confirmed Daily Cases per 100k": [["daily", 2.2860539280121617], ["weekly", 3.5923704583048255], ["biweekly", 2.6942778437286194], ["triweekly", 2.8303524823007717]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 157.73772103283915], ["weekly", 144.34797659733937], ["biweekly", 134.5506026201444], ["triweekly", 125.02537792009367]],
-      "Daily Growth Rate": [["daily", 0.5773502691896257], ["weekly", 1.1349206349206349], ["biweekly", 0.9917774684974517], ["triweekly", 0.6949702983309294]],
-      "Confirmed Cumulative Cases": [["daily", 138.0], ["weekly", 126.28571428571429], ["biweekly", 117.71428571428571], ["triweekly", 109.38095238095238]],
-      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.142857142857143], ["biweekly", 2.357142857142857], ["triweekly", 2.4761904761904763]],
-      "Confirmed Fatality Rate": [["daily", 0.014492753623188406], ["weekly", 0.015904717292030635], ["biweekly", 0.015106552196198426], ["triweekly", 0.013691761867766692]],
+      "Spread Rate": [["daily", 0.0072202479734864156], ["weekly", 0.02729360525181563], ["biweekly", 0.020894621209112087], ["triweekly", 0.023639851729232938]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.1430269640060808], ["weekly", 3.918949590877992], ["biweekly", 2.857567410015202], ["triweekly", 2.9392121931584936]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 158.88074799684523], ["weekly", 144.67455572991253], ["biweekly", 134.71389218643097], ["triweekly", 125.1342376309514]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.1825396825396826], ["biweekly", 1.0155869923069756], ["triweekly", 0.7108433142039453]],
+      "Confirmed Cumulative Cases": [["daily", 139.0], ["weekly", 126.57142857142857], ["biweekly", 117.85714285714286], ["triweekly", 109.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.4285714285714284], ["biweekly", 2.5], ["triweekly", 2.5714285714285716]],
+      "Confirmed Fatality Rate": [["daily", 0.014388489208633094], ["weekly", 0.01587427033063738], ["biweekly", 0.0150913287155018], ["triweekly", 0.013681612880635609]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017391304347826087], ["weekly", 0.018339158287345687], ["biweekly", 0.0174807399464128], ["triweekly", 0.016054062468790726]]
+    },
+    "lat": "REPLACE_MEJosephine,Oregon"
+  }, {
+    "locale": "Josephine,Oregon",
+    "long": "REPLACE_MEJosephine,Oregon",
+    "date": "08/17/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007168489478612372], ["weekly", 0.027077400681063044], ["biweekly", 0.02003668449808346], ["triweekly", 0.02398367306130372]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.1430269640060808], ["weekly", 3.918949590877992], ["biweekly", 2.775922626871911], ["triweekly", 2.993642048587355]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 160.0237749608513], ["weekly", 148.5935053207905], ["biweekly", 137.48981481330287], ["triweekly", 128.12787967953878]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.1111111111111112], ["biweekly", 1.022729849449833], ["triweekly", 0.7346528380134691]],
+      "Confirmed Cumulative Cases": [["daily", 140.0], ["weekly", 130.0], ["biweekly", 120.28571428571429], ["triweekly", 112.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.4285714285714284], ["biweekly", 2.4285714285714284], ["triweekly", 2.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.014285714285714285], ["weekly", 0.015445296739324096], ["biweekly", 0.015438805835846342], ["triweekly", 0.013799885609391382]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017391304347826087], ["weekly", 0.018102541901660975], ["biweekly", 0.0178726358352031], ["triweekly", 0.016201947709843668]]
+    },
+    "lat": "REPLACE_MEJosephine,Oregon"
+  }, {
+    "locale": "Josephine,Oregon",
+    "long": "REPLACE_MEJosephine,Oregon",
+    "date": "08/18/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.055569851154810834], ["weekly", 0.0281014706065791], ["biweekly", 0.019200970581957005], ["triweekly", 0.024325029703142403]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.144215712048647], ["weekly", 4.082239157164574], ["biweekly", 2.6942778437286194], ["triweekly", 3.0480719040162154]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 169.16799067289998], ["weekly", 152.67574447795508], ["biweekly", 140.18409265703147], ["triweekly", 131.17595158355502]],
+      "Daily Growth Rate": [["daily", 8.0], ["weekly", 1.2539682539682542], ["biweekly", 1.022729849449833], ["triweekly", 0.7822718856325168]],
+      "Confirmed Cumulative Cases": [["daily", 148.0], ["weekly", 133.57142857142858], ["biweekly", 122.64285714285714], ["triweekly", 114.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 3.5714285714285716], ["biweekly", 2.357142857142857], ["triweekly", 2.6666666666666665]],
+      "Confirmed Fatality Rate": [["daily", 0.013513513513513514], ["weekly", 0.015001641016165265], ["biweekly", 0.015791657256788553], ["triweekly", 0.013913264294198638]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016129032258064516], ["weekly", 0.01791678698205803], ["biweekly", 0.018264531723993397], ["triweekly", 0.01636872939836449]]
     },
     "lat": "REPLACE_MEJosephine,Oregon"
   }]
