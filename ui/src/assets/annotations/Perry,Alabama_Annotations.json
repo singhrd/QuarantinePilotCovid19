@@ -3149,5 +3149,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008421052631578947], ["weekly", 0.008587923868193188], ["biweekly", 0.008874106182912083], ["triweekly", 0.008771549738162496]]
     },
     "lat": "REPLACE_MEPerry,Alabama"
+  }, {
+    "locale": "Perry,Alabama",
+    "long": "REPLACE_MEPerry,Alabama",
+    "date": "08/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002022245380767451], ["weekly", 0.005602959021897368], ["biweekly", 0.0055608661638369816], ["triweekly", 0.007954956412531739]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.20699316373417], ["weekly", 30.41898144442132], ["biweekly", 29.618481932726016], ["triweekly", 40.5586419258951]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5547.461616048414], ["weekly", 5443.396679528026], ["biweekly", 5346.536238612893], ["triweekly", 5217.655817229951]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 1.3071185591801513], ["biweekly", 1.6011783272091231], ["triweekly", 1.6767114773986744]],
+      "Confirmed Cumulative Cases": [["daily", 495.0], ["weekly", 485.7142857142857], ["biweekly", 477.07142857142856], ["triweekly", 465.57142857142856]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.7142857142857144], ["biweekly", 2.642857142857143], ["triweekly", 3.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.00808080808080808], ["weekly", 0.008236510272403564], ["biweekly", 0.008388525456142637], ["triweekly", 0.008168393191249932]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008385744234800839], ["weekly", 0.00854054063988171], ["biweekly", 0.008792082942994104], ["triweekly", 0.008763219456871876]]
+    },
+    "lat": "REPLACE_MEPerry,Alabama"
+  }, {
+    "locale": "Perry,Alabama",
+    "long": "REPLACE_MEPerry,Alabama",
+    "date": "08/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.002022245380767451], ["weekly", 0.005291610240049823], ["biweekly", 0.005549184175321782], ["triweekly", 0.007372586063653932]],
+      "Confirmed Daily Cases per 100k": [["daily", -11.20699316373417], ["weekly", 28.817982421030727], ["biweekly", 29.61848193272602], ["triweekly", 37.89031022024411]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5536.2546228846795], ["weekly", 5472.214661949055], ["biweekly", 5376.15472054562], ["triweekly", 5255.546127450195]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.238095238095238], ["biweekly", 1.6107021367329328], ["triweekly", 1.6640130647002622]],
+      "Confirmed Cumulative Cases": [["daily", 494.0], ["weekly", 488.2857142857143], ["biweekly", 479.7142857142857], ["triweekly", 468.95238095238096]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 2.5714285714285716], ["biweekly", 2.642857142857143], ["triweekly", 3.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.008097165991902834], ["weekly", 0.008192947964690315], ["biweekly", 0.008341895715189753], ["triweekly", 0.00821626635233064]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008350730688935281], ["weekly", 0.00849084346568919], ["biweekly", 0.008717210226611956], ["triweekly", 0.008767907619591939]]
+    },
+    "lat": "REPLACE_MEPerry,Alabama"
   }]
 }

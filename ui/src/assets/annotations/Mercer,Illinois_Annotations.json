@@ -3149,5 +3149,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.054171006932362376], ["biweekly", 0.055209463672974524], ["triweekly", 0.03680630911531635]]
     },
     "lat": "REPLACE_MEMercer,Illinois"
+  }, {
+    "locale": "Mercer,Illinois",
+    "long": "REPLACE_MEMercer,Illinois",
+    "date": "08/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012121360532344916], ["weekly", 0.010855129568274613], ["biweekly", 0.008304271865418742], ["triweekly", 0.024518997578744137]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.477942605428516], ["weekly", 5.552522233224442], ["biweekly", 4.164391674918332], ["triweekly", 10.179624094244812]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 537.6692362505668], ["weekly", 508.98120471224047], ["biweekly", 495.0998991291794], ["triweekly", 469.49660216486666]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7514172928421248], ["biweekly", 0.5185657892782053], ["triweekly", 0.8852726917784317]],
+      "Confirmed Cumulative Cases": [["daily", 83.0], ["weekly", 78.57142857142857], ["biweekly", 76.42857142857143], ["triweekly", 72.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.8571428571428571], ["biweekly", 0.6428571428571429], ["triweekly", 1.5714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.04819277108433735], ["weekly", 0.05094369276745563], ["biweekly", 0.049467433277656465], ["triweekly", 0.034935236014197596]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05194805194805195], ["weekly", 0.05386201527513712], ["biweekly", 0.05459568432664953], ["triweekly", 0.03931257477947675]]
+    },
+    "lat": "REPLACE_MEMercer,Illinois"
+  }, {
+    "locale": "Mercer,Illinois",
+    "long": "REPLACE_MEMercer,Illinois",
+    "date": "08/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.010719312277559163], ["biweekly", 0.009170083332014809], ["triweekly", 0.02226651853405575]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 5.552522233224442], ["biweekly", 4.6271018610203685], ["triweekly", 9.562677179442096]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 537.6692362505668], ["weekly", 514.533726945465], ["biweekly", 499.72700099019966], ["triweekly", 479.0592793443089]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7514172928421248], ["biweekly", 0.5899943607067767], ["triweekly", 0.7900345965403365]],
+      "Confirmed Cumulative Cases": [["daily", 83.0], ["weekly", 79.42857142857143], ["biweekly", 77.14285714285714], ["triweekly", 73.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.8571428571428571], ["biweekly", 0.7142857142857143], ["triweekly", 1.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.04819277108433735], ["weekly", 0.050407224072639256], ["biweekly", 0.04997435332575493], ["triweekly", 0.03723012987535652]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05194805194805195], ["weekly", 0.0534553769037238], ["biweekly", 0.05418538034491698], ["triweekly", 0.0417862915389078]]
+    },
+    "lat": "REPLACE_MEMercer,Illinois"
   }]
 }

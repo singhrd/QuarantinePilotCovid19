@@ -3149,5 +3149,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07142857142857142], ["weekly", 0.06704391216837703], ["biweekly", 0.05987614707071713], ["triweekly", 0.04934430426783144]]
     },
     "lat": "REPLACE_MEGrant,Minnesota"
+  }, {
+    "locale": "Grant,Minnesota",
+    "long": "REPLACE_MEGrant,Minnesota",
+    "date": "08/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.03571808260207909], ["weekly", 0.002528511014200089], ["biweekly", 0.007944688222158896], ["triweekly", 0.015689485768106776]],
+      "Confirmed Daily Cases per 100k": [["daily", -33.48961821835231], ["weekly", 2.3921155870251654], ["biweekly", 7.176346761075496], ["triweekly", 12.757949797467548]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 920.9645010046885], ["weekly", 949.6698880489905], ["biweekly", 925.7487321787388], ["triweekly", 878.7037923005773]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.24387239731236393], ["triweekly", 0.3997582716987579]],
+      "Confirmed Cumulative Cases": [["daily", 55.0], ["weekly", 56.714285714285715], ["biweekly", 55.285714285714285], ["triweekly", 52.476190476190474]],
+      "Confirmed Daily Cases": [["daily", -2.0], ["weekly", 0.14285714285714285], ["biweekly", 0.42857142857142855], ["triweekly", 0.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.07272727272727272], ["weekly", 0.06543143573218761], ["biweekly", 0.05784564185046522], ["triweekly", 0.0457050880150356]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07142857142857142], ["weekly", 0.06884463245649229], ["biweekly", 0.06323602760829801], ["triweekly", 0.05130266336904769]]
+    },
+    "lat": "REPLACE_MEGrant,Minnesota"
+  }, {
+    "locale": "Grant,Minnesota",
+    "long": "REPLACE_MEGrant,Minnesota",
+    "date": "08/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", -0.002574072214668353], ["biweekly", 0.004006390475074546], ["triweekly", 0.011720622358995656]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", -2.3921155870251654], ["biweekly", 3.588173380537748], ["triweekly", 9.568462348100658]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 920.9645010046885], ["weekly", 947.2777724619655], ["biweekly", 929.3369055592765], ["triweekly", 888.272254648678]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.2081581115980782], ["triweekly", 0.3608774821307709]],
+      "Confirmed Cumulative Cases": [["daily", 55.0], ["weekly", 56.57142857142857], ["biweekly", 55.5], ["triweekly", 53.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", -0.14285714285714285], ["biweekly", 0.21428571428571427], ["triweekly", 0.5714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.07272727272727272], ["weekly", 0.06816798489730821], ["biweekly", 0.06166682067164404], ["triweekly", 0.048060871766168176]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07142857142857142], ["weekly", 0.0708069558473871], ["biweekly", 0.06667693885651824], ["triweekly", 0.05326102247026393]]
+    },
+    "lat": "REPLACE_MEGrant,Minnesota"
   }]
 }
