@@ -3169,14 +3169,44 @@
     "long": "REPLACE_MESan Mateo,California",
     "date": "08/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.008297673943301831], ["weekly", 0.016224940512616977], ["biweekly", 0.017154052748180097], ["triweekly", 0.015328984521378939]],
-      "Confirmed Daily Cases per 100k": [["daily", 7.957493937302775], ["weekly", 14.647752306135787], ["biweekly", 14.563891128810582], ["triweekly", 12.51705720816947]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 962.9872171339194], ["weekly", 914.0122895759997], ["biweekly", 861.1517941353458], ["triweekly", 817.2364909427134]],
-      "Daily Growth Rate": [["daily", 0.6559139784946236], ["weekly", 0.887873620853879], ["biweekly", 1.4718147932589412], ["triweekly", 1.2054792900369644]],
-      "Confirmed Cumulative Cases": [["daily", 7382.0], ["weekly", 7006.571428571428], ["biweekly", 6601.357142857143], ["triweekly", 6264.714285714285]],
-      "Confirmed Daily Cases": [["daily", 61.0], ["weekly", 112.28571428571429], ["biweekly", 111.64285714285714], ["triweekly", 95.95238095238095]],
-      "Confirmed Fatality Rate": [["daily", 0.017204009753454347], ["weekly", 0.017954798521193128], ["biweekly", 0.018717127738325227], ["triweekly", 0.01958379113314638]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019126506024096386], ["weekly", 0.0203079479792529], ["biweekly", 0.020940075978323435], ["triweekly", 0.021792171906419366]]
+      "Spread Rate": [["daily", 0.020415770262037114], ["weekly", 0.016224940512616977], ["biweekly", 0.017154052748180097], ["triweekly", 0.015328984521378939]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.698058762831458], ["weekly", 14.647752306135787], ["biweekly", 14.563891128810582], ["triweekly", 12.51705720816947]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 974.7277819594481], ["weekly", 914.0122895759997], ["biweekly", 861.1517941353458], ["triweekly", 817.2364909427134]],
+      "Daily Growth Rate": [["daily", 1.6236559139784945], ["weekly", 0.887873620853879], ["biweekly", 1.4718147932589412], ["triweekly", 1.2054792900369644]],
+      "Confirmed Cumulative Cases": [["daily", 7472.0], ["weekly", 7006.571428571428], ["biweekly", 6601.357142857143], ["triweekly", 6264.714285714285]],
+      "Confirmed Daily Cases": [["daily", 151.0], ["weekly", 112.28571428571429], ["biweekly", 111.64285714285714], ["triweekly", 95.95238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.017130620985010708], ["weekly", 0.017954798521193128], ["biweekly", 0.018717127738325227], ["triweekly", 0.01958379113314638]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01927710843373494], ["weekly", 0.0203079479792529], ["biweekly", 0.020940075978323435], ["triweekly", 0.021792171906419366]]
+    },
+    "lat": "REPLACE_MESan Mateo,California"
+  }, {
+    "locale": "San Mateo,California",
+    "long": "REPLACE_MESan Mateo,California",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.016864391062599942], ["biweekly", 0.016981209884785083], ["triweekly", 0.01548258030146328]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 15.504999896571215], ["biweekly", 14.731613483460992], ["triweekly", 12.883561612775923]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 974.7277819594481], ["weekly", 929.5172894725711], ["biweekly", 875.8834076188066], ["triweekly", 830.1200525554893]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9755936964771804], ["biweekly", 0.9092187871145476], ["triweekly", 1.2422318644239474]],
+      "Confirmed Cumulative Cases": [["daily", 7472.0], ["weekly", 7125.428571428572], ["biweekly", 6714.285714285715], ["triweekly", 6363.476190476191]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 118.85714285714286], ["biweekly", 112.92857142857143], ["triweekly", 98.76190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.017130620985010708], ["weekly", 0.017777245236779853], ["biweekly", 0.018485739521707845], ["triweekly", 0.019358585078673718]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0188152285756284], ["weekly", 0.020103312476746238], ["biweekly", 0.020729122600422912], ["triweekly", 0.021559863817505735]]
+    },
+    "lat": "REPLACE_MESan Mateo,California"
+  }, {
+    "locale": "San Mateo,California",
+    "long": "REPLACE_MESan Mateo,California",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008396131151917174], ["weekly", 0.013399858509088298], ["biweekly", 0.01593404550462831], ["triweekly", 0.01486032936009081]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.21839537787008], ["weekly", 12.467361695680458], ["biweekly", 13.92095543598401], ["triweekly", 12.442513939435955]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 982.9461773373182], ["weekly", 941.9846511682515], ["biweekly", 889.8043630547905], ["triweekly", 842.5625664949254]],
+      "Daily Growth Rate": [["daily", 0.6459245645169083], ["weekly", 0.7538249889941872], ["biweekly", 0.8624948343755572], ["triweekly", 1.205482382022291]],
+      "Confirmed Cumulative Cases": [["daily", 7535.0], ["weekly", 7221.0], ["biweekly", 6821.0], ["triweekly", 6458.857142857143]],
+      "Confirmed Daily Cases": [["daily", 63.0], ["weekly", 95.57142857142857], ["biweekly", 106.71428571428571], ["triweekly", 95.38095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.01698739216987392], ["weekly", 0.017578585287619356], ["biweekly", 0.018275526505510287], ["triweekly", 0.01913818582545448]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018411967779056387], ["weekly", 0.019780161791498104], ["biweekly", 0.02050579220677706], ["triweekly", 0.021312662534561846]]
     },
     "lat": "REPLACE_MESan Mateo,California"
   }]

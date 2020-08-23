@@ -3169,14 +3169,44 @@
     "long": "REPLACE_MEMichigan",
     "date": "08/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.005081326333645109], ["weekly", 0.007613908035950142], ["biweekly", 0.007348183879402345], ["triweekly", 0.007510452549231941]],
-      "Confirmed Daily Cases per 100k": [["daily", 5.315315315315315], ["weekly", 7.736307736307737], ["biweekly", 7.285857285857285], ["triweekly", 7.249630582963916]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1048.7087087087086], ["weekly", 1023.2575432575431], ["biweekly", 996.5937365937365], ["triweekly", 971.2865246198581]],
-      "Daily Growth Rate": [["daily", 0.75], ["weekly", 1.1814723281757629], ["biweekly", 1.0791739614425757], ["triweekly", 1.0531179786038254]],
-      "Confirmed Cumulative Cases": [["daily", 104766.0], ["weekly", 102223.42857142857], ["biweekly", 99559.71428571429], ["triweekly", 97031.52380952382]],
-      "Confirmed Daily Cases": [["daily", 531.0], ["weekly", 772.8571428571429], ["biweekly", 727.8571428571429], ["triweekly", 724.2380952380952]],
-      "Confirmed Fatality Rate": [["daily", 0.06334116030009736], ["weekly", 0.06446048302921743], ["biweekly", 0.06590833832660943], ["triweekly", 0.06736720480806287]],
+      "Spread Rate": [["daily", 0.005129050601921037], ["weekly", 0.007613908035950142], ["biweekly", 0.007348183879402345], ["triweekly", 0.007510452549231941]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.365365365365365], ["weekly", 7.736307736307737], ["biweekly", 7.285857285857285], ["triweekly", 7.249630582963916]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1048.7587587587586], ["weekly", 1023.2575432575431], ["biweekly", 996.5937365937365], ["triweekly", 971.2865246198581]],
+      "Daily Growth Rate": [["daily", 0.7570621468926554], ["weekly", 1.1814723281757629], ["biweekly", 1.0791739614425757], ["triweekly", 1.0531179786038254]],
+      "Confirmed Cumulative Cases": [["daily", 104771.0], ["weekly", 102223.42857142857], ["biweekly", 99559.71428571429], ["triweekly", 97031.52380952382]],
+      "Confirmed Daily Cases": [["daily", 536.0], ["weekly", 772.8571428571429], ["biweekly", 727.8571428571429], ["triweekly", 724.2380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.06333813746170219], ["weekly", 0.06446048302921743], ["biweekly", 0.06590833832660943], ["triweekly", 0.06736720480806287]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06638456228804658], ["weekly", 0.06800492284667789], ["biweekly", 0.06948300474602773], ["triweekly", 0.07118926892499673]]
+    },
+    "lat": "REPLACE_MEMichigan"
+  }, {
+    "locale": "Michigan",
+    "long": "REPLACE_MEMichigan",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0005534351286300421], ["weekly", 0.006710985502159872], ["biweekly", 0.007129086065443602], ["triweekly", 0.007275709816112939]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.5805805805805806], ["weekly", 6.875446875446875], ["biweekly", 7.115687115687114], ["triweekly", 7.076123742790409]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1049.3393393393392], ["weekly", 1030.13299013299], ["biweekly", 1003.7094237094236], ["triweekly", 978.3626483626484]],
+      "Daily Growth Rate": [["daily", 0.10820895522388059], ["weekly", 0.9392546053180635], ["biweekly", 1.0597315919956987], ["triweekly", 1.0463542284986707]],
+      "Confirmed Cumulative Cases": [["daily", 104829.0], ["weekly", 102910.28571428571], ["biweekly", 100270.57142857143], ["triweekly", 97738.42857142857]],
+      "Confirmed Daily Cases": [["daily", 58.0], ["weekly", 686.8571428571429], ["biweekly", 710.8571428571429], ["triweekly", 706.9047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.06331263295462133], ["weekly", 0.0641396074982483], ["biweekly", 0.06552991722654444], ["triweekly", 0.06696991801743238]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06583476337377124], ["weekly", 0.06761096595676927], ["biweekly", 0.06905542949233887], ["triweekly", 0.07072151639718416]]
+    },
+    "lat": "REPLACE_MEMichigan"
+  }, {
+    "locale": "Michigan",
+    "long": "REPLACE_MEMichigan",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012437947709164732], ["weekly", 0.005580447941343587], ["biweekly", 0.006558782791646678], ["triweekly", 0.006866663795016389]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.133133133133132], ["weekly", 5.742885742885742], ["biweekly", 6.575861575861575], ["triweekly", 6.7100433767100425]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1062.4724724724724], ["weekly", 1035.8758758758756], ["biweekly", 1010.2852852852851], ["triweekly", 985.0726917393583]],
+      "Daily Growth Rate": [["daily", 22.620689655172413], ["weekly", 0.8480095376611185], ["biweekly", 0.9924331175903169], ["triweekly", 1.0078033321865802]],
+      "Confirmed Cumulative Cases": [["daily", 106141.0], ["weekly", 103484.0], ["biweekly", 100927.5], ["triweekly", 98408.76190476191]],
+      "Confirmed Daily Cases": [["daily", 1312.0], ["weekly", 573.7142857142857], ["biweekly", 656.9285714285714], ["triweekly", 670.3333333333334]],
+      "Confirmed Fatality Rate": [["daily", 0.0627184594077689], ["weekly", 0.06387849670904204], ["biweekly", 0.0651771615102244], ["triweekly", 0.0665988114464623]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06537302000373167], ["weekly", 0.06720600600755995], ["biweekly", 0.06862067830676602], ["triweekly", 0.07025147316833893]]
     },
     "lat": "REPLACE_MEMichigan"
   }]

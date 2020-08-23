@@ -3179,5 +3179,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005434782608695652], ["weekly", 0.005547811922340182], ["biweekly", 0.005794790403088243], ["triweekly", 0.006337339135121608]]
     },
     "lat": "REPLACE_MELake,Montana"
+  }, {
+    "locale": "Lake,Montana",
+    "long": "REPLACE_MELake,Montana",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010416760858255714], ["weekly", 0.005333952919663432], ["biweekly", 0.0058421023577484655], ["triweekly", 0.008433314895847775]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.566419331538512], ["weekly", 3.283209665769256], ["biweekly", 3.5177246418956316], ["triweekly", 4.846642839945092]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 633.6594654934664], ["weekly", 617.2434171646202], ["biweekly", 606.4557282628068], ["triweekly", 588.007216807532]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.47369000500624386], ["biweekly", 0.5637985931595239], ["triweekly", 0.8273369610428704]],
+      "Confirmed Cumulative Cases": [["daily", 193.0], ["weekly", 188.0], ["biweekly", 184.71428571428572], ["triweekly", 179.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.0], ["biweekly", 1.0714285714285714], ["triweekly", 1.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.0051813471502590676], ["weekly", 0.005319967548120817], ["biweekly", 0.005416244337150318], ["triweekly", 0.005597696242322703]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005434782608695652], ["weekly", 0.005512521126179819], ["biweekly", 0.005736560589423646], ["triweekly", 0.006185629275765571]]
+    },
+    "lat": "REPLACE_MELake,Montana"
+  }, {
+    "locale": "Lake,Montana",
+    "long": "REPLACE_MELake,Montana",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.0051948168771041026], ["weekly", 0.006822061613699962], ["biweekly", 0.005378884504580762], ["triweekly", 0.007464034047824063]],
+      "Confirmed Daily Cases per 100k": [["daily", -3.283209665769256], ["weekly", 4.221269570274758], ["biweekly", 3.283209665769256], ["triweekly", 4.377612887692341]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 630.3762558276972], ["weekly", 621.4646867348948], ["biweekly", 609.7389379285761], ["triweekly", 592.3848296952244]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6165471478633867], ["biweekly", 0.5995128788738094], ["triweekly", 0.8464981846301468]],
+      "Confirmed Cumulative Cases": [["daily", 192.0], ["weekly", 189.28571428571428], ["biweekly", 185.71428571428572], ["triweekly", 180.42857142857142]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 1.2857142857142858], ["biweekly", 1.0], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.005208333333333333], ["weekly", 0.005283762482629876], ["biweekly", 0.005387298263685184], ["triweekly", 0.005555826770401417]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0053475935828877], ["weekly", 0.005490834044740491], ["biweekly", 0.005691858914287188], ["triweekly", 0.006037428040607814]]
+    },
+    "lat": "REPLACE_MELake,Montana"
   }]
 }

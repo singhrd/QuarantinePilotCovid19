@@ -3169,14 +3169,44 @@
     "long": "REPLACE_MESanta Cruz,California",
     "date": "08/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.014767523585665465], ["weekly", 0.019155138934922458], ["biweekly", 0.01797743671801528], ["triweekly", 0.01933867371065167]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.418340269313685], ["weekly", 10.143838585384191], ["biweekly", 8.99350637467052], ["triweekly", 8.99350637467052]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 574.2772122849206], ["weekly", 530.4077247945219], ["biweekly", 495.5840315065535], ["triweekly", 470.88674752804934]],
-      "Daily Growth Rate": [["daily", 0.5609756097560976], ["weekly", 5.77749387911568], ["biweekly", 3.5008983243684306], ["triweekly", 2.57960901558446]],
-      "Confirmed Cumulative Cases": [["daily", 1569.0], ["weekly", 1449.142857142857], ["biweekly", 1354.0], ["triweekly", 1286.5238095238096]],
-      "Confirmed Daily Cases": [["daily", 23.0], ["weekly", 27.714285714285715], ["biweekly", 24.571428571428573], ["triweekly", 24.571428571428573]],
-      "Confirmed Fatality Rate": [["daily", 0.004461440407903123], ["weekly", 0.004631013357132336], ["biweekly", 0.004467338535600932], ["triweekly", 0.004137634399804402]],
+      "Spread Rate": [["daily", 0.03745280641674942], ["weekly", 0.019155138934922458], ["biweekly", 0.01797743671801528], ["triweekly", 0.01933867371065167]],
+      "Confirmed Daily Cases per 100k": [["daily", 21.594872864761193], ["weekly", 10.143838585384191], ["biweekly", 8.99350637467052], ["triweekly", 8.99350637467052]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 587.453744880368], ["weekly", 530.4077247945219], ["biweekly", 495.5840315065535], ["triweekly", 470.88674752804934]],
+      "Daily Growth Rate": [["daily", 1.4390243902439024], ["weekly", 5.77749387911568], ["biweekly", 3.5008983243684306], ["triweekly", 2.57960901558446]],
+      "Confirmed Cumulative Cases": [["daily", 1605.0], ["weekly", 1449.142857142857], ["biweekly", 1354.0], ["triweekly", 1286.5238095238096]],
+      "Confirmed Daily Cases": [["daily", 59.0], ["weekly", 27.714285714285715], ["biweekly", 24.571428571428573], ["triweekly", 24.571428571428573]],
+      "Confirmed Fatality Rate": [["daily", 0.004361370716510903], ["weekly", 0.004631013357132336], ["biweekly", 0.004467338535600932], ["triweekly", 0.004137634399804402]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005065123010130246], ["weekly", 0.005332954706118928], ["biweekly", 0.0050135639085144516], ["triweekly", 0.004755629262294724]]
+    },
+    "lat": "REPLACE_MESanta Cruz,California"
+  }, {
+    "locale": "Santa Cruz,California",
+    "long": "REPLACE_MESanta Cruz,California",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.021370290176642954], ["biweekly", 0.020001937615719], ["triweekly", 0.01904158546868507]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 11.66018559041585], ["biweekly", 10.248414240903616], ["triweekly", 9.220086961629274]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 587.453744880368], ["weekly", 542.0679103849377], ["biweekly", 505.8324457474572], ["triweekly", 480.1068344896786]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 5.9171347260735985], ["biweekly", 3.4727333998620424], ["triweekly", 2.6005149389294075]],
+      "Confirmed Cumulative Cases": [["daily", 1605.0], ["weekly", 1481.0], ["biweekly", 1382.0], ["triweekly", 1311.7142857142858]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 31.857142857142858], ["biweekly", 28.0], ["triweekly", 25.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.004361370716510903], ["weekly", 0.0046338471725363125], ["biweekly", 0.004543321498687007], ["triweekly", 0.00416829623778306]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005061460592913955], ["weekly", 0.005349913157571996], ["biweekly", 0.005109824686455248], ["triweekly", 0.004779882326775381]]
+    },
+    "lat": "REPLACE_MESanta Cruz,California"
+  }, {
+    "locale": "Santa Cruz,California",
+    "long": "REPLACE_MESanta Cruz,California",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007448824012990407], ["weekly", 0.021266957699908242], ["biweekly", 0.019065923285577276], ["triweekly", 0.017603097533988043]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.392177531815836], ["weekly", 11.607897762656137], ["biweekly", 9.830111618825915], ["triweekly", 8.644920856272439]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 591.8459224121839], ["weekly", 553.6758081475939], ["biweekly", 515.6625573662831], ["triweekly", 488.751755345951]],
+      "Daily Growth Rate": [["daily", 0.4509876168016973], ["weekly", 5.912372821311694], ["biweekly", 3.3688372959659385], ["triweekly", 2.566353448246178]],
+      "Confirmed Cumulative Cases": [["daily", 1617.0], ["weekly", 1512.7142857142858], ["biweekly", 1408.857142857143], ["triweekly", 1335.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 31.714285714285715], ["biweekly", 26.857142857142858], ["triweekly", 23.61904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.004329004329004329], ["weekly", 0.004637129447191263], ["biweekly", 0.004622370935545772], ["triweekly", 0.004204225651867417]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004929577464788733], ["weekly", 0.0053755478278836605], ["biweekly", 0.005213725227324858], ["triweekly", 0.004807126268215516]]
     },
     "lat": "REPLACE_MESanta Cruz,California"
   }]

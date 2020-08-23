@@ -3169,14 +3169,44 @@
     "long": "REPLACE_MEGregg,Texas",
     "date": "08/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.012565172018814177], ["biweekly", 0.016882309209863906], ["triweekly", 0.016001663560316393]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 17.749808382750413], ["biweekly", 22.18726047843802], ["triweekly", 20.05497830258813]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1475.654524184114], ["weekly", 1416.065881756309], ["biweekly", 1339.476611169701], ["triweekly", 1268.496587388031]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.147338561324976], ["biweekly", 1.0134441926980413], ["triweekly", 0.8927870916390648]],
-      "Confirmed Cumulative Cases": [["daily", 1829.0], ["weekly", 1755.142857142857], ["biweekly", 1660.2142857142858], ["triweekly", 1572.2380952380952]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 22.0], ["biweekly", 27.5], ["triweekly", 24.857142857142858]],
-      "Confirmed Fatality Rate": [["daily", 0.02077638053581192], ["weekly", 0.01855786240849921], ["biweekly", 0.01780281399152159], ["triweekly", 0.017223295988698355]],
+      "Spread Rate": [["daily", 0.011416269681504332], ["weekly", 0.012565172018814177], ["biweekly", 0.016882309209863906], ["triweekly", 0.016001663560316393]],
+      "Confirmed Daily Cases per 100k": [["daily", 16.942998910807212], ["weekly", 17.749808382750413], ["biweekly", 22.18726047843802], ["triweekly", 20.05497830258813]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1492.5975230949211], ["weekly", 1416.065881756309], ["biweekly", 1339.476611169701], ["triweekly", 1268.496587388031]],
+      "Daily Growth Rate": [["daily", 1.1666666666666667], ["weekly", 1.147338561324976], ["biweekly", 1.0134441926980413], ["triweekly", 0.8927870916390648]],
+      "Confirmed Cumulative Cases": [["daily", 1850.0], ["weekly", 1755.142857142857], ["biweekly", 1660.2142857142858], ["triweekly", 1572.2380952380952]],
+      "Confirmed Daily Cases": [["daily", 21.0], ["weekly", 22.0], ["biweekly", 27.5], ["triweekly", 24.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.02054054054054054], ["weekly", 0.01855786240849921], ["biweekly", 0.01780281399152159], ["triweekly", 0.017223295988698355]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022498519834221433], ["weekly", 0.020846295895545233], ["biweekly", 0.019978742682195547], ["triweekly", 0.019317931198369085]]
+    },
+    "lat": "REPLACE_MEGregg,Texas"
+  }, {
+    "locale": "Gregg,Texas",
+    "long": "REPLACE_MEGregg,Texas",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008075414005545234], ["weekly", 0.013007000180652943], ["biweekly", 0.01700857182169762], ["triweekly", 0.015180553620782416]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.10214207914801], ["weekly", 18.556617854693616], ["biweekly", 22.59066521440962], ["triweekly", 19.401846825300776]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1504.6996651740692], ["weekly", 1434.6224996110027], ["biweekly", 1362.0672763841105], ["triweekly", 1287.898434213332]],
+      "Daily Growth Rate": [["daily", 0.7142857142857143], ["weekly", 1.189005227991643], ["biweekly", 1.013444192698041], ["triweekly", 0.8827043198037143]],
+      "Confirmed Cumulative Cases": [["daily", 1865.0], ["weekly", 1778.142857142857], ["biweekly", 1688.2142857142858], ["triweekly", 1596.2857142857142]],
+      "Confirmed Daily Cases": [["daily", 15.0], ["weekly", 23.0], ["biweekly", 28.0], ["triweekly", 24.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.023056300268096516], ["weekly", 0.01887021739225739], ["biweekly", 0.01809421650514633], ["triweekly", 0.017422518046656475]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02545885139135583], ["weekly", 0.02102294119422197], ["biweekly", 0.020311217943853956], ["triweekly", 0.019521336470784176]]
+    },
+    "lat": "REPLACE_MEGregg,Texas"
+  }, {
+    "locale": "Gregg,Texas",
+    "long": "REPLACE_MEGregg,Texas",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.014160630752873691], ["biweekly", 0.015461678553845408], ["triweekly", 0.014307294222315385]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 20.285495294571906], ["biweekly", 20.919417022527274], ["triweekly", 18.595037353357576]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1504.6996651740692], ["weekly", 1454.9079949055745], ["biweekly", 1382.9866934066379], ["triweekly", 1306.4934715666893]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2910460443181735], ["biweekly", 0.8399748049429391], ["triweekly", 0.8716051432910041]],
+      "Confirmed Cumulative Cases": [["daily", 1865.0], ["weekly", 1803.2857142857142], ["biweekly", 1714.142857142857], ["triweekly", 1619.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 25.142857142857142], ["biweekly", 25.928571428571427], ["triweekly", 23.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.023056300268096516], ["weekly", 0.01954196662280928], ["biweekly", 0.01855220409325176], ["triweekly", 0.017761842575818965]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02475532527345999], ["weekly", 0.02171147027828289], ["biweekly", 0.02083664846891149], ["triweekly", 0.01986570991258662]]
     },
     "lat": "REPLACE_MEGregg,Texas"
   }]

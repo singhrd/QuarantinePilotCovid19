@@ -3391,5 +3391,37 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEWorcester,Maryland",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.26138,
+    "source": "NYGithub",
+    "confirmedPer100kN": -3.825847425204683,
+    "deaths": -1,
+    "confirmed": -2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": -3.825847425204683,
+    "locale": "Worcester,Maryland",
+    "activePer100k": 0.0,
+    "long": "REPLACE_MEWorcester,Maryland",
+    "date": "08/21/2020",
+    "deathsPer100k": -1.9129237126023415,
+    "lat": "REPLACE_MEWorcester,Maryland",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 0.26138,
+    "source": "NYGithub",
+    "confirmedPer100kN": 26.78093197643278,
+    "deaths": 1,
+    "confirmed": 14,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 26.78093197643278,
+    "locale": "Worcester,Maryland",
+    "activePer100k": 24.86800826383044,
+    "long": "REPLACE_MEWorcester,Maryland",
+    "date": "08/22/2020",
+    "deathsPer100k": 1.9129237126023415,
+    "lat": "REPLACE_MEWorcester,Maryland",
+    "active": 13
   }]
 }

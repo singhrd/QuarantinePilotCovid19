@@ -3169,14 +3169,44 @@
     "long": "REPLACE_MEComal,Texas",
     "date": "08/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.004927852281240597], ["weekly", 0.014749372107600094], ["biweekly", 0.015317730444846094], ["triweekly", 0.014251224733601213]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.962351721091615], ["weekly", 25.423814065953763], ["biweekly", 25.012277507332215], ["triweekly", 22.344910923673996]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1823.1984072620655], ["weekly", 1730.5569552879247], ["biweekly", 1636.2236307950063], ["triweekly", 1556.0959386219133]],
-      "Daily Growth Rate": [["daily", 0.22580645161290322], ["weekly", 0.9701623643159915], ["biweekly", 0.8590057950713295], ["triweekly", 0.7923224243390531]],
-      "Confirmed Cumulative Cases": [["daily", 2848.0], ["weekly", 2703.285714285714], ["biweekly", 2555.9285714285716], ["triweekly", 2430.7619047619046]],
-      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 39.714285714285715], ["biweekly", 39.07142857142857], ["triweekly", 34.904761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.03195224719101124], ["weekly", 0.02990728371092899], ["biweekly", 0.029370438301464564], ["triweekly", 0.029053954633647766]],
+      "Spread Rate": [["daily", 0.008082981980146897], ["weekly", 0.014749372107600094], ["biweekly", 0.015317730444846094], ["triweekly", 0.014251224733601213]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.723863541793367], ["weekly", 25.423814065953763], ["biweekly", 25.012277507332215], ["triweekly", 22.344910923673996]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1828.9599190827673], ["weekly", 1730.5569552879247], ["biweekly", 1636.2236307950063], ["triweekly", 1556.0959386219133]],
+      "Daily Growth Rate": [["daily", 0.3709677419354839], ["weekly", 0.9701623643159915], ["biweekly", 0.8590057950713295], ["triweekly", 0.7923224243390531]],
+      "Confirmed Cumulative Cases": [["daily", 2857.0], ["weekly", 2703.285714285714], ["biweekly", 2555.9285714285716], ["triweekly", 2430.7619047619046]],
+      "Confirmed Daily Cases": [["daily", 23.0], ["weekly", 39.714285714285715], ["biweekly", 39.07142857142857], ["triweekly", 34.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.03185159257962898], ["weekly", 0.02990728371092899], ["biweekly", 0.029370438301464564], ["triweekly", 0.029053954633647766]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.035367275553828216], ["weekly", 0.03356554665458458], ["biweekly", 0.032704818283619735], ["triweekly", 0.03230572248396372]]
+    },
+    "lat": "REPLACE_MEComal,Texas"
+  }, {
+    "locale": "Comal,Texas",
+    "long": "REPLACE_MEComal,Texas",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.014957084278432628], ["biweekly", 0.015087624285666694], ["triweekly", 0.013983340167966783]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 25.97252947744917], ["biweekly", 24.87509865445836], ["triweekly", 22.162005786508864]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1828.9599190827673], ["weekly", 1756.5294847653738], ["biweekly", 1661.0987294494648], ["triweekly", 1578.257944408422]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9935410312823846], ["biweekly", 0.8523402256177415], ["triweekly", 0.7786022735221281]],
+      "Confirmed Cumulative Cases": [["daily", 2857.0], ["weekly", 2743.8571428571427], ["biweekly", 2594.785714285714], ["triweekly", 2465.3809523809523]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 40.57142857142857], ["biweekly", 38.857142857142854], ["triweekly", 34.61904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.032201610080504026], ["weekly", 0.03018234604546818], ["biweekly", 0.029576501349969347], ["triweekly", 0.029274028235136917]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.034954407294832825], ["weekly", 0.0338622860997087], ["biweekly", 0.03298423803310511], ["triweekly", 0.03248146515747181]]
+    },
+    "lat": "REPLACE_MEComal,Texas"
+  }, {
+    "locale": "Comal,Texas",
+    "long": "REPLACE_MEComal,Texas",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00279622691806658], ["weekly", 0.011718301397937836], ["biweekly", 0.013681023058792707], ["triweekly", 0.01367137524000382]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.12134384062378], ["weekly", 20.57682793107769], ["biweekly", 22.77168957705931], ["triweekly", 21.735227133123548]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1834.081262923391], ["weekly", 1777.1063126964514], ["biweekly", 1683.8704190265241], ["triweekly", 1599.9931715415455]],
+      "Daily Growth Rate": [["daily", 0.5897678246195885], ["weekly", 0.4977427119546534], ["biweekly", 0.7259665992441152], ["triweekly", 0.7556137677750018]],
+      "Confirmed Cumulative Cases": [["daily", 2865.0], ["weekly", 2776.0], ["biweekly", 2630.3571428571427], ["triweekly", 2499.3333333333335]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 32.142857142857146], ["biweekly", 35.57142857142857], ["triweekly", 33.95238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.032460732984293195], ["weekly", 0.030440413660095113], ["biweekly", 0.029817632524798545], ["triweekly", 0.02949702601437911]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03439349112426036], ["weekly", 0.034011105018651996], ["biweekly", 0.03321552298913261], ["triweekly", 0.03265153318468269]]
     },
     "lat": "REPLACE_MEComal,Texas"
   }]

@@ -3169,14 +3169,44 @@
     "long": "REPLACE_MEVirginia",
     "date": "08/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.007884883770788775], ["weekly", 0.008779217617512611], ["biweekly", 0.009794973633188089], ["triweekly", 0.010203091100258885]],
-      "Confirmed Daily Cases per 100k": [["daily", 10.105386416861828], ["weekly", 10.869856139176985], ["biweekly", 11.68450986952158], ["triweekly", 11.724099475855915]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1286.6744730679159], ["weekly", 1247.271662763466], ["biweekly", 1207.4757443961194], ["triweekly", 1163.9561726329875]],
-      "Daily Growth Rate": [["daily", 1.1709633649932158], ["weekly", 1.0161477534218222], ["biweekly", 1.0683479434242842], ["triweekly", 1.04107762794476]],
-      "Confirmed Cumulative Cases": [["daily", 109882.0], ["weekly", 106517.0], ["biweekly", 103118.42857142857], ["triweekly", 99401.85714285714]],
-      "Confirmed Daily Cases": [["daily", 863.0], ["weekly", 928.2857142857143], ["biweekly", 997.8571428571429], ["triweekly", 1001.2380952380952]],
-      "Confirmed Fatality Rate": [["daily", 0.022087330044957318], ["weekly", 0.02238276297894901], ["biweekly", 0.022861310005727643], ["triweekly", 0.023259128115144172]],
+      "Spread Rate": [["daily", 0.008003185504046328], ["weekly", 0.008779217617512611], ["biweekly", 0.009794973633188089], ["triweekly", 0.010203091100258885]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.2576112412178], ["weekly", 10.869856139176985], ["biweekly", 11.68450986952158], ["triweekly", 11.724099475855915]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1286.8266978922718], ["weekly", 1247.271662763466], ["biweekly", 1207.4757443961194], ["triweekly", 1163.9561726329875]],
+      "Daily Growth Rate": [["daily", 1.1886024423337855], ["weekly", 1.0161477534218222], ["biweekly", 1.0683479434242842], ["triweekly", 1.04107762794476]],
+      "Confirmed Cumulative Cases": [["daily", 109895.0], ["weekly", 106517.0], ["biweekly", 103118.42857142857], ["triweekly", 99401.85714285714]],
+      "Confirmed Daily Cases": [["daily", 876.0], ["weekly", 928.2857142857143], ["biweekly", 997.8571428571429], ["triweekly", 1001.2380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.02208471723008326], ["weekly", 0.02238276297894901], ["biweekly", 0.022861310005727643], ["triweekly", 0.023259128115144172]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.023421667213526086], ["weekly", 0.023912131141083547], ["biweekly", 0.02461026942755506], ["triweekly", 0.0251152782716302]]
+    },
+    "lat": "REPLACE_MEVirginia"
+  }, {
+    "locale": "Virginia",
+    "long": "REPLACE_MEVirginia",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008742779522421529], ["weekly", 0.008396528853667817], ["biweekly", 0.009754539303217109], ["triweekly", 0.010093725170756684]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.29976580796253], ["weekly", 10.493476078956174], ["biweekly", 11.733021077283372], ["triweekly", 11.704583472733358]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1298.1264637002344], ["weekly", 1257.7651388424222], ["biweekly", 1219.2087654734028], ["triweekly", 1175.6607561057212]],
+      "Daily Growth Rate": [["daily", 1.1015981735159817], ["weekly", 0.9832603261852643], ["biweekly", 1.0800293566880117], ["triweekly", 1.0542533674886587]],
+      "Confirmed Cumulative Cases": [["daily", 110860.0], ["weekly", 107413.14285714286], ["biweekly", 104120.42857142857], ["triweekly", 100401.42857142857]],
+      "Confirmed Daily Cases": [["daily", 965.0], ["weekly", 896.1428571428571], ["biweekly", 1002.0], ["triweekly", 999.5714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.02197366047266823], ["weekly", 0.02228000290430365], ["biweekly", 0.02272585119798686], ["triweekly", 0.023164011981649364]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.023235849596520346], ["weekly", 0.023736836157645342], ["biweekly", 0.02443614894924726], ["triweekly", 0.024975596423296505]]
+    },
+    "lat": "REPLACE_MEVirginia"
+  }, {
+    "locale": "Virginia",
+    "long": "REPLACE_MEVirginia",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010873377902154147], ["weekly", 0.007978834629528768], ["biweekly", 0.00889324803160374], ["triweekly", 0.009985890146182135]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.192037470725996], ["weekly", 10.073603211776515], ["biweekly", 10.854800936768148], ["triweekly", 11.693989071038253]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1312.3185011709604], ["weekly", 1267.838742054199], ["biweekly", 1230.0635664101708], ["triweekly", 1187.3547451767595]],
+      "Daily Growth Rate": [["daily", 1.255958549222798], ["weekly", 0.9828528510381377], ["biweekly", 0.982763141698147], ["triweekly", 1.055275579399853]],
+      "Confirmed Cumulative Cases": [["daily", 112072.0], ["weekly", 108273.42857142857], ["biweekly", 105047.42857142857], ["triweekly", 101400.09523809524]],
+      "Confirmed Daily Cases": [["daily", 1212.0], ["weekly", 860.2857142857143], ["biweekly", 927.0], ["triweekly", 998.6666666666666]],
+      "Confirmed Fatality Rate": [["daily", 0.021798486687129703], ["weekly", 0.022189624847047413], ["biweekly", 0.022604586989468815], ["triweekly", 0.023058678991900852]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0231016548463357], ["weekly", 0.023597267858507607], ["biweekly", 0.024254672356576402], ["triweekly", 0.024825159406296354]]
     },
     "lat": "REPLACE_MEVirginia"
   }]

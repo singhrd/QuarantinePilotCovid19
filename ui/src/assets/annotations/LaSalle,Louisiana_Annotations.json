@@ -3179,5 +3179,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.011460900027258], ["biweekly", 0.010029026761935752], ["triweekly", 0.010179719158660963]]
     },
     "lat": "REPLACE_MELaSalle,Louisiana"
+  }, {
+    "locale": "LaSalle,Louisiana",
+    "long": "REPLACE_MELaSalle,Louisiana",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01947210341282002], ["weekly", 0.0134553164371002], ["biweekly", 0.020281696452940996], ["triweekly", 0.024458979292504998]],
+      "Confirmed Daily Cases per 100k": [["daily", 47.00510341122751], ["weekly", 30.69721039100572], ["biweekly", 42.208664287632864], ["triweekly", 45.72605297826893]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2437.550362610798], ["weekly", 2335.8658531905917], ["biweekly", 2190.5337477456737], ["triweekly", 2001.0744023636853]],
+      "Daily Growth Rate": [["daily", 1.75], ["weekly", 0.7569937114075251], ["biweekly", 0.9913778996021193], ["triweekly", 0.9889046545464647]],
+      "Confirmed Cumulative Cases": [["daily", 363.0], ["weekly", 347.85714285714283], ["biweekly", 326.2142857142857], ["triweekly", 298.0]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 4.571428571428571], ["biweekly", 6.285714285714286], ["triweekly", 6.809523809523809]],
+      "Confirmed Fatality Rate": [["daily", 0.011019283746556474], ["weekly", 0.010659595338968958], ["biweekly", 0.008621813042526436], ["triweekly", 0.008521832013206021]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011799410029498525], ["weekly", 0.012158470376569643], ["biweekly", 0.010240170165567417], ["triweekly", 0.010235552237461145]]
+    },
+    "lat": "REPLACE_MELaSalle,Louisiana"
+  }, {
+    "locale": "LaSalle,Louisiana",
+    "long": "REPLACE_MELaSalle,Louisiana",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.009771818126342932], ["biweekly", 0.017782566901543766], ["triweekly", 0.02406338592611188]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 23.022907793254287], ["biweekly", 38.37151298875715], ["triweekly", 46.045815586508574]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2437.550362610798], ["weekly", 2358.8887609838457], ["biweekly", 2228.9052607344306], ["triweekly", 2047.1202179501936]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8686728776144031], ["biweekly", 0.9973302805545002], ["triweekly", 1.015095130736941]],
+      "Confirmed Cumulative Cases": [["daily", 363.0], ["weekly", 351.2857142857143], ["biweekly", 331.92857142857144], ["triweekly", 304.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.4285714285714284], ["biweekly", 5.714285714285714], ["triweekly", 6.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.011019283746556474], ["weekly", 0.010969556228173612], ["biweekly", 0.00890410918090995], ["triweekly", 0.008611682663455177]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011799410029498525], ["weekly", 0.012329713707386444], ["biweekly", 0.010430669446865585], ["triweekly", 0.010277002155597556]]
+    },
+    "lat": "REPLACE_MELaSalle,Louisiana"
   }]
 }

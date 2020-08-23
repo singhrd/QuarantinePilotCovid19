@@ -3169,14 +3169,44 @@
     "long": "REPLACE_MEUtah",
     "date": "08/20/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.009524876187548159], ["weekly", 0.0075918606513175136], ["biweekly", 0.008202383871110719], ["triweekly", 0.009123965515438502]],
-      "Confirmed Daily Cases per 100k": [["daily", 14.205607476635514], ["weekly", 10.974632843791722], ["biweekly", 11.502002670226968], ["triweekly", 12.324580922711764]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1498.5358255451713], ["weekly", 1453.128615932354], ["biweekly", 1414.1855807743657], ["triweekly", 1369.9792315680165]],
-      "Daily Growth Rate": [["daily", 1.2596685082872927], ["weekly", 1.0415377990234762], ["biweekly", 1.0115494236035165], ["triweekly", 1.013480484157212]],
-      "Confirmed Cumulative Cases": [["daily", 48103.0], ["weekly", 46645.42857142857], ["biweekly", 45395.357142857145], ["triweekly", 43976.333333333336]],
-      "Confirmed Daily Cases": [["daily", 456.0], ["weekly", 352.2857142857143], ["biweekly", 369.2142857142857], ["triweekly", 395.6190476190476]],
-      "Confirmed Fatality Rate": [["daily", 0.007982870091262499], ["weekly", 0.007855364984038944], ["biweekly", 0.00779926294440899], ["triweekly", 0.00775392821978946]],
+      "Spread Rate": [["daily", 0.009545664695663092], ["weekly", 0.0075918606513175136], ["biweekly", 0.008202383871110719], ["triweekly", 0.009123965515438502]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.23676012461059], ["weekly", 10.974632843791722], ["biweekly", 11.502002670226968], ["triweekly", 12.324580922711764]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1498.5669781931463], ["weekly", 1453.128615932354], ["biweekly", 1414.1855807743657], ["triweekly", 1369.9792315680165]],
+      "Daily Growth Rate": [["daily", 1.2624309392265194], ["weekly", 1.0415377990234762], ["biweekly", 1.0115494236035165], ["triweekly", 1.013480484157212]],
+      "Confirmed Cumulative Cases": [["daily", 48104.0], ["weekly", 46645.42857142857], ["biweekly", 45395.357142857145], ["triweekly", 43976.333333333336]],
+      "Confirmed Daily Cases": [["daily", 457.0], ["weekly", 352.2857142857143], ["biweekly", 369.2142857142857], ["triweekly", 395.6190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.007982704141027773], ["weekly", 0.007855364984038944], ["biweekly", 0.00779926294440899], ["triweekly", 0.00775392821978946]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008432703076619013], ["weekly", 0.00830041136814395], ["biweekly", 0.008305211932095925], ["triweekly", 0.008307777461109764]]
+    },
+    "lat": "REPLACE_MEUtah"
+  }, {
+    "locale": "Utah",
+    "long": "REPLACE_MEUtah",
+    "date": "08/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010587361095785397], ["weekly", 0.007834307346348015], ["biweekly", 0.007958664911880449], ["triweekly", 0.009126741112972746]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.950155763239875], ["weekly", 11.424121050289273], ["biweekly", 11.2861593235425], ["triweekly", 12.446224595757306]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1514.5171339563863], ["weekly", 1464.5527369826434], ["biweekly", 1425.4717400979082], ["triweekly", 1382.4254561637738]],
+      "Daily Growth Rate": [["daily", 1.1203501094091903], ["weekly", 1.0744730677742627], ["biweekly", 1.0156982173991995], ["triweekly", 1.0349444188018884]],
+      "Confirmed Cumulative Cases": [["daily", 48616.0], ["weekly", 47012.142857142855], ["biweekly", 45757.642857142855], ["triweekly", 44375.857142857145]],
+      "Confirmed Daily Cases": [["daily", 512.0], ["weekly", 366.7142857142857], ["biweekly", 362.2857142857143], ["triweekly", 399.5238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.007919203554385388], ["weekly", 0.007872645746213444], ["biweekly", 0.007818371190426417], ["triweekly", 0.0077707450221366926]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008360840861709521], ["weekly", 0.008316598918913707], ["biweekly", 0.008310421268107061], ["triweekly", 0.008310513051413157]]
+    },
+    "lat": "REPLACE_MEUtah"
+  }, {
+    "locale": "Utah",
+    "long": "REPLACE_MEUtah",
+    "date": "08/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006846674143465847], ["weekly", 0.007752623446870999], ["biweekly", 0.007893024233489143], ["triweekly", 0.0089830453787721]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.404984423676012], ["weekly", 11.428571428571429], ["biweekly", 11.31731197151758], ["triweekly", 12.398753894080997]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1524.9221183800623], ["weekly", 1475.981308411215], ["biweekly", 1436.789052069426], ["triweekly", 1394.8242100578548]],
+      "Daily Growth Rate": [["daily", 0.65234375], ["weekly", 1.0294669036288662], ["biweekly", 1.0315148703920687], ["triweekly", 1.019215058932485]],
+      "Confirmed Cumulative Cases": [["daily", 48950.0], ["weekly", 47379.0], ["biweekly", 46120.92857142857], ["triweekly", 44773.857142857145]],
+      "Confirmed Daily Cases": [["daily", 334.0], ["weekly", 366.85714285714283], ["biweekly", 363.2857142857143], ["triweekly", 398.0]],
+      "Confirmed Fatality Rate": [["daily", 0.007906026557711951], ["weekly", 0.007880908817270785], ["biweekly", 0.00783104378194359], ["triweekly", 0.007783533130140599]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008338181113050224], ["weekly", 0.008322989922524403], ["biweekly", 0.00830969511502782], ["triweekly", 0.008312925732083703]]
     },
     "lat": "REPLACE_MEUtah"
   }]
