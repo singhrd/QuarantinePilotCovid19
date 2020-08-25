@@ -3209,5 +3209,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04566491823511262], ["weekly", 0.044751886549797504], ["biweekly", 0.04486384257882026], ["triweekly", 0.04536677640328326]]
     },
     "lat": "REPLACE_MEApache,Arizona"
+  }, {
+    "locale": "Apache,Arizona",
+    "long": "REPLACE_MEApache,Arizona",
+    "date": "08/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0003028926268804355], ["weekly", 0.0026205041016635583], ["biweekly", 0.0032312112055628006], ["triweekly", 0.003703487908315021]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.391072099266905], ["weekly", 11.923475136573472], ["biweekly", 14.506894749497723], ["triweekly", 16.361657548520263]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4593.320071779321], ["weekly", 4544.632548304979], ["biweekly", 4505.583167232699], ["triweekly", 4446.528844542394]],
+      "Daily Growth Rate": [["daily", 0.05555555555555555], ["weekly", 0.8707120619127461], ["biweekly", 2.227711920680684], ["triweekly", 1.7642605139913115]],
+      "Confirmed Cumulative Cases": [["daily", 3302.0], ["weekly", 3267.0], ["biweekly", 3238.9285714285716], ["triweekly", 3196.4761904761904]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 8.571428571428571], ["biweekly", 10.428571428571429], ["triweekly", 11.761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.04482132041187159], ["weekly", 0.0440750648348464], ["biweekly", 0.043793888703164696], ["triweekly", 0.04388803456090236]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04566491823511262], ["weekly", 0.04484574287906083], ["biweekly", 0.04487461674595549], ["triweekly", 0.04533064589676115]]
+    },
+    "lat": "REPLACE_MEApache,Arizona"
+  }, {
+    "locale": "Apache,Arizona",
+    "long": "REPLACE_MEApache,Arizona",
+    "date": "08/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.0003028926268804355], ["weekly", 0.002663774476932192], ["biweekly", 0.002397673697520832], ["triweekly", 0.0035622425533138164]],
+      "Confirmed Daily Cases per 100k": [["daily", -1.391072099266905], ["weekly", 12.12219972218303], ["biweekly", 10.830489915720902], ["triweekly", 15.76548379169159]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4591.9289996800535], ["weekly", 4556.754748027161], ["biweekly", 4516.413657148421], ["triweekly", 4462.294328334085]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.878648569849254], ["biweekly", 1.5531087460775095], ["triweekly", 1.758969508700306]],
+      "Confirmed Cumulative Cases": [["daily", 3301.0], ["weekly", 3275.714285714286], ["biweekly", 3246.714285714286], ["triweekly", 3207.809523809524]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 8.714285714285714], ["biweekly", 7.785714285714286], ["triweekly", 11.333333333333334]],
+      "Confirmed Fatality Rate": [["daily", 0.04483489851560133], ["weekly", 0.04421901949852496], ["biweekly", 0.04388593102957304], ["triweekly", 0.043908743962586656]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04566491823511262], ["weekly", 0.04501611932417355], ["biweekly", 0.04489600124503199], ["triweekly", 0.04528729236196873]]
+    },
+    "lat": "REPLACE_MEApache,Arizona"
   }]
 }

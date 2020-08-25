@@ -3209,5 +3209,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02127659574468085], ["weekly", 0.025816135786200917], ["biweekly", 0.02453283185113295], ["triweekly", 0.0251859907791439]]
     },
     "lat": "REPLACE_MECass,Iowa"
+  }, {
+    "locale": "Cass,Iowa",
+    "long": "REPLACE_MECass,Iowa",
+    "date": "08/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.015809366841074177], ["biweekly", 0.037630426079459385], ["triweekly", 0.04251239211733146]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 12.242354093398033], ["biweekly", 23.928237546187063], ["triweekly", 23.000786478505397]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 818.0118416952322], ["weekly", 770.155366602858], ["biweekly", 708.9435961358678], ["triweekly", 605.8110374096663]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.3857142857142857], ["biweekly", 1.3872634071827414], ["triweekly", 1.3776956547834882]],
+      "Confirmed Cumulative Cases": [["daily", 105.0], ["weekly", 98.85714285714286], ["biweekly", 91.0], ["triweekly", 77.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.5714285714285714], ["biweekly", 3.0714285714285716], ["triweekly", 2.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.01904761904761905], ["weekly", 0.02026486503871739], ["biweekly", 0.017747800365746604], ["triweekly", 0.018391998856206696]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02127659574468085], ["weekly", 0.02424735453313689], ["biweekly", 0.024391459121932413], ["triweekly", 0.02487641068232976]]
+    },
+    "lat": "REPLACE_MECass,Iowa"
+  }, {
+    "locale": "Cass,Iowa",
+    "long": "REPLACE_MECass,Iowa",
+    "date": "08/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.009569451016150587], ["weekly", 0.015809366841074177], ["biweekly", 0.02499251835381092], ["triweekly", 0.03827679754511736]],
+      "Confirmed Daily Cases per 100k": [["daily", -7.790588968526021], ["weekly", 12.242354093398033], ["biweekly", 17.250589858879042], ["triweekly", 21.516864770214728]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 810.2212527267061], ["weekly", 782.397720696256], ["biweekly", 726.1941859947468], ["triweekly", 627.327902179881]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.3857142857142857], ["biweekly", 1.2444062643255986], ["triweekly", 1.1872194643072977]],
+      "Confirmed Cumulative Cases": [["daily", 104.0], ["weekly", 100.42857142857143], ["biweekly", 93.21428571428571], ["triweekly", 80.52380952380952]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 1.5714285714285714], ["biweekly", 2.2142857142857144], ["triweekly", 2.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.019230769230769232], ["weekly", 0.019946439796279997], ["biweekly", 0.01814309361818271], ["triweekly", 0.01828585710872756]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021052631578947368], ["weekly", 0.02342586434994458], ["biweekly", 0.024391459121932413], ["triweekly", 0.024602580621265652]]
+    },
+    "lat": "REPLACE_MECass,Iowa"
   }]
 }
