@@ -3378,19 +3378,19 @@
   }, {
     "epidemiccontrolThreshold": 16.05,
     "source": "NYGithub",
-    "confirmedPer100kN": 1498.5669781931463,
+    "confirmedPer100kN": 1498.5358255451713,
     "deaths": 384,
-    "confirmed": 48104,
+    "confirmed": 48103,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 1498.5669781931463,
+    "confirmedPer100k": 1498.5358255451713,
     "locale": "Utah",
-    "activePer100k": 1486.6043613707163,
+    "activePer100k": 1486.5732087227414,
     "long": "REPLACE_MEUtah",
     "date": "08/20/2020",
     "deathsPer100k": 11.962616822429906,
     "lat": "REPLACE_MEUtah",
-    "active": 47720
+    "active": 47719
   }, {
     "epidemiccontrolThreshold": 16.05,
     "source": "NYGithub",
@@ -3455,5 +3455,53 @@
     "deathsPer100k": 12.18068535825545,
     "lat": "REPLACE_MEUtah",
     "active": 49060
+  }, {
+    "epidemiccontrolThreshold": 16.05,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1553.582554517134,
+    "deaths": 398,
+    "confirmed": 49870,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1553.582554517134,
+    "locale": "Utah",
+    "activePer100k": 1541.183800623053,
+    "long": "REPLACE_MEUtah",
+    "date": "08/25/2020",
+    "deathsPer100k": 12.398753894080997,
+    "lat": "REPLACE_MEUtah",
+    "active": 49472
+  }, {
+    "epidemiccontrolThreshold": 16.05,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1566.9158878504672,
+    "deaths": 404,
+    "confirmed": 50298,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1566.9158878504672,
+    "locale": "Utah",
+    "activePer100k": 1554.3302180685357,
+    "long": "REPLACE_MEUtah",
+    "date": "08/26/2020",
+    "deathsPer100k": 12.585669781931463,
+    "lat": "REPLACE_MEUtah",
+    "active": 49894
+  }, {
+    "epidemiccontrolThreshold": 16.05,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1578.4423676012461,
+    "deaths": 404,
+    "confirmed": 50668,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1578.4423676012461,
+    "locale": "Utah",
+    "activePer100k": 1565.8566978193146,
+    "long": "REPLACE_MEUtah",
+    "date": "08/27/2020",
+    "deathsPer100k": 12.585669781931463,
+    "lat": "REPLACE_MEUtah",
+    "active": 50264
   }]
 }
