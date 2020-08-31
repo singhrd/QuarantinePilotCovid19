@@ -3274,12 +3274,57 @@
     "long": "REPLACE_MEMarion,Iowa",
     "date": "08/27/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.11748826778394683], ["weekly", 0.07565254365367594], ["biweekly", 0.05400681820529872], ["triweekly", 0.041111475487037114]],
-      "Confirmed Daily Cases per 100k": [["daily", 141.34063092051846], ["weekly", 66.58905104158164], ["biweekly", 42.96067809134299], ["triweekly", 31.218092746375905]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1275.07292575106], ["weekly", 924.5137925257013], ["biweekly", 770.4997615682366], ["triweekly", 684.9364110363118]],
-      "Daily Growth Rate": [["daily", 1.236842105263158], ["weekly", 1.7505027992058066], ["biweekly", 1.5974754137997444], ["triweekly", 1.418158212374433]],
-      "Confirmed Cumulative Cases": [["daily", 424.0], ["weekly", 307.42857142857144], ["biweekly", 256.2142857142857], ["triweekly", 227.76190476190476]],
-      "Confirmed Daily Cases": [["daily", 47.0], ["weekly", 22.142857142857142], ["biweekly", 14.285714285714286], ["triweekly", 10.380952380952381]],
+      "Spread Rate": [["daily", 0.11512699159826667], ["weekly", 0.07565254365367594], ["biweekly", 0.05400681820529872], ["triweekly", 0.041111475487037114]],
+      "Confirmed Daily Cases per 100k": [["daily", 138.33338345412443], ["weekly", 66.58905104158164], ["biweekly", 42.96067809134299], ["triweekly", 31.218092746375905]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1272.065678284666], ["weekly", 924.5137925257013], ["biweekly", 770.4997615682366], ["triweekly", 684.9364110363118]],
+      "Daily Growth Rate": [["daily", 1.2105263157894737], ["weekly", 1.7505027992058066], ["biweekly", 1.5974754137997444], ["triweekly", 1.418158212374433]],
+      "Confirmed Cumulative Cases": [["daily", 423.0], ["weekly", 307.42857142857144], ["biweekly", 256.2142857142857], ["triweekly", 227.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 46.0], ["weekly", 22.142857142857142], ["biweekly", 14.285714285714286], ["triweekly", 10.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMarion,Iowa"
+  }, {
+    "locale": "Marion,Iowa",
+    "long": "REPLACE_MEMarion,Iowa",
+    "date": "08/28/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0751206304681089], ["weekly", 0.07685483463118573], ["biweekly", 0.05830454015654934], ["triweekly", 0.04570361161018542]],
+      "Confirmed Daily Cases per 100k": [["daily", 99.23916639100231], ["weekly", 75.61079344076367], ["biweekly", 50.69360014778473], ["triweekly", 37.375789939468405]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1371.3048446756684], ["weekly", 1000.1245859664649], ["biweekly", 821.1933617160213], ["triweekly", 722.3122009757802]],
+      "Daily Growth Rate": [["daily", 0.717391304347826], ["weekly", 1.20914941574716], ["biweekly", 1.3267987220704212], ["triweekly", 1.4400880369358364]],
+      "Confirmed Cumulative Cases": [["daily", 456.0], ["weekly", 332.57142857142856], ["biweekly", 273.07142857142856], ["triweekly", 240.1904761904762]],
+      "Confirmed Daily Cases": [["daily", 33.0], ["weekly", 25.142857142857142], ["biweekly", 16.857142857142858], ["triweekly", 12.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMarion,Iowa"
+  }, {
+    "locale": "Marion,Iowa",
+    "long": "REPLACE_MEMarion,Iowa",
+    "date": "08/29/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01739174271186883], ["weekly", 0.07592940414336143], ["biweekly", 0.061414472900678634], ["triweekly", 0.04811928672180204]],
+      "Confirmed Daily Cases per 100k": [["daily", 24.057979731152077], ["weekly", 80.76607481172483], ["biweekly", 56.49329169011604], ["triweekly", 41.52865548829823]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1395.3628244068204], ["weekly", 1080.8906607781898], ["biweekly", 877.6866534061373], ["triweekly", 763.8408564640786]],
+      "Daily Growth Rate": [["daily", 0.24242424242424243], ["weekly", 1.1916338877968493], ["biweekly", 1.3351838152381228], ["triweekly", 1.4107574641270024]],
+      "Confirmed Cumulative Cases": [["daily", 464.0], ["weekly", 359.42857142857144], ["biweekly", 291.85714285714283], ["triweekly", 254.0]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 26.857142857142858], ["biweekly", 18.785714285714285], ["triweekly", 13.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMarion,Iowa"
+  }, {
+    "locale": "Marion,Iowa",
+    "long": "REPLACE_MEMarion,Iowa",
+    "date": "08/30/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.023430251808385982], ["weekly", 0.06714337560653368], ["biweekly", 0.060829822966551435], ["triweekly", 0.048094563681103895]],
+      "Confirmed Daily Cases per 100k": [["daily", 33.079722130334105], ["weekly", 74.75157987893681], ["biweekly", 57.13770186148617], ["triweekly", 42.24466678982061]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1428.4425465371546], ["weekly", 1155.6422406571266], ["biweekly", 934.8243552676237], ["triweekly", 806.085523253899]],
+      "Daily Growth Rate": [["daily", 1.375], ["weekly", 1.076606058483306], ["biweekly", 1.2929760230303307], ["triweekly", 1.3865871899567284]],
+      "Confirmed Cumulative Cases": [["daily", 475.0], ["weekly", 384.2857142857143], ["biweekly", 310.85714285714283], ["triweekly", 268.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 24.857142857142858], ["biweekly", 19.0], ["triweekly", 14.047619047619047]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
