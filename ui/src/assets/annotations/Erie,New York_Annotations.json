@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06402535657686212], ["weekly", 0.06536992275717997], ["biweekly", 0.06619297587532309], ["triweekly", 0.06709662736642803]]
     },
     "lat": "REPLACE_MEErie,New York"
+  }, {
+    "locale": "Erie,New York",
+    "long": "REPLACE_MEErie,New York",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006606050752848702], ["weekly", 0.005070804535556813], ["biweekly", 0.004976461409711165], ["triweekly", 0.004599800116044709]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.075199575052628], ["weekly", 5.318062098171426], ["biweekly", 5.131463428060149], ["triweekly", 4.680516641957893]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1074.5595416141468], ["weekly", 1050.472763280616], ["biweekly", 1031.4630237630297], ["triweekly", 1015.6202783409428]],
+      "Daily Growth Rate": [["daily", 0.9848484848484849], ["weekly", 1.2547710617225736], ["biweekly", 1.3042099787741699], ["triweekly", 1.353129332376628]],
+      "Confirmed Cumulative Cases": [["daily", 9872.0], ["weekly", 9650.714285714286], ["biweekly", 9476.07142857143], ["triweekly", 9330.52380952381]],
+      "Confirmed Daily Cases": [["daily", 65.0], ["weekly", 48.857142857142854], ["biweekly", 47.142857142857146], ["triweekly", 43.0]],
+      "Confirmed Fatality Rate": [["daily", 0.06138573743922204], ["weekly", 0.06271164284826898], ["biweekly", 0.06382026304835672], ["triweekly", 0.0646889946610272]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0638499631229586], ["weekly", 0.06506755877536795], ["biweekly", 0.06593692542416454], ["triweekly", 0.06682345311458293]]
+    },
+    "lat": "REPLACE_MEErie,New York"
   }]
 }

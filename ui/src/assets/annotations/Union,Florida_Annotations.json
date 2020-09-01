@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009433962264150943], ["weekly", 0.009961028320654468], ["biweekly", 0.01100952503444418], ["triweekly", 0.01401991412607818]]
     },
     "lat": "REPLACE_MEUnion,Florida"
+  }, {
+    "locale": "Union,Florida",
+    "long": "REPLACE_MEUnion,Florida",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003372684478639698], ["weekly", 0.015804232619691154], ["biweekly", 0.01379937350220414], ["triweekly", 0.030806397019276826]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.12594342718383], ["weekly", 58.12917803467123], ["biweekly", 48.75350415811136], ["triweekly", 88.13133443966282]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3898.405197873597], ["weekly", 3664.950918347256], ["biweekly", 3500.40784181363], ["triweekly", 3315.2382827515726]],
+      "Daily Growth Rate": [["daily", 0.1], ["weekly", 2.3137755102040813], ["biweekly", 1.9111394557823131], ["triweekly", 1.9755794678584488]],
+      "Confirmed Cumulative Cases": [["daily", 594.0], ["weekly", 558.4285714285714], ["biweekly", 533.3571428571429], ["triweekly", 505.14285714285717]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 8.857142857142858], ["biweekly", 7.428571428571429], ["triweekly", 13.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.008417508417508417], ["weekly", 0.008964947448077937], ["biweekly", 0.009404992214709538], ["triweekly", 0.010009186315469074]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009380863039399626], ["weekly", 0.009845036981341137], ["biweekly", 0.01053130574916464], ["triweekly", 0.013410949366170023]]
+    },
+    "lat": "REPLACE_MEUnion,Florida"
   }]
 }

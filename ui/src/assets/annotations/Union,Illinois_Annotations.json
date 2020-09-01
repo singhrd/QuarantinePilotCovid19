@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.061068702290076333], ["weekly", 0.06207316119455862], ["biweekly", 0.06572432607899918], ["triweekly", 0.06861622727182333]]
     },
     "lat": "REPLACE_MEUnion,Illinois"
+  }, {
+    "locale": "Union,Illinois",
+    "long": "REPLACE_MEUnion,Illinois",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004705891037413146], ["weekly", 0.010846263337528075], ["biweekly", 0.011489678349934085], ["triweekly", 0.013252015814378187]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.009848075421845], ["weekly", 26.593235024148367], ["biweekly", 27.02215816969915], ["triweekly", 29.452722661153572]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2558.097640064853], ["weekly", 2474.886549828002], ["biweekly", 2377.949918933525], ["triweekly", 2260.710925816312]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.359273009152479], ["biweekly", 1.1819174169411855], ["triweekly", 1.3364710217249627]],
+      "Confirmed Cumulative Cases": [["daily", 426.0], ["weekly", 412.14285714285717], ["biweekly", 396.0], ["triweekly", 376.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.428571428571429], ["biweekly", 4.5], ["triweekly", 4.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.056338028169014086], ["weekly", 0.05685014724608162], ["biweekly", 0.05872384976213802], ["triweekly", 0.06189634068707962]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06], ["weekly", 0.061695559899235135], ["biweekly", 0.064968441218099], ["triweekly", 0.06790961353520429]]
+    },
+    "lat": "REPLACE_MEUnion,Illinois"
   }]
 }

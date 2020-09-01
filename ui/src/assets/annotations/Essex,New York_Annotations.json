@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.03454428115737055], ["biweekly", 0.020553211187181255], ["triweekly", 0.01370214079145417]]
     },
     "lat": "REPLACE_MEEssex,New York"
+  }, {
+    "locale": "Essex,New York",
+    "long": "REPLACE_MEEssex,New York",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0073260400920727164], ["weekly", 0.032931951230261776], ["biweekly", 0.05056873331036333], ["triweekly", 0.0366438171116438]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.71112918530568], ["weekly", 10.84451674122272], ["biweekly", 13.361993841863708], ["triweekly", 9.424401453681648]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 371.4246983868781], ["weekly", 333.4688897925986], ["biweekly", 284.66856445709635], ["triweekly", 248.39107392991087]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.3202327521444854], ["biweekly", 0.9835221759607105], ["triweekly", 0.7985385934976164]],
+      "Confirmed Cumulative Cases": [["daily", 137.0], ["weekly", 123.0], ["biweekly", 105.0], ["triweekly", 91.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.0], ["biweekly", 4.928571428571429], ["triweekly", 3.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.043795620437956206], ["weekly", 0.027265285968333237], ["biweekly", 0.017165347064649155], ["triweekly", 0.011443564709766103]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.03821639676978466], ["biweekly", 0.024521465155435223], ["triweekly", 0.016347643436956816]]
+    },
+    "lat": "REPLACE_MEEssex,New York"
   }]
 }

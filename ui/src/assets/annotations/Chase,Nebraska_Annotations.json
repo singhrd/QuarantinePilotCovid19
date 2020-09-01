@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEChase,Nebraska"
+  }, {
+    "locale": "Chase,Nebraska",
+    "long": "REPLACE_MEChase,Nebraska",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.014333621104439365], ["triweekly", 0.02886360969382456]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 3.6405999708752006], ["triweekly", 6.067666618125334]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 280.32619775739045], ["weekly", 280.32619775739045], ["biweekly", 269.4043978447648], ["triweekly", 241.4931314013882]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.1281214661417214], ["triweekly", 0.08541431076114761]],
+      "Confirmed Cumulative Cases": [["daily", 11.0], ["weekly", 11.0], ["biweekly", 10.571428571428571], ["triweekly", 9.476190476190476]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.14285714285714285], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEChase,Nebraska"
   }]
 }

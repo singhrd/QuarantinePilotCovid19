@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.076138147566719], ["biweekly", 0.07613814756671898], ["triweekly", 0.07792604221175646]]
     },
     "lat": "REPLACE_MEOuray,Colorado"
+  }, {
+    "locale": "Ouray,Colorado",
+    "long": "REPLACE_MEOuray,Colorado",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.08338160893905089], ["weekly", 0.035017494004712164], ["biweekly", 0.040753204176258065], ["triweekly", 0.027168802784172046]],
+      "Confirmed Daily Cases per 100k": [["daily", 40.38772213247173], ["weekly", 14.424186475882761], ["biweekly", 14.42418647588276], ["triweekly", 9.616124317255172]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 504.8465266558966], ["weekly", 438.4952688668359], ["biweekly", 359.16224324948064], ["triweekly", 327.9098392184014]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.2857142857142857], ["biweekly", 0.42857142857142855], ["triweekly", 0.3333333333333333]],
+      "Confirmed Cumulative Cases": [["daily", 25.0], ["weekly", 21.714285714285715], ["biweekly", 17.785714285714285], ["triweekly", 16.238095238095237]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.7142857142857143], ["biweekly", 0.7142857142857143], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.04], ["weekly", 0.046130784329542096], ["biweekly", 0.05960821442187901], ["triweekly", 0.06511819213682567]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05], ["weekly", 0.07308564451421595], ["biweekly", 0.07461189604046746], ["triweekly", 0.07660329088900515]]
+    },
+    "lat": "REPLACE_MEOuray,Colorado"
   }]
 }

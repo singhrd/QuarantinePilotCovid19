@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010869565217391304], ["weekly", 0.010561010543646039], ["biweekly", 0.009628196076638618], ["triweekly", 0.009642363577246219]]
     },
     "lat": "REPLACE_MEPettis,Missouri"
+  }, {
+    "locale": "Pettis,Missouri",
+    "long": "REPLACE_MEPettis,Missouri",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008821733329147818], ["weekly", 0.010114689533170105], ["biweekly", 0.013823093089464182], ["triweekly", 0.021308310294557486]],
+      "Confirmed Daily Cases per 100k": [["daily", 16.53321996268216], ["weekly", 18.22028322418034], ["biweekly", 23.450179334824696], ["triweekly", 32.05420196846543]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1882.425187179669], ["weekly", 1806.169927759951], ["biweekly", 1729.5772556879335], ["triweekly", 1624.6419208227467]],
+      "Daily Growth Rate": [["daily", 7.0], ["weekly", 2.024404761904762], ["biweekly", 1.5199888288648793], ["triweekly", 1.5033107687519454]],
+      "Confirmed Cumulative Cases": [["daily", 797.0], ["weekly", 764.7142857142857], ["biweekly", 732.2857142857143], ["triweekly", 687.8571428571429]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 7.714285714285714], ["biweekly", 9.928571428571429], ["triweekly", 13.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.011292346298619825], ["weekly", 0.01008231425987284], ["biweekly", 0.00861994855668906], ["triweekly", 0.0082811042719942]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012129380053908356], ["weekly", 0.011016592495922042], ["biweekly", 0.00969738001366586], ["triweekly", 0.009695385846599345]]
+    },
+    "lat": "REPLACE_MEPettis,Missouri"
   }]
 }

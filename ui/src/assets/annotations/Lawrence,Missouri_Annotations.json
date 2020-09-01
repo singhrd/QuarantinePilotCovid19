@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0064516129032258064], ["weekly", 0.007057173812771745], ["biweekly", 0.00771061273125416], ["triweekly", 0.008475656045915603]]
     },
     "lat": "REPLACE_MELawrence,Missouri"
+  }, {
+    "locale": "Lawrence,Missouri",
+    "long": "REPLACE_MELawrence,Missouri",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005665737535677451], ["weekly", 0.018151268302700658], ["biweekly", 0.020548719460841487], ["triweekly", 0.020680264125888366]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.214444009907443], ["weekly", 15.64333202972233], ["biweekly", 16.388252602566247], ["triweekly", 15.39502517210769]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 922.9565897536175], ["weekly", 871.1846099409652], ["biweekly", 814.3844162616161], ["triweekly", 755.4736142925428]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.1490929705215418], ["biweekly", 1.2071210535496253], ["triweekly", 1.394023079317197]],
+      "Confirmed Cumulative Cases": [["daily", 354.0], ["weekly", 334.14285714285717], ["biweekly", 312.35714285714283], ["triweekly", 289.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 6.0], ["biweekly", 6.285714285714286], ["triweekly", 5.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.005649717514124294], ["weekly", 0.005995516793685577], ["biweekly", 0.0064460492551906765], ["triweekly", 0.007028422803429603]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006309148264984227], ["weekly", 0.006896581716695777], ["biweekly", 0.007544875808301618], ["triweekly", 0.008270842937876688]]
+    },
+    "lat": "REPLACE_MELawrence,Missouri"
   }]
 }

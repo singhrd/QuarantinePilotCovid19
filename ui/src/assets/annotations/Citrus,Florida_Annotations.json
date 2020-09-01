@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028948704926358558], ["weekly", 0.027949114067133286], ["biweekly", 0.027372167778807473], ["triweekly", 0.027299221240894414]]
     },
     "lat": "REPLACE_MECitrus,Florida"
+  }, {
+    "locale": "Citrus,Florida",
+    "long": "REPLACE_MECitrus,Florida",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006224583181324128], ["weekly", 0.007971881505112601], ["biweekly", 0.011274273792933125], ["triweekly", 0.014390291206477829]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.68652986495787], ["weekly", 10.786570052090543], ["biweekly", 14.509368565643916], ["triweekly", 17.277603357773348]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1399.8676974682107], ["weekly", 1353.7622697234342], ["biweekly", 1305.1749763029559], ["triweekly", 1240.9646566418382]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 2.2876404909790002], ["biweekly", 1.8096217784513122], ["triweekly", 1.7242364745268528]],
+      "Confirmed Cumulative Cases": [["daily", 2095.0], ["weekly", 2026.0], ["biweekly", 1953.2857142857142], ["triweekly", 1857.1904761904761]],
+      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 16.142857142857142], ["biweekly", 21.714285714285715], ["triweekly", 25.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.02720763723150358], ["weekly", 0.02635186919160108], ["biweekly", 0.0250240529880368], ["triweekly", 0.024323877900277135]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028934010152284265], ["weekly", 0.028388676766720744], ["biweekly", 0.027583439331841257], ["triweekly", 0.027349856704725655]]
+    },
+    "lat": "REPLACE_MECitrus,Florida"
   }]
 }

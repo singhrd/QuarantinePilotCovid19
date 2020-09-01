@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.031578947368421054], ["weekly", 0.032113089114717795], ["biweekly", 0.032844325237025955], ["triweekly", 0.0338254148815038]]
     },
     "lat": "REPLACE_MEBradford,Pennsylvania"
+  }, {
+    "locale": "Bradford,Pennsylvania",
+    "long": "REPLACE_MEBradford,Pennsylvania",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010152371464017484], ["weekly", 0.004441512438575934], ["biweekly", 0.004512778687252274], ["triweekly", 0.006776962960964554]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.6577424862821808], ["weekly", 0.710461065549506], ["biweekly", 0.710461065549506], ["triweekly", 1.0262215391270646]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 164.1165061419359], ["weekly", 161.27466187973786], ["biweekly", 158.43281761753988], ["triweekly", 155.59097335534184]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.42386111872591725], ["biweekly", 0.4262162736486729], ["triweekly", 0.5460489443372105]],
+      "Confirmed Cumulative Cases": [["daily", 99.0], ["weekly", 97.28571428571429], ["biweekly", 95.57142857142857], ["triweekly", 93.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.42857142857142855], ["biweekly", 0.42857142857142855], ["triweekly", 0.6190476190476191]],
+      "Confirmed Fatality Rate": [["daily", 0.030303030303030304], ["weekly", 0.030841394999558267], ["biweekly", 0.031403688608298536], ["triweekly", 0.03199976895412541]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.03196598221703882], ["biweekly", 0.03257895593140897], ["triweekly", 0.033565505849664945]]
+    },
+    "lat": "REPLACE_MEBradford,Pennsylvania"
   }]
 }

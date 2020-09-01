@@ -3329,5 +3329,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011594202898550725], ["weekly", 0.012092714338332077], ["biweekly", 0.012784586844435201], ["triweekly", 0.013703241146319947]]
     },
     "lat": "REPLACE_MEHumboldt,California"
+  }, {
+    "locale": "Humboldt,California",
+    "long": "REPLACE_MEHumboldt,California",
+    "date": "08/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05292240145434235], ["weekly", 0.009219788733938725], ["biweekly", 0.0124815472336561], ["triweekly", 0.012675041296705592]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.753832307941988], ["weekly", 2.4238438791618977], ["biweekly", 3.108843236316347], ["triweekly", 3.02102280591193]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 286.22434677407455], ["weekly", 268.51974800454417], ["biweekly", 258.35014216371275], ["triweekly", 246.2484868539842]],
+      "Daily Growth Rate": [["daily", 1.7099759466766968], ["weekly", 1.0108373166309665], ["biweekly", 0.8393816640251692], ["triweekly", 0.8786543112725443]],
+      "Confirmed Cumulative Cases": [["daily", 388.0], ["weekly", 364.0], ["biweekly", 350.2142857142857], ["triweekly", 333.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 3.2857142857142856], ["biweekly", 4.214285714285714], ["triweekly", 4.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.010309278350515464], ["weekly", 0.010990173063372192], ["biweekly", 0.011444959349407884], ["triweekly", 0.012063106333387062]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011142061281337047], ["weekly", 0.011899745635443576], ["biweekly", 0.012599572968394498], ["triweekly", 0.013437851666524796]]
+    },
+    "lat": "REPLACE_MEHumboldt,California"
   }]
 }
