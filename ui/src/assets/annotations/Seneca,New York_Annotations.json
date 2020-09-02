@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010526315789473684], ["weekly", 0.01054231322988322], ["biweekly", 0.010715211102273999], ["triweekly", 0.010975749824987403]]
     },
     "lat": "REPLACE_MESeneca,New York"
+  }, {
+    "locale": "Seneca,New York",
+    "long": "REPLACE_MESeneca,New York",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.007327613483935862], ["biweekly", 0.004419671694149141], ["triweekly", 0.005017167412277466]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.0998521704072033], ["biweekly", 1.259911302244322], ["triweekly", 1.3999014469381355]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 293.97930385700846], ["weekly", 288.9396586480312], ["biweekly", 284.10999865609455], ["triweekly", 279.9802893876271]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.21428571428571427], ["triweekly", 0.3333333333333333]],
+      "Confirmed Cumulative Cases": [["daily", 100.0], ["weekly", 98.28571428571429], ["biweekly", 96.64285714285714], ["triweekly", 95.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.7142857142857143], ["biweekly", 0.42857142857142855], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.01], ["weekly", 0.010176141885325559], ["biweekly", 0.010351228837399622], ["triweekly", 0.01050767396702274]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010416666666666666], ["weekly", 0.010526315789473686], ["biweekly", 0.010673440007871326], ["triweekly", 0.010923293101784047]]
+    },
+    "lat": "REPLACE_MESeneca,New York"
   }]
 }

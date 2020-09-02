@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02727272727272727], ["weekly", 0.02965156480649863], ["biweekly", 0.030908694127067156], ["triweekly", 0.0316333650070172]]
     },
     "lat": "REPLACE_MEPenobscot,Maine"
+  }, {
+    "locale": "Penobscot,Maine",
+    "long": "REPLACE_MEPenobscot,Maine",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004357305368955622], ["weekly", 0.0057277796002682835], ["biweekly", 0.012960612536257863], ["triweekly", 0.020146986164665925]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.6572547782422379], ["weekly", 0.8450418577400202], ["biweekly", 1.7839772552289315], ["triweekly", 2.472529880054133]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 151.16859899571472], ["weekly", 147.8823251045035], ["biweekly", 141.92008533044893], ["triweekly", 130.95019010312015]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7543638469761845], ["biweekly", 1.3838669051730736], ["triweekly", 1.3729747621788746]],
+      "Confirmed Cumulative Cases": [["daily", 230.0], ["weekly", 225.0], ["biweekly", 215.92857142857142], ["triweekly", 199.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.2857142857142858], ["biweekly", 2.7142857142857144], ["triweekly", 3.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.02608695652173913], ["weekly", 0.026673154428764268], ["biweekly", 0.026101815854629475], ["triweekly", 0.02751489931943063]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02727272727272727], ["weekly", 0.029060009764681812], ["biweekly", 0.030475793694166725], ["triweekly", 0.031344764718416906]]
+    },
+    "lat": "REPLACE_MEPenobscot,Maine"
   }]
 }

@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.004889975550122249], ["weekly", 0.004946320577187754], ["biweekly", 0.005032959454593908], ["triweekly", 0.0051379302967318]]
     },
     "lat": "REPLACE_MEGarfield,Colorado"
+  }, {
+    "locale": "Garfield,Colorado",
+    "long": "REPLACE_MEGarfield,Colorado",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0011841327612165387], ["weekly", 0.004470022570458683], ["biweekly", 0.003645991909245908], ["triweekly", 0.004493464830870721]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.6649739431577897], ["weekly", 6.184188931728933], ["biweekly", 4.994921829473369], ["triweekly", 6.025619984761525]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1406.9029819683321], ["weekly", 1388.1125617526943], ["biweekly", 1369.2032148268306], ["triweekly", 1349.1838852721955]],
+      "Daily Growth Rate": [["daily", 0.2], ["weekly", 1.6023809523809522], ["biweekly", 1.448809523809524], ["triweekly", 1.5162698412698414]],
+      "Confirmed Cumulative Cases": [["daily", 845.0], ["weekly", 833.7142857142857], ["biweekly", 822.3571428571429], ["triweekly", 810.3333333333334]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.7142857142857144], ["biweekly", 3.0], ["triweekly", 3.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.004733727810650888], ["weekly", 0.004798233747392204], ["biweekly", 0.004865308903579438], ["triweekly", 0.004939557657754716]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0048721071863581], ["weekly", 0.004932384059766671], ["biweekly", 0.005010219612935972], ["triweekly", 0.005106602932068841]]
+    },
+    "lat": "REPLACE_MEGarfield,Colorado"
   }]
 }

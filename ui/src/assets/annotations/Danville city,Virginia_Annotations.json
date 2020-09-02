@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.029411764705882353], ["weekly", 0.02467054879203228], ["biweekly", 0.024165229977315676], ["triweekly", 0.022925717425978306]]
     },
     "lat": "REPLACE_MEDanville city,Virginia"
+  }, {
+    "locale": "Danville city,Virginia",
+    "long": "REPLACE_MEDanville city,Virginia",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008216973102281422], ["weekly", 0.015418677030481704], ["biweekly", 0.017097392512926617], ["triweekly", 0.018489846265384764]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.486265108380781], ["weekly", 22.118526763417385], ["biweekly", 23.010402842587443], ["triweekly", 23.18877805842145]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1525.8215962441313], ["weekly", 1451.974256888851], ["biweekly", 1373.8459123535536], ["triweekly", 1284.3015540048802]],
+      "Daily Growth Rate": [["daily", 2.5], ["weekly", 1.3773958301269222], ["biweekly", 1.1230636485363374], ["triweekly", 1.1574186434480551]],
+      "Confirmed Cumulative Cases": [["daily", 611.0], ["weekly", 581.4285714285714], ["biweekly", 550.1428571428571], ["triweekly", 514.2857142857143]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 8.857142857142858], ["biweekly", 9.214285714285714], ["triweekly", 9.285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.02618657937806874], ["weekly", 0.022560362865206036], ["biweekly", 0.021568015188966925], ["triweekly", 0.020289616760782496]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02909090909090909], ["weekly", 0.025278339077957967], ["biweekly", 0.024701941012094553], ["triweekly", 0.023357285402005927]]
+    },
+    "lat": "REPLACE_MEDanville city,Virginia"
   }]
 }

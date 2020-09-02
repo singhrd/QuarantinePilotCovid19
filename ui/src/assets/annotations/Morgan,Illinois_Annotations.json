@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0375], ["weekly", 0.04103338659425374], ["biweekly", 0.04648354334548232], ["triweekly", 0.04907697310476115]]
     },
     "lat": "REPLACE_MEMorgan,Illinois"
+  }, {
+    "locale": "Morgan,Illinois",
+    "long": "REPLACE_MEMorgan,Illinois",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.005831713502893544], ["biweekly", 0.011440625153772897], ["triweekly", 0.029696243710063568]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 8.488748164308209], ["biweekly", 15.704184103970187], ["triweekly", 32.82315956865842]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1485.5309287539367], ["weekly", 1470.251182058182], ["biweekly", 1398.5212600697773], ["triweekly", 1296.656282098079]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.3099425393924551], ["biweekly", 0.5175476965873307], ["triweekly", 4.388980637164389]],
+      "Confirmed Cumulative Cases": [["daily", 500.0], ["weekly", 494.85714285714283], ["biweekly", 470.7142857142857], ["triweekly", 436.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.857142857142857], ["biweekly", 5.285714285714286], ["triweekly", 11.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.04], ["weekly", 0.03638057872675344], ["biweekly", 0.03803521952354228], ["triweekly", 0.03769746576927683]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.041237113402061855], ["weekly", 0.040354312147573665], ["biweekly", 0.04463119792970406], ["triweekly", 0.049455227854937084]]
+    },
+    "lat": "REPLACE_MEMorgan,Illinois"
   }]
 }

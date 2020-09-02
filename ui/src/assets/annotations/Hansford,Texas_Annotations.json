@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.030303030303030304], ["weekly", 0.030715752239679404], ["biweekly", 0.028763011769063318], ["triweekly", 0.029551238804158737]]
     },
     "lat": "REPLACE_MEHansford,Texas"
+  }, {
+    "locale": "Hansford,Texas",
+    "long": "REPLACE_MEHansford,Texas",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.004264709021382984], ["biweekly", 0.0065980942950724574], ["triweekly", 0.015929208196946654]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 7.937977932421347], ["biweekly", 11.906966898632021], ["triweekly", 25.577928893357672]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1889.2387479162808], ["weekly", 1876.0087846955782], ["biweekly", 1850.8718545762442], ["triweekly", 1775.4610642182413]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.32213721784963384], ["triweekly", 0.3973451920704114]],
+      "Confirmed Cumulative Cases": [["daily", 102.0], ["weekly", 101.28571428571429], ["biweekly", 99.92857142857143], ["triweekly", 95.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.42857142857142855], ["biweekly", 0.6428571428571429], ["triweekly", 1.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.029411764705882353], ["weekly", 0.02962060071553374], ["biweekly", 0.027120289734871756], ["triweekly", 0.025712318814445842]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03], ["weekly", 0.03043646163780816], ["biweekly", 0.028970566771138868], ["triweekly", 0.029380035243124665]]
+    },
+    "lat": "REPLACE_MEHansford,Texas"
   }]
 }

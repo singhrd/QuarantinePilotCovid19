@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06521739130434782], ["weekly", 0.06874932369554396], ["biweekly", 0.07218394819685293], ["triweekly", 0.07538157743529339]]
     },
     "lat": "REPLACE_METioga,Pennsylvania"
+  }, {
+    "locale": "Tioga,Pennsylvania",
+    "long": "REPLACE_METioga,Pennsylvania",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.009025557374504485], ["biweekly", 0.012732016529022751], ["triweekly", 0.012106387542106705]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.0558287023513306], ["biweekly", 1.4077716031351073], ["triweekly", 1.2904573028738484]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 120.71641496883545], ["weekly", 116.14115725864636], ["biweekly", 112.79769970120049], ["triweekly", 108.16378484088075]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.31610086299425083], ["triweekly", 0.30597200390092916]],
+      "Confirmed Cumulative Cases": [["daily", 49.0], ["weekly", 47.142857142857146], ["biweekly", 45.785714285714285], ["triweekly", 43.904761904761905]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.42857142857142855], ["biweekly", 0.5714285714285714], ["triweekly", 0.5238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.061224489795918366], ["weekly", 0.06367235013471491], ["biweekly", 0.06564274117206019], ["triweekly", 0.06869294040867813]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06521739130434782], ["weekly", 0.0676131322094055], ["biweekly", 0.07120323554565973], ["triweekly", 0.07440553484434395]]
+    },
+    "lat": "REPLACE_METioga,Pennsylvania"
   }]
 }

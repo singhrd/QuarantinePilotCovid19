@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06667695632041981], ["weekly", 0.06775063539406682], ["biweekly", 0.06877541924247314], ["triweekly", 0.06992032667409218]]
     },
     "lat": "REPLACE_MELancaster,Pennsylvania"
+  }, {
+    "locale": "Lancaster,Pennsylvania",
+    "long": "REPLACE_MELancaster,Pennsylvania",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008579934290933622], ["weekly", 0.005451077651536502], ["biweekly", 0.005547747646916028], ["triweekly", 0.005673315391000075]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.628083060301545], ["weekly", 6.596741209842337], ["biweekly", 6.583652437600587], ["triweekly", 6.59674120984234]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1244.0354464894342], ["weekly", 1213.4338969882212], ["biweekly", 1190.9997413658607], ["triweekly", 1168.2863586023427]],
+      "Daily Growth Rate": [["daily", 1.7058823529411764], ["weekly", 1.2558605129874791], ["biweekly", 1.1937600526480132], ["triweekly", 1.1250183018320974]],
+      "Confirmed Cumulative Cases": [["daily", 6789.0], ["weekly", 6622.0], ["biweekly", 6499.571428571428], ["triweekly", 6375.619047619048]],
+      "Confirmed Daily Cases": [["daily", 58.0], ["weekly", 36.0], ["biweekly", 35.92857142857143], ["triweekly", 36.0]],
+      "Confirmed Fatality Rate": [["daily", 0.06363234644277507], ["weekly", 0.06496202702386271], ["biweekly", 0.06589611898964863], ["triweekly", 0.06671801111484245]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06627799938631482], ["weekly", 0.06745850042672062], ["biweekly", 0.0685051839049299], ["triweekly", 0.06965095862639456]]
+    },
+    "lat": "REPLACE_MELancaster,Pennsylvania"
   }]
 }

@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04262295081967213], ["weekly", 0.04306989372076248], ["biweekly", 0.04352688450683128], ["triweekly", 0.043953318722445414]]
     },
     "lat": "REPLACE_MEGreene,New York"
+  }, {
+    "locale": "Greene,New York",
+    "long": "REPLACE_MEGreene,New York",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006493529310549029], ["weekly", 0.0009337101399692825], ["biweekly", 0.0021253043629851603], ["triweekly", 0.0022226256461966272]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.238365686191404], ["weekly", 0.6054808123130577], ["biweekly", 1.3623318277043797], ["triweekly", 1.4127885620638012]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 654.827498516572], ["weekly", 649.0754307995978], ["biweekly", 645.4425459257197], ["triweekly", 639.5895647400266]],
+      "Daily Growth Rate": [["daily", 1.2599210498948732], ["weekly", 0.14285714285714285], ["biweekly", 0.46104669120664116], ["triweekly", 0.5454596988996655]],
+      "Confirmed Cumulative Cases": [["daily", 309.0], ["weekly", 306.2857142857143], ["biweekly", 304.57142857142856], ["triweekly", 301.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.2857142857142857], ["biweekly", 0.6428571428571429], ["triweekly", 0.6666666666666666]],
+      "Confirmed Fatality Rate": [["daily", 0.045307443365695796], ["weekly", 0.042444251690103074], ["biweekly", 0.042685557687278976], ["triweekly", 0.04308288071730655]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04590163934426229], ["weekly", 0.04292686368445486], ["biweekly", 0.04340219523090829], ["triweekly", 0.04384094976328991]]
+    },
+    "lat": "REPLACE_MEGreene,New York"
   }]
 }

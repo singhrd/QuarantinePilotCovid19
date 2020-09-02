@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03832752613240418], ["weekly", 0.04054606303218554], ["biweekly", 0.0428603776513149], ["triweekly", 0.04548050444181001]]
     },
     "lat": "REPLACE_MECass,Illinois"
+  }, {
+    "locale": "Cass,Illinois",
+    "long": "REPLACE_MECass,Illinois",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.005851622518723636], ["biweekly", 0.010534570604933537], ["triweekly", 0.012286945850899697]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 14.112832092580177], ["biweekly", 24.109421491491137], ["triweekly", 26.657571730429233]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2461.513130814193], ["weekly", 2437.9917439932256], ["biweekly", 2354.490820778793], ["triweekly", 2249.4286263118074]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7781293761177429], ["biweekly", 1.15028917785479], ["triweekly", 1.1195594675609224]],
+      "Confirmed Cumulative Cases": [["daily", 299.0], ["weekly", 296.14285714285717], ["biweekly", 286.0], ["triweekly", 273.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.7142857142857142], ["biweekly", 2.9285714285714284], ["triweekly", 3.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.03678929765886288], ["weekly", 0.03714735460255318], ["biweekly", 0.03853898504720332], ["triweekly", 0.04051358323093511]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03793103448275862], ["weekly", 0.03993061549185346], ["biweekly", 0.042196697545126095], ["triweekly", 0.04471250827932666]]
+    },
+    "lat": "REPLACE_MECass,Illinois"
   }]
 }

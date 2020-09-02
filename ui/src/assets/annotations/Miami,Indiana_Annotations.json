@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0064516129032258064], ["weekly", 0.0067583556867420016], ["biweekly", 0.006906285525374774], ["triweekly", 0.007091580488787244]]
     },
     "lat": "REPLACE_MEMiami,Indiana"
+  }, {
+    "locale": "Miami,Indiana",
+    "long": "REPLACE_MEMiami,Indiana",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0031007776782479013], ["weekly", 0.005425606866459479], ["biweekly", 0.00747647304027778], ["triweekly", 0.006996687231131983]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.8156323910350265], ["weekly", 4.826798384631474], ["biweekly", 6.435731179508631], ["triweekly", 5.899420247882912]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 909.4492623043136], ["weekly", 888.5331359709107], ["biweekly", 865.0024938458321], ["triweekly", 844.4215618446951]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.8289620920237796], ["biweekly", 1.0692429507737946], ["triweekly", 1.0266902171905872]],
+      "Confirmed Cumulative Cases": [["daily", 323.0], ["weekly", 315.57142857142856], ["biweekly", 307.2142857142857], ["triweekly", 299.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.7142857142857142], ["biweekly", 2.2857142857142856], ["triweekly", 2.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.006191950464396285], ["weekly", 0.006338737941919738], ["biweekly", 0.0065167654699800045], ["triweekly", 0.006681739583218776]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006430868167202572], ["weekly", 0.006694792998040269], ["biweekly", 0.006853240403868294], ["triweekly", 0.00703390323422456]]
+    },
+    "lat": "REPLACE_MEMiami,Indiana"
   }]
 }

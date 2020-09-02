@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04081632653061224], ["weekly", 0.04235628800835782], ["biweekly", 0.042005490249119745], ["triweekly", 0.04311141991985918]]
     },
     "lat": "REPLACE_MELawrence,Arkansas"
+  }, {
+    "locale": "Lawrence,Arkansas",
+    "long": "REPLACE_MELawrence,Arkansas",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004008021397538641], ["weekly", 0.0023135265599971383], ["biweekly", 0.0053596561387795815], ["triweekly", 0.0072131848306122]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.095330976472022], ["weekly", 3.483046272269727], ["biweekly", 7.836854112606885], ["triweekly", 10.158884960786702]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1523.8327441180054], ["weekly", 1501.1929433482526], ["biweekly", 1476.3762386583305], ["triweekly", 1441.9811567196673]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.4134578034858681], ["biweekly", 1.0103003303143627], ["triweekly", 1.0148033948127495]],
+      "Confirmed Cumulative Cases": [["daily", 250.0], ["weekly", 246.28571428571428], ["biweekly", 242.21428571428572], ["triweekly", 236.57142857142858]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 1.2857142857142858], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.04], ["weekly", 0.04060548428711678], ["biweekly", 0.04009207565122297], ["triweekly", 0.04005058249652126]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04081632653061224], ["weekly", 0.04200289989986766], ["biweekly", 0.041916936803709545], ["triweekly", 0.04273845219995269]]
+    },
+    "lat": "REPLACE_MELawrence,Arkansas"
   }]
 }

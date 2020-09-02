@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02214022140221402], ["weekly", 0.021852437087334118], ["biweekly", 0.022169441967791383], ["triweekly", 0.022631537446930725]]
     },
     "lat": "REPLACE_MERichmond,Georgia"
+  }, {
+    "locale": "Richmond,Georgia",
+    "long": "REPLACE_MERichmond,Georgia",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003635766688887543], ["weekly", 0.008502576046533912], ["biweekly", 0.010806073753209664], ["triweekly", 0.014955995740736583]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.863231910249953], ["weekly", 24.618622965436582], ["biweekly", 29.9091579866622], ["triweekly", 38.27996006469031]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2993.3141745425096], ["weekly", 2908.5950737359494], ["biweekly", 2814.5999015255084], ["triweekly", 2674.565317885911]],
+      "Daily Growth Rate": [["daily", 0.29333333333333333], ["weekly", 1.8453885400313972], ["biweekly", 1.3969256893000372], ["triweekly", 1.3736471019338832]],
+      "Confirmed Cumulative Cases": [["daily", 6062.0], ["weekly", 5890.428571428572], ["biweekly", 5700.071428571428], ["triweekly", 5416.476190476191]],
+      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 49.857142857142854], ["biweekly", 60.57142857142857], ["triweekly", 77.52380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.021610029693170572], ["weekly", 0.02046297640679331], ["biweekly", 0.020105398505183145], ["triweekly", 0.020012130533469723]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022858139940673528], ["weekly", 0.02187863204441906], ["biweekly", 0.02216430430470642], ["triweekly", 0.02255384366569135]]
+    },
+    "lat": "REPLACE_MERichmond,Georgia"
   }]
 }

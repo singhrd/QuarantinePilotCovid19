@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012086620782272956], ["weekly", 0.012553616588058985], ["biweekly", 0.012847307227139221], ["triweekly", 0.013270099634856258]]
     },
     "lat": "REPLACE_MEKings,California"
+  }, {
+    "locale": "Kings,California",
+    "long": "REPLACE_MEKings,California",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003464024877816385], ["weekly", 0.008901681400369352], ["biweekly", 0.009595921286533431], ["triweekly", 0.016823844862360444]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.384726036354126], ["weekly", 35.775000467036556], ["biweekly", 37.222813801864405], ["triweekly", 58.75319920043342]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4159.8012292402245], ["weekly", 4012.4978983354813], ["biweekly", 3890.227727026471], ["triweekly", 3752.1405842315994]],
+      "Daily Growth Rate": [["daily", 0.39285714285714285], ["weekly", 1.649647858435366], ["biweekly", 1.5874054558062098], ["triweekly", 1.316510679443748]],
+      "Confirmed Cumulative Cases": [["daily", 6362.0], ["weekly", 6136.714285714285], ["biweekly", 5949.714285714285], ["triweekly", 5738.523809523809]],
+      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 54.714285714285715], ["biweekly", 56.92857142857143], ["triweekly", 89.85714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.011631562401760453], ["weekly", 0.011737309048377002], ["biweekly", 0.011771541927602183], ["triweekly", 0.011879441710729525]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012380793039986616], ["weekly", 0.012501972016943268], ["biweekly", 0.012651960949244088], ["triweekly", 0.013246805786337459]]
+    },
+    "lat": "REPLACE_MEKings,California"
   }]
 }

@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011764705882352941], ["weekly", 0.012566807195208805], ["biweekly", 0.01126761671335755], ["triweekly", 0.010154137117882302]]
     },
     "lat": "REPLACE_MELawrence,Alabama"
+  }, {
+    "locale": "Lawrence,Alabama",
+    "long": "REPLACE_MELawrence,Alabama",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008368249670516192], ["weekly", 0.01618981218671475], ["biweekly", 0.015527347503626767], ["triweekly", 0.013168566471359042]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.149192078726765], ["weekly", 22.128885571966606], ["biweekly", 20.176336845028377], ["triweekly", 16.63282248873307]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1457.903049447212], ["weekly", 1376.7638023500008], ["biweekly", 1302.1330510092505], ["triweekly", 1247.3170534159476]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.763488728824863], ["biweekly", 1.5248669149726044], ["triweekly", 1.3538795306166571]],
+      "Confirmed Cumulative Cases": [["daily", 480.0], ["weekly", 453.2857142857143], ["biweekly", 428.7142857142857], ["triweekly", 410.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 7.285714285714286], ["biweekly", 6.642857142857143], ["triweekly", 5.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.010416666666666666], ["weekly", 0.011041770132346737], ["biweekly", 0.010448704889581103], ["triweekly", 0.00950573618853488]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011547344110854504], ["weekly", 0.012382503708801186], ["biweekly", 0.011514363611562816], ["triweekly", 0.010412974830182413]]
+    },
+    "lat": "REPLACE_MELawrence,Alabama"
   }]
 }

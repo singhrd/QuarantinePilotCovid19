@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019867549668874173], ["weekly", 0.02015813255765158], ["biweekly", 0.020876541515494874], ["triweekly", 0.022326269132508774]]
     },
     "lat": "REPLACE_MEFalls,Texas"
+  }, {
+    "locale": "Falls,Texas",
+    "long": "REPLACE_MEFalls,Texas",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.011976191046715101], ["weekly", 0.013529707363088481], ["biweekly", 0.009661003281140676], ["triweekly", 0.012378929735091752]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.562698733884488], ["weekly", 12.38860578630481], ["biweekly", 8.672024050413365], ["triweekly", 10.461489330657395]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 971.266693646297], ["weekly", 934.1008762873827], ["biweekly", 899.8257336119389], ["triweekly", 872.708452057472]],
+      "Daily Growth Rate": [["daily", 0.6933612743506347], ["weekly", 1.4480097110713985], ["biweekly", 1.0931101393812217], ["triweekly", 1.2477295615216808]],
+      "Confirmed Cumulative Cases": [["daily", 168.0], ["weekly", 161.57142857142858], ["biweekly", 155.64285714285714], ["triweekly", 150.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.142857142857143], ["biweekly", 1.5], ["triweekly", 1.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.017857142857142856], ["weekly", 0.018578986143014647], ["biweekly", 0.01930983752865171], ["triweekly", 0.019940692089852614]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019230769230769232], ["weekly", 0.020040688914288778], ["biweekly", 0.020621545063271598], ["triweekly", 0.021973641627563392]]
+    },
+    "lat": "REPLACE_MEFalls,Texas"
   }]
 }

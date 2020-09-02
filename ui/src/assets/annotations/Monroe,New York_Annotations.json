@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04820859125867567], ["weekly", 0.048660814530892674], ["biweekly", 0.04945515191871832], ["triweekly", 0.050407944358833424]]
     },
     "lat": "REPLACE_MEMonroe,New York"
+  }, {
+    "locale": "Monroe,New York",
+    "long": "REPLACE_MEMonroe,New York",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.001832173469656695], ["weekly", 0.003232439729042826], ["biweekly", 0.0036134969209964396], ["triweekly", 0.00434945790797651]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.3481267778421884], ["weekly", 2.349592384239242], ["biweekly", 2.5903293088539194], ["triweekly", 3.0557540297756263]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 736.4816587351875], ["weekly", 728.3543801601961], ["biweekly", 719.8322930288363], ["triweekly", 709.3008550333595]],
+      "Daily Growth Rate": [["daily", 1.1111111111111112], ["weekly", 1.0506824524681668], ["biweekly", 1.0370659161100337], ["triweekly", 1.0358539340095918]],
+      "Confirmed Cumulative Cases": [["daily", 5463.0], ["weekly", 5402.714285714285], ["biweekly", 5339.5], ["triweekly", 5261.380952380952]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 17.428571428571427], ["biweekly", 19.214285714285715], ["triweekly", 22.666666666666668]],
+      "Confirmed Fatality Rate": [["daily", 0.04704374885593996], ["weekly", 0.047384839011580006], ["biweekly", 0.047858465959744], ["triweekly", 0.04855805139285534]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04804636380631894], ["weekly", 0.04852063973715851], ["biweekly", 0.04923893099811827], ["triweekly", 0.05017901671394683]]
+    },
+    "lat": "REPLACE_MEMonroe,New York"
   }]
 }

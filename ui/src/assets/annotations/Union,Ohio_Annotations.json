@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0030303030303030303], ["weekly", 0.003221259893101988], ["biweekly", 0.0034372178342509203], ["triweekly", 0.003723881328457942]]
     },
     "lat": "REPLACE_MEUnion,Ohio"
+  }, {
+    "locale": "Union,Ohio",
+    "long": "REPLACE_MEUnion,Ohio",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018792499349367553], ["weekly", 0.015957712797143055], ["biweekly", 0.01647314535881853], ["triweekly", 0.01778392271533288]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.866820370244797], ["weekly", 9.445020294684635], ["biweekly", 9.202840287128618], ["triweekly", 9.283566956313955]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 637.4177798874348], ["weekly", 597.2158986331361], ["biweekly", 566.5801276773001], ["triweekly", 535.8636300522786]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.2362244897959183], ["biweekly", 1.3288265306122449], ["triweekly", 1.3546180010465723]],
+      "Confirmed Cumulative Cases": [["daily", 376.0], ["weekly", 352.2857142857143], ["biweekly", 334.2142857142857], ["triweekly", 316.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 5.571428571428571], ["biweekly", 5.428571428571429], ["triweekly", 5.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.0026595744680851063], ["weekly", 0.0028416818683393717], ["biweekly", 0.0030041375769368638], ["triweekly", 0.00319552942448456]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.003003003003003003], ["weekly", 0.003166593285534356], ["biweekly", 0.003372453202557154], ["triweekly", 0.0036477229189661995]]
+    },
+    "lat": "REPLACE_MEUnion,Ohio"
   }]
 }

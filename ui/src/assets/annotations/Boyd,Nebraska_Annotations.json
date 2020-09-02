@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEBoyd,Nebraska"
+  }, {
+    "locale": "Boyd,Nebraska",
+    "long": "REPLACE_MEBoyd,Nebraska",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.015938825093872153], ["triweekly", 0.03300700859809265]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 7.4443534579021815], ["triweekly", 12.407255763170301]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 521.1047420531527], ["weekly", 521.1047420531527], ["biweekly", 502.4938584083971], ["triweekly", 459.068463237301]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.14285714285714285], ["triweekly", 0.23809523809523808]],
+      "Confirmed Cumulative Cases": [["daily", 10.0], ["weekly", 10.0], ["biweekly", 9.642857142857142], ["triweekly", 8.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.14285714285714285], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEBoyd,Nebraska"
   }]
 }

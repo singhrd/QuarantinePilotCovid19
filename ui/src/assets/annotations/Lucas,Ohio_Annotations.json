@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05590975968612065], ["weekly", 0.05760275493750885], ["biweekly", 0.05888416844536135], ["triweekly", 0.06033398177428974]]
     },
     "lat": "REPLACE_MELucas,Ohio"
+  }, {
+    "locale": "Lucas,Ohio",
+    "long": "REPLACE_MELucas,Ohio",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008842064897935487], ["weekly", 0.00686210891817675], ["biweekly", 0.007925050781553113], ["triweekly", 0.008427425945720234]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.306937350005136], ["weekly", 10.038566772810892], ["biweekly", 11.239192699127145], ["triweekly", 11.57269990088166]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1511.621391952338], ["weekly", 1468.9324701277599], ["biweekly", 1430.4790897654643], ["triweekly", 1389.8134449648637]],
+      "Daily Growth Rate": [["daily", 1.9655172413793103], ["weekly", 0.9963515323279118], ["biweekly", 1.0316610717080847], ["triweekly", 1.0992143943784252]],
+      "Confirmed Cumulative Cases": [["daily", 6475.0], ["weekly", 6292.142857142857], ["biweekly", 6127.428571428572], ["triweekly", 5953.238095238095]],
+      "Confirmed Daily Cases": [["daily", 57.0], ["weekly", 43.0], ["biweekly", 48.142857142857146], ["triweekly", 49.57142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.05297297297297297], ["weekly", 0.05418188683824448], ["biweekly", 0.05521191090614851], ["triweekly", 0.05624308405615242]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05578142787445113], ["weekly", 0.057183576158088764], ["biweekly", 0.05850725590560566], ["triweekly", 0.059885317225516634]]
+    },
+    "lat": "REPLACE_MELucas,Ohio"
   }]
 }

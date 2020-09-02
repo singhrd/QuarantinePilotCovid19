@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006937561942517344], ["weekly", 0.0073694519771086405], ["biweekly", 0.007358294831927751], ["triweekly", 0.007508684209837181]]
     },
     "lat": "REPLACE_MECoffee,Alabama"
+  }, {
+    "locale": "Coffee,Alabama",
+    "long": "REPLACE_MECoffee,Alabama",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008245580386751605], ["weekly", 0.010637409538228735], ["biweekly", 0.016070369461489938], ["triweekly", 0.013772215291365223]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.194604715142717], ["weekly", 21.288558218748125], ["biweekly", 29.885860576319484], ["triweekly", 24.836651255206146]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2093.9207519773795], ["weekly", 2001.9432632630446], ["biweekly", 1909.010518731202], ["triweekly", 1810.3462392943115]],
+      "Daily Growth Rate": [["daily", 1.125], ["weekly", 1.1336829176114889], ["biweekly", 2.6096378437073926], ["triweekly", 2.8664199962758863]],
+      "Confirmed Cumulative Cases": [["daily", 1096.0], ["weekly", 1047.857142857143], ["biweekly", 999.2142857142857], ["triweekly", 947.5714285714286]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 11.142857142857142], ["biweekly", 15.642857142857142], ["triweekly", 13.0]],
+      "Confirmed Fatality Rate": [["daily", 0.006386861313868613], ["weekly", 0.006684606961078505], ["biweekly", 0.006579398050777563], ["triweekly", 0.006756240403166515]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006896551724137931], ["weekly", 0.007373040483709209], ["biweekly", 0.007327334444178463], ["triweekly", 0.007450845544574032]]
+    },
+    "lat": "REPLACE_MECoffee,Alabama"
   }]
 }

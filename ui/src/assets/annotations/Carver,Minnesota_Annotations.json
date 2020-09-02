@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0038461538461538464], ["weekly", 0.004027030588506912], ["biweekly", 0.004142858626318332], ["triweekly", 0.003986309033247597]]
     },
     "lat": "REPLACE_MECarver,Minnesota"
+  }, {
+    "locale": "Carver,Minnesota",
+    "long": "REPLACE_MECarver,Minnesota",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004442477319561711], ["weekly", 0.010968994657574933], ["biweekly", 0.010904832866278382], ["triweekly", 0.011991590423754332]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.7578718990569895], ["weekly", 11.28295336062086], ["biweekly", 10.807166170715162], ["triweekly", 11.328266426326163]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1073.3759004272567], ["weekly", 1035.7207428261486], ["biweekly", 995.8225884726279], ["triweekly", 955.1541120021168]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.1774771524771523], ["biweekly", 1.1892204356490073], ["triweekly", 1.199554568006949]],
+      "Confirmed Cumulative Cases": [["daily", 1128.0], ["weekly", 1088.4285714285713], ["biweekly", 1046.5], ["triweekly", 1003.7619047619048]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 11.857142857142858], ["biweekly", 11.357142857142858], ["triweekly", 11.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.0035460992907801418], ["weekly", 0.00367718189080107], ["biweekly", 0.003830447400567765], ["triweekly", 0.003643765819143895]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0038240917782026767], ["weekly", 0.003983712910334462], ["biweekly", 0.004172124892698001], ["triweekly", 0.003986073923898238]]
+    },
+    "lat": "REPLACE_MECarver,Minnesota"
   }]
 }

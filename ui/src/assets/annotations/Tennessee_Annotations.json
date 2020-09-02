@@ -3334,14 +3334,29 @@
     "long": "REPLACE_METennessee",
     "date": "08/31/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.011079895725318423], ["weekly", 0.009076289634422403], ["biweekly", 0.010000112381758162], ["triweekly", 0.010789066861891834]],
-      "Confirmed Daily Cases per 100k": [["daily", 24.509516837481698], ["weekly", 19.34532524576449], ["biweekly", 20.52813218991843], ["triweekly", 21.23753747472635]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2224.3484626647146], ["weekly", 2137.9042041413927], ["biweekly", 2066.5530223802552], ["triweekly", 1990.4064700550794]],
-      "Daily Growth Rate": [["daily", 1.7827476038338659], ["weekly", 1.047771429421048], ["biweekly", 1.047258115829307], ["triweekly", 1.0455600241544973]],
-      "Confirmed Cumulative Cases": [["daily", 151923.0], ["weekly", 146018.85714285713], ["biweekly", 141145.57142857142], ["triweekly", 135944.7619047619]],
-      "Confirmed Daily Cases": [["daily", 1674.0], ["weekly", 1321.2857142857142], ["biweekly", 1402.0714285714287], ["triweekly", 1450.5238095238096]],
-      "Confirmed Fatality Rate": [["daily", 0.011367600692456048], ["weekly", 0.011300938976067558], ["biweekly", 0.011048933347544485], ["triweekly", 0.010797518839819035]],
+      "Spread Rate": [["daily", 0.011803684726372055], ["weekly", 0.009076289634422403], ["biweekly", 0.010000112381758162], ["triweekly", 0.010789066861891834]],
+      "Confirmed Daily Cases per 100k": [["daily", 26.120058565153734], ["weekly", 19.34532524576449], ["biweekly", 20.52813218991843], ["triweekly", 21.23753747472635]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2225.9590043923868], ["weekly", 2137.9042041413927], ["biweekly", 2066.5530223802552], ["triweekly", 1990.4064700550794]],
+      "Daily Growth Rate": [["daily", 1.8998935037273696], ["weekly", 1.047771429421048], ["biweekly", 1.047258115829307], ["triweekly", 1.0455600241544973]],
+      "Confirmed Cumulative Cases": [["daily", 152033.0], ["weekly", 146018.85714285713], ["biweekly", 141145.57142857142], ["triweekly", 135944.7619047619]],
+      "Confirmed Daily Cases": [["daily", 1784.0], ["weekly", 1321.2857142857142], ["biweekly", 1402.0714285714287], ["triweekly", 1450.5238095238096]],
+      "Confirmed Fatality Rate": [["daily", 0.01135937592496366], ["weekly", 0.011300938976067558], ["biweekly", 0.011048933347544485], ["triweekly", 0.010797518839819035]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012189871184047997], ["weekly", 0.012109580229793608], ["biweekly", 0.011914746282544011], ["triweekly", 0.01173354379738119]]
+    },
+    "lat": "REPLACE_METennessee"
+  }, {
+    "locale": "Tennessee",
+    "long": "REPLACE_METennessee",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008129566860800352], ["weekly", 0.010080271498544846], ["biweekly", 0.010232295573588703], ["triweekly", 0.010884753400872799]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.169838945827234], ["weekly", 21.664923656138885], ["biweekly", 21.220455971554067], ["triweekly", 21.659346022449977]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2244.1288433382138], ["weekly", 2159.569127797532], ["biweekly", 2087.773478351809], ["triweekly", 2012.0658160775292]],
+      "Daily Growth Rate": [["daily", 0.695627802690583], ["weekly", 1.2601709734926096], ["biweekly", 1.1396209022154582], ["triweekly", 1.1088169615362473]],
+      "Confirmed Cumulative Cases": [["daily", 153274.0], ["weekly", 147498.57142857142], ["biweekly", 142594.92857142858], ["triweekly", 137424.09523809524]],
+      "Confirmed Daily Cases": [["daily", 1241.0], ["weekly", 1479.7142857142858], ["biweekly", 1449.357142857143], ["triweekly", 1479.3333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.011437034330675784], ["weekly", 0.011332540059199703], ["biweekly", 0.011117523526566772], ["triweekly", 0.010857003629458664]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012301668058469765], ["weekly", 0.012139853696687615], ["biweekly", 0.01197649402456145], ["triweekly", 0.011774272470649551]]
     },
     "lat": "REPLACE_METennessee"
   }]

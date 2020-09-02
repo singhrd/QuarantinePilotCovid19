@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04032258064516129], ["weekly", 0.04152398799416725], ["biweekly", 0.04194843467504973], ["triweekly", 0.04246149278914112]]
     },
     "lat": "REPLACE_MEWyoming,New York"
+  }, {
+    "locale": "Wyoming,New York",
+    "long": "REPLACE_MEWyoming,New York",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0022857630494915577], ["biweekly", 0.004685520177558062], ["triweekly", 0.0031236801183720415]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.7168124782716218], ["biweekly", 1.4336249565432433], ["triweekly", 0.9557499710288289]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 316.1143029177852], ["weekly", 314.3222717221061], ["biweekly", 309.3045843742048], ["triweekly", 304.88424075819637]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.2648510063112282], ["triweekly", 0.17656733754081883]],
+      "Confirmed Cumulative Cases": [["daily", 126.0], ["weekly", 125.28571428571429], ["biweekly", 123.28571428571429], ["triweekly", 121.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.5714285714285714], ["triweekly", 0.38095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.03968253968253968], ["weekly", 0.039909297052154194], ["biweekly", 0.04057019247239137], ["triweekly", 0.04117108876690499]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04], ["weekly", 0.04123108789262856], ["biweekly", 0.04180198462428038], ["triweekly", 0.04227457817173835]]
+    },
+    "lat": "REPLACE_MEWyoming,New York"
   }]
 }

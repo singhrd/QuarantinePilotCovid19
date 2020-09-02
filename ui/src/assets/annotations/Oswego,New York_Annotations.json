@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010638297872340425], ["weekly", 0.010849205212043635], ["biweekly", 0.01116941188357908], ["triweekly", 0.011435072896410579]]
     },
     "lat": "REPLACE_MEOswego,New York"
+  }, {
+    "locale": "Oswego,New York",
+    "long": "REPLACE_MEOswego,New York",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003294895896853056], ["weekly", 0.010260819224464994], ["biweekly", 0.007709338515240789], ["triweekly", 0.008587776989611832]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.8537959769133567], ["weekly", 2.56138793074007], ["biweekly", 1.8905482345938613], ["triweekly", 2.0328475640794217]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 259.55397698166047], ["weekly", 248.21068757409725], ["biweekly", 242.7829845780052], ["triweekly", 236.9893690203788]],
+      "Daily Growth Rate": [["daily", 0.125], ["weekly", 1.485531067747935], ["biweekly", 1.1056855502339504], ["triweekly", 1.2154394687119616]],
+      "Confirmed Cumulative Cases": [["daily", 304.0], ["weekly", 290.7142857142857], ["biweekly", 284.35714285714283], ["triweekly", 277.57142857142856]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.0], ["biweekly", 2.2142857142857144], ["triweekly", 2.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.009868421052631578], ["weekly", 0.010323602084724827], ["biweekly", 0.010558466941786701], ["triweekly", 0.010829408158363807]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010526315789473684], ["weekly", 0.01079333179884857], ["biweekly", 0.011082311195183296], ["triweekly", 0.011365621643019724]]
+    },
+    "lat": "REPLACE_MEOswego,New York"
   }]
 }

@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01639344262295082], ["weekly", 0.013584012563564066], ["biweekly", 0.013253832647913178], ["triweekly", 0.013329913756635265]]
     },
     "lat": "REPLACE_MEOrange,Virginia"
+  }, {
+    "locale": "Orange,Virginia",
+    "long": "REPLACE_MEOrange,Virginia",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007604599385219402], ["weekly", 0.010168039781127776], ["biweekly", 0.007465192766820434], ["triweekly", 0.00599651396377635]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.397964967207363], ["weekly", 6.940240672123752], ["biweekly", 5.012396040978265], ["triweekly", 3.9842122377006723]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 712.5313756713718], ["weekly", 692.0962225812298], ["biweekly", 673.7816985853477], ["triweekly", 658.6802489747078]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.8966632304776233], ["biweekly", 0.8028526051160094], ["triweekly", 0.721626192095106]],
+      "Confirmed Cumulative Cases": [["daily", 264.0], ["weekly", 256.42857142857144], ["biweekly", 249.64285714285714], ["triweekly", 244.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.5714285714285716], ["biweekly", 1.8571428571428572], ["triweekly", 1.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.015151515151515152], ["weekly", 0.013343360844116806], ["biweekly", 0.012848436435908868], ["triweekly", 0.012860406221348904]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01606425702811245], ["weekly", 0.014109952308731374], ["biweekly", 0.013497149050480165], ["triweekly", 0.013439863070001805]]
+    },
+    "lat": "REPLACE_MEOrange,Virginia"
   }]
 }

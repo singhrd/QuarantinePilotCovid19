@@ -3344,5 +3344,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03508771929824561], ["weekly", 0.036205383276622274], ["biweekly", 0.03720215518042807], ["triweekly", 0.03774157805089641]]
     },
     "lat": "REPLACE_MELake,Ohio"
+  }, {
+    "locale": "Lake,Ohio",
+    "long": "REPLACE_MELake,Ohio",
+    "date": "09/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006042314455962483], ["weekly", 0.007327613483935735], ["biweekly", 0.007585901497910592], ["triweekly", 0.007654189767941918]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.4760090202434077], ["weekly", 4.096724916715445], ["biweekly", 4.127760711539047], ["triweekly", 4.055343856950643]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 577.0174973604057], ["weekly", 561.3133851796632], ["biweekly", 546.8196689970412], ["triweekly", 532.6983823523022]],
+      "Daily Growth Rate": [["daily", 0.8], ["weekly", 1.2430065965780253], ["biweekly", 1.1511750154607296], ["triweekly", 1.1469473648045077]],
+      "Confirmed Cumulative Cases": [["daily", 1328.0], ["weekly", 1291.857142857143], ["biweekly", 1258.5], ["triweekly", 1226.0]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 9.428571428571429], ["biweekly", 9.5], ["triweekly", 9.333333333333334]],
+      "Confirmed Fatality Rate": [["daily", 0.03313253012048193], ["weekly", 0.03406774365749955], ["biweekly", 0.035053541725801704], ["triweekly", 0.035591785197792276]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03486529318541997], ["weekly", 0.03592245185370947], ["biweekly", 0.03697583314758796], ["triweekly", 0.037677499670221166]]
+    },
+    "lat": "REPLACE_MELake,Ohio"
   }]
 }
