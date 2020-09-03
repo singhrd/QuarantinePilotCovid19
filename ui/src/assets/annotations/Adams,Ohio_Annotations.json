@@ -3359,5 +3359,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.047058823529411764], ["weekly", 0.049669275905141606], ["biweekly", 0.048133322328911037], ["triweekly", 0.04336894234046793]]
     },
     "lat": "REPLACE_MEAdams,Ohio"
+  }, {
+    "locale": "Adams,Ohio",
+    "long": "REPLACE_MEAdams,Ohio",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010695289116747553], ["weekly", 0.012849748094705658], ["biweekly", 0.016323885710649005], ["triweekly", 0.020082172808568804]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.6103689797097265], ["weekly", 4.126135976811116], ["biweekly", 4.8997864724632], ["triweekly", 5.501514635748156]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 339.3746840927143], ["weekly", 325.4489751709768], ["biweekly", 311.2653827506885], ["triweekly", 290.8925863651836]],
+      "Daily Growth Rate": [["daily", 0.7071067811865476], ["weekly", 0.9285714285714286], ["biweekly", 0.8511904761904762], ["triweekly", 0.8997482972644443]],
+      "Confirmed Cumulative Cases": [["daily", 94.0], ["weekly", 90.14285714285714], ["biweekly", 86.21428571428571], ["triweekly", 80.57142857142857]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.1428571428571428], ["biweekly", 1.3571428571428572], ["triweekly", 1.5238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.0425531914893617], ["weekly", 0.044406226696381904], ["biweekly", 0.04214502359073569], ["triweekly", 0.038379957800866095]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.046511627906976744], ["weekly", 0.04866995725876414], ["biweekly", 0.04798178630466527], ["triweekly", 0.04390915842690252]]
+    },
+    "lat": "REPLACE_MEAdams,Ohio"
   }]
 }

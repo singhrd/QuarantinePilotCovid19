@@ -3349,14 +3349,29 @@
     "long": "REPLACE_MEIowa",
     "date": "09/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.009077171990872657], ["weekly", 0.019463007576007385], ["biweekly", 0.015085458194000851], ["triweekly", 0.013480716605777215]],
-      "Confirmed Daily Cases per 100k": [["daily", 18.82911392405063], ["weekly", 37.572332730560575], ["biweekly", 28.080922242314646], ["triweekly", 24.24352019288728]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2083.76582278481], ["weekly", 1964.1455696202531], ["biweekly", 1854.5501808318263], ["triweekly", 1777.031344183243]],
-      "Daily Growth Rate": [["daily", 0.9111791730474732], ["weekly", 1.168593430620431], ["biweekly", 1.1725813437480075], ["triweekly", 1.1599241742036996]],
-      "Confirmed Cumulative Cases": [["daily", 65847.0], ["weekly", 62067.0], ["biweekly", 58603.78571428572], ["triweekly", 56154.19047619047]],
-      "Confirmed Daily Cases": [["daily", 595.0], ["weekly", 1187.2857142857142], ["biweekly", 887.3571428571429], ["triweekly", 766.0952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.01708506082281653], ["weekly", 0.017691674008086057], ["biweekly", 0.018143800557950195], ["triweekly", 0.018388857004153374]],
+      "Spread Rate": [["daily", 0.009061985154820817], ["weekly", 0.019463007576007385], ["biweekly", 0.015085458194000851], ["triweekly", 0.013480716605777215]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.79746835443038], ["weekly", 37.572332730560575], ["biweekly", 28.080922242314646], ["triweekly", 24.24352019288728]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2083.73417721519], ["weekly", 1964.1455696202531], ["biweekly", 1854.5501808318263], ["triweekly", 1777.031344183243]],
+      "Daily Growth Rate": [["daily", 0.9096477794793262], ["weekly", 1.168593430620431], ["biweekly", 1.1725813437480075], ["triweekly", 1.1599241742036996]],
+      "Confirmed Cumulative Cases": [["daily", 65846.0], ["weekly", 62067.0], ["biweekly", 58603.78571428572], ["triweekly", 56154.19047619047]],
+      "Confirmed Daily Cases": [["daily", 594.0], ["weekly", 1187.2857142857142], ["biweekly", 887.3571428571429], ["triweekly", 766.0952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.017085320292804424], ["weekly", 0.017691674008086057], ["biweekly", 0.018143800557950195], ["triweekly", 0.018388857004153374]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01952921570669722], ["weekly", 0.019894896605919], ["biweekly", 0.019949836527114146], ["triweekly", 0.020040449724764264]]
+    },
+    "lat": "REPLACE_MEIowa"
+  }, {
+    "locale": "Iowa",
+    "long": "REPLACE_MEIowa",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009326719612589685], ["weekly", 0.019098850469333684], ["biweekly", 0.015231534933247026], ["triweekly", 0.013567707628350604]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.525316455696203], ["weekly", 37.25135623869801], ["biweekly", 28.582730560578664], ["triweekly", 24.60066305003014]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2103.259493670886], ["weekly", 2001.3969258589511], ["biweekly", 1883.1329113924053], ["triweekly", 1801.6320072332728]],
+      "Daily Growth Rate": [["daily", 1.0387205387205387], ["weekly", 1.1085431134031918], ["biweekly", 1.1679974716016166], ["triweekly", 1.1338529800292458]],
+      "Confirmed Cumulative Cases": [["daily", 66463.0], ["weekly", 63244.142857142855], ["biweekly", 59507.0], ["triweekly", 56931.57142857143]],
+      "Confirmed Daily Cases": [["daily", 617.0], ["weekly", 1177.142857142857], ["biweekly", 903.2142857142857], ["triweekly", 777.3809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.01706212479123723], ["weekly", 0.017506219518690837], ["biweekly", 0.01801887826177623], ["triweekly", 0.018292776694039597]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019264745854851863], ["weekly", 0.019841121582388294], ["biweekly", 0.019899506206948896], ["triweekly", 0.01999600950822879]]
     },
     "lat": "REPLACE_MEIowa"
   }]

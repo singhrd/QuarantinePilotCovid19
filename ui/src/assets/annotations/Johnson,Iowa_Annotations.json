@@ -3349,14 +3349,29 @@
     "long": "REPLACE_MEJohnson,Iowa",
     "date": "09/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.028043900901513652], ["weekly", 0.05947372107661751], ["biweekly", 0.04132756084300609], ["triweekly", 0.029781325971184863]],
-      "Confirmed Daily Cases per 100k": [["daily", 74.10348021701734], ["weekly", 126.75097827936257], ["biweekly", 81.75957957617346], ["triweekly", 57.6885511383328]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2679.6347757046447], ["weekly", 2242.291914780998], ["biweekly", 1915.3953760940658], ["triweekly", 1753.7193519726272]],
-      "Daily Growth Rate": [["daily", 1.018181818181818], ["weekly", 1.2006293775135188], ["biweekly", 1.2834946857687406], ["triweekly", 1.3410759765490283]],
-      "Confirmed Cumulative Cases": [["daily", 4050.0], ["weekly", 3389.0], ["biweekly", 2894.9285714285716], ["triweekly", 2650.5714285714284]],
-      "Confirmed Daily Cases": [["daily", 112.0], ["weekly", 191.57142857142858], ["biweekly", 123.57142857142857], ["triweekly", 87.19047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.006419753086419753], ["weekly", 0.007693633226163974], ["biweekly", 0.00873184057001653], ["triweekly", 0.008992489291372347]],
+      "Spread Rate": [["daily", 0.028290784003619507], ["weekly", 0.05947372107661751], ["biweekly", 0.04132756084300609], ["triweekly", 0.029781325971184863]],
+      "Confirmed Daily Cases per 100k": [["daily", 74.7651184332407], ["weekly", 126.75097827936257], ["biweekly", 81.75957957617346], ["triweekly", 57.6885511383328]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2680.296413920868], ["weekly", 2242.291914780998], ["biweekly", 1915.3953760940658], ["triweekly", 1753.7193519726272]],
+      "Daily Growth Rate": [["daily", 1.0272727272727273], ["weekly", 1.2006293775135188], ["biweekly", 1.2834946857687406], ["triweekly", 1.3410759765490283]],
+      "Confirmed Cumulative Cases": [["daily", 4051.0], ["weekly", 3389.0], ["biweekly", 2894.9285714285716], ["triweekly", 2650.5714285714284]],
+      "Confirmed Daily Cases": [["daily", 113.0], ["weekly", 191.57142857142858], ["biweekly", 123.57142857142857], ["triweekly", 87.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.006418168353492965], ["weekly", 0.007693633226163974], ["biweekly", 0.00873184057001653], ["triweekly", 0.008992489291372347]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009604728481714075], ["weekly", 0.010730473661284117], ["biweekly", 0.010782483308369442], ["triweekly", 0.010544933910125797]]
+    },
+    "lat": "REPLACE_MEJohnson,Iowa"
+  }, {
+    "locale": "Johnson,Iowa",
+    "long": "REPLACE_MEJohnson,Iowa",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.027512386532169586], ["weekly", 0.05758896479834138], ["biweekly", 0.04184384223327938], ["triweekly", 0.03088054843053993]],
+      "Confirmed Daily Cases per 100k": [["daily", 74.7651184332407], ["weekly", 127.03453751488686], ["biweekly", 84.87873116694077], ["triweekly", 60.90222247427488]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2755.0615323541087], ["weekly", 2369.3264522958843], ["biweekly", 2000.2741072610065], ["triweekly", 1814.621574446902]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.081038798600906], ["biweekly", 1.1593923175487255], ["triweekly", 1.34237467784773]],
+      "Confirmed Cumulative Cases": [["daily", 4164.0], ["weekly", 3581.0], ["biweekly", 3023.214285714286], ["triweekly", 2742.6190476190477]],
+      "Confirmed Daily Cases": [["daily", 113.0], ["weekly", 192.0], ["biweekly", 128.28571428571428], ["triweekly", 92.04761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.006243996157540826], ["weekly", 0.007343956817535841], ["biweekly", 0.008493417055196342], ["triweekly", 0.00887093887482255]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008831521739130434], ["weekly", 0.010582146941376944], ["biweekly", 0.010726595507353335], ["triweekly", 0.010540453079178955]]
     },
     "lat": "REPLACE_MEJohnson,Iowa"
   }]

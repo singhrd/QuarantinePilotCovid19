@@ -3349,14 +3349,29 @@
     "long": "REPLACE_MEBremer,Iowa",
     "date": "09/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.023881732003387057], ["weekly", 0.03176979277012012], ["biweekly", 0.021490011773738247], ["triweekly", 0.017960397995031425]],
-      "Confirmed Daily Cases per 100k": [["daily", 31.920836325911736], ["weekly", 37.62098566982455], ["biweekly", 24.510642178825087], ["triweekly", 19.760517725564412]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1352.6454393105098], ["weekly", 1157.7003317486917], ["biweekly", 1094.4286740312593], ["triweekly", 1046.3574145642615]],
-      "Daily Growth Rate": [["daily", 0.24242424242424243], ["weekly", 2.231622345645136], ["biweekly", 1.6642805605776698], ["triweekly", 1.585702750588021]],
-      "Confirmed Cumulative Cases": [["daily", 339.0], ["weekly", 290.14285714285717], ["biweekly", 274.2857142857143], ["triweekly", 262.23809523809524]],
-      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 9.428571428571429], ["biweekly", 6.142857142857143], ["triweekly", 4.9523809523809526]],
-      "Confirmed Fatality Rate": [["daily", 0.02064896755162242], ["weekly", 0.024227378193356717], ["biweekly", 0.025665944643441914], ["triweekly", 0.02691426361546862]],
+      "Spread Rate": [["daily", 0.020927520105956], ["weekly", 0.03176979277012012], ["biweekly", 0.021490011773738247], ["triweekly", 0.017960397995031425]],
+      "Confirmed Daily Cases per 100k": [["daily", 27.93073178517277], ["weekly", 37.62098566982455], ["biweekly", 24.510642178825087], ["triweekly", 19.760517725564412]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1348.655334769771], ["weekly", 1157.7003317486917], ["biweekly", 1094.4286740312593], ["triweekly", 1046.3574145642615]],
+      "Daily Growth Rate": [["daily", 0.21212121212121213], ["weekly", 2.231622345645136], ["biweekly", 1.6642805605776698], ["triweekly", 1.585702750588021]],
+      "Confirmed Cumulative Cases": [["daily", 338.0], ["weekly", 290.14285714285717], ["biweekly", 274.2857142857143], ["triweekly", 262.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 9.428571428571429], ["biweekly", 6.142857142857143], ["triweekly", 4.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.020710059171597635], ["weekly", 0.024227378193356717], ["biweekly", 0.025665944643441914], ["triweekly", 0.02691426361546862]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.026217228464419477], ["weekly", 0.027104511093527104], ["biweekly", 0.028257706326524572], ["triweekly", 0.029963845384936957]]
+    },
+    "lat": "REPLACE_MEBremer,Iowa"
+  }, {
+    "locale": "Bremer,Iowa",
+    "long": "REPLACE_MEBremer,Iowa",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05188483536901156], ["weekly", 0.03368531958325275], ["biweekly", 0.022115510665574028], ["triweekly", 0.018331742217134444]],
+      "Confirmed Daily Cases per 100k": [["daily", 71.82188173330141], ["weekly", 40.471060341780955], ["biweekly", 25.65067204760765], ["triweekly", 20.520537638086118]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1420.4772165030722], ["weekly", 1198.1713920904729], ["biweekly", 1120.079346078867], ["triweekly", 1066.8779522023476]],
+      "Daily Growth Rate": [["daily", 2.5714285714285716], ["weekly", 2.059894867037724], ["biweekly", 1.5722892185863278], ["triweekly", 1.4529466178318882]],
+      "Confirmed Cumulative Cases": [["daily", 356.0], ["weekly", 300.2857142857143], ["biweekly", 280.7142857142857], ["triweekly", 267.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 10.142857142857142], ["biweekly", 6.428571428571429], ["triweekly", 5.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.019662921348314606], ["weekly", 0.023440639722953596], ["biweekly", 0.02512910555201225], ["triweekly", 0.02645118154703538]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.025547445255474453], ["weekly", 0.026817571381070902], ["biweekly", 0.02795645245907627], ["triweekly", 0.029476173724512483]]
     },
     "lat": "REPLACE_MEBremer,Iowa"
   }]

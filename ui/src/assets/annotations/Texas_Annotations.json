@@ -3349,14 +3349,29 @@
     "long": "REPLACE_METexas",
     "date": "09/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.007849582959185142], ["weekly", 0.007487433412947299], ["biweekly", 0.00842721457709342], ["triweekly", 0.010169929653291512]],
-      "Confirmed Daily Cases per 100k": [["daily", 17.4], ["weekly", 16.1064039408867], ["biweekly", 17.551477832512315], ["triweekly", 20.219211822660096]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2225.3896551724138], ["weekly", 2165.704433497537], ["biweekly", 2105.036699507389], ["triweekly", 2032.432183908046]],
-      "Daily Growth Rate": [["daily", 1.3384615384615384], ["weekly", 1.0016319047775448], ["biweekly", 1.0392564168380671], ["triweekly", 1.0225798544198212]],
-      "Confirmed Cumulative Cases": [["daily", 645363.0], ["weekly", 628054.2857142857], ["biweekly", 610460.6428571428], ["triweekly", 589405.3333333334]],
-      "Confirmed Daily Cases": [["daily", 5046.0], ["weekly", 4670.857142857143], ["biweekly", 5089.928571428572], ["triweekly", 5863.571428571428]],
-      "Confirmed Fatality Rate": [["daily", 0.02014990013372319], ["weekly", 0.01994110791209274], ["biweekly", 0.01958327614673263], ["triweekly", 0.01918410559131581]],
+      "Spread Rate": [["daily", 0.008114515019604696], ["weekly", 0.007487433412947299], ["biweekly", 0.00842721457709342], ["triweekly", 0.010169929653291512]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.989655172413794], ["weekly", 16.1064039408867], ["biweekly", 17.551477832512315], ["triweekly", 20.219211822660096]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2225.979310344828], ["weekly", 2165.704433497537], ["biweekly", 2105.036699507389], ["triweekly", 2032.432183908046]],
+      "Daily Growth Rate": [["daily", 1.3838196286472149], ["weekly", 1.0016319047775448], ["biweekly", 1.0392564168380671], ["triweekly", 1.0225798544198212]],
+      "Confirmed Cumulative Cases": [["daily", 645534.0], ["weekly", 628054.2857142857], ["biweekly", 610460.6428571428], ["triweekly", 589405.3333333334]],
+      "Confirmed Daily Cases": [["daily", 5217.0], ["weekly", 4670.857142857143], ["biweekly", 5089.928571428572], ["triweekly", 5863.571428571428]],
+      "Confirmed Fatality Rate": [["daily", 0.020144562486251693], ["weekly", 0.01994110791209274], ["biweekly", 0.01958327614673263], ["triweekly", 0.01918410559131581]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.021189264583913823], ["weekly", 0.02112516210880986], ["biweekly", 0.020977289687777404], ["triweekly", 0.020739292672686635]]
+    },
+    "lat": "REPLACE_METexas"
+  }, {
+    "locale": "Texas",
+    "long": "REPLACE_METexas",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006654452838498415], ["weekly", 0.0072228950988620765], ["biweekly", 0.007989600350893435], ["triweekly", 0.009851139202150062]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.862068965517242], ["weekly", 15.678325123152707], ["biweekly", 16.826108374384237], ["triweekly", 19.80886699507389]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2240.841379310345], ["weekly", 2181.38275862069], ["biweekly", 2121.8628078817733], ["triweekly", 2052.2410509031197]],
+      "Daily Growth Rate": [["daily", 0.8261452942304006], ["weekly", 1.0405786719363335], ["biweekly", 1.033881870163729], ["triweekly", 1.0343628355441257]],
+      "Confirmed Cumulative Cases": [["daily", 649844.0], ["weekly", 632601.0], ["biweekly", 615340.2142857143], ["triweekly", 595149.9047619047]],
+      "Confirmed Daily Cases": [["daily", 4310.0], ["weekly", 4546.714285714285], ["biweekly", 4879.571428571428], ["triweekly", 5744.571428571428]],
+      "Confirmed Fatality Rate": [["daily", 0.020289484860982022], ["weekly", 0.020022779973318344], ["biweekly", 0.019685965930562786], ["triweekly", 0.019298671211222057]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02127175575474803], ["weekly", 0.02117932994358609], ["biweekly", 0.02102140745672179], ["triweekly", 0.020811132863298963]]
     },
     "lat": "REPLACE_METexas"
   }]

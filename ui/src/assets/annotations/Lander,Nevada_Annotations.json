@@ -3359,5 +3359,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.018627536484679342], ["biweekly", 0.01898302055865081], ["triweekly", 0.01924731716048242]]
     },
     "lat": "REPLACE_MELander,Nevada"
+  }, {
+    "locale": "Lander,Nevada",
+    "long": "REPLACE_MELander,Nevada",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03226086221822122], ["weekly", 0.009688942334108728], ["biweekly", 0.01140215325656313], ["triweekly", 0.008526106259475506]],
+      "Confirmed Daily Cases per 100k": [["daily", 36.153289949385396], ["weekly", 10.329511414110113], ["biweekly", 11.620700340873878], ["triweekly", 8.607926178425094]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1138.82863340564], ["weekly", 1069.1044313603966], ["biweekly", 1026.4951967771924], ["triweekly", 996.7978514616259]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.2857142857142857], ["biweekly", 0.17857142857142858], ["triweekly", 0.11904761904761904]],
+      "Confirmed Cumulative Cases": [["daily", 63.0], ["weekly", 59.142857142857146], ["biweekly", 56.785714285714285], ["triweekly", 55.142857142857146]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.5714285714285714], ["biweekly", 0.6428571428571429], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.015873015873015872], ["weekly", 0.01691151209216572], ["biweekly", 0.017649030746876362], ["triweekly", 0.018194232808482827]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.018386549401586995], ["biweekly", 0.018835593166641375], ["triweekly", 0.01913035809615493]]
+    },
+    "lat": "REPLACE_MELander,Nevada"
   }]
 }

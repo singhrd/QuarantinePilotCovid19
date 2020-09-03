@@ -3359,5 +3359,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.052756892230576447], ["biweekly", 0.05631787802840436], ["triweekly", 0.061269741814854596]]
     },
     "lat": "REPLACE_MEScotland,Missouri"
+  }, {
+    "locale": "Scotland,Missouri",
+    "long": "REPLACE_MEScotland,Missouri",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.10536051565782634], ["weekly", 0.0], ["biweekly", -0.0038619443764482675], ["triweekly", 0.008681978894950213]],
+      "Confirmed Daily Cases per 100k": [["daily", 40.79967360261118], ["weekly", 0.0], ["biweekly", -1.4571312000932564], ["triweekly", 2.9142624001865123]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 407.99673602611176], ["weekly", 367.19706242350054], ["biweekly", 375.9398496240602], ["triweekly", 369.1399040236251]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.07142857142857142], ["triweekly", 0.18639112201776642]],
+      "Confirmed Cumulative Cases": [["daily", 20.0], ["weekly", 18.0], ["biweekly", 18.428571428571427], ["triweekly", 18.095238095238095]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.0], ["biweekly", -0.07142857142857142], ["triweekly", 0.14285714285714285]],
+      "Confirmed Fatality Rate": [["daily", 0.05], ["weekly", 0.055555555555555566], ["biweekly", 0.05436507936507938], ["triweekly", 0.05553467000835423]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.05317460317460317], ["biweekly", 0.05552422723475355], ["triweekly", 0.05994699049210328]]
+    },
+    "lat": "REPLACE_MEScotland,Missouri"
   }]
 }

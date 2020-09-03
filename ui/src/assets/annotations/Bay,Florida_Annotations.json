@@ -3359,5 +3359,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015206929740134744], ["weekly", 0.015257245853248799], ["biweekly", 0.015003792044667372], ["triweekly", 0.014621169734173722]]
     },
     "lat": "REPLACE_MEBay,Florida"
+  }, {
+    "locale": "Bay,Florida",
+    "long": "REPLACE_MEBay,Florida",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003328405439610549], ["weekly", 0.005502446669279999], ["biweekly", 0.007131412742900142], ["triweekly", 0.008430393368592567]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.30308233879969], ["weekly", 16.681180929485215], ["biweekly", 20.97413190398509], ["triweekly", 23.876984467694527]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3100.65539051544], ["weekly", 3049.957683768965], ["biweekly", 2982.0881731244917], ["triweekly", 2894.2121480972687]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.6211407639979067], ["biweekly", 1.279896695760751], ["triweekly", 1.3137694811258616]],
+      "Confirmed Cumulative Cases": [["daily", 5417.0], ["weekly", 5328.428571428572], ["biweekly", 5209.857142857143], ["triweekly", 5056.333333333333]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 29.142857142857142], ["biweekly", 36.642857142857146], ["triweekly", 41.714285714285715]],
+      "Confirmed Fatality Rate": [["daily", 0.015137529998153959], ["weekly", 0.014584622947799322], ["biweekly", 0.014193724808483707], ["triweekly", 0.01370717632548726]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.015657819362230284], ["weekly", 0.015266048224756263], ["biweekly", 0.015031917233616385], ["triweekly", 0.014713789103759574]]
+    },
+    "lat": "REPLACE_MEBay,Florida"
   }]
 }

@@ -3359,5 +3359,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01079950729038357], ["weekly", 0.010787540122594766], ["biweekly", 0.01083465311111924], ["triweekly", 0.010827686408741412]]
     },
     "lat": "REPLACE_MEOrange,Florida"
+  }, {
+    "locale": "Orange,Florida",
+    "long": "REPLACE_MEOrange,Florida",
+    "date": "09/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0024147310254392096], ["weekly", 0.00597094658836385], ["biweekly", 0.005486150273409913], ["triweekly", 0.0060726175732606505]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.315251619718512], ["weekly", 15.27552745678666], ["biweekly", 13.794108854433862], ["triweekly", 14.89278493437948]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2618.4612028257884], ["weekly", 2557.4206051897427], ["biweekly", 2515.5461810976317], ["triweekly", 2468.238180124919]],
+      "Daily Growth Rate": [["daily", 0.17670682730923695], ["weekly", 1.4159272801834049], ["biweekly", 1.1812623456996392], ["triweekly", 1.167411642558888]],
+      "Confirmed Cumulative Cases": [["daily", 36487.0], ["weekly", 35636.42857142857], ["biweekly", 35052.92857142857], ["triweekly", 34393.71428571428]],
+      "Confirmed Daily Cases": [["daily", 88.0], ["weekly", 212.85714285714286], ["biweekly", 192.21428571428572], ["triweekly", 207.52380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.010469482281360484], ["weekly", 0.010438795594272904], ["biweekly", 0.01042707108204563], ["triweekly", 0.010388628985423117]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010888774870303859], ["weekly", 0.010791904460624946], ["biweekly", 0.010823566898122455], ["triweekly", 0.01084583462395516]]
+    },
+    "lat": "REPLACE_MEOrange,Florida"
   }]
 }
