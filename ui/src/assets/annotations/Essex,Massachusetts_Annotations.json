@@ -3364,14 +3364,44 @@
     "long": "REPLACE_MEEssex,Massachusetts",
     "date": "09/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.002660898428086002], ["biweekly", 0.00380866811476047], ["triweekly", 0.00253911207650698]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 6.318757221760133], ["biweekly", 8.889712882189759], ["triweekly", 5.926475254793172]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2396.8548883825033], ["weekly", 2380.523888342309], ["biweekly", 2357.8107624549225], ["triweekly", 2329.340144313897]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0683474126373829], ["biweekly", 0.8359434936166226], ["triweekly", 0.5572956624110817]],
-      "Confirmed Cumulative Cases": [["daily", 18912.0], ["weekly", 18783.14285714286], ["biweekly", 18603.928571428572], ["triweekly", 18379.285714285714]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 49.857142857142854], ["biweekly", 70.14285714285714], ["triweekly", 46.76190476190476]],
-      "Confirmed Fatality Rate": [["daily", 0.0655668358714044], ["weekly", 0.06566712294176967], ["biweekly", 0.06576291395607242], ["triweekly", 0.06603937710475472]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06656645909383724], ["weekly", 0.06694447729103246], ["biweekly", 0.06731017984542062], ["triweekly", 0.06728179911116727]]
+      "Spread Rate": [["daily", 0.0036418376091678084], ["weekly", 0.002660898428086002], ["biweekly", 0.00380866811476047], ["triweekly", 0.00253911207650698]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.744870309771189], ["weekly", 6.318757221760133], ["biweekly", 8.889712882189759], ["triweekly", 5.926475254793172]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2405.5997586922745], ["weekly", 2380.523888342309], ["biweekly", 2357.8107624549225], ["triweekly", 2329.340144313897]],
+      "Daily Growth Rate": [["daily", 1.4081632653061225], ["weekly", 1.0683474126373829], ["biweekly", 0.8359434936166226], ["triweekly", 0.5572956624110817]],
+      "Confirmed Cumulative Cases": [["daily", 18981.0], ["weekly", 18783.14285714286], ["biweekly", 18603.928571428572], ["triweekly", 18379.285714285714]],
+      "Confirmed Daily Cases": [["daily", 69.0], ["weekly", 49.857142857142854], ["biweekly", 70.14285714285714], ["triweekly", 46.76190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.06538117064432854], ["weekly", 0.06566712294176967], ["biweekly", 0.06576291395607242], ["triweekly", 0.06603937710475472]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06662014172213872], ["weekly", 0.06694447729103246], ["biweekly", 0.06731017984542062], ["triweekly", 0.06728179911116727]]
+    },
+    "lat": "REPLACE_MEEssex,Massachusetts"
+  }, {
+    "locale": "Essex,Massachusetts",
+    "long": "REPLACE_MEEssex,Massachusetts",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.04278641152913565], ["weekly", 0.002681807673246439], ["biweekly", 0.002644953088504844], ["triweekly", 0.0027125329150387806]],
+      "Confirmed Daily Cases per 100k": [["daily", -100.75611443866804], ["weekly", 6.391178507969419], ["biweekly", 6.2463359355508485], ["triweekly", 6.342897650496563]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2304.8436442536063], ["weekly", 2386.9150668502784], ["biweekly", 2364.057098390473], ["triweekly", 2335.6830419643934]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0943114370611686], ["biweekly", 0.9365265839956313], ["triweekly", 0.6243510559970875]],
+      "Confirmed Cumulative Cases": [["daily", 18186.0], ["weekly", 18833.571428571428], ["biweekly", 18653.214285714286], ["triweekly", 18429.333333333332]],
+      "Confirmed Daily Cases": [["daily", -795.0], ["weekly", 50.42857142857143], ["biweekly", 49.285714285714285], ["triweekly", 50.04761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.06834927966567689], ["weekly", 0.06560516127701424], ["biweekly", 0.0657273265565528], ["triweekly", 0.06598170411628848]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06654175588865097], ["weekly", 0.06688628327086361], ["biweekly", 0.06726834708738519], ["triweekly", 0.06721833553129594]]
+    },
+    "lat": "REPLACE_MEEssex,Massachusetts"
+  }, {
+    "locale": "Essex,Massachusetts",
+    "long": "REPLACE_MEEssex,Massachusetts",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0034582167029579836], ["weekly", -0.00382876649956795], ["biweekly", -0.0006139973591781407], ["triweekly", 0.000675084746984702]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.984446804573694], ["weekly", -8.944028846846722], ["biweekly", -1.4212677418572224], ["triweekly", 1.5449874391314182]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2312.82809105818], ["weekly", 2377.9710380034326], ["biweekly", 2362.635830648616], ["triweekly", 2337.228029403525]],
+      "Daily Growth Rate": [["daily", 0.9555330859059091], ["weekly", 0.9800257227754542], ["biweekly", 0.9262377039006571], ["triweekly", 0.6243510559970875]],
+      "Confirmed Cumulative Cases": [["daily", 18249.0], ["weekly", 18763.0], ["biweekly", 18642.0], ["triweekly", 18441.52380952381]],
+      "Confirmed Daily Cases": [["daily", 63.0], ["weekly", -70.57142857142857], ["biweekly", -11.214285714285714], ["triweekly", 12.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.06844210641678997], ["weekly", 0.06597809293925687], ["biweekly", 0.06590929880329352], ["triweekly", 0.06606536965264838]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06659202388568991], ["weekly", 0.0668284599537985], ["biweekly", 0.06721294784861342], ["triweekly", 0.06715958847012495]]
     },
     "lat": "REPLACE_MEEssex,Massachusetts"
   }]

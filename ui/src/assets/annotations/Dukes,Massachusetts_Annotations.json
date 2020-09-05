@@ -3374,5 +3374,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEDukes,Massachusetts"
+  }, {
+    "locale": "Dukes,Massachusetts",
+    "long": "REPLACE_MEDukes,Massachusetts",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.003914139169730697], ["biweekly", 0.006039813430575945], ["triweekly", 0.005448111960845]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.6484784543866013], ["biweekly", 2.4727176815799017], ["triweekly", 2.1979712725154683]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 426.9559196861297], ["weekly", 425.3074412317431], ["biweekly", 414.1802116646336], ["triweekly", 403.60247491565303]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.1247972092480427], ["biweekly", 0.09811289033830706], ["triweekly", 0.06540859355887137]],
+      "Confirmed Cumulative Cases": [["daily", 74.0], ["weekly", 73.71428571428571], ["biweekly", 71.78571428571429], ["triweekly", 69.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.42857142857142855], ["triweekly", 0.38095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEDukes,Massachusetts"
+  }, {
+    "locale": "Dukes,Massachusetts",
+    "long": "REPLACE_MEDukes,Massachusetts",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.27871340246902054], ["weekly", 0.003914139169730697], ["biweekly", 0.004997042043350751], ["triweekly", 0.005448111960845]],
+      "Confirmed Daily Cases per 100k": [["daily", -103.85414262635587], ["weekly", 1.6484784543866013], ["biweekly", 2.060598067983251], ["triweekly", 2.1979712725154683]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 323.10177705977384], ["weekly", 426.9559196861297], ["biweekly", 416.24080973261687], ["triweekly", 405.80044618816856]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.1247972092480427], ["biweekly", 0.06239860462402135], ["triweekly", 0.06540859355887137]],
+      "Confirmed Cumulative Cases": [["daily", 56.0], ["weekly", 74.0], ["biweekly", 72.14285714285714], ["triweekly", 70.33333333333333]],
+      "Confirmed Daily Cases": [["daily", -18.0], ["weekly", 0.2857142857142857], ["biweekly", 0.35714285714285715], ["triweekly", 0.38095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEDukes,Massachusetts"
   }]
 }

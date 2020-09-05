@@ -3370,8 +3370,38 @@
       "Daily Growth Rate": [["daily", 0.7446808510638298], ["weekly", 1.0839322611608457], ["biweekly", 1.0325471874929224], ["triweekly", 1.0219777329336774]],
       "Confirmed Cumulative Cases": [["daily", 109808.0], ["weekly", 107695.85714285714], ["biweekly", 105836.42857142857], ["triweekly", 103899.61904761905]],
       "Confirmed Daily Cases": [["daily", 455.0], ["weekly", 542.7142857142857], ["biweekly", 540.9285714285714], ["triweekly", 569.047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.034296226140171936], ["weekly", 0.03474160434830707], ["biweekly", 0.035082817457263264], ["triweekly", 0.0354959399906082]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.035529642628023696], ["weekly", 0.03598456932876992], ["biweekly", 0.03640460569808136], ["triweekly", 0.03699119259643163]]
+      "Confirmed Fatality Rate": [["daily", 0.03431443974938074], ["weekly", 0.03474160434830707], ["biweekly", 0.035082817457263264], ["triweekly", 0.0354959399906082]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03554851126457602], ["weekly", 0.03598456932876992], ["biweekly", 0.03640460569808136], ["triweekly", 0.03699119259643163]]
+    },
+    "lat": "REPLACE_MEMaryland"
+  }, {
+    "locale": "Maryland",
+    "long": "REPLACE_MEMaryland",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006318333231380535], ["weekly", 0.0050474326593261355], ["biweekly", 0.005118210580664798], ["triweekly", 0.005437350589651436]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.50413223140496], ["weekly", 9.001180637544275], ["biweekly", 8.964580873671784], ["triweekly", 9.326249508067692]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1826.5123966942149], ["weekly", 1789.0979929161745], ["biweekly", 1758.3270365997637], ["triweekly", 1726.6753246753249]],
+      "Daily Growth Rate": [["daily", 1.5296703296703296], ["weekly", 1.026732708426071], ["biweekly", 1.0240890169906791], ["triweekly", 1.0119469896280933]],
+      "Confirmed Cumulative Cases": [["daily", 110504.0], ["weekly", 108240.42857142857], ["biweekly", 106378.78571428571], ["triweekly", 104463.85714285714]],
+      "Confirmed Daily Cases": [["daily", 696.0], ["weekly", 544.5714285714286], ["biweekly", 542.3571428571429], ["triweekly", 564.2380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.034188807644972126], ["weekly", 0.03463404416500549], ["biweekly", 0.03497551594223748], ["triweekly", 0.0353741243055279]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03545486964845436], ["weekly", 0.035867995830204065], ["biweekly", 0.036274300902173026], ["triweekly", 0.036834516481534324]]
+    },
+    "lat": "REPLACE_MEMaryland"
+  }, {
+    "locale": "Maryland",
+    "long": "REPLACE_MEMaryland",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007465008791314176], ["weekly", 0.005194611650069244], ["biweekly", 0.0051736964072476455], ["triweekly", 0.005365863106989383]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.685950413223141], ["weekly", 9.317591499409682], ["biweekly", 9.115702479338845], ["triweekly", 9.268791814246361]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1840.198347107438], ["weekly", 1798.4155844155844], ["biweekly", 1767.4427390791027], ["triweekly", 1735.944116489571]],
+      "Daily Growth Rate": [["daily", 1.1896551724137931], ["weekly", 1.0636151537118776], ["biweekly", 1.040083531507361], ["triweekly", 1.0189268374609728]],
+      "Confirmed Cumulative Cases": [["daily", 111332.0], ["weekly", 108804.14285714286], ["biweekly", 106930.28571428571], ["triweekly", 105024.61904761905]],
+      "Confirmed Daily Cases": [["daily", 828.0], ["weekly", 563.7142857142857], ["biweekly", 551.5], ["triweekly", 560.7619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.03403334171666727], ["weekly", 0.03452825464867628], ["biweekly", 0.03486781901637924], ["triweekly", 0.0352561438807981]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.035362962686427864], ["weekly", 0.03575980376825537], ["biweekly", 0.036152312329422356], ["triweekly", 0.036681127413064216]]
     },
     "lat": "REPLACE_MEMaryland"
   }]

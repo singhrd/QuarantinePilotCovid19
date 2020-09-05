@@ -3364,14 +3364,44 @@
     "long": "REPLACE_MEMiddlesex,Massachusetts",
     "date": "09/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.002515265308558818], ["biweekly", 0.003070887226952606], ["triweekly", 0.0020472581513017373]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 4.290060187594404], ["biweekly", 5.172004379052346], ["triweekly", 3.4480029193682307]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1720.668685654083], ["weekly", 1707.9580527842268], ["biweekly", 1693.3638707617595], ["triweekly", 1678.32945529029]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1207732615401498], ["biweekly", 0.8928390312822286], ["triweekly", 0.5952260208548191]],
-      "Confirmed Cumulative Cases": [["daily", 27732.0], ["weekly", 27527.14285714286], ["biweekly", 27291.928571428572], ["triweekly", 27049.619047619046]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 69.14285714285714], ["biweekly", 83.35714285714286], ["triweekly", 55.57142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.07467907110918794], ["weekly", 0.07501812566875134], ["biweekly", 0.07526318258955311], ["triweekly", 0.07534641936110116]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0758719226260258], ["weekly", 0.07632179815623542], ["biweekly", 0.07661375057444746], ["triweekly", 0.07647109277392823]]
+      "Spread Rate": [["daily", 0.0013333095072631806], ["weekly", 0.002515265308558818], ["biweekly", 0.003070887226952606], ["triweekly", 0.0020472581513017373]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.2957140260060966], ["weekly", 4.290060187594404], ["biweekly", 5.172004379052346], ["triweekly", 3.4480029193682307]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1722.964399680089], ["weekly", 1707.9580527842268], ["biweekly", 1693.3638707617595], ["triweekly", 1678.32945529029]],
+      "Daily Growth Rate": [["daily", 0.5522388059701493], ["weekly", 1.1207732615401498], ["biweekly", 0.8928390312822286], ["triweekly", 0.5952260208548191]],
+      "Confirmed Cumulative Cases": [["daily", 27769.0], ["weekly", 27527.14285714286], ["biweekly", 27291.928571428572], ["triweekly", 27049.619047619046]],
+      "Confirmed Daily Cases": [["daily", 37.0], ["weekly", 69.14285714285714], ["biweekly", 83.35714285714286], ["triweekly", 55.57142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.0745435557636213], ["weekly", 0.07501812566875134], ["biweekly", 0.07526318258955311], ["triweekly", 0.07534641936110116]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07583528722157093], ["weekly", 0.07632179815623542], ["biweekly", 0.07661375057444746], ["triweekly", 0.07647109277392823]]
+    },
+    "lat": "REPLACE_MEMiddlesex,Massachusetts"
+  }, {
+    "locale": "Middlesex,Massachusetts",
+    "long": "REPLACE_MEMiddlesex,Massachusetts",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.08543793608038719], ["weekly", 0.0024543027540340845], ["biweekly", 0.0022816224229461773], ["triweekly", 0.0021107490802190314]],
+      "Confirmed Daily Cases per 100k": [["daily", -141.09334311183414], ["weekly", 4.192558819694532], ["biweekly", 3.869031553481317], ["triweekly", 3.557322634892331]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1581.871056568255], ["weekly", 1712.1506116039216], ["biweekly", 1697.2329023152408], ["triweekly", 1681.886777925182]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1234740433454091], ["biweekly", 0.9322846602800965], ["triweekly", 0.6215231068533976]],
+      "Confirmed Cumulative Cases": [["daily", 25495.0], ["weekly", 27594.714285714286], ["biweekly", 27354.285714285714], ["triweekly", 27106.95238095238]],
+      "Confirmed Daily Cases": [["daily", -2274.0], ["weekly", 67.57142857142857], ["biweekly", 62.357142857142854], ["triweekly", 57.333333333333336]],
+      "Confirmed Fatality Rate": [["daily", 0.08123161404196902], ["weekly", 0.07489639615382403], ["biweekly", 0.07518596312999024], ["triweekly", 0.07530026044964518]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07564744128282865], ["weekly", 0.07622441716018381], ["biweekly", 0.0765614917081654], ["triweekly", 0.07642364245861641]]
+    },
+    "lat": "REPLACE_MEMiddlesex,Massachusetts"
+  }, {
+    "locale": "Middlesex,Massachusetts",
+    "long": "REPLACE_MEMiddlesex,Massachusetts",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002468024679391334], ["weekly", -0.010174412903081631], ["biweekly", -0.003974953917131937], ["triweekly", -0.0019577240664660728]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.908918476713083], ["weekly", -16.681597671596425], ["biweekly", -6.466113443905202], ["triweekly", -3.161407989480724]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1585.7799750449678], ["weekly", 1695.4690139323252], ["biweekly", 1690.7667888713354], ["triweekly", 1678.7253699357013]],
+      "Daily Growth Rate": [["daily", 1.30487650860252], ["weekly", 0.8824026147739806], ["biweekly", 0.9197684755584736], ["triweekly", 0.6215231068533976]],
+      "Confirmed Cumulative Cases": [["daily", 25558.0], ["weekly", 27325.85714285714], ["biweekly", 27250.071428571428], ["triweekly", 27056.0]],
+      "Confirmed Daily Cases": [["daily", 63.0], ["weekly", -268.85714285714283], ["biweekly", -104.21428571428571], ["triweekly", -50.95238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.08118788637608576], ["weekly", 0.07574109842020502], ["biweekly", 0.07559278566597014], ["triweekly", 0.07557258050382477]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07555620289116266], ["weekly", 0.07610252235706615], ["biweekly", 0.07649043762970109], ["triweekly", 0.07637382137448687]]
     },
     "lat": "REPLACE_MEMiddlesex,Massachusetts"
   }]

@@ -3364,14 +3364,44 @@
     "long": "REPLACE_MEWorcester,Massachusetts",
     "date": "09/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.0020341282085037144], ["biweekly", 0.0027189299373753884], ["triweekly", 0.001812619958250259]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.4569618568116076], ["biweekly", 4.566285437728766], ["triweekly", 3.044190291819177]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1711.6088906867385], ["weekly", 1701.409993268384], ["biweekly", 1690.1103716767159], ["triweekly", 1675.9672126373227]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2217671673336699], ["biweekly", 0.959837028614098], ["triweekly", 0.6398913524093987]],
-      "Confirmed Cumulative Cases": [["daily", 14217.0], ["weekly", 14132.285714285714], ["biweekly", 14038.42857142857], ["triweekly", 13920.952380952382]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 28.714285714285715], ["biweekly", 37.92857142857143], ["triweekly", 25.285714285714285]],
-      "Confirmed Fatality Rate": [["daily", 0.07420693535907716], ["weekly", 0.07436865314839396], ["biweekly", 0.07434681820729415], ["triweekly", 0.07409082536826089]],
+      "Spread Rate": [["daily", 0.001756913906371338], ["weekly", 0.0020341282085037144], ["biweekly", 0.0027189299373753884], ["triweekly", 0.001812619958250259]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.009792661403141], ["weekly", 3.4569618568116076], ["biweekly", 4.566285437728766], ["triweekly", 3.044190291819177]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1714.6186833481415], ["weekly", 1701.409993268384], ["biweekly", 1690.1103716767159], ["triweekly", 1675.9672126373227]],
+      "Daily Growth Rate": [["daily", 0.6097560975609756], ["weekly", 1.2217671673336699], ["biweekly", 0.959837028614098], ["triweekly", 0.6398913524093987]],
+      "Confirmed Cumulative Cases": [["daily", 14242.0], ["weekly", 14132.285714285714], ["biweekly", 14038.42857142857], ["triweekly", 13920.952380952382]],
+      "Confirmed Daily Cases": [["daily", 25.0], ["weekly", 28.714285714285715], ["biweekly", 37.92857142857143], ["triweekly", 25.285714285714285]],
+      "Confirmed Fatality Rate": [["daily", 0.07407667462435051], ["weekly", 0.07436865314839396], ["biweekly", 0.07434681820729415], ["triweekly", 0.07409082536826089]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07508362394135648], ["weekly", 0.07536969046428858], ["biweekly", 0.07554939920805294], ["triweekly", 0.07506142385892468]]
+    },
+    "lat": "REPLACE_MEWorcester,Massachusetts"
+  }, {
+    "locale": "Worcester,Massachusetts",
+    "long": "REPLACE_MEWorcester,Massachusetts",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.051877356891447235], ["weekly", 0.0019288254193899743], ["biweekly", 0.0019111103599738857], ["triweekly", 0.0018962825252203227]],
+      "Confirmed Daily Cases per 100k": [["daily", -86.68202864841047], ["weekly", 3.2849737047314287], ["biweekly", 3.233377259107375], ["triweekly", 3.1875137518859935]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1627.9366546997312], ["weekly", 1704.6949669731152], ["biweekly", 1693.3437489358234], ["triweekly", 1679.1547263892087]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1236899960857667], ["biweekly", 1.0033910355827391], ["triweekly", 0.6689273570551594]],
+      "Confirmed Cumulative Cases": [["daily", 13522.0], ["weekly", 14159.57142857143], ["biweekly", 14065.285714285714], ["triweekly", 13947.42857142857]],
+      "Confirmed Daily Cases": [["daily", -720.0], ["weekly", 27.285714285714285], ["biweekly", 26.857142857142858], ["triweekly", 26.476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.07809495636740127], ["weekly", 0.07434680778046641], ["biweekly", 0.0743218195999156], ["triweekly", 0.07411453179369688]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07501065492257424], ["weekly", 0.07535021352759709], ["biweekly", 0.07552640635436202], ["triweekly", 0.07508401678905197]]
+    },
+    "lat": "REPLACE_MEWorcester,Massachusetts"
+  }, {
+    "locale": "Worcester,Massachusetts",
+    "long": "REPLACE_MEWorcester,Massachusetts",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0021423566720919496], ["weekly", -0.00575647235963623], ["biweekly", -0.0019179405784119602], ["triweekly", -0.0005740678029438314]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.491359487227644], ["weekly", -9.56254125565798], ["biweekly", -3.1645819982753025], ["triweekly", -0.9402018980383146]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1631.4280141869588], ["weekly", 1695.1324257174572], ["biweekly", 1690.1791669375475], ["triweekly", 1678.2145244911708]],
+      "Daily Growth Rate": [["daily", 1.0770329614269007], ["weekly", 1.0134859144531136], ["biweekly", 0.9938672260589296], ["triweekly", 0.6689273570551594]],
+      "Confirmed Cumulative Cases": [["daily", 13551.0], ["weekly", 14080.142857142857], ["biweekly", 14039.0], ["triweekly", 13939.619047619048]],
+      "Confirmed Daily Cases": [["daily", 29.0], ["weekly", -79.42857142857143], ["biweekly", -26.285714285714285], ["triweekly", -7.809523809523809]],
+      "Confirmed Fatality Rate": [["daily", 0.0781492140801417], ["weekly", 0.07488889772567245], ["biweekly", 0.07458274186641363], ["triweekly", 0.07432958496880197]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07506911462394555], ["weekly", 0.07530802487054222], ["biweekly", 0.07548776323245618], ["triweekly", 0.075110490190435]]
     },
     "lat": "REPLACE_MEWorcester,Massachusetts"
   }]

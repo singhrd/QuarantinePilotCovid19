@@ -3364,14 +3364,44 @@
     "long": "REPLACE_MENorfolk,Massachusetts",
     "date": "09/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.0018346130497347093], ["biweekly", 0.0024193104318702857], ["triweekly", 0.001612873621246857]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.8499674072876293], ["biweekly", 3.7191064038363395], ["triweekly", 2.4794042692242266]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1563.4395670475044], ["weekly", 1554.7683896168207], ["biweekly", 1544.8238224935194], ["triweekly", 1533.6732407936115]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2529245886388745], ["biweekly", 1.1200413886190212], ["triweekly", 0.7466942590793475]],
-      "Confirmed Cumulative Cases": [["daily", 11050.0], ["weekly", 10988.714285714286], ["biweekly", 10918.42857142857], ["triweekly", 10839.619047619048]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 20.142857142857142], ["biweekly", 26.285714285714285], ["triweekly", 17.523809523809526]],
-      "Confirmed Fatality Rate": [["daily", 0.09212669683257918], ["weekly", 0.09232869893991626], ["biweekly", 0.09245971343559718], ["triweekly", 0.092751336136744]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09320637245925655], ["weekly", 0.09352495559656573], ["biweekly", 0.09377748301399956], ["triweekly", 0.09391694930053]]
+      "Spread Rate": [["daily", 0.0019889709115510357], ["weekly", 0.0018346130497347093], ["biweekly", 0.0024193104318702857], ["triweekly", 0.001612873621246857]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.112730359732588], ["weekly", 2.8499674072876293], ["biweekly", 3.7191064038363395], ["triweekly", 2.4794042692242266]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1566.5522974072371], ["weekly", 1554.7683896168207], ["biweekly", 1544.8238224935194], ["triweekly", 1533.6732407936115]],
+      "Daily Growth Rate": [["daily", 1.2941176470588236], ["weekly", 1.2529245886388745], ["biweekly", 1.1200413886190212], ["triweekly", 0.7466942590793475]],
+      "Confirmed Cumulative Cases": [["daily", 11072.0], ["weekly", 10988.714285714286], ["biweekly", 10918.42857142857], ["triweekly", 10839.619047619048]],
+      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 20.142857142857142], ["biweekly", 26.285714285714285], ["triweekly", 17.523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.09203395953757225], ["weekly", 0.09232869893991626], ["biweekly", 0.09245971343559718], ["triweekly", 0.092751336136744]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09329793078190808], ["weekly", 0.09352495559656573], ["biweekly", 0.09377748301399956], ["triweekly", 0.09391694930053]]
+    },
+    "lat": "REPLACE_MENorfolk,Massachusetts"
+  }, {
+    "locale": "Norfolk,Massachusetts",
+    "long": "REPLACE_MENorfolk,Massachusetts",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.14296884923982311], ["weekly", 0.0019486135921931793], ["biweekly", 0.0018031216942539427], ["triweekly", 0.0017075865217969063]],
+      "Confirmed Daily Cases per 100k": [["daily", -208.6944218457076], ["weekly", 3.0318802205187545], ["biweekly", 2.7893298028772544], ["triweekly", 2.6276295244495875]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1357.8578755615295], ["weekly", 1557.8002698373396], ["biweekly", 1547.6131522963967], ["triweekly", 1536.300870318061]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.3604175858377539], ["biweekly", 1.2124783634089373], ["triweekly", 0.8083189089392915]],
+      "Confirmed Cumulative Cases": [["daily", 9597.0], ["weekly", 11010.142857142857], ["biweekly", 10938.142857142857], ["triweekly", 10858.190476190477]],
+      "Confirmed Daily Cases": [["daily", -1475.0], ["weekly", 21.428571428571427], ["biweekly", 19.714285714285715], ["triweekly", 18.571428571428573]],
+      "Confirmed Fatality Rate": [["daily", 0.10638741273314578], ["weekly", 0.09229200898346353], ["biweekly", 0.09239089579922147], ["triweekly", 0.09268940175572184]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09331018095412173], ["weekly", 0.09351495798794719], ["biweekly", 0.09372805738886478], ["triweekly", 0.09383299257011998]]
+    },
+    "lat": "REPLACE_MENorfolk,Massachusetts"
+  }, {
+    "locale": "Norfolk,Massachusetts",
+    "long": "REPLACE_MENorfolk,Massachusetts",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002393715042124711], ["weekly", -0.018736863715163414], ["biweekly", -0.008527931523165857], ["triweekly", -0.005100453918194671]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.2542181033567967], ["weekly", -27.185859310651498], ["biweekly", -12.299327427904416], ["triweekly", -7.3102000872507755]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1361.1120936648863], ["weekly", 1530.614410526688], ["biweekly", 1535.3138248684922], ["triweekly", 1528.9906702308106]],
+      "Daily Growth Rate": [["daily", 1.02247471629109], ["weekly", 1.140637366057534], ["biweekly", 1.2012001679202153], ["triweekly", 0.8083189089392915]],
+      "Confirmed Cumulative Cases": [["daily", 9620.0], ["weekly", 10818.0], ["biweekly", 10851.214285714286], ["triweekly", 10806.52380952381]],
+      "Confirmed Daily Cases": [["daily", 23.0], ["weekly", -192.14285714285714], ["biweekly", -86.92857142857143], ["triweekly", -51.666666666666664]],
+      "Confirmed Fatality Rate": [["daily", 0.10623700623700624], ["weekly", 0.09429074348128427], ["biweekly", 0.09335838160661557], ["triweekly", 0.09331096514591744]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09316317228805834], ["weekly", 0.09348928091375595], ["biweekly", 0.09367950677603096], ["triweekly", 0.09376124270137277]]
     },
     "lat": "REPLACE_MENorfolk,Massachusetts"
   }]

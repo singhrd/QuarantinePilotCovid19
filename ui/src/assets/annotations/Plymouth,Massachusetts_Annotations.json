@@ -3364,14 +3364,44 @@
     "long": "REPLACE_MEPlymouth,Massachusetts",
     "date": "09/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.0021336833453717524], ["biweekly", 0.0027014340893707356], ["triweekly", 0.0018009560595804903]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.919511327387736], ["biweekly", 4.906241451765069], ["triweekly", 3.2708276345100464]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1850.721984950173], ["weekly", 1839.073087648496], ["biweekly", 1825.9303905751929], ["triweekly", 1811.298461925282]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0956927001569858], ["biweekly", 1.063777364492003], ["triweekly", 0.7091849096613354]],
-      "Confirmed Cumulative Cases": [["daily", 9646.0], ["weekly", 9585.285714285714], ["biweekly", 9516.785714285714], ["triweekly", 9440.52380952381]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 20.428571428571427], ["biweekly", 25.571428571428573], ["triweekly", 17.047619047619047]],
-      "Confirmed Fatality Rate": [["daily", 0.07692307692307693], ["weekly", 0.07723247486271524], ["biweekly", 0.07746683578526867], ["triweekly", 0.07759201627717308]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07796574550803825], ["weekly", 0.07835172966841267], ["biweekly", 0.07869690580873567], ["triweekly", 0.07857668007598546]]
+      "Spread Rate": [["daily", 0.0017608373703907887], ["weekly", 0.0021336833453717524], ["biweekly", 0.0027014340893707356], ["triweekly", 0.0018009560595804903]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.2616912444695147], ["weekly", 3.919511327387736], ["biweekly", 4.906241451765069], ["triweekly", 3.2708276345100464]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1853.9836761946424], ["weekly", 1839.073087648496], ["biweekly", 1825.9303905751929], ["triweekly", 1811.298461925282]],
+      "Daily Growth Rate": [["daily", 0.8095238095238095], ["weekly", 1.0956927001569858], ["biweekly", 1.063777364492003], ["triweekly", 0.7091849096613354]],
+      "Confirmed Cumulative Cases": [["daily", 9663.0], ["weekly", 9585.285714285714], ["biweekly", 9516.785714285714], ["triweekly", 9440.52380952381]],
+      "Confirmed Daily Cases": [["daily", 17.0], ["weekly", 20.428571428571427], ["biweekly", 25.571428571428573], ["triweekly", 17.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.07668425954672461], ["weekly", 0.07723247486271524], ["biweekly", 0.07746683578526867], ["triweekly", 0.07759201627717308]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07786067037932122], ["weekly", 0.07835172966841267], ["biweekly", 0.07869690580873567], ["triweekly", 0.07857668007598546]]
+    },
+    "lat": "REPLACE_MEPlymouth,Massachusetts"
+  }, {
+    "locale": "Plymouth,Massachusetts",
+    "long": "REPLACE_MEPlymouth,Massachusetts",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.05422246461452929], ["weekly", 0.002174926560994907], ["biweekly", 0.0019026772137530504], ["triweekly", 0.001884805458170528]],
+      "Confirmed Daily Cases per 100k": [["daily", -97.85073733408544], ["weekly", 4.001738837752514], ["biweekly", 3.4809646054422556], ["triweekly", 3.426146265199071]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1756.132938860557], ["weekly", 1843.0748264862486], ["biweekly", 1829.411355180635], ["triweekly", 1814.724608190481]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1113389586603872], ["biweekly", 1.1216004937437039], ["triweekly", 0.7477336624958025]],
+      "Confirmed Cumulative Cases": [["daily", 9153.0], ["weekly", 9606.142857142857], ["biweekly", 9534.92857142857], ["triweekly", 9458.380952380952]],
+      "Confirmed Daily Cases": [["daily", -510.0], ["weekly", 20.857142857142858], ["biweekly", 18.142857142857142], ["triweekly", 17.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.08117557085108708], ["weekly", 0.07710944837036589], ["biweekly", 0.07740247641866779], ["triweekly", 0.07753686781458938]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07792343995804929], ["weekly", 0.07826960537402938], ["biweekly", 0.07864437955737551], ["triweekly", 0.07853598358550702]]
+    },
+    "lat": "REPLACE_MEPlymouth,Massachusetts"
+  }, {
+    "locale": "Plymouth,Massachusetts",
+    "long": "REPLACE_MEPlymouth,Massachusetts",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0022917017723376176], ["weekly", -0.005841077807105728], ["biweekly", -0.0020310622946631946], ["triweekly", -0.0006972166663308666]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.029148007874107], ["weekly", -10.470302986448358], ["biweekly", -3.6180104560502175], ["triweekly", -1.2334126554716642]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1760.162086868431], ["weekly", 1832.6045234998003], ["biweekly", 1825.7933447245846], ["triweekly", 1813.4911955350096]],
+      "Daily Growth Rate": [["daily", 1.1114378604524227], ["weekly", 0.927665489272632], ["biweekly", 1.116877943566608], ["triweekly", 0.7477336624958025]],
+      "Confirmed Cumulative Cases": [["daily", 9174.0], ["weekly", 9551.57142857143], ["biweekly", 9516.07142857143], ["triweekly", 9451.952380952382]],
+      "Confirmed Daily Cases": [["daily", 21.0], ["weekly", -54.57142857142857], ["biweekly", -18.857142857142858], ["triweekly", -6.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.08120776106387617], ["weekly", 0.07763396808068299], ["biweekly", 0.07765604785258431], ["triweekly", 0.07769559131888011]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07788813382122321], ["weekly", 0.07819079704994907], ["biweekly", 0.07858864643268591], ["triweekly", 0.0785015380370532]]
     },
     "lat": "REPLACE_MEPlymouth,Massachusetts"
   }]

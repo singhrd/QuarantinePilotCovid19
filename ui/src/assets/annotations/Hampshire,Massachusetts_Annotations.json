@@ -3364,14 +3364,44 @@
     "long": "REPLACE_MEHampshire,Massachusetts",
     "date": "09/02/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.004281528210078481], ["biweekly", 0.0059582422965840055], ["triweekly", 0.003972161531056004]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.3753475275579357], ["biweekly", 4.5744841491903605], ["triweekly", 3.04965609946024]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 800.223838836038], ["weekly", 790.6307458629788], ["biweekly", 778.5061422442508], ["triweekly", 764.3977817452918]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2642857142857142], ["biweekly", 0.9010411672040048], ["triweekly", 0.6006941114693366]],
-      "Confirmed Cumulative Cases": [["daily", 1287.0], ["weekly", 1271.5714285714287], ["biweekly", 1252.0714285714287], ["triweekly", 1229.3809523809523]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 5.428571428571429], ["biweekly", 7.357142857142857], ["triweekly", 4.904761904761905]],
-      "Confirmed Fatality Rate": [["daily", 0.10878010878010878], ["weekly", 0.10841343482475653], ["biweekly", 0.10810021783797678], ["triweekly", 0.10866591099108362]],
+      "Spread Rate": [["daily", 0.0023282897595908736], ["weekly", 0.004281528210078481], ["biweekly", 0.0059582422965840055], ["triweekly", 0.003972161531056004]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.8653236336504382], ["weekly", 3.3753475275579357], ["biweekly", 4.5744841491903605], ["triweekly", 3.04965609946024]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 802.0891624696884], ["weekly", 790.6307458629788], ["biweekly", 778.5061422442508], ["triweekly", 764.3977817452918]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.2642857142857142], ["biweekly", 0.9010411672040048], ["triweekly", 0.6006941114693366]],
+      "Confirmed Cumulative Cases": [["daily", 1290.0], ["weekly", 1271.5714285714287], ["biweekly", 1252.0714285714287], ["triweekly", 1229.3809523809523]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 5.428571428571429], ["biweekly", 7.357142857142857], ["triweekly", 4.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.10852713178294573], ["weekly", 0.10841343482475653], ["biweekly", 0.10810021783797678], ["triweekly", 0.10866591099108362]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11173184357541899], ["weekly", 0.11184249212603352], ["biweekly", 0.11202645841822911], ["triweekly", 0.11178363689837328]]
+    },
+    "lat": "REPLACE_MEHampshire,Massachusetts"
+  }, {
+    "locale": "Hampshire,Massachusetts",
+    "long": "REPLACE_MEHampshire,Massachusetts",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.08912777989600773], ["weekly", 0.004157363208521352], ["biweekly", 0.003926573088929519], ["triweekly", 0.004083032471988902]],
+      "Confirmed Daily Cases per 100k": [["daily", -68.39519990051608], ["weekly", 3.286522592622201], ["biweekly", 3.0644602552828633], ["triweekly", 3.138481034395975]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 733.6939625691724], ["weekly", 793.9172684556008], ["biweekly", 781.5706024995336], ["triweekly", 767.5362627796877]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2214285714285715], ["biweekly", 0.9367554529182905], ["triweekly", 0.6245036352788604]],
+      "Confirmed Cumulative Cases": [["daily", 1180.0], ["weekly", 1276.857142857143], ["biweekly", 1257.0], ["triweekly", 1234.4285714285713]],
+      "Confirmed Daily Cases": [["daily", -110.0], ["weekly", 5.285714285714286], ["biweekly", 4.928571428571429], ["triweekly", 5.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.11864406779661017], ["weekly", 0.10841166719552738], ["biweekly", 0.10818864815896523], ["triweekly", 0.10860542691897165]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11128775834658187], ["weekly", 0.11189216815336318], ["biweekly", 0.11210431210990965], ["triweekly", 0.11172117810382803]]
+    },
+    "lat": "REPLACE_MEHampshire,Massachusetts"
+  }, {
+    "locale": "Hampshire,Massachusetts",
+    "long": "REPLACE_MEHampshire,Massachusetts",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002539146518676816], ["weekly", -0.009144102828667908], ["biweekly", -0.002614981829468669], ["triweekly", -0.0001611475230590845]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.8653236336504382], ["weekly", -6.928344924987343], ["biweekly", -1.9541485685861737], ["triweekly", -0.11843324658098081]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 735.5592862028228], ["weekly", 786.9889235306134], ["biweekly", 779.6164539309475], ["triweekly", 767.4178295331067]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.042857142857143], ["biweekly", 0.9309639471267849], ["triweekly", 0.6245036352788604]],
+      "Confirmed Cumulative Cases": [["daily", 1183.0], ["weekly", 1265.7142857142858], ["biweekly", 1253.857142857143], ["triweekly", 1234.2380952380952]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", -11.142857142857142], ["biweekly", -3.142857142857143], ["triweekly", -0.19047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.11918850380388842], ["weekly", 0.1099168042938848], ["biweekly", 0.1090184998736624], ["triweekly", 0.1090267017046532]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11128650355169692], ["weekly", 0.11191740347271614], ["biweekly", 0.11215044542810178], ["triweekly", 0.11167476080657257]]
     },
     "lat": "REPLACE_MEHampshire,Massachusetts"
   }]

@@ -3370,8 +3370,38 @@
       "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8809523809523808], ["biweekly", 0.7161924719774263], ["triweekly", 0.47746164798495083]],
       "Confirmed Cumulative Cases": [["daily", 431.0], ["weekly", 427.57142857142856], ["biweekly", 422.92857142857144], ["triweekly", 418.95238095238096]],
       "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.4285714285714286], ["biweekly", 1.4285714285714286], ["triweekly", 0.9523809523809523]],
-      "Confirmed Fatality Rate": [["daily", 0.15081206496519722], ["weekly", 0.15001195660140385], ["biweekly", 0.14792476358939669], ["triweekly", 0.14808933955432607]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.15330188679245282], ["weekly", 0.15334184997782394], ["biweekly", 0.15088017073100443], ["triweekly", 0.15018086895864557]]
+      "Confirmed Fatality Rate": [["daily", 0.1531322505800464], ["weekly", 0.15001195660140385], ["biweekly", 0.14792476358939669], ["triweekly", 0.14808933955432607]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.15566037735849056], ["weekly", 0.15334184997782394], ["biweekly", 0.15088017073100443], ["triweekly", 0.15018086895864557]]
+    },
+    "lat": "REPLACE_MEFranklin,Massachusetts"
+  }, {
+    "locale": "Franklin,Massachusetts",
+    "long": "REPLACE_MEFranklin,Massachusetts",
+    "date": "09/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.0948462503132852], ["weekly", 0.0023392335531128134], ["biweekly", 0.002874436877030944], ["triweekly", 0.002262613124167296]],
+      "Confirmed Daily Cases per 100k": [["daily", -55.57138785978911], ["weekly", 1.4249073810202337], ["biweekly", 1.7302446769531408], ["triweekly", 1.3570546485906985]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 558.5636933599317], ["weekly", 610.6745918658145], ["biweekly", 604.3642877498677], ["triweekly", 598.3253945636393]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.4523809523809524], ["biweekly", 0.7161924719774263], ["triweekly", 0.47746164798495083]],
+      "Confirmed Cumulative Cases": [["daily", 392.0], ["weekly", 428.57142857142856], ["biweekly", 424.14285714285717], ["triweekly", 419.9047619047619]],
+      "Confirmed Daily Cases": [["daily", -39.0], ["weekly", 1.0], ["biweekly", 1.2142857142857142], ["triweekly", 0.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.1683673469387755], ["weekly", 0.1506615773042137], ["biweekly", 0.14833828183303696], ["triweekly", 0.14831380427317664]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.15492957746478872], ["weekly", 0.15383991630853996], ["biweekly", 0.15139744829345486], ["triweekly", 0.15045626074347132]]
+    },
+    "lat": "REPLACE_MEFranklin,Massachusetts"
+  }, {
+    "locale": "Franklin,Massachusetts",
+    "long": "REPLACE_MEFranklin,Massachusetts",
+    "date": "09/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005089069507471677], ["weekly", -0.011882500925558379], ["biweekly", -0.0042445300336286474], ["triweekly", -0.002253874985989142]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.8498147620404675], ["weekly", -6.920978707812564], ["biweekly", -2.442698367463258], ["triweekly", -1.2892019161611639]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 561.4135081219721], ["weekly", 603.7536131580018], ["biweekly", 601.9215893824045], ["triweekly", 597.0361926474781]],
+      "Daily Growth Rate": [["daily", 1.2599210498948732], ["weekly", 0.35714285714285715], ["biweekly", 0.6685734243583786], ["triweekly", 0.47746164798495083]],
+      "Confirmed Cumulative Cases": [["daily", 394.0], ["weekly", 423.7142857142857], ["biweekly", 422.42857142857144], ["triweekly", 419.0]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", -4.857142857142857], ["biweekly", -1.7142857142857142], ["triweekly", -0.9047619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.16751269035532995], ["weekly", 0.1535872948749442], ["biweekly", 0.14989061980119125], ["triweekly", 0.14926374977101425]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.15492957746478872], ["weekly", 0.15433809770460868], ["biweekly", 0.15186252586349797], ["triweekly", 0.1507317523237599]]
     },
     "lat": "REPLACE_MEFranklin,Massachusetts"
   }]
