@@ -3404,5 +3404,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013116691782105316], ["biweekly", 0.013250752583459353], ["triweekly", 0.01329567458597225]]
     },
     "lat": "REPLACE_MEPennington,Minnesota"
+  }, {
+    "locale": "Pennington,Minnesota",
+    "long": "REPLACE_MEPennington,Minnesota",
+    "date": "09/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.020202707317519497], ["weekly", 0.02721690342830474], ["biweekly", 0.020064456104743007], ["triweekly", 0.012737112625441057]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.16530915787237], ["weekly", 17.20073254884502], ["biweekly", 12.141693563890602], ["triweekly", 7.757193110263441]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 708.2654578936185], ["weekly", 647.5569900741655], ["biweekly", 597.4725041231167], ["triweekly", 574.3695594251582]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.695238095238095], ["biweekly", 1.0456541134825303], ["triweekly", 0.6971027423216869]],
+      "Confirmed Cumulative Cases": [["daily", 100.0], ["weekly", 91.42857142857143], ["biweekly", 84.35714285714286], ["triweekly", 81.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.4285714285714284], ["biweekly", 1.7142857142857142], ["triweekly", 1.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.01], ["weekly", 0.010961979053516415], ["biweekly", 0.011955918667727449], ["triweekly", 0.012440796915336103]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011627906976744186], ["weekly", 0.012949858281938483], ["biweekly", 0.013180205846245949], ["triweekly", 0.013231248341941742]]
+    },
+    "lat": "REPLACE_MEPennington,Minnesota"
   }]
 }

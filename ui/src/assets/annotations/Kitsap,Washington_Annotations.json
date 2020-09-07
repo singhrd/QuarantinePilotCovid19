@@ -3404,5 +3404,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.011027036581516813], ["biweekly", 0.011170473748777072], ["triweekly", 0.011124342974846315]]
     },
     "lat": "REPLACE_MEKitsap,Washington"
+  }, {
+    "locale": "Kitsap,Washington",
+    "long": "REPLACE_MEKitsap,Washington",
+    "date": "09/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.008556877368724156], ["biweekly", 0.010253440776285316], ["triweekly", 0.013392519055750472]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.157377923929294], ["biweekly", 3.630984612518688], ["triweekly", 4.437870081967286]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 380.148302041087], ["weekly", 370.991906061692], ["biweekly", 359.2832962604543], ["triweekly", 342.294848930868]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0460987425273138], ["biweekly", 1.6056292011345086], ["triweekly", 1.4688649759746222]],
+      "Confirmed Cumulative Cases": [["daily", 1032.0], ["weekly", 1007.1428571428571], ["biweekly", 975.3571428571429], ["triweekly", 929.2380952380952]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 8.571428571428571], ["biweekly", 9.857142857142858], ["triweekly", 12.047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.011627906976744186], ["weekly", 0.010487947338925314], ["biweekly", 0.010237771991807624], ["triweekly", 0.010124327330583318]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012244897959183673], ["weekly", 0.011192750393763063], ["biweekly", 0.011227074147696681], ["triweekly", 0.011174164116946175]]
+    },
+    "lat": "REPLACE_MEKitsap,Washington"
   }]
 }

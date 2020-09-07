@@ -3404,5 +3404,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03088042049934297], ["weekly", 0.03201935442916642], ["biweekly", 0.03259845349637996], ["triweekly", 0.03287721576232019]]
     },
     "lat": "REPLACE_MEWicomico,Maryland"
+  }, {
+    "locale": "Wicomico,Maryland",
+    "long": "REPLACE_MEWicomico,Maryland",
+    "date": "09/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012315426590054024], ["weekly", 0.008384330058323286], ["biweekly", 0.00874576470931178], ["triweekly", 0.00742417597240962]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.30334237373201], ["weekly", 12.685053559881037], ["biweekly", 12.822934576836266], ["triweekly", 10.70875898352276]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1577.0830719339053], ["weekly", 1515.8639004057839], ["biweekly", 1472.982904132708], ["triweekly", 1435.7550295547962]],
+      "Daily Growth Rate": [["daily", 0.7407407407407407], ["weekly", 1.4323979591836735], ["biweekly", 1.4557562059911684], ["triweekly", 1.3212668666616036]],
+      "Confirmed Cumulative Cases": [["daily", 1634.0], ["weekly", 1570.5714285714287], ["biweekly", 1526.142857142857], ["triweekly", 1487.5714285714287]],
+      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 13.142857142857142], ["biweekly", 13.285714285714286], ["triweekly", 11.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.02876376988984088], ["weekly", 0.02993201211802372], ["biweekly", 0.030732062649341352], ["triweekly", 0.03115725640075806]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0305591677503251], ["weekly", 0.03172896231962878], ["biweekly", 0.03242496951528927], ["triweekly", 0.0327267912936267]]
+    },
+    "lat": "REPLACE_MEWicomico,Maryland"
   }]
 }

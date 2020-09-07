@@ -3404,5 +3404,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.009795324995299481], ["biweekly", 0.0096640826367231], ["triweekly", 0.010006552406884734]]
     },
     "lat": "REPLACE_MELouisa,Virginia"
+  }, {
+    "locale": "Louisa,Virginia",
+    "long": "REPLACE_MELouisa,Virginia",
+    "date": "09/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.011605546120307508], ["weekly", 0.008002091650667406], ["biweekly", 0.009498263049342854], ["triweekly", 0.012419478771461186]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.980633662312787], ["weekly", 5.320422441541858], ["biweekly", 6.080482790333554], ["triweekly", 7.473926763118324]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 691.6549174004416], ["weekly", 669.2331371110866], ["biweekly", 647.5714171705232], ["triweekly", 621.4760118620085]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.007017456957192], ["biweekly", 1.2521615020560382], ["triweekly", 1.3041867687708095]],
+      "Confirmed Cumulative Cases": [["daily", 260.0], ["weekly", 251.57142857142858], ["biweekly", 243.42857142857142], ["triweekly", 233.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.0], ["biweekly", 2.2857142857142856], ["triweekly", 2.8095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.011538461538461539], ["weekly", 0.00963425418374171], ["biweekly", 0.0090687740677584], ["triweekly", 0.00916574274683445]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012096774193548387], ["weekly", 0.010289152155793306], ["biweekly", 0.009824416130389927], ["triweekly", 0.010068264561905668]]
+    },
+    "lat": "REPLACE_MELouisa,Virginia"
   }]
 }

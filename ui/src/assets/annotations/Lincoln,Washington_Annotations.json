@@ -3404,5 +3404,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.03211405529953917], ["biweekly", 0.032604220003413543], ["triweekly", 0.025263483529612555]]
     },
     "lat": "REPLACE_MELincoln,Washington"
+  }, {
+    "locale": "Lincoln,Washington",
+    "long": "REPLACE_MELincoln,Washington",
+    "date": "09/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.004535528330654325], ["biweekly", 0.0022677641653271624], ["triweekly", 0.008090430323590353]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.305943348177556], ["biweekly", 0.652971674088778], ["triweekly", 2.1765722469625937]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 292.53130999177256], ["weekly", 284.69564990270726], ["biweekly", 284.69564990270726], ["triweekly", 283.8250210039222]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.015873015873015872]],
+      "Confirmed Cumulative Cases": [["daily", 32.0], ["weekly", 31.142857142857142], ["biweekly", 31.142857142857142], ["triweekly", 31.047619047619047]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.07142857142857142], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.03125], ["weekly", 0.03211405529953917], ["biweekly", 0.03211405529953916], ["triweekly", 0.026017665130568347]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.03211405529953917], ["biweekly", 0.03226286482334868], ["triweekly", 0.026799581839904413]]
+    },
+    "lat": "REPLACE_MELincoln,Washington"
   }]
 }

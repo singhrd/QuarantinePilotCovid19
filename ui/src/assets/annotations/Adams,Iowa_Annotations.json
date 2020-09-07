@@ -3404,5 +3404,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEAdams,Iowa"
+  }, {
+    "locale": "Adams,Iowa",
+    "long": "REPLACE_MEAdams,Iowa",
+    "date": "09/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.01996599176787983], ["biweekly", 0.009982995883939916], ["triweekly", 0.014394327232044453]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 11.898151820417228], ["biweekly", 5.949075910208614], ["triweekly", 7.932101213611485]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 638.5341476957245], ["weekly", 610.7717934480843], ["biweekly", 583.0094392004441], ["triweekly", 555.2470849528038]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.09523809523809523]],
+      "Confirmed Cumulative Cases": [["daily", 23.0], ["weekly", 22.0], ["biweekly", 21.0], ["triweekly", 20.0]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.42857142857142855], ["biweekly", 0.21428571428571427], ["triweekly", 0.2857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEAdams,Iowa"
   }]
 }
