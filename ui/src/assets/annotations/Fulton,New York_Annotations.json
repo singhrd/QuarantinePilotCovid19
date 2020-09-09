@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09003215434083602], ["weekly", 0.0903648757380242], ["biweekly", 0.0909571751978696], ["triweekly", 0.09172186582751457]]
     },
     "lat": "REPLACE_MEFulton,New York"
+  }, {
+    "locale": "Fulton,New York",
+    "long": "REPLACE_MEFulton,New York",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0004586108043212229], ["biweekly", 0.0006901364936954733], ["triweekly", 0.0013938277285768426]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.2676079329695649], ["biweekly", 0.4014118994543474], ["triweekly", 0.8028237989086948]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 584.4557256055298], ["weekly", 583.9205097395906], ["biweekly", 582.448666108258], ["triweekly", 579.8171881007241]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.07142857142857142], ["triweekly", 0.20446192980876668]],
+      "Confirmed Cumulative Cases": [["daily", 312.0], ["weekly", 311.7142857142857], ["biweekly", 310.92857142857144], ["triweekly", 309.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.21428571428571427], ["triweekly", 0.42857142857142855]],
+      "Confirmed Fatality Rate": [["daily", 0.08974358974358974], ["weekly", 0.08982603677137439], ["biweekly", 0.09005383251251674], ["triweekly", 0.09046693445650182]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09003215434083602], ["weekly", 0.09028162825365912], ["biweekly", 0.09078738329906556], ["triweekly", 0.09151977344964514]]
+    },
+    "lat": "REPLACE_MEFulton,New York"
   }]
 }

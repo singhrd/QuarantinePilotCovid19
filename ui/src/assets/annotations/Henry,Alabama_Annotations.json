@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010638297872340425], ["weekly", 0.011339930640358558], ["biweekly", 0.012266422752133731], ["triweekly", 0.012864475319887821]]
     },
     "lat": "REPLACE_MEHenry,Alabama"
+  }, {
+    "locale": "Henry,Alabama",
+    "long": "REPLACE_MEHenry,Alabama",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004878058453432033], ["weekly", 0.012018001807558219], ["biweekly", 0.01215505278653157], ["triweekly", 0.01588297842979688]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.624527753560011], ["weekly", 27.400672561962885], ["biweekly", 26.57034915099431], ["triweekly", 32.105838557451456]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2388.840453356582], ["weekly", 2329.0571677668454], ["biweekly", 2202.848009299622], ["triweekly", 2071.3801358962646]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.6674397031539889], ["biweekly", 1.3257833436404864], ["triweekly", 1.5785267642410499]],
+      "Confirmed Cumulative Cases": [["daily", 411.0], ["weekly", 400.7142857142857], ["biweekly", 379.0], ["triweekly", 356.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.714285714285714], ["biweekly", 4.571428571428571], ["triweekly", 5.523809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.009732360097323601], ["weekly", 0.009987748233797774], ["biweekly", 0.01059556050663457], ["triweekly", 0.011363360805032915]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010443864229765013], ["weekly", 0.01120337277947137], ["biweekly", 0.012051167090650489], ["triweekly", 0.012685894780064358]]
+    },
+    "lat": "REPLACE_MEHenry,Alabama"
   }]
 }

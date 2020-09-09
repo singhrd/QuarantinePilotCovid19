@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.0125918380195706], ["biweekly", 0.011064532876939535], ["triweekly", 0.01279578484699593]]
     },
     "lat": "REPLACE_MEHenry,Kentucky"
+  }, {
+    "locale": "Henry,Kentucky",
+    "long": "REPLACE_MEHenry,Kentucky",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006006024060211779], ["weekly", 0.003484493303451432], ["biweekly", 0.004437984364786184], ["triweekly", 0.006113388888009872]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.2011658191740056], ["weekly", 3.543523325242289], ["biweekly", 4.429404156552861], ["triweekly", 5.905872208737148]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1035.5946918020588], ["weekly", 1021.4205985010898], ["biweekly", 1005.9176839531547], ["triweekly", 984.2136035860458]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.4177335160382812], ["biweekly", 0.5598820124743616], ["triweekly", 0.5903524711551772]],
+      "Confirmed Cumulative Cases": [["daily", 167.0], ["weekly", 164.71428571428572], ["biweekly", 162.21428571428572], ["triweekly", 158.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.7142857142857143], ["triweekly", 0.9523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.011976047904191617], ["weekly", 0.012143872313336497], ["biweekly", 0.01099181014612555], ["triweekly", 0.011419827865130868]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.012524004618403865], ["biweekly", 0.01145713030150043], ["triweekly", 0.012193198133298106]]
+    },
+    "lat": "REPLACE_MEHenry,Kentucky"
   }]
 }

@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07105568219834595], ["weekly", 0.07145110380567135], ["biweekly", 0.07181688329009216], ["triweekly", 0.0720710966658562]]
     },
     "lat": "REPLACE_MEMassachusetts"
+  }, {
+    "locale": "Massachusetts",
+    "long": "REPLACE_MEMassachusetts",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.001391641425312784], ["weekly", -0.006528851082713568], ["biweekly", -0.0018551979828425047], ["triweekly", -0.000405464839013735]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.481857764876633], ["weekly", -11.905453037528511], ["biweekly", -3.349574953348538], ["triweekly", -0.7256894049346881]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1784.6444121915822], ["weekly", 1798.996475222891], ["biweekly", 1824.9346879535562], ["triweekly", 1821.4776418550002]],
+      "Daily Growth Rate": [["daily", 0.7467248908296943], ["weekly", 0.7910301515101281], ["biweekly", 0.8765193192645989], ["triweekly", 0.9352153656175342]],
+      "Confirmed Cumulative Cases": [["daily", 122962.0], ["weekly", 123950.85714285714], ["biweekly", 125738.0], ["triweekly", 125499.80952380953]],
+      "Confirmed Daily Cases": [["daily", 171.0], ["weekly", -820.2857142857143], ["biweekly", -230.78571428571428], ["triweekly", -50.0]],
+      "Confirmed Fatality Rate": [["daily", 0.07434004001236154], ["weekly", 0.07342897963032151], ["biweekly", 0.07207210349977669], ["triweekly", 0.07177865092083621]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07092204084166098], ["weekly", 0.07133159993446515], ["biweekly", 0.0717307167765358], ["triweekly", 0.07198400347708643]]
+    },
+    "lat": "REPLACE_MEMassachusetts"
   }]
 }

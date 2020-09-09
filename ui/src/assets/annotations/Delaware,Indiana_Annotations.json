@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05004240882103478], ["weekly", 0.05875253465443161], ["biweekly", 0.06265833044930555], ["triweekly", 0.06509484774757965]]
     },
     "lat": "REPLACE_MEDelaware,Indiana"
+  }, {
+    "locale": "Delaware,Indiana",
+    "long": "REPLACE_MEDelaware,Indiana",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006903071026873597], ["weekly", 0.04254410589567278], ["biweekly", 0.040480384585624495], ["triweekly", 0.03211579641659949]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.63770972970605], ["weekly", 51.19251012272434], ["biweekly", 42.994198599402964], ["triweekly", 32.50119428329443]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1400.9725325272702], ["weekly", 1250.023468449017], ["biweekly", 1077.858926459268], ["triweekly", 967.5259248133476]],
+      "Daily Growth Rate": [["daily", 0.7333333333333333], ["weekly", 1.0626189501132814], ["biweekly", 1.140690129567932], ["triweekly", 1.3846206480391832]],
+      "Confirmed Cumulative Cases": [["daily", 1599.0], ["weekly", 1426.7142857142858], ["biweekly", 1230.2142857142858], ["triweekly", 1104.2857142857142]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 58.42857142857143], ["biweekly", 49.07142857142857], ["triweekly", 37.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.03689806128830519], ["weekly", 0.041105843604275064], ["biweekly", 0.04803509679163701], ["triweekly", 0.05315968277629415]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04781199351701783], ["weekly", 0.056705318917591965], ["biweekly", 0.061464997298697845], ["triweekly", 0.06400760559967056]]
+    },
+    "lat": "REPLACE_MEDelaware,Indiana"
   }]
 }

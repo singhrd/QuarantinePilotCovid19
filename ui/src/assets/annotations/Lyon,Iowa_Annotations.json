@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013245033112582781], ["weekly", 0.014140977975873636], ["biweekly", 0.014615884768626715], ["triweekly", 0.015237874736142413]]
     },
     "lat": "REPLACE_MELyon,Iowa"
+  }, {
+    "locale": "Lyon,Iowa",
+    "long": "REPLACE_MELyon,Iowa",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.017804624633506627], ["weekly", 0.014387710800261593], ["biweekly", 0.014667066191478792], ["triweekly", 0.011926636283865392]],
+      "Confirmed Daily Cases per 100k": [["daily", 25.52105487026797], ["weekly", 19.444613234489882], ["biweekly", 18.836969070912073], ["triweekly", 14.988556034919284]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1446.193109315185], ["weekly", 1365.984079722914], ["biweekly", 1294.2820684207327], ["triweekly", 1241.2144781349375]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 0.8921562559161224], ["biweekly", 0.9817924136723469], ["triweekly", 0.7621435638717968]],
+      "Confirmed Cumulative Cases": [["daily", 170.0], ["weekly", 160.57142857142858], ["biweekly", 152.14285714285714], ["triweekly", 145.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.2857142857142856], ["biweekly", 2.2142857142857144], ["triweekly", 1.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.011764705882352941], ["weekly", 0.012472417326073992], ["biweekly", 0.013202351276662503], ["triweekly", 0.013799510751012352]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013157894736842105], ["weekly", 0.013932285227251009], ["biweekly", 0.01446305746348153], ["triweekly", 0.015033168710592884]]
+    },
+    "lat": "REPLACE_MELyon,Iowa"
   }]
 }

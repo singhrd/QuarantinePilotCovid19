@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04807692307692308], ["weekly", 0.04903719686771522], ["biweekly", 0.051356839557813026], ["triweekly", 0.05019167561794037]]
     },
     "lat": "REPLACE_MEReal,Texas"
+  }, {
+    "locale": "Real,Texas",
+    "long": "REPLACE_MEReal,Texas",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0013670644308786553], ["biweekly", 0.004202892858780949], ["triweekly", 0.006814325887651111]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 4.138387684158252], ["biweekly", 12.415163052474755], ["triweekly", 19.312475859405176]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3041.714947856315], ["weekly", 3041.714947856315], ["biweekly", 3008.6078463830486], ["triweekly", 2917.5633173315678]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.32142857142857145], ["triweekly", 0.21428571428571427]],
+      "Confirmed Cumulative Cases": [["daily", 105.0], ["weekly", 105.0], ["biweekly", 103.85714285714286], ["triweekly", 100.71428571428571]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.42857142857142855], ["triweekly", 0.6666666666666666]],
+      "Confirmed Fatality Rate": [["daily", 0.047619047619047616], ["weekly", 0.047619047619047616], ["biweekly", 0.04815468456994375], ["triweekly", 0.04821399630035957]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.047619047619047616], ["weekly", 0.048690321520839866], ["biweekly", 0.050866258710089325], ["triweekly", 0.05083901678252292]]
+    },
+    "lat": "REPLACE_MEReal,Texas"
   }]
 }

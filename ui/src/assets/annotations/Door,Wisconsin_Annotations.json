@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0234375], ["weekly", 0.0235170101505169], ["biweekly", 0.024114543779904043], ["triweekly", 0.025210899220062186]]
     },
     "lat": "REPLACE_MEDoor,Wisconsin"
+  }, {
+    "locale": "Door,Wisconsin",
+    "long": "REPLACE_MEDoor,Wisconsin",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006230549750636527], ["weekly", 0.031877650187744244], ["biweekly", 0.017063707734453475], ["triweekly", 0.014499485274674357]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.614283648980772], ["weekly", 16.52243953819782], ["biweekly", 8.77754600466759], ["triweekly", 7.228567297961544]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 581.8996674859044], ["weekly", 532.8486751068796], ["biweekly", 497.480327970425], ["triweekly", 479.32285535292624]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7692064712680634], ["biweekly", 0.49174609277688885], ["triweekly", 0.5717031258302898]],
+      "Confirmed Cumulative Cases": [["daily", 161.0], ["weekly", 147.42857142857142], ["biweekly", 137.64285714285714], ["triweekly", 132.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.571428571428571], ["biweekly", 2.4285714285714284], ["triweekly", 2.0]],
+      "Confirmed Fatality Rate": [["daily", 0.018633540372670808], ["weekly", 0.020461641895101853], ["biweekly", 0.021962752893557674], ["triweekly", 0.022802327493848102]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.022388059701492536], ["weekly", 0.0234638638920135], ["biweekly", 0.02397267029322123], ["triweekly", 0.024979261753754915]]
+    },
+    "lat": "REPLACE_MEDoor,Wisconsin"
   }]
 }

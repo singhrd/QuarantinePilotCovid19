@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.017581586296543137], ["biweekly", 0.017621813581087716], ["triweekly", 0.017558618156435172]]
     },
     "lat": "REPLACE_MEHall,Georgia"
+  }, {
+    "locale": "Hall,Georgia",
+    "long": "REPLACE_MEHall,Georgia",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003430114841757259], ["weekly", 0.007836908650292327], ["biweekly", 0.010652285878597314], ["triweekly", 0.010176595755433414]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.695882919766582], ["weekly", 30.396474847441137], ["biweekly", 39.445540348001195], ["triweekly", 36.522354452710886]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3999.686951247548], ["weekly", 3916.533376377537], ["biweekly", 3779.609485656707], ["triweekly", 3642.895225796895]],
+      "Daily Growth Rate": [["daily", 4.666666666666667], ["weekly", 0.7784359146709321], ["biweekly", 1.6265626448117323], ["triweekly", 1.4790132436490595]],
+      "Confirmed Cumulative Cases": [["daily", 8177.0], ["weekly", 8007.0], ["biweekly", 7727.071428571428], ["triweekly", 7447.571428571428]],
+      "Confirmed Daily Cases": [["daily", 28.0], ["weekly", 62.142857142857146], ["biweekly", 80.64285714285714], ["triweekly", 74.66666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.016265133912192736], ["weekly", 0.016272318121615847], ["biweekly", 0.016318215346561804], ["triweekly", 0.016310463092502007]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017049096269709012], ["weekly", 0.017500887939982706], ["biweekly", 0.017594304922409914], ["triweekly", 0.017561840994756654]]
+    },
+    "lat": "REPLACE_MEHall,Georgia"
   }]
 }

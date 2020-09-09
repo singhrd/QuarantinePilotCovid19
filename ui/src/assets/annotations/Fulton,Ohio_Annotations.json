@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005434782608695652], ["weekly", 0.005586891105519881], ["biweekly", 0.005765440414943155], ["triweekly", 0.005971112869936214]]
     },
     "lat": "REPLACE_MEFulton,Ohio"
+  }, {
+    "locale": "Fulton,Ohio",
+    "long": "REPLACE_MEFulton,Ohio",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014888612493750841], ["weekly", 0.011911658419864348], ["biweekly", 0.00872625956958625], ["triweekly", 0.009160566316545524]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.121492664862555], ["weekly", 5.425899173228613], ["biweekly", 3.899865030758065], ["triweekly", 3.95638481381253]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 481.8876703223662], ["weekly", 462.21878581941246], ["biweekly", 444.75417285558296], ["triweekly", 431.019865573348]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.3142857142857143], ["biweekly", 1.1035714285714284], ["triweekly", 1.0939811124816319]],
+      "Confirmed Cumulative Cases": [["daily", 203.0], ["weekly", 194.71428571428572], ["biweekly", 187.35714285714286], ["triweekly", 181.57142857142858]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.2857142857142856], ["biweekly", 1.6428571428571428], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.0049261083743842365], ["weekly", 0.005137994580755911], ["biweekly", 0.0053470903498929944], ["triweekly", 0.005526490686789769]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0053475935828877], ["weekly", 0.005556186119030076], ["biweekly", 0.005720738739806698], ["triweekly", 0.0059059729423295605]]
+    },
+    "lat": "REPLACE_MEFulton,Ohio"
   }]
 }

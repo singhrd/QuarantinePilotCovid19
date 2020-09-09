@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0064516129032258064], ["weekly", 0.0067462065857813525], ["biweekly", 0.006906345567693372], ["triweekly", 0.007068410364029687]]
     },
     "lat": "REPLACE_MECedar,Iowa"
+  }, {
+    "locale": "Cedar,Iowa",
+    "long": "REPLACE_MECedar,Iowa",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.011049836186584727], ["weekly", 0.021361676281566235], ["biweekly", 0.01495358779870529], ["triweekly", 0.012998853574385016]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.737102056155043], ["weekly", 19.173396528848293], ["biweekly", 13.037909639616839], ["triweekly", 10.992747343206352]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 977.076287110109], ["weekly", 901.9165727170237], ["biweekly", 852.449209672595], ["triweekly", 823.9447601663742]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.798549695079916], ["biweekly", 0.7802272284923389], ["triweekly", 0.8658620118470297]],
+      "Confirmed Cumulative Cases": [["daily", 182.0], ["weekly", 168.0], ["biweekly", 158.78571428571428], ["triweekly", 153.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.5714285714285716], ["biweekly", 2.4285714285714284], ["triweekly", 2.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.005494505494505495], ["weekly", 0.005973739745282638], ["biweekly", 0.006331565868012899], ["triweekly", 0.006555112333091371]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0064516129032258064], ["weekly", 0.006689391990743161], ["biweekly", 0.006845798626995736], ["triweekly", 0.0070175920740651425]]
+    },
+    "lat": "REPLACE_MECedar,Iowa"
   }]
 }

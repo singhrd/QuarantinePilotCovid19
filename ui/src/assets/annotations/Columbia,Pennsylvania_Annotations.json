@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.06150961566810555], ["biweekly", 0.06553954661887107], ["triweekly", 0.06787101548640274]]
     },
     "lat": "REPLACE_MEColumbia,Pennsylvania"
+  }, {
+    "locale": "Columbia,Pennsylvania",
+    "long": "REPLACE_MEColumbia,Pennsylvania",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008810629682154847], ["weekly", 0.024787275301685723], ["biweekly", 0.0290069585161637], ["triweekly", 0.022610440536921256]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.775198571516531], ["weekly", 27.70765346961394], ["biweekly", 29.027065539595554], ["triweekly", 21.91690049580573]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1228.3726371528846], ["weekly", 1143.490460650734], ["biweekly", 1027.162296480688], ["triweekly", 945.5786501534917]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.1844751653575183], ["biweekly", 1.334269012737121], ["triweekly", 1.3657482008107034]],
+      "Confirmed Cumulative Cases": [["daily", 798.0], ["weekly", 742.8571428571429], ["biweekly", 667.2857142857143], ["triweekly", 614.2857142857143]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 18.0], ["biweekly", 18.857142857142858], ["triweekly", 14.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.043859649122807015], ["weekly", 0.04727423504158196], ["biweekly", 0.053407490834006546], ["triweekly", 0.05856984121526302]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05185185185185185], ["weekly", 0.05954074662643115], ["biweekly", 0.06421764430210354], ["triweekly", 0.06688322105272945]]
+    },
+    "lat": "REPLACE_MEColumbia,Pennsylvania"
   }]
 }

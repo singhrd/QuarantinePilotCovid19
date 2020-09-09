@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013482074348335243], ["biweekly", 0.01457599579727656], ["triweekly", 0.013909169830928488]]
     },
     "lat": "REPLACE_MEMeigs,Tennessee"
+  }, {
+    "locale": "Meigs,Tennessee",
+    "long": "REPLACE_MEMeigs,Tennessee",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005509655810969072], ["weekly", 0.015842956576206064], ["biweekly", 0.021475516522493927], ["triweekly", 0.019176499317575462]],
+      "Confirmed Daily Cases per 100k": [["daily", 8.050233456770247], ["weekly", 21.850633668376386], ["biweekly", 27.025783747728685], ["triweekly", 23.00066701934356]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1465.142489132185], ["weekly", 1386.9402212664168], ["biweekly", 1310.4630034270995], ["triweekly", 1221.7187631774655]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.368565789278205], ["biweekly", 0.8638463867025946], ["triweekly", 0.8597246003089092]],
+      "Confirmed Cumulative Cases": [["daily", 182.0], ["weekly", 172.28571428571428], ["biweekly", 162.78571428571428], ["triweekly", 151.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.7142857142857144], ["biweekly", 3.357142857142857], ["triweekly", 2.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.016483516483516484], ["weekly", 0.011623659830066106], ["biweekly", 0.012368603223344767], ["triweekly", 0.012248810796837536]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018404907975460124], ["weekly", 0.013113546616623433], ["biweekly", 0.014277192468170202], ["triweekly", 0.014047823009413953]]
+    },
+    "lat": "REPLACE_MEMeigs,Tennessee"
   }]
 }

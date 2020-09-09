@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009174311926605505], ["weekly", 0.009946074577410983], ["biweekly", 0.010925485159442111], ["triweekly", 0.011949526555110042]]
     },
     "lat": "REPLACE_MEDallas,Missouri"
+  }, {
+    "locale": "Dallas,Missouri",
+    "long": "REPLACE_MEDallas,Missouri",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00809721023262], ["weekly", 0.017262353306181945], ["biweekly", 0.02231247750301086], ["triweekly", 0.02168931088965835]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.924872615238772], ["weekly", 11.849745230477541], ["biweekly", 13.965771164491388], ["triweekly", 12.69615560408308]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 734.6842042896077], ["weekly", 688.9780441149086], ["biweekly", 651.7359876762649], ["triweekly", 604.0548699631529]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.65244579897602], ["biweekly", 0.9055574425253642], ["triweekly", 0.9211652791438936]],
+      "Confirmed Cumulative Cases": [["daily", 124.0], ["weekly", 116.28571428571429], ["biweekly", 110.0], ["triweekly", 101.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.0], ["biweekly", 2.357142857142857], ["triweekly", 2.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.008064516129032258], ["weekly", 0.008622327148067448], ["biweekly", 0.009145858063845958], ["triweekly", 0.009984137208321635]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009259259259259259], ["weekly", 0.009669388979624468], ["biweekly", 0.01066504223844873], ["triweekly", 0.011696267426701332]]
+    },
+    "lat": "REPLACE_MEDallas,Missouri"
   }]
 }

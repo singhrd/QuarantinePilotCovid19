@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05163511187607573], ["weekly", 0.052622893035888456], ["biweekly", 0.05353885633296677], ["triweekly", 0.05474176702628197]]
     },
     "lat": "REPLACE_MEDearborn,Indiana"
+  }, {
+    "locale": "Dearborn,Indiana",
+    "long": "REPLACE_MEDearborn,Indiana",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005012541823544048], ["weekly", 0.0038809080772416343], ["biweekly", 0.0041883918037794055], ["triweekly", 0.004690373073624817]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.065752759917506], ["weekly", 4.621525912318099], ["biweekly", 4.910371281837981], ["triweekly", 5.391780231037783]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1213.1505519835011], ["weekly", 1191.77599463903], ["biweekly", 1174.878540522117], ["triweekly", 1156.7294231372846]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.1428571428571428], ["biweekly", 1.4547619047619051], ["triweekly", 1.4023809523809523]],
+      "Confirmed Cumulative Cases": [["daily", 600.0], ["weekly", 589.4285714285714], ["biweekly", 581.0714285714286], ["triweekly", 572.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.2857142857142856], ["biweekly", 2.4285714285714284], ["triweekly", 2.6666666666666665]],
+      "Confirmed Fatality Rate": [["daily", 0.05], ["weekly", 0.05090076452383585], ["biweekly", 0.051643910483266185], ["triweekly", 0.05247769462570316]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05154639175257732], ["weekly", 0.052387056442696533], ["biweekly", 0.053266159676636816], ["triweekly", 0.054404943074057084]]
+    },
+    "lat": "REPLACE_MEDearborn,Indiana"
   }]
 }

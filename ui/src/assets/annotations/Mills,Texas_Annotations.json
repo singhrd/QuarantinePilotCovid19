@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEMills,Texas"
+  }, {
+    "locale": "Mills,Texas",
+    "long": "REPLACE_MEMills,Texas",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.008668632643161946], ["triweekly", 0.014154834450853875]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 5.863211280818504], ["triweekly", 8.794816921227756]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 718.2433819002667], ["weekly", 718.2433819002666], ["biweekly", 693.3247339567882], ["triweekly", 665.4744803729003]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.12193619865618197], ["triweekly", 0.17964242486136944]],
+      "Confirmed Cumulative Cases": [["daily", 35.0], ["weekly", 35.0], ["biweekly", 33.785714285714285], ["triweekly", 32.42857142857143]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.2857142857142857], ["triweekly", 0.42857142857142855]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMills,Texas"
   }]
 }

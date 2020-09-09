@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03926128221074548], ["weekly", 0.03943267084960984], ["biweekly", 0.03952671068428822], ["triweekly", 0.03963506282732682]]
     },
     "lat": "REPLACE_MEWestchester,New York"
+  }, {
+    "locale": "Westchester,New York",
+    "long": "REPLACE_MEWestchester,New York",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0009921034746369628], ["weekly", 0.0011273343317834059], ["biweekly", 0.0010948379514007353], ["triweekly", 0.001021355747896466]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.824265689308387], ["weekly", 4.326292845433811], ["biweekly", 4.186020551810531], ["triweekly", 3.8931713774040344]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3856.6169098692926], ["weekly", 3839.87282766205], ["biweekly", 3824.9153715104317], ["triweekly", 3811.670713891474]],
+      "Daily Growth Rate": [["daily", 1.1935483870967742], ["weekly", 1.0016941187300696], ["biweekly", 1.0663983383561635], ["triweekly", 1.0566688824984536]],
+      "Confirmed Cumulative Cases": [["daily", 37313.0], ["weekly", 37151.0], ["biweekly", 37006.28571428572], ["triweekly", 36878.142857142855]],
+      "Confirmed Daily Cases": [["daily", 37.0], ["weekly", 41.857142857142854], ["biweekly", 40.5], ["triweekly", 37.666666666666664]],
+      "Confirmed Fatality Rate": [["daily", 0.03891405140299627], ["weekly", 0.03908396417425765], ["biweekly", 0.039212166462519286], ["triweekly", 0.03932902065149747]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.039222042139384114], ["weekly", 0.03939080649043851], ["biweekly", 0.03949430574577934], ["triweekly", 0.03960156807007425]]
+    },
+    "lat": "REPLACE_MEWestchester,New York"
   }]
 }

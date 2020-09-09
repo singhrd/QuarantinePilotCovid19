@@ -3449,5 +3449,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1], ["weekly", 0.1008746355685131], ["biweekly", 0.09539358600583092], ["triweekly", 0.0913909573344337]]
     },
     "lat": "REPLACE_MEPresidio,Texas"
+  }, {
+    "locale": "Presidio,Texas",
+    "long": "REPLACE_MEPresidio,Texas",
+    "date": "09/08/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.08554807158410054], ["biweekly", 0.04421708631473024], ["triweekly", 0.02947805754315349]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 87.36788271394475], ["biweekly", 44.749403341288776], ["triweekly", 29.832935560859184]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1357.398568019093], ["weekly", 1169.8772587794067], ["biweekly", 955.7193999318102], ["triweekly", 882.2025230139787]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.2194723156517315], ["biweekly", 0.6097361578258658], ["triweekly", 0.4064907718839105]],
+      "Confirmed Cumulative Cases": [["daily", 91.0], ["weekly", 78.42857142857143], ["biweekly", 64.07142857142857], ["triweekly", 59.142857142857146]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 5.857142857142857], ["biweekly", 3.0], ["triweekly", 2.0]],
+      "Confirmed Fatality Rate": [["daily", 0.054945054945054944], ["weekly", 0.06669314122730273], ["biweekly", 0.07929409247954057], ["triweekly", 0.07991812190569955]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09615384615384616], ["weekly", 0.10058309037900873], ["biweekly", 0.0967055393586006], ["triweekly", 0.09201207534685606]]
+    },
+    "lat": "REPLACE_MEPresidio,Texas"
   }]
 }
