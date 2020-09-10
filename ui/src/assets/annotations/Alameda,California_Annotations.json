@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016408534604137333], ["weekly", 0.016236160182809416], ["biweekly", 0.01571429341079057], ["triweekly", 0.01576638811214385]]
     },
     "lat": "REPLACE_MEAlameda,California"
+  }, {
+    "locale": "Alameda,California",
+    "long": "REPLACE_MEAlameda,California",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0051106565981839935], ["weekly", 0.007907811042661297], ["biweekly", 0.00862932998230091], ["triweekly", 0.011050479146590726]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.983262421701532], ["weekly", 8.983441150297585], ["biweekly", 9.492018456142217], ["triweekly", 11.516355575484567]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1173.7365892651894], ["weekly", 1143.4783764468705], ["biweekly", 1108.1771281588312], ["triweekly", 1069.6107280920926]],
+      "Daily Growth Rate": [["daily", 0.684931506849315], ["weekly", 0.7834780493526045], ["biweekly", 0.8752320417615734], ["triweekly", 1.336100502866248]],
+      "Confirmed Cumulative Cases": [["daily", 19617.0], ["weekly", 19111.285714285714], ["biweekly", 18521.285714285714], ["triweekly", 17876.714285714286]],
+      "Confirmed Daily Cases": [["daily", 100.0], ["weekly", 150.14285714285714], ["biweekly", 158.64285714285714], ["triweekly", 192.47619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.015445786817556201], ["weekly", 0.015441021630474533], ["biweekly", 0.01470305319309641], ["triweekly", 0.014497177916269458]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016189356700149603], ["weekly", 0.01645753270918347], ["biweekly", 0.015778554075452582], ["triweekly", 0.015768304691149777]]
+    },
+    "lat": "REPLACE_MEAlameda,California"
   }]
 }

@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04994054696789536], ["weekly", 0.05059687349307377], ["biweekly", 0.05059947461783161], ["triweekly", 0.051141506355778354]]
     },
     "lat": "REPLACE_MERensselaer,New York"
+  }, {
+    "locale": "Rensselaer,New York",
+    "long": "REPLACE_MERensselaer,New York",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0011554016305561632], ["weekly", 0.004019692422704375], ["biweekly", 0.0039032445056292253], ["triweekly", 0.0036604076125485363]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.6300641405295059], ["weekly", 2.160219910386877], ["biweekly", 2.070210747454091], ["triweekly", 1.9201954758994464]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 545.6355456985522], ["weekly", 538.9748676415259], ["biweekly", 531.0990658849072], ["triweekly", 524.7834229524566]],
+      "Daily Growth Rate": [["daily", 0.2], ["weekly", 1.5357142857142858], ["biweekly", 1.530952380952381], ["triweekly", 1.3992063492063493]],
+      "Confirmed Cumulative Cases": [["daily", 866.0], ["weekly", 855.4285714285714], ["biweekly", 842.9285714285714], ["triweekly", 832.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.4285714285714284], ["biweekly", 3.2857142857142856], ["triweekly", 3.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.04849884526558892], ["weekly", 0.04910127104899538], ["biweekly", 0.04923832611241068], ["triweekly", 0.0496393394454654]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04976303317535545], ["weekly", 0.05057965876548024], ["biweekly", 0.05051051243852755], ["triweekly", 0.05098406796154703]]
+    },
+    "lat": "REPLACE_MERensselaer,New York"
   }]
 }

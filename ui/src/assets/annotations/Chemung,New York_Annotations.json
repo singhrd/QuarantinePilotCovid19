@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00975609756097561], ["weekly", 0.010169745009374426], ["biweekly", 0.01027421133543993], ["triweekly", 0.010467305081668349]]
     },
     "lat": "REPLACE_MEChemung,New York"
+  }, {
+    "locale": "Chemung,New York",
+    "long": "REPLACE_MEChemung,New York",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014117881545784527], ["weekly", 0.004121164905379742], ["biweekly", 0.00599999817233846], ["triweekly", 0.004992098157884785]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.5947085889570554], ["weekly", 1.027059596844873], ["biweekly", 1.4550010955302368], ["triweekly", 1.1982361963190187]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 256.42254601226995], ["weekly", 248.3772458369851], ["biweekly", 242.98518295354953], ["triweekly", 239.19076833187268]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 0.5297020126224564], ["biweekly", 0.46705673695692546], ["triweekly", 0.48790005231350025]],
+      "Confirmed Cumulative Cases": [["daily", 214.0], ["weekly", 207.28571428571428], ["biweekly", 202.78571428571428], ["triweekly", 199.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 0.8571428571428571], ["biweekly", 1.2142857142857142], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.009345794392523364], ["weekly", 0.00964964828215467], ["biweekly", 0.009870183732225988], ["triweekly", 0.0100293465925116]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00975609756097561], ["weekly", 0.010090719182297304], ["biweekly", 0.010219195747690066], ["triweekly", 0.01039075561487498]]
+    },
+    "lat": "REPLACE_MEChemung,New York"
   }]
 }

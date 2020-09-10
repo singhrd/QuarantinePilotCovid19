@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005988023952095809], ["weekly", 0.006250755893123092], ["biweekly", 0.003125377946561546], ["triweekly", 0.0020835852977076972]]
     },
     "lat": "REPLACE_MEPark,Wyoming"
+  }, {
+    "locale": "Park,Wyoming",
+    "long": "REPLACE_MEPark,Wyoming",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03409421134297563], ["weekly", 0.005042540297289122], ["biweekly", 0.006478325819343743], ["triweekly", 0.007432348606364981]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.55216825375077], ["weekly", 2.9360240362501107], ["biweekly", 3.670030045312638], ["triweekly", 4.077811161458487]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 613.139686236898], ["weekly", 588.183481928772], ["biweekly", 570.3226690415838], ["triweekly", 558.1707917804378]],
+      "Daily Growth Rate": [["daily", 6.0], ["weekly", 0.3333333333333333], ["biweekly", 0.5773809523809523], ["triweekly", 0.6738014244886219]],
+      "Confirmed Cumulative Cases": [["daily", 179.0], ["weekly", 171.71428571428572], ["biweekly", 166.5], ["triweekly", 162.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 0.8571428571428571], ["biweekly", 1.0714285714285714], ["triweekly", 1.1904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.00558659217877095], ["weekly", 0.005823780990264051], ["biweekly", 0.003339606491710297], ["triweekly", 0.002226404327806865]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0058823529411764705], ["weekly", 0.006202028754272402], ["biweekly", 0.0035530939431398178], ["triweekly", 0.002368729295426545]]
+    },
+    "lat": "REPLACE_MEPark,Wyoming"
   }]
 }

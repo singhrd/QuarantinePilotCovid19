@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.05252350627622876], ["biweekly", 0.05318894627776226], ["triweekly", 0.0532704090754191]]
     },
     "lat": "REPLACE_MEHolmes,Mississippi"
+  }, {
+    "locale": "Holmes,Mississippi",
+    "long": "REPLACE_MEHolmes,Mississippi",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004683849312426602], ["weekly", 0.002708273392087663], ["biweekly", 0.0031537889229142912], ["triweekly", 0.004744703977760929]],
+      "Confirmed Daily Cases per 100k": [["daily", 29.394473838918284], ["weekly", 16.79684219366759], ["biweekly", 19.31636852271773], ["triweekly", 28.274684359340448]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 6290.4174015285125], ["weekly", 6218.190980095742], ["biweekly", 6158.142269253381], ["triweekly", 6065.059768763474]],
+      "Daily Growth Rate": [["daily", 5.0], ["weekly", 1.042857142857143], ["biweekly", 1.0652984518952924], ["triweekly", 1.1073645008100135]],
+      "Confirmed Cumulative Cases": [["daily", 1070.0], ["weekly", 1057.7142857142858], ["biweekly", 1047.5], ["triweekly", 1031.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 2.857142857142857], ["biweekly", 3.2857142857142856], ["triweekly", 4.809523809523809]],
+      "Confirmed Fatality Rate": [["daily", 0.0514018691588785], ["weekly", 0.05145811284492187], ["biweekly", 0.051621641678684826], ["triweekly", 0.05117794810136974]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05253104106972302], ["weekly", 0.05247185605155028], ["biweekly", 0.053095351294453356], ["triweekly", 0.053160243551719735]]
+    },
+    "lat": "REPLACE_MEHolmes,Mississippi"
   }]
 }

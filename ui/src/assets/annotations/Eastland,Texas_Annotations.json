@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.025022791700998383], ["biweekly", 0.02241686705423727], ["triweekly", 0.01927427801599657]]
     },
     "lat": "REPLACE_MEEastland,Texas"
+  }, {
+    "locale": "Eastland,Texas",
+    "long": "REPLACE_MEEastland,Texas",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.031252543504104224], ["weekly", 0.014297636936711757], ["biweekly", 0.012345915202815074], ["triweekly", 0.011967353727662175]],
+      "Confirmed Daily Cases per 100k": [["daily", 21.78649237472767], ["weekly", 9.337068160597571], ["biweekly", 7.780890133831309], ["triweekly", 7.262164124909224]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 708.0610021786492], ["weekly", 668.3784624961094], ["biweekly", 666.4332399626517], ["triweekly", 629.7333748314139]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.761904761904762], ["biweekly", 1.1785714285714286], ["triweekly", 0.9533142780712873]],
+      "Confirmed Cumulative Cases": [["daily", 130.0], ["weekly", 122.71428571428571], ["biweekly", 122.35714285714286], ["triweekly", 115.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 1.7142857142857142], ["biweekly", 1.4285714285714286], ["triweekly", 1.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.023076923076923078], ["weekly", 0.024471835670382885], ["biweekly", 0.021108838755432496], ["triweekly", 0.01824926770294991]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02564102564102564], ["weekly", 0.024739063512602865], ["biweekly", 0.022838840354835705], ["triweekly", 0.019924638093405285]]
+    },
+    "lat": "REPLACE_MEEastland,Texas"
   }]
 }

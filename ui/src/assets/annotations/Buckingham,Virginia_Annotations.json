@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.012452952991994694], ["biweekly", 0.012581851613402528], ["triweekly", 0.01273012551901949]]
     },
     "lat": "REPLACE_MEBuckingham,Virginia"
+  }, {
+    "locale": "Buckingham,Virginia",
+    "long": "REPLACE_MEBuckingham,Virginia",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0015232295405214202], ["weekly", 0.0017528703702591741], ["biweekly", 0.0020993666694232465], ["triweekly", 0.002534318866900444]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.831583858175881], ["weekly", 6.664667266486721], ["biweekly", 7.914292378952981], ["triweekly", 9.44161196085619]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3831.350594821554], ["weekly", 3812.189676430404], ["biweekly", 3783.8648405478352], ["triweekly", 3750.263809745966]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7261904761904762], ["biweekly", 0.5297619047619048], ["triweekly", 0.5749147450365678]],
+      "Confirmed Cumulative Cases": [["daily", 657.0], ["weekly", 653.7142857142857], ["biweekly", 648.8571428571429], ["triweekly", 643.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.1428571428571428], ["biweekly", 1.3571428571428572], ["triweekly", 1.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0121765601217656], ["weekly", 0.012237940513914013], ["biweekly", 0.012330218846569988], ["triweekly", 0.012442640422046382]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012326656394453005], ["weekly", 0.012422497179225956], ["biweekly", 0.012544990376112565], ["triweekly", 0.012693502895875921]]
+    },
+    "lat": "REPLACE_MEBuckingham,Virginia"
   }]
 }

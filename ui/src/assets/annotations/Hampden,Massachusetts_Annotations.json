@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09547169811320755], ["weekly", 0.09574296424964589], ["biweekly", 0.0958383588045145], ["triweekly", 0.09573595744190926]]
     },
     "lat": "REPLACE_MEHampden,Massachusetts"
+  }, {
+    "locale": "Hampden,Massachusetts",
+    "long": "REPLACE_MEHampden,Massachusetts",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0005134129236115115], ["weekly", -0.002922778104061306], ["biweekly", -0.0003293753206004319], ["triweekly", 0.0009384583824554633]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.8576844235931832], ["weekly", -4.931685435660803], ["biweekly", -0.551368558024189], ["triweekly", 1.5520003855495694]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1670.9836782654193], ["weekly", 1667.461045811376], ["biweekly", 1680.433522718223], ["triweekly", 1677.058942932537]],
+      "Daily Growth Rate": [["daily", 0.26666666666666666], ["weekly", 0.8739598691462046], ["biweekly", 1.2642157239937657], ["triweekly", 1.038840257737603]],
+      "Confirmed Cumulative Cases": [["daily", 7793.0], ["weekly", 7776.571428571428], ["biweekly", 7837.071428571428], ["triweekly", 7821.333333333333]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", -23.0], ["biweekly", -2.5714285714285716], ["triweekly", 7.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.09739509816501989], ["weekly", 0.09724490342506233], ["biweekly", 0.09584390733262893], ["triweekly", 0.09529807084629488]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0953996983408748], ["weekly", 0.09574416986782662], ["biweekly", 0.09574592683319597], ["triweekly", 0.09586139536935874]]
+    },
+    "lat": "REPLACE_MEHampden,Massachusetts"
   }]
 }

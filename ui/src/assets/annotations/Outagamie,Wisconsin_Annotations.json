@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010824742268041237], ["weekly", 0.011823424157385048], ["biweekly", 0.012318332586793088], ["triweekly", 0.01226854042543036]]
     },
     "lat": "REPLACE_MEOutagamie,Wisconsin"
+  }, {
+    "locale": "Outagamie,Wisconsin",
+    "long": "REPLACE_MEOutagamie,Wisconsin",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.027150989065950704], ["weekly", 0.036628406585845576], ["biweekly", 0.031810014546541865], ["triweekly", 0.026634127158577197]],
+      "Confirmed Daily Cases per 100k": [["daily", 36.724592170742746], ["weekly", 43.11147776565452], ["biweekly", 34.25347572033045], ["triweekly", 27.220298130695454]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1371.0514410410624], ["weekly", 1219.2108394572667], ["biweekly", 1085.9226198396436], ["triweekly", 995.4924301466069]],
+      "Daily Growth Rate": [["daily", 1.38], ["weekly", 1.6708478720823117], ["biweekly", 1.514399572129817], ["triweekly", 1.3783147342058084]],
+      "Confirmed Cumulative Cases": [["daily", 2576.0], ["weekly", 2290.714285714286], ["biweekly", 2040.2857142857142], ["triweekly", 1870.3809523809523]],
+      "Confirmed Daily Cases": [["daily", 69.0], ["weekly", 81.0], ["biweekly", 64.35714285714286], ["triweekly", 51.142857142857146]],
+      "Confirmed Fatality Rate": [["daily", 0.008928571428571428], ["weekly", 0.00916836191329654], ["biweekly", 0.009984122170129003], ["triweekly", 0.010356661179402524]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01165146909827761], ["weekly", 0.011679725178775748], ["biweekly", 0.012144464361795731], ["triweekly", 0.012234130813867821]]
+    },
+    "lat": "REPLACE_MEOutagamie,Wisconsin"
   }]
 }

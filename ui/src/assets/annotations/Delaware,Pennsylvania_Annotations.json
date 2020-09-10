@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07429335370511841], ["weekly", 0.0755612982082663], ["biweekly", 0.07648570161830844], ["triweekly", 0.0776781888358105]]
     },
     "lat": "REPLACE_MEDelaware,Pennsylvania"
+  }, {
+    "locale": "Delaware,Pennsylvania",
+    "long": "REPLACE_MEDelaware,Pennsylvania",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003257483451935883], ["weekly", 0.003436985572527616], ["biweekly", 0.003935228371657574], ["triweekly", 0.004148645492931348]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.175595106811329], ["weekly", 6.427660213211793], ["biweekly", 7.246871809013293], ["triweekly", 7.5199423409471295]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1898.9072725572435], ["weekly", 1871.2053173638328], ["biweekly", 1845.2048016386248], ["triweekly", 1819.422742338964]],
+      "Daily Growth Rate": [["daily", 0.5147058823529411], ["weekly", 0.7902173957876854], ["biweekly", 2.154061626891529], ["triweekly", 1.8262538964971937]],
+      "Confirmed Cumulative Cases": [["daily", 10762.0], ["weekly", 10605.0], ["biweekly", 10457.642857142857], ["triweekly", 10311.52380952381]],
+      "Confirmed Daily Cases": [["daily", 35.0], ["weekly", 36.42857142857143], ["biweekly", 41.07142857142857], ["triweekly", 42.61904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.07229139565136591], ["weekly", 0.07320215886436791], ["biweekly", 0.07406979186871747], ["triweekly", 0.07496094351851405]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07392626377803117], ["weekly", 0.07529711559561239], ["biweekly", 0.07620565580310389], ["triweekly", 0.07736770766641847]]
+    },
+    "lat": "REPLACE_MEDelaware,Pennsylvania"
   }]
 }

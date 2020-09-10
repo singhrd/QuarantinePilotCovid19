@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.029411764705882353], ["weekly", 0.050687466128642604], ["biweekly", 0.10153420925479748], ["triweekly", 0.13435613950319836]]
     },
     "lat": "REPLACE_MEDickens,Texas"
+  }, {
+    "locale": "Dickens,Texas",
+    "long": "REPLACE_MEDickens,Texas",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02197890671877545], ["weekly", 0.040043137879165434], ["biweekly", 0.08869379516491306], ["triweekly", 0.1046297417779152]],
+      "Confirmed Daily Cases per 100k": [["daily", 45.22840343735866], ["weekly", 71.07320540156361], ["biweekly", 103.37920785681978], ["triweekly", 86.14933988068316]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2080.506558118498], ["weekly", 1990.0497512437812], ["biweekly", 1544.2269173612456], ["triweekly", 1156.5548878981713]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.27346938775510204], ["biweekly", 0.7404505706928888], ["triweekly", 0.7273746802912624]],
+      "Confirmed Cumulative Cases": [["daily", 46.0], ["weekly", 44.0], ["biweekly", 34.142857142857146], ["triweekly", 25.571428571428573]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 2.2857142857142856], ["triweekly", 1.9047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.021739130434782608], ["weekly", 0.022782772782772787], ["biweekly", 0.03334145429733664], ["triweekly", 0.06716048113106933]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02564102564102564], ["weekly", 0.04390013581190052], ["biweekly", 0.08934933530521763], ["triweekly", 0.12623289020347844]]
+    },
+    "lat": "REPLACE_MEDickens,Texas"
   }]
 }

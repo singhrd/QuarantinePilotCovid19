@@ -3464,5 +3464,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008064516129032258], ["weekly", 0.008197879727867011], ["biweekly", 0.008402464191922423], ["triweekly", 0.008764067820659879]]
     },
     "lat": "REPLACE_MEBarron,Wisconsin"
+  }, {
+    "locale": "Barron,Wisconsin",
+    "long": "REPLACE_MEBarron,Wisconsin",
+    "date": "09/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0024242436115065047], ["weekly", 0.014589927868054353], ["biweekly", 0.009835782918660576], ["triweekly", 0.009710104256491547]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.210237821589603], ["weekly", 12.629930409083443], ["biweekly", 8.367328896017781], ["triweekly", 7.998955925752847]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 912.8282203165061], ["weekly", 881.2533942937974], ["biweekly", 847.152582189272], ["triweekly", 824.1029591926949]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.366666666666667], ["biweekly", 1.3352643232845784], ["triweekly", 1.3148167722248643]],
+      "Confirmed Cumulative Cases": [["daily", 413.0], ["weekly", 398.7142857142857], ["biweekly", 383.2857142857143], ["triweekly", 372.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 5.714285714285714], ["biweekly", 3.7857142857142856], ["triweekly", 3.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.007263922518159807], ["weekly", 0.00753326941749314], ["biweekly", 0.007844715298967896], ["triweekly", 0.008071587109991748]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008], ["weekly", 0.00815616118044265], ["biweekly", 0.008340745956241052], ["triweekly", 0.00866546691560736]]
+    },
+    "lat": "REPLACE_MEBarron,Wisconsin"
   }]
 }
