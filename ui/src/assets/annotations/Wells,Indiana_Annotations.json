@@ -3479,5 +3479,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008695652173913044], ["weekly", 0.008971090589766547], ["biweekly", 0.009343061950246269], ["triweekly", 0.009605774592628435]]
     },
     "lat": "REPLACE_MEWells,Indiana"
+  }, {
+    "locale": "Wells,Indiana",
+    "long": "REPLACE_MEWells,Indiana",
+    "date": "09/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00833338155914376], ["weekly", 0.005483463286902206], ["biweekly", 0.006569177795887298], ["triweekly", 0.008483151684927368]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.068136839129206], ["weekly", 4.543802253725919], ["biweekly", 5.3011026293469055], ["triweekly", 6.5632699220485495]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 851.7104891150693], ["weekly", 834.5450139343268], ["biweekly", 814.3503372511005], ["triweekly", 788.6021244799875]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.4475492424280922], ["biweekly", 0.735504161383553], ["triweekly", 0.9995599421597069]],
+      "Confirmed Cumulative Cases": [["daily", 241.0], ["weekly", 236.14285714285714], ["biweekly", 230.42857142857142], ["triweekly", 223.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.2857142857142858], ["biweekly", 1.5], ["triweekly", 1.8571428571428572]],
+      "Confirmed Fatality Rate": [["daily", 0.008298755186721992], ["weekly", 0.008470599617727026], ["biweekly", 0.00868665512141161], ["triweekly", 0.008990129371497619]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008583690987124463], ["weekly", 0.008902710625096195], ["biweekly", 0.009249894248382915], ["triweekly", 0.009531452779176186]]
+    },
+    "lat": "REPLACE_MEWells,Indiana"
   }]
 }

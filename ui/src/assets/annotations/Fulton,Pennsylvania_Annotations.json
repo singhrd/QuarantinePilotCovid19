@@ -3479,5 +3479,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.05882352941176471], ["biweekly", 0.06274445261975758], ["triweekly", 0.06576513520581469]]
     },
     "lat": "REPLACE_MEFulton,Pennsylvania"
+  }, {
+    "locale": "Fulton,Pennsylvania",
+    "long": "REPLACE_MEFulton,Pennsylvania",
+    "date": "09/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.007723888752896535], ["biweekly", 0.007944688222158864], ["triweekly", 0.01454198331196104]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.966374987710156], ["biweekly", 1.9663749877101562], ["triweekly", 3.2772916461835937]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 261.5278733654508], ["weekly", 259.56149837774063], ["biweekly", 247.7632484514797], ["triweekly", 236.29272768983705]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.1635306060790474], ["biweekly", 0.0817653030395237], ["triweekly", 0.10212924964539674]],
+      "Confirmed Cumulative Cases": [["daily", 38.0], ["weekly", 37.714285714285715], ["biweekly", 36.0], ["triweekly", 34.333333333333336]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.2857142857142857], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.05308142150247413], ["biweekly", 0.05571904875310448], ["triweekly", 0.058767584348614725]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05555555555555555], ["weekly", 0.05835667600373483], ["biweekly", 0.06161066577168502], ["triweekly", 0.06488330099064715]]
+    },
+    "lat": "REPLACE_MEFulton,Pennsylvania"
   }]
 }

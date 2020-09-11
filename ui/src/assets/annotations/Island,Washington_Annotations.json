@@ -3479,5 +3479,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05454545454545454], ["weekly", 0.05500445552772758], ["biweekly", 0.05570138515077423], ["triweekly", 0.05679854065557143]]
     },
     "lat": "REPLACE_MEIsland,Washington"
+  }, {
+    "locale": "Island,Washington",
+    "long": "REPLACE_MEIsland,Washington",
+    "date": "09/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.001035201217252408], ["biweekly", 0.0015641918076883929], ["triweekly", 0.002833195184030706]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.3355777894484276], ["biweekly", 0.5033666841726413], ["triweekly", 0.8948741051958068]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 325.3426668702505], ["weekly", 324.6715112913536], ["biweekly", 322.8258334493873], ["triweekly", 319.91749260750095]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.35714285714285715], ["triweekly", 0.6349906451258368]],
+      "Confirmed Cumulative Cases": [["daily", 277.0], ["weekly", 276.42857142857144], ["biweekly", 274.85714285714283], ["triweekly", 272.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.42857142857142855], ["triweekly", 0.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.05415162454873646], ["weekly", 0.05426394355918763], ["biweekly", 0.05457669247488043], ["triweekly", 0.055082913676323404]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05454545454545454], ["weekly", 0.05488944139057322], ["biweekly", 0.05549239873489127], ["triweekly", 0.056561476132792624]]
+    },
+    "lat": "REPLACE_MEIsland,Washington"
   }]
 }

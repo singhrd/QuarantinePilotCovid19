@@ -3479,5 +3479,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020202020202020204], ["weekly", 0.020968336664367888], ["biweekly", 0.020449277922104242], ["triweekly", 0.020432424480313262]]
     },
     "lat": "REPLACE_MESomerset,Maryland"
+  }, {
+    "locale": "Somerset,Maryland",
+    "long": "REPLACE_MESomerset,Maryland",
+    "date": "09/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004773278752657539], ["weekly", 0.007723888752896535], ["biweekly", 0.009489149937384969], ["triweekly", 0.013020478559265686]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.903810118675828], ["weekly", 6.134558757919158], ["biweekly", 7.249933077540822], ["triweekly", 9.294785996847207]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 819.8001249219238], ["weekly", 800.8387614883555], ["biweekly", 777.1370571963952], ["triweekly", 745.81362838702]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.981967635407602], ["biweekly", 1.013511256339673], ["triweekly", 0.9110981487548567]],
+      "Confirmed Cumulative Cases": [["daily", 210.0], ["weekly", 205.14285714285714], ["biweekly", 199.07142857142858], ["triweekly", 191.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 1.8571428571428572], ["triweekly", 2.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.01904761904761905], ["weekly", 0.01950131778006833], ["biweekly", 0.018988582057524576], ["triweekly", 0.01838041442460894]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01990049751243781], ["weekly", 0.020731779050761092], ["biweekly", 0.02054457047022698], ["triweekly", 0.020381254216377043]]
+    },
+    "lat": "REPLACE_MESomerset,Maryland"
   }]
 }

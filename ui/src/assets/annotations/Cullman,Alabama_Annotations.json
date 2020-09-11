@@ -3479,5 +3479,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01020408163265306], ["weekly", 0.010291602061270461], ["biweekly", 0.009573038379251443], ["triweekly", 0.009272045182393971]]
     },
     "lat": "REPLACE_MECullman,Alabama"
+  }, {
+    "locale": "Cullman,Alabama",
+    "long": "REPLACE_MECullman,Alabama",
+    "date": "09/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002306806097915448], ["weekly", 0.0055501809136561265], ["biweekly", 0.007150989054739971], ["triweekly", 0.009157233866310146]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.775093114315729], ["weekly", 11.255576626601362], ["biweekly", 14.0694707832517], ["triweekly", 17.22444301949602]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2072.3904116130266], ["weekly", 2031.6315811015459], ["biweekly", 1985.159692756866], ["triweekly", 1921.1222833130964]],
+      "Daily Growth Rate": [["daily", 0.36363636363636365], ["weekly", 2.874659863945578], ["biweekly", 2.008865944496921], ["triweekly", 2.5934389743358164]],
+      "Confirmed Cumulative Cases": [["daily", 1736.0], ["weekly", 1701.857142857143], ["biweekly", 1662.9285714285713], ["triweekly", 1609.2857142857142]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 9.428571428571429], ["biweekly", 11.785714285714286], ["triweekly", 14.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.009792626728110598], ["weekly", 0.009905315509107707], ["biweekly", 0.009125320675252915], ["triweekly", 0.008716037532039745]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01011904761904762], ["weekly", 0.010381837809138759], ["biweekly", 0.009702081299028572], ["triweekly", 0.009328631088195597]]
+    },
+    "lat": "REPLACE_MECullman,Alabama"
   }]
 }

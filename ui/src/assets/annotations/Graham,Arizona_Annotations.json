@@ -3479,5 +3479,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0326530612244898], ["weekly", 0.03161303598297169], ["biweekly", 0.03259794143054125], ["triweekly", 0.03397556520057657]]
     },
     "lat": "REPLACE_MEGraham,Arizona"
+  }, {
+    "locale": "Graham,Arizona",
+    "long": "REPLACE_MEGraham,Arizona",
+    "date": "09/10/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0013046316266649427], ["weekly", 0.005901667218250647], ["biweekly", 0.006640219069872761], ["triweekly", 0.009992908943195822]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.5748641759147204], ["weekly", 11.40296992190805], ["biweekly", 12.506483140157215], ["triweekly", 17.77882407179212]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1974.9208229265907], ["weekly", 1953.2183963010236], ["biweekly", 1896.7553033006081], ["triweekly", 1836.9816706454444]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.6198935758706268], ["biweekly", 1.05308589087311], ["triweekly", 1.3063780354472203]],
+      "Confirmed Cumulative Cases": [["daily", 767.0], ["weekly", 758.5714285714286], ["biweekly", 736.6428571428571], ["triweekly", 713.4285714285714]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.428571428571429], ["biweekly", 4.857142857142857], ["triweekly", 6.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.03129074315514994], ["weekly", 0.029938712070403002], ["biweekly", 0.030362840280946813], ["triweekly", 0.03117376293049504]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.03177509835192254], ["biweekly", 0.03239982215522588], ["triweekly", 0.03374156411228028]]
+    },
+    "lat": "REPLACE_MEGraham,Arizona"
   }]
 }
