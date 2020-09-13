@@ -3494,5 +3494,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.06197478991596639], ["biweekly", 0.062272408963585435], ["triweekly", 0.06373716153127917]]
     },
     "lat": "REPLACE_MEHall,Texas"
+  }, {
+    "locale": "Hall,Texas",
+    "long": "REPLACE_MEHall,Texas",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.06062462181643502], ["weekly", 0.0], ["biweekly", -0.004330330129745359], ["triweekly", 0.0030732629113129086]],
+      "Confirmed Daily Cases per 100k": [["daily", 33.738191632928476], ["weekly", 0.0], ["biweekly", -2.4098708309234627], ["triweekly", 1.606580553948975]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 573.549257759784], ["weekly", 539.8110661268556], ["biweekly", 539.8110661268556], ["triweekly", 543.0242272347534]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Cumulative Cases": [["daily", 17.0], ["weekly", 16.0], ["biweekly", 16.0], ["triweekly", 16.095238095238095]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.0], ["biweekly", -0.07142857142857142], ["triweekly", 0.047619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.058823529411764705], ["weekly", 0.0625], ["biweekly", 0.0625], ["triweekly", 0.06214985994397759]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.0625], ["biweekly", 0.06197478991596639], ["triweekly", 0.06353874883286648]]
+    },
+    "lat": "REPLACE_MEHall,Texas"
+  }, {
+    "locale": "Hall,Texas",
+    "long": "REPLACE_MEHall,Texas",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.1112256351102241], ["weekly", 0.008660660259490718], ["biweekly", 0.004330330129745359], ["triweekly", 0.0028868867531635723]],
+      "Confirmed Daily Cases per 100k": [["daily", 67.47638326585695], ["weekly", 4.819741661846925], ["biweekly", 2.4098708309234627], ["triweekly", 1.606580553948975]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 641.025641025641], ["weekly", 544.6308077887026], ["biweekly", 542.2209369577791], ["triweekly", 544.6308077887023]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Confirmed Cumulative Cases": [["daily", 19.0], ["weekly", 16.142857142857142], ["biweekly", 16.071428571428573], ["triweekly", 16.142857142857142]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.14285714285714285], ["biweekly", 0.07142857142857142], ["triweekly", 0.047619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.05263157894736842], ["weekly", 0.06197478991596639], ["biweekly", 0.062237394957983194], ["triweekly", 0.06197478991596639]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0625], ["weekly", 0.0625], ["biweekly", 0.06197478991596639], ["triweekly", 0.06334033613445378]]
+    },
+    "lat": "REPLACE_MEHall,Texas"
   }]
 }

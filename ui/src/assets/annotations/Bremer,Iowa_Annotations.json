@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MEBremer,Iowa",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.029558802241544946], ["weekly", 0.017049536804652248], ["biweekly", 0.02702403147999366], ["triweekly", 0.02238112520217789]],
-      "Confirmed Daily Cases per 100k": [["daily", 47.881254488867604], ["weekly", 25.650672047607646], ["biweekly", 35.91094086665071], ["triweekly", 28.500746719564052]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1643.9230707844545], ["weekly", 1519.089800152764], ["biweekly", 1381.7162009644653], ["triweekly", 1273.0333534738606]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.5411764705882354], ["biweekly", 1.7240050565680816], ["triweekly", 1.6458185293443333]],
-      "Confirmed Cumulative Cases": [["daily", 412.0], ["weekly", 380.7142857142857], ["biweekly", 346.2857142857143], ["triweekly", 319.04761904761904]],
-      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 6.428571428571429], ["biweekly", 9.0], ["triweekly", 7.142857142857143]],
-      "Confirmed Fatality Rate": [["daily", 0.01699029126213592], ["weekly", 0.018401575308311886], ["biweekly", 0.020504740701609923], ["triweekly", 0.022492229273595697]],
+      "Spread Rate": [["daily", 0.034401426717332484], ["weekly", 0.017049536804652248], ["biweekly", 0.02702403147999366], ["triweekly", 0.02238112520217789]],
+      "Confirmed Daily Cases per 100k": [["daily", 55.86146357034554], ["weekly", 25.650672047607646], ["biweekly", 35.91094086665071], ["triweekly", 28.500746719564052]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1651.9032798659325], ["weekly", 1519.089800152764], ["biweekly", 1381.7162009644653], ["triweekly", 1273.0333534738606]],
+      "Daily Growth Rate": [["daily", 1.1666666666666667], ["weekly", 1.5411764705882354], ["biweekly", 1.7240050565680816], ["triweekly", 1.6458185293443333]],
+      "Confirmed Cumulative Cases": [["daily", 414.0], ["weekly", 380.7142857142857], ["biweekly", 346.2857142857143], ["triweekly", 319.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 6.428571428571429], ["biweekly", 9.0], ["triweekly", 7.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.016908212560386472], ["weekly", 0.018401575308311886], ["biweekly", 0.020504740701609923], ["triweekly", 0.022492229273595697]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019178082191780823], ["weekly", 0.022607906094907954], ["biweekly", 0.024537556256237603], ["triweekly", 0.02594714724018417]]
+    },
+    "lat": "REPLACE_MEBremer,Iowa"
+  }, {
+    "locale": "Bremer,Iowa",
+    "long": "REPLACE_MEBremer,Iowa",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004819286435949088], ["weekly", 0.017995517177546105], ["biweekly", 0.02742563592051431], ["triweekly", 0.022704280425242578]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.980209081477934], ["weekly", 27.93073178517277], ["biweekly", 37.620985669824556], ["triweekly", 29.830781566477043]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1659.8834889474103], ["weekly", 1547.0205319379365], ["biweekly", 1419.3371866342898], ["triweekly", 1302.8641350403382]],
+      "Daily Growth Rate": [["daily", 0.14285714285714285], ["weekly", 1.6238095238095236], ["biweekly", 1.7257057368401905], ["triweekly", 1.5347074182332223]],
+      "Confirmed Cumulative Cases": [["daily", 416.0], ["weekly", 387.7142857142857], ["biweekly", 355.7142857142857], ["triweekly", 326.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 7.0], ["biweekly", 9.428571428571429], ["triweekly", 7.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.016826923076923076], ["weekly", 0.0180773082181127], ["biweekly", 0.01993942052481889], ["triweekly", 0.022000365391442525]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01891891891891892], ["weekly", 0.021801532831525073], ["biweekly", 0.023961893978107437], ["triweekly", 0.025441949533004535]]
+    },
+    "lat": "REPLACE_MEBremer,Iowa"
+  }, {
+    "locale": "Bremer,Iowa",
+    "long": "REPLACE_MEBremer,Iowa",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014320053774748764], ["weekly", 0.016740322088999067], ["biweekly", 0.026763817817243636], ["triweekly", 0.02238112520217789]],
+      "Confirmed Daily Cases per 100k": [["daily", 23.940627244433802], ["weekly", 26.220686981998927], ["biweekly", 37.050970735433275], ["triweekly", 29.64077658834662]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1683.8241161918443], ["weekly", 1573.2412189199356], ["biweekly", 1456.3881573697229], ["triweekly", 1332.5049116286843]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 1.5727891156462583], ["biweekly", 1.7001955327585578], ["triweekly", 1.5211019760563513]],
+      "Confirmed Cumulative Cases": [["daily", 422.0], ["weekly", 394.2857142857143], ["biweekly", 365.0], ["triweekly", 333.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 6.571428571428571], ["biweekly", 9.285714285714286], ["triweekly", 7.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.016587677725118485], ["weekly", 0.017778451669256148], ["biweekly", 0.019393091853490217], ["triweekly", 0.021519596160673293]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018617021276595744], ["weekly", 0.021007732037724276], ["biweekly", 0.02339016840638186], ["triweekly", 0.024953961545016553]]
     },
     "lat": "REPLACE_MEBremer,Iowa"
   }]

@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MEAppanoose,Iowa",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.009661910911736626], ["weekly", 0.02411726708215031], ["biweekly", 0.02657493651345146], ["triweekly", 0.026532930682091244]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.047642040882021], ["weekly", 18.394610379158905], ["biweekly", 18.394610379158905], ["triweekly", 16.861726180895666]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 836.9547722517302], ["weekly", 764.5259938837919], ["biweekly", 713.9408153411051], ["triweekly", 652.2422263610094]],
-      "Daily Growth Rate": [["daily", 0.25], ["weekly", 1.4285714285714288], ["biweekly", 1.0719934370704274], ["triweekly", 0.9994050391552994]],
-      "Confirmed Cumulative Cases": [["daily", 104.0], ["weekly", 95.0], ["biweekly", 88.71428571428571], ["triweekly", 81.04761904761905]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.2857142857142856], ["biweekly", 2.2857142857142856], ["triweekly", 2.0952380952380953]],
-      "Confirmed Fatality Rate": [["daily", 0.028846153846153848], ["weekly", 0.03165106489738372], ["biweekly", 0.034055204579595474], ["triweekly", 0.037951483948154514]],
+      "Spread Rate": [["daily", 0.019231361927887214], ["weekly", 0.02411726708215031], ["biweekly", 0.02657493651345146], ["triweekly", 0.026532930682091244]],
+      "Confirmed Daily Cases per 100k": [["daily", 16.095284081764042], ["weekly", 18.394610379158905], ["biweekly", 18.394610379158905], ["triweekly", 16.861726180895666]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 845.0024142926123], ["weekly", 764.5259938837919], ["biweekly", 713.9408153411051], ["triweekly", 652.2422263610094]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.4285714285714288], ["biweekly", 1.0719934370704274], ["triweekly", 0.9994050391552994]],
+      "Confirmed Cumulative Cases": [["daily", 105.0], ["weekly", 95.0], ["biweekly", 88.71428571428571], ["triweekly", 81.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.2857142857142856], ["biweekly", 2.2857142857142856], ["triweekly", 2.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.02857142857142857], ["weekly", 0.03165106489738372], ["biweekly", 0.034055204579595474], ["triweekly", 0.037951483948154514]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.033707865168539325], ["weekly", 0.03645934426180724], ["biweekly", 0.04110169347353992], ["triweekly", 0.04534599177233467]]
+    },
+    "lat": "REPLACE_MEAppanoose,Iowa"
+  }, {
+    "locale": "Appanoose,Iowa",
+    "long": "REPLACE_MEAppanoose,Iowa",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.028170876966696845], ["weekly", 0.02361771148934049], ["biweekly", 0.023087643562228], ["triweekly", 0.02508695071963959]],
+      "Confirmed Daily Cases per 100k": [["daily", 24.142926122646067], ["weekly", 18.394610379158905], ["biweekly", 16.67011565611276], ["triweekly", 16.478505131329854]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 869.1453404152584], ["weekly", 782.920604262951], ["biweekly", 730.6109309972178], ["triweekly", 668.7207314923393]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.3571428571428572], ["biweekly", 0.988660103737094], ["triweekly", 0.9407359530805909]],
+      "Confirmed Cumulative Cases": [["daily", 108.0], ["weekly", 97.28571428571429], ["biweekly", 90.78571428571429], ["triweekly", 83.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.2857142857142856], ["biweekly", 2.0714285714285716], ["triweekly", 2.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.027777777777777776], ["weekly", 0.03091728824065362], ["biweekly", 0.03327647203394564], ["triweekly", 0.037007880700403804]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03333333333333333], ["weekly", 0.03563565582723767], ["biweekly", 0.0400531769302789], ["triweekly", 0.04420387546167903]]
+    },
+    "lat": "REPLACE_MEAppanoose,Iowa"
+  }, {
+    "locale": "Appanoose,Iowa",
+    "long": "REPLACE_MEAppanoose,Iowa",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02739897418811399], ["weekly", 0.0260459366848507], ["biweekly", 0.021436042317881338], ["triweekly", 0.02642842105138706]],
+      "Confirmed Daily Cases per 100k": [["daily", 24.142926122646067], ["weekly", 20.69393667655377], ["biweekly", 16.095284081764042], ["triweekly", 17.628168280027285]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 893.2882665379044], ["weekly", 803.6145409395048], ["biweekly", 746.7062150789818], ["triweekly", 686.3488997723666]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.5], ["biweekly", 1.038660103737094], ["triweekly", 1.0121645245091624]],
+      "Confirmed Cumulative Cases": [["daily", 111.0], ["weekly", 99.85714285714286], ["biweekly", 92.78571428571429], ["triweekly", 85.28571428571429]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.5714285714285716], ["biweekly", 2.0], ["triweekly", 2.1904761904761907]],
+      "Confirmed Fatality Rate": [["daily", 0.02702702702702703], ["weekly", 0.030123637447002822], ["biweekly", 0.0325820275895012], ["triweekly", 0.03602648455771734]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03225806451612903], ["weekly", 0.035040417731999576], ["biweekly", 0.038977908113074604], ["triweekly", 0.04309575925922322]]
     },
     "lat": "REPLACE_MEAppanoose,Iowa"
   }]

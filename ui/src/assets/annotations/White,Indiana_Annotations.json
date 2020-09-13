@@ -3494,5 +3494,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028824833702882482], ["weekly", 0.02975405234777482], ["biweekly", 0.02962429575832904], ["triweekly", 0.02924631666640714]]
     },
     "lat": "REPLACE_MEWhite,Indiana"
+  }, {
+    "locale": "White,Indiana",
+    "long": "REPLACE_MEWhite,Indiana",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002152853361100604], ["weekly", 0.00405960181765381], ["biweekly", 0.006271098807274151], ["triweekly", 0.007186815968399598]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.149033275246867], ["weekly", 7.705347511172754], ["biweekly", 11.558021266759129], ["triweekly", 12.84224585195459]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1929.3004729897932], ["weekly", 1916.2606541247317], ["biweekly", 1872.3994452149796], ["triweekly", 1822.8086189251235]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.45692320439228634], ["biweekly", 0.8913867722641705], ["triweekly", 1.2390947347043366]],
+      "Confirmed Cumulative Cases": [["daily", 465.0], ["weekly", 461.85714285714283], ["biweekly", 451.2857142857143], ["triweekly", 439.3333333333333]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 2.7857142857142856], ["triweekly", 3.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.02795698924731183], ["weekly", 0.028148391261380388], ["biweekly", 0.02800982030706615], ["triweekly", 0.027726636603883283]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02857142857142857], ["weekly", 0.029502137834741222], ["biweekly", 0.02953498473925459], ["triweekly", 0.029240481679827606]]
+    },
+    "lat": "REPLACE_MEWhite,Indiana"
+  }, {
+    "locale": "White,Indiana",
+    "long": "REPLACE_MEWhite,Indiana",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.002152853361100604], ["weekly", 0.003105712376629377], ["biweekly", 0.005257986953088941], ["triweekly", 0.006461154570743969]],
+      "Confirmed Daily Cases per 100k": [["daily", -4.149033275246867], ["weekly", 5.92719039320981], ["biweekly", 9.779864148796188], ["triweekly", 11.656807773312627]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1925.1514397145463], ["weekly", 1922.1878445179414], ["biweekly", 1882.1793093637755], ["triweekly", 1834.4654266984362]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.5181476941882047], ["biweekly", 0.8794820103594085], ["triweekly", 0.953380448990051]],
+      "Confirmed Cumulative Cases": [["daily", 464.0], ["weekly", 463.2857142857143], ["biweekly", 453.64285714285717], ["triweekly", 442.14285714285717]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 1.4285714285714286], ["biweekly", 2.357142857142857], ["triweekly", 2.8095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.03017241379310345], ["weekly", 0.028060614215077995], ["biweekly", 0.028022621126318585], ["triweekly", 0.02776775056522606]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03036876355748373], ["weekly", 0.02928482868886065], ["biweekly", 0.02946461176247767], ["triweekly", 0.02923693859592738]]
+    },
+    "lat": "REPLACE_MEWhite,Indiana"
   }]
 }

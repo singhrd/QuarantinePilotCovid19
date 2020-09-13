@@ -3494,5 +3494,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.024509803921568627], ["weekly", 0.02072094716282196], ["biweekly", 0.020895525752015937], ["triweekly", 0.02165257972278158]]
     },
     "lat": "REPLACE_MEHuron,Michigan"
+  }, {
+    "locale": "Huron,Michigan",
+    "long": "REPLACE_MEHuron,Michigan",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0020855427744503885], ["biweekly", 0.0035367903233843073], ["triweekly", 0.006129147913741602]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.3833363305620494], ["biweekly", 2.30556055093675], ["triweekly", 3.842600918227915]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 668.15144766147], ["weekly", 669.5347839920321], ["biweekly", 658.929205457723], ["triweekly", 646.0180663724772]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8133373249072335], ["biweekly", 0.8500334325383702], ["triweekly", 0.7543419676869745]],
+      "Confirmed Cumulative Cases": [["daily", 207.0], ["weekly", 207.42857142857142], ["biweekly", 204.14285714285714], ["triweekly", 200.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.42857142857142855], ["biweekly", 0.7142857142857143], ["triweekly", 1.1904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.024154589371980676], ["weekly", 0.020658029808557243], ["biweekly", 0.02028785750247188], ["triweekly", 0.02046891818918916]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.024390243902439025], ["weekly", 0.02132169507620051], ["biweekly", 0.021076367319412124], ["triweekly", 0.021665312088455124]]
+    },
+    "lat": "REPLACE_MEHuron,Michigan"
+  }, {
+    "locale": "Huron,Michigan",
+    "long": "REPLACE_MEHuron,Michigan",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.009708814126960341], ["weekly", 0.00138697344670862], ["biweekly", 0.0035367903233843073], ["triweekly", 0.006129147913741602]],
+      "Confirmed Daily Cases per 100k": [["daily", -6.455569542622898], ["weekly", 0.9222242203746998], ["biweekly", 2.30556055093675], ["triweekly", 3.842600918227915]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 661.6958781188471], ["weekly", 670.4570082124068], ["biweekly", 661.2347660086598], ["triweekly", 649.8606672907051]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6704801820500906], ["biweekly", 0.8500334325383702], ["triweekly", 0.7543419676869745]],
+      "Confirmed Cumulative Cases": [["daily", 205.0], ["weekly", 207.71428571428572], ["biweekly", 204.85714285714286], ["triweekly", 201.33333333333334]],
+      "Confirmed Daily Cases": [["daily", -2.0], ["weekly", 0.2857142857142857], ["biweekly", 0.7142857142857143], ["triweekly", 1.1904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.024390243902439025], ["weekly", 0.021321228987132877], ["biweekly", 0.020562858991333442], ["triweekly", 0.020572564255568145]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02403846153846154], ["weekly", 0.021905362986846255], ["biweekly", 0.021248668885441913], ["triweekly", 0.021679305343706094]]
+    },
+    "lat": "REPLACE_MEHuron,Michigan"
   }]
 }

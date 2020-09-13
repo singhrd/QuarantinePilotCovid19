@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MEGrundy,Iowa",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0779615414697119], ["weekly", 0.015266163648908712], ["biweekly", 0.016788452783311314], ["triweekly", 0.019630704528263924]],
-      "Confirmed Daily Cases per 100k": [["daily", 98.10333551340746], ["weekly", 17.518452770251333], ["biweekly", 18.10240119592638], ["triweekly", 19.464947522501486]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1308.0444735120993], ["weekly", 1164.3931607960387], ["biweekly", 1103.078576100159], ["triweekly", 1038.6495998006792]],
-      "Daily Growth Rate": [["daily", 12.0], ["weekly", 1.8571428571428572], ["biweekly", 1.5119047619047616], ["triweekly", 1.373015873015873]],
-      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 142.42857142857142], ["biweekly", 134.92857142857142], ["triweekly", 127.04761904761905]],
-      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 2.142857142857143], ["biweekly", 2.2142857142857144], ["triweekly", 2.380952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.0125], ["weekly", 0.007994451252636255], ["biweekly", 0.007925322051433014], ["triweekly", 0.00828289768367772]],
+      "Spread Rate": [["daily", 0.08419209122034843], ["weekly", 0.015266163648908712], ["biweekly", 0.016788452783311314], ["triweekly", 0.019630704528263924]],
+      "Confirmed Daily Cases per 100k": [["daily", 106.27861347285808], ["weekly", 17.518452770251333], ["biweekly", 18.10240119592638], ["triweekly", 19.464947522501486]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1316.2197514715501], ["weekly", 1164.3931607960387], ["biweekly", 1103.078576100159], ["triweekly", 1038.6495998006792]],
+      "Daily Growth Rate": [["daily", 13.0], ["weekly", 1.8571428571428572], ["biweekly", 1.5119047619047616], ["triweekly", 1.373015873015873]],
+      "Confirmed Cumulative Cases": [["daily", 161.0], ["weekly", 142.42857142857142], ["biweekly", 134.92857142857142], ["triweekly", 127.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 2.142857142857143], ["biweekly", 2.2142857142857144], ["triweekly", 2.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.012422360248447204], ["weekly", 0.007994451252636255], ["biweekly", 0.007925322051433014], ["triweekly", 0.00828289768367772]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014814814814814815], ["weekly", 0.008930306706298519], ["biweekly", 0.008964177827232822], ["triweekly", 0.009658832233175482]]
+    },
+    "lat": "REPLACE_MEGrundy,Iowa"
+  }, {
+    "locale": "Grundy,Iowa",
+    "long": "REPLACE_MEGrundy,Iowa",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03058342337208053], ["weekly", 0.025161369506576214], ["biweekly", 0.020993758728744094], ["triweekly", 0.020810165040147172]],
+      "Confirmed Daily Cases per 100k": [["daily", 40.876389797253104], ["weekly", 30.36531813510231], ["biweekly", 23.94188545267682], ["triweekly", 22.190040175651692]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1357.0961412688032], ["weekly", 1194.7584789311409], ["biweekly", 1127.0204615528357], ["triweekly", 1060.8396399763308]],
+      "Daily Growth Rate": [["daily", 0.38461538461538464], ["weekly", 3.4285714285714284], ["biweekly", 2.333333333333333], ["triweekly", 1.896825396825397]],
+      "Confirmed Cumulative Cases": [["daily", 166.0], ["weekly", 146.14285714285714], ["biweekly", 137.85714285714286], ["triweekly", 129.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 3.7142857142857144], ["biweekly", 2.9285714285714284], ["triweekly", 2.7142857142857144]],
+      "Confirmed Fatality Rate": [["daily", 0.012048192771084338], ["weekly", 0.008710873087070511], ["biweekly", 0.008217395402512578], ["triweekly", 0.008416563190014034]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014705882352941176], ["weekly", 0.009856232632224444], ["biweekly", 0.009335565698620693], ["triweekly", 0.009804075515673666]]
+    },
+    "lat": "REPLACE_MEGrundy,Iowa"
+  }, {
+    "locale": "Grundy,Iowa",
+    "long": "REPLACE_MEGrundy,Iowa",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.06979576193554138], ["weekly", 0.02847612894578447], ["biweekly", 0.020836158767964758], ["triweekly", 0.020469360058682082]],
+      "Confirmed Daily Cases per 100k": [["daily", 98.10333551340746], ["weekly", 35.036905540502666], ["biweekly", 24.525833878351868], ["triweekly", 22.579339126101722]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1455.1994767822107], ["weekly", 1229.7953844716435], ["biweekly", 1151.5462954311874], ["triweekly", 1083.4189791024326]],
+      "Daily Growth Rate": [["daily", 2.4], ["weekly", 3.412087912087912], ["biweekly", 2.2655677655677655], ["triweekly", 1.8833943833943834]],
+      "Confirmed Cumulative Cases": [["daily", 178.0], ["weekly", 150.42857142857142], ["biweekly", 140.85714285714286], ["triweekly", 132.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 4.285714285714286], ["biweekly", 3.0], ["triweekly", 2.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.011235955056179775], ["weekly", 0.009381623314872476], ["biweekly", 0.008501943734087726], ["triweekly", 0.00854936954771999]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.014084507042253521], ["weekly", 0.010804999235640005], ["biweekly", 0.00972461020531226], ["triweekly", 0.009950645771683048]]
     },
     "lat": "REPLACE_MEGrundy,Iowa"
   }]

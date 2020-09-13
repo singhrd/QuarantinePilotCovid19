@@ -3586,35 +3586,35 @@
   }, {
     "epidemiccontrolThreshold": 2.60601,
     "source": "NYGithub",
-    "confirmedPer100kN": 3.2616912444695147,
+    "confirmedPer100kN": -98.04260152493659,
     "deaths": -1,
-    "confirmed": 17,
+    "confirmed": -511,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 3.2616912444695147,
+    "confirmedPer100k": -98.04260152493659,
     "locale": "Plymouth,Massachusetts",
-    "activePer100k": 3.453555435320663,
+    "activePer100k": 0.0,
     "long": "REPLACE_MEPlymouth,Massachusetts",
     "date": "09/02/2020",
     "deathsPer100k": -0.19186419085114792,
     "lat": "REPLACE_MEPlymouth,Massachusetts",
-    "active": 18
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.60601,
     "source": "NYGithub",
-    "confirmedPer100kN": -97.85073733408544,
+    "confirmedPer100kN": 3.453555435320663,
     "deaths": 2,
-    "confirmed": -510,
+    "confirmed": 18,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -97.85073733408544,
+    "confirmedPer100k": 3.453555435320663,
     "locale": "Plymouth,Massachusetts",
-    "activePer100k": 0.0,
+    "activePer100k": 3.0698270536183667,
     "long": "REPLACE_MEPlymouth,Massachusetts",
     "date": "09/03/2020",
     "deathsPer100k": 0.38372838170229584,
     "lat": "REPLACE_MEPlymouth,Massachusetts",
-    "active": 0
+    "active": 16
   }, {
     "epidemiccontrolThreshold": 2.60601,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.19186419085114792,
     "lat": "REPLACE_MEPlymouth,Massachusetts",
     "active": 19
+  }, {
+    "epidemiccontrolThreshold": 2.60601,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.866431824897065,
+    "deaths": 0,
+    "confirmed": 41,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.866431824897065,
+    "locale": "Plymouth,Massachusetts",
+    "activePer100k": 7.866431824897065,
+    "long": "REPLACE_MEPlymouth,Massachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEPlymouth,Massachusetts",
+    "active": 41
+  }, {
+    "epidemiccontrolThreshold": 2.60601,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.907110870641326,
+    "deaths": 1,
+    "confirmed": 36,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.907110870641326,
+    "locale": "Plymouth,Massachusetts",
+    "activePer100k": 6.7152466797901775,
+    "long": "REPLACE_MEPlymouth,Massachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 0.19186419085114792,
+    "lat": "REPLACE_MEPlymouth,Massachusetts",
+    "active": 35
   }]
 }

@@ -3586,35 +3586,35 @@
   }, {
     "epidemiccontrolThreshold": 3.94517,
     "source": "NYGithub",
-    "confirmedPer100kN": 8.744870309771189,
+    "confirmedPer100kN": -99.74221643173804,
     "deaths": 1,
-    "confirmed": 69,
+    "confirmed": -787,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 8.744870309771189,
+    "confirmedPer100k": -99.74221643173804,
     "locale": "Essex,Massachusetts",
-    "activePer100k": 8.61813305890494,
+    "activePer100k": 0.0,
     "long": "REPLACE_MEEssex,Massachusetts",
     "date": "09/02/2020",
     "deathsPer100k": 0.1267372508662491,
     "lat": "REPLACE_MEEssex,Massachusetts",
-    "active": 68
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.94517,
     "source": "NYGithub",
-    "confirmedPer100kN": -100.75611443866804,
+    "confirmedPer100kN": 7.730972302841195,
     "deaths": 2,
-    "confirmed": -795,
+    "confirmed": 61,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -100.75611443866804,
+    "confirmedPer100k": 7.730972302841195,
     "locale": "Essex,Massachusetts",
-    "activePer100k": 0.0,
+    "activePer100k": 7.477497801108697,
     "long": "REPLACE_MEEssex,Massachusetts",
     "date": "09/03/2020",
     "deathsPer100k": 0.2534745017324982,
     "lat": "REPLACE_MEEssex,Massachusetts",
-    "active": 0
+    "active": 59
   }, {
     "epidemiccontrolThreshold": 3.94517,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.1267372508662491,
     "lat": "REPLACE_MEEssex,Massachusetts",
     "active": 53
+  }, {
+    "epidemiccontrolThreshold": 3.94517,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.125082062369936,
+    "deaths": 1,
+    "confirmed": 72,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.125082062369936,
+    "locale": "Essex,Massachusetts",
+    "activePer100k": 8.998344811503687,
+    "long": "REPLACE_MEEssex,Massachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 0.1267372508662491,
+    "lat": "REPLACE_MEEssex,Massachusetts",
+    "active": 71
+  }, {
+    "epidemiccontrolThreshold": 3.94517,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.984446804573694,
+    "deaths": 0,
+    "confirmed": 63,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.984446804573694,
+    "locale": "Essex,Massachusetts",
+    "activePer100k": 7.984446804573694,
+    "long": "REPLACE_MEEssex,Massachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEEssex,Massachusetts",
+    "active": 63
   }]
 }

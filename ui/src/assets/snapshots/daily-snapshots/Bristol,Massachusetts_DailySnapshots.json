@@ -3586,35 +3586,35 @@
   }, {
     "epidemiccontrolThreshold": 2.826085,
     "source": "NYGithub",
-    "confirmedPer100kN": 6.3692351787012775,
+    "confirmedPer100kN": -108.45392123733009,
     "deaths": -4,
-    "confirmed": 36,
+    "confirmed": -613,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 6.3692351787012775,
+    "confirmedPer100k": -108.45392123733009,
     "locale": "Bristol,Massachusetts",
-    "activePer100k": 7.076927976334753,
+    "activePer100k": 0.0,
     "long": "REPLACE_MEBristol,Massachusetts",
     "date": "09/02/2020",
     "deathsPer100k": -0.7076927976334753,
     "lat": "REPLACE_MEBristol,Massachusetts",
-    "active": 40
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 2.826085,
     "source": "NYGithub",
-    "confirmedPer100kN": -107.56930524028824,
+    "confirmedPer100kN": 7.253851175743121,
     "deaths": 4,
-    "confirmed": -608,
+    "confirmed": 41,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -107.56930524028824,
+    "confirmedPer100k": 7.253851175743121,
     "locale": "Bristol,Massachusetts",
-    "activePer100k": 0.0,
+    "activePer100k": 6.546158378109647,
     "long": "REPLACE_MEBristol,Massachusetts",
     "date": "09/03/2020",
     "deathsPer100k": 0.7076927976334753,
     "lat": "REPLACE_MEBristol,Massachusetts",
-    "active": 0
+    "active": 37
   }, {
     "epidemiccontrolThreshold": 2.826085,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.35384639881673763,
     "lat": "REPLACE_MEBristol,Massachusetts",
     "active": 28
+  }, {
+    "epidemiccontrolThreshold": 2.826085,
+    "source": "NYGithub",
+    "confirmedPer100kN": 5.307695982251064,
+    "deaths": 1,
+    "confirmed": 30,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 5.307695982251064,
+    "locale": "Bristol,Massachusetts",
+    "activePer100k": 5.130772782842696,
+    "long": "REPLACE_MEBristol,Massachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 0.17692319940836881,
+    "lat": "REPLACE_MEBristol,Massachusetts",
+    "active": 29
+  }, {
+    "epidemiccontrolThreshold": 2.826085,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.60000318461759,
+    "deaths": 2,
+    "confirmed": 26,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.60000318461759,
+    "locale": "Bristol,Massachusetts",
+    "activePer100k": 4.246156785800852,
+    "long": "REPLACE_MEBristol,Massachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 0.35384639881673763,
+    "lat": "REPLACE_MEBristol,Massachusetts",
+    "active": 24
   }]
 }

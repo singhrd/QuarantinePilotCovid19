@@ -3490,8 +3490,38 @@
       "Daily Growth Rate": [["daily", 0.4], ["weekly", 1.660677838770227], ["biweekly", 1.3446246336708279], ["triweekly", 1.5706408465084387]],
       "Confirmed Cumulative Cases": [["daily", 162.0], ["weekly", 150.71428571428572], ["biweekly", 140.57142857142858], ["triweekly", 124.38095238095238]],
       "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 3.2857142857142856], ["biweekly", 3.2142857142857144], ["triweekly", 4.238095238095238]],
-      "Confirmed Fatality Rate": [["daily", 0.018518518518518517], ["weekly", 0.019934088116702477], ["biweekly", 0.017648264782928306], ["triweekly", 0.013030539201687043]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02112676056338028], ["weekly", 0.0230436621737312], ["biweekly", 0.022595698285857464], ["triweekly", 0.017115912534325702]]
+      "Confirmed Fatality Rate": [["daily", 0.024691358024691357], ["weekly", 0.019934088116702477], ["biweekly", 0.017648264782928306], ["triweekly", 0.013030539201687043]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.028169014084507043], ["weekly", 0.0230436621737312], ["biweekly", 0.022595698285857464], ["triweekly", 0.017115912534325702]]
+    },
+    "lat": "REPLACE_MEHoward,Iowa"
+  }, {
+    "locale": "Howard,Iowa",
+    "long": "REPLACE_MEHoward,Iowa",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.018824182518731827], ["biweekly", 0.021436042317881272], ["triweekly", 0.034804167073466286]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 31.198327769631554], ["biweekly", 32.758244158113136], ["triweekly", 43.67765887748418]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1768.9451845381088], ["weekly", 1676.9101176176955], ["biweekly", 1567.7159704239855], ["triweekly", 1401.8448611154442]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.00353498162737], ["biweekly", 1.313672252718447], ["triweekly", 1.5063551322227244]],
+      "Confirmed Cumulative Cases": [["daily", 162.0], ["weekly", 153.57142857142858], ["biweekly", 143.57142857142858], ["triweekly", 128.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.857142857142857], ["biweekly", 3.0], ["triweekly", 4.0]],
+      "Confirmed Fatality Rate": [["daily", 0.024691358024691357], ["weekly", 0.020443316325461203], ["biweekly", 0.018221457022787213], ["triweekly", 0.014206318155243773]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.027777777777777776], ["weekly", 0.023496378471517917], ["biweekly", 0.022776268888963277], ["triweekly", 0.01845729415739747]]
+    },
+    "lat": "REPLACE_MEHoward,Iowa"
+  }, {
+    "locale": "Howard,Iowa",
+    "long": "REPLACE_MEHoward,Iowa",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05406722127027663], ["weekly", 0.016826147950911845], ["biweekly", 0.01795103059149326], ["triweekly", 0.031845510830275495]],
+      "Confirmed Daily Cases per 100k": [["daily", 98.27473247433939], ["weekly", 28.078494992668396], ["biweekly", 28.0784949926684], ["triweekly", 41.07779823001489]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1867.2199170124481], ["weekly", 1704.988612610364], ["biweekly", 1595.7944654166536], ["triweekly", 1442.9226593454591]],
+      "Daily Growth Rate": [["daily", 2.1213203435596424], ["weekly", 0.9463921244845128], ["biweekly", 1.227957967004161], ["triweekly", 1.4723415267805477]],
+      "Confirmed Cumulative Cases": [["daily", 171.0], ["weekly", 156.14285714285714], ["biweekly", 146.14285714285714], ["triweekly", 132.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 2.5714285714285716], ["biweekly", 2.5714285714285716], ["triweekly", 3.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.023391812865497075], ["weekly", 0.020994462709940924], ["biweekly", 0.018851338605049745], ["triweekly", 0.015382097108800504]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02666666666666667], ["weekly", 0.0240632718955542], ["biweekly", 0.02303922547722107], ["triweekly", 0.019780045480148792]]
     },
     "lat": "REPLACE_MEHoward,Iowa"
   }]

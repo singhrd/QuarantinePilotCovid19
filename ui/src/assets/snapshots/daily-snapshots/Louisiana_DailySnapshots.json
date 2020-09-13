@@ -3474,19 +3474,19 @@
   }, {
     "epidemiccontrolThreshold": 23.25,
     "source": "NYGithub",
-    "confirmedPer100kN": 18.623655913978496,
+    "confirmedPer100kN": 30.193548387096776,
     "deaths": 54,
-    "confirmed": 866,
+    "confirmed": 1404,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 18.623655913978496,
+    "confirmedPer100k": 30.193548387096776,
     "locale": "Louisiana",
-    "activePer100k": 17.462365591397848,
+    "activePer100k": 29.032258064516128,
     "long": "REPLACE_MELouisiana",
     "date": "08/26/2020",
     "deathsPer100k": 1.1612903225806452,
     "lat": "REPLACE_MELouisiana",
-    "active": 812
+    "active": 1350
   }, {
     "epidemiccontrolThreshold": 23.25,
     "source": "NYGithub",
@@ -3586,19 +3586,19 @@
   }, {
     "epidemiccontrolThreshold": 23.25,
     "source": "NYGithub",
-    "confirmedPer100kN": 36.32258064516129,
+    "confirmedPer100kN": 24.752688172043012,
     "deaths": 20,
-    "confirmed": 1689,
+    "confirmed": 1151,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 36.32258064516129,
+    "confirmedPer100k": 24.752688172043012,
     "locale": "Louisiana",
-    "activePer100k": 35.89247311827957,
+    "activePer100k": 24.322580645161292,
     "long": "REPLACE_MELouisiana",
     "date": "09/02/2020",
     "deathsPer100k": 0.43010752688172044,
     "lat": "REPLACE_MELouisiana",
-    "active": 1669
+    "active": 1131
   }, {
     "epidemiccontrolThreshold": 23.25,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.45161290322580644,
     "lat": "REPLACE_MELouisiana",
     "active": 443
+  }, {
+    "epidemiccontrolThreshold": 23.25,
+    "source": "NYGithub",
+    "confirmedPer100kN": 16.236559139784948,
+    "deaths": 41,
+    "confirmed": 755,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 16.236559139784948,
+    "locale": "Louisiana",
+    "activePer100k": 15.35483870967742,
+    "long": "REPLACE_MELouisiana",
+    "date": "09/11/2020",
+    "deathsPer100k": 0.8817204301075269,
+    "lat": "REPLACE_MELouisiana",
+    "active": 714
+  }, {
+    "epidemiccontrolThreshold": 23.25,
+    "source": "NYGithub",
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 0.0,
+    "locale": "Louisiana",
+    "activePer100k": 0.0,
+    "long": "REPLACE_MELouisiana",
+    "date": "09/12/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MELouisiana",
+    "active": 0
   }]
 }

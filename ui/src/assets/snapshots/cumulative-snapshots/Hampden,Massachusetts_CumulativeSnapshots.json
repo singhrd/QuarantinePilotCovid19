@@ -3586,19 +3586,19 @@
   }, {
     "epidemiccontrolThreshold": 2.33186,
     "source": "NYGithub",
-    "confirmedPer100kN": 1705.9343185268413,
+    "confirmedPer100kN": 1648.0406199343015,
     "deaths": 751,
-    "confirmed": 7956,
+    "confirmed": 7686,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 1705.9343185268413,
+    "confirmedPer100k": 1648.0406199343015,
     "locale": "Hampden,Massachusetts",
-    "activePer100k": 1544.9040679972213,
+    "activePer100k": 1487.0103694046813,
     "long": "REPLACE_MEHampden,Massachusetts",
     "date": "09/02/2020",
     "deathsPer100k": 161.03025052962013,
     "lat": "REPLACE_MEHampden,Massachusetts",
-    "active": 7205
+    "active": 6935
   }, {
     "epidemiccontrolThreshold": 2.33186,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 163.3888826945014,
     "lat": "REPLACE_MEHampden,Massachusetts",
     "active": 7055
+  }, {
+    "epidemiccontrolThreshold": 2.33186,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1679.7749436072493,
+    "deaths": 767,
+    "confirmed": 7834,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1679.7749436072493,
+    "locale": "Hampden,Massachusetts",
+    "activePer100k": 1515.3139553832564,
+    "long": "REPLACE_MEHampden,Massachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 164.46098822399287,
+    "lat": "REPLACE_MEHampden,Massachusetts",
+    "active": 7067
+  }, {
+    "epidemiccontrolThreshold": 2.33186,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1682.3479968780289,
+    "deaths": 767,
+    "confirmed": 7846,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1682.3479968780289,
+    "locale": "Hampden,Massachusetts",
+    "activePer100k": 1517.887008654036,
+    "long": "REPLACE_MEHampden,Massachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 164.46098822399287,
+    "lat": "REPLACE_MEHampden,Massachusetts",
+    "active": 7079
   }]
 }

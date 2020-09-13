@@ -3586,35 +3586,35 @@
   }, {
     "epidemiccontrolThreshold": 4.019535,
     "source": "NYGithub",
-    "confirmedPer100kN": 9.205044862154452,
+    "confirmedPer100kN": -129.8657680552601,
     "deaths": -6,
-    "confirmed": 74,
+    "confirmed": -1044,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 9.205044862154452,
+    "confirmedPer100k": -129.8657680552601,
     "locale": "Suffolk,Massachusetts",
-    "activePer100k": 9.951399850977786,
+    "activePer100k": 0.0,
     "long": "REPLACE_MESuffolk,Massachusetts",
     "date": "09/02/2020",
     "deathsPer100k": -0.746354988823334,
     "lat": "REPLACE_MESuffolk,Massachusetts",
-    "active": 80
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.019535,
     "source": "NYGithub",
-    "confirmedPer100kN": -128.49745057575066,
+    "confirmedPer100kN": 10.573362341663898,
     "deaths": 2,
-    "confirmed": -1033,
+    "confirmed": 85,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -128.49745057575066,
+    "confirmedPer100k": 10.573362341663898,
     "locale": "Suffolk,Massachusetts",
-    "activePer100k": 0.0,
+    "activePer100k": 10.324577345389454,
     "long": "REPLACE_MESuffolk,Massachusetts",
     "date": "09/03/2020",
     "deathsPer100k": 0.24878499627444467,
     "lat": "REPLACE_MESuffolk,Massachusetts",
-    "active": 0
+    "active": 83
   }, {
     "epidemiccontrolThreshold": 4.019535,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.24878499627444467,
     "lat": "REPLACE_MESuffolk,Massachusetts",
     "active": 87
+  }, {
+    "epidemiccontrolThreshold": 4.019535,
+    "source": "NYGithub",
+    "confirmedPer100kN": 13.434389798820012,
+    "deaths": 1,
+    "confirmed": 108,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 13.434389798820012,
+    "locale": "Suffolk,Massachusetts",
+    "activePer100k": 13.30999730068279,
+    "long": "REPLACE_MESuffolk,Massachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 0.12439249813722233,
+    "lat": "REPLACE_MESuffolk,Massachusetts",
+    "active": 107
+  }, {
+    "epidemiccontrolThreshold": 4.019535,
+    "source": "NYGithub",
+    "confirmedPer100kN": 12.688034809996678,
+    "deaths": 2,
+    "confirmed": 102,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 12.688034809996678,
+    "locale": "Suffolk,Massachusetts",
+    "activePer100k": 12.439249813722233,
+    "long": "REPLACE_MESuffolk,Massachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 0.24878499627444467,
+    "lat": "REPLACE_MESuffolk,Massachusetts",
+    "active": 100
   }]
 }

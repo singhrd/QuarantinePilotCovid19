@@ -3469,13 +3469,13 @@
     "long": "REPLACE_MECarroll,New Hampshire",
     "date": "09/09/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.007938550164972977], ["biweekly", 0.007454286808874436], ["triweekly", 0.0059315582210362665]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.7524899962029383], ["biweekly", 1.6064491631860267], ["triweekly", 1.2656872194799]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 226.94745450828052], ["weekly", 221.68998451967173], ["biweekly", 216.87063703011358], ["triweekly", 211.95392898521095]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8571428571428571], ["biweekly", 0.5714285714285714], ["triweekly", 0.41874764409448095]],
-      "Confirmed Cumulative Cases": [["daily", 111.0], ["weekly", 108.42857142857143], ["biweekly", 106.07142857142857], ["triweekly", 103.66666666666667]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.8571428571428571], ["biweekly", 0.7857142857142857], ["triweekly", 0.6190476190476191]],
-      "Confirmed Fatality Rate": [["daily", 0.009009009009009009], ["weekly", 0.009227121780967159], ["biweekly", 0.009435643569709117], ["triweekly", 0.00966243874501305]],
+      "Spread Rate": [["daily", 0.008968669982760247], ["weekly", 0.007938550164972977], ["biweekly", 0.007454286808874436], ["triweekly", 0.0059315582210362665]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.0445716622367613], ["weekly", 1.7524899962029383], ["biweekly", 1.6064491631860267], ["triweekly", 1.2656872194799]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 228.99202617051728], ["weekly", 221.68998451967173], ["biweekly", 216.87063703011358], ["triweekly", 211.95392898521095]],
+      "Daily Growth Rate": [["daily", 0.6933612743506347], ["weekly", 0.8571428571428571], ["biweekly", 0.5714285714285714], ["triweekly", 0.41874764409448095]],
+      "Confirmed Cumulative Cases": [["daily", 112.0], ["weekly", 108.42857142857143], ["biweekly", 106.07142857142857], ["triweekly", 103.66666666666667]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.8571428571428571], ["biweekly", 0.7857142857142857], ["triweekly", 0.6190476190476191]],
+      "Confirmed Fatality Rate": [["daily", 0.008928571428571428], ["weekly", 0.009227121780967159], ["biweekly", 0.009435643569709117], ["triweekly", 0.00966243874501305]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009523809523809525], ["weekly", 0.009644165358451072], ["biweekly", 0.009880097227036], ["triweekly", 0.0100644947704561]]
     },
     "lat": "REPLACE_MECarroll,New Hampshire"
@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MECarroll,New Hampshire",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.008968669982760247], ["weekly", 0.007938550164972977], ["biweekly", 0.007454286808874436], ["triweekly", 0.0059315582210362665]],
-      "Confirmed Daily Cases per 100k": [["daily", 2.0445716622367613], ["weekly", 1.7524899962029383], ["biweekly", 1.6064491631860267], ["triweekly", 1.2656872194799]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 228.99202617051728], ["weekly", 223.44247451587466], ["biweekly", 218.47708619329958], ["triweekly", 213.21961620469085]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8571428571428571], ["biweekly", 0.5714285714285714], ["triweekly", 0.41874764409448095]],
-      "Confirmed Cumulative Cases": [["daily", 112.0], ["weekly", 109.28571428571429], ["biweekly", 106.85714285714286], ["triweekly", 104.28571428571429]],
-      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.8571428571428571], ["biweekly", 0.7857142857142857], ["triweekly", 0.6190476190476191]],
-      "Confirmed Fatality Rate": [["daily", 0.008928571428571428], ["weekly", 0.00915357885028137], ["biweekly", 0.009364858498924046], ["triweekly", 0.009605530524839525]],
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.009219788733938725], ["biweekly", 0.00809490609335731], ["triweekly", 0.00635863774402485]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.0445716622367613], ["biweekly", 1.7524899962029383], ["triweekly", 1.3630477748245078]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 228.99202617051728], ["weekly", 223.73455618190846], ["biweekly", 218.62312702631652], ["triweekly", 213.31697676003546]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9561944677643764], ["biweekly", 0.620954376739331], ["triweekly", 0.45176484763498737]],
+      "Confirmed Cumulative Cases": [["daily", 112.0], ["weekly", 109.42857142857143], ["biweekly", 106.92857142857143], ["triweekly", 104.33333333333333]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.0], ["biweekly", 0.8571428571428571], ["triweekly", 0.6666666666666666]],
+      "Confirmed Fatality Rate": [["daily", 0.008928571428571428], ["weekly", 0.009142087767361718], ["biweekly", 0.00935911295746422], ["triweekly", 0.009601700163866309]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009433962264150943], ["weekly", 0.00957613814756672], ["biweekly", 0.009831506362118604], ["triweekly", 0.010016756376853045]]
+    },
+    "lat": "REPLACE_MECarroll,New Hampshire"
+  }, {
+    "locale": "Carroll,New Hampshire",
+    "long": "REPLACE_MECarroll,New Hampshire",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01769957709940151], ["weekly", 0.007865682454718177], ["biweekly", 0.00529342658240869], ["triweekly", 0.00635863774402485]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.089143324473523], ["weekly", 1.752489996202938], ["biweekly", 1.1683266641352923], ["triweekly", 1.3630477748245078]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 233.0811694949908], ["weekly", 225.48704617811137], ["biweekly", 219.79145369045182], ["triweekly", 214.68002453485994]],
+      "Daily Growth Rate": [["daily", 1.4142135623730951], ["weekly", 0.8133373249072335], ["biweekly", 0.4780972338821882], ["triweekly", 0.45176484763498737]],
+      "Confirmed Cumulative Cases": [["daily", 114.0], ["weekly", 110.28571428571429], ["biweekly", 107.5], ["triweekly", 105.0]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.8571428571428571], ["biweekly", 0.5714285714285714], ["triweekly", 0.6666666666666666]],
+      "Confirmed Fatality Rate": [["daily", 0.008771929824561403], ["weekly", 0.009069889076564643], ["biweekly", 0.00931005487269185], ["triweekly", 0.009540961582719562]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009345794392523364], ["weekly", 0.009550220668819052], ["biweekly", 0.009776497835797026], ["triweekly", 0.009964739542313866]]
+    },
+    "lat": "REPLACE_MECarroll,New Hampshire"
+  }, {
+    "locale": "Carroll,New Hampshire",
+    "long": "REPLACE_MECarroll,New Hampshire",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01739174271186883], ["weekly", 0.009052801990369983], ["biweekly", 0.006557682089508798], ["triweekly", 0.0067180284885669465]],
+      "Confirmed Daily Cases per 100k": [["daily", 4.089143324473523], ["weekly", 2.0445716622367613], ["biweekly", 1.460408330169115], ["triweekly", 1.4604083301691153]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 237.17031281946433], ["weekly", 227.53161784034813], ["biweekly", 221.251862020621], ["triweekly", 216.14043286502906]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.8725106909605328], ["biweekly", 0.5791124883374092], ["triweekly", 0.48131308746303475]],
+      "Confirmed Cumulative Cases": [["daily", 116.0], ["weekly", 111.28571428571429], ["biweekly", 108.21428571428571], ["triweekly", 105.71428571428571]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.0], ["biweekly", 0.7142857142857143], ["triweekly", 0.7142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.008620689655172414], ["weekly", 0.008987908423998648], ["biweekly", 0.009249808101918762], ["triweekly", 0.009477672045745815]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009259259259259259], ["weekly", 0.009511707779838872], ["biweekly", 0.0097225538566194], ["triweekly", 0.009908524237697183]]
     },
     "lat": "REPLACE_MECarroll,New Hampshire"
   }]

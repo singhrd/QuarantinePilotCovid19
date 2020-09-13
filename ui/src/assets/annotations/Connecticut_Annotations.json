@@ -3494,5 +3494,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08415869495761995], ["weekly", 0.0848329966057798], ["biweekly", 0.08556096867022277], ["triweekly", 0.08616993885577652]]
     },
     "lat": "REPLACE_MEConnecticut"
+  }, {
+    "locale": "Connecticut",
+    "long": "REPLACE_MEConnecticut",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004298146241978884], ["weekly", 0.002353890355791271], ["biweekly", 0.002339489296128277], ["triweekly", 0.002402106696331193]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.526610644257704], ["weekly", 3.5374149659863954], ["biweekly", 3.4873949579831938], ["triweekly", 3.5494197679071635]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1521.7366946778714], ["weekly", 1501.4245698279315], ["biweekly", 1490.3821528611445], ["triweekly", 1478.0192076830735]],
+      "Daily Growth Rate": [["daily", 1.0495495495495495], ["weekly", 0.6074808192160255], ["biweekly", 0.6339537518162295], ["triweekly", 0.8753487314996354]],
+      "Confirmed Cumulative Cases": [["daily", 54326.0], ["weekly", 53600.857142857145], ["biweekly", 53206.642857142855], ["triweekly", 52765.28571428572]],
+      "Confirmed Daily Cases": [["daily", 233.0], ["weekly", 126.28571428571429], ["biweekly", 124.5], ["triweekly", 126.71428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.08246511799138534], ["weekly", 0.08341749147369723], ["biweekly", 0.0839903319215611], ["triweekly", 0.0846592070705009]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0839501545957088], ["weekly", 0.08466300801533473], ["biweekly", 0.08537132853381561], ["triweekly", 0.08599716189444025]]
+    },
+    "lat": "REPLACE_MEConnecticut"
+  }, {
+    "locale": "Connecticut",
+    "long": "REPLACE_MEConnecticut",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0025496904769131135], ["biweekly", 0.002448929052672482], ["triweekly", 0.0025262981921183696]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 3.845538215286115], ["biweekly", 3.663465386154462], ["triweekly", 3.744164332399627]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1521.7366946778714], ["weekly", 1505.2701080432175], ["biweekly", 1494.045618247299], ["triweekly", 1481.7633720154731]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.5367658326594549], ["biweekly", 0.6292512471137248], ["triweekly", 0.8902183226404129]],
+      "Confirmed Cumulative Cases": [["daily", 54326.0], ["weekly", 53738.142857142855], ["biweekly", 53337.42857142857], ["triweekly", 52898.95238095238]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 137.28571428571428], ["biweekly", 130.78571428571428], ["triweekly", 133.66666666666666]],
+      "Confirmed Fatality Rate": [["daily", 0.08246511799138534], ["weekly", 0.08323746717101162], ["biweekly", 0.0838052889500642], ["triweekly", 0.08446373634153098]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0839501545957088], ["weekly", 0.0844969061158388], ["biweekly", 0.08517726422829772], ["triweekly", 0.08582202856583898]]
+    },
+    "lat": "REPLACE_MEConnecticut"
   }]
 }

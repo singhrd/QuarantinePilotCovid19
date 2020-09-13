@@ -3586,35 +3586,35 @@
   }, {
     "epidemiccontrolThreshold": 4.15311,
     "source": "NYGithub",
-    "confirmedPer100kN": 3.009792661403141,
+    "confirmedPer100kN": -88.36751253879623,
     "deaths": 0,
-    "confirmed": 25,
+    "confirmed": -734,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 3.009792661403141,
+    "confirmedPer100k": -88.36751253879623,
     "locale": "Worcester,Massachusetts",
-    "activePer100k": 3.009792661403141,
+    "activePer100k": 0.0,
     "long": "REPLACE_MEWorcester,Massachusetts",
     "date": "09/02/2020",
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEWorcester,Massachusetts",
-    "active": 25
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 4.15311,
     "source": "NYGithub",
-    "confirmedPer100kN": -86.68202864841047,
+    "confirmedPer100kN": 4.695276551788901,
     "deaths": 1,
-    "confirmed": -720,
+    "confirmed": 39,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -86.68202864841047,
+    "confirmedPer100k": 4.695276551788901,
     "locale": "Worcester,Massachusetts",
-    "activePer100k": 0.0,
+    "activePer100k": 4.574884845332775,
     "long": "REPLACE_MEWorcester,Massachusetts",
     "date": "09/03/2020",
     "deathsPer100k": 0.12039170645612565,
     "lat": "REPLACE_MEWorcester,Massachusetts",
-    "active": 0
+    "active": 38
   }, {
     "epidemiccontrolThreshold": 4.15311,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.4815668258245026,
     "lat": "REPLACE_MEWorcester,Massachusetts",
     "active": 34
+  }, {
+    "epidemiccontrolThreshold": 4.15311,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.019585322806282,
+    "deaths": 3,
+    "confirmed": 50,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.019585322806282,
+    "locale": "Worcester,Massachusetts",
+    "activePer100k": 5.658410203437906,
+    "long": "REPLACE_MEWorcester,Massachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 0.361175119368377,
+    "lat": "REPLACE_MEWorcester,Massachusetts",
+    "active": 47
+  }, {
+    "epidemiccontrolThreshold": 4.15311,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.936059964701152,
+    "deaths": 4,
+    "confirmed": 41,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.936059964701152,
+    "locale": "Worcester,Massachusetts",
+    "activePer100k": 4.454493138876649,
+    "long": "REPLACE_MEWorcester,Massachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 0.4815668258245026,
+    "lat": "REPLACE_MEWorcester,Massachusetts",
+    "active": 37
   }]
 }

@@ -3494,5 +3494,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03333333333333333], ["weekly", 0.022585517725313912], ["biweekly", 0.02342592919307621], ["triweekly", 0.024138607614359042]]
     },
     "lat": "REPLACE_MEBrown,Indiana"
+  }, {
+    "locale": "Brown,Indiana",
+    "long": "REPLACE_MEBrown,Indiana",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010929070532190721], ["weekly", 0.001578548026654961], ["biweekly", 0.0040365864473816005], ["triweekly", 0.005543350087829077]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.626027034190299], ["weekly", 0.9465752905986141], ["biweekly", 2.3664382264965353], ["triweekly", 3.1552509686620476]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 609.5944871455075], ["weekly", 602.9684601113173], ["biweekly", 596.8157207224265], ["triweekly", 581.5127535244152]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.26479334151332484], ["triweekly", 0.41462413243745466]],
+      "Confirmed Cumulative Cases": [["daily", 92.0], ["weekly", 91.0], ["biweekly", 90.07142857142857], ["triweekly", 87.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.14285714285714285], ["biweekly", 0.35714285714285715], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.03260869565217391], ["weekly", 0.02354788069073783], ["biweekly", 0.022992871227221146], ["triweekly", 0.02334900179694107]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03296703296703297], ["weekly", 0.024025163351006046], ["biweekly", 0.024043213143693492], ["triweekly", 0.024456067931819363]]
+    },
+    "lat": "REPLACE_MEBrown,Indiana"
+  }, {
+    "locale": "Brown,Indiana",
+    "long": "REPLACE_MEBrown,Indiana",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.010929070532190721], ["weekly", 0.0015612957903129601], ["biweekly", 0.0031751258979166863], ["triweekly", 0.005479491894513673]],
+      "Confirmed Daily Cases per 100k": [["daily", -6.626027034190299], ["weekly", 0.9465752905986141], ["biweekly", 1.8931505811972282], ["triweekly", 3.1552509686620476]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 602.9684601113173], ["weekly", 603.9150354019158], ["biweekly", 598.7088713036237], ["triweekly", 584.6680044930772]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.1933647700847534], ["triweekly", 0.36700508481840705]],
+      "Confirmed Cumulative Cases": [["daily", 91.0], ["weekly", 91.14285714285714], ["biweekly", 90.35714285714286], ["triweekly", 88.23809523809524]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 0.14285714285714285], ["biweekly", 0.2857142857142857], ["triweekly", 0.47619047619047616]],
+      "Confirmed Fatality Rate": [["daily", 0.03296703296703297], ["weekly", 0.025066548358473828], ["biweekly", 0.023698687150428378], ["triweekly", 0.02374035664216654]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03296703296703297], ["weekly", 0.025487986242400368], ["biweekly", 0.02465584093402163], ["triweekly", 0.024772793812455014]]
+    },
+    "lat": "REPLACE_MEBrown,Indiana"
   }]
 }

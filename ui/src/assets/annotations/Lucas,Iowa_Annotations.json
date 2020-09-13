@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MELucas,Iowa",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.026433257068156024], ["weekly", 0.02054112754167305], ["biweekly", 0.019703401057484107], ["triweekly", 0.017228097362166784]],
-      "Confirmed Daily Cases per 100k": [["daily", 34.88372093023256], ["weekly", 24.916943521594686], ["biweekly", 22.425249169435215], ["triweekly", 18.826135105204873]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1337.2093023255816], ["weekly", 1197.6744186046512], ["biweekly", 1148.6710963455148], ["triweekly", 1080.2879291251386]],
-      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.7157030071278392], ["biweekly", 1.1673753130877291], ["triweekly", 1.0406243923098366]],
-      "Confirmed Cumulative Cases": [["daily", 115.0], ["weekly", 103.0], ["biweekly", 98.78571428571429], ["triweekly", 92.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.142857142857143], ["biweekly", 1.9285714285714286], ["triweekly", 1.619047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.05217391304347826], ["weekly", 0.049943139231684086], ["biweekly", 0.05141656106436692], ["triweekly", 0.051856564449041714]],
+      "Spread Rate": [["daily", 0.03509131981127034], ["weekly", 0.02054112754167305], ["biweekly", 0.019703401057484107], ["triweekly", 0.017228097362166784]],
+      "Confirmed Daily Cases per 100k": [["daily", 46.51162790697675], ["weekly", 24.916943521594686], ["biweekly", 22.425249169435215], ["triweekly", 18.826135105204873]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1348.8372093023256], ["weekly", 1197.6744186046512], ["biweekly", 1148.6710963455148], ["triweekly", 1080.2879291251386]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.7157030071278392], ["biweekly", 1.1673753130877291], ["triweekly", 1.0406243923098366]],
+      "Confirmed Cumulative Cases": [["daily", 116.0], ["weekly", 103.0], ["biweekly", 98.78571428571429], ["triweekly", 92.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.142857142857143], ["biweekly", 1.9285714285714286], ["triweekly", 1.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.05172413793103448], ["weekly", 0.049943139231684086], ["biweekly", 0.05141656106436692], ["triweekly", 0.051856564449041714]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.061855670103092786], ["weekly", 0.05436273694712338], ["biweekly", 0.058015573819570766], ["triweekly", 0.05748668829665885]]
+    },
+    "lat": "REPLACE_MELucas,Iowa"
+  }, {
+    "locale": "Lucas,Iowa",
+    "long": "REPLACE_MELucas,Iowa",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00858374369139181], ["weekly", 0.025554173228997383], ["biweekly", 0.015785049853793445], ["triweekly", 0.01829249231615919]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.627906976744187], ["weekly", 31.561461794019937], ["biweekly", 19.102990033222593], ["triweekly", 20.487264673311184]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1360.46511627907], ["weekly", 1229.2358803986715], ["biweekly", 1167.7740863787376], ["triweekly", 1100.77519379845]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 2.0014172928421248], ["biweekly", 1.0245181702305861], ["triweekly", 1.1028452840074254]],
+      "Confirmed Cumulative Cases": [["daily", 117.0], ["weekly", 105.71428571428571], ["biweekly", 100.42857142857143], ["triweekly", 94.66666666666667]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.7142857142857144], ["biweekly", 1.6428571428571428], ["triweekly", 1.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.05128205128205128], ["weekly", 0.049968531542892256], ["biweekly", 0.05127089656942545], ["triweekly", 0.05190852761754788]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06060606060606061], ["weekly", 0.05551876969610591], ["biweekly", 0.05791304030975552], ["triweekly", 0.057822933513570644]]
+    },
+    "lat": "REPLACE_MELucas,Iowa"
+  }, {
+    "locale": "Lucas,Iowa",
+    "long": "REPLACE_MELucas,Iowa",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.023864869237595215], ["biweekly", 0.016398174403178572], ["triweekly", 0.018701242015749277]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 29.900332225913623], ["biweekly", 19.933554817275752], ["triweekly", 21.040974529346624]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1360.46511627907], ["weekly", 1259.1362126245847], ["biweekly", 1187.7076411960134], ["triweekly", 1121.8161683277965]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.8571428571428572], ["biweekly", 1.0423753130877291], ["triweekly", 1.1147500459121873]],
+      "Confirmed Cumulative Cases": [["daily", 117.0], ["weekly", 108.28571428571429], ["biweekly", 102.14285714285714], ["triweekly", 96.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.5714285714285716], ["biweekly", 1.7142857142857142], ["triweekly", 1.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.05128205128205128], ["weekly", 0.05007953165389236], ["biweekly", 0.05109365445669946], ["triweekly", 0.05193943904086437]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06], ["weekly", 0.056496286802655275], ["biweekly", 0.057721248978723674], ["triweekly", 0.058134933825570945]]
     },
     "lat": "REPLACE_MELucas,Iowa"
   }]

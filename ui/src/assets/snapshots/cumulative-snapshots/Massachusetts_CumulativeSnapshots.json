@@ -3586,19 +3586,19 @@
   }, {
     "epidemiccontrolThreshold": 34.449999999999996,
     "source": "NYGithub",
-    "confirmedPer100kN": 1856.5312046444124,
+    "confirmedPer100kN": 1758.069666182874,
     "deaths": 9060,
-    "confirmed": 127915,
+    "confirmed": 121131,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 1856.5312046444124,
+    "confirmedPer100k": 1758.069666182874,
     "locale": "Massachusetts",
-    "activePer100k": 1725.036284470247,
+    "activePer100k": 1626.5747460087084,
     "long": "REPLACE_MEMassachusetts",
     "date": "09/02/2020",
     "deathsPer100k": 131.4949201741655,
     "lat": "REPLACE_MEMassachusetts",
-    "active": 118855
+    "active": 112071
   }, {
     "epidemiccontrolThreshold": 34.449999999999996,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 133.033381712627,
     "lat": "REPLACE_MEMassachusetts",
     "active": 114380
+  }, {
+    "epidemiccontrolThreshold": 34.449999999999996,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1799.5065312046447,
+    "deaths": 9180,
+    "confirmed": 123986,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1799.5065312046447,
+    "locale": "Massachusetts",
+    "activePer100k": 1666.269956458636,
+    "long": "REPLACE_MEMassachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 133.23657474600873,
+    "lat": "REPLACE_MEMassachusetts",
+    "active": 114806
+  }, {
+    "epidemiccontrolThreshold": 34.449999999999996,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1807.547169811321,
+    "deaths": 9196,
+    "confirmed": 124540,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1807.547169811321,
+    "locale": "Massachusetts",
+    "activePer100k": 1674.0783744557332,
+    "long": "REPLACE_MEMassachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 133.46879535558782,
+    "lat": "REPLACE_MEMassachusetts",
+    "active": 115344
   }]
 }

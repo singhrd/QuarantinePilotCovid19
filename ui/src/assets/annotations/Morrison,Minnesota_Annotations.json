@@ -3494,5 +3494,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008064516129032258], ["weekly", 0.008670494700755982], ["biweekly", 0.009009908099805095], ["triweekly", 0.009344397613467146]]
     },
     "lat": "REPLACE_MEMorrison,Minnesota"
+  }, {
+    "locale": "Morrison,Minnesota",
+    "long": "REPLACE_MEMorrison,Minnesota",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.05129329438755015], ["weekly", 0.02908556503446277], ["biweekly", 0.021812974967941594], ["triweekly", 0.018070934366900188]],
+      "Confirmed Daily Cases per 100k": [["daily", 23.962139819085845], ["weekly", 11.98106990954292], ["biweekly", 8.557907078244943], ["triweekly", 6.846325662595955]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 479.2427963817169], ["weekly", 427.46745855833495], ["biweekly", 389.1708243831889], ["triweekly", 367.419477225983]],
+      "Daily Growth Rate": [["daily", 8.0], ["weekly", 1.4053646838364504], ["biweekly", 1.2650947310505976], ["triweekly", 1.0493634012145452]],
+      "Confirmed Cumulative Cases": [["daily", 160.0], ["weekly", 142.71428571428572], ["biweekly", 129.92857142857142], ["triweekly", 122.66666666666667]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 4.0], ["biweekly", 2.857142857142857], ["triweekly", 2.2857142857142856]],
+      "Confirmed Fatality Rate": [["daily", 0.00625], ["weekly", 0.007042874860577864], ["biweekly", 0.007794966544985555], ["triweekly", 0.008280379473093524]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008], ["weekly", 0.008547058229393242], ["biweekly", 0.008899131779351354], ["triweekly", 0.009221836578071522]]
+    },
+    "lat": "REPLACE_MEMorrison,Minnesota"
+  }, {
+    "locale": "Morrison,Minnesota",
+    "long": "REPLACE_MEMorrison,Minnesota",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03681397312271706], ["weekly", 0.0352657254187893], ["biweekly", 0.02547678170990946], ["triweekly", 0.020513472194878767]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.971604864314383], ["weekly", 14.976337386928652], ["biweekly", 10.269488493893933], ["triweekly", 7.987379939695281]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 497.2144012460313], ["weekly", 442.4437959452636], ["biweekly", 399.4403128770829], ["triweekly", 375.4068571656783]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 2.5006027790745455], ["biweekly", 1.836523302479169], ["triweekly", 1.4303157821669261]],
+      "Confirmed Cumulative Cases": [["daily", 166.0], ["weekly", 147.71428571428572], ["biweekly", 133.35714285714286], ["triweekly", 125.33333333333333]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 5.0], ["biweekly", 3.4285714285714284], ["triweekly", 2.6666666666666665]],
+      "Confirmed Fatality Rate": [["daily", 0.006024096385542169], ["weekly", 0.006792874860577865], ["biweekly", 0.007603640014373311], ["triweekly", 0.008120123062837114]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007633587786259542], ["weekly", 0.008414405168168753], ["biweekly", 0.00878374716396674], ["triweekly", 0.009111870942332689]]
+    },
+    "lat": "REPLACE_MEMorrison,Minnesota"
   }]
 }

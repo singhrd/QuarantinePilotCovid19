@@ -3469,13 +3469,13 @@
     "long": "REPLACE_MEHillsborough,New Hampshire",
     "date": "09/09/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.0025532743387878093], ["biweekly", 0.0023611988541043516], ["triweekly", 0.0020422252754973293]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.5007065352368394], ["biweekly", 2.2951690117927153], ["triweekly", 1.975443975324078]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 988.1901564654397], ["weekly", 981.3731619378763], ["biweekly", 972.7063296993157], ["triweekly", 966.1748039543136]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.577056277056277], ["biweekly", 1.5577109398537972], ["triweekly", 1.4091266610356854]],
-      "Confirmed Cumulative Cases": [["daily", 4121.0], ["weekly", 4092.5714285714284], ["biweekly", 4056.4285714285716], ["triweekly", 4029.190476190476]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 10.428571428571429], ["biweekly", 9.571428571428571], ["triweekly", 8.238095238095237]],
-      "Confirmed Fatality Rate": [["daily", 0.06964329046347974], ["weekly", 0.06998919041791464], ["biweekly", 0.07052924491820098], ["triweekly", 0.07078880064978023]],
+      "Spread Rate": [["daily", 0.002907683172916009], ["weekly", 0.0025532743387878093], ["biweekly", 0.0023611988541043516], ["triweekly", 0.0020422252754973293]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.8775253282177324], ["weekly", 2.5007065352368394], ["biweekly", 2.2951690117927153], ["triweekly", 1.975443975324078]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 991.0676817936574], ["weekly", 981.3731619378763], ["biweekly", 972.7063296993157], ["triweekly", 966.1748039543136]],
+      "Daily Growth Rate": [["daily", 0.8660254037844386], ["weekly", 1.577056277056277], ["biweekly", 1.5577109398537972], ["triweekly", 1.4091266610356854]],
+      "Confirmed Cumulative Cases": [["daily", 4133.0], ["weekly", 4092.5714285714284], ["biweekly", 4056.4285714285716], ["triweekly", 4029.190476190476]],
+      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 10.428571428571429], ["biweekly", 9.571428571428571], ["triweekly", 8.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.06944108395838373], ["weekly", 0.06998919041791464], ["biweekly", 0.07052924491820098], ["triweekly", 0.07078880064978023]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07082922013820335], ["weekly", 0.07124691694098402], ["biweekly", 0.07156502688578592], ["triweekly", 0.07181352665807032]]
     },
     "lat": "REPLACE_MEHillsborough,New Hampshire"
@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MEHillsborough,New Hampshire",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.008938337079142045], ["weekly", 0.0024121808528919176], ["biweekly", 0.002271678136247322], ["triweekly", 0.001897706051918577]],
-      "Confirmed Daily Cases per 100k": [["daily", 8.872369762004675], ["weekly", 2.363681519607423], ["biweekly", 2.2095283770243306], ["triweekly", 1.8384189596946623]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 997.0625262274443], ["weekly", 983.7368434574838], ["biweekly", 974.9158580763402], ["triweekly", 968.0132229140082]],
-      "Daily Growth Rate": [["daily", 1.322393118173552], ["weekly", 1.5056277056277056], ["biweekly", 1.468425225568083], ["triweekly", 1.31388856579759]],
-      "Confirmed Cumulative Cases": [["daily", 4158.0], ["weekly", 4102.428571428572], ["biweekly", 4065.6428571428573], ["triweekly", 4036.8571428571427]],
-      "Confirmed Daily Cases": [["daily", 37.0], ["weekly", 9.857142857142858], ["biweekly", 9.214285714285714], ["triweekly", 7.666666666666667]],
-      "Confirmed Fatality Rate": [["daily", 0.06926406926406926], ["weekly", 0.06985502785121106], ["biweekly", 0.07040428098193938], ["triweekly", 0.07071409442365446]],
+      "Spread Rate": [["daily", 0.006030653906226036], ["weekly", 0.0028275641633084903], ["biweekly", 0.0024793697914556084], ["triweekly", 0.0020361671553907677]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.994844433786943], ["weekly", 2.774756566495671], ["biweekly", 2.4150659004684547], ["triweekly", 1.9754439753240784]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 997.0625262274443], ["weekly", 984.147918504372], ["biweekly", 975.1213955997844], ["triweekly", 968.1502479296377]],
+      "Daily Growth Rate": [["daily", 2.0833333333333335], ["weekly", 1.629345620454054], ["biweekly", 1.530284182981257], ["triweekly", 1.3551278707397063]],
+      "Confirmed Cumulative Cases": [["daily", 4158.0], ["weekly", 4104.142857142857], ["biweekly", 4066.5], ["triweekly", 4037.4285714285716]],
+      "Confirmed Daily Cases": [["daily", 25.0], ["weekly", 11.571428571428571], ["biweekly", 10.071428571428571], ["triweekly", 8.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.06926406926406926], ["weekly", 0.06982614120762591], ["biweekly", 0.07038983766014681], ["triweekly", 0.0707044655424594]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07069219440353461], ["weekly", 0.07113062173599217], ["biweekly", 0.07148356425496495], ["triweekly", 0.07171822387834682]]
+    },
+    "lat": "REPLACE_MEHillsborough,New Hampshire"
+  }, {
+    "locale": "Hillsborough,New Hampshire",
+    "long": "REPLACE_MEHillsborough,New Hampshire",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0031216257789861146], ["weekly", 0.0029155530901725513], ["biweekly", 0.0027492756829088044], ["triweekly", 0.0022872797727392104]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.1173191055692104], ["weekly", 2.877525328217733], ["biweekly", 2.6891159317272857], ["triweekly", 2.226656503978007]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1000.1798453330135], ["weekly", 987.0254438325898], ["biweekly", 977.8105115315115], ["triweekly", 970.3769044336157]],
+      "Daily Growth Rate": [["daily", 0.52], ["weekly", 1.1412503823588158], ["biweekly", 1.5505222782193522], ["triweekly", 1.4424294580412935]],
+      "Confirmed Cumulative Cases": [["daily", 4171.0], ["weekly", 4116.142857142857], ["biweekly", 4077.714285714286], ["triweekly", 4046.714285714286]],
+      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 12.0], ["biweekly", 11.214285714285714], ["triweekly", 9.285714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.06904818988252218], ["weekly", 0.06969225447580105], ["biweekly", 0.0702492574681509], ["triweekly", 0.07060225229003528]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07058823529411765], ["weekly", 0.0710177738696924], ["biweekly", 0.0713962055876712], ["triweekly", 0.07162109287302505]]
+    },
+    "lat": "REPLACE_MEHillsborough,New Hampshire"
+  }, {
+    "locale": "Hillsborough,New Hampshire",
+    "long": "REPLACE_MEHillsborough,New Hampshire",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0021554313218565824], ["weekly", 0.003151260971248198], ["biweekly", 0.0028117552783093152], ["triweekly", 0.002327908049137237]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.1581439961632993], ["weekly", 3.1173191055692095], ["biweekly", 2.7576284395419934], ["triweekly", 2.2723315091878122]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1002.3379893291768], ["weekly", 990.1427629381589], ["biweekly", 980.5681399710535], ["triweekly", 972.6492359428034]],
+      "Daily Growth Rate": [["daily", 0.6923076923076923], ["weekly", 1.1765750576834912], ["biweekly", 1.516236563933638], ["triweekly", 1.3243342199460553]],
+      "Confirmed Cumulative Cases": [["daily", 4180.0], ["weekly", 4129.142857142857], ["biweekly", 4089.214285714286], ["triweekly", 4056.190476190476]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 13.0], ["biweekly", 11.5], ["triweekly", 9.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.06889952153110047], ["weekly", 0.06954227599963474], ["biweekly", 0.07008686419114545], ["triweekly", 0.0704974641326164]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.07032967032967033], ["weekly", 0.07091299380305226], ["biweekly", 0.07129507752315233], ["triweekly", 0.07154375650341725]]
     },
     "lat": "REPLACE_MEHillsborough,New Hampshire"
   }]

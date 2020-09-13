@@ -3469,13 +3469,13 @@
     "long": "REPLACE_MEMerrimack,New Hampshire",
     "date": "09/09/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.0039141391697305695], ["biweekly", 0.0032441056921994615], ["triweekly", 0.0041266875345162615]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.3210824949964], ["biweekly", 1.0851749066041856], ["triweekly", 1.3525368401153621]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 342.1603662040676], ["weekly", 338.1971187190784], ["biweekly", 333.90360061034016], ["triweekly", 329.57862815648286]],
+      "Spread Rate": [["daily", -0.001932367751053654], ["weekly", 0.0039141391697305695], ["biweekly", 0.0032441056921994615], ["triweekly", 0.0041266875345162615]],
+      "Confirmed Daily Cases per 100k": [["daily", -0.6605412474982], ["weekly", 1.3210824949964], ["biweekly", 1.0851749066041856], ["triweekly", 1.3525368401153621]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 341.4998249565694], ["weekly", 338.1971187190784], ["biweekly", 333.90360061034016], ["triweekly", 329.57862815648286]],
       "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6379401263509034], ["biweekly", 0.7510091623537806], ["triweekly", 0.9677929563084161]],
-      "Confirmed Cumulative Cases": [["daily", 518.0], ["weekly", 512.0], ["biweekly", 505.5], ["triweekly", 498.95238095238096]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.0], ["biweekly", 1.6428571428571428], ["triweekly", 2.0476190476190474]],
-      "Confirmed Fatality Rate": [["daily", 0.0444015444015444], ["weekly", 0.04492614642971909], ["biweekly", 0.045510064251772404], ["triweekly", 0.04612231431281526]],
+      "Confirmed Cumulative Cases": [["daily", 517.0], ["weekly", 512.0], ["biweekly", 505.5], ["triweekly", 498.95238095238096]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 2.0], ["biweekly", 1.6428571428571428], ["triweekly", 2.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.04448742746615087], ["weekly", 0.04492614642971909], ["biweekly", 0.045510064251772404], ["triweekly", 0.04612231431281526]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04563492063492063], ["weekly", 0.04609398207382574], ["biweekly", 0.04672039825436335], ["triweekly", 0.04739026783394832]]
     },
     "lat": "REPLACE_MEMerrimack,New Hampshire"
@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MEMerrimack,New Hampshire",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.007692345623156349], ["weekly", 0.0039141391697305695], ["biweekly", 0.003388551790825708], ["triweekly", 0.003926607208149582]],
-      "Confirmed Daily Cases per 100k": [["daily", 2.6421649899928], ["weekly", 1.3210824949964], ["biweekly", 1.1323564242826285], ["triweekly", 1.2896281498774382]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 344.8025311940604], ["weekly", 339.5182012140748], ["biweekly", 335.0359570346227], ["triweekly", 330.8682563063603]],
-      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.6379401263509034], ["biweekly", 0.7510091623537806], ["triweekly", 0.8725548610703209]],
-      "Confirmed Cumulative Cases": [["daily", 522.0], ["weekly", 514.0], ["biweekly", 507.2142857142857], ["triweekly", 500.9047619047619]],
-      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.0], ["biweekly", 1.7142857142857142], ["triweekly", 1.9523809523809523]],
-      "Confirmed Fatality Rate": [["daily", 0.044061302681992334], ["weekly", 0.04474994982495105], ["biweekly", 0.04535598139092264], ["triweekly", 0.04594057693431238]],
+      "Spread Rate": [["daily", 0.009624713374210003], ["weekly", 0.003638086633865762], ["biweekly", 0.0032505255228933044], ["triweekly", 0.0038345896961946464]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.302706237491], ["weekly", 1.2267194596395143], ["biweekly", 1.0851749066041856], ["triweekly", 1.258173804758476]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 344.8025311940604], ["weekly", 339.42383817871786], ["biweekly", 334.98877551694426], ["triweekly", 330.83680196124135]],
+      "Daily Growth Rate": [["daily", 2.23606797749979], ["weekly", 0.6379401263509034], ["biweekly", 0.7510091623537806], ["triweekly", 0.8725548610703209]],
+      "Confirmed Cumulative Cases": [["daily", 522.0], ["weekly", 513.8571428571429], ["biweekly", 507.14285714285717], ["triweekly", 500.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 1.8571428571428572], ["biweekly", 1.6428571428571428], ["triweekly", 1.9047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.044061302681992334], ["weekly", 0.04476221883418054], ["biweekly", 0.04536211589553739], ["triweekly", 0.045944666604055544]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.045275590551181105], ["weekly", 0.04596201295689422], ["biweekly", 0.04653589048899304], ["triweekly", 0.04721809570552045]]
+    },
+    "lat": "REPLACE_MEMerrimack,New Hampshire"
+  }, {
+    "locale": "Merrimack,New Hampshire",
+    "long": "REPLACE_MEMerrimack,New Hampshire",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01142869582362227], ["weekly", 0.003883734329165302], ["biweekly", 0.0035055401275721565], ["triweekly", 0.003994356380033452]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.9632474849892], ["weekly", 1.3210824949964], ["biweekly", 1.1795379419610714], ["triweekly", 1.3210824949964002]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 348.7657786790496], ["weekly", 340.7449206737143], ["biweekly", 336.1683134589053], ["triweekly", 332.15788445623775]],
+      "Daily Growth Rate": [["daily", 1.2], ["weekly", 0.7553478999404312], ["biweekly", 0.787010388777417], ["triweekly", 0.9076057171417394]],
+      "Confirmed Cumulative Cases": [["daily", 528.0], ["weekly", 515.8571428571429], ["biweekly", 508.92857142857144], ["triweekly", 502.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 2.0], ["biweekly", 1.7857142857142858], ["triweekly", 2.0]],
+      "Confirmed Fatality Rate": [["daily", 0.043560606060606064], ["weekly", 0.04458874913858214], ["biweekly", 0.04520380423025285], ["triweekly", 0.04576107784288058]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.045275590551181105], ["weekly", 0.04581885932192355], ["biweekly", 0.04634724219502979], ["triweekly", 0.047053656514656594]]
+    },
+    "lat": "REPLACE_MEMerrimack,New Hampshire"
+  }, {
+    "locale": "Merrimack,New Hampshire",
+    "long": "REPLACE_MEMerrimack,New Hampshire",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007547205635383136], ["weekly", 0.005516405161111341], ["biweekly", 0.004321875543545176], ["triweekly", 0.0042418871454137684]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.6421649899928], ["weekly", 1.8872607071377143], ["biweekly", 1.4626270480317287], ["triweekly", 1.415445530353286]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 351.40794366904237], ["weekly", 342.63218138085205], ["biweekly", 337.630940506937], ["triweekly", 333.57332998659103]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 0.9267764713690027], ["biweekly", 0.8727246744917027], ["triweekly", 0.9171295266655489]],
+      "Confirmed Cumulative Cases": [["daily", 532.0], ["weekly", 518.7142857142857], ["biweekly", 511.14285714285717], ["triweekly", 505.0]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.857142857142857], ["biweekly", 2.2142857142857144], ["triweekly", 2.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.043233082706766915], ["weekly", 0.04434375135421428], ["biweekly", 0.04500972852058358], ["triweekly", 0.04556781872105003]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04483430799220273], ["weekly", 0.04567570568695286], ["biweekly", 0.046179852404467904], ["triweekly", 0.046889217323792746]]
     },
     "lat": "REPLACE_MEMerrimack,New Hampshire"
   }]

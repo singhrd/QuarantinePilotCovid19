@@ -1,475 +1,5 @@
 {
   "riskArray": [{
-    "date": "08/29/2020",
-    "elements": [{
-      "id": "US.CA.115",
-      "name": "Yuba,California",
-      "value": 11.803674029737993
-    }, {
-      "id": "US.CA.113",
-      "name": "Yolo,California",
-      "value": 9.459021703919662
-    }, {
-      "id": "US.CA.111",
-      "name": "Ventura,California",
-      "value": 12.478803763971953
-    }, {
-      "id": "US.CA.109",
-      "name": "Tuolumne,California",
-      "value": 2.3600614664897495
-    }, {
-      "id": "US.CA.107",
-      "name": "Tulare,California",
-      "value": 23.503347005315067
-    }, {
-      "id": "US.CA.105",
-      "name": "Trinity,California",
-      "value": 3.4885749171463454
-    }, {
-      "id": "US.CA.103",
-      "name": "Tehama,California",
-      "value": 10.535835008823764
-    }, {
-      "id": "US.CA.101",
-      "name": "Sutter,California",
-      "value": 21.3613201001183
-    }, {
-      "id": "US.CA.099",
-      "name": "Stanislaus,California",
-      "value": 29.497071047210884
-    }, {
-      "id": "US.CA.097",
-      "name": "Sonoma,California",
-      "value": 18.66862099578309
-    }, {
-      "id": "US.CA.095",
-      "name": "Solano,California",
-      "value": 10.85048321350464
-    }, {
-      "id": "US.CA.093",
-      "name": "Siskiyou,California",
-      "value": 1.6405652731705236
-    }, {
-      "id": "US.CA.091",
-      "name": "Sierra,California",
-      "value": 0.0
-    }, {
-      "id": "US.CA.089",
-      "name": "Shasta,California",
-      "value": 2.4592244716633873
-    }, {
-      "id": "US.CA.087",
-      "name": "Santa Cruz,California",
-      "value": 6.797417608762602
-    }, {
-      "id": "US.CA.085",
-      "name": "Santa Clara,California",
-      "value": 9.766606268827392
-    }, {
-      "id": "US.CA.083",
-      "name": "Santa Barbara,California",
-      "value": 11.55017784394334
-    }, {
-      "id": "US.CA.081",
-      "name": "San Mateo,California",
-      "value": 9.429723494789707
-    }, {
-      "id": "US.CA.079",
-      "name": "San Luis Obispo,California",
-      "value": 10.949768818590588
-    }, {
-      "id": "US.CA.077",
-      "name": "San Joaquin,California",
-      "value": 22.699003343182685
-    }, {
-      "id": "US.CA.075",
-      "name": "San Francisco,California",
-      "value": 8.31328880024982
-    }, {
-      "id": "US.CA.073",
-      "name": "San Diego,California",
-      "value": 8.010848880385447
-    }, {
-      "id": "US.CA.071",
-      "name": "San Bernardino,California",
-      "value": 19.324279295794163
-    }, {
-      "id": "US.CA.069",
-      "name": "San Benito,California",
-      "value": 28.203868478992668
-    }, {
-      "id": "US.CA.067",
-      "name": "Sacramento,California",
-      "value": 17.525118262332978
-    }, {
-      "id": "US.CA.065",
-      "name": "Riverside,California",
-      "value": 13.750575205411504
-    }, {
-      "id": "US.CA.063",
-      "name": "Plumas,California",
-      "value": 2.2787867739215644
-    }, {
-      "id": "US.CA.061",
-      "name": "Placer,California",
-      "value": 6.957636956959123
-    }, {
-      "id": "US.CA.059",
-      "name": "Orange,California",
-      "value": 11.129182912844554
-    }, {
-      "id": "US.CA.057",
-      "name": "Nevada,California",
-      "value": 4.439448076358507
-    }, {
-      "id": "US.CA.055",
-      "name": "Napa,California",
-      "value": 9.334085591490632
-    }, {
-      "id": "US.CA.053",
-      "name": "Monterey,California",
-      "value": 21.557207067999332
-    }, {
-      "id": "US.CA.051",
-      "name": "Mono,California",
-      "value": 0.9890414210547137
-    }, {
-      "id": "US.CA.049",
-      "name": "Modoc,California",
-      "value": 0.0
-    }, {
-      "id": "US.CA.047",
-      "name": "Merced,California",
-      "value": 23.768366464995676
-    }, {
-      "id": "US.CA.045",
-      "name": "Mendocino,California",
-      "value": 11.198152963475906
-    }, {
-      "id": "US.CA.043",
-      "name": "Mariposa,California",
-      "value": 1.66083988673072
-    }, {
-      "id": "US.CA.041",
-      "name": "Marin,California",
-      "value": 10.431718606322395
-    }, {
-      "id": "US.CA.039",
-      "name": "Madera,California",
-      "value": 30.418900034414218
-    }, {
-      "id": "US.CA.037",
-      "name": "Los Angeles,California",
-      "value": 13.381952911036523
-    }, {
-      "id": "US.CA.035",
-      "name": "Lassen,California",
-      "value": 5.1399227142530055
-    }, {
-      "id": "US.CA.033",
-      "name": "Lake,California",
-      "value": 7.543787247449535
-    }, {
-      "id": "US.CA.031",
-      "name": "Kings,California",
-      "value": 37.362924769750975
-    }, {
-      "id": "US.CA.029",
-      "name": "Kern,California",
-      "value": 20.67789864306646
-    }, {
-      "id": "US.CA.027",
-      "name": "Inyo,California",
-      "value": 10.295154150135025
-    }, {
-      "id": "US.CA.025",
-      "name": "Imperial,California",
-      "value": 21.679063149140127
-    }, {
-      "id": "US.CA.023",
-      "name": "Humboldt,California",
-      "value": 2.4238438791618977
-    }, {
-      "id": "US.CA.021",
-      "name": "Glenn,California",
-      "value": 7.5471318383303725
-    }, {
-      "id": "US.CA.019",
-      "name": "Fresno,California",
-      "value": 26.194977856521593
-    }, {
-      "id": "US.CA.017",
-      "name": "El Dorado,California",
-      "value": 4.0743728614172445
-    }, {
-      "id": "US.CA.015",
-      "name": "Del Norte,California",
-      "value": 3.081917363522426
-    }, {
-      "id": "US.CA.013",
-      "name": "Contra Costa,California",
-      "value": 14.861266363183095
-    }, {
-      "id": "US.CA.011",
-      "name": "Colusa,California",
-      "value": 14.586054405982935
-    }, {
-      "id": "US.CA.009",
-      "name": "Calaveras,California",
-      "value": 17.116093796194004
-    }, {
-      "id": "US.CA.007",
-      "name": "Butte,California",
-      "value": 19.096631562756222
-    }, {
-      "id": "US.CA.005",
-      "name": "Amador,California",
-      "value": 3.9530805278440617
-    }, {
-      "id": "US.CA.003",
-      "name": "Alpine,California",
-      "value": 0.0
-    }, {
-      "id": "US.CA.001",
-      "name": "Alameda,California",
-      "value": 11.77847945300673
-    }]
-  }, {
-    "date": "08/30/2020",
-    "elements": [{
-      "id": "US.CA.115",
-      "name": "Yuba,California",
-      "value": 11.803674029737993
-    }, {
-      "id": "US.CA.113",
-      "name": "Yolo,California",
-      "value": 9.782960803368967
-    }, {
-      "id": "US.CA.111",
-      "name": "Ventura,California",
-      "value": 12.512575898651175
-    }, {
-      "id": "US.CA.109",
-      "name": "Tuolumne,California",
-      "value": 2.3600614664897495
-    }, {
-      "id": "US.CA.107",
-      "name": "Tulare,California",
-      "value": 23.503347005315067
-    }, {
-      "id": "US.CA.105",
-      "name": "Trinity,California",
-      "value": 3.4885749171463454
-    }, {
-      "id": "US.CA.103",
-      "name": "Tehama,California",
-      "value": 11.633317822242905
-    }, {
-      "id": "US.CA.101",
-      "name": "Sutter,California",
-      "value": 21.3613201001183
-    }, {
-      "id": "US.CA.099",
-      "name": "Stanislaus,California",
-      "value": 31.131473400750274
-    }, {
-      "id": "US.CA.097",
-      "name": "Sonoma,California",
-      "value": 16.963592143227046
-    }, {
-      "id": "US.CA.095",
-      "name": "Solano,California",
-      "value": 10.85048321350464
-    }, {
-      "id": "US.CA.093",
-      "name": "Siskiyou,California",
-      "value": 1.6405652731705236
-    }, {
-      "id": "US.CA.091",
-      "name": "Sierra,California",
-      "value": 0.0
-    }, {
-      "id": "US.CA.089",
-      "name": "Shasta,California",
-      "value": 2.4592244716633873
-    }, {
-      "id": "US.CA.087",
-      "name": "Santa Cruz,California",
-      "value": 6.797417608762602
-    }, {
-      "id": "US.CA.085",
-      "name": "Santa Clara,California",
-      "value": 9.818477470558646
-    }, {
-      "id": "US.CA.083",
-      "name": "Santa Barbara,California",
-      "value": 11.55017784394334
-    }, {
-      "id": "US.CA.081",
-      "name": "San Mateo,California",
-      "value": 10.044705461841207
-    }, {
-      "id": "US.CA.079",
-      "name": "San Luis Obispo,California",
-      "value": 10.949768818590588
-    }, {
-      "id": "US.CA.077",
-      "name": "San Joaquin,California",
-      "value": 22.980163582776203
-    }, {
-      "id": "US.CA.075",
-      "name": "San Francisco,California",
-      "value": 9.042524659920856
-    }, {
-      "id": "US.CA.073",
-      "name": "San Diego,California",
-      "value": 7.89102849114891
-    }, {
-      "id": "US.CA.071",
-      "name": "San Bernardino,California",
-      "value": 16.657279745645564
-    }, {
-      "id": "US.CA.069",
-      "name": "San Benito,California",
-      "value": 30.478374001492078
-    }, {
-      "id": "US.CA.067",
-      "name": "Sacramento,California",
-      "value": 17.515913893497718
-    }, {
-      "id": "US.CA.065",
-      "name": "Riverside,California",
-      "value": 13.750575205411504
-    }, {
-      "id": "US.CA.063",
-      "name": "Plumas,California",
-      "value": 2.2787867739215644
-    }, {
-      "id": "US.CA.061",
-      "name": "Placer,California",
-      "value": 7.423870361291437
-    }, {
-      "id": "US.CA.059",
-      "name": "Orange,California",
-      "value": 10.746814057714484
-    }, {
-      "id": "US.CA.057",
-      "name": "Nevada,California",
-      "value": 4.582656078821684
-    }, {
-      "id": "US.CA.055",
-      "name": "Napa,California",
-      "value": 8.919237342979937
-    }, {
-      "id": "US.CA.053",
-      "name": "Monterey,California",
-      "value": 21.787589433611537
-    }, {
-      "id": "US.CA.051",
-      "name": "Mono,California",
-      "value": 0.9890414210547137
-    }, {
-      "id": "US.CA.049",
-      "name": "Modoc,California",
-      "value": 1.615848239533343
-    }, {
-      "id": "US.CA.047",
-      "name": "Merced,California",
-      "value": 23.768366464995676
-    }, {
-      "id": "US.CA.045",
-      "name": "Mendocino,California",
-      "value": 10.704116803322558
-    }, {
-      "id": "US.CA.043",
-      "name": "Mariposa,California",
-      "value": 3.32167977346144
-    }, {
-      "id": "US.CA.041",
-      "name": "Marin,California",
-      "value": 12.69468401827593
-    }, {
-      "id": "US.CA.039",
-      "name": "Madera,California",
-      "value": 30.418900034414218
-    }, {
-      "id": "US.CA.037",
-      "name": "Los Angeles,California",
-      "value": 12.940820903122729
-    }, {
-      "id": "US.CA.035",
-      "name": "Lassen,California",
-      "value": 5.1399227142530055
-    }, {
-      "id": "US.CA.033",
-      "name": "Lake,California",
-      "value": 8.653167725015642
-    }, {
-      "id": "US.CA.031",
-      "name": "Kings,California",
-      "value": 23.258420669169983
-    }, {
-      "id": "US.CA.029",
-      "name": "Kern,California",
-      "value": 18.884650334036138
-    }, {
-      "id": "US.CA.027",
-      "name": "Inyo,California",
-      "value": 12.670958954012338
-    }, {
-      "id": "US.CA.025",
-      "name": "Imperial,California",
-      "value": 21.600230192234164
-    }, {
-      "id": "US.CA.023",
-      "name": "Humboldt,California",
-      "value": 2.4238438791618977
-    }, {
-      "id": "US.CA.021",
-      "name": "Glenn,California",
-      "value": 5.53456334810894
-    }, {
-      "id": "US.CA.019",
-      "name": "Fresno,California",
-      "value": 25.337063734583108
-    }, {
-      "id": "US.CA.017",
-      "name": "El Dorado,California",
-      "value": 4.0743728614172445
-    }, {
-      "id": "US.CA.015",
-      "name": "Del Norte,California",
-      "value": 3.081917363522426
-    }, {
-      "id": "US.CA.013",
-      "name": "Contra Costa,California",
-      "value": 14.526887870011475
-    }, {
-      "id": "US.CA.011",
-      "name": "Colusa,California",
-      "value": 14.586054405982935
-    }, {
-      "id": "US.CA.009",
-      "name": "Calaveras,California",
-      "value": 12.136866510028474
-    }, {
-      "id": "US.CA.007",
-      "name": "Butte,California",
-      "value": 19.813569949071304
-    }, {
-      "id": "US.CA.005",
-      "name": "Amador,California",
-      "value": 3.953080527844062
-    }, {
-      "id": "US.CA.003",
-      "name": "Alpine,California",
-      "value": 0.0
-    }, {
-      "id": "US.CA.001",
-      "name": "Alameda,California",
-      "value": 9.86383547806224
-    }]
-  }, {
     "date": "08/31/2020",
     "elements": [{
       "id": "US.CA.115",
@@ -1526,7 +1056,7 @@
     }, {
       "id": "US.CA.059",
       "name": "Orange,California",
-      "value": 8.915942010209339
+      "value": 10.382439031061127
     }, {
       "id": "US.CA.057",
       "name": "Nevada,California",
@@ -1761,7 +1291,7 @@
     }, {
       "id": "US.CA.059",
       "name": "Orange,California",
-      "value": 6.639722707905642
+      "value": 10.584869601424101
     }, {
       "id": "US.CA.057",
       "name": "Nevada,California",
@@ -1996,7 +1526,7 @@
     }, {
       "id": "US.CA.059",
       "name": "Orange,California",
-      "value": 5.933464940194811
+      "value": 10.386937488180303
     }, {
       "id": "US.CA.057",
       "name": "Nevada,California",
@@ -2701,7 +2231,7 @@
     }, {
       "id": "US.CA.059",
       "name": "Orange,California",
-      "value": 9.856119548117388
+      "value": 9.856119548117386
     }, {
       "id": "US.CA.057",
       "name": "Nevada,California",
@@ -3053,6 +2583,476 @@
       "id": "US.CA.001",
       "name": "Alameda,California",
       "value": 7.701313488504401
+    }]
+  }, {
+    "date": "09/11/2020",
+    "elements": [{
+      "id": "US.CA.115",
+      "name": "Yuba,California",
+      "value": 12.530053970029565
+    }, {
+      "id": "US.CA.113",
+      "name": "Yolo,California",
+      "value": 8.616780045351474
+    }, {
+      "id": "US.CA.111",
+      "name": "Ventura,California",
+      "value": 7.868907380258363
+    }, {
+      "id": "US.CA.109",
+      "name": "Tuolumne,California",
+      "value": 5.7690391403082755
+    }, {
+      "id": "US.CA.107",
+      "name": "Tulare,California",
+      "value": 15.04581926937379
+    }, {
+      "id": "US.CA.105",
+      "name": "Trinity,California",
+      "value": 1.1628583057154487
+    }, {
+      "id": "US.CA.103",
+      "name": "Tehama,California",
+      "value": 7.243386568566337
+    }, {
+      "id": "US.CA.101",
+      "name": "Sutter,California",
+      "value": 11.932875366272981
+    }, {
+      "id": "US.CA.099",
+      "name": "Stanislaus,California",
+      "value": 18.886427196455163
+    }, {
+      "id": "US.CA.097",
+      "name": "Sonoma,California",
+      "value": 12.108594732558998
+    }, {
+      "id": "US.CA.095",
+      "name": "Solano,California",
+      "value": 5.552894350440609
+    }, {
+      "id": "US.CA.093",
+      "name": "Siskiyou,California",
+      "value": 3.609243600975152
+    }, {
+      "id": "US.CA.091",
+      "name": "Sierra,California",
+      "value": 0.0
+    }, {
+      "id": "US.CA.089",
+      "name": "Shasta,California",
+      "value": 2.6178841149965097
+    }, {
+      "id": "US.CA.087",
+      "name": "Santa Cruz,California",
+      "value": 6.117675847886342
+    }, {
+      "id": "US.CA.085",
+      "name": "Santa Clara,California",
+      "value": 6.380157812944148
+    }, {
+      "id": "US.CA.083",
+      "name": "Santa Barbara,California",
+      "value": 8.926591740886957
+    }, {
+      "id": "US.CA.081",
+      "name": "San Mateo,California",
+      "value": 9.411087677606327
+    }, {
+      "id": "US.CA.079",
+      "name": "San Luis Obispo,California",
+      "value": 7.417585328722657
+    }, {
+      "id": "US.CA.077",
+      "name": "San Joaquin,California",
+      "value": 11.340129663604895
+    }, {
+      "id": "US.CA.075",
+      "name": "San Francisco,California",
+      "value": 6.8710223222337685
+    }, {
+      "id": "US.CA.073",
+      "name": "San Diego,California",
+      "value": 9.251845768906694
+    }, {
+      "id": "US.CA.071",
+      "name": "San Bernardino,California",
+      "value": 10.4517549938256
+    }, {
+      "id": "US.CA.069",
+      "name": "San Benito,California",
+      "value": 14.329384791746277
+    }, {
+      "id": "US.CA.067",
+      "name": "Sacramento,California",
+      "value": 9.77503970304497
+    }, {
+      "id": "US.CA.065",
+      "name": "Riverside,California",
+      "value": 6.736509720060724
+    }, {
+      "id": "US.CA.063",
+      "name": "Plumas,California",
+      "value": 2.2787867739215644
+    }, {
+      "id": "US.CA.061",
+      "name": "Placer,California",
+      "value": 5.953441932243375
+    }, {
+      "id": "US.CA.059",
+      "name": "Orange,California",
+      "value": 8.241173442332748
+    }, {
+      "id": "US.CA.057",
+      "name": "Nevada,California",
+      "value": 3.723408064042619
+    }, {
+      "id": "US.CA.055",
+      "name": "Napa,California",
+      "value": 7.8821167217032
+    }, {
+      "id": "US.CA.053",
+      "name": "Monterey,California",
+      "value": 16.25841265891858
+    }, {
+      "id": "US.CA.051",
+      "name": "Mono,California",
+      "value": 0.0
+    }, {
+      "id": "US.CA.049",
+      "name": "Modoc,California",
+      "value": 14.542634155800087
+    }, {
+      "id": "US.CA.047",
+      "name": "Merced,California",
+      "value": 14.662303988146684
+    }, {
+      "id": "US.CA.045",
+      "name": "Mendocino,California",
+      "value": 8.892650882760279
+    }, {
+      "id": "US.CA.043",
+      "name": "Mariposa,California",
+      "value": 0.0
+    }, {
+      "id": "US.CA.041",
+      "name": "Marin,California",
+      "value": 6.7337019575202754
+    }, {
+      "id": "US.CA.039",
+      "name": "Madera,California",
+      "value": 17.252510467279702
+    }, {
+      "id": "US.CA.037",
+      "name": "Los Angeles,California",
+      "value": 8.573614024776166
+    }, {
+      "id": "US.CA.035",
+      "name": "Lassen,California",
+      "value": 5.607188415548733
+    }, {
+      "id": "US.CA.033",
+      "name": "Lake,California",
+      "value": 6.434406769883426
+    }, {
+      "id": "US.CA.031",
+      "name": "Kings,California",
+      "value": 45.9563974667937
+    }, {
+      "id": "US.CA.029",
+      "name": "Kern,California",
+      "value": 10.74362040011972
+    }, {
+      "id": "US.CA.027",
+      "name": "Inyo,California",
+      "value": 1.5838698692515423
+    }, {
+      "id": "US.CA.025",
+      "name": "Imperial,California",
+      "value": 32.321512331445284
+    }, {
+      "id": "US.CA.023",
+      "name": "Humboldt,California",
+      "value": 4.109996142926697
+    }, {
+      "id": "US.CA.021",
+      "name": "Glenn,California",
+      "value": 25.660248250323264
+    }, {
+      "id": "US.CA.019",
+      "name": "Fresno,California",
+      "value": 13.42635600833721
+    }, {
+      "id": "US.CA.017",
+      "name": "El Dorado,California",
+      "value": 2.7409417431352376
+    }, {
+      "id": "US.CA.015",
+      "name": "Del Norte,California",
+      "value": 2.0546115756816175
+    }, {
+      "id": "US.CA.013",
+      "name": "Contra Costa,California",
+      "value": 9.337829031533378
+    }, {
+      "id": "US.CA.011",
+      "name": "Colusa,California",
+      "value": 13.260049459984486
+    }, {
+      "id": "US.CA.009",
+      "name": "Calaveras,California",
+      "value": 9.02484945617502
+    }, {
+      "id": "US.CA.007",
+      "name": "Butte,California",
+      "value": 20.009098599884506
+    }, {
+      "id": "US.CA.005",
+      "name": "Amador,California",
+      "value": 11.140499669378718
+    }, {
+      "id": "US.CA.003",
+      "name": "Alpine,California",
+      "value": 0.0
+    }, {
+      "id": "US.CA.001",
+      "name": "Alameda,California",
+      "value": 7.333770225457021
+    }]
+  }, {
+    "date": "09/12/2020",
+    "elements": [{
+      "id": "US.CA.115",
+      "name": "Yuba,California",
+      "value": 11.44048405959221
+    }, {
+      "id": "US.CA.113",
+      "name": "Yolo,California",
+      "value": 8.940719144800777
+    }, {
+      "id": "US.CA.111",
+      "name": "Ventura,California",
+      "value": 8.291059063748618
+    }, {
+      "id": "US.CA.109",
+      "name": "Tuolumne,California",
+      "value": 5.244581036643887
+    }, {
+      "id": "US.CA.107",
+      "name": "Tulare,California",
+      "value": 13.391085581907019
+    }, {
+      "id": "US.CA.105",
+      "name": "Trinity,California",
+      "value": 2.3257166114308974
+    }, {
+      "id": "US.CA.103",
+      "name": "Tehama,California",
+      "value": 6.584896880514852
+    }, {
+      "id": "US.CA.101",
+      "name": "Sutter,California",
+      "value": 14.584625447666976
+    }, {
+      "id": "US.CA.099",
+      "name": "Stanislaus,California",
+      "value": 17.537396682422653
+    }, {
+      "id": "US.CA.097",
+      "name": "Sonoma,California",
+      "value": 13.900319967448397
+    }, {
+      "id": "US.CA.095",
+      "name": "Solano,California",
+      "value": 4.755064702388799
+    }, {
+      "id": "US.CA.093",
+      "name": "Siskiyou,California",
+      "value": 3.609243600975152
+    }, {
+      "id": "US.CA.091",
+      "name": "Sierra,California",
+      "value": 0.0
+    }, {
+      "id": "US.CA.089",
+      "name": "Shasta,California",
+      "value": 2.4592244716633878
+    }, {
+      "id": "US.CA.087",
+      "name": "Santa Cruz,California",
+      "value": 5.124207120451808
+    }, {
+      "id": "US.CA.085",
+      "name": "Santa Clara,California",
+      "value": 7.061893607126332
+    }, {
+      "id": "US.CA.083",
+      "name": "Santa Barbara,California",
+      "value": 7.902753261645442
+    }, {
+      "id": "US.CA.081",
+      "name": "San Mateo,California",
+      "value": 9.578810032256737
+    }, {
+      "id": "US.CA.079",
+      "name": "San Luis Obispo,California",
+      "value": 7.468045092863628
+    }, {
+      "id": "US.CA.077",
+      "name": "San Joaquin,California",
+      "value": 9.803120353827042
+    }, {
+      "id": "US.CA.075",
+      "name": "San Francisco,California",
+      "value": 7.016869494167977
+    }, {
+      "id": "US.CA.073",
+      "name": "San Diego,California",
+      "value": 8.858150204272366
+    }, {
+      "id": "US.CA.071",
+      "name": "San Bernardino,California",
+      "value": 11.598499272145023
+    }, {
+      "id": "US.CA.069",
+      "name": "San Benito,California",
+      "value": 11.599978164746986
+    }, {
+      "id": "US.CA.067",
+      "name": "Sacramento,California",
+      "value": 11.505461044073646
+    }, {
+      "id": "US.CA.065",
+      "name": "Riverside,California",
+      "value": 6.279699189687507
+    }, {
+      "id": "US.CA.063",
+      "name": "Plumas,California",
+      "value": 2.2787867739215644
+    }, {
+      "id": "US.CA.061",
+      "name": "Placer,California",
+      "value": 5.774121392115562
+    }, {
+      "id": "US.CA.059",
+      "name": "Orange,California",
+      "value": 7.300995904424701
+    }, {
+      "id": "US.CA.057",
+      "name": "Nevada,California",
+      "value": 3.723408064042619
+    }, {
+      "id": "US.CA.055",
+      "name": "Napa,California",
+      "value": 7.2598443489371585
+    }, {
+      "id": "US.CA.053",
+      "name": "Monterey,California",
+      "value": 14.316618434472842
+    }, {
+      "id": "US.CA.051",
+      "name": "Mono,California",
+      "value": 0.9890414210547137
+    }, {
+      "id": "US.CA.049",
+      "name": "Modoc,California",
+      "value": 11.310937676733401
+    }, {
+      "id": "US.CA.047",
+      "name": "Merced,California",
+      "value": 13.581923694283246
+    }, {
+      "id": "US.CA.045",
+      "name": "Mendocino,California",
+      "value": 6.751827522095766
+    }, {
+      "id": "US.CA.043",
+      "name": "Mariposa,California",
+      "value": 0.0
+    }, {
+      "id": "US.CA.041",
+      "name": "Marin,California",
+      "value": 7.285644740923575
+    }, {
+      "id": "US.CA.039",
+      "name": "Madera,California",
+      "value": 17.888129273968957
+    }, {
+      "id": "US.CA.037",
+      "name": "Los Angeles,California",
+      "value": 8.052793654142459
+    }, {
+      "id": "US.CA.035",
+      "name": "Lassen,California",
+      "value": 3.270859909070094
+    }, {
+      "id": "US.CA.033",
+      "name": "Lake,California",
+      "value": 6.656282865396648
+    }, {
+      "id": "US.CA.031",
+      "name": "Kings,California",
+      "value": 32.78596648545648
+    }, {
+      "id": "US.CA.029",
+      "name": "Kern,California",
+      "value": 11.187965113861745
+    }, {
+      "id": "US.CA.027",
+      "name": "Inyo,California",
+      "value": 3.959674673128856
+    }, {
+      "id": "US.CA.025",
+      "name": "Imperial,California",
+      "value": 17.106751648594216
+    }, {
+      "id": "US.CA.023",
+      "name": "Humboldt,California",
+      "value": 4.004611626441397
+    }, {
+      "id": "US.CA.021",
+      "name": "Glenn,California",
+      "value": 25.660248250323267
+    }, {
+      "id": "US.CA.019",
+      "name": "Fresno,California",
+      "value": 11.510347802674604
+    }, {
+      "id": "US.CA.017",
+      "name": "El Dorado,California",
+      "value": 2.2964647037079016
+    }, {
+      "id": "US.CA.015",
+      "name": "Del Norte,California",
+      "value": 2.568264469602022
+    }, {
+      "id": "US.CA.013",
+      "name": "Contra Costa,California",
+      "value": 8.012699447482886
+    }, {
+      "id": "US.CA.011",
+      "name": "Colusa,California",
+      "value": 12.597046986985262
+    }, {
+      "id": "US.CA.009",
+      "name": "Calaveras,California",
+      "value": 7.780042634633638
+    }, {
+      "id": "US.CA.007",
+      "name": "Butte,California",
+      "value": 17.141345054624185
+    }, {
+      "id": "US.CA.005",
+      "name": "Amador,California",
+      "value": 1.0781128712301986
+    }, {
+      "id": "US.CA.003",
+      "name": "Alpine,California",
+      "value": 0.0
+    }, {
+      "id": "US.CA.001",
+      "name": "Alameda,California",
+      "value": 7.197009941532414
     }]
   }]
 }

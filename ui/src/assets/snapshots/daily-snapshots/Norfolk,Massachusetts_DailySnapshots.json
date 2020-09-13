@@ -3586,35 +3586,35 @@
   }, {
     "epidemiccontrolThreshold": 3.533875,
     "source": "NYGithub",
-    "confirmedPer100kN": 3.112730359732588,
+    "confirmedPer100kN": -209.54334830745287,
     "deaths": 1,
-    "confirmed": 22,
+    "confirmed": -1481,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 3.112730359732588,
+    "confirmedPer100k": -209.54334830745287,
     "locale": "Norfolk,Massachusetts",
-    "activePer100k": 2.9712426161083796,
+    "activePer100k": 0.0,
     "long": "REPLACE_MENorfolk,Massachusetts",
     "date": "09/02/2020",
     "deathsPer100k": 0.14148774362420855,
     "lat": "REPLACE_MENorfolk,Massachusetts",
-    "active": 21
+    "active": 0
   }, {
     "epidemiccontrolThreshold": 3.533875,
     "source": "NYGithub",
-    "confirmedPer100kN": -208.6944218457076,
+    "confirmedPer100kN": 3.961656821477839,
     "deaths": 2,
-    "confirmed": -1475,
+    "confirmed": 28,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -208.6944218457076,
+    "confirmedPer100k": 3.961656821477839,
     "locale": "Norfolk,Massachusetts",
-    "activePer100k": 0.0,
+    "activePer100k": 3.6786813342294225,
     "long": "REPLACE_MENorfolk,Massachusetts",
     "date": "09/03/2020",
     "deathsPer100k": 0.2829754872484171,
     "lat": "REPLACE_MENorfolk,Massachusetts",
-    "active": 0
+    "active": 26
   }, {
     "epidemiccontrolThreshold": 3.533875,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.42446323087262566,
     "lat": "REPLACE_MENorfolk,Massachusetts",
     "active": 26
+  }, {
+    "epidemiccontrolThreshold": 3.533875,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.9520710268473,
+    "deaths": 0,
+    "confirmed": 35,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.9520710268473,
+    "locale": "Norfolk,Massachusetts",
+    "activePer100k": 4.9520710268473,
+    "long": "REPLACE_MENorfolk,Massachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MENorfolk,Massachusetts",
+    "active": 35
+  }, {
+    "epidemiccontrolThreshold": 3.533875,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.103144565102048,
+    "deaths": 1,
+    "confirmed": 29,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.103144565102048,
+    "locale": "Norfolk,Massachusetts",
+    "activePer100k": 3.961656821477839,
+    "long": "REPLACE_MENorfolk,Massachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 0.14148774362420855,
+    "lat": "REPLACE_MENorfolk,Massachusetts",
+    "active": 28
   }]
 }

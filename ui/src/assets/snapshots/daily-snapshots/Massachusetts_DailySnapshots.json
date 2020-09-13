@@ -3586,12 +3586,12 @@
   }, {
     "epidemiccontrolThreshold": 34.449999999999996,
     "source": "NYGithub",
-    "confirmedPer100kN": -14.12191582002903,
+    "confirmedPer100kN": -112.5834542815675,
     "deaths": -4,
-    "confirmed": -973,
+    "confirmed": -7757,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -14.12191582002903,
+    "confirmedPer100k": -112.5834542815675,
     "locale": "Massachusetts",
     "activePer100k": 0.0,
     "long": "REPLACE_MEMassachusetts",
@@ -3602,19 +3602,19 @@
   }, {
     "epidemiccontrolThreshold": 34.449999999999996,
     "source": "NYGithub",
-    "confirmedPer100kN": -92.43831640058056,
+    "confirmedPer100kN": 6.02322206095791,
     "deaths": 17,
-    "confirmed": -6369,
+    "confirmed": 415,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": -92.43831640058056,
+    "confirmedPer100k": 6.02322206095791,
     "locale": "Massachusetts",
-    "activePer100k": 0.0,
+    "activePer100k": 5.7764876632801165,
     "long": "REPLACE_MEMassachusetts",
     "date": "09/03/2020",
     "deathsPer100k": 0.24673439767779393,
     "lat": "REPLACE_MEMassachusetts",
-    "active": 0
+    "active": 398
   }, {
     "epidemiccontrolThreshold": 34.449999999999996,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.2902757619738752,
     "lat": "REPLACE_MEMassachusetts",
     "active": 383
+  }, {
+    "epidemiccontrolThreshold": 34.449999999999996,
+    "source": "NYGithub",
+    "confirmedPer100kN": 6.386066763425255,
+    "deaths": 14,
+    "confirmed": 440,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 6.386066763425255,
+    "locale": "Massachusetts",
+    "activePer100k": 6.182873730043542,
+    "long": "REPLACE_MEMassachusetts",
+    "date": "09/11/2020",
+    "deathsPer100k": 0.20319303338171266,
+    "lat": "REPLACE_MEMassachusetts",
+    "active": 426
+  }, {
+    "epidemiccontrolThreshold": 34.449999999999996,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.040638606676344,
+    "deaths": 16,
+    "confirmed": 554,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.040638606676344,
+    "locale": "Massachusetts",
+    "activePer100k": 7.808417997097243,
+    "long": "REPLACE_MEMassachusetts",
+    "date": "09/12/2020",
+    "deathsPer100k": 0.23222060957910018,
+    "lat": "REPLACE_MEMassachusetts",
+    "active": 538
   }]
 }

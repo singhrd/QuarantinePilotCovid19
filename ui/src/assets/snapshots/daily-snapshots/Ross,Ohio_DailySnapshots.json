@@ -3727,5 +3727,37 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MERoss,Ohio",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 0.38333,
+    "source": "NYGithub",
+    "confirmedPer100kN": 14.347950851746537,
+    "deaths": 1,
+    "confirmed": 11,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 14.347950851746537,
+    "locale": "Ross,Ohio",
+    "activePer100k": 13.043591683405943,
+    "long": "REPLACE_MERoss,Ohio",
+    "date": "09/11/2020",
+    "deathsPer100k": 1.3043591683405942,
+    "lat": "REPLACE_MERoss,Ohio",
+    "active": 10
+  }, {
+    "epidemiccontrolThreshold": 0.38333,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1.3043591683405942,
+    "deaths": 2,
+    "confirmed": 1,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1.3043591683405942,
+    "locale": "Ross,Ohio",
+    "activePer100k": -1.3043591683405942,
+    "long": "REPLACE_MERoss,Ohio",
+    "date": "09/12/2020",
+    "deathsPer100k": 2.6087183366811884,
+    "lat": "REPLACE_MERoss,Ohio",
+    "active": -1
   }]
 }

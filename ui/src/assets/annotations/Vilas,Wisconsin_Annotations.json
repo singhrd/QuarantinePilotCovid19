@@ -3494,5 +3494,35 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEVilas,Wisconsin"
+  }, {
+    "locale": "Vilas,Wisconsin",
+    "long": "REPLACE_MEVilas,Wisconsin",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.02099745576409224], ["biweekly", 0.02569735390195062], ["triweekly", 0.021230360161835802]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 12.229266565828855], ["biweekly", 13.516557783284522], ["triweekly", 10.727426812130574]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 626.2671772921829], ["weekly", 599.234061725614], ["biweekly", 542.2714253532006], ["triweekly", 500.32718651776986]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.947485637865158], ["biweekly", 1.4737428189325787], ["triweekly", 1.2717768772469829]],
+      "Confirmed Cumulative Cases": [["daily", 139.0], ["weekly", 133.0], ["biweekly", 120.35714285714286], ["triweekly", 111.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.7142857142857144], ["biweekly", 3.0], ["triweekly", 2.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.007194244604316547], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007936507936507936], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEVilas,Wisconsin"
+  }, {
+    "locale": "Vilas,Wisconsin",
+    "long": "REPLACE_MEVilas,Wisconsin",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.014027432311316217], ["biweekly", 0.02496474674715137], ["triweekly", 0.021768434221546888]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 8.367392913461847], ["biweekly", 13.194734978920605], ["triweekly", 10.941975348373186]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 626.2671772921829], ["weekly", 607.6014546390758], ["biweekly", 555.4661603321211], ["triweekly", 511.26916186614307]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8046284950080151], ["biweekly", 1.4380285332182932], ["triweekly", 1.2717768772469829]],
+      "Confirmed Cumulative Cases": [["daily", 139.0], ["weekly", 134.85714285714286], ["biweekly", 123.28571428571429], ["triweekly", 113.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.8571428571428572], ["biweekly", 2.9285714285714284], ["triweekly", 2.4285714285714284]],
+      "Confirmed Fatality Rate": [["daily", 0.007194244604316547], ["weekly", 0.0010277492291880781], ["biweekly", 0.0005138746145940391], ["triweekly", 0.00034258307639602604]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007874015748031496], ["weekly", 0.0011337868480725624], ["biweekly", 0.0005668934240362812], ["triweekly", 0.00037792894935752074]]
+    },
+    "lat": "REPLACE_MEVilas,Wisconsin"
   }]
 }

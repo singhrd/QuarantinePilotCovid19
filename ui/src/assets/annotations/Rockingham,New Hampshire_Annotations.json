@@ -3469,13 +3469,13 @@
     "long": "REPLACE_MERockingham,New Hampshire",
     "date": "09/09/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.003502529802704681], ["biweekly", 0.0032643012474476507], ["triweekly", 0.0033165061741989377]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.0752791365731977], ["biweekly", 1.9138685370619488], ["triweekly", 1.921554756086294]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 599.8017877838001], ["weekly", 592.8380733477434], ["biweekly", 586.65835325217], ["triweekly", 579.9867151390383]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 2.4623015873015874], ["biweekly", 1.949092970521542], ["triweekly", 1.8770102912960054]],
-      "Confirmed Cumulative Cases": [["daily", 1858.0], ["weekly", 1836.4285714285713], ["biweekly", 1817.2857142857142], ["triweekly", 1796.6190476190477]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 6.428571428571429], ["biweekly", 5.928571428571429], ["triweekly", 5.9523809523809526]],
-      "Confirmed Fatality Rate": [["daily", 0.05382131324004306], ["weekly", 0.054456609715996966], ["biweekly", 0.054995794753427085], ["triweekly", 0.055465254730228]],
+      "Spread Rate": [["daily", 0.0037604127041319657], ["weekly", 0.003502529802704681], ["biweekly", 0.0032643012474476507], ["triweekly", 0.0033165061741989377]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.2597483931574818], ["weekly", 2.0752791365731977], ["biweekly", 1.9138685370619488], ["triweekly", 1.921554756086294]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 602.0615361769577], ["weekly", 592.8380733477434], ["biweekly", 586.65835325217], ["triweekly", 579.9867151390383]],
+      "Daily Growth Rate": [["daily", 0.6363636363636364], ["weekly", 2.4623015873015874], ["biweekly", 1.949092970521542], ["triweekly", 1.8770102912960054]],
+      "Confirmed Cumulative Cases": [["daily", 1865.0], ["weekly", 1836.4285714285713], ["biweekly", 1817.2857142857142], ["triweekly", 1796.6190476190477]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 6.428571428571429], ["biweekly", 5.928571428571429], ["triweekly", 5.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.05361930294906166], ["weekly", 0.054456609715996966], ["biweekly", 0.054995794753427085], ["triweekly", 0.055465254730228]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0550357732526142], ["weekly", 0.05561537210535194], ["biweekly", 0.05625354482133716], ["triweekly", 0.056688979947564076]]
     },
     "lat": "REPLACE_MERockingham,New Hampshire"
@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MERockingham,New Hampshire",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.010174117212724987], ["weekly", 0.003187692996801772], ["biweekly", 0.0031838636585094704], ["triweekly", 0.0031793149308783817]],
-      "Confirmed Daily Cases per 100k": [["daily", 6.1336027814274505], ["weekly", 1.8908098799889133], ["biweekly", 1.867751222915878], ["triweekly", 1.8446925658428424]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 605.9353905652276], ["weekly", 594.7288832277324], ["biweekly", 588.5261044750857], ["triweekly", 581.831407704881]],
-      "Daily Growth Rate": [["daily", 1.3142574813455419], ["weekly", 2.319444444444444], ["biweekly", 1.9133786848072563], ["triweekly", 1.8174864817721958]],
-      "Confirmed Cumulative Cases": [["daily", 1877.0], ["weekly", 1842.2857142857142], ["biweekly", 1823.0714285714287], ["triweekly", 1802.3333333333333]],
-      "Confirmed Daily Cases": [["daily", 19.0], ["weekly", 5.857142857142857], ["biweekly", 5.785714285714286], ["triweekly", 5.714285714285714]],
-      "Confirmed Fatality Rate": [["daily", 0.05327650506126798], ["weekly", 0.0542831154284868], ["biweekly", 0.054860754703083665], ["triweekly", 0.05531569701230359]],
+      "Spread Rate": [["daily", 0.006413704508593021], ["weekly", 0.003724894811677767], ["biweekly", 0.003452464565947468], ["triweekly", 0.003358382202503713]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.8738543882699688], ["weekly", 2.2136310790114107], ["biweekly", 2.0291618224271266], ["triweekly", 1.9522996321836747]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 605.9353905652276], ["weekly", 595.0517044267548], ["biweekly", 588.6875150745971], ["triweekly", 581.9390147712219]],
+      "Daily Growth Rate": [["daily", 1.7142857142857142], ["weekly", 2.4103535353535355], ["biweekly", 1.9588332302618017], ["triweekly", 1.8477895120752261]],
+      "Confirmed Cumulative Cases": [["daily", 1877.0], ["weekly", 1843.2857142857142], ["biweekly", 1823.5714285714287], ["triweekly", 1802.6666666666667]],
+      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 6.857142857142857], ["biweekly", 6.285714285714286], ["triweekly", 6.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.05327650506126798], ["weekly", 0.054254256815489454], ["biweekly", 0.054846325396585], ["triweekly", 0.05530607747463781]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.054914881933003847], ["weekly", 0.055438393977680536], ["biweekly", 0.05611595538820563], ["triweekly", 0.056541506912561476]]
+    },
+    "lat": "REPLACE_MERockingham,New Hampshire"
+  }, {
+    "locale": "Rockingham,New Hampshire",
+    "long": "REPLACE_MERockingham,New Hampshire",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00954408093001824], ["weekly", 0.004326993836985744], ["biweekly", 0.0035097515305057797], ["triweekly", 0.0035543275797171553]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.810781582404953], ["weekly", 2.582569592179979], ["biweekly", 2.0752791365731973], ["triweekly", 2.0752791365731973]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 611.7461721476326], ["weekly", 597.6342740189349], ["biweekly", 590.7627942111703], ["triweekly", 584.0142939077951]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 2.512394351680066], ["biweekly", 1.7241393527107811], ["triweekly", 1.8913269270412125]],
+      "Confirmed Cumulative Cases": [["daily", 1895.0], ["weekly", 1851.2857142857142], ["biweekly", 1830.0], ["triweekly", 1809.095238095238]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 8.0], ["biweekly", 6.428571428571429], ["triweekly", 6.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.052770448548812667], ["weekly", 0.05402020297667005], ["biweekly", 0.05465466797171035], ["triweekly", 0.05513680493122107]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.05467468562055768], ["weekly", 0.055289132966750636], ["biweekly", 0.05593806972014318], ["triweekly", 0.05640282972824078]]
+    },
+    "lat": "REPLACE_MERockingham,New Hampshire"
+  }, {
+    "locale": "Rockingham,New Hampshire",
+    "long": "REPLACE_MERockingham,New Hampshire",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005263170044274901], ["weekly", 0.005064209875094404], ["biweekly", 0.003912219635556102], ["triweekly", 0.0038723241610700313]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.228211990224974], ["weekly", 3.04374273364069], ["biweekly", 2.328924364376588], ["triweekly", 2.2751208312061717]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 614.9743841378576], ["weekly", 600.6780167525757], ["biweekly", 593.0917185755469], ["triweekly", 586.2894147390012]],
+      "Daily Growth Rate": [["daily", 0.5555555555555556], ["weekly", 2.440965780251495], ["biweekly", 1.7812822098536387], ["triweekly", 1.9032316889459746]],
+      "Confirmed Cumulative Cases": [["daily", 1905.0], ["weekly", 1860.7142857142858], ["biweekly", 1837.2142857142858], ["triweekly", 1816.142857142857]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 9.428571428571429], ["biweekly", 7.214285714285714], ["triweekly", 7.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.05301837270341207], ["weekly", 0.0537481691092779], ["biweekly", 0.0544424600045408], ["triweekly", 0.054951179876427156]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.054980947196516056], ["weekly", 0.0551367508998037], ["biweekly", 0.05575476265411628], ["triweekly", 0.056263927946522144]]
     },
     "lat": "REPLACE_MERockingham,New Hampshire"
   }]

@@ -3484,14 +3484,44 @@
     "long": "REPLACE_MEWebster,Iowa",
     "date": "09/10/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.02543279677300969], ["weekly", 0.005219717462888899], ["biweekly", 0.030221355407802415], ["triweekly", 0.022127715597639024]],
-      "Confirmed Daily Cases per 100k": [["daily", 77.98573975044563], ["weekly", 15.517570664629488], ["biweekly", 74.603705118411], ["triweekly", 53.582038876156524]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3105.5035650623886], ["weekly", 2994.0953654188947], ["biweekly", 2912.926534250063], ["triweekly", 2588.1185807656393]],
-      "Daily Growth Rate": [["daily", 4.0], ["weekly", 1.6431064965464632], ["biweekly", 4.132744854215727], ["triweekly", 3.4105302460859472]],
-      "Confirmed Cumulative Cases": [["daily", 1115.0], ["weekly", 1075.0], ["biweekly", 1045.857142857143], ["triweekly", 929.2380952380952]],
-      "Confirmed Daily Cases": [["daily", 28.0], ["weekly", 5.571428571428571], ["biweekly", 26.785714285714285], ["triweekly", 19.238095238095237]],
-      "Confirmed Fatality Rate": [["daily", 0.011659192825112108], ["weekly", 0.010225253722267165], ["biweekly", 0.009254699087436685], ["triweekly", 0.010001750046651357]],
+      "Spread Rate": [["daily", 0.026329255820046527], ["weekly", 0.005219717462888899], ["biweekly", 0.030221355407802415], ["triweekly", 0.022127715597639024]],
+      "Confirmed Daily Cases per 100k": [["daily", 80.77094474153297], ["weekly", 15.517570664629488], ["biweekly", 74.603705118411], ["triweekly", 53.582038876156524]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3108.2887700534757], ["weekly", 2994.0953654188947], ["biweekly", 2912.926534250063], ["triweekly", 2588.1185807656393]],
+      "Daily Growth Rate": [["daily", 4.142857142857143], ["weekly", 1.6431064965464632], ["biweekly", 4.132744854215727], ["triweekly", 3.4105302460859472]],
+      "Confirmed Cumulative Cases": [["daily", 1116.0], ["weekly", 1075.0], ["biweekly", 1045.857142857143], ["triweekly", 929.2380952380952]],
+      "Confirmed Daily Cases": [["daily", 29.0], ["weekly", 5.571428571428571], ["biweekly", 26.785714285714285], ["triweekly", 19.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.011648745519713262], ["weekly", 0.010225253722267165], ["biweekly", 0.009254699087436685], ["triweekly", 0.010001750046651357]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012333965844402278], ["weekly", 0.010808221634555372], ["biweekly", 0.011456590449668283], ["triweekly", 0.010794549590489892]]
+    },
+    "lat": "REPLACE_MEWebster,Iowa"
+  }, {
+    "locale": "Webster,Iowa",
+    "long": "REPLACE_MEWebster,Iowa",
+    "date": "09/11/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008920665758379798], ["weekly", 0.008165487691421194], ["biweekly", 0.008341105635434522], ["triweekly", 0.023103421462805102]],
+      "Confirmed Daily Cases per 100k": [["daily", 27.85204991087344], ["weekly", 24.668958492487906], ["biweekly", 24.470015278838808], ["triweekly", 56.89775910364146]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3136.1408199643492], ["weekly", 3018.764323911383], ["biweekly", 2937.3965495289026], ["triweekly", 2645.016339869281]],
+      "Daily Growth Rate": [["daily", 0.3448275862068966], ["weekly", 2.149228945526055], ["biweekly", 2.198504491403936], ["triweekly", 3.577158700996426]],
+      "Confirmed Cumulative Cases": [["daily", 1126.0], ["weekly", 1083.857142857143], ["biweekly", 1054.642857142857], ["triweekly", 949.6666666666666]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 8.857142857142858], ["biweekly", 8.785714285714286], ["triweekly", 20.428571428571427]],
+      "Confirmed Fatality Rate": [["daily", 0.011545293072824156], ["weekly", 0.010669517449263338], ["biweekly", 0.009511295570034531], ["triweekly", 0.010001936375898114]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01218369259606373], ["weekly", 0.01127543902536122], ["biweekly", 0.011505814252444782], ["triweekly", 0.010937362766499934]]
+    },
+    "lat": "REPLACE_MEWebster,Iowa"
+  }, {
+    "locale": "Webster,Iowa",
+    "long": "REPLACE_MEWebster,Iowa",
+    "date": "09/12/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.014984855095174332], ["weekly", 0.0076886510568403565], ["biweekly", 0.008619538027726557], ["triweekly", 0.023458950988871068]],
+      "Confirmed Daily Cases per 100k": [["daily", 47.348484848484844], ["weekly", 23.475299210593327], ["biweekly", 25.46473134708429], ["triweekly", 58.09141838553604]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3183.489304812834], ["weekly", 3042.2396231219755], ["biweekly", 2962.8612808759867], ["triweekly", 2703.1077582548164]],
+      "Daily Growth Rate": [["daily", 1.7], ["weekly", 1.888966219746088], ["biweekly", 2.2218640622539962], ["triweekly", 3.5816743003396114]],
+      "Confirmed Cumulative Cases": [["daily", 1143.0], ["weekly", 1092.2857142857142], ["biweekly", 1063.7857142857142], ["triweekly", 970.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 17.0], ["weekly", 8.428571428571429], ["biweekly", 9.142857142857142], ["triweekly", 20.857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.012248468941382326], ["weekly", 0.010846090981021725], ["biweekly", 0.009763385642084236], ["triweekly", 0.009998002380473351]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012987012987012988], ["weekly", 0.011441388812202274], ["biweekly", 0.01154551322525332], ["triweekly", 0.01107814716155608]]
     },
     "lat": "REPLACE_MEWebster,Iowa"
   }]

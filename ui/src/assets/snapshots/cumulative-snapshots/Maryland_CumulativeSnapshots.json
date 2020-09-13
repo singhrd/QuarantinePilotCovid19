@@ -3587,18 +3587,18 @@
     "epidemiccontrolThreshold": 30.25,
     "source": "NYGithub",
     "confirmedPer100kN": 1815.0082644628098,
-    "deaths": 3768,
+    "deaths": 3766,
     "confirmed": 109808,
     "recovered": 0,
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 1815.0082644628098,
     "locale": "Maryland",
-    "activePer100k": 1752.7272727272727,
+    "activePer100k": 1752.7603305785124,
     "long": "REPLACE_MEMaryland",
     "date": "09/02/2020",
-    "deathsPer100k": 62.28099173553719,
+    "deathsPer100k": 62.247933884297524,
     "lat": "REPLACE_MEMaryland",
-    "active": 106040
+    "active": 106042
   }, {
     "epidemiccontrolThreshold": 30.25,
     "source": "NYGithub",
@@ -3727,5 +3727,37 @@
     "deathsPer100k": 63.20661157024794,
     "lat": "REPLACE_MEMaryland",
     "active": 110750
+  }, {
+    "epidemiccontrolThreshold": 30.25,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1904.4132231404958,
+    "deaths": 3828,
+    "confirmed": 115217,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1904.4132231404958,
+    "locale": "Maryland",
+    "activePer100k": 1841.1404958677685,
+    "long": "REPLACE_MEMaryland",
+    "date": "09/11/2020",
+    "deathsPer100k": 63.27272727272727,
+    "lat": "REPLACE_MEMaryland",
+    "active": 111389
+  }, {
+    "epidemiccontrolThreshold": 30.25,
+    "source": "NYGithub",
+    "confirmedPer100kN": 1915.3057851239669,
+    "deaths": 3836,
+    "confirmed": 115876,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 1915.3057851239669,
+    "locale": "Maryland",
+    "activePer100k": 1851.900826446281,
+    "long": "REPLACE_MEMaryland",
+    "date": "09/12/2020",
+    "deathsPer100k": 63.40495867768595,
+    "lat": "REPLACE_MEMaryland",
+    "active": 112040
   }]
 }
