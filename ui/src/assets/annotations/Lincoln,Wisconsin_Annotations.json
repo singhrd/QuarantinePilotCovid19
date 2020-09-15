@@ -3524,5 +3524,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010752688172043012], ["weekly", 0.011820310794340353], ["biweekly", 0.012419519976710194], ["triweekly", 0.012837074952827337]]
     },
     "lat": "REPLACE_MELincoln,Wisconsin"
+  }, {
+    "locale": "Lincoln,Wisconsin",
+    "long": "REPLACE_MELincoln,Wisconsin",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.061154423153331194], ["weekly", 0.025275815451296806], ["biweekly", 0.021629353860577183], ["triweekly", 0.018668670846477324]],
+      "Confirmed Daily Cases per 100k": [["daily", 25.368752944587396], ["weekly", 9.319133734746389], ["biweekly", 7.507079952990147], ["triweekly", 6.212755823164258]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 427.64469249447325], ["weekly", 367.07032321862164], ["biweekly", 339.8895164922781], ["triweekly", 320.64723109553313]],
+      "Daily Growth Rate": [["daily", 1.4], ["weekly", 1.4857142857142858], ["biweekly", 1.156329175280124], ["triweekly", 0.9058067517740508]],
+      "Confirmed Cumulative Cases": [["daily", 118.0], ["weekly", 101.28571428571429], ["biweekly", 93.78571428571429], ["triweekly", 88.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 2.5714285714285716], ["biweekly", 2.0714285714285716], ["triweekly", 1.7142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.00847457627118644], ["weekly", 0.009905167067071657], ["biweekly", 0.01075970794647911], ["triweekly", 0.011458514475340662]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010638297872340425], ["weekly", 0.011614248825886565], ["biweekly", 0.012235188179475168], ["triweekly", 0.01269679200211575]]
+    },
+    "lat": "REPLACE_MELincoln,Wisconsin"
   }]
 }

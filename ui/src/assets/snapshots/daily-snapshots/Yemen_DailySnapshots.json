@@ -3759,5 +3759,37 @@
     "deathsPer100k": 0.0,
     "lat": "15.35",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 148.43607,
+    "source": "JHU",
+    "confirmedPer100kN": 0.004604407775930182,
+    "deaths": 1,
+    "confirmed": 2,
+    "recovered": 1,
+    "recoveredPer100k": 0.003368453503248907,
+    "confirmedPer100k": 0.006736907006497814,
+    "locale": "Yemen",
+    "activePer100k": 0.0,
+    "long": "44.2",
+    "date": "9/13/20",
+    "deathsPer100k": 0.003368453503248907,
+    "lat": "15.35",
+    "active": 0
+  }, {
+    "epidemiccontrolThreshold": 148.43607,
+    "source": "JHU",
+    "confirmedPer100kN": 0.004604407775930182,
+    "deaths": 0,
+    "confirmed": 2,
+    "recovered": 3,
+    "recoveredPer100k": 0.010105360509746721,
+    "confirmedPer100k": 0.006736907006497814,
+    "locale": "Yemen",
+    "activePer100k": -0.003368453503248907,
+    "long": "44.2",
+    "date": "9/14/20",
+    "deathsPer100k": 0.0,
+    "lat": "15.35",
+    "active": -1
   }]
 }

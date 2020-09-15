@@ -3524,5 +3524,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020161290322580645], ["weekly", 0.02130305762525946], ["biweekly", 0.02265672164722212], ["triweekly", 0.02438117111123317]]
     },
     "lat": "REPLACE_MEClay,Indiana"
+  }, {
+    "locale": "Clay,Indiana",
+    "long": "REPLACE_MEClay,Indiana",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003683245416296721], ["weekly", 0.012670010673531224], ["biweekly", 0.01360519778747582], ["triweekly", 0.015186432959129168]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.813155386081983], ["weekly", 12.528939125697944], ["biweekly", 12.801307367560943], ["triweekly", 13.436833265241276]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1037.1782650142993], ["weekly", 988.6967179626855], ["biweekly", 948.9309546506878], ["triweekly", 902.4467747060695]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.277777777777778], ["biweekly", 1.2043650793650793], ["triweekly", 1.1424880924378713]],
+      "Confirmed Cumulative Cases": [["daily", 272.0], ["weekly", 259.2857142857143], ["biweekly", 248.85714285714286], ["triweekly", 236.66666666666666]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.2857142857142856], ["biweekly", 3.357142857142857], ["triweekly", 3.5238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.01838235294117647], ["weekly", 0.019302840599977774], ["biweekly", 0.020148653523415192], ["triweekly", 0.021290217472554107]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.02099446644685261], ["biweekly", 0.022283905908842275], ["triweekly", 0.023880525572986207]]
+    },
+    "lat": "REPLACE_MEClay,Indiana"
   }]
 }

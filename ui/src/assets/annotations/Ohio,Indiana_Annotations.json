@@ -3524,5 +3524,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0945945945945946], ["weekly", 0.09552531984038834], ["biweekly", 0.09746084905500299], ["triweekly", 0.09938687230565516]]
     },
     "lat": "REPLACE_MEOhio,Indiana"
+  }, {
+    "locale": "Ohio,Indiana",
+    "long": "REPLACE_MEOhio,Indiana",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0019175743331628478], ["biweekly", 0.002915856751446772], ["triweekly", 0.0032853748327119413]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 2.43161094224924], ["biweekly", 3.6474164133738602], ["triweekly", 4.052684903748734]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1276.595744680851], ["weekly", 1264.4376899696051], ["biweekly", 1258.3586626139818], ["triweekly", 1240.1215805471122]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.14285714285714285], ["triweekly", 0.14285714285714285]],
+      "Confirmed Cumulative Cases": [["daily", 75.0], ["weekly", 74.28571428571429], ["biweekly", 73.92857142857143], ["triweekly", 72.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.21428571428571427], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.09333333333333334], ["weekly", 0.09423423423423426], ["biweekly", 0.09469208934962359], ["triweekly", 0.09612791052401312]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0945945945945946], ["weekly", 0.09514994446501297], ["biweekly", 0.0970747486689026], ["triweekly", 0.09868304347682631]]
+    },
+    "lat": "REPLACE_MEOhio,Indiana"
   }]
 }

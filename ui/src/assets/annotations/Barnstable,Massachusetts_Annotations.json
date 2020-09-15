@@ -3524,5 +3524,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.1019915509957755], ["weekly", 0.09604857660786856], ["biweekly", 0.09344296950965163], ["triweekly", 0.0926103495361102]]
     },
     "lat": "REPLACE_MEBarnstable,Massachusetts"
+  }, {
+    "locale": "Barnstable,Massachusetts",
+    "long": "REPLACE_MEBarnstable,Massachusetts",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0035735594908654633], ["weekly", 0.0016287519450665247], ["biweekly", -0.006784619759128204], ["triweekly", -0.00382029895805762]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.8170336635522792], ["weekly", 1.2743723716069835], ["biweekly", -5.600531212062269], ["triweekly", -3.1300374039469765]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 789.7084370158223], ["weekly", 781.9951305560957], ["biweekly", 798.8973325374097], ["triweekly", 818.7059978223884]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.1486343020742689], ["biweekly", 1.008594532296041], ["triweekly", 1.0675210714173153]],
+      "Confirmed Cumulative Cases": [["daily", 1682.0], ["weekly", 1665.5714285714287], ["biweekly", 1701.5714285714287], ["triweekly", 1743.7619047619048]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 2.7142857142857144], ["biweekly", -11.928571428571429], ["triweekly", -6.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.10047562425683709], ["weekly", 0.10138181248420965], ["biweekly", 0.098727841445064], ["triweekly", 0.09582597926138267]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.10174593618302227], ["weekly", 0.09751903847014388], ["biweekly", 0.09423814952099242], ["triweekly", 0.09313568472997714]]
+    },
+    "lat": "REPLACE_MEBarnstable,Massachusetts"
   }]
 }

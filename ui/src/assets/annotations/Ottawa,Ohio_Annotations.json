@@ -3524,5 +3524,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06578947368421052], ["weekly", 0.06645877127514968], ["biweekly", 0.06656245641917087], ["triweekly", 0.06689371496151215]]
     },
     "lat": "REPLACE_MEOttawa,Ohio"
+  }, {
+    "locale": "Ottawa,Ohio",
+    "long": "REPLACE_MEOttawa,Ohio",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.001557890497466019], ["biweekly", 0.002362792212613168], ["triweekly", 0.0028739766141068317]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.7625804177315592], ["biweekly", 2.6438706265973386], ["triweekly", 3.1726447519168053]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1137.569401603948], ["weekly", 1132.6341764343], ["biweekly", 1125.055080638054], ["triweekly", 1112.7757703945244]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6428571428571429], ["biweekly", 0.8247620781719122], ["triweekly", 1.0557937664003225]],
+      "Confirmed Cumulative Cases": [["daily", 461.0], ["weekly", 459.0], ["biweekly", 455.92857142857144], ["triweekly", 450.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.7142857142857143], ["biweekly", 1.0714285714285714], ["triweekly", 1.2857142857142858]],
+      "Confirmed Fatality Rate": [["daily", 0.0650759219088937], ["weekly", 0.06535974245969325], ["biweekly", 0.06517071764587053], ["triweekly", 0.0650416457334676]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.06550218340611354], ["weekly", 0.06624804265988955], ["biweekly", 0.06648882764677906], ["triweekly", 0.06678242700927146]]
+    },
+    "lat": "REPLACE_MEOttawa,Ohio"
   }]
 }

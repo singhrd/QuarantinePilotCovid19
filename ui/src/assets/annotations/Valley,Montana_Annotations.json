@@ -3524,5 +3524,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEValley,Montana"
+  }, {
+    "locale": "Valley,Montana",
+    "long": "REPLACE_MEValley,Montana",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.017353298472170677], ["triweekly", 0.01658603306039123]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 10.623503051842695], ["triweekly", 9.657730047129721]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 689.5619253650622], ["weekly", 689.5619253650622], ["biweekly", 656.725643204821], ["triweekly", 607.7931442993639]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.2279210029060967], ["triweekly", 0.17575685908025496]],
+      "Confirmed Cumulative Cases": [["daily", 51.0], ["weekly", 51.0], ["biweekly", 48.57142857142857], ["triweekly", 44.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.7857142857142857], ["triweekly", 0.7142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEValley,Montana"
   }]
 }

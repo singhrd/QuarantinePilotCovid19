@@ -3514,14 +3514,29 @@
     "long": "REPLACE_MEJohnson,Iowa",
     "date": "09/12/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.004814242683922387], ["weekly", 0.0107344948332064], ["biweekly", 0.023226013880011616], ["triweekly", 0.03326749635854812]],
-      "Confirmed Daily Cases per 100k": [["daily", 15.217678973137488], ["weekly", 32.60931208529461], ["biweekly", 62.52481143310837], ["triweekly", 75.48976981291392]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3168.5854174937144], ["weekly", 3062.439743662451], ["biweekly", 2870.942739938372], ["triweekly", 2541.0058161149855]],
-      "Daily Growth Rate": [["daily", 0.5227272727272727], ["weekly", 0.9585121110367731], ["biweekly", 0.9450704060187883], ["triweekly", 1.0643300329379932]],
-      "Confirmed Cumulative Cases": [["daily", 4789.0], ["weekly", 4628.571428571428], ["biweekly", 4339.142857142857], ["triweekly", 3840.4761904761904]],
-      "Confirmed Daily Cases": [["daily", 23.0], ["weekly", 49.285714285714285], ["biweekly", 94.5], ["triweekly", 114.0952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.005429108373355606], ["weekly", 0.005619423806698424], ["biweekly", 0.006032304667736456], ["triweekly", 0.006964568335059429]],
+      "Spread Rate": [["daily", 0.0050230327462745805], ["weekly", 0.0107344948332064], ["biweekly", 0.023226013880011616], ["triweekly", 0.03326749635854812]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.879317189360856], ["weekly", 32.60931208529461], ["biweekly", 62.52481143310837], ["triweekly", 75.48976981291392]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3169.2470557099377], ["weekly", 3062.439743662451], ["biweekly", 2870.942739938372], ["triweekly", 2541.0058161149855]],
+      "Daily Growth Rate": [["daily", 0.5454545454545454], ["weekly", 0.9585121110367731], ["biweekly", 0.9450704060187883], ["triweekly", 1.0643300329379932]],
+      "Confirmed Cumulative Cases": [["daily", 4790.0], ["weekly", 4628.571428571428], ["biweekly", 4339.142857142857], ["triweekly", 3840.4761904761904]],
+      "Confirmed Daily Cases": [["daily", 24.0], ["weekly", 49.285714285714285], ["biweekly", 94.5], ["triweekly", 114.0952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.005427974947807933], ["weekly", 0.005619423806698424], ["biweekly", 0.006032304667736456], ["triweekly", 0.006964568335059429]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005794517494985513], ["weekly", 0.006445185528774486], ["biweekly", 0.00785942364395168], ["triweekly", 0.008910333902061893]]
+    },
+    "lat": "REPLACE_MEJohnson,Iowa"
+  }, {
+    "locale": "Johnson,Iowa",
+    "long": "REPLACE_MEJohnson,Iowa",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004166672694845275], ["weekly", 0.009335154918425357], ["biweekly", 0.019532030858936622], ["triweekly", 0.03184814595876691]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.23276432446738], ["weekly", 28.6394827879544], ["biweekly", 54.1598139851415], ["triweekly", 73.59937490941857]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3182.479820034405], ["weekly", 3091.0792264504053], ["biweekly", 2925.102553923514], ["triweekly", 2614.605191024404]],
+      "Daily Growth Rate": [["daily", 0.8333333333333334], ["weekly", 0.9572024962817801], ["biweekly", 0.9199370572247252], ["triweekly", 1.0225074487425276]],
+      "Confirmed Cumulative Cases": [["daily", 4810.0], ["weekly", 4671.857142857143], ["biweekly", 4421.0], ["triweekly", 3951.714285714286]],
+      "Confirmed Daily Cases": [["daily", 20.0], ["weekly", 43.285714285714285], ["biweekly", 81.85714285714286], ["triweekly", 111.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.005405405405405406], ["weekly", 0.0055670605856730565], ["biweekly", 0.005910373130763978], ["triweekly", 0.006757331375419592]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005706760316066725], ["weekly", 0.006253685675854899], ["biweekly", 0.007516535820360294], ["triweekly", 0.008662497429931876]]
     },
     "lat": "REPLACE_MEJohnson,Iowa"
   }]

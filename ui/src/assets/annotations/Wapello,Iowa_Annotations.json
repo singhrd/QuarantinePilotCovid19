@@ -3514,14 +3514,29 @@
     "long": "REPLACE_MEWapello,Iowa",
     "date": "09/12/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.007623925110658902], ["weekly", 0.007353189912767328], ["biweekly", 0.0069477055112013375], ["triweekly", 0.008150456863265902]],
-      "Confirmed Daily Cases per 100k": [["daily", 25.73708141496754], ["weekly", 24.102981007668014], ["biweekly", 22.26461804945605], ["triweekly", 25.192381279201033]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3388.7157196373932], ["weekly", 3277.1883668392006], ["biweekly", 3200.589910247035], ["triweekly", 3116.910351889905]],
-      "Daily Growth Rate": [["daily", 0.6428571428571429], ["weekly", 1.023233473990892], ["biweekly", 1.2265672626602575], ["triweekly", 1.1959668509812285]],
-      "Confirmed Cumulative Cases": [["daily", 1185.0], ["weekly", 1146.0], ["biweekly", 1119.2142857142858], ["triweekly", 1089.952380952381]],
-      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 8.428571428571429], ["biweekly", 7.785714285714286], ["triweekly", 8.80952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.04725738396624472], ["weekly", 0.04799309364280363], ["biweekly", 0.04720359877131532], ["triweekly", 0.046188966680354535]],
+      "Spread Rate": [["daily", 0.0067796869853786745], ["weekly", 0.007353189912767328], ["biweekly", 0.0069477055112013375], ["triweekly", 0.008150456863265902]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.87740570219337], ["weekly", 24.102981007668014], ["biweekly", 22.26461804945605], ["triweekly", 25.192381279201033]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3385.856043924619], ["weekly", 3277.1883668392006], ["biweekly", 3200.589910247035], ["triweekly", 3116.910351889905]],
+      "Daily Growth Rate": [["daily", 0.5714285714285714], ["weekly", 1.023233473990892], ["biweekly", 1.2265672626602575], ["triweekly", 1.1959668509812285]],
+      "Confirmed Cumulative Cases": [["daily", 1184.0], ["weekly", 1146.0], ["biweekly", 1119.2142857142858], ["triweekly", 1089.952380952381]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 8.428571428571429], ["biweekly", 7.785714285714286], ["triweekly", 8.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.0472972972972973], ["weekly", 0.04799309364280363], ["biweekly", 0.04720359877131532], ["triweekly", 0.046188966680354535]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0498220640569395], ["weekly", 0.05034553168925262], ["biweekly", 0.04975363118501376], ["triweekly", 0.04886393173631439]]
+    },
+    "lat": "REPLACE_MEWapello,Iowa"
+  }, {
+    "locale": "Wapello,Iowa",
+    "long": "REPLACE_MEWapello,Iowa",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007572606653964975], ["weekly", 0.007429254998616385], ["biweekly", 0.007164696071157296], ["triweekly", 0.008042787450562574]],
+      "Confirmed Daily Cases per 100k": [["daily", 25.73708141496754], ["weekly", 24.511506109492895], ["biweekly", 23.08166825310581], ["triweekly", 25.056206245259403]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3411.5931253395865], ["weekly", 3301.6998729486936], ["biweekly", 3223.6715785001406], ["triweekly", 3141.9665581351646]],
+      "Daily Growth Rate": [["daily", 1.125], ["weekly", 1.021532793718783], ["biweekly", 1.2469754259255639], ["triweekly", 1.1755586877159225]],
+      "Confirmed Cumulative Cases": [["daily", 1193.0], ["weekly", 1154.5714285714287], ["biweekly", 1127.2857142857142], ["triweekly", 1098.7142857142858]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 8.571428571428571], ["biweekly", 8.071428571428571], ["triweekly", 8.761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.04694048616932104], ["weekly", 0.0478866068815126], ["biweekly", 0.04731400329348454], ["triweekly", 0.04639359988498774]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04964539007092199], ["weekly", 0.05026008825921157], ["biweekly", 0.04981235004622372], ["triweekly", 0.049074194453764076]]
     },
     "lat": "REPLACE_MEWapello,Iowa"
   }]

@@ -3524,5 +3524,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00980392156862745], ["weekly", 0.00994540664836506], ["biweekly", 0.010074744140509058], ["triweekly", 0.01014290347547668]]
     },
     "lat": "REPLACE_MECortland,New York"
+  }, {
+    "locale": "Cortland,New York",
+    "long": "REPLACE_MECortland,New York",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.07290677080808727], ["weekly", 0.02202152568960842], ["biweekly", 0.013868286745782665], ["triweekly", 0.009245524497188443]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.915113175427166], ["weekly", 5.1040781584486], ["biweekly", 3.1525188625711946], ["triweekly", 2.1016792417141295]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 269.01494293940857], ["weekly", 223.37847940504463], ["biweekly", 217.97416135492253], ["triweekly", 213.9709627992766]],
+      "Daily Growth Rate": [["daily", 0.9], ["weekly", 1.0], ["biweekly", 0.7142857142857143], ["triweekly", 0.47619047619047616]],
+      "Confirmed Cumulative Cases": [["daily", 128.0], ["weekly", 106.28571428571429], ["biweekly", 103.71428571428571], ["triweekly", 101.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 2.4285714285714284], ["biweekly", 1.5], ["triweekly", 1.0]],
+      "Confirmed Fatality Rate": [["daily", 0.0078125], ["weekly", 0.00943257276326266], ["biweekly", 0.009660406844097743], ["triweekly", 0.00984163177361618]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009708737864077669], ["weekly", 0.00988824092493283], ["biweekly", 0.010046161278792943], ["triweekly", 0.010118838866815347]]
+    },
+    "lat": "REPLACE_MECortland,New York"
   }]
 }

@@ -3524,5 +3524,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MEPlumas,California"
+  }, {
+    "locale": "Plumas,California",
+    "long": "REPLACE_MEPlumas,California",
+    "date": "09/13/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.005293426582408722], ["triweekly", 0.0073405085632027856]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 1.1393933869607822], ["triweekly", 1.5191911826143762]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 223.3211038443133], ["weekly", 223.32110384431328], ["biweekly", 216.48474352254857], ["triweekly", 211.92716997470546]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.09301344401169086]],
+      "Confirmed Cumulative Cases": [["daily", 42.0], ["weekly", 42.0], ["biweekly", 40.714285714285715], ["triweekly", 39.857142857142854]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.21428571428571427], ["triweekly", 0.2857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEPlumas,California"
   }]
 }
