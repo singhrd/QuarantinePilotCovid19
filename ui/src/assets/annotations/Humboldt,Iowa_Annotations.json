@@ -3554,5 +3554,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012903225806451613], ["weekly", 0.013060244934522661], ["biweekly", 0.014542823692067669], ["triweekly", 0.016001576489099726]]
     },
     "lat": "REPLACE_MEHumboldt,Iowa"
+  }, {
+    "locale": "Humboldt,Iowa",
+    "long": "REPLACE_MEHumboldt,Iowa",
+    "date": "09/15/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006042314455963371], ["weekly", 0.00893147956876193], ["biweekly", 0.005393396607724643], ["triweekly", 0.02384644228154707]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.462439840970914], ["weekly", 14.94634262995845], ["biweekly", 8.967805577975069], ["triweekly", 32.38374236490996]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1736.7650136011719], ["weekly", 1690.4313514483003], ["biweekly", 1647.8342749529195], ["triweekly", 1579.3302045656098]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.9523809523809524], ["biweekly", 0.6190476190476192], ["triweekly", 2.8343031996500363]],
+      "Confirmed Cumulative Cases": [["daily", 166.0], ["weekly", 161.57142857142858], ["biweekly", 157.5], ["triweekly", 150.95238095238096]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.4285714285714286], ["biweekly", 0.8571428571428571], ["triweekly", 3.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.012048192771084338], ["weekly", 0.012383213655859883], ["biweekly", 0.012709681465306632], ["triweekly", 0.013485012051734205]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01282051282051282], ["weekly", 0.013036149274753378], ["biweekly", 0.01403591124967136], ["triweekly", 0.01591054844108243]]
+    },
+    "lat": "REPLACE_MEHumboldt,Iowa"
   }]
 }

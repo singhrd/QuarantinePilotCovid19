@@ -3554,5 +3554,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01092896174863388], ["weekly", 0.011067942504265574], ["biweekly", 0.01125974365604053], ["triweekly", 0.011554107695997186]]
     },
     "lat": "REPLACE_MECayuga,New York"
+  }, {
+    "locale": "Cayuga,New York",
+    "long": "REPLACE_MECayuga,New York",
+    "date": "09/15/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005249355886143725], ["weekly", 0.005362559902723544], ["biweekly", 0.004660037276314366], ["triweekly", 0.006144298083034796]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.3058921855411618], ["weekly", 1.3058921855411616], ["biweekly", 1.1193361590352817], ["triweekly", 1.430262869878415]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 249.4254074383619], ["weekly", 243.6421706166796], ["biweekly", 240.28416213957377], ["triweekly", 236.92615366246787]],
+      "Daily Growth Rate": [["daily", 0.5773502691896257], ["weekly", 0.6799887214135534], ["biweekly", 0.6762162736486729], ["triweekly", 0.7264588707144359]],
+      "Confirmed Cumulative Cases": [["daily", 191.0], ["weekly", 186.57142857142858], ["biweekly", 184.0], ["triweekly", 181.42857142857142]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.0], ["biweekly", 0.8571428571428571], ["triweekly", 1.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.010471204188481676], ["weekly", 0.010721402342078074], ["biweekly", 0.010872744329775688], ["triweekly", 0.011030435305883627]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010869565217391304], ["weekly", 0.011024086317473304], ["biweekly", 0.011184951787786406], ["triweekly", 0.01149381435301692]]
+    },
+    "lat": "REPLACE_MECayuga,New York"
   }]
 }
