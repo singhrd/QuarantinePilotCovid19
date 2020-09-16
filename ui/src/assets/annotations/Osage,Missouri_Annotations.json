@@ -3539,5 +3539,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010869565217391304], ["weekly", 0.011875320125756551], ["biweekly", 0.012783499008438835], ["triweekly", 0.013626032265521837]]
     },
     "lat": "REPLACE_MEOsage,Missouri"
+  }, {
+    "locale": "Osage,Missouri",
+    "long": "REPLACE_MEOsage,Missouri",
+    "date": "09/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018182319083190457], ["weekly", 0.024222757882871853], ["biweekly", 0.023902789681396554], ["triweekly", 0.0210882209609421]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.689680499449137], ["weekly", 17.837469177902527], ["biweekly", 16.26357483867583], ["triweekly", 13.640417606631342]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 815.2772677194272], ["weekly", 728.1884476155501], ["biweekly", 681.4962488851581], ["triweekly", 636.2030673451898]],
+      "Daily Growth Rate": [["daily", 0.4], ["weekly", 1.1129992069622578], ["biweekly", 1.1148207878331093], ["triweekly", 0.9821874489066296]],
+      "Confirmed Cumulative Cases": [["daily", 111.0], ["weekly", 99.14285714285714], ["biweekly", 92.78571428571429], ["triweekly", 86.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.4285714285714284], ["biweekly", 2.2142857142857144], ["triweekly", 1.8571428571428572]],
+      "Confirmed Fatality Rate": [["daily", 0.009009009009009009], ["weekly", 0.010114195636437204], ["biweekly", 0.010855404480873911], ["triweekly", 0.011731057452613386]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010752688172043012], ["weekly", 0.011596613325310617], ["biweekly", 0.012539488360701479], ["triweekly", 0.013375581454061208]]
+    },
+    "lat": "REPLACE_MEOsage,Missouri"
   }]
 }

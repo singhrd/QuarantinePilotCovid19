@@ -3539,5 +3539,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018149402745587448], ["weekly", 0.01823464076353943], ["biweekly", 0.01834612111404155], ["triweekly", 0.018372771877619737]]
     },
     "lat": "REPLACE_MEOregon"
+  }, {
+    "locale": "Oregon",
+    "long": "REPLACE_MEOregon",
+    "date": "09/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005133882929220235], ["weekly", 0.006434165005421123], ["biweekly", 0.007119223037466911], ["triweekly", 0.007736036829707312]],
+      "Confirmed Daily Cases per 100k": [["daily", 3.578199052132702], ["weekly", 4.373730534867976], ["biweekly", 4.710561949898444], ["triweekly", 4.963890769577973]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 698.7677725118484], ["weekly", 680.6431956668924], ["biweekly", 664.676709546378], ["triweekly", 647.1891220943355]],
+      "Daily Growth Rate": [["daily", 0.8342541436464088], ["weekly", 1.0381164801674048], ["biweekly", 1.0468600293371952], ["triweekly", 1.047408416617608]],
+      "Confirmed Cumulative Cases": [["daily", 29488.0], ["weekly", 28723.14285714286], ["biweekly", 28049.35714285714], ["triweekly", 27311.380952380954]],
+      "Confirmed Daily Cases": [["daily", 151.0], ["weekly", 184.57142857142858], ["biweekly", 198.78571428571428], ["triweekly", 209.47619047619048]],
+      "Confirmed Fatality Rate": [["daily", 0.0173290830168204], ["weekly", 0.01737290884783988], ["biweekly", 0.017370409459761108], ["triweekly", 0.017348574149177495]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018126352381965874], ["weekly", 0.01822893401237108], ["biweekly", 0.018316361039540957], ["triweekly", 0.01837316370133357]]
+    },
+    "lat": "REPLACE_MEOregon"
   }]
 }

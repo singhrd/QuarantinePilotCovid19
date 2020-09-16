@@ -3539,5 +3539,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.012786554657152976], ["biweekly", 0.013072997131470266], ["triweekly", 0.012750155078906842]]
     },
     "lat": "REPLACE_MEYork,Virginia"
+  }, {
+    "locale": "York,Virginia",
+    "long": "REPLACE_MEYork,Virginia",
+    "date": "09/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0019743343037177397], ["weekly", 0.0057611493409960145], ["biweekly", 0.007745676517579815], ["triweekly", 0.008083459812325758]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.4645577035735209], ["weekly", 4.184450581638631], ["biweekly", 5.43978575613022], ["triweekly", 5.509526599157531]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 742.5307557117751], ["weekly", 727.0482885597121], ["biweekly", 710.6243200267807], ["triweekly", 689.5974558540466]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 0.7447827291086038], ["biweekly", 1.2788539495883156], ["triweekly", 1.2634536534670404]],
+      "Confirmed Cumulative Cases": [["daily", 507.0], ["weekly", 496.42857142857144], ["biweekly", 485.2142857142857], ["triweekly", 470.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.857142857142857], ["biweekly", 3.7142857142857144], ["triweekly", 3.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.011834319526627219], ["weekly", 0.012088047431183508], ["biweekly", 0.012375145328561718], ["triweekly", 0.012020824441176605]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012295081967213115], ["weekly", 0.012662243225939932], ["biweekly", 0.01311843121281379], ["triweekly", 0.012751603082544225]]
+    },
+    "lat": "REPLACE_MEYork,Virginia"
   }]
 }

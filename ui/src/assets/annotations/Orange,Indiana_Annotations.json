@@ -3539,5 +3539,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09923664122137404], ["weekly", 0.10515989384472682], ["biweekly", 0.1104618741543305], ["triweekly", 0.1172173290491279]]
     },
     "lat": "REPLACE_MEOrange,Indiana"
+  }, {
+    "locale": "Orange,Indiana",
+    "long": "REPLACE_MEOrange,Indiana",
+    "date": "09/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003603607503298356], ["weekly", 0.007953286060891709], ["biweekly", 0.010539568161130537], ["triweekly", 0.012959970129108185]],
+      "Confirmed Daily Cases per 100k": [["daily", 5.0900946757609695], ["weekly", 10.907345733773507], ["biweekly", 13.815971262779774], ["triweekly", 15.997440409534477]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1415.0463198615494], ["weekly", 1357.6009656636757], ["biweekly", 1316.8802082575878], ["triweekly", 1266.4640324214795]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 0.7562429322834429], ["biweekly", 0.770139009803917], ["triweekly", 1.111838704948643]],
+      "Confirmed Cumulative Cases": [["daily", 278.0], ["weekly", 266.7142857142857], ["biweekly", 258.7142857142857], ["triweekly", 248.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.142857142857143], ["biweekly", 2.7142857142857144], ["triweekly", 3.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.09352517985611511], ["weekly", 0.09752284632128759], ["biweekly", 0.100659229393201], ["triweekly", 0.10500666927694514]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.09923664122137404], ["weekly", 0.10379561246511439], ["biweekly", 0.10874858075477391], ["triweekly", 0.11549447069459017]]
+    },
+    "lat": "REPLACE_MEOrange,Indiana"
   }]
 }

@@ -3539,5 +3539,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03958529688972667], ["weekly", 0.039426915754642335], ["biweekly", 0.04004692416306356], ["triweekly", 0.040501477319981126]]
     },
     "lat": "REPLACE_MEChambers,Alabama"
+  }, {
+    "locale": "Chambers,Alabama",
+    "long": "REPLACE_MEChambers,Alabama",
+    "date": "09/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002738477293303454], ["weekly", 0.004375549195420524], ["biweekly", 0.004514198075240624], ["triweekly", 0.0063213430957650574]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.021471101220905], ["weekly", 14.176597444775709], ["biweekly", 14.391394375757159], ["triweekly", 19.47492174231815]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3298.8512660131114], ["weekly", 3242.1448762340083], ["biweekly", 3197.467114589867], ["triweekly", 3134.889608697271]],
+      "Daily Growth Rate": [["daily", 0.7071067811865476], ["weekly", 1.3571428571428572], ["biweekly", 1.6148809523809524], ["triweekly", 2.1605572998430143]],
+      "Confirmed Cumulative Cases": [["daily", 1097.0], ["weekly", 1078.142857142857], ["biweekly", 1063.2857142857142], ["triweekly", 1042.4761904761904]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 4.714285714285714], ["biweekly", 4.785714285714286], ["triweekly", 6.476190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.03828623518687329], ["weekly", 0.03829482783366278], ["biweekly", 0.03842764106531803], ["triweekly", 0.038704595287351096]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03951081843838194], ["weekly", 0.03937880056556865], ["biweekly", 0.039892041551995716], ["triweekly", 0.04043447008809006]]
+    },
+    "lat": "REPLACE_MEChambers,Alabama"
   }]
 }

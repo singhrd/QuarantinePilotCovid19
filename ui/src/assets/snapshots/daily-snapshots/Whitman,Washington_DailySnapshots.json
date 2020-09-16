@@ -2946,17 +2946,17 @@
   }, {
     "epidemiccontrolThreshold": 0.25052,
     "source": "NYGithub",
-    "confirmedPer100kN": 1.9958486348395337,
-    "deaths": 1,
-    "confirmed": 1,
+    "confirmedPer100kN": 0.0,
+    "deaths": 0,
+    "confirmed": 0,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 1.9958486348395337,
+    "confirmedPer100k": 0.0,
     "locale": "Whitman,Washington",
     "activePer100k": 0.0,
     "long": "REPLACE_MEWhitman,Washington",
     "date": "07/24/2020",
-    "deathsPer100k": 1.9958486348395337,
+    "deathsPer100k": 0.0,
     "lat": "REPLACE_MEWhitman,Washington",
     "active": 0
   }, {
@@ -3775,5 +3775,21 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEWhitman,Washington",
     "active": 7
+  }, {
+    "epidemiccontrolThreshold": 0.25052,
+    "source": "NYGithub",
+    "confirmedPer100kN": 77.83809675874181,
+    "deaths": 0,
+    "confirmed": 39,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 77.83809675874181,
+    "locale": "Whitman,Washington",
+    "activePer100k": 77.83809675874181,
+    "long": "REPLACE_MEWhitman,Washington",
+    "date": "09/14/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEWhitman,Washington",
+    "active": 39
   }]
 }

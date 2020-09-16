@@ -3539,5 +3539,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.027646502835538753], ["weekly", 0.028796651902452793], ["biweekly", 0.030251222412834653], ["triweekly", 0.031860211699502865]]
     },
     "lat": "REPLACE_MEHamilton,Indiana"
+  }, {
+    "locale": "Hamilton,Indiana",
+    "long": "REPLACE_MEHamilton,Indiana",
+    "date": "09/14/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004827746923357523], ["weekly", 0.010224718696336106], ["biweekly", 0.011259976762915791], ["triweekly", 0.01308165455742212]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.508663919221563], ["weekly", 13.270912146984227], ["biweekly", 14.01053304689577], ["triweekly", 15.38411471816006]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1351.4353083183682], ["weekly", 1291.547147451245], ["biweekly", 1250.086113004775], ["triweekly", 1200.637172839261]],
+      "Daily Growth Rate": [["daily", 0.24719101123595505], ["weekly", 1.2509364309890973], ["biweekly", 1.1560653994288683], ["triweekly", 1.2392428729023242]],
+      "Confirmed Cumulative Cases": [["daily", 4568.0], ["weekly", 4365.571428571428], ["biweekly", 4225.428571428572], ["triweekly", 4058.285714285714]],
+      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 44.857142857142854], ["biweekly", 47.357142857142854], ["triweekly", 52.0]],
+      "Confirmed Fatality Rate": [["daily", 0.025612959719789843], ["weekly", 0.026648758259299393], ["biweekly", 0.02752966174464286], ["triweekly", 0.028718483588177707]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.027503526093088856], ["weekly", 0.028478465320296027], ["biweekly", 0.029827097605033156], ["triweekly", 0.03145192743257876]]
+    },
+    "lat": "REPLACE_MEHamilton,Indiana"
   }]
 }

@@ -3730,19 +3730,19 @@
   }, {
     "epidemiccontrolThreshold": 145.0,
     "source": "NYGithub",
-    "confirmedPer100kN": 2356.503448275862,
+    "confirmedPer100kN": 2356.189655172414,
     "deaths": 14279,
-    "confirmed": 683386,
+    "confirmed": 683295,
     "recovered": 0,
     "recoveredPer100k": 0.0,
-    "confirmedPer100k": 2356.503448275862,
+    "confirmedPer100k": 2356.189655172414,
     "locale": "Texas",
-    "activePer100k": 2307.2655172413793,
+    "activePer100k": 2306.9517241379313,
     "long": "REPLACE_METexas",
     "date": "09/11/2020",
     "deathsPer100k": 49.237931034482756,
     "lat": "REPLACE_METexas",
-    "active": 669107
+    "active": 669016
   }, {
     "epidemiccontrolThreshold": 145.0,
     "source": "NYGithub",
@@ -3775,5 +3775,21 @@
     "deathsPer100k": 49.855172413793106,
     "lat": "REPLACE_METexas",
     "active": 675483
+  }, {
+    "epidemiccontrolThreshold": 145.0,
+    "source": "NYGithub",
+    "confirmedPer100kN": 2394.9896551724137,
+    "deaths": 14508,
+    "confirmed": 694547,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 2394.9896551724137,
+    "locale": "Texas",
+    "activePer100k": 2344.962068965517,
+    "long": "REPLACE_METexas",
+    "date": "09/14/2020",
+    "deathsPer100k": 50.02758620689655,
+    "lat": "REPLACE_METexas",
+    "active": 680039
   }]
 }
