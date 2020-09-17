@@ -3569,5 +3569,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005660377358490566], ["weekly", 0.0065885466083574805], ["biweekly", 0.008657965321914998], ["triweekly", 0.006227661547487647]]
     },
     "lat": "REPLACE_MEHawaii,Hawaii"
+  }, {
+    "locale": "Hawaii,Hawaii",
+    "long": "REPLACE_MEHawaii,Hawaii",
+    "date": "09/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006578971098043063], ["weekly", 0.019143282789020968], ["biweekly", 0.03277464263490489], ["triweekly", 0.048250116176997725]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.9849835990730125], ["weekly", 5.387812626055321], ["biweekly", 7.904488260594317], ["triweekly", 9.121472252883128]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 302.70999885863444], ["weekly", 286.1920996234911], ["biweekly", 262.4786348417082], ["triweekly", 226.50080710850978]],
+      "Daily Growth Rate": [["daily", 0.8], ["weekly", 1.0501962323390894], ["biweekly", 1.068193873058977], ["triweekly", 1.144146868767083]],
+      "Confirmed Cumulative Cases": [["daily", 610.0], ["weekly", 576.7142857142857], ["biweekly", 528.9285714285714], ["triweekly", 456.42857142857144]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 10.857142857142858], ["biweekly", 15.928571428571429], ["triweekly", 18.38095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.004918032786885246], ["weekly", 0.0052109205179828215], ["biweekly", 0.005744553505039209], ["triweekly", 0.0044643406065418174]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005555555555555556], ["weekly", 0.006278186492095594], ["biweekly", 0.008088252016352637], ["triweekly", 0.0064972033264633884]]
+    },
+    "lat": "REPLACE_MEHawaii,Hawaii"
   }]
 }

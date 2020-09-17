@@ -3569,5 +3569,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02608695652173913], ["weekly", 0.026327006392746512], ["biweekly", 0.022285772698513374], ["triweekly", 0.02347987362451704]]
     },
     "lat": "REPLACE_MEHouston,Texas"
+  }, {
+    "locale": "Houston,Texas",
+    "long": "REPLACE_MEHouston,Texas",
+    "date": "09/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.019635974516859278], ["weekly", 0.0032748057002766223], ["biweekly", 0.002470398546412828], ["triweekly", -0.018992055038305408]],
+      "Confirmed Daily Cases per 100k": [["daily", 30.477185649599445], ["weekly", 4.975867044832562], ["biweekly", 3.731900283624421], ["triweekly", -35.86770828150137]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1567.3981191222572], ["weekly", 1528.8351495248048], ["biweekly", 1509.8646564163807], ["triweekly", 1701.9538571262708]],
+      "Daily Growth Rate": [["daily", 2.6457513110645907], ["weekly", 0.9163162231961566], ["biweekly", 0.7081581115980783], ["triweekly", 0.7367939297070064]],
+      "Confirmed Cumulative Cases": [["daily", 360.0], ["weekly", 351.14285714285717], ["biweekly", 346.7857142857143], ["triweekly", 390.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 1.1428571428571428], ["biweekly", 0.8571428571428571], ["triweekly", -8.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.025], ["weekly", 0.025631095106965058], ["biweekly", 0.02595719322449195], ["triweekly", 0.023560146504380302]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.025787965616045846], ["weekly", 0.026283291342018837], ["biweekly", 0.022926964867230757], ["triweekly", 0.023542690513286273]]
+    },
+    "lat": "REPLACE_MEHouston,Texas"
   }]
 }

@@ -3569,5 +3569,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02019446522064323], ["weekly", 0.020492789827356268], ["biweekly", 0.020805583139453486], ["triweekly", 0.021028048832321358]]
     },
     "lat": "REPLACE_MEBranch,Michigan"
+  }, {
+    "locale": "Branch,Michigan",
+    "long": "REPLACE_MEBranch,Michigan",
+    "date": "09/16/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0007301935337222787], ["weekly", 0.0033788925980721934], ["biweekly", 0.00336510824657659], ["triweekly", 0.005370175695298872]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.297952524300848], ["weekly", 10.504925825375304], ["biweekly", 10.340786359353814], ["triweekly", 15.976241359424941]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3148.1949582921616], ["weekly", 3111.099438971305], ["biweekly", 3074.496338048513], ["triweekly", 3027.8260165430697]],
+      "Daily Growth Rate": [["daily", 0.16666666666666666], ["weekly", 0.9861400105857691], ["biweekly", 0.8269477241211768], ["triweekly", 1.3249350080646487]],
+      "Confirmed Cumulative Cases": [["daily", 1370.0], ["weekly", 1353.857142857143], ["biweekly", 1337.9285714285713], ["triweekly", 1317.6190476190477]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 4.571428571428571], ["biweekly", 4.5], ["triweekly", 6.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.01970802919708029], ["weekly", 0.019944398376170243], ["biweekly", 0.02012995391802452], ["triweekly", 0.020208844468369132]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02019446522064323], ["weekly", 0.02042431154887891], ["biweekly", 0.02072953074866074], ["triweekly", 0.020959660717085365]]
+    },
+    "lat": "REPLACE_MEBranch,Michigan"
   }]
 }
