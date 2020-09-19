@@ -3823,5 +3823,37 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEKalamazoo,Michigan",
     "active": 59
+  }, {
+    "epidemiccontrolThreshold": 1.32533,
+    "source": "NYGithub",
+    "confirmedPer100kN": 23.390400881289946,
+    "deaths": 1,
+    "confirmed": 62,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 23.390400881289946,
+    "locale": "Kalamazoo,Michigan",
+    "activePer100k": 23.01313635094656,
+    "long": "REPLACE_MEKalamazoo,Michigan",
+    "date": "09/17/2020",
+    "deathsPer100k": 0.3772645303433862,
+    "lat": "REPLACE_MEKalamazoo,Michigan",
+    "active": 61
+  }, {
+    "epidemiccontrolThreshold": 1.32533,
+    "source": "NYGithub",
+    "confirmedPer100kN": 23.01313635094656,
+    "deaths": -1,
+    "confirmed": 61,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 23.01313635094656,
+    "locale": "Kalamazoo,Michigan",
+    "activePer100k": 23.390400881289946,
+    "long": "REPLACE_MEKalamazoo,Michigan",
+    "date": "09/18/2020",
+    "deathsPer100k": -0.3772645303433862,
+    "lat": "REPLACE_MEKalamazoo,Michigan",
+    "active": 62
   }]
 }

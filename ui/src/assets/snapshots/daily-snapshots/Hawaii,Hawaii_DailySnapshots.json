@@ -3823,5 +3823,37 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEHawaii,Hawaii",
     "active": 4
+  }, {
+    "epidemiccontrolThreshold": 1.007565,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.924917995365062,
+    "deaths": 0,
+    "confirmed": 20,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.924917995365062,
+    "locale": "Hawaii,Hawaii",
+    "activePer100k": 9.924917995365062,
+    "long": "REPLACE_MEHawaii,Hawaii",
+    "date": "09/17/2020",
+    "deathsPer100k": 0.0,
+    "lat": "REPLACE_MEHawaii,Hawaii",
+    "active": 20
+  }, {
+    "epidemiccontrolThreshold": 1.007565,
+    "source": "NYGithub",
+    "confirmedPer100kN": 4.962458997682531,
+    "deaths": 12,
+    "confirmed": 10,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 4.962458997682531,
+    "locale": "Hawaii,Hawaii",
+    "activePer100k": -0.9924917995365062,
+    "long": "REPLACE_MEHawaii,Hawaii",
+    "date": "09/18/2020",
+    "deathsPer100k": 5.954950797219038,
+    "lat": "REPLACE_MEHawaii,Hawaii",
+    "active": -2
   }]
 }

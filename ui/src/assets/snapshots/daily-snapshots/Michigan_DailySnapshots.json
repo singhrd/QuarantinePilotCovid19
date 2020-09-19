@@ -3823,5 +3823,37 @@
     "deathsPer100k": 0.1101101101101101,
     "lat": "REPLACE_MEMichigan",
     "active": 793
+  }, {
+    "epidemiccontrolThreshold": 49.95,
+    "source": "NYGithub",
+    "confirmedPer100kN": 10.13013013013013,
+    "deaths": 12,
+    "confirmed": 1012,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 10.13013013013013,
+    "locale": "Michigan",
+    "activePer100k": 10.01001001001001,
+    "long": "REPLACE_MEMichigan",
+    "date": "09/17/2020",
+    "deathsPer100k": 0.12012012012012012,
+    "lat": "REPLACE_MEMichigan",
+    "active": 1000
+  }, {
+    "epidemiccontrolThreshold": 49.95,
+    "source": "NYGithub",
+    "confirmedPer100kN": 7.647647647647648,
+    "deaths": -1,
+    "confirmed": 764,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 7.647647647647648,
+    "locale": "Michigan",
+    "activePer100k": 7.657657657657658,
+    "long": "REPLACE_MEMichigan",
+    "date": "09/18/2020",
+    "deathsPer100k": -0.01001001001001001,
+    "lat": "REPLACE_MEMichigan",
+    "active": 765
   }]
 }

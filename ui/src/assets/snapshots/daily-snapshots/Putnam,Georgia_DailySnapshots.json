@@ -3823,5 +3823,37 @@
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEPutnam,Georgia",
     "active": 2
+  }, {
+    "epidemiccontrolThreshold": 0.110595,
+    "source": "NYGithub",
+    "confirmedPer100kN": 9.04200009042,
+    "deaths": 1,
+    "confirmed": 2,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 9.04200009042,
+    "locale": "Putnam,Georgia",
+    "activePer100k": 4.52100004521,
+    "long": "REPLACE_MEPutnam,Georgia",
+    "date": "09/17/2020",
+    "deathsPer100k": 4.52100004521,
+    "lat": "REPLACE_MEPutnam,Georgia",
+    "active": 1
+  }, {
+    "epidemiccontrolThreshold": 0.110595,
+    "source": "NYGithub",
+    "confirmedPer100kN": 40.68900040689,
+    "deaths": -1,
+    "confirmed": 9,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 40.68900040689,
+    "locale": "Putnam,Georgia",
+    "activePer100k": 45.210000452100005,
+    "long": "REPLACE_MEPutnam,Georgia",
+    "date": "09/18/2020",
+    "deathsPer100k": -4.52100004521,
+    "lat": "REPLACE_MEPutnam,Georgia",
+    "active": 10
   }]
 }
