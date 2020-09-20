@@ -3843,17 +3843,33 @@
     "epidemiccontrolThreshold": 4.23003,
     "source": "NYGithub",
     "confirmedPer100kN": 11.111032309463527,
-    "deaths": 0,
+    "deaths": 1,
     "confirmed": 94,
     "recovered": 0,
     "recoveredPer100k": 0.0,
     "confirmedPer100k": 11.111032309463527,
     "locale": "Ventura,California",
-    "activePer100k": 11.111032309463527,
+    "activePer100k": 10.992829838086255,
     "long": "REPLACE_MEVentura,California",
     "date": "09/18/2020",
+    "deathsPer100k": 0.11820247137727155,
+    "lat": "REPLACE_MEVentura,California",
+    "active": 93
+  }, {
+    "epidemiccontrolThreshold": 4.23003,
+    "source": "NYGithub",
+    "confirmedPer100kN": 8.155970525031737,
+    "deaths": 0,
+    "confirmed": 69,
+    "recovered": 0,
+    "recoveredPer100k": 0.0,
+    "confirmedPer100k": 8.155970525031737,
+    "locale": "Ventura,California",
+    "activePer100k": 8.155970525031737,
+    "long": "REPLACE_MEVentura,California",
+    "date": "09/19/2020",
     "deathsPer100k": 0.0,
     "lat": "REPLACE_MEVentura,California",
-    "active": 94
+    "active": 69
   }]
 }

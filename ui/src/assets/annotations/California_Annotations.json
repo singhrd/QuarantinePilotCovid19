@@ -3610,8 +3610,23 @@
       "Daily Growth Rate": [["daily", 1.238830667402096], ["weekly", 1.0102341668556478], ["biweekly", 0.9941959048835829], ["triweekly", 1.0067784694474031]],
       "Confirmed Cumulative Cases": [["daily", 781436.0], ["weekly", 766905.1428571428], ["biweekly", 754953.4285714285], ["triweekly", 740734.619047619]],
       "Confirmed Daily Cases": [["daily", 4492.0], ["weekly", 3418.1428571428573], ["biweekly", 3539.0], ["triweekly", 3999.1428571428573]],
-      "Confirmed Fatality Rate": [["daily", 0.019081537067654933], ["weekly", 0.018919690774850995], ["biweekly", 0.01876289722631507], ["triweekly", 0.018637210951818698]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019694238071652635], ["weekly", 0.019528394422475205], ["biweekly", 0.019468833394056053], ["triweekly", 0.019433897706203275]]
+      "Confirmed Fatality Rate": [["daily", 0.01908281676298507], ["weekly", 0.018919690774850995], ["biweekly", 0.01876289722631507], ["triweekly", 0.018637210951818698]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019695558857520223], ["weekly", 0.019528394422475205], ["biweekly", 0.019468833394056053], ["triweekly", 0.019433897706203275]]
+    },
+    "lat": "REPLACE_MECalifornia"
+  }, {
+    "locale": "California",
+    "long": "REPLACE_MECalifornia",
+    "date": "09/19/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004647275668668627], ["weekly", 0.004514983916136472], ["biweekly", 0.004600656782799766], ["triweekly", 0.005350333266622815]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.212857504429259], ["weekly", 8.790179701341433], ["biweekly", 8.812416386448279], ["triweekly", 10.009159826927482]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1987.0311313591499], ["weekly", 1949.8307842499187], ["biweekly", 1919.603174603175], ["triweekly", 1884.8120427619292]],
+      "Daily Growth Rate": [["daily", 0.8103294746215495], ["weekly", 1.033622658280608], ["biweekly", 1.0121875522728032], ["triweekly", 1.0174660001158606]],
+      "Confirmed Cumulative Cases": [["daily", 785076.0], ["weekly", 770378.1428571428], ["biweekly", 758435.2142857143], ["triweekly", 744689.2380952381]],
+      "Confirmed Daily Cases": [["daily", 3640.0], ["weekly", 3473.0], ["biweekly", 3481.785714285714], ["triweekly", 3954.6190476190477]],
+      "Confirmed Fatality Rate": [["daily", 0.019135726986941392], ["weekly", 0.0189542345408219], ["biweekly", 0.01879582945801675], ["triweekly", 0.018670704996261007]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019752005374838445], ["weekly", 0.019560713389694357], ["biweekly", 0.019480202585452727], ["triweekly", 0.019445650506146477]]
     },
     "lat": "REPLACE_MECalifornia"
   }]

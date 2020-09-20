@@ -3604,14 +3604,29 @@
     "long": "77.2",
     "date": "9/18/20",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.019089325771098738], ["biweekly", 0.020080171574671773], ["triweekly", 0.020542141124179143]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 6.76576826045125], ["biweekly", 6.627831283606817], ["triweekly", 6.317623490742503]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 378.6341904197172], ["weekly", 358.3196876004925], ["biweekly", 334.85721775760584], ["triweekly", 312.7163206584247]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.0014583631453677], ["biweekly", 1.0136925987393632], ["triweekly", 1.013499092037281]],
-      "Confirmed Cumulative Cases": [["daily", 5214677.0], ["weekly", 4934898.857142857], ["biweekly", 4611765.857142857], ["triweekly", 4306834.0]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 93180.42857142857], ["biweekly", 91280.71428571429], ["triweekly", 87008.42857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.016179717363127188], ["weekly", 0.01639559566961243], ["biweekly", 0.01669293938444738], ["triweekly", 0.017030835947342907]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018105641564434557], ["weekly", 0.018870355510694097], ["biweekly", 0.01929032009002717], ["triweekly", 0.019735406723723505]]
+      "Spread Rate": [["daily", 0.01774060418116008], ["weekly", 0.019089325771098738], ["biweekly", 0.020080171574671773], ["triweekly", 0.020542141124179143]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.777136806595144], ["weekly", 6.76576826045125], ["biweekly", 6.627831283606817], ["triweekly", 6.317623490742503]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 385.4113272263123], ["weekly", 358.3196876004925], ["biweekly", 334.85721775760584], ["triweekly", 312.7163206584247]],
+      "Daily Growth Rate": [["daily", 0.9679851489255787], ["weekly", 1.0014583631453677], ["biweekly", 1.0136925987393632], ["triweekly", 1.013499092037281]],
+      "Confirmed Cumulative Cases": [["daily", 5308014.0], ["weekly", 4934898.857142857], ["biweekly", 4611765.857142857], ["triweekly", 4306834.0]],
+      "Confirmed Daily Cases": [["daily", 93337.0], ["weekly", 93180.42857142857], ["biweekly", 91280.71428571429], ["triweekly", 87008.42857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.016130138315385], ["weekly", 0.01639559566961243], ["biweekly", 0.01669293938444738], ["triweekly", 0.017030835947342907]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01837323904974781], ["weekly", 0.018870355510694097], ["biweekly", 0.01929032009002717], ["triweekly", 0.019735406723723505]]
+    },
+    "lat": "28.6"
+  }, {
+    "locale": "India",
+    "long": "77.2",
+    "date": "9/19/20",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01729582263564211], ["weekly", 0.018600819905639554], ["biweekly", 0.019796097704167032], ["triweekly", 0.020323897450861834]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.723986778820224], ["weekly", 6.721860362798785], ["biweekly", 6.66364324123619], ["triweekly", 6.375935695948334]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 392.13531400513256], ["weekly", 365.04154796329124], ["biweekly", 341.52086099884207], ["triweekly", 319.0922563543731]],
+      "Daily Growth Rate": [["daily", 0.9921574509572838], ["weekly", 0.9953770976023809], ["biweekly", 1.0087566388161961], ["triweekly", 1.012463917640906]],
+      "Confirmed Cumulative Cases": [["daily", 5400619.0], ["weekly", 5027474.571428572], ["biweekly", 4703539.785714285], ["triweekly", 4394645.523809524]],
+      "Confirmed Daily Cases": [["daily", 92605.0], ["weekly", 92575.71428571429], ["biweekly", 91773.92857142857], ["triweekly", 87811.52380952382]],
+      "Confirmed Fatality Rate": [["daily", 0.016063343850029044], ["weekly", 0.01632490831677667], ["biweekly", 0.016610087947411294], ["triweekly", 0.016939066090309266]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018246845629565814], ["weekly", 0.018744187675575414], ["biweekly", 0.01916831699270819], ["triweekly", 0.019609358246303894]]
     },
     "lat": "28.6"
   }]
