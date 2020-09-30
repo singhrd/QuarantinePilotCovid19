@@ -3749,5 +3749,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01643835616438356], ["weekly", 0.017360372582613977], ["biweekly", 0.017450240758853486], ["triweekly", 0.017225813868470947]]
     },
     "lat": "REPLACE_MEClinch,Georgia"
+  }, {
+    "locale": "Clinch,Georgia",
+    "long": "REPLACE_MEClinch,Georgia",
+    "date": "09/28/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002649008171577094], ["weekly", 0.004621119123645633], ["biweekly", 0.008223859106057623], ["triweekly", 0.009317756665181844]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.110305228165608], ["weekly", 25.903380391141038], ["biweekly", 44.251608168199276], ["triweekly", 48.20906906129027]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5711.6953762466], ["weekly", 5629.668005007987], ["biweekly", 5459.137417432975], ["triweekly", 5256.227604369035]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.723785225846818], ["biweekly", 1.1312803680254497], ["triweekly", 1.4249419588028094]],
+      "Confirmed Cumulative Cases": [["daily", 378.0], ["weekly", 372.57142857142856], ["biweekly", 361.2857142857143], ["triweekly", 347.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.7142857142857142], ["biweekly", 2.9285714285714284], ["triweekly", 3.1904761904761907]],
+      "Confirmed Fatality Rate": [["daily", 0.015873015873015872], ["weekly", 0.01610594709453653], ["biweekly", 0.016208536579656596], ["triweekly", 0.01600212943820559]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016304347826086956], ["weekly", 0.01715768876936265], ["biweekly", 0.01747233532359056], ["triweekly", 0.017173170845388122]]
+    },
+    "lat": "REPLACE_MEClinch,Georgia"
   }]
 }

@@ -3749,5 +3749,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03076923076923077], ["weekly", 0.031077498083312036], ["biweekly", 0.031487205450183235], ["triweekly", 0.032244669685973636]]
     },
     "lat": "REPLACE_MEDelaware,New York"
+  }, {
+    "locale": "Delaware,New York",
+    "long": "REPLACE_MEDelaware,New York",
+    "date": "09/28/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0074349784875185065], ["weekly", 0.004329335642189847], ["biweekly", 0.003272109716521016], ["triweekly", 0.0040788306942140026]],
+      "Confirmed Daily Cases per 100k": [["daily", 2.2657754616517503], ["weekly", 1.2947288352295716], ["biweekly", 0.9710466264221785], ["triweekly", 1.186834765627107]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 305.8796873229863], ["weekly", 299.72972535564577], ["biweekly", 296.00737995436083], ["triweekly", 292.60871676188316]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.35714285714285715], ["triweekly", 0.3880645881663789]],
+      "Confirmed Cumulative Cases": [["daily", 135.0], ["weekly", 132.28571428571428], ["biweekly", 130.64285714285714], ["triweekly", 129.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.42857142857142855], ["triweekly", 0.5238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.02962962962962963], ["weekly", 0.03024041748510434], ["biweekly", 0.030624617124867526], ["triweekly", 0.030988224012584498]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03076923076923077], ["weekly", 0.031008816764630718], ["biweekly", 0.03136212727632458], ["triweekly", 0.03205355645138214]]
+    },
+    "lat": "REPLACE_MEDelaware,New York"
   }]
 }

@@ -3749,5 +3749,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.012864303642240598], ["biweekly", 0.013804069615803004], ["triweekly", 0.014516266313556524]]
     },
     "lat": "REPLACE_MEHoward,Missouri"
+  }, {
+    "locale": "Howard,Missouri",
+    "long": "REPLACE_MEHoward,Missouri",
+    "date": "09/28/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005698021114636909], ["weekly", 0.011027091241590117], ["biweekly", 0.011488547712718233], ["triweekly", 0.010967240037753475]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.99900009999], ["weekly", 18.569571614267144], ["biweekly", 18.569571614267147], ["triweekly", 17.14114302855429]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1759.82401759824], ["weekly", 1692.6878740697357], ["biweekly", 1634.1223020555087], ["triweekly", 1546.9881583270246]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.1904761904761902], ["biweekly", 0.8571428571428571], ["triweekly", 0.779004031756491]],
+      "Confirmed Cumulative Cases": [["daily", 176.0], ["weekly", 169.28571428571428], ["biweekly", 163.42857142857142], ["triweekly", 154.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 1.8571428571428572], ["triweekly", 1.7142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.011363636363636364], ["weekly", 0.011820553364312082], ["biweekly", 0.01226548994759058], ["triweekly", 0.013045620855959015]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012195121951219513], ["weekly", 0.012710426530869078], ["biweekly", 0.013658154601782475], ["triweekly", 0.014268733902281424]]
+    },
+    "lat": "REPLACE_MEHoward,Missouri"
   }]
 }

@@ -3749,5 +3749,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03333333333333333], ["weekly", 0.03369733707820429], ["biweekly", 0.034164278358536186], ["triweekly", 0.034682821837790034]]
     },
     "lat": "REPLACE_MESchenectady,New York"
+  }, {
+    "locale": "Schenectady,New York",
+    "long": "REPLACE_MESchenectady,New York",
+    "date": "09/28/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0007130125079255478], ["weekly", 0.002259469920469342], ["biweekly", 0.0023828999352996255], ["triweekly", 0.0032320310190161144]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.6439191495115872], ["weekly", 2.023745898464989], ["biweekly", 2.115734348395215], ["triweekly", 2.82097913119362]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 903.418566764757], ["weekly", 896.7034099198503], ["biweekly", 888.9763801257113], ["triweekly", 879.1949416164638]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 1.0646998872343667], ["biweekly", 1.2752070864743263], ["triweekly", 1.348514681026174]],
+      "Confirmed Cumulative Cases": [["daily", 1403.0], ["weekly", 1392.5714285714287], ["biweekly", 1380.5714285714287], ["triweekly", 1365.3809523809523]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.142857142857143], ["biweekly", 3.2857142857142856], ["triweekly", 4.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.03278688524590164], ["weekly", 0.03303331758883569], ["biweekly", 0.03332318658341464], ["triweekly", 0.03366623403096597]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.033261026753434564], ["weekly", 0.03361305557799359], ["biweekly", 0.03403705189543186], ["triweekly", 0.03456944315298277]]
+    },
+    "lat": "REPLACE_MESchenectady,New York"
   }]
 }
