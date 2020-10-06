@@ -3784,13 +3784,13 @@
     "long": "REPLACE_MECape Girardeau,Missouri",
     "date": "09/30/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.025578318778426454], ["biweekly", 0.02430503030133524], ["triweekly", 0.02490590665616003]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 57.96082934701692], ["biweekly", 50.987417066203946], ["triweekly", 47.99881180299839]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2474.9274131176226], ["weekly", 2295.7922249169983], ["biweekly", 2104.7931794594065], ["triweekly", 1946.5178522373178]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1556923983920506], ["biweekly", 0.9741000004404319], ["triweekly", 0.9127958636894847]],
-      "Confirmed Cumulative Cases": [["daily", 1952.0], ["weekly", 1810.7142857142858], ["biweekly", 1660.0714285714287], ["triweekly", 1535.2380952380952]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 45.714285714285715], ["biweekly", 40.214285714285715], ["triweekly", 37.857142857142854]],
-      "Confirmed Fatality Rate": [["daily", 0.014344262295081968], ["weekly", 0.0132617022172793], ["biweekly", 0.011927161782463142], ["triweekly", 0.011617306491300675]],
+      "Spread Rate": [["daily", 0.018274620243482254], ["weekly", 0.025578318778426454], ["biweekly", 0.02430503030133524], ["triweekly", 0.02490590665616003]],
+      "Confirmed Daily Cases per 100k": [["daily", 45.644153110775825], ["weekly", 57.96082934701692], ["biweekly", 50.987417066203946], ["triweekly", 47.99881180299839]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2520.5715662283983], ["weekly", 2295.7922249169983], ["biweekly", 2104.7931794594065], ["triweekly", 1946.5178522373178]],
+      "Daily Growth Rate": [["daily", 0.8], ["weekly", 1.1556923983920506], ["biweekly", 0.9741000004404319], ["triweekly", 0.9127958636894847]],
+      "Confirmed Cumulative Cases": [["daily", 1988.0], ["weekly", 1810.7142857142858], ["biweekly", 1660.0714285714287], ["triweekly", 1535.2380952380952]],
+      "Confirmed Daily Cases": [["daily", 36.0], ["weekly", 45.714285714285715], ["biweekly", 40.214285714285715], ["triweekly", 37.857142857142854]],
+      "Confirmed Fatality Rate": [["daily", 0.014084507042253521], ["weekly", 0.0132617022172793], ["biweekly", 0.011927161782463142], ["triweekly", 0.011617306491300675]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01715686274509804], ["weekly", 0.015923245312984984], ["biweekly", 0.014183393223508155], ["triweekly", 0.01374437365606371]]
     },
     "lat": "REPLACE_MECape Girardeau,Missouri"
@@ -3799,14 +3799,74 @@
     "long": "REPLACE_MECape Girardeau,Missouri",
     "date": "10/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.04996043931762273], ["weekly", 0.025578318778426454], ["biweekly", 0.02430503030133524], ["triweekly", 0.023887931857475883]],
-      "Confirmed Daily Cases per 100k": [["daily", 126.7893141965995], ["weekly", 57.96082934701692], ["biweekly", 50.987417066203946], ["triweekly", 46.489415205419824]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2601.7167273142218], ["weekly", 2353.753054264015], ["biweekly", 2155.78059652561], ["triweekly", 1993.0072674427377]],
-      "Daily Growth Rate": [["daily", 1.4907119849998598], ["weekly", 1.1556923983920506], ["biweekly", 0.9741000004404319], ["triweekly", 0.8863408372344582]],
-      "Confirmed Cumulative Cases": [["daily", 2052.0], ["weekly", 1856.4285714285713], ["biweekly", 1700.2857142857142], ["triweekly", 1571.904761904762]],
-      "Confirmed Daily Cases": [["daily", 100.0], ["weekly", 45.714285714285715], ["biweekly", 40.214285714285715], ["triweekly", 36.666666666666664]],
-      "Confirmed Fatality Rate": [["daily", 0.015594541910331383], ["weekly", 0.013735252293047312], ["biweekly", 0.012180385084317959], ["triweekly", 0.011776637650465402]],
+      "Spread Rate": [["daily", 0.031685819074140475], ["weekly", 0.028188978813209635], ["biweekly", 0.02561036031872683], ["triweekly", 0.024758151869070277]],
+      "Confirmed Daily Cases per 100k": [["daily", 81.14516108582369], ["weekly", 64.48142264855633], ["biweekly", 54.24771371697365], ["triweekly", 48.66294630593296]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2601.7167273142218], ["weekly", 2360.2736475655547], ["biweekly", 2159.04089317638], ["triweekly", 1995.1807985432508]],
+      "Daily Growth Rate": [["daily", 1.7777777777777777], ["weekly", 1.2699781126777652], ["biweekly", 1.031242857583289], ["triweekly", 0.9244360753296964]],
+      "Confirmed Cumulative Cases": [["daily", 2052.0], ["weekly", 1861.5714285714287], ["biweekly", 1702.857142857143], ["triweekly", 1573.6190476190477]],
+      "Confirmed Daily Cases": [["daily", 64.0], ["weekly", 50.857142857142854], ["biweekly", 42.785714285714285], ["triweekly", 38.38095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.015594541910331383], ["weekly", 0.013698144399786104], ["biweekly", 0.012161831137687358], ["triweekly", 0.011764268352711668]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019161676646706587], ["weekly", 0.016522945236150798], ["biweekly", 0.014502429467447356], ["triweekly", 0.013967271516423466]]
+    },
+    "lat": "REPLACE_MECape Girardeau,Missouri"
+  }, {
+    "locale": "Cape Girardeau,Missouri",
+    "long": "REPLACE_MECape Girardeau,Missouri",
+    "date": "10/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.020261185139822224], ["weekly", 0.029427328697122817], ["biweekly", 0.026347323509329827], ["triweekly", 0.025270332628244217]],
+      "Confirmed Daily Cases per 100k": [["daily", 53.25151196257179], ["weekly", 69.19074003300145], ["biweekly", 57.326882776033926], ["triweekly", 51.01760499815551]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2654.9682392767936], ["weekly", 2429.464387598556], ["biweekly", 2216.367775952414], ["triweekly", 2046.1984035414062]],
+      "Daily Growth Rate": [["daily", 0.65625], ["weekly", 1.4092980315200943], ["biweekly", 1.068472575647767], ["triweekly", 0.9614731123667335]],
+      "Confirmed Cumulative Cases": [["daily", 2094.0], ["weekly", 1916.142857142857], ["biweekly", 1748.0714285714287], ["triweekly", 1613.857142857143]],
+      "Confirmed Daily Cases": [["daily", 42.0], ["weekly", 54.57142857142857], ["biweekly", 45.214285714285715], ["triweekly", 40.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.015281757402101241], ["weekly", 0.01430061531426458], ["biweekly", 0.012520668093831537], ["triweekly", 0.011993984377715414]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01776790671848973], ["weekly", 0.0173475117479475], ["biweekly", 0.014983441641229748], ["triweekly", 0.014297373307197516]]
+    },
+    "lat": "REPLACE_MECape Girardeau,Missouri"
+  }, {
+    "locale": "Cape Girardeau,Missouri",
+    "long": "REPLACE_MECape Girardeau,Missouri",
+    "date": "10/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.026856737837247735], ["weekly", 0.02153343517921805], ["biweekly", 0.024307142320784094], ["triweekly", 0.02623515096823575]],
+      "Confirmed Daily Cases per 100k": [["daily", 72.26990909206172], ["weekly", 53.070384370862364], ["biweekly", 54.70053269624723], ["triweekly", 53.55339128208751]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2727.2381483688555], ["weekly", 2482.534771969418], ["biweekly", 2271.0683086486615], ["triweekly", 2099.751794823494]],
+      "Daily Growth Rate": [["daily", 1.3571428571428572], ["weekly", 1.0105668285125755], ["biweekly", 0.946299956600148], ["triweekly", 0.9927231123667335]],
+      "Confirmed Cumulative Cases": [["daily", 2151.0], ["weekly", 1958.0], ["biweekly", 1791.2142857142858], ["triweekly", 1656.095238095238]],
+      "Confirmed Daily Cases": [["daily", 57.0], ["weekly", 41.857142857142854], ["biweekly", 43.142857142857146], ["triweekly", 42.23809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.014876801487680148], ["weekly", 0.014421377199025772], ["biweekly", 0.012893142615841643], ["triweekly", 0.012208805902327253]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01733477789815818], ["weekly", 0.017392974932084575], ["biweekly", 0.015364898820139508], ["triweekly", 0.01457553050785954]]
+    },
+    "lat": "REPLACE_MECape Girardeau,Missouri"
+  }, {
+    "locale": "Cape Girardeau,Missouri",
+    "long": "REPLACE_MECape Girardeau,Missouri",
+    "date": "10/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003712301247077221], ["weekly", 0.021844530600704713], ["biweekly", 0.026225480737730362], ["triweekly", 0.023723734078262306]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.143145135727961], ["weekly", 55.243915471375495], ["biweekly", 59.862669059965924], ["triweekly", 50.95722913425237]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2737.3812935045835], ["weekly", 2537.778687440794], ["biweekly", 2330.930977708627], ["triweekly", 2150.7090239577465]],
+      "Daily Growth Rate": [["daily", 0.14035087719298245], ["weekly", 1.1553713151927438], ["biweekly", 1.043238732110352], ["triweekly", 0.9621108674687743]],
+      "Confirmed Cumulative Cases": [["daily", 2159.0], ["weekly", 2001.5714285714287], ["biweekly", 1838.4285714285713], ["triweekly", 1696.2857142857142]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 43.57142857142857], ["biweekly", 47.214285714285715], ["triweekly", 40.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.014821676702176934], ["weekly", 0.014534562119801007], ["biweekly", 0.013236691715393102], ["triweekly", 0.012370717205726458]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01713979646491698], ["weekly", 0.01737656257046], ["biweekly", 0.015783335518843887], ["triweekly", 0.014758652853815002]]
+    },
+    "lat": "REPLACE_MECape Girardeau,Missouri"
+  }, {
+    "locale": "Cape Girardeau,Missouri",
+    "long": "REPLACE_MECape Girardeau,Missouri",
+    "date": "10/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0055427393634843725], ["weekly", 0.020758898139012136], ["biweekly", 0.02261860910403784], ["triweekly", 0.022819850162517336]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.21471770359194], ["weekly", 52.88925677915294], ["biweekly", 53.07038437086237], ["triweekly", 49.62896012838324]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2752.5960112081752], ["weekly", 2590.6679442199465], ["biweekly", 2384.00136207949], ["triweekly", 2200.33798408613]],
+      "Daily Growth Rate": [["daily", 1.5], ["weekly", 1.1087547738393604], ["biweekly", 0.9760345414104091], ["triweekly", 0.9545085282874878]],
+      "Confirmed Cumulative Cases": [["daily", 2171.0], ["weekly", 2043.2857142857142], ["biweekly", 1880.2857142857142], ["triweekly", 1735.4285714285713]],
+      "Confirmed Daily Cases": [["daily", 12.0], ["weekly", 41.714285714285715], ["biweekly", 41.857142857142854], ["triweekly", 39.142857142857146]],
+      "Confirmed Fatality Rate": [["daily", 0.014739751266697375], ["weekly", 0.014662503844719846], ["biweekly", 0.013523427590995878], ["triweekly", 0.012542266222744321]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016780283167278448], ["weekly", 0.01746382983404318], ["biweekly", 0.0160993900050921], ["triweekly", 0.014932490369616117]]
     },
     "lat": "REPLACE_MECape Girardeau,Missouri"
   }]

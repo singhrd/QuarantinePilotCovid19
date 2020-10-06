@@ -3784,13 +3784,13 @@
     "long": "REPLACE_MEKentucky",
     "date": "09/30/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.012491008440644435], ["weekly", 0.010929060201764429], ["biweekly", 0.010618552950677897], ["triweekly", 0.01117510728175441]],
-      "Confirmed Daily Cases per 100k": [["daily", 20.223713646532442], ["weekly", 16.92873122403324], ["biweekly", 15.875679130712689], ["triweekly", 16.026419516352405]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1629.1946308724835], ["weekly", 1560.6168104825822], ["biweekly", 1504.6612336209653], ["triweekly", 1449.7688292319167]],
-      "Daily Growth Rate": [["daily", 0.9847494553376906], ["weekly", 1.1522797773663207], ["biweekly", 1.1064297874071611], ["triweekly", 1.1448071733000031]],
-      "Confirmed Cumulative Cases": [["daily", 72825.0], ["weekly", 69759.57142857143], ["biweekly", 67258.35714285714], ["triweekly", 64804.666666666664]],
-      "Confirmed Daily Cases": [["daily", 904.0], ["weekly", 756.7142857142857], ["biweekly", 709.6428571428571], ["triweekly", 716.3809523809524]],
-      "Confirmed Fatality Rate": [["daily", 0.016587710264332305], ["weekly", 0.0169590293491506], ["biweekly", 0.017241809327831106], ["triweekly", 0.017566418144828327]],
+      "Spread Rate": [["daily", 0.012559663824969647], ["weekly", 0.010929060201764429], ["biweekly", 0.010618552950677897], ["triweekly", 0.01117510728175441]],
+      "Confirmed Daily Cases per 100k": [["daily", 20.33557046979866], ["weekly", 16.92873122403324], ["biweekly", 15.875679130712689], ["triweekly", 16.026419516352405]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1629.3064876957496], ["weekly", 1560.6168104825822], ["biweekly", 1504.6612336209653], ["triweekly", 1449.7688292319167]],
+      "Daily Growth Rate": [["daily", 0.9901960784313726], ["weekly", 1.1522797773663207], ["biweekly", 1.1064297874071611], ["triweekly", 1.1448071733000031]],
+      "Confirmed Cumulative Cases": [["daily", 72830.0], ["weekly", 69759.57142857143], ["biweekly", 67258.35714285714], ["triweekly", 64804.666666666664]],
+      "Confirmed Daily Cases": [["daily", 909.0], ["weekly", 756.7142857142857], ["biweekly", 709.6428571428571], ["triweekly", 716.3809523809524]],
+      "Confirmed Fatality Rate": [["daily", 0.01658657146780173], ["weekly", 0.0169590293491506], ["biweekly", 0.017241809327831106], ["triweekly", 0.017566418144828327]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01787246634117473], ["weekly", 0.018268896853802025], ["biweekly", 0.018609141615260737], ["triweekly", 0.018969729571945055]]
     },
     "lat": "REPLACE_MEKentucky"
@@ -3799,14 +3799,74 @@
     "long": "REPLACE_MEKentucky",
     "date": "10/01/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.010843841747705696], ["weekly", 0.010657037104747857], ["biweekly", 0.010666506879613458], ["triweekly", 0.01123625526437234]],
-      "Confirmed Daily Cases per 100k": [["daily", 17.762863534675617], ["weekly", 16.730584851390223], ["biweekly", 16.142537551933525], ["triweekly", 16.306594226057314]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1646.957494407159], ["weekly", 1577.3473953339728], ["biweekly", 1520.8037711728987], ["triweekly", 1466.075423457974]],
-      "Daily Growth Rate": [["daily", 0.8783185840707964], ["weekly", 1.1010250303740299], ["biweekly", 1.1112928437408056], ["triweekly", 1.0997608191938808]],
-      "Confirmed Cumulative Cases": [["daily", 73619.0], ["weekly", 70507.42857142857], ["biweekly", 67979.92857142857], ["triweekly", 65533.57142857143]],
-      "Confirmed Daily Cases": [["daily", 794.0], ["weekly", 747.8571428571429], ["biweekly", 721.5714285714286], ["triweekly", 728.9047619047619]],
-      "Confirmed Fatality Rate": [["daily", 0.01663972615764952], ["weekly", 0.016874831214951164], ["biweekly", 0.01715347416587151], ["triweekly", 0.017480392833483863]],
+      "Spread Rate": [["daily", 0.010775186363380485], ["weekly", 0.010666845016794315], ["biweekly", 0.010671410835636688], ["triweekly", 0.011239524568387827]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.651006711409398], ["weekly", 16.74656439757111], ["biweekly", 16.15052732502397], ["triweekly", 16.311920741450944]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1646.957494407159], ["weekly", 1577.3633748801537], ["biweekly", 1520.8117609459891], ["triweekly", 1466.0807499733678]],
+      "Daily Growth Rate": [["daily", 0.8679867986798679], ["weekly", 1.101803119387413], ["biweekly", 1.1116818882474973], ["triweekly", 1.1000201821983417]],
+      "Confirmed Cumulative Cases": [["daily", 73619.0], ["weekly", 70508.14285714286], ["biweekly", 67980.28571428571], ["triweekly", 65533.80952380953]],
+      "Confirmed Daily Cases": [["daily", 789.0], ["weekly", 748.5714285714286], ["biweekly", 721.9285714285714], ["triweekly", 729.1428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.01663972615764952], ["weekly", 0.01687466852973251], ["biweekly", 0.01715339282326218], ["triweekly", 0.017480338605077646]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017953979188040453], ["weekly", 0.01817782683464182], ["biweekly", 0.018497361103087768], ["triweekly", 0.01886487665217505]]
+    },
+    "lat": "REPLACE_MEKentucky"
+  }, {
+    "locale": "Kentucky",
+    "long": "REPLACE_MEKentucky",
+    "date": "10/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012781494649429348], ["weekly", 0.010859827680838865], ["biweekly", 0.010660716186587291], ["triweekly", 0.010985582856228521]],
+      "Confirmed Daily Cases per 100k": [["daily", 21.185682326621926], ["weekly", 17.222754873761584], ["biweekly", 16.310322786832852], ["triweekly", 16.15745179503569]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1668.1431767337808], ["weekly", 1594.5861297539152], ["biweekly", 1537.1220837328221], ["triweekly", 1482.238201768403]],
+      "Daily Growth Rate": [["daily", 1.200253485424588], ["weekly", 1.1311546792106537], ["biweekly", 1.1069044382210447], ["triweekly", 1.0719672543292231]],
+      "Confirmed Cumulative Cases": [["daily", 74566.0], ["weekly", 71278.0], ["biweekly", 68709.35714285714], ["triweekly", 66256.04761904762]],
+      "Confirmed Daily Cases": [["daily", 947.0], ["weekly", 769.8571428571429], ["biweekly", 729.0714285714286], ["triweekly", 722.2380952380952]],
+      "Confirmed Fatality Rate": [["daily", 0.016522275567953222], ["weekly", 0.016810449848667263], ["biweekly", 0.01707246888267058], ["triweekly", 0.0173985664007512]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01781634128705712], ["weekly", 0.01811586859391231], ["biweekly", 0.018402589802948142], ["triweekly", 0.018774792473338547]]
+    },
+    "lat": "REPLACE_MEKentucky"
+  }, {
+    "locale": "Kentucky",
+    "long": "REPLACE_MEKentucky",
+    "date": "10/03/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.013454133224199083], ["weekly", 0.010772368733123625], ["biweekly", 0.010741614921117915], ["triweekly", 0.010869017501360443]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.59507829977629], ["weekly", 17.309044423138385], ["biweekly", 16.63630552892298], ["triweekly", 16.210716948971985]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1690.7382550335572], ["weekly", 1611.8951741770531], ["biweekly", 1553.7583892617452], ["triweekly", 1498.4489187173754]],
+      "Daily Growth Rate": [["daily", 1.0665258711721224], ["weekly", 1.0972623199855946], ["biweekly", 1.115610083199019], ["triweekly", 1.0833895422555293]],
+      "Confirmed Cumulative Cases": [["daily", 75576.0], ["weekly", 72051.71428571429], ["biweekly", 69453.0], ["triweekly", 66980.66666666667]],
+      "Confirmed Daily Cases": [["daily", 1010.0], ["weekly", 773.7142857142857], ["biweekly", 743.6428571428571], ["triweekly", 724.6190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.016394093362972373], ["weekly", 0.01673507613835627], ["biweekly", 0.01699229095317175], ["triweekly", 0.01731318006430429]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017690396641823012], ["weekly", 0.018035722018700823], ["biweekly", 0.01831278450961735], ["triweekly", 0.018690542744837196]]
+    },
+    "lat": "REPLACE_MEKentucky"
+  }, {
+    "locale": "Kentucky",
+    "long": "REPLACE_MEKentucky",
+    "date": "10/04/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0067255070139857764], ["weekly", 0.01087154579546455], ["biweekly", 0.010693278254473273], ["triweekly", 0.01084201858646611]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.409395973154364], ["weekly", 17.698945349952062], ["biweekly", 16.791307126877598], ["triweekly", 16.39394907851284]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1702.1476510067116], ["weekly", 1629.5941195270057], ["biweekly", 1570.5496963886228], ["triweekly", 1514.8428677958882]],
+      "Daily Growth Rate": [["daily", 0.504950495049505], ["weekly", 1.1117349599667052], ["biweekly", 1.104018920180454], ["triweekly", 1.0896895744496893]],
+      "Confirmed Cumulative Cases": [["daily", 76086.0], ["weekly", 72842.85714285714], ["biweekly", 70203.57142857143], ["triweekly", 67713.47619047618]],
+      "Confirmed Daily Cases": [["daily", 510.0], ["weekly", 791.1428571428571], ["biweekly", 750.5714285714286], ["triweekly", 732.8095238095239]],
+      "Confirmed Fatality Rate": [["daily", 0.016323633782824698], ["weekly", 0.016660034244681935], ["biweekly", 0.016915152823985893], ["triweekly", 0.017224338934426712]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017645805214179158], ["weekly", 0.0179612476856737], ["biweekly", 0.018227018364912872], ["triweekly", 0.018598685705937052]]
+    },
+    "lat": "REPLACE_MEKentucky"
+  }, {
+    "locale": "Kentucky",
+    "long": "REPLACE_MEKentucky",
+    "date": "10/05/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009171075511551052], ["weekly", 0.011126301028698446], ["biweekly", 0.010795947429481296], ["triweekly", 0.010831137215492401]],
+      "Confirmed Daily Cases per 100k": [["daily", 15.68232662192394], ["weekly", 18.219878555449025], ["biweekly", 17.054969638862257], ["triweekly", 16.48982635559817]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1717.8299776286356], ["weekly", 1647.8139980824546], ["biweekly", 1587.6046660274849], ["triweekly", 1531.3326941514863]],
+      "Daily Growth Rate": [["daily", 1.3745098039215686], ["weekly", 1.1280470641500968], ["biweekly", 1.1130957314760412], ["triweekly", 1.0898684876700262]],
+      "Confirmed Cumulative Cases": [["daily", 76787.0], ["weekly", 73657.28571428571], ["biweekly", 70965.92857142857], ["triweekly", 68450.57142857143]],
+      "Confirmed Daily Cases": [["daily", 701.0], ["weekly", 814.4285714285714], ["biweekly", 762.3571428571429], ["triweekly", 737.0952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.016252751116725486], ["weekly", 0.016578724233019787], ["biweekly", 0.016837380883323063], ["triweekly", 0.017135811106567492]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017576722110333367], ["weekly", 0.017885389143957663], ["biweekly", 0.01814506097269245], ["triweekly", 0.018504756660192235]]
     },
     "lat": "REPLACE_MEKentucky"
   }]
