@@ -3914,5 +3914,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.030864197530864196], ["weekly", 0.031281934277366356], ["biweekly", 0.03183003920333128], ["triweekly", 0.03212377625867627]]
     },
     "lat": "REPLACE_MEClinton,New York"
+  }, {
+    "locale": "Clinton,New York",
+    "long": "REPLACE_MEClinton,New York",
+    "date": "10/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005633817718256218], ["weekly", 0.01265048533449217], ["biweekly", 0.008564566230394366], ["triweekly", 0.0066284347695333]],
+      "Confirmed Daily Cases per 100k": [["daily", 1.2424675405355037], ["weekly", 2.662430444004651], ["biweekly", 1.7749536293364339], ["triweekly", 1.360797782491266]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 221.15922221531963], ["weekly", 210.86449116516835], ["biweekly", 205.1846395512917], ["triweekly", 200.9247508408843]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 1.2378030840391607], ["biweekly", 0.9760443991624376], ["triweekly", 0.7459343613463868]],
+      "Confirmed Cumulative Cases": [["daily", 178.0], ["weekly", 169.71428571428572], ["biweekly", 165.14285714285714], ["triweekly", 161.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.142857142857143], ["biweekly", 1.4285714285714286], ["triweekly", 1.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.028089887640449437], ["weekly", 0.029482162513340883], ["biweekly", 0.03031183866484665], ["triweekly", 0.030971064357302663]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03048780487804878], ["weekly", 0.031141514816352415], ["biweekly", 0.03171551527928355], ["triweekly", 0.03202708391052194]]
+    },
+    "lat": "REPLACE_MEClinton,New York"
   }]
 }

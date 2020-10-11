@@ -3914,5 +3914,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11853448275862069], ["weekly", 0.11628063982829195], ["biweekly", 0.11722368745641014], ["triweekly", 0.11782145105864145]]
     },
     "lat": "REPLACE_MESteuben,New York"
+  }, {
+    "locale": "Steuben,New York",
+    "long": "REPLACE_MESteuben,New York",
+    "date": "10/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03871451218069044], ["weekly", 0.03861290424855885], ["biweekly", 0.03432755275544804], ["triweekly", 0.02781784640884368]],
+      "Confirmed Daily Cases per 100k": [["daily", 25.162771679300473], ["weekly", 21.56809001082898], ["biweekly", 17.374294730945568], ["triweekly", 13.430130122483785]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 662.6196542215791], ["weekly", 577.5455214010871], ["biweekly", 512.9910297714531], ["triweekly", 466.36002034989247]],
+      "Daily Growth Rate": [["daily", 1.0434782608695652], ["weekly", 1.7014842300556585], ["biweekly", 1.9186947506275238], ["triweekly", 1.7374064777426124]],
+      "Confirmed Cumulative Cases": [["daily", 632.0], ["weekly", 550.8571428571429], ["biweekly", 489.2857142857143], ["triweekly", 444.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 24.0], ["weekly", 20.571428571428573], ["biweekly", 16.571428571428573], ["triweekly", 12.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.08860759493670886], ["weekly", 0.09075986008696046], ["biweekly", 0.09460398003868212], ["triweekly", 0.09963748446441782]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.11222444889779559], ["weekly", 0.11687675134700069], ["biweekly", 0.11747298995433944], ["triweekly", 0.11775166452333768]]
+    },
+    "lat": "REPLACE_MESteuben,New York"
   }]
 }

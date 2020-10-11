@@ -3914,5 +3914,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02127659574468085], ["weekly", 0.02344767694311767], ["biweekly", 0.02436566818655928], ["triweekly", 0.025128169254377362]]
     },
     "lat": "REPLACE_MELincoln,Maine"
+  }, {
+    "locale": "Lincoln,Maine",
+    "long": "REPLACE_MELincoln,Maine",
+    "date": "10/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.008839343388298218], ["biweekly", 0.01245381336748411], ["triweekly", 0.011831493299928556]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.23742977586022], ["biweekly", 1.6499063678136265], ["triweekly", 1.5124141704958245]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 144.36680718369234], ["weekly", 144.36680718369234], ["biweekly", 134.87984556876398], ["triweekly", 128.41771229482725]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.11065666703449763], ["biweekly", 0.055328333517248814], ["triweekly", 0.07055730716323956]],
+      "Confirmed Cumulative Cases": [["daily", 50.0], ["weekly", 50.0], ["biweekly", 46.714285714285715], ["triweekly", 44.476190476190474]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.42857142857142855], ["biweekly", 0.5714285714285714], ["triweekly", 0.5238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.02], ["biweekly", 0.021542915038355766], ["triweekly", 0.022702615462642153]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02], ["weekly", 0.023085830076711535], ["biweekly", 0.02405392319396322], ["triweekly", 0.024818589157563218]]
+    },
+    "lat": "REPLACE_MELincoln,Maine"
   }]
 }

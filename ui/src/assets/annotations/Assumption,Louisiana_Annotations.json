@@ -3914,5 +3914,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03137254901960784], ["weekly", 0.03158534459053356], ["biweekly", 0.031843741888701725], ["triweekly", 0.03234820500235273]]
     },
     "lat": "REPLACE_MEAssumption,Louisiana"
+  }, {
+    "locale": "Assumption,Louisiana",
+    "long": "REPLACE_MEAssumption,Louisiana",
+    "date": "10/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", -0.0025873235649509496], ["weekly", 0.0016708628233130796], ["biweekly", 0.001775294595764468], ["triweekly", 0.0024619702084233723]],
+      "Confirmed Daily Cases per 100k": [["daily", -9.136174683659952], ["weekly", 5.873255153781399], ["biweekly", 6.199547106769254], ["triweekly", 8.483590777684238]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3526.5634278927414], ["weekly", 3512.206581961276], ["biweekly", 3494.913108452919], ["triweekly", 3472.8340196340746]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1106566670344977], ["biweekly", 0.8536687619911832], ["triweekly", 0.8365862321150532]],
+      "Confirmed Cumulative Cases": [["daily", 772.0], ["weekly", 768.8571428571429], ["biweekly", 765.0714285714286], ["triweekly", 760.2380952380952]],
+      "Confirmed Daily Cases": [["daily", -2.0], ["weekly", 1.2857142857142858], ["biweekly", 1.3571428571428572], ["triweekly", 1.8571428571428572]],
+      "Confirmed Fatality Rate": [["daily", 0.031088082901554404], ["weekly", 0.031215680104547807], ["biweekly", 0.03137083160106991], ["triweekly", 0.031573411188989375]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.031331592689295036], ["weekly", 0.03152598309759201], ["biweekly", 0.03175227673121016], ["triweekly", 0.03220714714859606]]
+    },
+    "lat": "REPLACE_MEAssumption,Louisiana"
   }]
 }

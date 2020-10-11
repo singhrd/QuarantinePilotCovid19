@@ -3914,5 +3914,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08983347940403155], ["weekly", 0.09037123100745058], ["biweekly", 0.09079137816302009], ["triweekly", 0.09120736306247576]]
     },
     "lat": "REPLACE_MEBergen,New Jersey"
+  }, {
+    "locale": "Bergen,New Jersey",
+    "long": "REPLACE_MEBergen,New Jersey",
+    "date": "10/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0030985091709148094], ["weekly", 0.0023654338225261385], ["biweekly", 0.0020423829848026692], ["triweekly", 0.001822110254264111]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.7236478788932015], ["weekly", 5.838710003687122], ["biweekly", 5.0111763023771365], ["triweekly", 4.449270702722207]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2496.5619039650205], ["weekly", 2470.0961502212735], ["biweekly", 2451.813785301591], ["triweekly", 2437.3574866922872]],
+      "Daily Growth Rate": [["daily", 0.8674698795180723], ["weekly", 1.0668346962600679], ["biweekly", 1.1256892142995698], ["triweekly", 1.0820985422513754]],
+      "Confirmed Cumulative Cases": [["daily", 23273.0], ["weekly", 23026.285714285714], ["biweekly", 22855.85714285714], ["triweekly", 22721.095238095237]],
+      "Confirmed Daily Cases": [["daily", 72.0], ["weekly", 54.42857142857143], ["biweekly", 46.714285714285715], ["triweekly", 41.476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.0881278735014824], ["weekly", 0.08891224043452398], ["biweekly", 0.08953277333842895], ["triweekly", 0.0900355668104953]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.08966512197254525], ["weekly", 0.09024752408491224], ["biweekly", 0.09066976596639807], ["triweekly", 0.09109043693699967]]
+    },
+    "lat": "REPLACE_MEBergen,New Jersey"
   }]
 }

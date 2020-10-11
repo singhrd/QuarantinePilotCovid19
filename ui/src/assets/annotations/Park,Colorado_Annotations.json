@@ -3914,5 +3914,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017241379310344827], ["weekly", 0.017638083116434167], ["biweekly", 0.01861600724203751], ["triweekly", 0.019657048306285875]]
     },
     "lat": "REPLACE_MEPark,Colorado"
+  }, {
+    "locale": "Park,Colorado",
+    "long": "REPLACE_MEPark,Colorado",
+    "date": "10/09/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03333642026759165], ["weekly", 0.0024420619084715156], ["biweekly", 0.005014589905232038], ["triweekly", 0.009825544428468027]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.612894667020429], ["weekly", 0.7580639047871734], ["biweekly", 1.516127809574347], ["triweekly", 2.7795676508863028]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 323.6932873441231], ["weekly", 313.0803926771027], ["biweekly", 308.15297729598603], ["triweekly", 297.6664266130967]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.2857142857142857], ["triweekly", 0.40787543528105763]],
+      "Confirmed Cumulative Cases": [["daily", 61.0], ["weekly", 59.0], ["biweekly", 58.07142857142857], ["triweekly", 56.095238095238095]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 0.14285714285714285], ["biweekly", 0.2857142857142857], ["triweekly", 0.5238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.01639344262295082], ["weekly", 0.01694915254237288], ["biweekly", 0.01722644362429829], ["triweekly", 0.017889343579149848]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01694915254237288], ["weekly", 0.017503734706223687], ["biweekly", 0.018359439097538326], ["triweekly", 0.01944286968131264]]
+    },
+    "lat": "REPLACE_MEPark,Colorado"
   }]
 }
