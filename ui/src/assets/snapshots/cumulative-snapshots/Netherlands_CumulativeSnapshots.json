@@ -4114,19 +4114,19 @@
   }, {
     "epidemiccontrolThreshold": 85.63645,
     "source": "JHU",
-    "confirmedPer100kN": 77.77486082509502,
+    "confirmedPer100kN": 80.29600007184997,
     "deaths": 6509,
-    "confirmed": 141258,
+    "confirmed": 145837,
     "recovered": 4492,
     "recoveredPer100k": 26.227149770921145,
-    "confirmedPer100k": 824.7539453118386,
+    "confirmedPer100k": 851.4890563539241,
     "locale": "Netherlands",
-    "activePer100k": 760.5231183684051,
+    "activePer100k": 787.2582294104906,
     "long": "4.916667",
     "date": "10/5/20",
     "deathsPer100k": 38.003677172512404,
     "lat": "52.35",
-    "active": 130257
+    "active": 134836
   }, {
     "epidemiccontrolThreshold": 85.63645,
     "source": "JHU",
@@ -4303,5 +4303,53 @@
     "deathsPer100k": 39.49836780950168,
     "lat": "52.35",
     "active": 205948
+  }, {
+    "epidemiccontrolThreshold": 85.63645,
+    "source": "JHU",
+    "confirmedPer100kN": 124.41621218371152,
+    "deaths": 6797,
+    "confirmed": 225970,
+    "recovered": 5184,
+    "recoveredPer100k": 30.267485399032772,
+    "confirmedPer100k": 1319.35641890807,
+    "locale": "Netherlands",
+    "activePer100k": 1249.403729369912,
+    "long": "4.916667",
+    "date": "10/17/20",
+    "deathsPer100k": 39.68520413912534,
+    "lat": "52.35",
+    "active": 213989
+  }, {
+    "epidemiccontrolThreshold": 85.63645,
+    "source": "JHU",
+    "confirmedPer100kN": 128.94919742471032,
+    "deaths": 6811,
+    "confirmed": 234203,
+    "recovered": 5206,
+    "recoveredPer100k": 30.39593537564904,
+    "confirmedPer100k": 1367.4259033390572,
+    "locale": "Netherlands",
+    "activePer100k": 1297.2630229300726,
+    "long": "4.916667",
+    "date": "10/18/20",
+    "deathsPer100k": 39.76694503333569,
+    "lat": "52.35",
+    "active": 222186
+  }, {
+    "epidemiccontrolThreshold": 85.63645,
+    "source": "JHU",
+    "confirmedPer100kN": 133.3616040470065,
+    "deaths": 6828,
+    "confirmed": 242217,
+    "recovered": 5294,
+    "recoveredPer100k": 30.909735282114102,
+    "confirmedPer100k": 1414.2167266391823,
+    "locale": "Netherlands",
+    "activePer100k": 1343.44078952362,
+    "long": "4.916667",
+    "date": "10/19/20",
+    "deathsPer100k": 39.86620183344826,
+    "lat": "52.35",
+    "active": 230095
   }]
 }
