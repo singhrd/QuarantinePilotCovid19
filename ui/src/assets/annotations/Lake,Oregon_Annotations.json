@@ -4094,5 +4094,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },
     "lat": "REPLACE_MELake,Oregon"
+  }, {
+    "locale": "Lake,Oregon",
+    "long": "REPLACE_MELake,Oregon",
+    "date": "10/21/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.004202892858780949], ["triweekly", 0.0028019285725206324]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 1.8154421509358605], ["triweekly", 1.2102947672905737]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 444.78332697928585], ["weekly", 444.78332697928585], ["biweekly", 439.33700052647816], ["triweekly", 433.2855266900254]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.047619047619047616]],
+      "Confirmed Cumulative Cases": [["daily", 35.0], ["weekly", 35.0], ["biweekly", 34.57142857142857], ["triweekly", 34.095238095238095]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.14285714285714285], ["triweekly", 0.09523809523809523]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MELake,Oregon"
   }]
 }
