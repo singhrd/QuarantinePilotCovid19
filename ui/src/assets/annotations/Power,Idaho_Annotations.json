@@ -4079,5 +4079,20 @@
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00625], ["weekly", 0.004116570305037114], ["biweekly", 0.003826524242507997], ["triweekly", 0.00390366378716675]]
     },
     "lat": "REPLACE_MEPower,Idaho"
+  }, {
+    "locale": "Power,Idaho",
+    "long": "REPLACE_MEPower,Idaho",
+    "date": "10/20/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00287769982761521], ["weekly", 0.011571969164726756], ["biweekly", 0.010873663817246764], ["triweekly", 0.012837854950506536]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.019138133055591], ["weekly", 50.21667565607157], ["biweekly", 45.56698346569457], ["triweekly", 50.836634614788494]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4530.6600703033455], ["weekly", 4422.787211486599], ["biweekly", 4252.608477318801], ["triweekly", 4084.289620027154]],
+      "Daily Growth Rate": [["daily", 0.2], ["weekly", 1.5091893917348036], ["biweekly", 1.4295946958674015], ["triweekly", 1.5672729229514797]],
+      "Confirmed Cumulative Cases": [["daily", 348.0], ["weekly", 339.7142857142857], ["biweekly", 326.64285714285717], ["triweekly", 313.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.857142857142857], ["biweekly", 3.5], ["triweekly", 3.9047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.005747126436781609], ["weekly", 0.004191287714232727], ["biweekly", 0.0036910215312073065], ["triweekly", 0.0036196080232895563]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006006006006006006], ["weekly", 0.004530041062467602], ["biweekly", 0.004003411034960827], ["triweekly", 0.003996028319186455]]
+    },
+    "lat": "REPLACE_MEPower,Idaho"
   }]
 }
