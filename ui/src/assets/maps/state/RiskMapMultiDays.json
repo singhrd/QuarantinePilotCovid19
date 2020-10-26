@@ -1,801 +1,5 @@
 {
   "riskArray": [{
-    "date": "10/09/2020",
-    "elements": [{
-      "id": "US-WY",
-      "name": "Wyoming",
-      "value": 24.852216748768473
-    }, {
-      "id": "US-WI",
-      "name": "Wisconsin",
-      "value": 42.80068728522337
-    }, {
-      "id": "US-WV",
-      "name": "West Virginia",
-      "value": 10.383080606544294
-    }, {
-      "id": "US-WA",
-      "name": "Washington",
-      "value": 7.623427820536885
-    }, {
-      "id": "US-VA",
-      "name": "Virginia",
-      "value": 11.398461023753766
-    }, {
-      "id": "US-VT",
-      "name": "Vermont",
-      "value": 1.9124423963133637
-    }, {
-      "id": "US-UT",
-      "name": "Utah",
-      "value": 35.051179350244766
-    }, {
-      "id": "US-TX",
-      "name": "Texas",
-      "value": 16.423645320197043
-    }, {
-      "id": "US-TN",
-      "name": "Tennessee",
-      "value": 24.396569755281323
-    }, {
-      "id": "US-SD",
-      "name": "South Dakota",
-      "value": 53.6525974025974
-    }, {
-      "id": "US-SC",
-      "name": "South Carolina",
-      "value": 17.841886269070734
-    }, {
-      "id": "US-RI",
-      "name": "Rhode Island",
-      "value": 15.242587601078165
-    }, {
-      "id": "US-PA",
-      "name": "Pennsylvania",
-      "value": 8.809151785714286
-    }, {
-      "id": "US-OR",
-      "name": "Oregon",
-      "value": 7.6371022342586325
-    }, {
-      "id": "US-OK",
-      "name": "Oklahoma",
-      "value": 25.955988455988454
-    }, {
-      "id": "US-OH",
-      "name": "Ohio",
-      "value": 10.934864963949652
-    }, {
-      "id": "US-ND",
-      "name": "North Dakota",
-      "value": 59.53007518796993
-    }, {
-      "id": "US-NC",
-      "name": "North Carolina",
-      "value": 17.050251940623724
-    }, {
-      "id": "US-NY",
-      "name": "New York",
-      "value": 7.401395519647447
-    }, {
-      "id": "US-NM",
-      "name": "New Mexico",
-      "value": 14.251700680272108
-    }, {
-      "id": "US-NJ",
-      "name": "New Jersey",
-      "value": 8.46203346203346
-    }, {
-      "id": "US-NH",
-      "name": "New Hampshire",
-      "value": 5.8928571428571415
-    }, {
-      "id": "US-NV",
-      "name": "Nevada",
-      "value": 16.066790352504636
-    }, {
-      "id": "US-NE",
-      "name": "Nebraska",
-      "value": 28.675055514433748
-    }, {
-      "id": "US-MT",
-      "name": "Montana",
-      "value": 41.922563417890515
-    }, {
-      "id": "US-MO",
-      "name": "Missouri",
-      "value": 25.48627268496975
-    }, {
-      "id": "US-MS",
-      "name": "Mississippi",
-      "value": 18.854266538830295
-    }, {
-      "id": "US-MN",
-      "name": "Minnesota",
-      "value": 19.559270516717326
-    }, {
-      "id": "US-MI",
-      "name": "Michigan",
-      "value": 10.7021307021307
-    }, {
-      "id": "US-MA",
-      "name": "Massachusetts",
-      "value": 8.430437487041262
-    }, {
-      "id": "US-MD",
-      "name": "Maryland",
-      "value": 9.260920897284533
-    }, {
-      "id": "US-ME",
-      "name": "Maine",
-      "value": 2.2174840085287846
-    }, {
-      "id": "US-LA",
-      "name": "Louisiana",
-      "value": 15.791090629800308
-    }, {
-      "id": "US-KY",
-      "name": "Kentucky",
-      "value": 18.954937679769895
-    }, {
-      "id": "US-KS",
-      "name": "Kansas",
-      "value": 20.58419243986254
-    }, {
-      "id": "US-IA",
-      "name": "Iowa",
-      "value": 28.327305605786616
-    }, {
-      "id": "US-IN",
-      "name": "Indiana",
-      "value": 18.193589471449794
-    }, {
-      "id": "US-IL",
-      "name": "Illinois",
-      "value": 17.60514150411546
-    }, {
-      "id": "US-ID",
-      "name": "Idaho",
-      "value": 31.388667198723066
-    }, {
-      "id": "US-GA",
-      "name": "Georgia",
-      "value": 11.466236211998924
-    }, {
-      "id": "US-FL",
-      "name": "Florida",
-      "value": 11.219074221867517
-    }, {
-      "id": "US-DC",
-      "name": "District of Columbia",
-      "value": 8.18913480885312
-    }, {
-      "id": "US-DE",
-      "name": "Delaware",
-      "value": 13.181148748159059
-    }, {
-      "id": "US-CT",
-      "name": "Connecticut",
-      "value": 8.027210884353744
-    }, {
-      "id": "US-CO",
-      "name": "Colorado",
-      "value": 11.068948412698415
-    }, {
-      "id": "US-CA",
-      "name": "California",
-      "value": 8.344361282857864
-    }, {
-      "id": "US-AR",
-      "name": "Arkansas",
-      "value": 25.184484389782405
-    }, {
-      "id": "US-AZ",
-      "name": "Arizona",
-      "value": 8.22802197802198
-    }, {
-      "id": "US-AL",
-      "name": "Alabama",
-      "value": 18.166180758017493
-    }]
-  }, {
-    "date": "10/10/2020",
-    "elements": [{
-      "id": "US-WY",
-      "name": "Wyoming",
-      "value": 27.610837438423648
-    }, {
-      "id": "US-WI",
-      "name": "Wisconsin",
-      "value": 43.777614138438885
-    }, {
-      "id": "US-WV",
-      "name": "West Virginia",
-      "value": 11.1731843575419
-    }, {
-      "id": "US-WA",
-      "name": "Washington",
-      "value": 7.715412051811525
-    }, {
-      "id": "US-VA",
-      "name": "Virginia",
-      "value": 11.646035463365674
-    }, {
-      "id": "US-VT",
-      "name": "Vermont",
-      "value": 1.7972350230414744
-    }, {
-      "id": "US-UT",
-      "name": "Utah",
-      "value": 36.19047619047619
-    }, {
-      "id": "US-TX",
-      "name": "Texas",
-      "value": 15.822167487684727
-    }, {
-      "id": "US-TN",
-      "name": "Tennessee",
-      "value": 25.39845220665133
-    }, {
-      "id": "US-SD",
-      "name": "South Dakota",
-      "value": 59.9512987012987
-    }, {
-      "id": "US-SC",
-      "name": "South Carolina",
-      "value": 18.005547850208043
-    }, {
-      "id": "US-RI",
-      "name": "Rhode Island",
-      "value": 16.415094339622637
-    }, {
-      "id": "US-PA",
-      "name": "Pennsylvania",
-      "value": 9.020089285714286
-    }, {
-      "id": "US-OR",
-      "name": "Oregon",
-      "value": 7.982396750169262
-    }, {
-      "id": "US-OK",
-      "name": "Oklahoma",
-      "value": 27.160894660894655
-    }, {
-      "id": "US-OH",
-      "name": "Ohio",
-      "value": 11.356470732005377
-    }, {
-      "id": "US-ND",
-      "name": "North Dakota",
-      "value": 62.91353383458647
-    }, {
-      "id": "US-NC",
-      "name": "North Carolina",
-      "value": 17.323982023696036
-    }, {
-      "id": "US-NY",
-      "name": "New York",
-      "value": 7.395519647447669
-    }, {
-      "id": "US-NM",
-      "name": "New Mexico",
-      "value": 15.244897959183675
-    }, {
-      "id": "US-NJ",
-      "name": "New Jersey",
-      "value": 8.66312741312741
-    }, {
-      "id": "US-NH",
-      "name": "New Hampshire",
-      "value": 4.579831932773109
-    }, {
-      "id": "US-NV",
-      "name": "Nevada",
-      "value": 16.233766233766236
-    }, {
-      "id": "US-NE",
-      "name": "Nebraska",
-      "value": 23.61954108068098
-    }, {
-      "id": "US-MT",
-      "name": "Montana",
-      "value": 45.84779706275033
-    }, {
-      "id": "US-MO",
-      "name": "Missouri",
-      "value": 26.312238250348997
-    }, {
-      "id": "US-MS",
-      "name": "Mississippi",
-      "value": 19.765100671140942
-    }, {
-      "id": "US-MN",
-      "name": "Minnesota",
-      "value": 20.126646403242148
-    }, {
-      "id": "US-MI",
-      "name": "Michigan",
-      "value": 11.186901186901185
-    }, {
-      "id": "US-MA",
-      "name": "Massachusetts",
-      "value": 8.438731080240515
-    }, {
-      "id": "US-MD",
-      "name": "Maryland",
-      "value": 9.305785123966942
-    }, {
-      "id": "US-ME",
-      "name": "Maine",
-      "value": 2.1108742004264394
-    }, {
-      "id": "US-LA",
-      "name": "Louisiana",
-      "value": 14.070660522273425
-    }, {
-      "id": "US-KY",
-      "name": "Kentucky",
-      "value": 19.389581335890064
-    }, {
-      "id": "US-KS",
-      "name": "Kansas",
-      "value": 22.88659793814433
-    }, {
-      "id": "US-IA",
-      "name": "Iowa",
-      "value": 29.566003616636525
-    }, {
-      "id": "US-IN",
-      "name": "Indiana",
-      "value": 18.90256845680322
-    }, {
-      "id": "US-IL",
-      "name": "Illinois",
-      "value": 17.99639192693652
-    }, {
-      "id": "US-ID",
-      "name": "Idaho",
-      "value": 33.08858739026338
-    }, {
-      "id": "US-GA",
-      "name": "Georgia",
-      "value": 11.998923863330646
-    }, {
-      "id": "US-FL",
-      "name": "Florida",
-      "value": 11.384011705240756
-    }, {
-      "id": "US-DC",
-      "name": "District of Columbia",
-      "value": 8.450704225352114
-    }, {
-      "id": "US-DE",
-      "name": "Delaware",
-      "value": 13.107511045655373
-    }, {
-      "id": "US-CT",
-      "name": "Connecticut",
-      "value": 6.966786714685875
-    }, {
-      "id": "US-CO",
-      "name": "Colorado",
-      "value": 11.443452380952381
-    }, {
-      "id": "US-CA",
-      "name": "California",
-      "value": 8.266984850128358
-    }, {
-      "id": "US-AR",
-      "name": "Arkansas",
-      "value": 26.173131504257334
-    }, {
-      "id": "US-AZ",
-      "name": "Arizona",
-      "value": 8.483124018838305
-    }, {
-      "id": "US-AL",
-      "name": "Alabama",
-      "value": 19.728862973760933
-    }]
-  }, {
-    "date": "10/11/2020",
-    "elements": [{
-      "id": "US-WY",
-      "name": "Wyoming",
-      "value": 26.847290640394085
-    }, {
-      "id": "US-WI",
-      "name": "Wisconsin",
-      "value": 43.52970054000981
-    }, {
-      "id": "US-WV",
-      "name": "West Virginia",
-      "value": 11.532322426177174
-    }, {
-      "id": "US-WA",
-      "name": "Washington",
-      "value": 7.627182278956259
-    }, {
-      "id": "US-VA",
-      "name": "Virginia",
-      "value": 11.880227500836401
-    }, {
-      "id": "US-VT",
-      "name": "Vermont",
-      "value": 1.8202764976958525
-    }, {
-      "id": "US-UT",
-      "name": "Utah",
-      "value": 37.676902536715616
-    }, {
-      "id": "US-TX",
-      "name": "Texas",
-      "value": 14.839901477832512
-    }, {
-      "id": "US-TN",
-      "name": "Tennessee",
-      "value": 26.61158753398871
-    }, {
-      "id": "US-SD",
-      "name": "South Dakota",
-      "value": 64.30194805194805
-    }, {
-      "id": "US-SC",
-      "name": "South Carolina",
-      "value": 15.894590846047155
-    }, {
-      "id": "US-RI",
-      "name": "Rhode Island",
-      "value": 16.415094339622637
-    }, {
-      "id": "US-PA",
-      "name": "Pennsylvania",
-      "value": 10.640625
-    }, {
-      "id": "US-OR",
-      "name": "Oregon",
-      "value": 8.168584969532835
-    }, {
-      "id": "US-OK",
-      "name": "Oklahoma",
-      "value": 28.401875901875904
-    }, {
-      "id": "US-OH",
-      "name": "Ohio",
-      "value": 11.599657827202737
-    }, {
-      "id": "US-ND",
-      "name": "North Dakota",
-      "value": 65.69548872180451
-    }, {
-      "id": "US-NC",
-      "name": "North Carolina",
-      "value": 17.581370012256567
-    }, {
-      "id": "US-NY",
-      "name": "New York",
-      "value": 7.189864120455381
-    }, {
-      "id": "US-NM",
-      "name": "New Mexico",
-      "value": 16.503401360544217
-    }, {
-      "id": "US-NJ",
-      "name": "New Jersey",
-      "value": 8.529601029601029
-    }, {
-      "id": "US-NH",
-      "name": "New Hampshire",
-      "value": 5.199579831932772
-    }, {
-      "id": "US-NV",
-      "name": "Nevada",
-      "value": 16.855287569573285
-    }, {
-      "id": "US-NE",
-      "name": "Nebraska",
-      "value": 33.19022945965951
-    }, {
-      "id": "US-MT",
-      "name": "Montana",
-      "value": 48.43791722296395
-    }, {
-      "id": "US-MO",
-      "name": "Missouri",
-      "value": 31.11447184737087
-    }, {
-      "id": "US-MS",
-      "name": "Mississippi",
-      "value": 21.433365292425695
-    }, {
-      "id": "US-MN",
-      "name": "Minnesota",
-      "value": 20.367274569402234
-    }, {
-      "id": "US-MI",
-      "name": "Michigan",
-      "value": 11.683111683111681
-    }, {
-      "id": "US-MA",
-      "name": "Massachusetts",
-      "value": 8.370308936346673
-    }, {
-      "id": "US-MD",
-      "name": "Maryland",
-      "value": 9.386068476977568
-    }, {
-      "id": "US-ME",
-      "name": "Maine",
-      "value": 2.238805970149254
-    }, {
-      "id": "US-LA",
-      "name": "Louisiana",
-      "value": 14.070660522273425
-    }, {
-      "id": "US-KY",
-      "name": "Kentucky",
-      "value": 19.348034515819755
-    }, {
-      "id": "US-KS",
-      "name": "Kansas",
-      "value": 23.30387825233186
-    }, {
-      "id": "US-IA",
-      "name": "Iowa",
-      "value": 30.727848101265817
-    }, {
-      "id": "US-IN",
-      "name": "Indiana",
-      "value": 19.900233496073017
-    }, {
-      "id": "US-IL",
-      "name": "Illinois",
-      "value": 18.57706618559026
-    }, {
-      "id": "US-ID",
-      "name": "Idaho",
-      "value": 33.719074221867515
-    }, {
-      "id": "US-GA",
-      "name": "Georgia",
-      "value": 11.840193704600486
-    }, {
-      "id": "US-FL",
-      "name": "Florida",
-      "value": 9.530460228784252
-    }, {
-      "id": "US-DC",
-      "name": "District of Columbia",
-      "value": 8.953722334004025
-    }, {
-      "id": "US-DE",
-      "name": "Delaware",
-      "value": 12.85714285714286
-    }, {
-      "id": "US-CT",
-      "name": "Connecticut",
-      "value": 6.966786714685875
-    }, {
-      "id": "US-CO",
-      "name": "Colorado",
-      "value": 12.693452380952383
-    }, {
-      "id": "US-CA",
-      "name": "California",
-      "value": 8.246736811657085
-    }, {
-      "id": "US-AR",
-      "name": "Arkansas",
-      "value": 26.939451277199623
-    }, {
-      "id": "US-AZ",
-      "name": "Arizona",
-      "value": 8.991365777080064
-    }, {
-      "id": "US-AL",
-      "name": "Alabama",
-      "value": 17.918367346938773
-    }]
-  }, {
-    "date": "10/12/2020",
-    "elements": [{
-      "id": "US-WY",
-      "name": "Wyoming",
-      "value": 27.266009852216747
-    }, {
-      "id": "US-WI",
-      "name": "Wisconsin",
-      "value": 45.37309769268533
-    }, {
-      "id": "US-WV",
-      "name": "West Virginia",
-      "value": 11.97126895450918
-    }, {
-      "id": "US-WA",
-      "name": "Washington",
-      "value": 7.50891683874601
-    }, {
-      "id": "US-VA",
-      "name": "Virginia",
-      "value": 11.451990632318502
-    }, {
-      "id": "US-VT",
-      "name": "Vermont",
-      "value": 1.912442396313364
-    }, {
-      "id": "US-UT",
-      "name": "Utah",
-      "value": 36.60881174899867
-    }, {
-      "id": "US-TX",
-      "name": "Texas",
-      "value": 14.813300492610836
-    }, {
-      "id": "US-TN",
-      "name": "Tennessee",
-      "value": 27.533988705291783
-    }, {
-      "id": "US-SD",
-      "name": "South Dakota",
-      "value": 67.3051948051948
-    }, {
-      "id": "US-SC",
-      "name": "South Carolina",
-      "value": 16.155339805825243
-    }, {
-      "id": "US-RI",
-      "name": "Rhode Island",
-      "value": 16.415094339622637
-    }, {
-      "id": "US-PA",
-      "name": "Pennsylvania",
-      "value": 9.6640625
-    }, {
-      "id": "US-OR",
-      "name": "Oregon",
-      "value": 8.436018957345974
-    }, {
-      "id": "US-OK",
-      "name": "Oklahoma",
-      "value": 29.11255411255411
-    }, {
-      "id": "US-OH",
-      "name": "Ohio",
-      "value": 12.027373823781009
-    }, {
-      "id": "US-ND",
-      "name": "North Dakota",
-      "value": 69.84962406015038
-    }, {
-      "id": "US-NC",
-      "name": "North Carolina",
-      "value": 18.960915157292657
-    }, {
-      "id": "US-NY",
-      "name": "New York",
-      "value": 7.128901946382665
-    }, {
-      "id": "US-NM",
-      "name": "New Mexico",
-      "value": 17.047619047619047
-    }, {
-      "id": "US-NJ",
-      "name": "New Jersey",
-      "value": 8.73069498069498
-    }, {
-      "id": "US-NH",
-      "name": "New Hampshire",
-      "value": 5.231092436974789
-    }, {
-      "id": "US-NV",
-      "name": "Nevada",
-      "value": 17.569573283858997
-    }, {
-      "id": "US-NE",
-      "name": "Nebraska",
-      "value": 33.863804589193194
-    }, {
-      "id": "US-MT",
-      "name": "Montana",
-      "value": 53.33778371161549
-    }, {
-      "id": "US-MO",
-      "name": "Missouri",
-      "value": 29.75802698929735
-    }, {
-      "id": "US-MS",
-      "name": "Mississippi",
-      "value": 21.303930968360497
-    }, {
-      "id": "US-MN",
-      "name": "Minnesota",
-      "value": 21.382978723404257
-    }, {
-      "id": "US-MI",
-      "name": "Michigan",
-      "value": 11.670241670241671
-    }, {
-      "id": "US-MA",
-      "name": "Massachusetts",
-      "value": 8.20236367406179
-    }, {
-      "id": "US-MD",
-      "name": "Maryland",
-      "value": 9.605667060212514
-    }, {
-      "id": "US-ME",
-      "name": "Maine",
-      "value": 2.1748400852878467
-    }, {
-      "id": "US-LA",
-      "name": "Louisiana",
-      "value": 14.955453149001537
-    }, {
-      "id": "US-KY",
-      "name": "Kentucky",
-      "value": 20.044742729306485
-    }, {
-      "id": "US-KS",
-      "name": "Kansas",
-      "value": 23.328424153166424
-    }, {
-      "id": "US-IA",
-      "name": "Iowa",
-      "value": 32.53616636528029
-    }, {
-      "id": "US-IN",
-      "name": "Indiana",
-      "value": 20.9254935257907
-    }, {
-      "id": "US-IL",
-      "name": "Illinois",
-      "value": 20.032698162137784
-    }, {
-      "id": "US-ID",
-      "name": "Idaho",
-      "value": 33.44772545889865
-    }, {
-      "id": "US-GA",
-      "name": "Georgia",
-      "value": 12.375571697605597
-    }, {
-      "id": "US-FL",
-      "name": "Florida",
-      "value": 11.992551210428305
-    }, {
-      "id": "US-DC",
-      "name": "District of Columbia",
-      "value": 9.356136820925554
-    }, {
-      "id": "US-DE",
-      "name": "Delaware",
-      "value": 13.063328424153168
-    }, {
-      "id": "US-CT",
-      "name": "Connecticut",
-      "value": 6.966786714685875
-    }, {
-      "id": "US-CO",
-      "name": "Colorado",
-      "value": 13.301091269841269
-    }, {
-      "id": "US-CA",
-      "name": "California",
-      "value": 8.114039845247135
-    }, {
-      "id": "US-AR",
-      "name": "Arkansas",
-      "value": 27.53074739829707
-    }, {
-      "id": "US-AZ",
-      "name": "Arizona",
-      "value": 9.454474097331241
-    }, {
-      "id": "US-AL",
-      "name": "Alabama",
-      "value": 17.997084548104954
-    }]
-  }, {
     "date": "10/13/2020",
     "elements": [{
       "id": "US-WY",
@@ -956,7 +160,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 12.59752488566048
+      "value": 15.402206080172183
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -1155,7 +359,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 12.875975248856605
+      "value": 15.680656443368308
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -1354,7 +558,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 12.70917406510627
+      "value": 15.513855259617973
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -1553,7 +757,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 13.271455474845308
+      "value": 16.07613666935701
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -1752,7 +956,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 13.263384449825129
+      "value": 16.068065644336833
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -1951,7 +1155,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 13.494753833736885
+      "value": 16.299435028248592
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -2150,7 +1354,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 13.588915792305626
+      "value": 16.39359698681733
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -2349,7 +1553,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 13.357546408393869
+      "value": 14.90045735808448
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -2548,7 +1752,7 @@
     }, {
       "id": "US-GA",
       "name": "Georgia",
-      "value": 13.566047888081787
+      "value": 15.1089588377724
     }, {
       "id": "US-FL",
       "name": "Florida",
@@ -2585,6 +1789,802 @@
       "id": "US-AL",
       "name": "Alabama",
       "value": 21.384839650145775
+    }]
+  }, {
+    "date": "10/22/2020",
+    "elements": [{
+      "id": "US-WY",
+      "name": "Wyoming",
+      "value": 41.1576354679803
+    }, {
+      "id": "US-WI",
+      "name": "Wisconsin",
+      "value": 60.83456062837505
+    }, {
+      "id": "US-WV",
+      "name": "West Virginia",
+      "value": 15.29130087789306
+    }, {
+      "id": "US-WA",
+      "name": "Washington",
+      "value": 8.552656279331705
+    }, {
+      "id": "US-VA",
+      "name": "Virginia",
+      "value": 11.980595516895283
+    }, {
+      "id": "US-VT",
+      "name": "Vermont",
+      "value": 1.8894009216589862
+    }, {
+      "id": "US-UT",
+      "name": "Utah",
+      "value": 40.137961726746774
+    }, {
+      "id": "US-TX",
+      "name": "Texas",
+      "value": 18.773891625615764
+    }, {
+      "id": "US-TN",
+      "name": "Tennessee",
+      "value": 31.29052499477097
+    }, {
+      "id": "US-SD",
+      "name": "South Dakota",
+      "value": 78.39285714285714
+    }, {
+      "id": "US-SC",
+      "name": "South Carolina",
+      "value": 18.163661581137312
+    }, {
+      "id": "US-RI",
+      "name": "Rhode Island",
+      "value": 26.401617250673848
+    }, {
+      "id": "US-PA",
+      "name": "Pennsylvania",
+      "value": 11.597098214285714
+    }, {
+      "id": "US-OR",
+      "name": "Oregon",
+      "value": 7.728503723764389
+    }, {
+      "id": "US-OK",
+      "name": "Oklahoma",
+      "value": 29.725829725829726
+    }, {
+      "id": "US-OH",
+      "name": "Ohio",
+      "value": 17.52413540266406
+    }, {
+      "id": "US-ND",
+      "name": "North Dakota",
+      "value": 98.0827067669173
+    }, {
+      "id": "US-NC",
+      "name": "North Carolina",
+      "value": 19.33542148985428
+    }, {
+      "id": "US-NY",
+      "name": "New York",
+      "value": 7.766434080058758
+    }, {
+      "id": "US-NM",
+      "name": "New Mexico",
+      "value": 30.10204081632653
+    }, {
+      "id": "US-NJ",
+      "name": "New Jersey",
+      "value": 11.583011583011581
+    }, {
+      "id": "US-NH",
+      "name": "New Hampshire",
+      "value": 5.966386554621849
+    }, {
+      "id": "US-NV",
+      "name": "Nevada",
+      "value": 21.641929499072358
+    }, {
+      "id": "US-NE",
+      "name": "Nebraska",
+      "value": 43.23464100666173
+    }, {
+      "id": "US-MT",
+      "name": "Montana",
+      "value": 60.04005340453938
+    }, {
+      "id": "US-MO",
+      "name": "Missouri",
+      "value": 30.763145649139137
+    }, {
+      "id": "US-MS",
+      "name": "Mississippi",
+      "value": 25.436241610738257
+    }, {
+      "id": "US-MN",
+      "name": "Minnesota",
+      "value": 26.970618034447824
+    }, {
+      "id": "US-MI",
+      "name": "Michigan",
+      "value": 19.23065923065923
+    }, {
+      "id": "US-MA",
+      "name": "Massachusetts",
+      "value": 10.727762803234501
+    }, {
+      "id": "US-MD",
+      "name": "Maryland",
+      "value": 10.170011806375442
+    }, {
+      "id": "US-ME",
+      "name": "Maine",
+      "value": 2.249466950959488
+    }, {
+      "id": "US-LA",
+      "name": "Louisiana",
+      "value": 15.12442396313364
+    }, {
+      "id": "US-KY",
+      "name": "Kentucky",
+      "value": 25.03036113774369
+    }, {
+      "id": "US-KS",
+      "name": "Kansas",
+      "value": 27.658321060382914
+    }, {
+      "id": "US-IA",
+      "name": "Iowa",
+      "value": 34.08227848101266
+    }, {
+      "id": "US-IN",
+      "name": "Indiana",
+      "value": 27.917639566970916
+    }, {
+      "id": "US-IL",
+      "name": "Illinois",
+      "value": 31.611230127410078
+    }, {
+      "id": "US-ID",
+      "name": "Idaho",
+      "value": 43.00079808459697
+    }, {
+      "id": "US-GA",
+      "name": "Georgia",
+      "value": 14.994619316653216
+    }, {
+      "id": "US-FL",
+      "name": "Florida",
+      "value": 13.900638467677572
+    }, {
+      "id": "US-DC",
+      "name": "District of Columbia",
+      "value": 7.364185110663984
+    }, {
+      "id": "US-DE",
+      "name": "Delaware",
+      "value": 13.402061855670102
+    }, {
+      "id": "US-CT",
+      "name": "Connecticut",
+      "value": 12.04481792717087
+    }, {
+      "id": "US-CO",
+      "name": "Colorado",
+      "value": 19.940476190476193
+    }, {
+      "id": "US-CA",
+      "name": "California",
+      "value": 8.337491412662256
+    }, {
+      "id": "US-AR",
+      "name": "Arkansas",
+      "value": 30.037842951750235
+    }, {
+      "id": "US-AZ",
+      "name": "Arizona",
+      "value": 12.339089481946626
+    }, {
+      "id": "US-AL",
+      "name": "Alabama",
+      "value": 22.440233236151606
+    }]
+  }, {
+    "date": "10/23/2020",
+    "elements": [{
+      "id": "US-WY",
+      "name": "Wyoming",
+      "value": 42.95566502463055
+    }, {
+      "id": "US-WI",
+      "name": "Wisconsin",
+      "value": 59.82572410407461
+    }, {
+      "id": "US-WV",
+      "name": "West Virginia",
+      "value": 15.762170790103754
+    }, {
+      "id": "US-WA",
+      "name": "Washington",
+      "value": 8.49633940304111
+    }, {
+      "id": "US-VA",
+      "name": "Virginia",
+      "value": 11.982268317162934
+    }, {
+      "id": "US-VT",
+      "name": "Vermont",
+      "value": 1.935483870967742
+    }, {
+      "id": "US-UT",
+      "name": "Utah",
+      "value": 40.387182910547395
+    }, {
+      "id": "US-TX",
+      "name": "Texas",
+      "value": 18.500985221674878
+    }, {
+      "id": "US-TN",
+      "name": "Tennessee",
+      "value": 30.79690441330266
+    }, {
+      "id": "US-SD",
+      "name": "South Dakota",
+      "value": 81.25
+    }, {
+      "id": "US-SC",
+      "name": "South Carolina",
+      "value": 17.69486823855756
+    }, {
+      "id": "US-RI",
+      "name": "Rhode Island",
+      "value": 29.0566037735849
+    }, {
+      "id": "US-PA",
+      "name": "Pennsylvania",
+      "value": 12.1640625
+    }, {
+      "id": "US-OR",
+      "name": "Oregon",
+      "value": 7.748815165876778
+    }, {
+      "id": "US-OK",
+      "name": "Oklahoma",
+      "value": 31.194083694083698
+    }, {
+      "id": "US-OH",
+      "name": "Ohio",
+      "value": 17.82598069167787
+    }, {
+      "id": "US-ND",
+      "name": "North Dakota",
+      "value": 101.48496240601504
+    }, {
+      "id": "US-NC",
+      "name": "North Carolina",
+      "value": 19.174724227155114
+    }, {
+      "id": "US-NY",
+      "name": "New York",
+      "value": 7.8876239441792135
+    }, {
+      "id": "US-NM",
+      "name": "New Mexico",
+      "value": 30.061224489795915
+    }, {
+      "id": "US-NJ",
+      "name": "New Jersey",
+      "value": 11.890283140283136
+    }, {
+      "id": "US-NH",
+      "name": "New Hampshire",
+      "value": 5.966386554621848
+    }, {
+      "id": "US-NV",
+      "name": "Nevada",
+      "value": 22.945269016697587
+    }, {
+      "id": "US-NE",
+      "name": "Nebraska",
+      "value": 43.35307179866765
+    }, {
+      "id": "US-MT",
+      "name": "Montana",
+      "value": 62.65687583444592
+    }, {
+      "id": "US-MO",
+      "name": "Missouri",
+      "value": 30.639832480223365
+    }, {
+      "id": "US-MS",
+      "name": "Mississippi",
+      "value": 23.69127516778524
+    }, {
+      "id": "US-MN",
+      "name": "Minnesota",
+      "value": 27.978723404255323
+    }, {
+      "id": "US-MI",
+      "name": "Michigan",
+      "value": 18.841698841698843
+    }, {
+      "id": "US-MA",
+      "name": "Massachusetts",
+      "value": 11.685672817748289
+    }, {
+      "id": "US-MD",
+      "name": "Maryland",
+      "value": 10.462809917355372
+    }, {
+      "id": "US-ME",
+      "name": "Maine",
+      "value": 2.4307036247334755
+    }, {
+      "id": "US-LA",
+      "name": "Louisiana",
+      "value": 15.213517665130569
+    }, {
+      "id": "US-KY",
+      "name": "Kentucky",
+      "value": 26.116970278044107
+    }, {
+      "id": "US-KS",
+      "name": "Kansas",
+      "value": 28.13451153657339
+    }, {
+      "id": "US-IA",
+      "name": "Iowa",
+      "value": 36.21157323688969
+    }, {
+      "id": "US-IN",
+      "name": "Indiana",
+      "value": 29.847166206750156
+    }, {
+      "id": "US-IL",
+      "name": "Illinois",
+      "value": 32.59555756004059
+    }, {
+      "id": "US-ID",
+      "name": "Idaho",
+      "value": 43.67916999201916
+    }, {
+      "id": "US-GA",
+      "name": "Georgia",
+      "value": 14.881624966370731
+    }, {
+      "id": "US-FL",
+      "name": "Florida",
+      "value": 15.365123703112529
+    }, {
+      "id": "US-DC",
+      "name": "District of Columbia",
+      "value": 7.464788732394367
+    }, {
+      "id": "US-DE",
+      "name": "Delaware",
+      "value": 14.256259204712816
+    }, {
+      "id": "US-CT",
+      "name": "Connecticut",
+      "value": 13.385354141656665
+    }, {
+      "id": "US-CO",
+      "name": "Colorado",
+      "value": 20.327380952380956
+    }, {
+      "id": "US-CA",
+      "name": "California",
+      "value": 9.416784177604224
+    }, {
+      "id": "US-AR",
+      "name": "Arkansas",
+      "value": 29.67833491012299
+    }, {
+      "id": "US-AZ",
+      "name": "Arizona",
+      "value": 12.099686028257457
+    }, {
+      "id": "US-AL",
+      "name": "Alabama",
+      "value": 23.037900874635568
+    }]
+  }, {
+    "date": "10/24/2020",
+    "elements": [{
+      "id": "US-WY",
+      "name": "Wyoming",
+      "value": 46.30541871921182
+    }, {
+      "id": "US-WI",
+      "name": "Wisconsin",
+      "value": 60.94010800196367
+    }, {
+      "id": "US-WV",
+      "name": "West Virginia",
+      "value": 14.461292897047088
+    }, {
+      "id": "US-WA",
+      "name": "Washington",
+      "value": 8.740379200300355
+    }, {
+      "id": "US-VA",
+      "name": "Virginia",
+      "value": 11.97724991635999
+    }, {
+      "id": "US-VT",
+      "name": "Vermont",
+      "value": 2.327188940092166
+    }, {
+      "id": "US-UT",
+      "name": "Utah",
+      "value": 42.75923453493546
+    }, {
+      "id": "US-TX",
+      "name": "Texas",
+      "value": 19.507389162561577
+    }, {
+      "id": "US-TN",
+      "name": "Tennessee",
+      "value": 36.61995398452207
+    }, {
+      "id": "US-SD",
+      "name": "South Dakota",
+      "value": 87.61363636363636
+    }, {
+      "id": "US-SC",
+      "name": "South Carolina",
+      "value": 17.464632454923713
+    }, {
+      "id": "US-RI",
+      "name": "Rhode Island",
+      "value": 32.70889487870619
+    }, {
+      "id": "US-PA",
+      "name": "Pennsylvania",
+      "value": 12.805803571428571
+    }, {
+      "id": "US-OR",
+      "name": "Oregon",
+      "value": 8.158429248476642
+    }, {
+      "id": "US-OK",
+      "name": "Oklahoma",
+      "value": 30.836940836940837
+    }, {
+      "id": "US-OH",
+      "name": "Ohio",
+      "value": 18.278137602346327
+    }, {
+      "id": "US-ND",
+      "name": "North Dakota",
+      "value": 101.9172932330827
+    }, {
+      "id": "US-NC",
+      "name": "North Carolina",
+      "value": 18.38758000817105
+    }, {
+      "id": "US-NY",
+      "name": "New York",
+      "value": 7.838413514506059
+    }, {
+      "id": "US-NM",
+      "name": "New Mexico",
+      "value": 29.918367346938773
+    }, {
+      "id": "US-NJ",
+      "name": "New Jersey",
+      "value": 12.268339768339766
+    }, {
+      "id": "US-NH",
+      "name": "New Hampshire",
+      "value": 6.281512605042017
+    }, {
+      "id": "US-NV",
+      "name": "Nevada",
+      "value": 24.174397031539886
+    }, {
+      "id": "US-NE",
+      "name": "Nebraska",
+      "value": 42.83493708364175
+    }, {
+      "id": "US-MT",
+      "name": "Montana",
+      "value": 65.76769025367155
+    }, {
+      "id": "US-MO",
+      "name": "Missouri",
+      "value": 30.486272684969755
+    }, {
+      "id": "US-MS",
+      "name": "Mississippi",
+      "value": 22.152444870565677
+    }, {
+      "id": "US-MN",
+      "name": "Minnesota",
+      "value": 26.512158054711247
+    }, {
+      "id": "US-MI",
+      "name": "Michigan",
+      "value": 18.567138567138564
+    }, {
+      "id": "US-MA",
+      "name": "Massachusetts",
+      "value": 12.31391250259175
+    }, {
+      "id": "US-MD",
+      "name": "Maryland",
+      "value": 10.30224321133412
+    }, {
+      "id": "US-ME",
+      "name": "Maine",
+      "value": 2.4520255863539444
+    }, {
+      "id": "US-LA",
+      "name": "Louisiana",
+      "value": 14.98310291858679
+    }, {
+      "id": "US-KY",
+      "name": "Kentucky",
+      "value": 26.458932566315116
+    }, {
+      "id": "US-KS",
+      "name": "Kansas",
+      "value": 27.555228276877763
+    }, {
+      "id": "US-IA",
+      "name": "Iowa",
+      "value": 35.488245931283906
+    }, {
+      "id": "US-IN",
+      "name": "Indiana",
+      "value": 30.205901082572698
+    }, {
+      "id": "US-IL",
+      "name": "Illinois",
+      "value": 32.602322697034616
+    }, {
+      "id": "US-ID",
+      "name": "Idaho",
+      "value": 46.67996807661613
+    }, {
+      "id": "US-GA",
+      "name": "Georgia",
+      "value": 15.38875437180522
+    }, {
+      "id": "US-FL",
+      "name": "Florida",
+      "value": 15.524740622505984
+    }, {
+      "id": "US-DC",
+      "name": "District of Columbia",
+      "value": 7.122736418511066
+    }, {
+      "id": "US-DE",
+      "name": "Delaware",
+      "value": 14.18262150220913
+    }, {
+      "id": "US-CT",
+      "name": "Connecticut",
+      "value": 12.893157262905163
+    }, {
+      "id": "US-CO",
+      "name": "Colorado",
+      "value": 20.721726190476193
+    }, {
+      "id": "US-CA",
+      "name": "California",
+      "value": 10.20501138952164
+    }, {
+      "id": "US-AR",
+      "name": "Arkansas",
+      "value": 31.201513718070007
+    }, {
+      "id": "US-AZ",
+      "name": "Arizona",
+      "value": 12.562794348508636
+    }, {
+      "id": "US-AL",
+      "name": "Alabama",
+      "value": 30.73469387755102
+    }]
+  }, {
+    "date": "10/25/2020",
+    "elements": [{
+      "id": "US-WY",
+      "name": "Wyoming",
+      "value": 48.99014778325123
+    }, {
+      "id": "US-WI",
+      "name": "Wisconsin",
+      "value": 72.37849779086892
+    }, {
+      "id": "US-WV",
+      "name": "West Virginia",
+      "value": 15.251396648044693
+    }, {
+      "id": "US-WA",
+      "name": "Washington",
+      "value": 8.856767411300918
+    }, {
+      "id": "US-VA",
+      "name": "Virginia",
+      "value": 11.933757109401139
+    }, {
+      "id": "US-VT",
+      "name": "Vermont",
+      "value": 2.695852534562212
+    }, {
+      "id": "US-UT",
+      "name": "Utah",
+      "value": 43.791722296395186
+    }, {
+      "id": "US-TX",
+      "name": "Texas",
+      "value": 20.935467980295563
+    }, {
+      "id": "US-TN",
+      "name": "Tennessee",
+      "value": 36.77682493202259
+    }, {
+      "id": "US-SD",
+      "name": "South Dakota",
+      "value": 89.77272727272725
+    }, {
+      "id": "US-SC",
+      "name": "South Carolina",
+      "value": 16.995839112343965
+    }, {
+      "id": "US-RI",
+      "name": "Rhode Island",
+      "value": 32.70889487870619
+    }, {
+      "id": "US-PA",
+      "name": "Pennsylvania",
+      "value": 13.058035714285714
+    }, {
+      "id": "US-OR",
+      "name": "Oregon",
+      "value": 8.202437373053488
+    }, {
+      "id": "US-OK",
+      "name": "Oklahoma",
+      "value": 33.124098124098126
+    }, {
+      "id": "US-OH",
+      "name": "Ohio",
+      "value": 19.04069412196016
+    }, {
+      "id": "US-ND",
+      "name": "North Dakota",
+      "value": 105.50751879699249
+    }, {
+      "id": "US-NC",
+      "name": "North Carolina",
+      "value": 19.636388397112892
+    }, {
+      "id": "US-NY",
+      "name": "New York",
+      "value": 8.036724201248623
+    }, {
+      "id": "US-NM",
+      "name": "New Mexico",
+      "value": 31.952380952380953
+    }, {
+      "id": "US-NJ",
+      "name": "New Jersey",
+      "value": 13.836872586872586
+    }, {
+      "id": "US-NH",
+      "name": "New Hampshire",
+      "value": 6.4390756302521
+    }, {
+      "id": "US-NV",
+      "name": "Nevada",
+      "value": 23.594619666048235
+    }, {
+      "id": "US-NE",
+      "name": "Nebraska",
+      "value": 43.53071798667654
+    }, {
+      "id": "US-MT",
+      "name": "Montana",
+      "value": 64.95327102803738
+    }, {
+      "id": "US-MO",
+      "name": "Missouri",
+      "value": 30.451372731503028
+    }, {
+      "id": "US-MS",
+      "name": "Mississippi",
+      "value": 24.36241610738255
+    }, {
+      "id": "US-MN",
+      "name": "Minnesota",
+      "value": 27.943262411347515
+    }, {
+      "id": "US-MI",
+      "name": "Michigan",
+      "value": 23.06020306020306
+    }, {
+      "id": "US-MA",
+      "name": "Massachusetts",
+      "value": 13.59734605017624
+    }, {
+      "id": "US-MD",
+      "name": "Maryland",
+      "value": 10.380165289256198
+    }, {
+      "id": "US-ME",
+      "name": "Maine",
+      "value": 2.388059701492537
+    }, {
+      "id": "US-LA",
+      "name": "Louisiana",
+      "value": 14.98310291858679
+    }, {
+      "id": "US-KY",
+      "name": "Kentucky",
+      "value": 27.73410035155002
+    }, {
+      "id": "US-KS",
+      "name": "Kansas",
+      "value": 27.29995090819833
+    }, {
+      "id": "US-IA",
+      "name": "Iowa",
+      "value": 37.31464737793851
+    }, {
+      "id": "US-IN",
+      "name": "Indiana",
+      "value": 30.74931012523879
+    }, {
+      "id": "US-IL",
+      "name": "Illinois",
+      "value": 35.23170594204533
+    }, {
+      "id": "US-ID",
+      "name": "Idaho",
+      "value": 50.93375897845173
+    }, {
+      "id": "US-GA",
+      "name": "Georgia",
+      "value": 15.513855259617971
+    }, {
+      "id": "US-FL",
+      "name": "Florida",
+      "value": 15.808725724926843
+    }, {
+      "id": "US-DC",
+      "name": "District of Columbia",
+      "value": 7.484909456740444
+    }, {
+      "id": "US-DE",
+      "name": "Delaware",
+      "value": 13.328424153166422
+    }, {
+      "id": "US-CT",
+      "name": "Connecticut",
+      "value": 12.893157262905163
+    }, {
+      "id": "US-CO",
+      "name": "Colorado",
+      "value": 22.78025793650794
+    }, {
+      "id": "US-CA",
+      "name": "California",
+      "value": 10.987091875474563
+    }, {
+      "id": "US-AR",
+      "name": "Arkansas",
+      "value": 32.620624408703875
+    }, {
+      "id": "US-AZ",
+      "name": "Arizona",
+      "value": 12.7276295133438
+    }, {
+      "id": "US-AL",
+      "name": "Alabama",
+      "value": 33.8600583090379
     }]
   }]
 }

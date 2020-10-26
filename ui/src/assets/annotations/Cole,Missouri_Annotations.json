@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MECole,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.02638647830703305], ["biweekly", 0.022308698313494992], ["triweekly", 0.022109790863385614]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 79.11171504890966], ["biweekly", 62.91708161536816], ["triweekly", 58.07730610649367]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3283.60153755945], ["weekly", 3113.6509591132044], ["biweekly", 2875.8504509367763], ["triweekly", 2668.0193218729933]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.643054551178121], ["biweekly", 0.7075961176821481], ["triweekly", 0.8332600197949267]],
-      "Confirmed Cumulative Cases": [["daily", 2520.0], ["weekly", 2389.5714285714284], ["biweekly", 2207.0714285714284], ["triweekly", 2047.5714285714287]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 60.714285714285715], ["biweekly", 48.285714285714285], ["triweekly", 44.57142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.00753968253968254], ["weekly", 0.00730240609794594], ["biweekly", 0.007534970100188271], ["triweekly", 0.007779748123612858]],
+      "Spread Rate": [["daily", 0.031252543504104224], ["weekly", 0.02638647830703305], ["biweekly", 0.022308698313494992], ["triweekly", 0.022109790863385614]],
+      "Confirmed Daily Cases per 100k": [["daily", 104.24131865268096], ["weekly", 79.11171504890966], ["biweekly", 62.91708161536816], ["triweekly", 58.07730610649367]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3387.842856212131], ["weekly", 3113.6509591132044], ["biweekly", 2875.8504509367763], ["triweekly", 2668.0193218729933]],
+      "Daily Growth Rate": [["daily", 1.363988678940947], ["weekly", 0.643054551178121], ["biweekly", 0.7075961176821481], ["triweekly", 0.8332600197949267]],
+      "Confirmed Cumulative Cases": [["daily", 2600.0], ["weekly", 2389.5714285714284], ["biweekly", 2207.0714285714284], ["triweekly", 2047.5714285714287]],
+      "Confirmed Daily Cases": [["daily", 80.0], ["weekly", 60.714285714285715], ["biweekly", 48.285714285714285], ["triweekly", 44.57142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.007307692307692308], ["weekly", 0.00730240609794594], ["biweekly", 0.007534970100188271], ["triweekly", 0.007779748123612858]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008624602814344077], ["weekly", 0.008615691186116832], ["biweekly", 0.008856615272000452], ["triweekly", 0.00902506118727591]]
+    },
+    "lat": "REPLACE_MECole,Missouri"
+  }, {
+    "locale": "Cole,Missouri",
+    "long": "REPLACE_MECole,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018670765262496225], ["weekly", 0.023670196743890086], ["biweekly", 0.023159976298969882], ["triweekly", 0.022234830009941205]],
+      "Confirmed Daily Cases per 100k": [["daily", 63.84780767476709], ["weekly", 73.8996491162756], ["biweekly", 67.01227627672348], ["triweekly", 60.18695184113127]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3451.690663886898], ["weekly", 3187.55060822948], ["biweekly", 2942.8627272134995], ["triweekly", 2728.206273714125]],
+      "Daily Growth Rate": [["daily", 0.6125], ["weekly", 0.8379100767411135], ["biweekly", 0.7503126342630363], ["triweekly", 0.8336182427623504]],
+      "Confirmed Cumulative Cases": [["daily", 2649.0], ["weekly", 2446.285714285714], ["biweekly", 2258.5], ["triweekly", 2093.7619047619046]],
+      "Confirmed Daily Cases": [["daily", 49.0], ["weekly", 56.714285714285715], ["biweekly", 51.42857142857143], ["triweekly", 46.19047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.007550018875047188], ["weekly", 0.0071791226632689515], ["biweekly", 0.007487039307576627], ["triweekly", 0.007718735516587982]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008857395925597875], ["weekly", 0.0084799961474365], ["biweekly", 0.008815340188187167], ["triweekly", 0.008970856512897526]]
+    },
+    "lat": "REPLACE_MECole,Missouri"
+  }, {
+    "locale": "Cole,Missouri",
+    "long": "REPLACE_MECole,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03959814286147978], ["weekly", 0.02281467779463751], ["biweekly", 0.023250679987986928], ["triweekly", 0.022255457520070528]],
+      "Confirmed Daily Cases per 100k": [["daily", 139.4227636979608], ["weekly", 72.78277784499689], ["biweekly", 68.50143797176179], ["triweekly", 61.36587151636993]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3591.113427584859], ["weekly", 3260.3333860744765], ["biweekly", 3011.364165185261], ["triweekly", 2789.5721452304947]],
+      "Daily Growth Rate": [["daily", 2.183673469387755], ["weekly", 0.8526587539897906], ["biweekly", 0.7285864437868458], ["triweekly", 0.8317290088078989]],
+      "Confirmed Cumulative Cases": [["daily", 2756.0], ["weekly", 2502.1428571428573], ["biweekly", 2311.0714285714284], ["triweekly", 2140.8571428571427]],
+      "Confirmed Daily Cases": [["daily", 107.0], ["weekly", 55.857142857142854], ["biweekly", 52.57142857142857], ["triweekly", 47.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.00725689404934688], ["weekly", 0.007245422968207364], ["biweekly", 0.007466248705977243], ["triweekly", 0.007676653799220752]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008594757198109154], ["weekly", 0.008550506072436034], ["biweekly", 0.008802572427278926], ["triweekly", 0.008942490973712627]]
+    },
+    "lat": "REPLACE_MECole,Missouri"
+  }, {
+    "locale": "Cole,Missouri",
+    "long": "REPLACE_MECole,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03318770236435853], ["weekly", 0.024171495547322484], ["biweekly", 0.02293809268808213], ["triweekly", 0.023147505348523764]],
+      "Confirmed Daily Cases per 100k": [["daily", 121.18053293374162], ["weekly", 79.8562958964288], ["biweekly", 70.45596269649955], ["triweekly", 65.83335660148484]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3712.2939605186007], ["weekly", 3340.189681970906], ["biweekly", 3081.820127881761], ["triweekly", 2855.4055018319796]],
+      "Daily Growth Rate": [["daily", 0.8691588785046729], ["weekly", 0.9853913275386906], ["biweekly", 0.6984159340244993], ["triweekly", 0.8801579041755699]],
+      "Confirmed Cumulative Cases": [["daily", 2849.0], ["weekly", 2563.4285714285716], ["biweekly", 2365.1428571428573], ["triweekly", 2191.3809523809523]],
+      "Confirmed Daily Cases": [["daily", 93.0], ["weekly", 61.285714285714285], ["biweekly", 54.07142857142857], ["triweekly", 50.523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.007722007722007722], ["weekly", 0.007299864152615872], ["biweekly", 0.007412883852287698], ["triweekly", 0.0076289065148730335]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.009083402146985962], ["weekly", 0.008634899672022984], ["biweekly", 0.008742231654029663], ["triweekly", 0.008909971443653195]]
+    },
+    "lat": "REPLACE_MECole,Missouri"
+  }, {
+    "locale": "Cole,Missouri",
+    "long": "REPLACE_MECole,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01705278838271962], ["weekly", 0.023196344340695823], ["biweekly", 0.021958178724405007], ["triweekly", 0.0240029780136366]],
+      "Confirmed Daily Cases per 100k": [["daily", 63.84780767476709], ["weekly", 79.48400547266922], ["biweekly", 70.17674487867986], ["triweekly", 69.99059966680008]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3776.1417681933676], ["weekly", 3419.6736874435746], ["biweekly", 3151.9968727604405], ["triweekly", 2925.39610149878]],
+      "Daily Growth Rate": [["daily", 0.5268817204301075], ["weekly", 0.9128695110103727], ["biweekly", 0.6807644917914445], ["triweekly", 0.886172272539738]],
+      "Confirmed Cumulative Cases": [["daily", 2898.0], ["weekly", 2624.4285714285716], ["biweekly", 2419.0], ["triweekly", 2245.095238095238]],
+      "Confirmed Daily Cases": [["daily", 49.0], ["weekly", 61.0], ["biweekly", 53.857142857142854], ["triweekly", 53.714285714285715]],
+      "Confirmed Fatality Rate": [["daily", 0.00759144237405107], ["weekly", 0.007341311758060174], ["biweekly", 0.007418939296461109], ["triweekly", 0.00760924948517201]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.008881711748082357], ["weekly", 0.008705116344231344], ["biweekly", 0.00872698035059158], ["triweekly", 0.008908203871003079]]
     },
     "lat": "REPLACE_MECole,Missouri"
   }]

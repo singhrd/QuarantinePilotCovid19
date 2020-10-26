@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEHarrison,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.026864604500420036], ["biweekly", 0.018536513963220345], ["triweekly", 0.01999304026477449]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 51.3136288998358], ["biweekly", 34.20908593322387], ["triweekly", 34.20908593322387]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2095.3065134099616], ["weekly", 1977.2851669403394], ["biweekly", 1849.00109469075], ["triweekly", 1740.672322568874]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7125850340136053], ["biweekly", 0.6879251700680272], ["triweekly", 0.7523210840315185]],
-      "Confirmed Cumulative Cases": [["daily", 175.0], ["weekly", 165.14285714285714], ["biweekly", 154.42857142857142], ["triweekly", 145.38095238095238]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.285714285714286], ["biweekly", 2.857142857142857], ["triweekly", 2.857142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.005714285714285714], ["weekly", 0.0060695741236649], ["biweekly", 0.006515249428841507], ["triweekly", 0.006969299494762915]],
+      "Spread Rate": [["daily", 0.022599831917240465], ["weekly", 0.026864604500420036], ["biweekly", 0.018536513963220345], ["triweekly", 0.01999304026477449]],
+      "Confirmed Daily Cases per 100k": [["daily", 47.89272030651341], ["weekly", 51.3136288998358], ["biweekly", 34.20908593322387], ["triweekly", 34.20908593322387]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2143.199233716475], ["weekly", 1977.2851669403394], ["biweekly", 1849.00109469075], ["triweekly", 1740.672322568874]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.7125850340136053], ["biweekly", 0.6879251700680272], ["triweekly", 0.7523210840315185]],
+      "Confirmed Cumulative Cases": [["daily", 179.0], ["weekly", 165.14285714285714], ["biweekly", 154.42857142857142], ["triweekly", 145.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 4.285714285714286], ["biweekly", 2.857142857142857], ["triweekly", 2.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.00558659217877095], ["weekly", 0.0060695741236649], ["biweekly", 0.006515249428841507], ["triweekly", 0.006969299494762915]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006493506493506494], ["weekly", 0.006960924734018115], ["biweekly", 0.007419162180311919], ["triweekly", 0.008012770272003518]]
+    },
+    "lat": "REPLACE_MEHarrison,Missouri"
+  }, {
+    "locale": "Harrison,Missouri",
+    "long": "REPLACE_MEHarrison,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01662088123604022], ["weekly", 0.021490457632446485], ["biweekly", 0.019100348572330703], ["triweekly", 0.020248184335380885]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.91954022988506], ["weekly", 42.76135741652983], ["biweekly", 35.91954022988506], ["triweekly", 35.349388797664666]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2179.1187739463603], ["weekly", 2020.0465243568692], ["biweekly", 1884.9206349206347], ["triweekly", 1776.0217113665387]],
+      "Daily Growth Rate": [["daily", 0.75], ["weekly", 0.8554421768707482], ["biweekly", 0.6879251700680272], ["triweekly", 0.7724472616891553]],
+      "Confirmed Cumulative Cases": [["daily", 182.0], ["weekly", 168.71428571428572], ["biweekly", 157.42857142857142], ["triweekly", 148.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.5714285714285716], ["biweekly", 3.0], ["triweekly", 2.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.005494505494505495], ["weekly", 0.005940014935845538], ["biweekly", 0.0063929152935399535], ["triweekly", 0.0068283272867516]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006369426751592357], ["weekly", 0.006845815651234371], ["biweekly", 0.00727248346220463], ["triweekly", 0.007859664016262032]]
+    },
+    "lat": "REPLACE_MEHarrison,Missouri"
+  }, {
+    "locale": "Harrison,Missouri",
+    "long": "REPLACE_MEHarrison,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.02110869738978392], ["biweekly", 0.016728099107199603], ["triweekly", 0.019834044966416636]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 42.76135741652983], ["biweekly", 32.49863163656267], ["triweekly", 35.349388797664666]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2179.1187739463603], ["weekly", 2062.807881773399], ["biweekly", 1917.4192665571973], ["triweekly", 1811.3711001642037]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9149659863945577], ["biweekly", 0.4914965986394558], ["triweekly", 0.7367329759748696]],
+      "Confirmed Cumulative Cases": [["daily", 182.0], ["weekly", 172.28571428571428], ["biweekly", 160.14285714285714], ["triweekly", 151.28571428571428]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.5714285714285716], ["biweekly", 2.7142857142857144], ["triweekly", 2.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.005494505494505495], ["weekly", 0.005815026184833128], ["biweekly", 0.0062893482256871705], ["triweekly", 0.006693145008712179]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00625], ["weekly", 0.006763670266541215], ["biweekly", 0.007132204420651703], ["triweekly", 0.007713733753759243]]
+    },
+    "lat": "REPLACE_MEHarrison,Missouri"
+  }, {
+    "locale": "Harrison,Missouri",
+    "long": "REPLACE_MEHarrison,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02710192977779169], ["weekly", 0.018404695977566936], ["biweekly", 0.01623378176115864], ["triweekly", 0.01827262483198848]],
+      "Confirmed Daily Cases per 100k": [["daily", 59.86590038314176], ["weekly", 37.62999452654625], ["biweekly", 31.643404488232076], ["triweekly", 33.06878306878308]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2238.984674329502], ["weekly", 2100.4378762999454], ["biweekly", 1949.0626710454294], ["triweekly", 1844.439883232987]],
+      "Daily Growth Rate": [["daily", 1.2909944487358056], ["weekly", 0.7721088435374149], ["biweekly", 0.48129251700680264], ["triweekly", 0.6732409124828062]],
+      "Confirmed Cumulative Cases": [["daily", 187.0], ["weekly", 175.42857142857142], ["biweekly", 162.78571428571428], ["triweekly", 154.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 3.142857142857143], ["biweekly", 2.642857142857143], ["triweekly", 2.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.0053475935828877], ["weekly", 0.0057070983983339135], ["biweekly", 0.00618920206642771], ["triweekly", 0.006570763549925191]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006097560975609756], ["weekly", 0.00667130573452151], ["biweekly", 0.0070025961257208285], ["triweekly", 0.00756631497316289]]
+    },
+    "lat": "REPLACE_MEHarrison,Missouri"
+  }, {
+    "locale": "Harrison,Missouri",
+    "long": "REPLACE_MEHarrison,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.0187488841471983], ["biweekly", 0.01816963388814376], ["triweekly", 0.01768077202347214]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 39.340448823207446], ["biweekly", 35.91954022988506], ["triweekly", 33.06878306878306]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2238.984674329502], ["weekly", 2139.7783251231526], ["biweekly", 1984.9822112753147], ["triweekly", 1877.5086663017705]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7660604314520538], ["biweekly", 0.5735064062022174], ["triweekly", 0.675193029089273]],
+      "Confirmed Cumulative Cases": [["daily", 187.0], ["weekly", 178.71428571428572], ["biweekly", 165.78571428571428], ["triweekly", 156.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.2857142857142856], ["biweekly", 3.0], ["triweekly", 2.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.0053475935828877], ["weekly", 0.00559996019937362], ["biweekly", 0.006078562199195551], ["triweekly", 0.006456270959372408]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.005847953216374269], ["weekly", 0.0065571641990174855], ["biweekly", 0.006884426339371802], ["triweekly", 0.0074116371914051]]
     },
     "lat": "REPLACE_MEHarrison,Missouri"
   }]

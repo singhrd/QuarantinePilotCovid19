@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MECarroll,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.014867051413457994], ["biweekly", 0.015215753120197231], ["triweekly", 0.01260440734414677]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 27.982157259723795], ["biweekly", 27.159152634437806], ["triweekly", 21.946790007626507]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1981.7951376886738], ["weekly", 1919.2467861669381], ["biweekly", 1823.778249633763], ["triweekly", 1731.0530618515409]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.4282209851009183], ["biweekly", 0.7926819211218878], ["triweekly", 0.6962452503724144]],
-      "Confirmed Cumulative Cases": [["daily", 172.0], ["weekly", 166.57142857142858], ["biweekly", 158.28571428571428], ["triweekly", 150.23809523809524]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.4285714285714284], ["biweekly", 2.357142857142857], ["triweekly", 1.9047619047619047]],
-      "Confirmed Fatality Rate": [["daily", 0.011627906976744186], ["weekly", 0.012018065238270204], ["biweekly", 0.012686693305424478], ["triweekly", 0.013433333844066067]],
+      "Spread Rate": [["daily", 0.005797117684326558], ["weekly", 0.014867051413457994], ["biweekly", 0.015215753120197231], ["triweekly", 0.01260440734414677]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.522064754003917], ["weekly", 27.982157259723795], ["biweekly", 27.159152634437806], ["triweekly", 21.946790007626507]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1993.3172024426776], ["weekly", 1919.2467861669381], ["biweekly", 1823.778249633763], ["triweekly", 1731.0530618515409]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.4282209851009183], ["biweekly", 0.7926819211218878], ["triweekly", 0.6962452503724144]],
+      "Confirmed Cumulative Cases": [["daily", 173.0], ["weekly", 166.57142857142858], ["biweekly", 158.28571428571428], ["triweekly", 150.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.4285714285714284], ["biweekly", 2.357142857142857], ["triweekly", 1.9047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.011560693641618497], ["weekly", 0.012018065238270204], ["biweekly", 0.012686693305424478], ["triweekly", 0.013433333844066067]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012578616352201259], ["weekly", 0.013355321372578758], ["biweekly", 0.014140968146963997], ["triweekly", 0.014409346741288506]]
+    },
+    "lat": "REPLACE_MECarroll,Missouri"
+  }, {
+    "locale": "Carroll,Missouri",
+    "long": "REPLACE_MECarroll,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005763704716749807], ["weekly", 0.012055341753935396], ["biweekly", 0.01460940743711506], ["triweekly", 0.01509569940696673]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.522064754003917], ["weekly", 23.04412950800783], ["biweekly", 26.33614800915181], ["triweekly", 25.787478258961148]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2004.8392671966815], ["weekly", 1942.2909156749458], ["biweekly", 1850.1143976429146], ["triweekly", 1756.840540110502]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.5710781279580612], ["biweekly", 0.7926819211218878], ["triweekly", 0.743864297991462]],
+      "Confirmed Cumulative Cases": [["daily", 174.0], ["weekly", 168.57142857142858], ["biweekly", 160.57142857142858], ["triweekly", 152.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.0], ["biweekly", 2.2857142857142856], ["triweekly", 2.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.011494252873563218], ["weekly", 0.011872647708186952], ["biweekly", 0.012499285911031473], ["triweekly", 0.013227985166380478]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012345679012345678], ["weekly", 0.013125924113875998], ["biweekly", 0.013905653895477238], ["triweekly", 0.014313159893965453]]
+    },
+    "lat": "REPLACE_MECarroll,Missouri"
+  }, {
+    "locale": "Carroll,Missouri",
+    "long": "REPLACE_MECarroll,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01709443335929972], ["weekly", 0.01020842342602078], ["biweekly", 0.014516302972376303], ["triweekly", 0.014249661659659865]],
+      "Confirmed Daily Cases per 100k": [["daily", 34.56619426201175], ["weekly", 19.752111006863856], ["biweekly", 26.336148009151806], ["triweekly", 24.69013875857982]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2039.4054614586933], ["weekly", 1962.0430266818098], ["biweekly", 1876.4505456520667], ["triweekly", 1781.5306788690816]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 0.6067924136723468], ["biweekly", 0.8283962068361735], ["triweekly", 0.7914833456105096]],
+      "Confirmed Cumulative Cases": [["daily", 177.0], ["weekly", 170.28571428571428], ["biweekly", 162.85714285714286], ["triweekly", 154.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 1.7142857142857142], ["biweekly", 2.2857142857142856], ["triweekly", 2.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.01694915254237288], ["weekly", 0.0117510154026466], ["biweekly", 0.012314267756125022], ["triweekly", 0.013037050733264806]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018518518518518517], ["weekly", 0.012877520109603446], ["biweekly", 0.013680068398573912], ["triweekly", 0.014210918245830087]]
+    },
+    "lat": "REPLACE_MECarroll,Missouri"
+  }, {
+    "locale": "Carroll,Missouri",
+    "long": "REPLACE_MECarroll,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.011236073266926105], ["weekly", 0.01265048533449217], ["biweekly", 0.0132655104139352], ["triweekly", 0.012898807339780913]],
+      "Confirmed Daily Cases per 100k": [["daily", 23.044129508007835], ["weekly", 24.69013875857982], ["biweekly", 24.690138758579817], ["triweekly", 23.04412950800783]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2062.449590966701], ["weekly", 1986.7331654403895], ["biweekly", 1901.1406844106464], ["triweekly", 1804.5748083770898]],
+      "Daily Growth Rate": [["daily", 0.6666666666666666], ["weekly", 1.0353638422437754], ["biweekly", 0.6855390639790306], ["triweekly", 0.8391023932295573]],
+      "Confirmed Cumulative Cases": [["daily", 179.0], ["weekly", 172.42857142857142], ["biweekly", 165.0], ["triweekly", 156.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.142857142857143], ["biweekly", 2.142857142857143], ["triweekly", 2.0]],
+      "Confirmed Fatality Rate": [["daily", 0.01675977653631285], ["weekly", 0.012408654478364773], ["biweekly", 0.012553104210803748], ["triweekly", 0.013138685863148526]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017857142857142856], ["weekly", 0.013579388158410272], ["biweekly", 0.013944618663124176], ["triweekly", 0.014371251739496917]]
+    },
+    "lat": "REPLACE_MECarroll,Missouri"
+  }, {
+    "locale": "Carroll,Missouri",
+    "long": "REPLACE_MECarroll,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0490561569891943], ["weekly", 0.009060260919642309], ["biweekly", 0.010282906351536296], ["triweekly", 0.013433858447729777]],
+      "Confirmed Daily Cases per 100k": [["daily", 103.69858278603525], ["weekly", 18.10610175629187], ["biweekly", 19.752111006863853], ["triweekly", 24.141469008389155]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2166.1481737527365], ["weekly", 2004.8392671966815], ["biweekly", 1920.8927954175103], ["triweekly", 1828.716277385479]],
+      "Daily Growth Rate": [["daily", 4.5], ["weekly", 0.9285714285714286], ["biweekly", 0.6188723973123639], ["triweekly", 0.870848424975589]],
+      "Confirmed Cumulative Cases": [["daily", 188.0], ["weekly", 174.0], ["biweekly", 166.71428571428572], ["triweekly", 158.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 1.5714285714285714], ["biweekly", 1.7142857142857142], ["triweekly", 2.0952380952380953]],
+      "Confirmed Fatality Rate": [["daily", 0.015957446808510637], ["weekly", 0.013102227997157765], ["biweekly", 0.01282857212007955], ["triweekly", 0.013231303087981764]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.014287090594223308], ["biweekly", 0.014161927809004752], ["triweekly", 0.0145108598215357]]
     },
     "lat": "REPLACE_MECarroll,Missouri"
   }]

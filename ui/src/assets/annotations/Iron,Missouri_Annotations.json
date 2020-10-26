@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEIron,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.03148572362406554], ["biweekly", 0.026266055723236943], ["triweekly", 0.023119419799128578]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 25.396825396825395], ["biweekly", 19.753086419753085], ["triweekly", 16.46090534979424]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 898.7654320987654], ["weekly", 862.0811287477954], ["biweekly", 779.5414462081128], ["triweekly", 713.9329805996474]],
+      "Spread Rate": [["daily", 0.021739986636406528], ["weekly", 0.03148572362406554], ["biweekly", 0.026266055723236943], ["triweekly", 0.023119419799128578]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.753086419753085], ["weekly", 25.396825396825395], ["biweekly", 19.753086419753085], ["triweekly", 16.46090534979424]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 918.5185185185185], ["weekly", 862.0811287477954], ["biweekly", 779.5414462081128], ["triweekly", 713.9329805996474]],
       "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.4071428571428571], ["biweekly", 0.6916666666666667], ["triweekly", 0.61984126984127]],
-      "Confirmed Cumulative Cases": [["daily", 91.0], ["weekly", 87.28571428571429], ["biweekly", 78.92857142857143], ["triweekly", 72.28571428571429]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.5714285714285716], ["biweekly", 2.0], ["triweekly", 1.6666666666666667]],
+      "Confirmed Cumulative Cases": [["daily", 93.0], ["weekly", 87.28571428571429], ["biweekly", 78.92857142857143], ["triweekly", 72.28571428571429]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.5714285714285716], ["biweekly", 2.0], ["triweekly", 1.6666666666666667]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0018315018315018315], ["biweekly", 0.0009157509157509158], ["triweekly", 0.0006105006105006105]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.002197802197802198], ["biweekly", 0.001098901098901099], ["triweekly", 0.0007326007326007326]]
+    },
+    "lat": "REPLACE_MEIron,Missouri"
+  }, {
+    "locale": "Iron,Missouri",
+    "long": "REPLACE_MEIron,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02127739844728449], ["weekly", 0.025127238066237796], ["biweekly", 0.02558658737554425], ["triweekly", 0.02415465725800508]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.753086419753085], ["weekly", 21.164021164021165], ["biweekly", 19.753086419753085], ["triweekly", 17.401528512639622]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 938.2716049382716], ["weekly", 883.2451499118166], ["biweekly", 799.2945326278659], ["triweekly", 731.334509112287]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.4071428571428571], ["biweekly", 0.6202380952380953], ["triweekly", 0.61984126984127]],
+      "Confirmed Cumulative Cases": [["daily", 95.0], ["weekly", 89.42857142857143], ["biweekly", 80.92857142857143], ["triweekly", 74.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.142857142857143], ["biweekly", 2.0], ["triweekly", 1.7619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0009157509157509158], ["triweekly", 0.0006105006105006105]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.001098901098901099], ["triweekly", 0.0007326007326007326]]
+    },
+    "lat": "REPLACE_MEIron,Missouri"
+  }, {
+    "locale": "Iron,Missouri",
+    "long": "REPLACE_MEIron,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010471299867295336], ["weekly", 0.02102252061946963], ["biweekly", 0.023883513316030985], ["triweekly", 0.026025890779431887]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.876543209876543], ["weekly", 18.34215167548501], ["biweekly", 19.047619047619044], ["triweekly", 18.812463256907698]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 948.148148148148], ["weekly", 901.5873015873015], ["biweekly", 818.3421516754851], ["triweekly", 750.1469723691946]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.43571428571428567], ["biweekly", 0.5845238095238096], ["triweekly", 0.6674603174603175]],
+      "Confirmed Cumulative Cases": [["daily", 96.0], ["weekly", 91.28571428571429], ["biweekly", 82.85714285714286], ["triweekly", 75.95238095238095]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.8571428571428572], ["biweekly", 1.9285714285714286], ["triweekly", 1.9047619047619047]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0009157509157509158], ["triweekly", 0.0006105006105006105]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.001098901098901099], ["triweekly", 0.0007326007326007326]]
+    },
+    "lat": "REPLACE_MEIron,Missouri"
+  }, {
+    "locale": "Iron,Missouri",
+    "long": "REPLACE_MEIron,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.020619287202736203], ["weekly", 0.014062867544750344], ["biweekly", 0.023588691919326887], ["triweekly", 0.02399548480578176]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.753086419753085], ["weekly", 12.698412698412698], ["biweekly", 19.047619047619047], ["triweekly", 17.871840094062314]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 967.9012345679012], ["weekly", 914.2857142857141], ["biweekly", 837.3897707231041], ["triweekly", 768.0188124632568]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.32857142857142857], ["biweekly", 0.5964285714285714], ["triweekly", 0.6912698412698414]],
+      "Confirmed Cumulative Cases": [["daily", 98.0], ["weekly", 92.57142857142857], ["biweekly", 84.78571428571429], ["triweekly", 77.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.2857142857142858], ["biweekly", 1.9285714285714286], ["triweekly", 1.8095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0009157509157509158], ["triweekly", 0.0006105006105006105]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.001098901098901099], ["triweekly", 0.0007326007326007326]]
+    },
+    "lat": "REPLACE_MEIron,Missouri"
+  }, {
+    "locale": "Iron,Missouri",
+    "long": "REPLACE_MEIron,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.010586853164817509], ["biweekly", 0.021036288394441525], ["triweekly", 0.024163334988802503]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 9.876543209876543], ["biweekly", 17.636684303350968], ["triweekly", 18.342151675485006]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 967.9012345679012], ["weekly", 924.1622574955908], ["biweekly", 855.0264550264552], ["triweekly", 786.360964138742]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.5], ["biweekly", 0.45357142857142857], ["triweekly", 0.7706349206349207]],
+      "Confirmed Cumulative Cases": [["daily", 98.0], ["weekly", 93.57142857142857], ["biweekly", 86.57142857142857], ["triweekly", 79.61904761904762]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.0], ["biweekly", 1.7857142857142858], ["triweekly", 1.8571428571428572]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0009157509157509158], ["triweekly", 0.0006105006105006105]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.001098901098901099], ["triweekly", 0.0007326007326007326]]
     },
     "lat": "REPLACE_MEIron,Missouri"
   }]

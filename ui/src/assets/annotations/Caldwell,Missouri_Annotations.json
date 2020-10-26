@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MECaldwell,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.027865797510197816], ["biweekly", 0.02024796713681695], ["triweekly", 0.021782135573279765]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 44.345898004434595], ["biweekly", 30.88375039594552], ["triweekly", 30.619786717347687]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1751.6629711751661], ["weekly", 1670.890085524232], ["biweekly", 1542.6037377256891], ["triweekly", 1445.4651040016893]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9913419913419913], ["biweekly", 1.0147186147186147], ["triweekly", 0.9971139971139972]],
-      "Confirmed Cumulative Cases": [["daily", 158.0], ["weekly", 150.71428571428572], ["biweekly", 139.14285714285714], ["triweekly", 130.38095238095238]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.0], ["biweekly", 2.7857142857142856], ["triweekly", 2.761904761904762]],
-      "Confirmed Fatality Rate": [["daily", 0.006329113924050633], ["weekly", 0.006645714544211764], ["biweekly", 0.007245361850860463], ["triweekly", 0.00779073568133914]],
+      "Spread Rate": [["daily", 0.025001302205416742], ["weekly", 0.027865797510197816], ["biweekly", 0.02024796713681695], ["triweekly", 0.021782135573279765]],
+      "Confirmed Daily Cases per 100k": [["daily", 44.34589800443459], ["weekly", 44.345898004434595], ["biweekly", 30.88375039594552], ["triweekly", 30.619786717347687]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1796.0088691796009], ["weekly", 1670.890085524232], ["biweekly", 1542.6037377256891], ["triweekly", 1445.4651040016893]],
+      "Daily Growth Rate": [["daily", 0.8944271909999159], ["weekly", 0.9913419913419913], ["biweekly", 1.0147186147186147], ["triweekly", 0.9971139971139972]],
+      "Confirmed Cumulative Cases": [["daily", 162.0], ["weekly", 150.71428571428572], ["biweekly", 139.14285714285714], ["triweekly", 130.38095238095238]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 4.0], ["biweekly", 2.7857142857142856], ["triweekly", 2.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.006172839506172839], ["weekly", 0.006645714544211764], ["biweekly", 0.007245361850860463], ["triweekly", 0.00779073568133914]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0070921985815602835], ["weekly", 0.007845009157509157], ["biweekly", 0.008363246249902827], ["triweekly", 0.009259702681697944]]
+    },
+    "lat": "REPLACE_MECaldwell,Missouri"
+  }, {
+    "locale": "Caldwell,Missouri",
+    "long": "REPLACE_MECaldwell,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006153865574378692], ["weekly", 0.019833777836316457], ["biweekly", 0.021436042317881272], ["triweekly", 0.02064933262261241]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.086474501108647], ["weekly", 33.25942350332595], ["biweekly", 33.25942350332594], ["triweekly", 30.09185936015204]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1807.0953436807094], ["weekly", 1704.149509027558], ["biweekly", 1575.863161229015], ["triweekly", 1475.5569633618416]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 1.1191173043419793], ["biweekly", 1.0071776997900372], ["triweekly", 0.9920867204949454]],
+      "Confirmed Cumulative Cases": [["daily", 163.0], ["weekly", 153.71428571428572], ["biweekly", 142.14285714285714], ["triweekly", 133.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.0], ["biweekly", 3.0], ["triweekly", 2.7142857142857144]],
+      "Confirmed Fatality Rate": [["daily", 0.006134969325153374], ["weekly", 0.00651437753344213], ["biweekly", 0.007091040863206143], ["triweekly", 0.007631165680499298]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006944444444444444], ["weekly", 0.007667704192970151], ["biweekly", 0.00818955975402788], ["triweekly", 0.008994653669005518]]
+    },
+    "lat": "REPLACE_MECaldwell,Missouri"
+  }, {
+    "locale": "Caldwell,Missouri",
+    "long": "REPLACE_MECaldwell,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006116227017436415], ["weekly", 0.01770527160439452], ["biweekly", 0.018959747393175772], ["triweekly", 0.020043874587850313]],
+      "Confirmed Daily Cases per 100k": [["daily", 11.086474501108647], ["weekly", 30.09185936015204], ["biweekly", 30.091859360152036], ["triweekly", 29.563932002956395]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1818.1818181818182], ["weekly", 1734.2413683877098], ["biweekly", 1605.9550205891667], ["triweekly", 1505.120895364798]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.115870551095226], ["biweekly", 0.6678919855043229], ["triweekly", 0.9849438633520884]],
+      "Confirmed Cumulative Cases": [["daily", 164.0], ["weekly", 156.42857142857142], ["biweekly", 144.85714285714286], ["triweekly", 135.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.7142857142857144], ["biweekly", 2.7142857142857144], ["triweekly", 2.6666666666666665]],
+      "Confirmed Fatality Rate": [["daily", 0.006097560975609756], ["weekly", 0.006398738230686263], ["biweekly", 0.006957824386431383], ["triweekly", 0.007478269248719774]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006666666666666667], ["weekly", 0.0075169105421765], ["biweekly", 0.00801803475773653], ["triweekly", 0.008744621406778133]]
+    },
+    "lat": "REPLACE_MECaldwell,Missouri"
+  }, {
+    "locale": "Caldwell,Missouri",
+    "long": "REPLACE_MECaldwell,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012121360532344916], ["weekly", 0.012747304818277603], ["biweekly", 0.01770258313604156], ["triweekly", 0.019018383906275343]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.172949002217294], ["weekly", 22.172949002217297], ["biweekly", 28.508077288565087], ["triweekly", 28.508077288565097]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1840.3547671840354], ["weekly", 1756.414317389927], ["biweekly", 1634.463097877732], ["triweekly", 1533.6289726533632]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.9730134082380831], ["biweekly", 0.6964634140757516], ["triweekly", 0.9611343395425646]],
+      "Confirmed Cumulative Cases": [["daily", 166.0], ["weekly", 158.42857142857142], ["biweekly", 147.42857142857142], ["triweekly", 138.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.0], ["biweekly", 2.5714285714285716], ["triweekly", 2.5714285714285716]],
+      "Confirmed Fatality Rate": [["daily", 0.006024096385542169], ["weekly", 0.006317437417678131], ["biweekly", 0.006835328741832079], ["triweekly", 0.00733572886227695]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006622516556291391], ["weekly", 0.007353220065986024], ["biweekly", 0.007844874584576358], ["triweekly", 0.008527036245372746]]
+    },
+    "lat": "REPLACE_MECaldwell,Missouri"
+  }, {
+    "locale": "Caldwell,Missouri",
+    "long": "REPLACE_MECaldwell,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.023810648693718406], ["weekly", 0.013529707363088481], ["biweekly", 0.017460952707211534], ["triweekly", 0.018737567479116642]],
+      "Confirmed Daily Cases per 100k": [["daily", 44.34589800443459], ["weekly", 23.756731073804247], ["biweekly", 28.50807728856509], ["triweekly", 28.50807728856509]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1884.70066518847], ["weekly", 1780.1710484637315], ["biweekly", 1662.9711751662974], ["triweekly", 1562.1370499419286]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.2349181701428453], ["biweekly", 0.7917015093138468], ["triweekly", 1.024626403034628]],
+      "Confirmed Cumulative Cases": [["daily", 170.0], ["weekly", 160.57142857142858], ["biweekly", 150.0], ["triweekly", 140.9047619047619]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.142857142857143], ["biweekly", 2.5714285714285716], ["triweekly", 2.5714285714285716]],
+      "Confirmed Fatality Rate": [["daily", 0.0058823529411764705], ["weekly", 0.0062319488218568145], ["biweekly", 0.006716170791348828], ["triweekly", 0.007197420526894604]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006535947712418301], ["weekly", 0.007200392760840837], ["biweekly", 0.0076801563794134985], ["triweekly", 0.008330361406527431]]
     },
     "lat": "REPLACE_MECaldwell,Missouri"
   }]

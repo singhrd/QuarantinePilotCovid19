@@ -4099,12 +4099,72 @@
     "long": "REPLACE_MEMaries,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.03575636291145149], ["biweekly", 0.028453402881378573], ["triweekly", 0.024325029703142403]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 50.920678723369306], ["biweekly", 37.7798584076611], ["triweekly", 30.661914069985816]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1609.7504886742554], ["weekly", 1504.6239261485898], ["biweekly", 1354.325793787677], ["triweekly", 1247.8303958124584]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7134920634920634], ["biweekly", 1.205128193831005], ["triweekly", 1.0891330816016225]],
-      "Confirmed Cumulative Cases": [["daily", 140.0], ["weekly", 130.85714285714286], ["biweekly", 117.78571428571429], ["triweekly", 108.52380952380952]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.428571428571429], ["biweekly", 3.2857142857142856], ["triweekly", 2.6666666666666665]],
+      "Spread Rate": [["daily", 0.055569851154810834], ["weekly", 0.03575636291145149], ["biweekly", 0.028453402881378573], ["triweekly", 0.024325029703142403]],
+      "Confirmed Daily Cases per 100k": [["daily", 91.98574220995745], ["weekly", 50.920678723369306], ["biweekly", 37.7798584076611], ["triweekly", 30.661914069985816]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1701.7362308842128], ["weekly", 1504.6239261485898], ["biweekly", 1354.325793787677], ["triweekly", 1247.8303958124584]],
+      "Daily Growth Rate": [["daily", 2.8284271247461903], ["weekly", 0.7134920634920634], ["biweekly", 1.205128193831005], ["triweekly", 1.0891330816016225]],
+      "Confirmed Cumulative Cases": [["daily", 148.0], ["weekly", 130.85714285714286], ["biweekly", 117.78571428571429], ["triweekly", 108.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 4.428571428571429], ["biweekly", 3.2857142857142856], ["triweekly", 2.6666666666666665]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMaries,Missouri"
+  }, {
+    "locale": "Maries,Missouri",
+    "long": "REPLACE_MEMaries,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04621284315513208], ["weekly", 0.03115554009322644], ["biweekly", 0.03166681301168385], ["triweekly", 0.02585071321479083]],
+      "Confirmed Daily Cases per 100k": [["daily", 80.48752443371276], ["weekly", 47.63547364444225], ["biweekly", 43.528967295783445], ["triweekly", 33.947119148912876]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1782.2237553179257], ["weekly", 1552.2593997930321], ["biweekly", 1397.8547610834607], ["triweekly", 1281.777514961371]],
+      "Daily Growth Rate": [["daily", 0.875], ["weekly", 1.1175530813129477], ["biweekly", 1.3659193977993314], ["triweekly", 1.1762010399228697]],
+      "Confirmed Cumulative Cases": [["daily", 155.0], ["weekly", 135.0], ["biweekly", 121.57142857142857], ["triweekly", 111.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 4.142857142857143], ["biweekly", 3.7857142857142856], ["triweekly", 2.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMaries,Missouri"
+  }, {
+    "locale": "Maries,Missouri",
+    "long": "REPLACE_MEMaries,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03797924806521635], ["weekly", 0.03420058174085572], ["biweekly", 0.03421978038938648], ["triweekly", 0.02750080944117443]],
+      "Confirmed Daily Cases per 100k": [["daily", 68.98930665746809], ["weekly", 54.20588380229635], ["biweekly", 48.45677491417403], ["triweekly", 37.23232422783993]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1851.2130619753937], ["weekly", 1606.4652835953282], ["biweekly", 1446.3115359976346], ["triweekly", 1319.0098391892109]],
+      "Daily Growth Rate": [["daily", 0.8571428571428571], ["weekly", 1.199695938455805], ["biweekly", 1.3569908263707597], ["triweekly", 1.1940581827800125]],
+      "Confirmed Cumulative Cases": [["daily", 161.0], ["weekly", 139.71428571428572], ["biweekly", 125.78571428571429], ["triweekly", 114.71428571428571]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 4.714285714285714], ["biweekly", 4.214285714285714], ["triweekly", 3.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMaries,Missouri"
+  }, {
+    "locale": "Maries,Missouri",
+    "long": "REPLACE_MEMaries,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.08338160893905133], ["weekly", 0.035017494004712164], ["biweekly", 0.02985466220517116], ["triweekly", 0.028227047392967785]],
+      "Confirmed Daily Cases per 100k": [["daily", 160.97504886742553], ["weekly", 57.491088881223405], ["biweekly", 45.17156983524696], ["triweekly", 39.42246094712463]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2012.1881108428192], ["weekly", 1663.9563724765517], ["biweekly", 1491.4831058328816], ["triweekly", 1358.4323001363357]],
+      "Daily Growth Rate": [["daily", 2.3333333333333335], ["weekly", 1.1316687275714512], ["biweekly", 0.7039296018809637], ["triweekly", 1.1396364140725295]],
+      "Confirmed Cumulative Cases": [["daily", 175.0], ["weekly", 144.71428571428572], ["biweekly", 129.71428571428572], ["triweekly", 118.14285714285714]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 5.0], ["biweekly", 3.9285714285714284], ["triweekly", 3.4285714285714284]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEMaries,Missouri"
+  }, {
+    "locale": "Maries,Missouri",
+    "long": "REPLACE_MEMaries,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.050149783685471405], ["weekly", 0.04246450335256175], ["biweekly", 0.033817006549597926], ["triweekly", 0.032197600199589275]],
+      "Confirmed Daily Cases per 100k": [["daily", 103.48395998620214], ["weekly", 73.91711427585867], ["biweekly", 54.20588380229635], ["triweekly", 47.08793946462108]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2115.6720708290213], ["weekly", 1737.8734867524104], ["biweekly", 1545.6889896351781], ["triweekly", 1405.520239600957]],
+      "Daily Growth Rate": [["daily", 0.6428571428571429], ["weekly", 1.3221449180476417], ["biweekly", 0.8491676971190589], ["triweekly", 1.2507475251836406]],
+      "Confirmed Cumulative Cases": [["daily", 184.0], ["weekly", 151.14285714285714], ["biweekly", 134.42857142857142], ["triweekly", 122.23809523809524]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 6.428571428571429], ["biweekly", 4.714285714285714], ["triweekly", 4.095238095238095]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
     },

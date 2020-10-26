@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEClark,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.02881994895015083], ["biweekly", 0.024308986138371593], ["triweekly", 0.02238112520217789]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 39.93358414426533], ["biweekly", 31.526513798104197], ["triweekly", 27.322978625023644]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1530.0868030013241], ["weekly", 1446.016099539713], ["biweekly", 1327.2662309001867], ["triweekly", 1241.4440544497922]],
+      "Spread Rate": [["daily", -0.009661910911736626], ["weekly", 0.02881994895015083], ["biweekly", 0.024308986138371593], ["triweekly", 0.02238112520217789]],
+      "Confirmed Daily Cases per 100k": [["daily", -14.712373105781962], ["weekly", 39.93358414426533], ["biweekly", 31.526513798104197], ["triweekly", 27.322978625023644]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1515.374429895542], ["weekly", 1446.016099539713], ["biweekly", 1327.2662309001867], ["triweekly", 1241.4440544497922]],
       "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.38590085081436787], ["biweekly", 0.3072361396928982], ["triweekly", 0.31203696047665785]],
-      "Confirmed Cumulative Cases": [["daily", 104.0], ["weekly", 98.28571428571429], ["biweekly", 90.21428571428571], ["triweekly", 84.38095238095238]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.7142857142857144], ["biweekly", 2.142857142857143], ["triweekly", 1.8571428571428572]],
+      "Confirmed Cumulative Cases": [["daily", 103.0], ["weekly", 98.28571428571429], ["biweekly", 90.21428571428571], ["triweekly", 84.38095238095238]],
+      "Confirmed Daily Cases": [["daily", -1.0], ["weekly", 2.7142857142857144], ["biweekly", 2.142857142857143], ["triweekly", 1.8571428571428572]],
       "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEClark,Missouri"
+  }, {
+    "locale": "Clark,Missouri",
+    "long": "REPLACE_MEClark,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009661910911736626], ["weekly", 0.01613434445437077], ["biweekly", 0.02361884964467612], ["triweekly", 0.019772442050168045]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.712373105781962], ["weekly", 23.119443451943084], ["biweekly", 30.475630004834056], ["triweekly", 24.520621842969938]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1530.0868030013241], ["weekly", 1469.1355429916562], ["biweekly", 1357.7418609050208], ["triweekly", 1265.964676292762]],
+      "Daily Growth Rate": [["daily", 0.5848035476425733], ["weekly", 0.38590085081436787], ["biweekly", 0.3072361396928982], ["triweekly", 0.31203696047665785]],
+      "Confirmed Cumulative Cases": [["daily", 104.0], ["weekly", 99.85714285714286], ["biweekly", 92.28571428571429], ["triweekly", 86.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.5714285714285714], ["biweekly", 2.0714285714285716], ["triweekly", 1.6666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEClark,Missouri"
+  }, {
+    "locale": "Clark,Missouri",
+    "long": "REPLACE_MEClark,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.012930572505833102], ["biweekly", 0.019638789048167928], ["triweekly", 0.01685387895204674]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 18.915908278862524], ["biweekly", 26.272094831753503], ["triweekly", 21.71826506091623]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1530.0868030013241], ["weekly", 1488.0514512705188], ["biweekly", 1384.0139557367745], ["triweekly", 1287.6829413536784]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.4082197249673885], ["biweekly", 0.3490078216673677], ["triweekly", 0.26051966909455815]],
+      "Confirmed Cumulative Cases": [["daily", 104.0], ["weekly", 101.14285714285714], ["biweekly", 94.07142857142857], ["triweekly", 87.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 1.2857142857142858], ["biweekly", 1.7857142857142858], ["triweekly", 1.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEClark,Missouri"
+  }, {
+    "locale": "Clark,Missouri",
+    "long": "REPLACE_MEClark,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.009569451016150587], ["weekly", 0.012930572505833102], ["biweekly", 0.01697654656265137], ["triweekly", 0.01685387895204674]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.712373105781962], ["weekly", 18.915908278862524], ["biweekly", 23.119443451943084], ["triweekly", 21.71826506091623]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1544.799176107106], ["weekly", 1506.967359549381], ["biweekly", 1407.1333991887172], ["triweekly", 1309.4012064145945]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.4082197249673885], ["biweekly", 0.3061506788102249], ["triweekly", 0.26051966909455815]],
+      "Confirmed Cumulative Cases": [["daily", 105.0], ["weekly", 102.42857142857143], ["biweekly", 95.64285714285714], ["triweekly", 89.0]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 1.2857142857142858], ["biweekly", 1.5714285714285714], ["triweekly", 1.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.009523809523809525], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010101010101010102], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.0]]
+    },
+    "lat": "REPLACE_MEClark,Missouri"
+  }, {
+    "locale": "Clark,Missouri",
+    "long": "REPLACE_MEClark,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.028170876966696845], ["weekly", 0.008405785717561898], ["biweekly", 0.015093506690514744], ["triweekly", 0.017309567095672957]],
+      "Confirmed Daily Cases per 100k": [["daily", 44.137119317345885], ["weekly", 12.610605519241682], ["biweekly", 21.017675865402804], ["triweekly", 22.418854256429658]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1588.9362954244518], ["weekly", 1519.577965068623], ["biweekly", 1428.1510750541204], ["triweekly", 1331.820060671024]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 0.38611964805606686], ["biweekly", 0.3061506788102249], ["triweekly", 0.30813871671360576]],
+      "Confirmed Cumulative Cases": [["daily", 108.0], ["weekly", 103.28571428571429], ["biweekly", 97.07142857142857], ["triweekly", 90.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 0.8571428571428571], ["biweekly", 1.4285714285714286], ["triweekly", 1.5238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.009259259259259259], ["weekly", 0.001360544217687075], ["biweekly", 0.0006802721088435375], ["triweekly", 0.00045351473922902497]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010101010101010102], ["weekly", 0.0014430014430014432], ["biweekly", 0.0007215007215007216], ["triweekly", 0.000481000481000481]]
     },
     "lat": "REPLACE_MEClark,Missouri"
   }]

@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEDouglas,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.013196188590145042], ["biweekly", 0.011361763902120561], ["triweekly", 0.012774475552127613]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 26.0035754916301], ["biweekly", 21.66964624302508], ["triweekly", 23.114289325893424]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2062.950322335988], ["weekly", 1996.8579012947614], ["biweekly", 1918.8471748198706], ["triweekly", 1850.5877891543416]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8714285714285713], ["biweekly", 0.9212453534622205], ["triweekly", 0.8732856561920861]],
-      "Confirmed Cumulative Cases": [["daily", 272.0], ["weekly", 263.2857142857143], ["biweekly", 253.0], ["triweekly", 244.0]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.4285714285714284], ["biweekly", 2.857142857142857], ["triweekly", 3.0476190476190474]],
-      "Confirmed Fatality Rate": [["daily", 0.022058823529411766], ["weekly", 0.01777159557319281], ["biweekly", 0.015069853717636505], ["triweekly", 0.014475148844750884]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02390438247011952], ["weekly", 0.019280554258393562], ["biweekly", 0.016283146678686612], ["triweekly", 0.01604957875443486]]
+      "Spread Rate": [["daily", 0.0036697288889619983], ["weekly", 0.013196188590145042], ["biweekly", 0.011361763902120561], ["triweekly", 0.012774475552127613]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.58437618505878], ["weekly", 26.0035754916301], ["biweekly", 21.66964624302508], ["triweekly", 23.114289325893424]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2070.5346985210467], ["weekly", 1996.8579012947614], ["biweekly", 1918.8471748198706], ["triweekly", 1850.5877891543416]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.8714285714285713], ["biweekly", 0.9212453534622205], ["triweekly", 0.8732856561920861]],
+      "Confirmed Cumulative Cases": [["daily", 273.0], ["weekly", 263.2857142857143], ["biweekly", 253.0], ["triweekly", 244.0]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.4285714285714284], ["biweekly", 2.857142857142857], ["triweekly", 3.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.03296703296703297], ["weekly", 0.01777159557319281], ["biweekly", 0.015069853717636505], ["triweekly", 0.014475148844750884]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.035856573705179286], ["weekly", 0.019280554258393562], ["biweekly", 0.016283146678686612], ["triweekly", 0.01604957875443486]]
+    },
+    "lat": "REPLACE_MEDouglas,Missouri"
+  }, {
+    "locale": "Douglas,Missouri",
+    "long": "REPLACE_MEDouglas,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010929070532189833], ["weekly", 0.012002693721882325], ["biweekly", 0.010706162931485772], ["triweekly", 0.011595037150624219]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.75312855517634], ["weekly", 23.83661086732759], ["biweekly", 20.58616393087383], ["triweekly", 21.308485472307996]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2093.287827076223], ["weekly", 2020.694512162089], ["biweekly", 1939.4333387507445], ["triweekly", 1871.8962746266498]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 0.9428571428571428], ["biweekly", 0.7426739248907921], ["triweekly", 0.8297516770314625]],
+      "Confirmed Cumulative Cases": [["daily", 276.0], ["weekly", 266.42857142857144], ["biweekly", 255.71428571428572], ["triweekly", 246.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.142857142857143], ["biweekly", 2.7142857142857144], ["triweekly", 2.8095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.03260869565217391], ["weekly", 0.020773715820617555], ["biweekly", 0.016512787683366826], ["triweekly", 0.015377450815143644]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03515625], ["weekly", 0.022579213723875103], ["biweekly", 0.017842995401286203], ["triweekly", 0.01693601658276031]]
+    },
+    "lat": "REPLACE_MEDouglas,Missouri"
+  }, {
+    "locale": "Douglas,Missouri",
+    "long": "REPLACE_MEDouglas,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0036166404701889476], ["weekly", 0.010746203033941042], ["biweekly", 0.011183504335109935], ["triweekly", 0.011015673138126125]],
+      "Confirmed Daily Cases per 100k": [["daily", 7.58437618505878], ["weekly", 21.669646243025085], ["biweekly", 21.669646243025085], ["triweekly", 20.586163930873827]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2100.872203261282], ["weekly", 2042.3641584051143], ["biweekly", 1961.1029849937697], ["triweekly", 1892.4824385575234]],
+      "Daily Growth Rate": [["daily", 0.3333333333333333], ["weekly", 1.1333333333333333], ["biweekly", 0.9331501153669824], ["triweekly", 0.9329262802060656]],
+      "Confirmed Cumulative Cases": [["daily", 277.0], ["weekly", 269.2857142857143], ["biweekly", 258.57142857142856], ["triweekly", 249.52380952380952]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.857142857142857], ["biweekly", 2.857142857142857], ["triweekly", 2.7142857142857144]],
+      "Confirmed Fatality Rate": [["daily", 0.032490974729241874], ["weekly", 0.023757993770928115], ["biweekly", 0.017933989915180696], ["triweekly", 0.016277930125390673]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.03474903474903475], ["weekly", 0.025785554522906574], ["biweekly", 0.019375682534358608], ["triweekly", 0.0178075555073189]]
+    },
+    "lat": "REPLACE_MEDouglas,Missouri"
+  }, {
+    "locale": "Douglas,Missouri",
+    "long": "REPLACE_MEDouglas,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010772096981910728], ["weekly", 0.009598492069685882], ["biweekly", 0.011441835797266289], ["triweekly", 0.009900814475377067]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.75312855517634], ["weekly", 19.502681618722573], ["biweekly", 22.211387399100712], ["triweekly", 18.780360077288407]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2123.625331816458], ["weekly", 2061.866840023837], ["biweekly", 1983.3143723928708], ["triweekly", 1911.262798634812]],
+      "Daily Growth Rate": [["daily", 3.0], ["weekly", 1.0952380952380951], ["biweekly", 0.9569596391765064], ["triweekly", 0.8916564389362245]],
+      "Confirmed Cumulative Cases": [["daily", 280.0], ["weekly", 271.85714285714283], ["biweekly", 261.5], ["triweekly", 252.0]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 2.5714285714285716], ["biweekly", 2.9285714285714284], ["triweekly", 2.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.039285714285714285], ["weekly", 0.026744845648961013], ["biweekly", 0.019346783509642286], ["triweekly", 0.01719019876329108]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.04150943396226415], ["weekly", 0.0289337217146573], ["biweekly", 0.020905375492622995], ["triweekly", 0.01870239302829624]]
+    },
+    "lat": "REPLACE_MEDouglas,Missouri"
+  }, {
+    "locale": "Douglas,Missouri",
+    "long": "REPLACE_MEDouglas,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01418463499195699], ["weekly", 0.007865682454718177], ["biweekly", 0.008668632643161913], ["triweekly", 0.009574647600714728]],
+      "Confirmed Daily Cases per 100k": [["daily", 30.33750474023512], ["weekly", 16.252234682268814], ["biweekly", 17.335716994420068], ["triweekly", 18.419199306571322]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2153.962836556693], ["weekly", 2078.1190747061055], ["biweekly", 2000.6500893872908], ["triweekly", 1929.6819979413835]],
+      "Daily Growth Rate": [["daily", 1.3333333333333333], ["weekly", 1.238095238095238], ["biweekly", 0.9238095238095239], ["triweekly", 1.0027675500473354]],
+      "Confirmed Cumulative Cases": [["daily", 284.0], ["weekly", 274.0], ["biweekly", 263.7857142857143], ["triweekly", 254.42857142857142]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.142857142857143], ["biweekly", 2.2857142857142856], ["triweekly", 2.4285714285714284]],
+      "Confirmed Fatality Rate": [["daily", 0.03873239436619718], ["weekly", 0.0291225891992113], ["biweekly", 0.021288850659082703], ["triweekly", 0.01843711674445735]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.041044776119402986], ["weekly", 0.03140741965396693], ["biweekly", 0.022934589584125954], ["triweekly", 0.019938840290748]]
     },
     "lat": "REPLACE_MEDouglas,Missouri"
   }]

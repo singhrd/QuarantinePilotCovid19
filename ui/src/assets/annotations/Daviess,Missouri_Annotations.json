@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEDaviess,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.022967602941107477], ["biweekly", 0.01937964964196968], ["triweekly", 0.023623016287085144]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 51.77233976460843], ["biweekly", 41.41787181168674], ["triweekly", 45.444609348934065]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 2440.2029475718773], ["weekly", 2374.624650536706], ["biweekly", 2192.558589031167], ["triweekly", 2033.5024563098975]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6389422303835887], ["biweekly", 0.8075663532870324], ["triweekly", 0.7710266689292925]],
-      "Confirmed Cumulative Cases": [["daily", 202.0], ["weekly", 196.57142857142858], ["biweekly", 181.5], ["triweekly", 168.33333333333334]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.285714285714286], ["biweekly", 3.4285714285714284], ["triweekly", 3.761904761904762]],
-      "Confirmed Fatality Rate": [["daily", 0.01485148514851485], ["weekly", 0.013034800885681899], ["biweekly", 0.009526558874699397], ["triweekly", 0.008711583564083213]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016042780748663103], ["weekly", 0.015358892863646412], ["biweekly", 0.011220262903248627], ["triweekly", 0.010439495092573916]]
+      "Spread Rate": [["daily", 0.01960847138837618], ["weekly", 0.022967602941107477], ["biweekly", 0.01937964964196968], ["triweekly", 0.023623016287085144]],
+      "Confirmed Daily Cases per 100k": [["daily", 48.32085044696786], ["weekly", 51.77233976460843], ["biweekly", 41.41787181168674], ["triweekly", 45.444609348934065]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2488.523798018845], ["weekly", 2374.624650536706], ["biweekly", 2192.558589031167], ["triweekly", 2033.5024563098975]],
+      "Daily Growth Rate": [["daily", 1.1547005383792515], ["weekly", 0.6389422303835887], ["biweekly", 0.8075663532870324], ["triweekly", 0.7710266689292925]],
+      "Confirmed Cumulative Cases": [["daily", 206.0], ["weekly", 196.57142857142858], ["biweekly", 181.5], ["triweekly", 168.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 4.285714285714286], ["biweekly", 3.4285714285714284], ["triweekly", 3.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.019417475728155338], ["weekly", 0.013034800885681899], ["biweekly", 0.009526558874699397], ["triweekly", 0.008711583564083213]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0213903743315508], ["weekly", 0.015358892863646412], ["biweekly", 0.011220262903248627], ["triweekly", 0.010439495092573916]]
+    },
+    "lat": "REPLACE_MEDaviess,Missouri"
+  }, {
+    "locale": "Daviess,Missouri",
+    "long": "REPLACE_MEDaviess,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.01382393599071349], ["biweekly", 0.019858582967146012], ["triweekly", 0.02455675301986496]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 32.78914851758533], ["biweekly", 43.14361647050702], ["triweekly", 47.745602227361104]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2488.523798018845], ["weekly", 2407.4137990542918], ["biweekly", 2235.702205501674], ["triweekly", 2081.2480585372587]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8038994501520531], ["biweekly", 0.8186163917426933], ["triweekly", 0.826012408852114]],
+      "Confirmed Cumulative Cases": [["daily", 206.0], ["weekly", 199.28571428571428], ["biweekly", 185.07142857142858], ["triweekly", 172.28571428571428]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 2.7142857142857144], ["biweekly", 3.5714285714285716], ["triweekly", 3.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.019417475728155338], ["weekly", 0.014280842108879033], ["biweekly", 0.010455645968835034], ["triweekly", 0.0092490785368138]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020618556701030927], ["weekly", 0.016583158793794694], ["biweekly", 0.01216742669115847], ["triweekly", 0.01097217569728333]]
+    },
+    "lat": "REPLACE_MEDaviess,Missouri"
+  }, {
+    "locale": "Daviess,Missouri",
+    "long": "REPLACE_MEDaviess,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.02398196468648539], ["weekly", 0.00857400138946472], ["biweekly", 0.01849799761209641], ["triweekly", 0.02083462097942036]],
+      "Confirmed Daily Cases per 100k": [["daily", 60.40106305870983], ["weekly", 20.70893590584337], ["biweekly", 40.55499948227659], ["triweekly", 41.9931200312935]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2548.924861077555], ["weekly", 2428.1227349601354], ["biweekly", 2276.2572049839505], ["triweekly", 2123.241178568552]],
+      "Daily Growth Rate": [["daily", 1.118033988749895], ["weekly", 0.7372327834853866], ["biweekly", 0.7114735345998362], ["triweekly", 0.7695537849713193]],
+      "Confirmed Cumulative Cases": [["daily", 211.0], ["weekly", 201.0], ["biweekly", 188.42857142857142], ["triweekly", 175.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 1.7142857142857142], ["biweekly", 3.357142857142857], ["triweekly", 3.4761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.018957345971563982], ["weekly", 0.015582013162827587], ["biweekly", 0.011393372222553226], ["triweekly", 0.009815682286131616]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020618556701030927], ["weekly", 0.01773172170077036], ["biweekly", 0.013103123813197736], ["triweekly", 0.011504775432372853]]
+    },
+    "lat": "REPLACE_MEDaviess,Missouri"
+  }, {
+    "locale": "Daviess,Missouri",
+    "long": "REPLACE_MEDaviess,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.04176941287629532], ["weekly", 0.01199999634467692], ["biweekly", 0.018875842731691645], ["triweekly", 0.019875438111684532]],
+      "Confirmed Daily Cases per 100k": [["daily", 108.72191350567769], ["weekly", 29.337659199944774], ["biweekly", 42.280744141096875], ["triweekly", 41.41787181168674]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2657.6467745832324], ["weekly", 2457.46039416008], ["biweekly", 2318.5379491250474], ["triweekly", 2164.6590503802386]],
+      "Daily Growth Rate": [["daily", 1.8], ["weekly", 0.8969519247353716], ["biweekly", 0.7199045337962573], ["triweekly", 0.7942220701498858]],
+      "Confirmed Cumulative Cases": [["daily", 220.0], ["weekly", 203.42857142857142], ["biweekly", 191.92857142857142], ["triweekly", 179.1904761904762]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 2.4285714285714284], ["biweekly", 3.5], ["triweekly", 3.4285714285714284]],
+      "Confirmed Fatality Rate": [["daily", 0.01818181818181818], ["weekly", 0.016817451394405943], ["biweekly", 0.012306551255795451], ["triweekly", 0.010375829970286255]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020202020202020204], ["weekly", 0.01891356137058254], ["biweekly", 0.014062003248677336], ["triweekly", 0.012061441397728068]]
+    },
+    "lat": "REPLACE_MEDaviess,Missouri"
+  }, {
+    "locale": "Daviess,Missouri",
+    "long": "REPLACE_MEDaviess,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004535155165390492], ["weekly", 0.015051502236832397], ["biweekly", 0.017580933538493517], ["triweekly", 0.020181630798874344]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.080212611741965], ["weekly", 37.96638249404618], ["biweekly", 41.417871811686744], ["triweekly", 43.718864690113776]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 2669.7269871949743], ["weekly", 2495.4267766541266], ["biweekly", 2359.9558209367347], ["triweekly", 2208.3779150703526]],
+      "Daily Growth Rate": [["daily", 0.1111111111111111], ["weekly", 1.0461049324470209], ["biweekly", 0.6103807242724476], ["triweekly", 0.8402538161816318]],
+      "Confirmed Cumulative Cases": [["daily", 221.0], ["weekly", 206.57142857142858], ["biweekly", 195.35714285714286], ["triweekly", 182.8095238095238]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 3.142857142857143], ["biweekly", 3.4285714285714284], ["triweekly", 3.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.01809954751131222], ["weekly", 0.01725035182730638], ["biweekly", 0.013189970162470172], ["triweekly", 0.01091094300539929]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020100502512562814], ["weekly", 0.019307869904425956], ["biweekly", 0.015008972945647032], ["triweekly", 0.012605731415702296]]
     },
     "lat": "REPLACE_MEDaviess,Missouri"
   }]

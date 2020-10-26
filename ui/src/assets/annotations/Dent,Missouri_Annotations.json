@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEDent,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.022125082883601013], ["biweekly", 0.030057105150590808], ["triweekly", 0.020354476896520955]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 30.272174367724354], ["biweekly", 36.23487537954885], ["triweekly", 24.462363125433825]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1476.915173698067], ["weekly", 1438.3869517755088], ["biweekly", 1298.0341433433325], ["triweekly", 1174.1934300208236]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.6230158730158729], ["biweekly", 1.1043650793650792], ["triweekly", 1.0208454154502131]],
-      "Confirmed Cumulative Cases": [["daily", 230.0], ["weekly", 224.0], ["biweekly", 202.14285714285714], ["triweekly", 182.85714285714286]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.714285714285714], ["biweekly", 5.642857142857143], ["triweekly", 3.8095238095238093]],
-      "Confirmed Fatality Rate": [["daily", 0.013043478260869565], ["weekly", 0.011433208187820662], ["biweekly", 0.011332825337987226], ["triweekly", 0.012183964493755401]],
+      "Spread Rate": [["daily", 0.025752496102414923], ["weekly", 0.022125082883601013], ["biweekly", 0.030057105150590808], ["triweekly", 0.020354476896520955]],
+      "Confirmed Daily Cases per 100k": [["daily", 38.528221922558274], ["weekly", 30.272174367724354], ["biweekly", 36.23487537954885], ["triweekly", 24.462363125433825]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1515.4433956206253], ["weekly", 1438.3869517755088], ["biweekly", 1298.0341433433325], ["triweekly", 1174.1934300208236]],
+      "Daily Growth Rate": [["daily", 1.0626585691826111], ["weekly", 0.6230158730158729], ["biweekly", 1.1043650793650792], ["triweekly", 1.0208454154502131]],
+      "Confirmed Cumulative Cases": [["daily", 236.0], ["weekly", 224.0], ["biweekly", 202.14285714285714], ["triweekly", 182.85714285714286]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 4.714285714285714], ["biweekly", 5.642857142857143], ["triweekly", 3.8095238095238093]],
+      "Confirmed Fatality Rate": [["daily", 0.012711864406779662], ["weekly", 0.011433208187820662], ["biweekly", 0.011332825337987226], ["triweekly", 0.012183964493755401]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013953488372093023], ["weekly", 0.014133095134999328], ["biweekly", 0.014009668970145536], ["triweekly", 0.013978475837144696]]
+    },
+    "lat": "REPLACE_MEDent,Missouri"
+  }, {
+    "locale": "Dent,Missouri",
+    "long": "REPLACE_MEDent,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01263174690590052], ["weekly", 0.013313396699706865], ["biweekly", 0.03142509172709529], ["triweekly", 0.02695200024165235]],
+      "Confirmed Daily Cases per 100k": [["daily", 19.264110961279137], ["weekly", 19.264110961279137], ["biweekly", 38.528221922558274], ["triweekly", 31.189512984928122]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1534.7075065819045], ["weekly", 1457.651062736788], ["biweekly", 1336.5623652658908], ["triweekly", 1205.3829430057517]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 0.7748242400419603], ["biweekly", 1.1445549771638373], ["triweekly", 1.0714482044589086]],
+      "Confirmed Cumulative Cases": [["daily", 239.0], ["weekly", 227.0], ["biweekly", 208.14285714285714], ["triweekly", 187.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 3.0], ["biweekly", 6.0], ["triweekly", 4.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.012552301255230125], ["weekly", 0.011920285162875565], ["biweekly", 0.01130096602869705], ["triweekly", 0.012078559316253082]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013824884792626729], ["weekly", 0.014246751368606602], ["biweekly", 0.01394024862998587], ["triweekly", 0.013921426942886497]]
+    },
+    "lat": "REPLACE_MEDent,Missouri"
+  }, {
+    "locale": "Dent,Missouri",
+    "long": "REPLACE_MEDent,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.013795171198721614], ["biweekly", 0.030015553327371665], ["triweekly", 0.025809029466705692]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 20.181449578482905], ["biweekly", 37.6108833053545], ["triweekly", 30.57795390679228]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1534.7075065819045], ["weekly", 1477.832512315271], ["biweekly", 1374.1732485712453], ["triweekly", 1235.9608969125443]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.8303797955975158], ["biweekly", 0.8231264057352659], ["triweekly", 1.0138303022362087]],
+      "Confirmed Cumulative Cases": [["daily", 239.0], ["weekly", 230.14285714285714], ["biweekly", 214.0], ["triweekly", 192.47619047619048]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 3.142857142857143], ["biweekly", 5.857142857142857], ["triweekly", 4.761904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.012552301255230125], ["weekly", 0.01239681536194399], ["biweekly", 0.011287640868128864], ["triweekly", 0.011991121794662465]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013574660633484163], ["weekly", 0.014401898695669746], ["biweekly", 0.013899991171699702], ["triweekly", 0.013894588637362384]]
+    },
+    "lat": "REPLACE_MEDent,Missouri"
+  }, {
+    "locale": "Dent,Missouri",
+    "long": "REPLACE_MEDent,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00833338155914376], ["weekly", 0.01118583577339408], ["biweekly", 0.026465577002209337], ["triweekly", 0.024792214015726198]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.842740640852757], ["weekly", 16.51209510966783], ["biweekly", 33.941528836539426], ["triweekly", 29.660615289588513]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1547.5502472227572], ["weekly", 1494.3446074249387], ["biweekly", 1408.1147774077847], ["triweekly", 1265.6215122021326]],
+      "Daily Growth Rate": [["daily", 0.816496580927726], ["weekly", 0.5446655098832301], ["biweekly", 0.7088406914495515], ["triweekly", 0.9852588736647805]],
+      "Confirmed Cumulative Cases": [["daily", 241.0], ["weekly", 232.71428571428572], ["biweekly", 219.28571428571428], ["triweekly", 197.0952380952381]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 2.5714285714285716], ["biweekly", 5.285714285714286], ["triweekly", 4.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.012448132780082987], ["weekly", 0.012897176433311706], ["biweekly", 0.011318432949130151], ["triweekly", 0.011918159614328017]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013333333333333334], ["weekly", 0.014609534197422894], ["biweekly", 0.013863573571073318], ["triweekly", 0.013870310236944794]]
+    },
+    "lat": "REPLACE_MEDent,Missouri"
+  }, {
+    "locale": "Dent,Missouri",
+    "long": "REPLACE_MEDent,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.020534602441707683], ["weekly", 0.009813790183747808], ["biweekly", 0.014399514625190448], ["triweekly", 0.0245230301864121]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.10685160213189], ["weekly", 14.677417875260293], ["biweekly", 20.1814495784829], ["triweekly", 29.660615289588513]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1579.657098824889], ["weekly", 1509.0220253001987], ["biweekly", 1428.2962269862674], ["triweekly", 1295.2821274917212]],
+      "Daily Growth Rate": [["daily", 2.5], ["weekly", 0.5184507357300482], ["biweekly", 0.4814475900872463], ["triweekly", 0.9923936314867354]],
+      "Confirmed Cumulative Cases": [["daily", 246.0], ["weekly", 235.0], ["biweekly", 222.42857142857142], ["triweekly", 201.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 2.2857142857142856], ["biweekly", 3.142857142857143], ["triweekly", 4.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.012195121951219513], ["weekly", 0.012770719211418799], ["biweekly", 0.011482422128853266], ["triweekly", 0.011849552180575356]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013043478260869565], ["weekly", 0.014338806617050642], ["biweekly", 0.013823891031390782], ["triweekly", 0.013852915151056557]]
     },
     "lat": "REPLACE_MEDent,Missouri"
   }]

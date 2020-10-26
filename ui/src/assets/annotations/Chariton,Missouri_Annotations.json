@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEChariton,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.002621305524028093], ["biweekly", 0.0026458051200249433], ["triweekly", 0.006482484491646668]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 1.923742834057943], ["biweekly", 1.923742834057943], ["triweekly", 4.4887332794685335]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 740.640991112308], ["weekly", 732.9460197760764], ["biweekly", 727.1747912739027], ["triweekly", 718.1973247149656]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.09835162575724812]],
-      "Confirmed Cumulative Cases": [["daily", 55.0], ["weekly", 54.42857142857143], ["biweekly", 54.0], ["triweekly", 53.333333333333336]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.14285714285714285], ["biweekly", 0.14285714285714285], ["triweekly", 0.3333333333333333]],
-      "Confirmed Fatality Rate": [["daily", 0.01818181818181818], ["weekly", 0.018374218374218376], ["biweekly", 0.015825823372993184], ["triweekly", 0.01055054891532879]],
+      "Spread Rate": [["daily", 0.018018505502678472], ["weekly", 0.002621305524028093], ["biweekly", 0.0026458051200249433], ["triweekly", 0.006482484491646668]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.4661998384056], ["weekly", 1.923742834057943], ["biweekly", 1.923742834057943], ["triweekly", 4.4887332794685335]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 754.1071909507136], ["weekly", 732.9460197760764], ["biweekly", 727.1747912739027], ["triweekly", 718.1973247149656]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.0], ["biweekly", 0.0], ["triweekly", 0.09835162575724812]],
+      "Confirmed Cumulative Cases": [["daily", 56.0], ["weekly", 54.42857142857143], ["biweekly", 54.0], ["triweekly", 53.333333333333336]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.14285714285714285], ["biweekly", 0.14285714285714285], ["triweekly", 0.3333333333333333]],
+      "Confirmed Fatality Rate": [["daily", 0.017857142857142856], ["weekly", 0.018374218374218376], ["biweekly", 0.015825823372993184], ["triweekly", 0.01055054891532879]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018518518518518517], ["weekly", 0.018668263951282817], ["biweekly", 0.016176346365025608], ["triweekly", 0.010784230910017073]]
+    },
+    "lat": "REPLACE_MEChariton,Missouri"
+  }, {
+    "locale": "Chariton,Missouri",
+    "long": "REPLACE_MEChariton,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01769957709940062], ["weekly", 0.005195377738696446], ["biweekly", 0.00393284122735912], ["triweekly", 0.004453621810039234]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.4661998384056], ["weekly", 3.847485668115886], ["biweekly", 2.8856142510869143], ["triweekly", 3.206238056763238]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 767.5733907891192], ["weekly", 736.7935054441922], ["biweekly", 730.0604055249895], ["triweekly", 721.4035627717287]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.14285714285714285], ["biweekly", 0.07142857142857142], ["triweekly", 0.06349206349206349]],
+      "Confirmed Cumulative Cases": [["daily", 57.0], ["weekly", 54.714285714285715], ["biweekly", 54.214285714285715], ["triweekly", 53.57142857142857]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.2857142857142857], ["biweekly", 0.21428571428571427], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.018279736136878996], ["biweekly", 0.01710133357707482], ["triweekly", 0.011400889051383211]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018518518518518517], ["weekly", 0.018618348807028052], ["biweekly", 0.01749909768777693], ["triweekly", 0.011666065125184621]]
+    },
+    "lat": "REPLACE_MEChariton,Missouri"
+  }, {
+    "locale": "Chariton,Missouri",
+    "long": "REPLACE_MEChariton,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.0], ["weekly", 0.007723888752896535], ["biweekly", 0.0051970967344591645], ["triweekly", 0.0043717880596725114]],
+      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 5.7712285021738285], ["biweekly", 3.847485668115886], ["triweekly", 3.206238056763238]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 767.5733907891192], ["weekly", 742.564733946366], ["biweekly", 733.9078911931053], ["triweekly", 724.609800828492]],
+      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.2857142857142857], ["biweekly", 0.14285714285714285], ["triweekly", 0.09523809523809523]],
+      "Confirmed Cumulative Cases": [["daily", 57.0], ["weekly", 55.142857142857146], ["biweekly", 54.5], ["triweekly", 53.80952380952381]],
+      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 0.42857142857142855], ["biweekly", 0.2857142857142857], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.018140499155536748], ["biweekly", 0.01835446640915502], ["triweekly", 0.012236310939436678]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.018568433662773283], ["biweekly", 0.018821849010528253], ["triweekly", 0.01254789934035217]]
+    },
+    "lat": "REPLACE_MEChariton,Missouri"
+  }, {
+    "locale": "Chariton,Missouri",
+    "long": "REPLACE_MEChariton,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01739174271186883], ["weekly", 0.007723888752896535], ["biweekly", 0.0051970967344591645], ["triweekly", 0.0043717880596725114]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.4661998384056], ["weekly", 5.7712285021738285], ["biweekly", 3.847485668115886], ["triweekly", 3.206238056763238]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 781.0395906275248], ["weekly", 748.3359624485398], ["biweekly", 737.7553768612212], ["triweekly", 727.8160388852551]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.2857142857142857], ["biweekly", 0.14285714285714285], ["triweekly", 0.09523809523809523]],
+      "Confirmed Cumulative Cases": [["daily", 58.0], ["weekly", 55.57142857142857], ["biweekly", 54.785714285714285], ["triweekly", 54.04761904761905]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.42857142857142855], ["biweekly", 0.2857142857142857], ["triweekly", 0.23809523809523808]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.0154949965100341], ["biweekly", 0.01700675751427631], ["triweekly", 0.012236310939436678]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.015873015873015872], ["biweekly", 0.01744822263690188], ["triweekly", 0.01254789934035217]]
+    },
+    "lat": "REPLACE_MEChariton,Missouri"
+  }, {
+    "locale": "Chariton,Missouri",
+    "long": "REPLACE_MEChariton,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01709443335930061], ["weekly", 0.010208423426020654], ["biweekly", 0.005104211713010327], ["triweekly", 0.0051999662840472175]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.4661998384056], ["weekly", 7.694971336231772], ["biweekly", 3.847485668115886], ["triweekly", 3.847485668115886]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 794.5057904659304], ["weekly", 756.0309337847715], ["biweekly", 741.6028625293369], ["triweekly", 731.6635245533711]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.42857142857142855], ["biweekly", 0.21428571428571427], ["triweekly", 0.14285714285714285]],
+      "Confirmed Cumulative Cases": [["daily", 59.0], ["weekly", 56.142857142857146], ["biweekly", 55.07142857142857], ["triweekly", 54.333333333333336]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 0.5714285714285714], ["biweekly", 0.2857142857142857], ["triweekly", 0.2857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.012849493864531459], ["biweekly", 0.015684006191524987], ["triweekly", 0.012236310939436678]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0], ["weekly", 0.013227513227513227], ["biweekly", 0.016074596263275506], ["triweekly", 0.01254789934035217]]
     },
     "lat": "REPLACE_MEChariton,Missouri"
   }]

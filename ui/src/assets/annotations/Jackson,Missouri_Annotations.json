@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEJackson,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.014318078799883591], ["biweekly", 0.007503315624590405], ["triweekly", 0.009152407372769863]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 17.82130212553065], ["biweekly", 9.317066162549377], ["triweekly", 10.891924674212577]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1308.0876401649477], ["weekly", 1292.2780927833483], ["biweekly", 1232.2201014127602], ["triweekly", 1185.8176573949156]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7311991227418996], ["biweekly", 0.6365292361256004], ["triweekly", 0.5339591844936215]],
-      "Confirmed Cumulative Cases": [["daily", 9196.0], ["weekly", 9084.857142857143], ["biweekly", 8662.642857142857], ["triweekly", 8336.42857142857]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 125.28571428571429], ["biweekly", 65.5], ["triweekly", 76.57142857142857]],
-      "Confirmed Fatality Rate": [["daily", 0.012505437146585472], ["weekly", 0.0126927705663198], ["biweekly", 0.013211903695061514], ["triweekly", 0.013273636019783602]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.012919896640826873], ["weekly", 0.013991121208448061], ["biweekly", 0.014361185743314712], ["triweekly", 0.014184595532701936]]
+      "Spread Rate": [["daily", 0.02023750445023964], ["weekly", 0.014318078799883591], ["biweekly", 0.007503315624590405], ["triweekly", 0.009152407372769863]],
+      "Confirmed Daily Cases per 100k": [["daily", 26.74211356579058], ["weekly", 17.82130212553065], ["biweekly", 9.317066162549377], ["triweekly", 10.891924674212577]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1334.8297537307383], ["weekly", 1292.2780927833483], ["biweekly", 1232.2201014127602], ["triweekly", 1185.8176573949156]],
+      "Daily Growth Rate": [["daily", 2.9232609437842774], ["weekly", 0.7311991227418996], ["biweekly", 0.6365292361256004], ["triweekly", 0.5339591844936215]],
+      "Confirmed Cumulative Cases": [["daily", 9384.0], ["weekly", 9084.857142857143], ["biweekly", 8662.642857142857], ["triweekly", 8336.42857142857]],
+      "Confirmed Daily Cases": [["daily", 188.0], ["weekly", 125.28571428571429], ["biweekly", 65.5], ["triweekly", 76.57142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.012468030690537084], ["weekly", 0.0126927705663198], ["biweekly", 0.013211903695061514], ["triweekly", 0.013273636019783602]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01314459049544995], ["weekly", 0.013991121208448061], ["biweekly", 0.014361185743314712], ["triweekly", 0.014184595532701936]]
+    },
+    "lat": "REPLACE_MEJackson,Missouri"
+  }, {
+    "locale": "Jackson,Missouri",
+    "long": "REPLACE_MEJackson,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.016592190418533548], ["weekly", 0.007548925910625773], ["biweekly", 0.008210698350884853], ["triweekly", 0.010926223673119276]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.332509733133623], ["weekly", 9.81492465978484], ["biweekly", 10.353424666998707], ["triweekly", 13.032377533075245]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1357.1622634638718], ["weekly", 1302.0930174431328], ["biweekly", 1242.5735260797587], ["triweekly", 1198.8500349279911]],
+      "Daily Growth Rate": [["daily", 0.8351063829787234], ["weekly", 1.1488078289967965], ["biweekly", 0.8358830398024993], ["triweekly", 0.673162086578587]],
+      "Confirmed Cumulative Cases": [["daily", 9541.0], ["weekly", 9153.857142857143], ["biweekly", 8735.42857142857], ["triweekly", 8428.047619047618]],
+      "Confirmed Daily Cases": [["daily", 157.0], ["weekly", 69.0], ["biweekly", 72.78571428571429], ["triweekly", 91.61904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.012367676344198721], ["weekly", 0.012547970482484445], ["biweekly", 0.013188806408120543], ["triweekly", 0.013216260231141998]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013144703130221678], ["weekly", 0.01381956454367885], ["biweekly", 0.01427557338307014], ["triweekly", 0.014137607541015527]]
+    },
+    "lat": "REPLACE_MEJackson,Missouri"
+  }, {
+    "locale": "Jackson,Missouri",
+    "long": "REPLACE_MEJackson,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012602364362505725], ["weekly", 0.008704650142165196], ["biweekly", 0.012824104874953588], ["triweekly", 0.011252615853626241]],
+      "Confirmed Daily Cases per 100k": [["daily", 17.211679475854574], ["weekly", 11.460905813910248], ["biweekly", 15.931471911534814], ["triweekly", 13.601358672772918]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1374.3739429397265], ["weekly", 1313.5539232570432], ["biweekly", 1258.5049979912935], ["triweekly", 1212.451393600764]],
+      "Daily Growth Rate": [["daily", 0.7707006369426752], ["weekly", 1.2494538562166337], ["biweekly", 0.8955334957295511], ["triweekly", 0.6659450059843852]],
+      "Confirmed Cumulative Cases": [["daily", 9662.0], ["weekly", 9234.42857142857], ["biweekly", 8847.42857142857], ["triweekly", 8523.666666666666]],
+      "Confirmed Daily Cases": [["daily", 121.0], ["weekly", 80.57142857142857], ["biweekly", 112.0], ["triweekly", 95.61904761904762]],
+      "Confirmed Fatality Rate": [["daily", 0.012212792382529498], ["weekly", 0.012516535076794856], ["biweekly", 0.013104660661693282], ["triweekly", 0.01316041519312419]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013021408077687044], ["weekly", 0.013672688803363451], ["biweekly", 0.014190415209319972], ["triweekly", 0.014097362428139552]]
+    },
+    "lat": "REPLACE_MEJackson,Missouri"
+  }, {
+    "locale": "Jackson,Missouri",
+    "long": "REPLACE_MEJackson,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010603898196427153], ["weekly", 0.00915868855532409], ["biweekly", 0.012869364804703258], ["triweekly", 0.011249709096386763]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.65126434721505], ["weekly", 12.19245299352154], ["biweekly", 16.185481348899845], ["triweekly", 13.770698297682937]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1389.0252072869416], ["weekly", 1325.7463762505647], ["biweekly", 1274.6904793401934], ["triweekly", 1226.2220918984472]],
+      "Daily Growth Rate": [["daily", 0.8512396694214877], ["weekly", 1.1997795111182188], ["biweekly", 0.87511632068326], ["triweekly", 0.6400227271173373]],
+      "Confirmed Cumulative Cases": [["daily", 9765.0], ["weekly", 9320.142857142857], ["biweekly", 8961.214285714286], ["triweekly", 8620.47619047619]],
+      "Confirmed Daily Cases": [["daily", 103.0], ["weekly", 85.71428571428571], ["biweekly", 113.78571428571429], ["triweekly", 96.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.012493599590373784], ["weekly", 0.012479840631709921], ["biweekly", 0.012976701999216347], ["triweekly", 0.013099066536596265]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013424295774647887], ["weekly", 0.013532288006289231], ["biweekly", 0.014062522789649489], ["triweekly", 0.014054623816652321]]
+    },
+    "lat": "REPLACE_MEJackson,Missouri"
+  }, {
+    "locale": "Jackson,Missouri",
+    "long": "REPLACE_MEJackson,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00917437627604123], ["weekly", 0.010264243192835159], ["biweekly", 0.011447322073349373], ["triweekly", 0.011754656629549961]],
+      "Confirmed Daily Cases per 100k": [["daily", 12.802075643197618], ["weekly", 13.757151127690136], ["biweekly", 14.691905857193458], ["triweekly", 14.468377552312225]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1401.827282930139], ["weekly", 1339.5035273782548], ["biweekly", 1289.3823851973866], ["triweekly", 1240.6904694507593]],
+      "Daily Growth Rate": [["daily", 0.8737864077669902], ["weekly", 1.277687699186835], ["biweekly", 0.7499072494514617], ["triweekly", 0.6805579494707414]],
+      "Confirmed Cumulative Cases": [["daily", 9855.0], ["weekly", 9416.857142857143], ["biweekly", 9064.5], ["triweekly", 8722.190476190477]],
+      "Confirmed Daily Cases": [["daily", 90.0], ["weekly", 96.71428571428571], ["biweekly", 103.28571428571429], ["triweekly", 101.71428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.012480974124809741], ["weekly", 0.012441199929328711], ["biweekly", 0.0128731031376801], ["triweekly", 0.013051089651870448]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.013407455853499018], ["weekly", 0.013458046880970184], ["biweekly", 0.013935319752973538], ["triweekly", 0.014037281363899212]]
     },
     "lat": "REPLACE_MEJackson,Missouri"
   }]

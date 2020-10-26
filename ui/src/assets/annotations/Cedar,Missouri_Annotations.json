@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MECedar,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.022021525689608294], ["biweekly", 0.02215392345027421], ["triweekly", 0.026253189767653673]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 29.867686150353933], ["biweekly", 27.876507073663667], ["triweekly", 29.53582297090555]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1463.5166213673426], ["weekly", 1427.6753979869177], ["biweekly", 1312.1870115388829], ["triweekly", 1197.030488270296]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.9158163265306122], ["biweekly", 0.7715506238892923], ["triweekly", 1.0247806426631703]],
-      "Confirmed Cumulative Cases": [["daily", 210.0], ["weekly", 204.85714285714286], ["biweekly", 188.28571428571428], ["triweekly", 171.76190476190476]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 4.285714285714286], ["biweekly", 4.0], ["triweekly", 4.238095238095238]],
-      "Confirmed Fatality Rate": [["daily", 0.009523809523809525], ["weekly", 0.01049829564610875], ["biweekly", 0.008846405266465662], ["triweekly", 0.005897603510977108]],
+      "Spread Rate": [["daily", 0.009478743954543845], ["weekly", 0.022021525689608294], ["biweekly", 0.02215392345027421], ["triweekly", 0.026253189767653673]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.938253536831834], ["weekly", 29.867686150353933], ["biweekly", 27.876507073663667], ["triweekly", 29.53582297090555]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1477.4548749041744], ["weekly", 1427.6753979869177], ["biweekly", 1312.1870115388829], ["triweekly", 1197.030488270296]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.9158163265306122], ["biweekly", 0.7715506238892923], ["triweekly", 1.0247806426631703]],
+      "Confirmed Cumulative Cases": [["daily", 212.0], ["weekly", 204.85714285714286], ["biweekly", 188.28571428571428], ["triweekly", 171.76190476190476]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 4.285714285714286], ["biweekly", 4.0], ["triweekly", 4.238095238095238]],
+      "Confirmed Fatality Rate": [["daily", 0.009433962264150943], ["weekly", 0.01049829564610875], ["biweekly", 0.008846405266465662], ["triweekly", 0.005897603510977108]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01020408163265306], ["weekly", 0.012619699971970344], ["biweekly", 0.010676075057035217], ["triweekly", 0.007117383371356811]]
+    },
+    "lat": "REPLACE_MECedar,Missouri"
+  }, {
+    "locale": "Cedar,Missouri",
+    "long": "REPLACE_MECedar,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.018692133012153], ["weekly", 0.0112102307773565], ["biweekly", 0.022830976589884484], ["triweekly", 0.030812193969508496]],
+      "Confirmed Daily Cases per 100k": [["daily", 27.876507073663667], ["weekly", 15.929432613522097], ["biweekly", 28.872096612008797], ["triweekly", 33.51818112428606]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1505.3313819778382], ["weekly", 1443.60483060044], ["biweekly", 1341.0591081508915], ["triweekly", 1230.548669394582]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 1.058673469387755], ["biweekly", 0.8429791953178637], ["triweekly", 1.072399690282218]],
+      "Confirmed Cumulative Cases": [["daily", 216.0], ["weekly", 207.14285714285714], ["biweekly", 192.42857142857142], ["triweekly", 176.57142857142858]],
+      "Confirmed Daily Cases": [["daily", 4.0], ["weekly", 2.2857142857142856], ["biweekly", 4.142857142857143], ["triweekly", 4.809523809523809]],
+      "Confirmed Fatality Rate": [["daily", 0.009259259259259259], ["weekly", 0.009659415619704655], ["biweekly", 0.009520259713905016], ["triweekly", 0.00634683980927001]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010101010101010102], ["weekly", 0.011294494565132285], ["biweekly", 0.01140493803079615], ["triweekly", 0.007603292020530767]]
+    },
+    "lat": "REPLACE_MECedar,Missouri"
+  }, {
+    "locale": "Cedar,Missouri",
+    "long": "REPLACE_MECedar,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00461894585629441], ["weekly", 0.012430196712804304], ["biweekly", 0.021883871818852412], ["triweekly", 0.024178283677551576]],
+      "Confirmed Daily Cases per 100k": [["daily", 6.969126768415917], ["weekly", 17.920611690212358], ["biweekly", 28.374301842836235], ["triweekly", 28.540233432560417]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1512.300508746254], ["weekly", 1461.5254422906523], ["biweekly", 1369.4334099937275], ["triweekly", 1259.0889028271424]],
+      "Daily Growth Rate": [["daily", 0.25], ["weekly", 1.3265306122448979], ["biweekly", 0.8936224489795919], ["triweekly", 1.1041044129316955]],
+      "Confirmed Cumulative Cases": [["daily", 217.0], ["weekly", 209.71428571428572], ["biweekly", 196.5], ["triweekly", 180.66666666666666]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 2.5714285714285716], ["biweekly", 4.071428571428571], ["triweekly", 4.095238095238095]],
+      "Confirmed Fatality Rate": [["daily", 0.009216589861751152], ["weekly", 0.009539165499454534], ["biweekly", 0.010181635375280678], ["triweekly", 0.006787756916853785]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.00975609756097561], ["weekly", 0.010940550814962119], ["biweekly", 0.012126438752296872], ["triweekly", 0.008084292501531249]]
+    },
+    "lat": "REPLACE_MECedar,Missouri"
+  }, {
+    "locale": "Cedar,Missouri",
+    "long": "REPLACE_MECedar,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.00917437627604123], ["weekly", 0.00812676777172161], ["biweekly", 0.01785704561552759], ["triweekly", 0.023671210997813767]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.938253536831834], ["weekly", 11.94707446014157], ["biweekly", 23.89414892028314], ["triweekly", 28.208370253112033]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1526.2387622830859], ["weekly", 1473.4725167507938], ["biweekly", 1393.3275589140108], ["triweekly", 1287.2972730802546]],
+      "Daily Growth Rate": [["daily", 2.0], ["weekly", 0.8622448979591837], ["biweekly", 0.7686224489795919], ["triweekly", 1.1109966435081364]],
+      "Confirmed Cumulative Cases": [["daily", 219.0], ["weekly", 211.42857142857142], ["biweekly", 199.92857142857142], ["triweekly", 184.71428571428572]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 1.7142857142857142], ["biweekly", 3.4285714285714284], ["triweekly", 4.0476190476190474]],
+      "Confirmed Fatality Rate": [["daily", 0.0182648401826484], ["weekly", 0.009462092970993898], ["biweekly", 0.0104173089537405], ["triweekly", 0.007226642148365744]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01932367149758454], ["weekly", 0.010643661962726174], ["biweekly", 0.01228217732266959], ["triweekly", 0.00854886857586342]]
+    },
+    "lat": "REPLACE_MECedar,Missouri"
+  }, {
+    "locale": "Cedar,Missouri",
+    "long": "REPLACE_MECedar,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.040273899137940106], ["weekly", 0.008050419507304594], ["biweekly", 0.014008205637592181], ["triweekly", 0.020296528550314]],
+      "Confirmed Daily Cases per 100k": [["daily", 62.72214091574325], ["weekly", 11.94707446014157], ["biweekly", 19.41399599773006], ["triweekly", 25.221601638076645]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1588.960903198829], ["weekly", 1485.4195912109356], ["biweekly", 1412.741554911741], ["triweekly", 1312.5188747183313]],
+      "Daily Growth Rate": [["daily", 4.5], ["weekly", 1.1071428571428572], ["biweekly", 0.832908163265306], ["triweekly", 0.94432997684147]],
+      "Confirmed Cumulative Cases": [["daily", 228.0], ["weekly", 213.14285714285714], ["biweekly", 202.71428571428572], ["triweekly", 188.33333333333334]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 1.7142857142857142], ["biweekly", 2.7857142857142856], ["triweekly", 3.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.017543859649122806], ["weekly", 0.010691093604401918], ["biweekly", 0.010928289601707452], ["triweekly", 0.008096396442777574]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019230769230769232], ["weekly", 0.01181688487507952], ["biweekly", 0.01266343857349606], ["triweekly", 0.009469043409081732]]
     },
     "lat": "REPLACE_MECedar,Missouri"
   }]

@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MESaline,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.007033884492220009], ["biweekly", 0.007216057229740296], ["triweekly", 0.009834412860865213]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 26.988520464202555], ["biweekly", 26.988520464202544], ["triweekly", 34.938627267611054]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3932.164667633232], ["weekly", 3863.1242664457372], ["biweekly", 3778.392864988357], ["triweekly", 3658.5136229264344]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.7712224283652854], ["biweekly", 0.9254921665635952], ["triweekly", 1.1709590233399756]],
-      "Confirmed Cumulative Cases": [["daily", 895.0], ["weekly", 879.2857142857143], ["biweekly", 860.0], ["triweekly", 832.7142857142857]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 6.142857142857143], ["biweekly", 6.142857142857143], ["triweekly", 7.9523809523809526]],
-      "Confirmed Fatality Rate": [["daily", 0.01005586592178771], ["weekly", 0.010238244282965095], ["biweekly", 0.01047325447350045], ["triweekly", 0.010841933008408165]],
-      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.010501750291715286], ["weekly", 0.010708264664035808], ["biweekly", 0.0111437773711297], ["triweekly", 0.011623762039127421]]
+      "Spread Rate": [["daily", 0.015521375902623369], ["weekly", 0.007033884492220009], ["biweekly", 0.007216057229740296], ["triweekly", 0.009834412860865213]],
+      "Confirmed Daily Cases per 100k": [["daily", 61.50872105795], ["weekly", 26.988520464202555], ["biweekly", 26.988520464202544], ["triweekly", 34.938627267611054]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3993.673388691182], ["weekly", 3863.1242664457372], ["biweekly", 3778.392864988357], ["triweekly", 3658.5136229264344]],
+      "Daily Growth Rate": [["daily", 1.8708286933869707], ["weekly", 0.7712224283652854], ["biweekly", 0.9254921665635952], ["triweekly", 1.1709590233399756]],
+      "Confirmed Cumulative Cases": [["daily", 909.0], ["weekly", 879.2857142857143], ["biweekly", 860.0], ["triweekly", 832.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 6.142857142857143], ["biweekly", 6.142857142857143], ["triweekly", 7.9523809523809526]],
+      "Confirmed Fatality Rate": [["daily", 0.011001100110011002], ["weekly", 0.010238244282965095], ["biweekly", 0.01047325447350045], ["triweekly", 0.010841933008408165]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011668611435239206], ["weekly", 0.010708264664035808], ["biweekly", 0.0111437773711297], ["triweekly", 0.011623762039127421]]
+    },
+    "lat": "REPLACE_MESaline,Missouri"
+  }, {
+    "locale": "Saline,Missouri",
+    "long": "REPLACE_MESaline,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.007671270496651061], ["weekly", 0.008415310797099831], ["biweekly", 0.00788462344106706], ["triweekly", 0.010053094068981054]],
+      "Confirmed Daily Cases per 100k": [["daily", 30.754360528975], ["weekly", 32.63728056136123], ["biweekly", 29.812900512781887], ["triweekly", 36.19390728920187]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4024.4277492201572], ["weekly", 3895.7615470070987], ["biweekly", 3808.2057655011386], ["triweekly", 3694.7075302156363]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.0384836702777098], ["biweekly", 1.0144799303769503], ["triweekly", 1.1648080087393553]],
+      "Confirmed Cumulative Cases": [["daily", 916.0], ["weekly", 886.7142857142857], ["biweekly", 866.7857142857143], ["triweekly", 840.952380952381]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 7.428571428571429], ["biweekly", 6.785714285714286], ["triweekly", 8.238095238095237]],
+      "Confirmed Fatality Rate": [["daily", 0.010917030567685589], ["weekly", 0.010309579971293056], ["biweekly", 0.010469296548750447], ["triweekly", 0.010783496781762724]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011574074074074073], ["weekly", 0.010795707575282686], ["biweekly", 0.011103802411534983], ["triweekly", 0.01156098101285248]]
+    },
+    "lat": "REPLACE_MESaline,Missouri"
+  }, {
+    "locale": "Saline,Missouri",
+    "long": "REPLACE_MESaline,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.010857869972049627], ["weekly", 0.008349085124296376], ["biweekly", 0.0071283006813453375], ["triweekly", 0.009457652995714069]],
+      "Confirmed Daily Cases per 100k": [["daily", 43.93480075567857], ["weekly", 32.63728056136123], ["biweekly", 27.30234046960025], ["triweekly", 34.52020059374744]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4068.362549975836], ["weekly", 3928.3988275684596], ["biweekly", 3835.5081059707395], ["triweekly", 3729.227730809383]],
+      "Daily Growth Rate": [["daily", 1.4285714285714286], ["weekly", 0.9099122417062814], ["biweekly", 0.8359085018055216], ["triweekly", 1.099331818263165]],
+      "Confirmed Cumulative Cases": [["daily", 926.0], ["weekly", 894.1428571428571], ["biweekly", 873.0], ["triweekly", 848.8095238095239]],
+      "Confirmed Daily Cases": [["daily", 10.0], ["weekly", 7.428571428571429], ["biweekly", 6.214285714285714], ["triweekly", 7.857142857142857]],
+      "Confirmed Fatality Rate": [["daily", 0.01079913606911447], ["weekly", 0.010381060528581471], ["biweekly", 0.010473623477977688], ["triweekly", 0.010732687699036954]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011454753722794959], ["weekly", 0.010898224791792666], ["biweekly", 0.011074520466474077], ["triweekly", 0.011503361163565965]]
+    },
+    "lat": "REPLACE_MESaline,Missouri"
+  }, {
+    "locale": "Saline,Missouri",
+    "long": "REPLACE_MESaline,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008602203582663392], ["weekly", 0.008419811258082508], ["biweekly", 0.007474345163388042], ["triweekly", 0.009282270426644423]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.14784060454286], ["weekly", 33.26492057215663], ["biweekly", 28.871440496588775], ["triweekly", 34.31098725681564]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4103.510390580379], ["weekly", 3961.6637481406165], ["biweekly", 3864.379546467328], ["triweekly", 3763.538718066199]],
+      "Daily Growth Rate": [["daily", 0.8], ["weekly", 0.9303204049715875], ["biweekly", 0.9141397943225283], ["triweekly", 1.1324383942268836]],
+      "Confirmed Cumulative Cases": [["daily", 934.0], ["weekly", 901.7142857142857], ["biweekly", 879.5714285714286], ["triweekly", 856.6190476190476]],
+      "Confirmed Daily Cases": [["daily", 8.0], ["weekly", 7.571428571428571], ["biweekly", 6.571428571428571], ["triweekly", 7.809523809523809]],
+      "Confirmed Fatality Rate": [["daily", 0.010706638115631691], ["weekly", 0.010451040202667043], ["biweekly", 0.010474178418166237], ["triweekly", 0.010684502577468728]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.011363636363636364], ["weekly", 0.010992994336981258], ["biweekly", 0.011049072616527487], ["triweekly", 0.01144605287188471]]
+    },
+    "lat": "REPLACE_MESaline,Missouri"
+  }, {
+    "locale": "Saline,Missouri",
+    "long": "REPLACE_MESaline,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005339040979420062], ["weekly", 0.00850779010808443], ["biweekly", 0.006563565099966251], ["triweekly", 0.008033815113474715]],
+      "Confirmed Daily Cases per 100k": [["daily", 21.967400377839287], ["weekly", 33.89256058295204], ["biweekly", 25.733240442611734], ["triweekly", 30.33593385511139]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4125.477790958218], ["weekly", 3995.5563087235682], ["biweekly", 3890.1127869099396], ["triweekly", 3793.87465192131]],
+      "Daily Growth Rate": [["daily", 0.625], ["weekly", 0.9334950081461907], ["biweekly", 0.7141397943225284], ["triweekly", 1.053650515439005]],
+      "Confirmed Cumulative Cases": [["daily", 939.0], ["weekly", 909.4285714285714], ["biweekly", 885.4285714285714], ["triweekly", 863.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 7.714285714285714], ["biweekly", 5.857142857142857], ["triweekly", 6.904761904761905]],
+      "Confirmed Fatality Rate": [["daily", 0.010649627263045794], ["weekly", 0.01051952097243261], ["biweekly", 0.010484411120590632], ["triweekly", 0.010651159435048149]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01122334455667789], ["weekly", 0.011107316634402148], ["biweekly", 0.011045986349182663], ["triweekly", 0.011390282272938621]]
     },
     "lat": "REPLACE_MESaline,Missouri"
   }]

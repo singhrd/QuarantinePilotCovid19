@@ -4099,14 +4099,74 @@
     "long": "REPLACE_MEHenry,Missouri",
     "date": "10/21/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.025302532702703977], ["biweekly", 0.022436809251424057], ["triweekly", 0.024787354185378654]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 36.65689149560118], ["biweekly", 30.438311688311693], ["triweekly", 30.547409579667644]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 1580.8284457478007], ["weekly", 1519.951822371177], ["biweekly", 1396.5621072475913], ["triweekly", 1293.9009914816368]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 0.5408597250702514], ["biweekly", 0.7525727196779828], ["triweekly", 0.8715287106601546]],
-      "Confirmed Cumulative Cases": [["daily", 345.0], ["weekly", 331.7142857142857], ["biweekly", 304.7857142857143], ["triweekly", 282.3809523809524]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 8.0], ["biweekly", 6.642857142857143], ["triweekly", 6.666666666666667]],
-      "Confirmed Fatality Rate": [["daily", 0.014492753623188406], ["weekly", 0.015097782352264024], ["biweekly", 0.016570408835873386], ["triweekly", 0.018079154104182076]],
+      "Spread Rate": [["daily", 0.005780362915499104], ["weekly", 0.025302532702703977], ["biweekly", 0.022436809251424057], ["triweekly", 0.024787354185378654]],
+      "Confirmed Daily Cases per 100k": [["daily", 9.164222873900293], ["weekly", 36.65689149560118], ["biweekly", 30.438311688311693], ["triweekly", 30.547409579667644]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1589.992668621701], ["weekly", 1519.951822371177], ["biweekly", 1396.5621072475913], ["triweekly", 1293.9009914816368]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 0.5408597250702514], ["biweekly", 0.7525727196779828], ["triweekly", 0.8715287106601546]],
+      "Confirmed Cumulative Cases": [["daily", 347.0], ["weekly", 331.7142857142857], ["biweekly", 304.7857142857143], ["triweekly", 282.3809523809524]],
+      "Confirmed Daily Cases": [["daily", 2.0], ["weekly", 8.0], ["biweekly", 6.642857142857143], ["triweekly", 6.666666666666667]],
+      "Confirmed Fatality Rate": [["daily", 0.01440922190201729], ["weekly", 0.015097782352264024], ["biweekly", 0.016570408835873386], ["triweekly", 0.018079154104182076]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.016233766233766232], ["weekly", 0.01804303531948274], ["biweekly", 0.019569839980141095], ["triweekly", 0.021635276411216146]]
+    },
+    "lat": "REPLACE_MEHenry,Missouri"
+  }, {
+    "locale": "Henry,Missouri",
+    "long": "REPLACE_MEHenry,Missouri",
+    "date": "10/22/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01430639565123748], ["weekly", 0.017032142424755037], ["biweekly", 0.02313370291536256], ["triweekly", 0.022134748436084307]],
+      "Confirmed Daily Cases per 100k": [["daily", 22.910557184750733], ["weekly", 25.528906577293675], ["biweekly", 31.4201927105153], ["triweekly", 28.147255969836618]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1612.9032258064517], ["weekly", 1545.4807289484706], ["biweekly", 1427.9822999581065], ["triweekly", 1322.0482474514733]],
+      "Daily Growth Rate": [["daily", 2.5], ["weekly", 0.6837168679273943], ["biweekly", 0.8240012911065542], ["triweekly", 0.797742531765088]],
+      "Confirmed Cumulative Cases": [["daily", 352.0], ["weekly", 337.2857142857143], ["biweekly", 311.64285714285717], ["triweekly", 288.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 5.571428571428571], ["biweekly", 6.857142857142857], ["triweekly", 6.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.014204545454545454], ["weekly", 0.014837133162014177], ["biweekly", 0.016176759062796076], ["triweekly", 0.017673127536825102]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01567398119122257], ["weekly", 0.017516384963577974], ["biweekly", 0.01909112472423056], ["triweekly", 0.02107069920137409]]
+    },
+    "lat": "REPLACE_MEHenry,Missouri"
+  }, {
+    "locale": "Henry,Missouri",
+    "long": "REPLACE_MEHenry,Missouri",
+    "date": "10/23/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.030771658666753687], ["weekly", 0.014062867544750344], ["biweekly", 0.019741608371274793], ["triweekly", 0.02109981792027669]],
+      "Confirmed Daily Cases per 100k": [["daily", 50.403225806451616], ["weekly", 21.60138248847926], ["biweekly", 27.819962295768754], ["triweekly", 27.492668621700876]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1663.3064516129034], ["weekly", 1567.08211143695], ["biweekly", 1455.8022622538751], ["triweekly", 1349.5409160731742]],
+      "Daily Growth Rate": [["daily", 2.2], ["weekly", 0.9581529581529582], ["biweekly", 0.8597155768208401], ["triweekly", 0.8874861215086779]],
+      "Confirmed Cumulative Cases": [["daily", 363.0], ["weekly", 342.0], ["biweekly", 317.7142857142857], ["triweekly", 294.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 11.0], ["weekly", 4.714285714285714], ["biweekly", 6.071428571428571], ["triweekly", 6.0]],
+      "Confirmed Fatality Rate": [["daily", 0.01652892561983471], ["weekly", 0.014627213771060304], ["biweekly", 0.015853755755242206], ["triweekly", 0.01729601571059823]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.018292682926829267], ["weekly", 0.01708029773942411], ["biweekly", 0.018630416680367193], ["triweekly", 0.020523083398885724]]
+    },
+    "lat": "REPLACE_MEHenry,Missouri"
+  }, {
+    "locale": "Henry,Missouri",
+    "long": "REPLACE_MEHenry,Missouri",
+    "date": "10/24/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01910017137341935], ["weekly", 0.014484175125815188], ["biweekly", 0.020877429527510673], ["triweekly", 0.021112589557102397]],
+      "Confirmed Daily Cases per 100k": [["daily", 32.07478005865103], ["weekly", 22.910557184750733], ["biweekly", 30.111018014243825], ["triweekly", 28.365451752548523]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1695.3812316715544], ["weekly", 1589.9926686217007], ["biweekly", 1485.9132802681186], ["triweekly", 1377.9063678257226]],
+      "Daily Growth Rate": [["daily", 0.6363636363636364], ["weekly", 1.1555555555555554], ["biweekly", 0.9990012911065543], ["triweekly", 0.9505813596039159]],
+      "Confirmed Cumulative Cases": [["daily", 370.0], ["weekly", 347.0], ["biweekly", 324.2857142857143], ["triweekly", 300.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 5.0], ["biweekly", 6.571428571428571], ["triweekly", 6.190476190476191]],
+      "Confirmed Fatality Rate": [["daily", 0.016216216216216217], ["weekly", 0.014810788511176065], ["biweekly", 0.015716522977955758], ["triweekly", 0.017061239432123163]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017964071856287425], ["weekly", 0.017057797514421862], ["biweekly", 0.01840423492743992], ["triweekly", 0.02014759161105835]]
+    },
+    "lat": "REPLACE_MEHenry,Missouri"
+  }, {
+    "locale": "Henry,Missouri",
+    "long": "REPLACE_MEHenry,Missouri",
+    "date": "10/25/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.008075414005546122], ["weekly", 0.014623144665938424], ["biweekly", 0.017648308394702678], ["triweekly", 0.020414574864172145]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.74633431085044], ["weekly", 23.565144532886467], ["biweekly", 26.51078759949728], ["triweekly", 28.14725596983662]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 1709.1275659824048], ["weekly", 1613.5578131545874], ["biweekly", 1512.4240678676163], ["triweekly", 1406.0536237955591]],
+      "Daily Growth Rate": [["daily", 0.42857142857142855], ["weekly", 1.1512265512265514], ["biweekly", 0.7230272651325284], ["triweekly", 0.9264626211994631]],
+      "Confirmed Cumulative Cases": [["daily", 373.0], ["weekly", 352.14285714285717], ["biweekly", 330.07142857142856], ["triweekly", 306.85714285714283]],
+      "Confirmed Daily Cases": [["daily", 3.0], ["weekly", 5.142857142857143], ["biweekly", 5.785714285714286], ["triweekly", 6.142857142857143]],
+      "Confirmed Fatality Rate": [["daily", 0.01876675603217158], ["weekly", 0.014988810844887021], ["biweekly", 0.01563903570323665], ["triweekly", 0.016845493158285603]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02040816326530612], ["weekly", 0.01715251662785096], ["biweekly", 0.018205462348117235], ["triweekly", 0.01978825198128001]]
     },
     "lat": "REPLACE_MEHenry,Missouri"
   }]
