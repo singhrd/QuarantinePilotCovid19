@@ -4234,14 +4234,59 @@
     "long": "REPLACE_MEHarris,Texas",
     "date": "10/30/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.0], ["weekly", 0.003814834233724085], ["biweekly", 0.003644099847801563], ["triweekly", 0.0034379771560698338]],
-      "Confirmed Daily Cases per 100k": [["daily", 0.0], ["weekly", 12.857165589048074], ["biweekly", 12.134291003242327], ["triweekly", 11.328571251767722]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3415.508160375107], ["weekly", 3379.2765343846586], ["biweekly", 3333.3474776299113], ["triweekly", 3294.0723021080303]],
-      "Daily Growth Rate": [["daily", 0.0], ["weekly", 1.1422001175156855], ["biweekly", 1.160324447430226], ["triweekly", 1.1343959486585684]],
-      "Confirmed Cumulative Cases": [["daily", 160984.0], ["weekly", 159276.2857142857], ["biweekly", 157111.5], ["triweekly", 155260.33333333334]],
-      "Confirmed Daily Cases": [["daily", 0.0], ["weekly", 606.0], ["biweekly", 571.9285714285714], ["triweekly", 533.952380952381]],
-      "Confirmed Fatality Rate": [["daily", 0.017430303632659145], ["weekly", 0.017468687453265287], ["biweekly", 0.017555973763832104], ["triweekly", 0.017611569458777898]],
+      "Spread Rate": [["daily", 0.0038996072319132935], ["weekly", 0.003814834233724085], ["biweekly", 0.003644099847801563], ["triweekly", 0.0034379771560698338]],
+      "Confirmed Daily Cases per 100k": [["daily", 13.34514382097564], ["weekly", 12.857165589048074], ["biweekly", 12.134291003242327], ["triweekly", 11.328571251767722]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3428.8533041960827], ["weekly", 3379.2765343846586], ["biweekly", 3333.3474776299113], ["triweekly", 3294.0723021080303]],
+      "Daily Growth Rate": [["daily", 1.3915929203539823], ["weekly", 1.1422001175156855], ["biweekly", 1.160324447430226], ["triweekly", 1.1343959486585684]],
+      "Confirmed Cumulative Cases": [["daily", 161613.0], ["weekly", 159276.2857142857], ["biweekly", 157111.5], ["triweekly", 155260.33333333334]],
+      "Confirmed Daily Cases": [["daily", 629.0], ["weekly", 606.0], ["biweekly", 571.9285714285714], ["triweekly", 533.952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.01736246465321478], ["weekly", 0.017468687453265287], ["biweekly", 0.017555973763832104], ["triweekly", 0.017611569458777898]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017828097997356917], ["weekly", 0.01795674590844667], ["biweekly", 0.01799720182985828], ["triweekly", 0.018039030545835284]]
+    },
+    "lat": "REPLACE_MEHarris,Texas"
+  }, {
+    "locale": "Harris,Texas",
+    "long": "REPLACE_MEHarris,Texas",
+    "date": "10/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.004278854017954359], ["weekly", 0.0037807256607967432], ["biweekly", 0.0036458276850785004], ["triweekly", 0.003495078513522524]],
+      "Confirmed Daily Cases per 100k": [["daily", 14.70299629242626], ["weekly", 12.793516254448823], ["biweekly", 12.187332115408367], ["triweekly", 11.554879997009492]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3443.556300488509], ["weekly", 3392.0700506391076], ["biweekly", 3345.53480974532], ["triweekly", 3305.62718210504]],
+      "Daily Growth Rate": [["daily", 1.1017488076311606], ["weekly", 1.2096594415589803], ["biweekly", 1.1398692201915879], ["triweekly", 1.149506537388321]],
+      "Confirmed Cumulative Cases": [["daily", 162306.0], ["weekly", 159879.2857142857], ["biweekly", 157685.92857142858], ["triweekly", 155804.95238095237]],
+      "Confirmed Daily Cases": [["daily", 693.0], ["weekly", 603.0], ["biweekly", 574.4285714285714], ["triweekly", 544.6190476190476]],
+      "Confirmed Fatality Rate": [["daily", 0.017306815521299274], ["weekly", 0.01744482804191272], ["biweekly", 0.017531960236007765], ["triweekly", 0.017592361992922335]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017735937213898306], ["weekly", 0.017937098260641233], ["biweekly", 0.017977868535614512], ["triweekly", 0.01801919087678088]]
+    },
+    "lat": "REPLACE_MEHarris,Texas"
+  }, {
+    "locale": "Harris,Texas",
+    "long": "REPLACE_MEHarris,Texas",
+    "date": "11/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.003082007773135942], ["weekly", 0.003498935368589632], ["biweekly", 0.0037730778923948144], ["triweekly", 0.0035563571041382688]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.629438878074396], ["weekly", 11.902425570059354], ["biweekly", 12.655609362817119], ["triweekly", 11.800384573320876]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3454.185739366583], ["weekly", 3403.9724762091673], ["biweekly", 3358.1904191081376], ["triweekly", 3317.427566678361]],
+      "Daily Growth Rate": [["daily", 0.7229437229437229], ["weekly", 1.150129051440355], ["biweekly", 1.1723895174177676], ["triweekly", 1.149060713413085]],
+      "Confirmed Cumulative Cases": [["daily", 162807.0], ["weekly", 160440.2857142857], ["biweekly", 158282.42857142858], ["triweekly", 156361.14285714287]],
+      "Confirmed Daily Cases": [["daily", 501.0], ["weekly", 561.0], ["biweekly", 596.5], ["triweekly", 556.1904761904761]],
+      "Confirmed Fatality Rate": [["daily", 0.017265842377784738], ["weekly", 0.017414192789446763], ["biweekly", 0.017503413296773036], ["triweekly", 0.017570819008409833]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017706194333513902], ["weekly", 0.017895839649605276], ["biweekly", 0.01795202082519298], ["triweekly", 0.017998975324031257]]
+    },
+    "lat": "REPLACE_MEHarris,Texas"
+  }, {
+    "locale": "Harris,Texas",
+    "long": "REPLACE_MEHarris,Texas",
+    "date": "11/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.002943938537175228], ["weekly", 0.003597774283314489], ["biweekly", 0.0038023261435697264], ["triweekly", 0.003534283629567473]],
+      "Confirmed Daily Cases per 100k": [["daily", 10.183893535879662], ["weekly", 12.272197894874031], ["biweekly", 12.790485333753622], ["triweekly", 11.76603413877525]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3464.369632902463], ["weekly", 3416.244674104041], ["biweekly", 3370.9809044418907], ["triweekly", 3329.1936008171365]],
+      "Daily Growth Rate": [["daily", 0.9580838323353293], ["weekly", 1.198550741199431], ["biweekly", 1.147391450008986], ["triweekly", 1.1268728483680772]],
+      "Confirmed Cumulative Cases": [["daily", 163287.0], ["weekly", 161018.7142857143], ["biweekly", 158885.2857142857], ["triweekly", 156915.7142857143]],
+      "Confirmed Daily Cases": [["daily", 480.0], ["weekly", 578.4285714285714], ["biweekly", 602.8571428571429], ["triweekly", 554.5714285714286]],
+      "Confirmed Fatality Rate": [["daily", 0.01723346010398868], ["weekly", 0.017376480947894884], ["biweekly", 0.017474389833362323], ["triweekly", 0.017548112849214807]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.017667888894469838], ["weekly", 0.017849801035395112], ["biweekly", 0.017927678776293508], ["triweekly", 0.017978072135611794]]
     },
     "lat": "REPLACE_MEHarris,Texas"
   }]

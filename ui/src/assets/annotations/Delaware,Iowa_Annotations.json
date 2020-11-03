@@ -4234,14 +4234,59 @@
     "long": "REPLACE_MEDelaware,Iowa",
     "date": "10/30/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.015541257211212134], ["weekly", 0.017949312404190287], ["biweekly", 0.019241196168101254], ["triweekly", 0.019769067325839402]],
-      "Confirmed Daily Cases per 100k": [["daily", 76.42113926282993], ["weekly", 82.29968843689376], ["biweekly", 82.29968843689377], ["triweekly", 78.94051748028585]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 4955.616953735817], ["weekly", 4629.777370944851], ["biweekly", 4331.650948545898], ["triweekly", 4038.8432134949085]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 2.2296897546897547], ["biweekly", 1.7219861549085345], ["triweekly", 1.5750422295215385]],
-      "Confirmed Cumulative Cases": [["daily", 843.0], ["weekly", 787.5714285714286], ["biweekly", 736.8571428571429], ["triweekly", 687.047619047619]],
-      "Confirmed Daily Cases": [["daily", 13.0], ["weekly", 14.0], ["biweekly", 14.0], ["triweekly", 13.428571428571429]],
-      "Confirmed Fatality Rate": [["daily", 0.0166073546856465], ["weekly", 0.015964556365981528], ["biweekly", 0.014310458196894532], ["triweekly", 0.013419219035240914]],
+      "Spread Rate": [["daily", 0.016726793805314166], ["weekly", 0.017949312404190287], ["biweekly", 0.019241196168101254], ["triweekly", 0.019769067325839402]],
+      "Confirmed Daily Cases per 100k": [["daily", 82.29968843689377], ["weekly", 82.29968843689376], ["biweekly", 82.29968843689377], ["triweekly", 78.94051748028585]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 4961.495502909882], ["weekly", 4629.777370944851], ["biweekly", 4331.650948545898], ["triweekly", 4038.8432134949085]],
+      "Daily Growth Rate": [["daily", 1.0769230769230769], ["weekly", 2.2296897546897547], ["biweekly", 1.7219861549085345], ["triweekly", 1.5750422295215385]],
+      "Confirmed Cumulative Cases": [["daily", 844.0], ["weekly", 787.5714285714286], ["biweekly", 736.8571428571429], ["triweekly", 687.047619047619]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 14.0], ["biweekly", 14.0], ["triweekly", 13.428571428571429]],
+      "Confirmed Fatality Rate": [["daily", 0.016587677725118485], ["weekly", 0.015964556365981528], ["biweekly", 0.014310458196894532], ["triweekly", 0.013419219035240914]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01881720430107527], ["weekly", 0.018325869529559034], ["biweekly", 0.01655292853919519], ["triweekly", 0.015482895354866123]]
+    },
+    "lat": "REPLACE_MEDelaware,Iowa"
+  }, {
+    "locale": "Delaware,Iowa",
+    "long": "REPLACE_MEDelaware,Iowa",
+    "date": "10/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.029190630669434725], ["weekly", 0.018015922823266552], ["biweekly", 0.0183268118085376], ["triweekly", 0.02004703846898445]],
+      "Confirmed Daily Cases per 100k": [["daily", 146.96372935159602], ["weekly", 83.97927391519772], ["biweekly", 80.20020658901383], ["triweekly", 81.17996478469114]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5108.459232261477], ["weekly", 4713.756644860049], ["biweekly", 4411.851155134913], ["triweekly", 4120.0231782796]],
+      "Daily Growth Rate": [["daily", 1.7857142857142858], ["weekly", 2.3056138306138307], ["biweekly", 1.7190772990585022], ["triweekly", 1.6059161175382837]],
+      "Confirmed Cumulative Cases": [["daily", 869.0], ["weekly", 801.8571428571429], ["biweekly", 750.5], ["triweekly", 700.8571428571429]],
+      "Confirmed Daily Cases": [["daily", 25.0], ["weekly", 14.285714285714286], ["biweekly", 13.642857142857142], ["triweekly", 13.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.01611047180667434], ["weekly", 0.016030077146989237], ["biweekly", 0.01462021028117613], ["triweekly", 0.013693378693115734]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.01837270341207349], ["weekly", 0.01838879545574634], ["biweekly", 0.016865555045486542], ["triweekly", 0.015786184474913374]]
+    },
+    "lat": "REPLACE_MEDelaware,Iowa"
+  }, {
+    "locale": "Delaware,Iowa",
+    "long": "REPLACE_MEDelaware,Iowa",
+    "date": "11/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.015982075338567547], ["weekly", 0.018770938511249367], ["biweekly", 0.0187896394091962], ["triweekly", 0.020754346446271492]],
+      "Confirmed Daily Cases per 100k": [["daily", 82.29968843689377], ["weekly", 89.85782308926157], ["biweekly", 84.3991702847737], ["triweekly", 85.93879030655232]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5190.758920698371], ["weekly", 4803.614467949309], ["biweekly", 4496.250325419686], ["triweekly", 4205.961968586153]],
+      "Daily Growth Rate": [["daily", 0.56], ["weekly", 2.346430157144443], ["biweekly", 1.7902373420230564], ["triweekly", 1.6274580676516623]],
+      "Confirmed Cumulative Cases": [["daily", 883.0], ["weekly", 817.1428571428571], ["biweekly", 764.8571428571429], ["triweekly", 715.4761904761905]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 15.285714285714286], ["biweekly", 14.357142857142858], ["triweekly", 14.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.01698754246885617], ["weekly", 0.01608185433421943], ["biweekly", 0.014915526274210611], ["triweekly", 0.013952155608498802]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.019280205655526992], ["weekly", 0.018447171392287205], ["biweekly", 0.01716111418600323], ["triweekly", 0.016088501394717236]]
+    },
+    "lat": "REPLACE_MEDelaware,Iowa"
+  }, {
+    "locale": "Delaware,Iowa",
+    "long": "REPLACE_MEDelaware,Iowa",
+    "date": "11/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.01573066145483626], ["weekly", 0.018085525203652635], ["biweekly", 0.01950477572005787], ["triweekly", 0.020592356375677134]],
+      "Confirmed Daily Cases per 100k": [["daily", 82.29968843689377], ["weekly", 88.17823761095761], ["biweekly", 88.59813398053359], ["triweekly", 86.77858304570431]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5273.058609135265], ["weekly", 4891.792705560268], ["biweekly", 4584.848459400219], ["triweekly", 4292.740551631857]],
+      "Daily Growth Rate": [["daily", 1.0], ["weekly", 2.2994460301603157], ["biweekly", 1.811189722975437], ["triweekly", 1.5886485438421385]],
+      "Confirmed Cumulative Cases": [["daily", 897.0], ["weekly", 832.1428571428571], ["biweekly", 779.9285714285714], ["triweekly", 730.2380952380952]],
+      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 15.0], ["biweekly", 15.071428571428571], ["triweekly", 14.761904761904763]],
+      "Confirmed Fatality Rate": [["daily", 0.017837235228539576], ["weekly", 0.01630519404056723], ["biweekly", 0.015278582028788772], ["triweekly", 0.014262457431373776]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.020512820512820513], ["weekly", 0.018650466077770652], ["biweekly", 0.017541014191066427], ["triweekly", 0.016436318430495114]]
     },
     "lat": "REPLACE_MEDelaware,Iowa"
   }]

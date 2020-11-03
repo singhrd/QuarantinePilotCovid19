@@ -4234,14 +4234,59 @@
     "long": "REPLACE_MEAudubon,Iowa",
     "date": "10/30/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.12808178785695823], ["weekly", 0.019965991767879894], ["biweekly", 0.018651628527101862], ["triweekly", 0.017281213985208047]],
-      "Confirmed Daily Cases per 100k": [["daily", 400.29112081513824], ["weekly", 54.58515283842795], ["biweekly", 48.08692035766271], ["triweekly", 42.45511887433284]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 3329.6943231441046], ["weekly", 2708.4632979829485], ["biweekly", 2556.404657933042], ["triweekly", 2420.808206834408]],
-      "Daily Growth Rate": [["daily", 4.4], ["weekly", 1.5857142857142856], ["biweekly", 1.438095238095238], ["triweekly", 1.3634920634920635]],
-      "Confirmed Cumulative Cases": [["daily", 183.0], ["weekly", 148.85714285714286], ["biweekly", 140.5], ["triweekly", 133.04761904761904]],
-      "Confirmed Daily Cases": [["daily", 22.0], ["weekly", 3.0], ["biweekly", 2.642857142857143], ["triweekly", 2.3333333333333335]],
-      "Confirmed Fatality Rate": [["daily", 0.00546448087431694], ["weekly", 0.006734398812557485], ["biweekly", 0.007156538123911993], ["triweekly", 0.007595191066991752]],
+      "Spread Rate": [["daily", 0.13353139262452274], ["weekly", 0.019965991767879894], ["biweekly", 0.018651628527101862], ["triweekly", 0.017281213985208047]],
+      "Confirmed Daily Cases per 100k": [["daily", 418.4861717612809], ["weekly", 54.58515283842795], ["biweekly", 48.08692035766271], ["triweekly", 42.45511887433284]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3347.889374090247], ["weekly", 2708.4632979829485], ["biweekly", 2556.404657933042], ["triweekly", 2420.808206834408]],
+      "Daily Growth Rate": [["daily", 4.6], ["weekly", 1.5857142857142856], ["biweekly", 1.438095238095238], ["triweekly", 1.3634920634920635]],
+      "Confirmed Cumulative Cases": [["daily", 184.0], ["weekly", 148.85714285714286], ["biweekly", 140.5], ["triweekly", 133.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 23.0], ["weekly", 3.0], ["biweekly", 2.642857142857143], ["triweekly", 2.3333333333333335]],
+      "Confirmed Fatality Rate": [["daily", 0.005434782608695652], ["weekly", 0.006734398812557485], ["biweekly", 0.007156538123911993], ["triweekly", 0.007595191066991752]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0070921985815602835], ["weekly", 0.0075786774352665], ["biweekly", 0.008025587194208884], ["triweekly", 0.008476613588557367]]
+    },
+    "lat": "REPLACE_MEAudubon,Iowa"
+  }, {
+    "locale": "Audubon,Iowa",
+    "long": "REPLACE_MEAudubon,Iowa",
+    "date": "10/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.03733767043764402], ["weekly", 0.03802512389011677], ["biweekly", 0.026482047939313906], ["triweekly", 0.02321656851888786]],
+      "Confirmed Daily Cases per 100k": [["daily", 127.36535662299853], ["weekly", 111.76959866916198], ["biweekly", 74.07985028072365], ["triweekly", 61.51660081791085]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3475.254730713246], ["weekly", 2820.23289665211], ["biweekly", 2630.4845082137663], ["triweekly", 2482.3248076523187]],
+      "Daily Growth Rate": [["daily", 0.30434782608695654], ["weekly", 2.1], ["biweekly", 1.6595238095238096], ["triweekly", 1.5666666666666667]],
+      "Confirmed Cumulative Cases": [["daily", 191.0], ["weekly", 155.0], ["biweekly", 144.57142857142858], ["triweekly", 136.42857142857142]],
+      "Confirmed Daily Cases": [["daily", 7.0], ["weekly", 6.142857142857143], ["biweekly", 4.071428571428571], ["triweekly", 3.380952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.005235602094240838], ["weekly", 0.006497625102148253], ["biweekly", 0.006982307185388004], ["triweekly", 0.007432582737780883]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.0070921985815602835], ["weekly", 0.007466989268627754], ["biweekly", 0.007900061555597198], ["triweekly", 0.008352016479866062]]
+    },
+    "lat": "REPLACE_MEAudubon,Iowa"
+  }, {
+    "locale": "Audubon,Iowa",
+    "long": "REPLACE_MEAudubon,Iowa",
+    "date": "11/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.005221943981151611], ["weekly", 0.043359076809780205], ["biweekly", 0.028588797437643785], ["triweekly", 0.024159109508732367]],
+      "Confirmed Daily Cases per 100k": [["daily", 18.195050946142647], ["weekly", 129.96464961530464], ["biweekly", 81.87772925764192], ["triweekly", 65.84875580508768]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3493.4497816593885], ["weekly", 2950.197546267415], ["biweekly", 2712.3622374714078], ["triweekly", 2548.173563457406]],
+      "Daily Growth Rate": [["daily", 0.14285714285714285], ["weekly", 2.143478260869565], ["biweekly", 1.6574534161490682], ["triweekly", 1.4859213250517598]],
+      "Confirmed Cumulative Cases": [["daily", 192.0], ["weekly", 162.14285714285714], ["biweekly", 149.07142857142858], ["triweekly", 140.04761904761904]],
+      "Confirmed Daily Cases": [["daily", 1.0], ["weekly", 7.142857142857143], ["biweekly", 4.5], ["triweekly", 3.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.005208333333333333], ["weekly", 0.006232397032531188], ["biweekly", 0.006798243049262348], ["triweekly", 0.007267818448272683]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.007042253521126761], ["weekly", 0.007364089065993508], ["biweekly", 0.007785529156143429], ["triweekly", 0.008231864763969667]]
+    },
+    "lat": "REPLACE_MEAudubon,Iowa"
+  }, {
+    "locale": "Audubon,Iowa",
+    "long": "REPLACE_MEAudubon,Iowa",
+    "date": "11/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.030771658666753687], ["weekly", 0.04309547348950295], ["biweekly", 0.028961793436297473], ["triweekly", 0.02399548480578176]],
+      "Confirmed Daily Cases per 100k": [["daily", 109.17030567685589], ["weekly", 129.96464961530464], ["biweekly", 83.17737575379496], ["triweekly", 65.84875580508768]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 3602.6200873362445], ["weekly", 3080.1621958827195], ["biweekly", 2795.5396132252026], ["triweekly", 2614.022319262494]],
+      "Daily Growth Rate": [["daily", 6.0], ["weekly", 2.021029281277728], ["biweekly", 1.6676574977817213], ["triweekly", 1.4689145223306714]],
+      "Confirmed Cumulative Cases": [["daily", 198.0], ["weekly", 169.28571428571428], ["biweekly", 153.64285714285714], ["triweekly", 143.66666666666666]],
+      "Confirmed Daily Cases": [["daily", 6.0], ["weekly", 7.142857142857143], ["biweekly", 4.571428571428571], ["triweekly", 3.619047619047619]],
+      "Confirmed Fatality Rate": [["daily", 0.005050505050505051], ["weekly", 0.005970408434274986], ["biweekly", 0.006612231144500443], ["triweekly", 0.00710532529008987]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.006756756756756757], ["weekly", 0.007254053854725903], ["biweekly", 0.007672783717997311], ["triweekly", 0.008109334711862147]]
     },
     "lat": "REPLACE_MEAudubon,Iowa"
   }]

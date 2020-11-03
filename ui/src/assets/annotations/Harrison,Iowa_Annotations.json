@@ -4234,14 +4234,59 @@
     "long": "REPLACE_MEHarrison,Iowa",
     "date": "10/30/2020",
     "metrics": {
-      "Spread Rate": [["daily", 0.019858808649603432], ["weekly", 0.016238940567845615], ["biweekly", 0.019937344218293646], ["triweekly", 0.030096049531187496]],
-      "Confirmed Daily Cases per 100k": [["daily", 99.6512207274539], ["weekly", 76.26368933223513], ["biweekly", 86.4321812431998], ["triweekly", 110.83656182951506]],
-      "Confirmed Cumulative Cases per 100k": [["daily", 5067.976368424799], ["weekly", 4729.3655877896745], ["biweekly", 4415.667612336414], ["triweekly", 4056.211423283813]],
-      "Daily Growth Rate": [["daily", 1.0], ["weekly", 1.1210884353741497], ["biweekly", 1.251257472686044], ["triweekly", 1.706588685160114]],
-      "Confirmed Cumulative Cases": [["daily", 712.0], ["weekly", 664.4285714285714], ["biweekly", 620.3571428571429], ["triweekly", 569.8571428571429]],
-      "Confirmed Daily Cases": [["daily", 14.0], ["weekly", 10.714285714285714], ["biweekly", 12.142857142857142], ["triweekly", 15.571428571428571]],
-      "Confirmed Fatality Rate": [["daily", 0.023876404494382022], ["weekly", 0.020145511209076008], ["biweekly", 0.01701009196673037], ["triweekly", 0.015288553398440144]],
+      "Spread Rate": [["daily", 0.02266385957721173], ["weekly", 0.016238940567845615], ["biweekly", 0.019937344218293646], ["triweekly", 0.030096049531187496]],
+      "Confirmed Daily Cases per 100k": [["daily", 113.88710940280447], ["weekly", 76.26368933223513], ["biweekly", 86.4321812431998], ["triweekly", 110.83656182951506]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5082.212257100149], ["weekly", 4729.3655877896745], ["biweekly", 4415.667612336414], ["triweekly", 4056.211423283813]],
+      "Daily Growth Rate": [["daily", 1.1428571428571428], ["weekly", 1.1210884353741497], ["biweekly", 1.251257472686044], ["triweekly", 1.706588685160114]],
+      "Confirmed Cumulative Cases": [["daily", 714.0], ["weekly", 664.4285714285714], ["biweekly", 620.3571428571429], ["triweekly", 569.8571428571429]],
+      "Confirmed Daily Cases": [["daily", 16.0], ["weekly", 10.714285714285714], ["biweekly", 12.142857142857142], ["triweekly", 15.571428571428571]],
+      "Confirmed Fatality Rate": [["daily", 0.023809523809523808], ["weekly", 0.020145511209076008], ["biweekly", 0.01701009196673037], ["triweekly", 0.015288553398440144]],
       "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02664576802507837], ["weekly", 0.02320042215225624], ["biweekly", 0.0201455918529885], ["triweekly", 0.01898941981284002]]
+    },
+    "lat": "REPLACE_MEHarrison,Iowa"
+  }, {
+    "locale": "Harrison,Iowa",
+    "long": "REPLACE_MEHarrison,Iowa",
+    "date": "10/31/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.024897551621727132], ["weekly", 0.016077811284970624], ["biweekly", 0.01968692577856698], ["triweekly", 0.02459255314620063]],
+      "Confirmed Daily Cases per 100k": [["daily", 128.12299807815504], ["weekly", 77.28053852333161], ["biweekly", 87.4490304342963], ["triweekly", 97.61752234526098]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5210.335255178305], ["weekly", 4806.646126313006], ["biweekly", 4503.116642770709], ["triweekly", 4153.828945629073]],
+      "Daily Growth Rate": [["daily", 1.125], ["weekly", 1.2129251700680272], ["biweekly", 1.2773345701917127], ["triweekly", 1.2372009300580729]],
+      "Confirmed Cumulative Cases": [["daily", 732.0], ["weekly", 675.2857142857143], ["biweekly", 632.6428571428571], ["triweekly", 583.5714285714286]],
+      "Confirmed Daily Cases": [["daily", 18.0], ["weekly", 10.857142857142858], ["biweekly", 12.285714285714286], ["triweekly", 13.714285714285714]],
+      "Confirmed Fatality Rate": [["daily", 0.023224043715846996], ["weekly", 0.021083817566101577], ["biweekly", 0.017788263013746964], ["triweekly", 0.015863431236899473]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02631578947368421], ["weekly", 0.024107645734120366], ["biweekly", 0.020875152077449166], ["triweekly", 0.019461960765141093]]
+    },
+    "lat": "REPLACE_MEHarrison,Iowa"
+  }, {
+    "locale": "Harrison,Iowa",
+    "long": "REPLACE_MEHarrison,Iowa",
+    "date": "11/01/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.012220111334775297], ["weekly", 0.01785443002552992], ["biweekly", 0.020288978914885458], ["triweekly", 0.02478259442250605]],
+      "Confirmed Daily Cases per 100k": [["daily", 64.06149903907752], ["weekly", 87.44903043429629], ["biweekly", 92.0248517942304], ["triweekly", 100.66806991855037]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5274.396754217382], ["weekly", 4894.095156747303], ["biweekly", 4595.14149456494], ["triweekly", 4254.497015547624]],
+      "Daily Growth Rate": [["daily", 0.5], ["weekly", 1.2974489795918367], ["biweekly", 1.311773345701917], ["triweekly", 1.2829801508372938]],
+      "Confirmed Cumulative Cases": [["daily", 741.0], ["weekly", 687.5714285714286], ["biweekly", 645.5714285714286], ["triweekly", 597.7142857142857]],
+      "Confirmed Daily Cases": [["daily", 9.0], ["weekly", 12.285714285714286], ["biweekly", 12.928571428571429], ["triweekly", 14.142857142857142]],
+      "Confirmed Fatality Rate": [["daily", 0.022941970310391364], ["weekly", 0.021968986128781176], ["biweekly", 0.01841004783192582], ["triweekly", 0.01642199270557965]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.026033690658499236], ["weekly", 0.025015086750454302], ["biweekly", 0.02144122242573367], ["triweekly", 0.019947044442075363]]
+    },
+    "lat": "REPLACE_MEHarrison,Iowa"
+  }, {
+    "locale": "Harrison,Iowa",
+    "long": "REPLACE_MEHarrison,Iowa",
+    "date": "11/02/2020",
+    "metrics": {
+      "Spread Rate": [["daily", 0.006724974907673875], ["weekly", 0.01806049943137936], ["biweekly", 0.019749912528742555], ["triweekly", 0.023644442180638475]],
+      "Confirmed Daily Cases per 100k": [["daily", 35.58972168837639], ["weekly", 89.48272881648923], ["biweekly", 91.00800260313393], ["triweekly", 98.29542180599195]],
+      "Confirmed Cumulative Cases per 100k": [["daily", 5309.986475905758], ["weekly", 4983.577885563793], ["biweekly", 4686.149497168074], ["triweekly", 4352.792437353615]],
+      "Daily Growth Rate": [["daily", 0.5555555555555556], ["weekly", 1.243877551020408], ["biweekly", 1.2601860441146155], ["triweekly", 1.2221335899907328]],
+      "Confirmed Cumulative Cases": [["daily", 746.0], ["weekly", 700.1428571428571], ["biweekly", 658.3571428571429], ["triweekly", 611.5238095238095]],
+      "Confirmed Daily Cases": [["daily", 5.0], ["weekly", 12.571428571428571], ["biweekly", 12.785714285714286], ["triweekly", 13.80952380952381]],
+      "Confirmed Fatality Rate": [["daily", 0.024128686327077747], ["weekly", 0.02283993485174892], ["biweekly", 0.019031983179465212], ["triweekly", 0.016986540125069307]],
+      "Time Adjusted Confirmed Fatality Rate": [["daily", 0.02735562310030395], ["weekly", 0.02593804916786065], ["biweekly", 0.02203374610121405], ["triweekly", 0.020442696378194375]]
     },
     "lat": "REPLACE_MEHarrison,Iowa"
   }]
